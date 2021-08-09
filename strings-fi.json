@@ -1,0 +1,4302 @@
+{
+	"Cluster spawn": 
+	{
+		"translation": "Klusterin kutua",
+		"machine": true
+	},
+	"Damage": 
+	{
+		"translation": "Vahingoittaa",
+		"machine": true
+	},
+	"Overkill": 
+	{
+		"translation": "Ylilyönti",
+		"machine": true
+	},
+	"Direct": 
+	{
+		"translation": "Suoraan",
+		"machine": true
+	},
+	"Disruptor assist": 
+	{
+		"translation": "Häiriöavustaja",
+		"machine": true
+	},
+	"Headshot": 
+	{
+		"translation": "Pääosuma",
+		"machine": true
+	},
+	"Kill": 
+	{
+		"translation": "Tappaa",
+		"machine": true
+	},
+	"Kill streak": 
+	{
+		"translation": "Tappoputki",
+		"machine": true
+	},
+	"VIP kill": 
+	{
+		"translation": "VIP tappaa",
+		"machine": true
+	},
+	"VIP defend": 
+	{
+		"translation": "VIP puolustaa",
+		"machine": true
+	},
+	"Scanner destroyed": 
+	{
+		"translation": "Skanneri tuhoutui",
+		"machine": true
+	},
+	"Scanner assist": 
+	{
+		"translation": "Skannerin apu",
+		"machine": true
+	},
+	"C4 destroyed": 
+	{
+		"translation": "C4 tuhoutui",
+		"machine": true
+	},
+	"Disruptor destroyed": 
+	{
+		"translation": "Hävittäjä tuhoutui",
+		"machine": true
+	},
+	"Avenger": 
+	{
+		"translation": "Kostaja",
+		"machine": true
+	},
+	"Saviour": 
+	{
+		"translation": "Pelastaja",
+		"machine": true
+	},
+	"Flag capture": 
+	{
+		"translation": "Lipun kaappaus",
+		"machine": true
+	},
+	"Flag carry": 
+	{
+		"translation": "Lipun kanto",
+		"machine": true
+	},
+	"Flag return": 
+	{
+		"translation": "Lipun palautus",
+		"machine": true
+	},
+	"Flag attack": 
+	{
+		"translation": "Lippuhyökkäys",
+		"machine": true
+	},
+	"Flag defend": 
+	{
+		"translation": "Lippu puolustaa",
+		"machine": true
+	},
+	"Escort": 
+	{
+		"translation": "Saattaja",
+		"machine": true
+	},
+	"Flag carrier kill": 
+	{
+		"translation": "Lippukantaja tappaa",
+		"machine": true
+	},
+	"Bomb deliver": 
+	{
+		"translation": "Pommi toimittaa",
+		"machine": true
+	},
+	"Bomb carry": 
+	{
+		"translation": "Pommin kanto",
+		"machine": true
+	},
+	"Bomb defuse": 
+	{
+		"translation": "Pommin purkaminen",
+		"machine": true
+	},
+	"Bomb attack": 
+	{
+		"translation": "Pommi -isku",
+		"machine": true
+	},
+	"Bomb defend": 
+	{
+		"translation": "Pommi puolustaa",
+		"machine": true
+	},
+	"Spot assist": 
+	{
+		"translation": "Pisteavustus",
+		"machine": true
+	},
+	"Attacking": 
+	{
+		"translation": "Hyökkää",
+		"machine": true
+	},
+	"Defending": 
+	{
+		"translation": "Puolustaminen",
+		"machine": true
+	},
+	"Contesting": 
+	{
+		"translation": "Kilpailu",
+		"machine": true
+	},
+	"Canister capture": 
+	{
+		"translation": "Säiliön sieppaus",
+		"machine": true
+	},
+	"Zone capture": 
+	{
+		"translation": "Vyöhykkeen kaappaus",
+		"machine": true
+	},
+	"Beacon capture": 
+	{
+		"translation": "Majakkien sieppaus",
+		"machine": true
+	},
+	"Beacon destroyed": 
+	{
+		"translation": "Majakka tuhoutui",
+		"machine": true
+	},
+	"Salvage": 
+	{
+		"translation": "Pelastaa",
+		"machine": true
+	},
+	"Round win": 
+	{
+		"translation": "Pyöreä voitto",
+		"machine": true
+	},
+	"Round survive": 
+	{
+		"translation": "Pyöreä hengissä",
+		"machine": true
+	},
+	"Assist": 
+	{
+		"translation": "Avustaa",
+		"machine": true
+	},
+	"Assist counts as kill": 
+	{
+		"translation": "Avustus lasketaan tappoksi",
+		"machine": true
+	},
+	"Fortifying": 
+	{
+		"translation": "Vahvistava",
+		"machine": true
+	},
+	"Most Valuable Player": 
+	{
+		"translation": "Arvokkain pelaaja",
+		"machine": true
+	},
+	"Annihilator": 
+	{
+		"translation": "Tuhoaja",
+		"machine": true
+	},
+	"Marksman": 
+	{
+		"translation": "Marksman",
+		"machine": true
+	},
+	"Creator": 
+	{
+		"translation": "Luoja",
+		"machine": true
+	},
+	"Destroyer": 
+	{
+		"translation": "Hävittäjä",
+		"machine": true
+	},
+	"Attacker": 
+	{
+		"translation": "Hyökkääjä",
+		"machine": true
+	},
+	"Defender": 
+	{
+		"translation": "Puolustaja",
+		"machine": true
+	},
+	"Impaler": 
+	{
+		"translation": "Impaler",
+		"machine": true
+	},
+	"Resilient": 
+	{
+		"translation": "Kestävä",
+		"machine": true
+	},
+	"Assistance": 
+	{
+		"translation": "Apua",
+		"machine": true
+	},
+	"Impacter": 
+	{
+		"translation": "Iskulaite",
+		"machine": true
+	},
+	"Infiltrator": 
+	{
+		"translation": "Soluttautuja",
+		"machine": true
+	},
+	"Team placement": 
+	{
+		"translation": "Joukkueen sijoitus",
+		"machine": true
+	},
+	"Connecting": 
+	{
+		"translation": "Yhdistetään",
+		"machine": true
+	},
+	"Loading Map": 
+	{
+		"translation": "Ladataan karttaa",
+		"machine": true
+	},
+	"None": 
+	{
+		"translation": "Ei mitään",
+		"machine": true
+	},
+	"Playing": 
+	{
+		"translation": "Toistetaan",
+		"machine": true
+	},
+	"Reserved (party)": 
+	{
+		"translation": "Varattu (juhla)",
+		"machine": true
+	},
+	"Selecting a team": 
+	{
+		"translation": "Joukkueen valitseminen",
+		"machine": true
+	},
+	"Spectating": 
+	{
+		"translation": "Odottaa",
+		"machine": true
+	},
+	"Left": 
+	{
+		"translation": "Vasen",
+		"machine": true
+	},
+	"Breakthrough": 
+	{
+		"translation": "Läpimurto",
+		"machine": true
+	},
+	"Control Shift": 
+	{
+		"translation": "Ohjausvipu",
+		"machine": true
+	},
+	"Capture the Flag": 
+	{
+		"translation": "Lipunryöstö",
+		"machine": true
+	},
+	"Gun Game": 
+	{
+		"translation": "Ase peli",
+		"machine": true
+	},
+	"Head Hunter": 
+	{
+		"translation": "Päämetsästäjä",
+		"machine": true
+	},
+	"Spire": 
+	{
+		"translation": "Torni",
+		"machine": true
+	},
+	"Static": 
+	{
+		"translation": "Staattinen",
+		"machine": true
+	},
+	"All": 
+	{
+		"translation": "Kaikki",
+		"machine": true
+	},
+	"Kicked by a moderator": 
+	{
+		"translation": "Moderaattorin potku",
+		"machine": true
+	},
+	"Already in game": 
+	{
+		"translation": "Jo pelissä",
+		"machine": true
+	},
+	"Authentication failed": 
+	{
+		"translation": "Todennus epäonnistui",
+		"machine": true
+	},
+	"Banned": 
+	{
+		"translation": "Kielletty",
+		"machine": true
+	},
+	"Disconnected": 
+	{
+		"translation": "Yhteys katkaistu",
+		"machine": true
+	},
+	"EAC Violation": 
+	{
+		"translation": "EAC -rikkomus",
+		"machine": true
+	},
+	"Kicked for inactivity": 
+	{
+		"translation": "Potkittiin passiivisuudesta",
+		"machine": true
+	},
+	"Internal error": 
+	{
+		"translation": "Sisäinen virhe",
+		"machine": true
+	},
+	"Map is restoring. Try again in 10 seconds": 
+	{
+		"translation": "Kartta palautuu. yritä uudelleen 10 sekunnin kuluttua",
+		"machine": true
+	},
+	"Network Error": 
+	{
+		"translation": "Verkkovirhe",
+		"machine": true
+	},
+	"No Error": 
+	{
+		"translation": "Ei virhettä",
+		"machine": true
+	},
+	"Reconnecting": 
+	{
+		"translation": "Yhdistetään uudelleen",
+		"machine": true
+	},
+	"Server is restarting": 
+	{
+		"translation": "Palvelin käynnistyy uudelleen",
+		"machine": true
+	},
+	"Temporarily Banned": 
+	{
+		"translation": "Väliaikaisesti kielletty",
+		"machine": true
+	},
+	"Version mismatch": 
+	{
+		"translation": "Versio ei täsmää",
+		"machine": true
+	},
+	"Votekicked": 
+	{
+		"translation": "Votekicked",
+		"machine": true
+	},
+	"Votekick still in effect": 
+	{
+		"translation": "Votekick on edelleen voimassa",
+		"machine": true
+	},
+	"Incorrect password": 
+	{
+		"translation": "Väärä salasana",
+		"machine": true
+	},
+	"Your level is too high": 
+	{
+		"translation": "Tasosi on liian korkea",
+		"machine": true
+	},
+	"Can only claim 3 lobbies per day": 
+	{
+		"translation": "Voi vaatia vain 3 aulaa päivässä",
+		"machine": true
+	},
+	"Lobby already claimed": 
+	{
+		"translation": "Aula on jo väittänyt",
+		"machine": true
+	},
+	"Min level must be lower than your own": 
+	{
+		"translation": "Minimitason on oltava alhaisempi kuin omasi",
+		"machine": true
+	},
+	"Max level must be greater than your own": 
+	{
+		"translation": "Suurimman tason on oltava suurempi kuin oma",
+		"machine": true
+	},
+	"Min level can't be greater than max level": 
+	{
+		"translation": "Minimitaso ei voi olla enimmäistasoa suurempi",
+		"machine": true
+	},
+	"You are too powerful": 
+	{
+		"translation": "Olet liian voimakas",
+		"machine": true
+	},
+	"Your level is too low": 
+	{
+		"translation": "Tasosi on liian alhainen",
+		"machine": true
+	},
+	"Cannot claim. Lobby has players": 
+	{
+		"translation": "Ei voi vaatia. aulassa on pelaajia",
+		"machine": true
+	},
+	"Reserved slot expired": 
+	{
+		"translation": "Varattu paikka vanhentunut",
+		"machine": true
+	},
+	"Min level must be less than max level": 
+	{
+		"translation": "Minimitason on oltava pienempi kuin enimmäistaso",
+		"machine": true
+	},
+	"Bot Replacement": 
+	{
+		"translation": "Botin vaihto",
+		"machine": true
+	},
+	"Accelerator": 
+	{
+		"translation": "Kiihdytin",
+		"machine": true
+	},
+	"Beam splitter": 
+	{
+		"translation": "Säteenjakaja",
+		"machine": true
+	},
+	"Choke": 
+	{
+		"translation": "Tukehtua",
+		"machine": true
+	},
+	"Compressor": 
+	{
+		"translation": "Kompressori",
+		"machine": true
+	},
+	"Default": 
+	{
+		"translation": "Oletus",
+		"machine": true
+	},
+	"Extended": 
+	{
+		"translation": "Laajennettu",
+		"machine": true
+	},
+	"Extendedest": 
+	{
+		"translation": "Extendedest",
+		"machine": true
+	},
+	"Resonator": 
+	{
+		"translation": "Resonaattori",
+		"machine": true
+	},
+	"Silencer": 
+	{
+		"translation": "Äänenvaimennin",
+		"machine": true
+	},
+	"Medium": 
+	{
+		"translation": "Keskikokoinen",
+		"machine": true
+	},
+	"Short": 
+	{
+		"translation": "Lyhyt",
+		"machine": true
+	},
+	"Angled": 
+	{
+		"translation": "Kulmikas",
+		"machine": true
+	},
+	"Removed": 
+	{
+		"translation": "Poistettu",
+		"machine": true
+	},
+	"Stubby": 
+	{
+		"translation": "Stubby",
+		"machine": true
+	},
+	"Augmented": 
+	{
+		"translation": "Lisätty",
+		"machine": true
+	},
+	"Buckshot": 
+	{
+		"translation": "Buckshot",
+		"machine": true
+	},
+	"Burst": 
+	{
+		"translation": "Räjähtää",
+		"machine": true
+	},
+	"Lethal": 
+	{
+		"translation": "Tappava",
+		"machine": true
+	},
+	"Heavy": 
+	{
+		"translation": "Raskas",
+		"machine": true
+	},
+	"Light": 
+	{
+		"translation": "Valo",
+		"machine": true
+	},
+	"Piercing": 
+	{
+		"translation": "Lävistys",
+		"machine": true
+	},
+	"Ricochet": 
+	{
+		"translation": "Kimmota",
+		"machine": true
+	},
+	"Slug": 
+	{
+		"translation": "Etana",
+		"machine": true
+	},
+	"Tow": 
+	{
+		"translation": "Hinaus",
+		"machine": true
+	},
+	"Corrosive": 
+	{
+		"translation": "Syövyttävä",
+		"machine": true
+	},
+	"Explosive": 
+	{
+		"translation": "Räjähtävä",
+		"machine": true
+	},
+	"Incendiary": 
+	{
+		"translation": "Sytyttävä",
+		"machine": true
+	},
+	"Base": 
+	{
+		"translation": "Pohja",
+		"machine": true
+	},
+	"Tactical": 
+	{
+		"translation": "Taktinen",
+		"machine": true
+	},
+	"Mechanical": 
+	{
+		"translation": "Mekaaninen",
+		"machine": true
+	},
+	"Advanced": 
+	{
+		"translation": "Pitkälle kehittynyt",
+		"machine": true
+	},
+	"Welded": 
+	{
+		"translation": "Hitsattu",
+		"machine": true
+	},
+	"Pneumatic": 
+	{
+		"translation": "Pneumaattinen",
+		"machine": true
+	},
+	"Single": 
+	{
+		"translation": "Yksittäinen",
+		"machine": true
+	},
+	"Automatic": 
+	{
+		"translation": "Automaattinen",
+		"machine": true
+	},
+	"Sniper": 
+	{
+		"translation": "Sniper",
+		"machine": true
+	},
+	"Rifle": 
+	{
+		"translation": "Kivääri",
+		"machine": true
+	},
+	"SMG": 
+	{
+		"translation": "SMG",
+		"machine": true
+	},
+	"Shotgun": 
+	{
+		"translation": "Haulikko",
+		"machine": true
+	},
+	"Pistol": 
+	{
+		"translation": "Pistooli",
+		"machine": true
+	},
+	"Equipment": 
+	{
+		"translation": "Laitteet",
+		"machine": true
+	},
+	"Other": 
+	{
+		"translation": "Muut",
+		"machine": true
+	},
+	"Ironsights": 
+	{
+		"translation": "Ironsights",
+		"machine": true
+	},
+	"Broken Circle": 
+	{
+		"translation": "Rikkoutunut ympyrä",
+		"machine": true
+	},
+	"Broken Square": 
+	{
+		"translation": "Rikki neliö",
+		"machine": true
+	},
+	"Chevron": 
+	{
+		"translation": "Chevron",
+		"machine": true
+	},
+	"Circle Cross": 
+	{
+		"translation": "Ympyrä risti",
+		"machine": true
+	},
+	"Dot Cross": 
+	{
+		"translation": "Piste risti",
+		"machine": true
+	},
+	"Dotted Cross": 
+	{
+		"translation": "Pisteviiva",
+		"machine": true
+	},
+	"Pointed Cross": 
+	{
+		"translation": "Terävä risti",
+		"machine": true
+	},
+	"Sparse Dotted Cross": 
+	{
+		"translation": "Harva katkoviiva",
+		"machine": true
+	},
+	"Unbroken Cross": 
+	{
+		"translation": "Murtumaton risti",
+		"machine": true
+	},
+	"2px Dot": 
+	{
+		"translation": "2px piste",
+		"machine": true
+	},
+	"4px Dot": 
+	{
+		"translation": "4px piste",
+		"machine": true
+	},
+	"6px Dot": 
+	{
+		"translation": "6px piste",
+		"machine": true
+	},
+	"8px Dot": 
+	{
+		"translation": "8px piste",
+		"machine": true
+	},
+	"Flat Dot": 
+	{
+		"translation": "Tasainen piste",
+		"machine": true
+	},
+	"Dot Plus": 
+	{
+		"translation": "Piste plus",
+		"machine": true
+	},
+	"Dot Plus Circle": 
+	{
+		"translation": "Piste plus ympyrä",
+		"machine": true
+	},
+	"Dot T": 
+	{
+		"translation": "Piste T.",
+		"machine": true
+	},
+	"Empty Plus": 
+	{
+		"translation": "Tyhjä plussa",
+		"machine": true
+	},
+	"Empty T": 
+	{
+		"translation": "Tyhjä T.",
+		"machine": true
+	},
+	"T Point": 
+	{
+		"translation": "T kohta",
+		"machine": true
+	},
+	"T Point Round": 
+	{
+		"translation": "T -pisteen kierros",
+		"machine": true
+	},
+	"Camoflague": 
+	{
+		"translation": "Camoflague",
+		"machine": true
+	},
+	"Metallic": 
+	{
+		"translation": "Metallinen",
+		"machine": true
+	},
+	"Animated": 
+	{
+		"translation": "Animoitu",
+		"machine": true
+	},
+	"Digital": 
+	{
+		"translation": "Digitaalinen",
+		"machine": true
+	},
+	"Tiger": 
+	{
+		"translation": "Tiikeri",
+		"machine": true
+	},
+	"Poly": 
+	{
+		"translation": "Poly",
+		"machine": true
+	},
+	"Snakeskin": 
+	{
+		"translation": "Käärmeennahka",
+		"machine": true
+	},
+	"Woodland": 
+	{
+		"translation": "Woodland",
+		"machine": true
+	},
+	"Hot Metal": 
+	{
+		"translation": "Kuuma metalli",
+		"machine": true
+	},
+	"Cold Metal": 
+	{
+		"translation": "Kylmää metallia",
+		"machine": true
+	},
+	"Pearl": 
+	{
+		"translation": "Helmi",
+		"machine": true
+	},
+	"Tracer": 
+	{
+		"translation": "Tracer",
+		"machine": true
+	},
+	"Fluid": 
+	{
+		"translation": "Neste",
+		"machine": true
+	},
+	"Ember": 
+	{
+		"translation": "Ember",
+		"machine": true
+	},
+	"Grid": 
+	{
+		"translation": "Ruudukko",
+		"machine": true
+	},
+	"This mid-long ranged weapon is balanced for most conflicts.": 
+	{
+		"translation": "Tämä keskipitkän kantaman ase on tasapainossa useimpiin konflikteihin.",
+		"machine": true
+	},
+	"Mecharii technology that can be charged multiple times to produce a more powerful beam.": 
+	{
+		"translation": "Mecharii -tekniikka, joka voidaan ladata useita kertoja tehokkaamman säteen tuottamiseksi.",
+		"machine": true
+	},
+	"Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.": 
+	{
+		"translation": "Heitä vasemmalla napsautuksella ja räjäytä oikealla napsautuksella. Respawnissa c4 on irrotettu sinusta ja ne on ammuttava räjähtämään.",
+		"machine": true
+	},
+	"This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.": 
+	{
+		"translation": "Tämä keskipitkän kantaman haulikko pakkaa lyönnin pidemmillä etäisyyksillä.\nRajauksen aikana sen pelletin leviäminen pienenee 70% 3,0 sekunnissa.",
+		"machine": true
+	},
+	"A testament to Aegis' advanced technology.": 
+	{
+		"translation": "Todistus Agiisin edistyneestä tekniikasta.",
+		"machine": true
+	},
+	"Slower Midi digging that removes a 3x3x3 chunk of blocks.": 
+	{
+		"translation": "Hitaampi midi -kaivaminen, joka poistaa 3x3x3 lohkojen palan.",
+		"machine": true
+	},
+	"Place on a block surface to electrify passing enemies. Single use only.": 
+	{
+		"translation": "Aseta lohkopinnalle sähköistämään ohi menevät viholliset. vain kertakäyttöinen.",
+		"machine": true
+	},
+	"Allows one extra modification to be equipped.": 
+	{
+		"translation": "Mahdollistaa yhden lisämuutoksen varustamisen.",
+		"machine": true
+	},
+	"This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.": 
+	{
+		"translation": "Tämä keskitason ase laukaisee epävakaita soltriumytimiä, jotka pomppivat ennen räjähdystä.",
+		"machine": true
+	},
+	"This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.": 
+	{
+		"translation": "Tässä kranaatissa on epävakaa soltriumydin ja se räjähtää 3 sekunnin kuluttua. kaikilla pelaajilla on kaksi kranaattia, mutta tämän mahdollistaminen saa kranaatit tarttumaan seiniin.",
+		"machine": true
+	},
+	"Agaman technology that cuts through blocks instantly.": 
+	{
+		"translation": "Agaman -tekniikka, joka katkaisee lohkot välittömästi.",
+		"machine": true
+	},
+	"This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots": 
+	{
+		"translation": "Tässä keskitason aseessa on suuri pidike tukahduttavaa tulta varten.\nYlikuumenee 50 jatkuvan kuvan jälkeen",
+		"machine": true
+	},
+	"Agaman technology that fires balls of plasma in quick succession.": 
+	{
+		"translation": "Agaman -tekniikka, joka laukaisee plasmapallot nopeasti peräkkäin.",
+		"machine": true
+	},
+	"Place blocks with this tool.": 
+	{
+		"translation": "Aseta lohkot tällä työkalulla.",
+		"machine": true
+	},
+	"This mid ranged shoots Soltrium Tracer Rounds. Recharges over time and can overheat.": 
+	{
+		"translation": "Tämä keskialueen versojen soltrium -merkkiaine. latautuu ajan myötä ja voi ylikuumentua.",
+		"machine": true
+	},
+	"Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.": 
+	{
+		"translation": "Tuhoisa agaman -tekniikka, joka muuttaa soltriumenergian räjähtäväksi plasmapalloksi.",
+		"machine": true
+	},
+	"Paint blocks with this tool.": 
+	{
+		"translation": "Maalaa lohkot tällä työkalulla.",
+		"machine": true
+	},
+	"This close-mid ranged weapon shoots quickly but has a small magazine.": 
+	{
+		"translation": "Tämä lähiympäristön ase ampuu nopeasti, mutta siinä on pieni lipas.",
+		"machine": true
+	},
+	"Light Agaman technology. Fast firing, hard hitting.": 
+	{
+		"translation": "Kevyt agaman -tekniikka. nopea laukaus, kova lyönti.",
+		"machine": true
+	},
+	"Heavy Agaman technology. Fires a hard-hitting ball of plasma.": 
+	{
+		"translation": "Raskas agaman -tekniikka. laukaisee voimakkaasti osuvan plasman.",
+		"machine": true
+	},
+	"This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.": 
+	{
+		"translation": "Tämä pitkän kantaman ase käyttää magneettimoottoria, ja se voidaan varustaa 4 -kertaisella ulottuvuudella, joka tarjoaa tukea liittolaisille kantaman sisällä.",
+		"machine": true
+	},
+	"Blocks placed have +100% health.": 
+	{
+		"translation": "Asetetuilla lohkoilla on +100% terveyttä.",
+		"machine": true
+	},
+	"This hard-hitting close ranged weapon contains a powerful Soltrium Core.": 
+	{
+		"translation": "Tämä kova iskevä lähietäisyysase sisältää voimakkaan soltriumytimen.",
+		"machine": true
+	},
+	"Such a small gun. Such a massive boom.": 
+	{
+		"translation": "Niin pieni ase. niin valtava nousu.",
+		"machine": true
+	},
+	"This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.": 
+	{
+		"translation": "Tämä pitkän kantaman ase käyttää soltrium -käyttövoimatekniikkaa räjähtävien ohjusten laukaisemiseen.",
+		"machine": true
+	},
+	"Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.": 
+	{
+		"translation": "Käynnistää kelluvan skannauspallon, joka sykkii kahden sekunnin välein ja paljastaa viholliset seinien läpi.\nVihollisen pelaajat voivat ampua skanneripalloja.",
+		"machine": true
+	},
+	"Agaman technology. This close ranged weapon propels a spray of plasma": 
+	{
+		"translation": "Agaman -tekniikka. Tämä läheinen ase laukaisee plasmasuihkun",
+		"machine": true
+	},
+	"This close ranged weapon creates a blast of shrapnel.": 
+	{
+		"translation": "Tämä lähietäisyysase tuottaa räjähdyksen.",
+		"machine": true
+	},
+	"This close-mid ranged weapon packs a punch. Watch out for the recoil.": 
+	{
+		"translation": "Tämä lähellä keskialuetta oleva ase pakkaa iskun. varo takamusta.",
+		"machine": true
+	},
+	"Place block structures with this tool.": 
+	{
+		"translation": "Aseta lohkorakenteet tällä työkalulla.",
+		"machine": true
+	},
+	"Attaches to walls. Right click to pull the wall down.": 
+	{
+		"translation": "Kiinnitetään seiniin. Vedä seinä alas napsauttamalla hiiren kakkospainiketta.",
+		"machine": true
+	},
+	"Cluster Agama technology. Not much about these weapons is known.": 
+	{
+		"translation": "Cluster agama -tekniikka. näistä aseista ei tiedetä paljon.",
+		"machine": true
+	},
+	"Building": 
+	{
+		"translation": "Rakennus",
+		"machine": true
+	},
+	"+100 blocks\n+2 blocks build distance\n+5 block health": 
+	{
+		"translation": "+100 korttelia\n+2 lohkoa rakentaa etäisyyttä\n+5 lohkon terveyttä",
+		"machine": true
+	},
+	"+100 blocks\n+4 blocks build distance\n+9 block health": 
+	{
+		"translation": "+100 korttelia\n+4 lohkoa rakentavat etäisyyden\n+9 estää terveyttä",
+		"machine": true
+	},
+	"+100 blocks\n+6 blocks build distance\n+13 block health": 
+	{
+		"translation": "+100 korttelia\n+6 korttelin rakentamisetäisyys\n+13 estää terveyttä",
+		"machine": true
+	},
+	"Hydraulics": 
+	{
+		"translation": "Hydrauliikka",
+		"machine": true
+	},
+	"Leg servos": 
+	{
+		"translation": "Jalkojen servot",
+		"machine": true
+	},
+	"Regeneration": 
+	{
+		"translation": "Regenerointi",
+		"machine": true
+	},
+	"Speed": 
+	{
+		"translation": "Nopeus",
+		"machine": true
+	},
+	"Stealth": 
+	{
+		"translation": "Salaa",
+		"machine": true
+	},
+	"Kinetic": 
+	{
+		"translation": "Kineettinen",
+		"machine": true
+	},
+	"Scavenger": 
+	{
+		"translation": "Raadonsyöjä",
+		"machine": true
+	},
+	"+3 blocks safe fall distance\n-15% fall damage": 
+	{
+		"translation": "+3 lohkoa turvallinen pudotusetäisyys\n-15% putoamisvaurioita",
+		"machine": true
+	},
+	"+400% self explosion knockback\n-10% self explosion damage": 
+	{
+		"translation": "+400% itseräjähdys\n-10% itseräjähdysvahinkoja",
+		"machine": true
+	},
+	"+20% health regeneration speed": 
+	{
+		"translation": "+20% terveyden uudistumisnopeutta",
+		"machine": true
+	},
+	"+5% movement speed": 
+	{
+		"translation": "+5% liikenopeutta",
+		"machine": true
+	},
+	"-40% build and dig volume\n-15% footstep volume\n-25% footstep distance": 
+	{
+		"translation": "-40% rakentaa ja kaivaa\n-15% askeleen äänenvoimakkuus\n-25% askeleen etäisyys",
+		"machine": true
+	},
+	"+10% dig speed": 
+	{
+		"translation": "+10% kaivunopeus",
+		"machine": true
+	},
+	"+6 blocks safe fall distance\n-30% fall damage": 
+	{
+		"translation": "+6 korttelin turvapudotusetäisyys\n-30% putoamisvaurioita",
+		"machine": true
+	},
+	"+450% self explosion knockback\n-20% self explosion damage": 
+	{
+		"translation": "+450% itseräjähdys\n-20% itseräjähdysvahinkoja",
+		"machine": true
+	},
+	"+40% health regeneration speed": 
+	{
+		"translation": "+40% terveyden uudistumisnopeutta",
+		"machine": true
+	},
+	"+10% movement speed": 
+	{
+		"translation": "+10% liikenopeutta",
+		"machine": true
+	},
+	"-60% build and dig volume\n-30% footstep volume\n-50% footstep distance": 
+	{
+		"translation": "-60% rakentaa ja kaivaa\n-30% askeleen äänenvoimakkuus\n-50% askeleen etäisyys",
+		"machine": true
+	},
+	"+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup": 
+	{
+		"translation": "+20% kaivunopeus\nSaa 2 lohkoa kaivettua lohkoa kohti\n+1 varustepistoolia jokaisella ammuksella",
+		"machine": true
+	},
+	"+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height": 
+	{
+		"translation": "+9 lohkoa turvallinen pudotusetäisyys\n-45% putoamisvaurioita\n+1 lohkon hyppykorkeus",
+		"machine": true
+	},
+	"+500% self explosion knockback\n-30% self explosion damage": 
+	{
+		"translation": "+500% itseräjähdys\n-30% itseräjähdysvahinkoja",
+		"machine": true
+	},
+	"+60% health regeneration speed": 
+	{
+		"translation": "+60% terveyden uudistumisnopeutta",
+		"machine": true
+	},
+	"+15% movement speed": 
+	{
+		"translation": "+15% liikenopeus",
+		"machine": true
+	},
+	"-80% build and dig volume\n-45% footstep volume\n-75% footstep distance": 
+	{
+		"translation": "-80% rakentaa ja kaivaa\n-45% askeleen äänenvoimakkuus\n-75% askeleen etäisyys",
+		"machine": true
+	},
+	"+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup": 
+	{
+		"translation": "+30% kaivunopeus\nSaa 3 lohkoa kaivettua lohkoa kohti\n+10 terveyttä ammuksia vastaan",
+		"machine": true
+	},
+	"While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.": 
+	{
+		"translation": "Kokematon, tämä palkkasoturi rohkeasti matkasi soltrium -galaksiin ja yrittää todistaa arvonsa taistelussa.",
+		"machine": true
+	},
+	"This solo operative seeks nothing but victory when it comes to saving their race from destruction.": 
+	{
+		"translation": "Tämä yksinoperaattori ei tavoittele muuta kuin voittoa pelastaakseen rodunsa tuholta.",
+		"machine": true
+	},
+	"A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.": 
+	{
+		"translation": "Tappava ampuja etäisyydellä ja nopea tappaja läheltä, he kykenevät pitämään itsensä missä tahansa kohtaamisessa.",
+		"machine": true
+	},
+	"This commander lost their arm during the Flare but continues to fight for the future of their race.": 
+	{
+		"translation": "Tämä komentaja menetti kätensä soihdun aikana, mutta jatkaa taistelua rodun tulevaisuuden puolesta.",
+		"machine": true
+	},
+	"Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.": 
+	{
+		"translation": "Lakimiehet, jotka vaeltelevat galaksin laitamilla ja hyökkäävät ketään vastaan, joka uskaltaa matkustaa yksin.",
+		"machine": true
+	},
+	"This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.": 
+	{
+		"translation": "Tämä agaman taisteli valppaasti etulinjassa todistaakseen arvonsa päästä soltrium -galaksiin.",
+		"machine": true
+	},
+	"A curious one, aren't you?": 
+	{
+		"translation": "Utelias, eikö niin?",
+		"machine": true
+	},
+	"This Agaman gave up everything to make the journey to the Soltrium galaxy.": 
+	{
+		"translation": "Tämä agaman luopui kaikesta matkalle soltrium -galaksiin.",
+		"machine": true
+	},
+	"This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.": 
+	{
+		"translation": "Tämä agaman highborn sai infuusion soltriumilla kokeessa tuottaakseen pysäyttämättömän sekoituksen lihasta ja koneesta.",
+		"machine": true
+	},
+	"Click the Play tab when you are ready": 
+	{
+		"translation": "Napsauta Toista -välilehteä, kun olet valmis",
+		"machine": true
+	},
+	"SETTINGS > PERFORMANCE > ANIMATED BLOCK SKINS must be enabled for animated block skins to render correctly": 
+	{
+		"translation": "ASETUKSET> SUORITUSKYKY> ANIMOITUT BLOCK SKINS -toiminnot on otettava käyttöön, jotta animoidut lohko -kuoret näyttävät oikein",
+		"machine": true
+	},
+	"DRAG TO ROTATE\nSCROLL TO ZOOM\nSPACE TO AUTO ROTATE": 
+	{
+		"translation": "Vedä pyörimään\nSIIRRÄ ZOOMIIN\nAUTOMAATTINEN KÄÄNTÖ",
+		"machine": true
+	},
+	"Did you know": 
+	{
+		"translation": "Tiesitkö",
+		"machine": true
+	},
+	"Press escape to cancel": 
+	{
+		"translation": "Peruuta painamalla Esc",
+		"machine": true
+	},
+	"Warning": 
+	{
+		"translation": "Varoitus",
+		"machine": true
+	},
+	"This is an experimental server used for testing maps created by the community. The game may not function as intended": 
+	{
+		"translation": "Tämä on kokeellinen palvelin, jota käytetään yhteisön luomien karttojen testaamiseen. peli ei välttämättä toimi oikein",
+		"machine": true
+	},
+	"Determining sector coordinates": 
+	{
+		"translation": "Sektorin koordinaattien määrittäminen",
+		"machine": true
+	},
+	"Calibrating thermal dampeners": 
+	{
+		"translation": "Lämpövaimentimien kalibrointi",
+		"machine": true
+	},
+	"Entering planet atmosphere": 
+	{
+		"translation": "Tulo planeetan ilmakehään",
+		"machine": true
+	},
+	"Analysing environment": 
+	{
+		"translation": "Analysoi ympäristöä",
+		"machine": true
+	},
+	"Commencing landing procedure": 
+	{
+		"translation": "Laskeutumisprosessin aloittaminen",
+		"machine": true
+	},
+	"Respawn": 
+	{
+		"translation": "Respawn",
+		"machine": true
+	},
+	"Players": 
+	{
+		"translation": "Pelaajat",
+		"machine": true
+	},
+	"No respawns": 
+	{
+		"translation": "Ei uudelleenpalautuksia",
+		"machine": true
+	},
+	"First to 5 wins": 
+	{
+		"translation": "Ensimmäinen 5 voittoon",
+		"machine": true
+	},
+	"A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.": 
+	{
+		"translation": "Galaksin laitamille on kehittynyt varjomarkkinat, joissa soltrium panostetaan. se on kaikki tai ei mitään areenalla, jossa kilpailijat taistelevat voitosta ja selviytymisestä.",
+		"machine": true
+	},
+	"Start with nothing and collect weapons to eliminate the enemy team.": 
+	{
+		"translation": "Aloita tyhjästä ja kerää aseita vihollisjoukon poistamiseksi.",
+		"machine": true
+	},
+	"All players start with the same randomised loadout.": 
+	{
+		"translation": "Kaikki pelaajat aloittavat samalla satunnaisella latauksella.",
+		"machine": true
+	},
+	"Times to win": 
+	{
+		"translation": "Ajat voittaa",
+		"machine": true
+	},
+	"Soltrium is scattered throughout the outer sector. Various": 
+	{
+		"translation": "Soltrium on hajallaan koko ulkosektorilla. eri",
+		"machine": true
+	},
+	"And": 
+	{
+		"translation": "Ja",
+		"machine": true
+	},
+	"battalions have been dispatched to search for and collect the precious resource.": 
+	{
+		"translation": "pataljoonaa on lähetetty etsimään ja keräämään arvokasta resurssia.",
+		"machine": true
+	},
+	"Capture 5 zones to win": 
+	{
+		"translation": "Ota 5 aluetta voittaaksesi",
+		"machine": true
+	},
+	"Control the zone to win": 
+	{
+		"translation": "Hallitse aluetta voittaaksesi",
+		"machine": true
+	},
+	"Deliver the bomb": 
+	{
+		"translation": "Toimita pommi",
+		"machine": true
+	},
+	"Capture the flag": 
+	{
+		"translation": "Lipunryöstö",
+		"machine": true
+	},
+	"Get two kills with every weapon, then melee to win": 
+	{
+		"translation": "Hanki kaksi tappoa jokaisella aseella ja sitten lähitaistelu voittaaksesi",
+		"machine": true
+	},
+	"Hold the most Soltrium to win": 
+	{
+		"translation": "Pidä eniten soltriumia voittaaksesi",
+		"machine": true
+	},
+	"Pick up": 
+	{
+		"translation": "Noukkia",
+		"machine": true
+	},
+	"From enemy corpses": 
+	{
+		"translation": "Vihollisen ruumiilta",
+		"machine": true
+	},
+	"Weapons and Mods spawn around the map": 
+	{
+		"translation": "Aseet ja modit kutevat kartan ympärille",
+		"machine": true
+	},
+	"Not bound": 
+	{
+		"translation": "Ei sidottu",
+		"machine": true
+	},
+	"You can hold": 
+	{
+		"translation": "Voit pitää",
+		"machine": true
+	},
+	"To reveal enemy positions to teammates": 
+	{
+		"translation": "Paljastaa vihollisen asemat joukkuetovereilleen",
+		"machine": true
+	},
+	"You can press": 
+	{
+		"translation": "Voit painaa",
+		"machine": true
+	},
+	"To provide feedback": 
+	{
+		"translation": "Palautteen antamiseksi",
+		"machine": true
+	},
+	"Local": 
+	{
+		"translation": "Paikallinen",
+		"machine": true
+	},
+	"Subscribed": 
+	{
+		"translation": "Tilattu",
+		"machine": true
+	},
+	"Cancel": 
+	{
+		"translation": "Peruuttaa",
+		"machine": true
+	},
+	"Upload": 
+	{
+		"translation": "Lataa",
+		"machine": true
+	},
+	"Private": 
+	{
+		"translation": "Yksityinen",
+		"machine": true
+	},
+	"Friends only": 
+	{
+		"translation": "Vain ystäviä",
+		"machine": true
+	},
+	"Unlisted": 
+	{
+		"translation": "Piilotettu",
+		"machine": true
+	},
+	"Public": 
+	{
+		"translation": "Julkinen",
+		"machine": true
+	},
+	"Map list": 
+	{
+		"translation": "Karttaluettelo",
+		"machine": true
+	},
+	"No local maps found": 
+	{
+		"translation": "Paikallisia karttoja ei löytynyt",
+		"machine": true
+	},
+	"No subscribed maps": 
+	{
+		"translation": "Ei tilattuja karttoja",
+		"machine": true
+	},
+	"Before uploading maps to the Steam workshop, you must agree to the ": 
+	{
+		"translation": "Ennen kuin lataat karttoja höyrypajaan, sinun on hyväksyttävä ",
+		"machine": true
+	},
+	"Workshop Terms of Service.": 
+	{
+		"translation": "Työpajan palveluehdot.",
+		"machine": true
+	},
+	"Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.": 
+	{
+		"translation": "Työpajassa tilaamasi kartat näkyvät tässä. saatat joutua päivittämään useita kertoja uuden kartan tilaamisen jälkeen, jotta luettelo päivittyy kokonaan.",
+		"machine": true
+	},
+	"Loading map": 
+	{
+		"translation": "Ladataan karttaa",
+		"machine": true
+	},
+	"Uploading map to the Steam Workshop": 
+	{
+		"translation": "Kartan lataaminen höyrypajaan",
+		"machine": true
+	},
+	"Committing Changes": 
+	{
+		"translation": "Muutosten tekeminen",
+		"machine": true
+	},
+	"Invalid": 
+	{
+		"translation": "Virheellinen",
+		"machine": true
+	},
+	"Preparing Config": 
+	{
+		"translation": "Kokoonpanoa valmistellaan",
+		"machine": true
+	},
+	"Preparing Content": 
+	{
+		"translation": "Sisällön valmistelu",
+		"machine": true
+	},
+	"Uploading Content": 
+	{
+		"translation": "Sisällön lataaminen",
+		"machine": true
+	},
+	"Uploading Preview Image": 
+	{
+		"translation": "Lähetetään esikatselukuvaa",
+		"machine": true
+	},
+	"Upload summary": 
+	{
+		"translation": "Lähetä yhteenveto",
+		"machine": true
+	},
+	"Map name": 
+	{
+		"translation": "Kartan nimi",
+		"machine": true
+	},
+	"Description": 
+	{
+		"translation": "Kuvaus",
+		"machine": true
+	},
+	"Supported game modes": 
+	{
+		"translation": "Tuetut pelitilat",
+		"machine": true
+	},
+	"Visibility": 
+	{
+		"translation": "Näkyvyys",
+		"machine": true
+	},
+	"Double XP + Proton Weekend! Ends in": 
+	{
+		"translation": "Double XP + protoniviikonloppu! päättyy",
+		"machine": true
+	},
+	"day": 
+	{
+		"translation": "päivä",
+		"machine": true
+	},
+	"days": 
+	{
+		"translation": "päivää",
+		"machine": true
+	},
+	"hour": 
+	{
+		"translation": "tunnin",
+		"machine": true
+	},
+	"hours": 
+	{
+		"translation": "tuntia",
+		"machine": true
+	},
+	"minute": 
+	{
+		"translation": "minuutti",
+		"machine": true
+	},
+	"minutes": 
+	{
+		"translation": "pöytäkirja",
+		"machine": true
+	},
+	"and": 
+	{
+		"translation": "ja",
+		"machine": true
+	},
+	"Playtime": 
+	{
+		"translation": "Peliaika",
+		"machine": true
+	},
+	"Matches": 
+	{
+		"translation": "Ottelut",
+		"machine": true
+	},
+	"Kills": 
+	{
+		"translation": "Tappaa",
+		"machine": true
+	},
+	"Deaths": 
+	{
+		"translation": "Kuolemat",
+		"machine": true
+	},
+	"Assists": 
+	{
+		"translation": "Auttaa",
+		"machine": true
+	},
+	"Headshots": 
+	{
+		"translation": "Päälaukaukset",
+		"machine": true
+	},
+	"unavailable": 
+	{
+		"translation": "ei saatavilla",
+		"machine": true
+	},
+	"level": 
+	{
+		"translation": "taso",
+		"machine": true
+	},
+	"equipped": 
+	{
+		"translation": "varustettu",
+		"machine": true
+	},
+	"Barrel": 
+	{
+		"translation": "Tynnyri",
+		"machine": true
+	},
+	"Sight": 
+	{
+		"translation": "Näky",
+		"machine": true
+	},
+	"equip": 
+	{
+		"translation": "varustaa",
+		"machine": true
+	},
+	"free": 
+	{
+		"translation": "vapaa",
+		"machine": true
+	},
+	"Drag to rotate": 
+	{
+		"translation": "Kierrä vetämällä",
+		"machine": true
+	},
+	"Scroll wheel to zoom": 
+	{
+		"translation": "Zoomaa vierityspyörällä",
+		"machine": true
+	},
+	"Space to rotate": 
+	{
+		"translation": "Tila pyöriä",
+		"machine": true
+	},
+	"Join": 
+	{
+		"translation": "Liittyä seuraan",
+		"machine": true
+	},
+	"This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.": 
+	{
+		"translation": "Tätä pelitilaa kutsutaan pelastamiseksi. kaksi joukkuetta kilpailee säiliöstä, joka sisältää arvokkaan resurssin nimeltä soltrium.",
+		"machine": true
+	},
+	"The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.": 
+	{
+		"translation": "Joukkue, jolla on eniten pelaajia säiliön lähellä, kerää soltriumia ja ansaitsee pisteitä joukkueelleen. tämä näkyy näytön yläreunassa.",
+		"machine": true
+	},
+	"When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!": 
+	{
+		"translation": "Kun säiliö on tyhjentynyt, uusi kutee muualle. ensimmäinen joukkue, joka saavuttaa 500 pistettä, voittaa!",
+		"machine": true
+	},
+	"Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.": 
+	{
+		"translation": "Ammusbonukset putoavat, kun pelaaja kuolee. poimi heidät saadaksesi lisää ammuksia aseillesi ja ansaitse 2 pistettä joukkueellesi.",
+		"machine": true
+	},
+	"This game mode is called Breakthrough. To win, your team must control all five zones.": 
+	{
+		"translation": "Tätä pelitilaa kutsutaan läpimurtoksi. voittaaksesi joukkueen on hallittava kaikkia viittä aluetta.",
+		"machine": true
+	},
+	"When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.": 
+	{
+		"translation": "Kun ryhmäsi kaappaa vyöhykkeen, se jäädytetään jopa 20 sekunniksi. jäädytettynä vihollinen ei voi ottaa sitä takaisin, mikä antaa joukkueellesi mahdollisuuden siirtyä eteenpäin seuraavalle vyöhykkeelle.",
+		"machine": true
+	},
+	"Zones must be captured in order and cannot be back-capped.": 
+	{
+		"translation": "Vyöhykkeet on otettava järjestyksessä, eikä niitä voi rajata takaisin.",
+		"machine": true
+	},
+	"This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.": 
+	{
+		"translation": "Tätä pelitilaa kutsutaan ohjaussiirtoksi. on yksi vyöhyke ja tavoitteena on työntää tämä alue kokonaan takaisin vihollisen alueelle.",
+		"machine": true
+	},
+	"The zone will begin moving when one team has more players inside it than the other.": 
+	{
+		"translation": "Vyöhyke alkaa liikkua, kun yhdessä joukkueessa on enemmän pelaajia kuin toisessa.",
+		"machine": true
+	},
+	"This game mode is called Escort. To win, your team must deliver 3 bombs.": 
+	{
+		"translation": "Tätä pelitilaa kutsutaan saattajaksi. voittaaksesi joukkueen on toimitettava 3 pommia.",
+		"machine": true
+	},
+	"Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.": 
+	{
+		"translation": "Jokaisella joukkueella on pommi, joka heidän on otettava kartan puolelta ja toimitettava vihollisen pommipaikalle.",
+		"machine": true
+	},
+	"You can either escort your bomb carrier, or defend your bomb site from the enemy.": 
+	{
+		"translation": "Voit joko saattaa pommikoneesi tai puolustaa pommisivustoasi viholliselta.",
+		"machine": true
+	},
+	"This game mode is called Capture the Flag. Each team has a flag that they must defend.": 
+	{
+		"translation": "Tätä pelitilaa kutsutaan lipun kaappaamiseksi. Jokaisella joukkueella on lippu, jota heidän on puolustettava.",
+		"machine": true
+	},
+	"To win your team must steal the enemy flag and take it back to your base 3 times.": 
+	{
+		"translation": "Voittaaksesi joukkueen täytyy varastaa vihollisen lippu ja viedä se takaisin tukikohtaasi 3 kertaa.",
+		"machine": true
+	},
+	"You can either infiltrate the enemy base, or defend your flag from the enemy.": 
+	{
+		"translation": "Voit joko tunkeutua vihollisen tukikohtaan tai puolustaa lippua viholliselta.",
+		"machine": true
+	},
+	"This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.": 
+	{
+		"translation": "Tätä pelitilaa kutsutaan asepeliksi. jokainen pelaaja aloittaa samalla aseella ja siirtyy seuraavaan aseeseen saatuaan 2 tappoa.",
+		"machine": true
+	},
+	"The stage that each player is up to is shown at the top of the screen.": 
+	{
+		"translation": "Vaihe, johon jokainen pelaaja pääsee, näkyy näytön yläreunassa.",
+		"machine": true
+	},
+	"To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.": 
+	{
+		"translation": "Voittaaksesi sinun täytyy edetä vaiheeseen 11 ja tappaa sitten vihollinen joko kaivurilla tai veitsellä.",
+		"machine": true
+	},
+	"When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.": 
+	{
+		"translation": "Kun kuolet putoamisvahinkoihin tai vihollisen kaivajaan\/veitseen, sinut lähetetään yhden vaiheen taakse.",
+		"machine": true
+	},
+	"This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.": 
+	{
+		"translation": "Tätä kaikille tarkoitettua pelitilaa kutsutaan päämetsästäjäksi. voittaaksesi sinun on pidettävä eniten soltriumia, kun ajastin loppuu.",
+		"machine": true
+	},
+	"Each player starts with nothing and collects weapons and mods from around the map.": 
+	{
+		"translation": "Jokainen pelaaja aloittaa tyhjästä ja kerää aseita ja modeja kartalta.",
+		"machine": true
+	},
+	"When a player dies, they will drop their weapons, half their Soltrium and half their mods.": 
+	{
+		"translation": "Kun pelaaja kuolee, hän pudottaa aseensa, puolet soltriumistaan ja puolet modeistaan.",
+		"machine": true
+	},
+	"Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.": 
+	{
+		"translation": "Nosta soltrium voittaaksesi, mutta ole varovainen, sillä pelaaja, jolla on eniten soltriumia, paljastetaan kaikille.",
+		"machine": true
+	},
+	"This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.": 
+	{
+		"translation": "Tätä areenapelimuotoa kutsutaan spireksi. voittaaksesi sinun täytyy poistaa vihollisjoukkue viisi kertaa.",
+		"machine": true
+	},
+	"Each player starts with nothing and must build into the sky to pick up weapons.": 
+	{
+		"translation": "Jokainen pelaaja aloittaa tyhjästä ja joutuu rakentamaan taivaalle hakemaan aseita.",
+		"machine": true
+	},
+	"This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.": 
+	{
+		"translation": "Tätä areenapelimuotoa kutsutaan staattiseksi. voittaaksesi sinun täytyy poistaa vihollisjoukkue viisi kertaa.",
+		"machine": true
+	},
+	"Each player shares the same loadout, which is randomised each round.": 
+	{
+		"translation": "Jokaisella pelaajalla on sama lataus, joka satunnaistetaan joka kierroksella.",
+		"machine": true
+	},
+	"Press space to continue": 
+	{
+		"translation": "Jatka painamalla välilyöntiä",
+		"machine": true
+	},
+	"Return to battle": 
+	{
+		"translation": "Palaa taisteluun",
+		"machine": true
+	},
+	"Round won!": 
+	{
+		"translation": "Kierros voitettu!",
+		"machine": true
+	},
+	"Press": 
+	{
+		"translation": "Lehdistö",
+		"machine": true
+	},
+	"Or": 
+	{
+		"translation": "Tai",
+		"machine": true
+	},
+	"Pick up equipment": 
+	{
+		"translation": "Nosta laitteet",
+		"machine": true
+	},
+	"Pick up primary": 
+	{
+		"translation": "Nosta ensisijainen",
+		"machine": true
+	},
+	"Pick up secondary": 
+	{
+		"translation": "Nouto toissijainen",
+		"machine": true
+	},
+	"Player ready": 
+	{
+		"translation": "Pelaaja valmis",
+		"machine": true
+	},
+	"Players ready": 
+	{
+		"translation": "Pelaajat valmiina",
+		"machine": true
+	},
+	"Starting in": 
+	{
+		"translation": "Alkaa",
+		"machine": true
+	},
+	"Second": 
+	{
+		"translation": "Toinen",
+		"machine": true
+	},
+	"Seconds": 
+	{
+		"translation": "Sekuntia",
+		"machine": true
+	},
+	"Available": 
+	{
+		"translation": "Saatavilla",
+		"machine": true
+	},
+	"Leave killcam": 
+	{
+		"translation": "Jätä killcam",
+		"machine": true
+	},
+	"Continue": 
+	{
+		"translation": "Jatkaa",
+		"machine": true
+	},
+	"Redeploy": 
+	{
+		"translation": "Asenna uudelleen",
+		"machine": true
+	},
+	"Confirm": 
+	{
+		"translation": "Vahvistaa",
+		"machine": true
+	},
+	"Spectate": 
+	{
+		"translation": "Spectate",
+		"machine": true
+	},
+	"Report player": 
+	{
+		"translation": "Ilmoita pelaaja",
+		"machine": true
+	},
+	"Lobby panel": 
+	{
+		"translation": "Aulapaneeli",
+		"machine": true
+	},
+	"Settings": 
+	{
+		"translation": "asetukset",
+		"machine": true
+	},
+	"Submit feedback": 
+	{
+		"translation": "Antaa palautetta",
+		"machine": true
+	},
+	"Disconnect": 
+	{
+		"translation": "Katkaista",
+		"machine": true
+	},
+	"Contest the canister": 
+	{
+		"translation": "Kilpaile säiliö",
+		"machine": true
+	},
+	"Returning flag": 
+	{
+		"translation": "Palaava lippu",
+		"machine": true
+	},
+	"Defusing bomb": 
+	{
+		"translation": "Häivyttävä pommi",
+		"machine": true
+	},
+	"You are carrying the flag": 
+	{
+		"translation": "Sinulla on lippu",
+		"machine": true
+	},
+	"You are carrying thebomb": 
+	{
+		"translation": "Sinulla on pommi",
+		"machine": true
+	},
+	"To drop the flag": 
+	{
+		"translation": "Lipun pudottaminen",
+		"machine": true
+	},
+	"To drop the bomb": 
+	{
+		"translation": "Pommin pudottamiseksi",
+		"machine": true
+	},
+	"Stage": 
+	{
+		"translation": "Vaihe",
+		"machine": true
+	},
+	"Cooldown": 
+	{
+		"translation": "Viilentyä",
+		"machine": true
+	},
+	"Equip as primary": 
+	{
+		"translation": "Varusta ensisijaisena",
+		"machine": true
+	},
+	"Equip as secondary": 
+	{
+		"translation": "Varustaa toissijaisena",
+		"machine": true
+	},
+	"Edit loadouts": 
+	{
+		"translation": "Muokkaa latauksia",
+		"machine": true
+	},
+	"Modify a structure to continue": 
+	{
+		"translation": "Jatka muokkaamalla rakennetta",
+		"machine": true
+	},
+	"Head over to the shooting range": 
+	{
+		"translation": "Suuntaa ampumaradalle",
+		"machine": true
+	},
+	"Select a weapon from the gun rack": 
+	{
+		"translation": "Valitse ase ase telineestä",
+		"machine": true
+	},
+	"Shoot the targets and try different weapons. Press": 
+	{
+		"translation": "Ammu kohteita ja kokeile erilaisia aseita. Lehdistö",
+		"machine": true
+	},
+	"To set up a loadout": 
+	{
+		"translation": "Latauksen määrittäminen",
+		"machine": true
+	},
+	"Play a Match": 
+	{
+		"translation": "Pelaa ottelu",
+		"machine": true
+	},
+	"Enter Trials": 
+	{
+		"translation": "Anna kokeiluja",
+		"machine": true
+	},
+	"Replay Tutorial": 
+	{
+		"translation": "Toista opetusohjelma",
+		"machine": true
+	},
+	"Reset Ship": 
+	{
+		"translation": "Palauta alus",
+		"machine": true
+	},
+	"Level": 
+	{
+		"translation": "Taso",
+		"machine": true
+	},
+	"Tag": 
+	{
+		"translation": "Tag",
+		"machine": true
+	},
+	"Tags": 
+	{
+		"translation": "Tunnisteet",
+		"machine": true
+	},
+	"Career": 
+	{
+		"translation": "Ura",
+		"machine": true
+	},
+	"Loadout": 
+	{
+		"translation": "Kuormitus",
+		"machine": true
+	},
+	"Killed by": 
+	{
+		"translation": "Tappaja",
+		"machine": true
+	},
+	"Join the battle": 
+	{
+		"translation": "Liity taisteluun",
+		"machine": true
+	},
+	"Linking your Twitch account": 
+	{
+		"translation": "Twitch -tilisi linkittäminen",
+		"machine": true
+	},
+	"Checkout": 
+	{
+		"translation": "Tarkista",
+		"machine": true
+	},
+	"Summary": 
+	{
+		"translation": "Yhteenveto",
+		"machine": true
+	},
+	"Creator Code (Optional)": 
+	{
+		"translation": "Luojakoodi (valinnainen)",
+		"machine": true
+	},
+	"Friend username": 
+	{
+		"translation": "Ystävän käyttäjätunnus",
+		"machine": true
+	},
+	"Resources loading in the background": 
+	{
+		"translation": "Resurssit latautuvat taustalla",
+		"machine": true
+	},
+	"Magazine": 
+	{
+		"translation": "Aikakauslehti",
+		"machine": true
+	},
+	"Block": 
+	{
+		"translation": "Lohko",
+		"machine": true
+	},
+	"Account": 
+	{
+		"translation": "Tili",
+		"machine": true
+	},
+	"Proton": 
+	{
+		"translation": "Protoni",
+		"machine": true
+	},
+	"Protons": 
+	{
+		"translation": "Protonit",
+		"machine": true
+	},
+	"Refreshing": 
+	{
+		"translation": "Virkistävä",
+		"machine": true
+	},
+	"Refresh statistics": 
+	{
+		"translation": "Päivitä tilastot",
+		"machine": true
+	},
+	"Character token": 
+	{
+		"translation": "Merkki",
+		"machine": true
+	},
+	"Character tokens": 
+	{
+		"translation": "Hahmomerkit",
+		"machine": true
+	},
+	"Player statistics": 
+	{
+		"translation": "Pelaajan tilastot",
+		"machine": true
+	},
+	"Transaction log": 
+	{
+		"translation": "Tapahtumaloki",
+		"machine": true
+	},
+	"Redeem key": 
+	{
+		"translation": "Lunasta avain",
+		"machine": true
+	},
+	"Provide feedback": 
+	{
+		"translation": "Antaa palautetta",
+		"machine": true
+	},
+	"View inventory": 
+	{
+		"translation": "Näytä inventaario",
+		"machine": true
+	},
+	"Custom lobby": 
+	{
+		"translation": "Mukautettu aula",
+		"machine": true
+	},
+	"Lobby settings": 
+	{
+		"translation": "Aulan asetukset",
+		"machine": true
+	},
+	"Password": 
+	{
+		"translation": "Salasana",
+		"machine": true
+	},
+	"Minimum level": 
+	{
+		"translation": "Vähimmäistaso",
+		"machine": true
+	},
+	"Maximum level": 
+	{
+		"translation": "Suurin taso",
+		"machine": true
+	},
+	"The match will not end": 
+	{
+		"translation": "Ottelu ei pääty",
+		"machine": true
+	},
+	"Protons, XP and stats will not be tracked": 
+	{
+		"translation": "Protoneja, XP: tä ja tilastoja ei seurata",
+		"machine": true
+	},
+	"Infinite ammo. Type": 
+	{
+		"translation": "Loppumattomat ammukset. tyyppi",
+		"machine": true
+	},
+	"in chat to set your spawn point": 
+	{
+		"translation": "chatissa asettaaksesi kuteesi pisteen",
+		"machine": true
+	},
+	"Weapon cooldowns removed. Players are invincible": 
+	{
+		"translation": "Aseiden jäähdytysajat poistettu. pelaajat ovat voittamattomia",
+		"machine": true
+	},
+	"Claim": 
+	{
+		"translation": "Väite",
+		"machine": true
+	},
+	"Current lobby settings": 
+	{
+		"translation": "Aulan nykyiset asetukset",
+		"machine": true
+	},
+	"Next lobby settings": 
+	{
+		"translation": "Seuraavat aula -asetukset",
+		"machine": true
+	},
+	"Lobby not claimed": 
+	{
+		"translation": "Aulaa ei väitetty",
+		"machine": true
+	},
+	"Autobalancing Enabled": 
+	{
+		"translation": "Automaattinen tasapainotus käytössä",
+		"machine": true
+	},
+	"Autobalancing Disabled": 
+	{
+		"translation": "Automaattinen tasapainotus poistettu käytöstä",
+		"machine": true
+	},
+	"Eternal Mode Enabled": 
+	{
+		"translation": "Ikuinen tila käytössä",
+		"machine": true
+	},
+	"Eternal Mode Disabled": 
+	{
+		"translation": "Ikuinen tila poistettu käytöstä",
+		"machine": true
+	},
+	"Trailer Mode Enabled": 
+	{
+		"translation": "Traileritila käytössä",
+		"machine": true
+	},
+	"Trailer Mode Disabled": 
+	{
+		"translation": "Traileritila poistettu käytöstä",
+		"machine": true
+	},
+	"Sandbox Mode Enabled": 
+	{
+		"translation": "Hiekkalaatikkotila käytössä",
+		"machine": true
+	},
+	"Sandbox Mode Disabled": 
+	{
+		"translation": "Hiekkalaatikkotila pois käytöstä",
+		"machine": true
+	},
+	"Password Protected": 
+	{
+		"translation": "Salasana suojattu",
+		"machine": true
+	},
+	"Password protected": 
+	{
+		"translation": "Salasana suojattu",
+		"machine": true
+	},
+	"Note - claiming the lobby will restart the round": 
+	{
+		"translation": "Huomaa - aulan vaatiminen käynnistää kierroksen uudelleen",
+		"machine": true
+	},
+	"Note - changing these settings will restart the round": 
+	{
+		"translation": "Huomaa - näiden asetusten muuttaminen käynnistää kierroksen uudelleen",
+		"machine": true
+	},
+	"Leave": 
+	{
+		"translation": "Jätä",
+		"machine": true
+	},
+	"Total": 
+	{
+		"translation": "Kaikki yhteensä",
+		"machine": true
+	},
+	"Points breakdown": 
+	{
+		"translation": "Pisteiden jakautuminen",
+		"machine": true
+	},
+	"Objective": 
+	{
+		"translation": "Tavoite",
+		"machine": true
+	},
+	"Offensive time": 
+	{
+		"translation": "Loukkaavaa aikaa",
+		"machine": true
+	},
+	"Defensive time": 
+	{
+		"translation": "Puolustusaika",
+		"machine": true
+	},
+	"Ammo pickups": 
+	{
+		"translation": "Ammusten noutot",
+		"machine": true
+	},
+	"Basic statistics": 
+	{
+		"translation": "Perustilastot",
+		"machine": true
+	},
+	"Best kill streak": 
+	{
+		"translation": "Paras tappoputki",
+		"machine": true
+	},
+	"Blocks built": 
+	{
+		"translation": "Lohkot rakennettu",
+		"machine": true
+	},
+	"Blocks destroyed": 
+	{
+		"translation": "Lohkot tuhottu",
+		"machine": true
+	},
+	"Proton breakdown": 
+	{
+		"translation": "Protonien hajoaminen",
+		"machine": true
+	},
+	"Player points": 
+	{
+		"translation": "Pelaajan pisteet",
+		"machine": true
+	},
+	"Proton boost": 
+	{
+		"translation": "Protonin tehostus",
+		"machine": true
+	},
+	"Peacekeeper bonus": 
+	{
+		"translation": "Rauhanturvaajan bonus",
+		"machine": true
+	},
+	"Unlock": 
+	{
+		"translation": "Avata",
+		"machine": true
+	},
+	"CONFIRM": 
+	{
+		"translation": "VAHVISTAA",
+		"machine": true
+	},
+	"Buy now": 
+	{
+		"translation": "Osta nyt",
+		"machine": true
+	},
+	"Use token": 
+	{
+		"translation": "Käytä tunnusta",
+		"machine": true
+	},
+	"This is a gift": 
+	{
+		"translation": "Tämä on lahja",
+		"machine": true
+	},
+	"Submit": 
+	{
+		"translation": "Lähetä",
+		"machine": true
+	},
+	"News": 
+	{
+		"translation": "Uutiset",
+		"machine": true
+	},
+	"Store": 
+	{
+		"translation": "Säilytä",
+		"machine": true
+	},
+	"Play": 
+	{
+		"translation": "pelata",
+		"machine": true
+	},
+	"Clan": 
+	{
+		"translation": "Klaani",
+		"machine": true
+	},
+	"Customise": 
+	{
+		"translation": "Mukauta",
+		"machine": true
+	},
+	"Exit game": 
+	{
+		"translation": "Poistu pelistä",
+		"machine": true
+	},
+	"Skip tutorial": 
+	{
+		"translation": "Ohita opetusohjelma",
+		"machine": true
+	},
+	"An update is available. Close the game and update the game through": 
+	{
+		"translation": "Päivitys on saatavilla. sulje peli ja päivitä peli läpi",
+		"machine": true
+	},
+	"Connection to": 
+	{
+		"translation": "Yhteys kohteeseen",
+		"machine": true
+	},
+	"failed. Online play is unavailable": 
+	{
+		"translation": "epäonnistui. Verkkopeli ei ole käytettävissä",
+		"machine": true
+	},
+	"Blocks": 
+	{
+		"translation": "Lohkot",
+		"machine": true
+	},
+	"Changelog": 
+	{
+		"translation": "Muutospäiväkirja",
+		"machine": true
+	},
+	"Trials": 
+	{
+		"translation": "Kokeet",
+		"machine": true
+	},
+	"Low level": 
+	{
+		"translation": "Matala taso",
+		"machine": true
+	},
+	"Open": 
+	{
+		"translation": "Avata",
+		"machine": true
+	},
+	"Custom": 
+	{
+		"translation": "Mukautettu",
+		"machine": true
+	},
+	"Empty servers": 
+	{
+		"translation": "Tyhjät palvelimet",
+		"machine": true
+	},
+	"Full servers": 
+	{
+		"translation": "Täydet palvelimet",
+		"machine": true
+	},
+	"Character": 
+	{
+		"translation": "Merkki",
+		"machine": true
+	},
+	"Ship": 
+	{
+		"translation": "Alus",
+		"machine": true
+	},
+	"Loadouts": 
+	{
+		"translation": "Kuormitukset",
+		"machine": true
+	},
+	"Weapons": 
+	{
+		"translation": "Aseet",
+		"machine": true
+	},
+	"Killcam": 
+	{
+		"translation": "Killcam",
+		"machine": true
+	},
+	"Mapping": 
+	{
+		"translation": "Kartoitus",
+		"machine": true
+	},
+	"Skin": 
+	{
+		"translation": "Iho",
+		"machine": true
+	},
+	"Red dot": 
+	{
+		"translation": "punainen piste",
+		"machine": true
+	},
+	"Camo": 
+	{
+		"translation": "Camo",
+		"machine": true
+	},
+	"Save": 
+	{
+		"translation": "Tallentaa",
+		"machine": true
+	},
+	"Official": 
+	{
+		"translation": "Virallinen",
+		"machine": true
+	},
+	"Workshop": 
+	{
+		"translation": "Työpaja",
+		"machine": true
+	},
+	"Cheating": 
+	{
+		"translation": "Pettäminen",
+		"machine": true
+	},
+	"Exploiting": 
+	{
+		"translation": "Hyödyntäminen",
+		"machine": true
+	},
+	"Offensive profile": 
+	{
+		"translation": "Loukkaava profiili",
+		"machine": true
+	},
+	"Verbal abuse": 
+	{
+		"translation": "Sanallinen hyväksikäyttö",
+		"machine": true
+	},
+	"Scamming": 
+	{
+		"translation": "Huijaus",
+		"machine": true
+	},
+	"Spamming": 
+	{
+		"translation": "Roskaposti",
+		"machine": true
+	},
+	"Other negative behaviour": 
+	{
+		"translation": "Muuta negatiivista käytöstä",
+		"machine": true
+	},
+	"Report": 
+	{
+		"translation": "Raportti",
+		"machine": true
+	},
+	"Metal": 
+	{
+		"translation": "Metalli",
+		"machine": true
+	},
+	"Link": 
+	{
+		"translation": "Linkki",
+		"machine": true
+	},
+	"Recoil": 
+	{
+		"translation": "Rekyyli",
+		"machine": true
+	},
+	"Stationary recoil": 
+	{
+		"translation": "Kiinteä rekyyli",
+		"machine": true
+	},
+	"Holster time": 
+	{
+		"translation": "Kotelon aika",
+		"machine": true
+	},
+	"ADS time": 
+	{
+		"translation": "ADS -aika",
+		"machine": true
+	},
+	"Initial recoil": 
+	{
+		"translation": "Ensimmäinen takaisku",
+		"machine": true
+	},
+	"Shot recoil ramp": 
+	{
+		"translation": "Ammuttu rekyyliramppi",
+		"machine": true
+	},
+	"Loadout power": 
+	{
+		"translation": "Latausteho",
+		"machine": true
+	},
+	"Damage range": 
+	{
+		"translation": "Vaurioalue",
+		"machine": true
+	},
+	"Projectile speed": 
+	{
+		"translation": "Ammuksen nopeus",
+		"machine": true
+	},
+	"Volume": 
+	{
+		"translation": "Äänenvoimakkuus",
+		"machine": true
+	},
+	"Minimap invisibility": 
+	{
+		"translation": "Minimaalinen näkymättömyys",
+		"machine": true
+	},
+	"Pellets": 
+	{
+		"translation": "Pelletit",
+		"machine": true
+	},
+	"Pellet spread": 
+	{
+		"translation": "Pelletti leviää",
+		"machine": true
+	},
+	"Reload": 
+	{
+		"translation": "Lataa uudelleen",
+		"machine": true
+	},
+	"Rounds": 
+	{
+		"translation": "Kierroksia",
+		"machine": true
+	},
+	"Player damage (body)": 
+	{
+		"translation": "Pelaajan vauriot (runko)",
+		"machine": true
+	},
+	"Player damage (head)": 
+	{
+		"translation": "Pelaajan vauriot (pää)",
+		"machine": true
+	},
+	"Block damage": 
+	{
+		"translation": "Estä vauriot",
+		"machine": true
+	},
+	"RPM": 
+	{
+		"translation": "RPM",
+		"machine": true
+	},
+	"Pellet count": 
+	{
+		"translation": "Pelletin määrä",
+		"machine": true
+	},
+	"Damages through blocks and players": 
+	{
+		"translation": "Vahingot lohkojen ja pelaajien kautta",
+		"machine": true
+	},
+	"Bounces 3 times": 
+	{
+		"translation": "Hyppää 3 kertaa",
+		"machine": true
+	},
+	"Choke time": 
+	{
+		"translation": "Tukehtumisaika",
+		"machine": true
+	},
+	"Choked spread": 
+	{
+		"translation": "Tukehtunut levite",
+		"machine": true
+	},
+	"Choke resets when firing": 
+	{
+		"translation": "Kuristin nollautuu ammuttaessa",
+		"machine": true
+	},
+	"Welded choke": 
+	{
+		"translation": "Hitsattu kuristin",
+		"machine": true
+	},
+	"Automatic fire": 
+	{
+		"translation": "Automaattinen tulipalo",
+		"machine": true
+	},
+	"Stats": 
+	{
+		"translation": "Tilastot",
+		"machine": true
+	},
+	"Initiate": 
+	{
+		"translation": "Aloittaa",
+		"machine": true
+	},
+	"Proficient": 
+	{
+		"translation": "Taitava",
+		"machine": true
+	},
+	"Adept": 
+	{
+		"translation": "Adept",
+		"machine": true
+	},
+	"Elite": 
+	{
+		"translation": "Eliitti",
+		"machine": true
+	},
+	"Expert": 
+	{
+		"translation": "Asiantuntija",
+		"machine": true
+	},
+	"Master": 
+	{
+		"translation": "Hallita",
+		"machine": true
+	},
+	"Legend": 
+	{
+		"translation": "Legenda",
+		"machine": true
+	},
+	"Paragon": 
+	{
+		"translation": "Esikuva",
+		"machine": true
+	},
+	"Incarnate": 
+	{
+		"translation": "Inkarnaatio",
+		"machine": true
+	},
+	"Butcher": 
+	{
+		"translation": "Lihakauppias",
+		"machine": true
+	},
+	"Swordsman": 
+	{
+		"translation": "Miekkamies",
+		"machine": true
+	},
+	"Berserker": 
+	{
+		"translation": "Berserker",
+		"machine": true
+	},
+	"Assassin": 
+	{
+		"translation": "Salamurhaaja",
+		"machine": true
+	},
+	"Executioner": 
+	{
+		"translation": "Pyöveli",
+		"machine": true
+	},
+	"Grenadier": 
+	{
+		"translation": "Grenadier",
+		"machine": true
+	},
+	"Detonator": 
+	{
+		"translation": "Sytytin",
+		"machine": true
+	},
+	"Volatile": 
+	{
+		"translation": "Haihtuva",
+		"machine": true
+	},
+	"Catalyst": 
+	{
+		"translation": "Katalyytti",
+		"machine": true
+	},
+	"Captor": 
+	{
+		"translation": "Vangitsija",
+		"machine": true
+	},
+	"Invader": 
+	{
+		"translation": "Hyökkääjä",
+		"machine": true
+	},
+	"Thief": 
+	{
+		"translation": "Varas",
+		"machine": true
+	},
+	"Reinforcer": 
+	{
+		"translation": "Vahvistin",
+		"machine": true
+	},
+	"Engineer": 
+	{
+		"translation": "Insinööri",
+		"machine": true
+	},
+	"Fabricator": 
+	{
+		"translation": "Valmistaja",
+		"machine": true
+	},
+	"Architect": 
+	{
+		"translation": "Arkkitehti",
+		"machine": true
+	},
+	"Sentry": 
+	{
+		"translation": "Vartiomies",
+		"machine": true
+	},
+	"Protector": 
+	{
+		"translation": "Suojelija",
+		"machine": true
+	},
+	"Sentinel": 
+	{
+		"translation": "Sentinel",
+		"machine": true
+	},
+	"Guardian": 
+	{
+		"translation": "Vartija",
+		"machine": true
+	},
+	"Raider": 
+	{
+		"translation": "Raider",
+		"machine": true
+	},
+	"Marauder": 
+	{
+		"translation": "Rosvo",
+		"machine": true
+	},
+	"Vanquisher": 
+	{
+		"translation": "Vanquisher",
+		"machine": true
+	},
+	"Conquerer": 
+	{
+		"translation": "Valloittaja",
+		"machine": true
+	},
+	"Terminator": 
+	{
+		"translation": "Terminaattori",
+		"machine": true
+	},
+	"Gunslinger": 
+	{
+		"translation": "Gunslinger",
+		"machine": true
+	},
+	"Deadeye": 
+	{
+		"translation": "Deadeye",
+		"machine": true
+	},
+	"Sharpshooter": 
+	{
+		"translation": "Sharpshooter",
+		"machine": true
+	},
+	"Deathbringer": 
+	{
+		"translation": "Kuoleman tuoja",
+		"machine": true
+	},
+	"Blaster": 
+	{
+		"translation": "Blaster",
+		"machine": true
+	},
+	"Collider": 
+	{
+		"translation": "Collider",
+		"machine": true
+	},
+	"Obliterator": 
+	{
+		"translation": "Obliteraattori",
+		"machine": true
+	},
+	"Disintegrator": 
+	{
+		"translation": "Hajottaja",
+		"machine": true
+	},
+	"Alleviator": 
+	{
+		"translation": "Helpotin",
+		"machine": true
+	},
+	"Mitigator": 
+	{
+		"translation": "Lieventäjä",
+		"machine": true
+	},
+	"Diminisher": 
+	{
+		"translation": "Himmennin",
+		"machine": true
+	},
+	"Recon": 
+	{
+		"translation": "tiedustelu",
+		"machine": true
+	},
+	"Luminator": 
+	{
+		"translation": "Luminator",
+		"machine": true
+	},
+	"Coruscator": 
+	{
+		"translation": "Coruscator",
+		"machine": true
+	},
+	"Spotter": 
+	{
+		"translation": "Tulenjohtaja",
+		"machine": true
+	},
+	"Watchman": 
+	{
+		"translation": "Vartija",
+		"machine": true
+	},
+	"Eagle Eye": 
+	{
+		"translation": "Kotkan silmä",
+		"machine": true
+	},
+	"All Seeing": 
+	{
+		"translation": "Kaikki näkemässä",
+		"machine": true
+	},
+	"Body Guard": 
+	{
+		"translation": "Vartalon vartija",
+		"machine": true
+	},
+	"Slayer": 
+	{
+		"translation": "Tappaja",
+		"machine": true
+	},
+	"Punisher": 
+	{
+		"translation": "Punisher",
+		"machine": true
+	},
+	"Midi Certified": 
+	{
+		"translation": "Midi -sertifioitu",
+		"machine": true
+	},
+	"Maze Runner": 
+	{
+		"translation": "Labyrintti juoksija",
+		"machine": true
+	},
+	"Trial Master": 
+	{
+		"translation": "Oikeudenkäynnin mestari",
+		"machine": true
+	},
+	"Trial Hard": 
+	{
+		"translation": "Koe kova",
+		"machine": true
+	},
+	"Podium": 
+	{
+		"translation": "Podium",
+		"machine": true
+	},
+	"Scoreboard": 
+	{
+		"translation": "Tulostaulu",
+		"machine": true
+	},
+	"Sensitivity": 
+	{
+		"translation": "Herkkyys",
+		"machine": true
+	},
+	"Video": 
+	{
+		"translation": "Video",
+		"machine": true
+	},
+	"Performance": 
+	{
+		"translation": "Esitys",
+		"machine": true
+	},
+	"Audio": 
+	{
+		"translation": "Audio",
+		"machine": true
+	},
+	"Accessibility": 
+	{
+		"translation": "Esteettömyys",
+		"machine": true
+	},
+	"Close": 
+	{
+		"translation": "kiinni",
+		"machine": true
+	},
+	"Peacekeeper": 
+	{
+		"translation": "Rauhanturvaaja",
+		"machine": true
+	},
+	"Networking": 
+	{
+		"translation": "Verkostoituminen",
+		"machine": true
+	},
+	"Serious": 
+	{
+		"translation": "Vakava",
+		"machine": true
+	},
+	"Control Preferences": 
+	{
+		"translation": "Hallitse asetuksia",
+		"machine": true
+	},
+	"Toggle Scope": 
+	{
+		"translation": "Vaihda laajuus",
+		"machine": true
+	},
+	"Toggle Crouch": 
+	{
+		"translation": "Vaihda kyykky",
+		"machine": true
+	},
+	"Toggle Sprint": 
+	{
+		"translation": "Vaihda sprintti",
+		"machine": true
+	},
+	"Auto-Rotate Structures": 
+	{
+		"translation": "Kierrä rakenteita automaattisesti",
+		"machine": true
+	},
+	"Chat": 
+	{
+		"translation": "Chat",
+		"machine": true
+	},
+	"Streamer Mode": 
+	{
+		"translation": "Streamer -tila",
+		"machine": true
+	},
+	"Profanity Filter": 
+	{
+		"translation": "Kirosanasuodatin",
+		"machine": true
+	},
+	"Chat Timeout": 
+	{
+		"translation": "Chatin aikakatkaisu",
+		"machine": true
+	},
+	"Rendering": 
+	{
+		"translation": "Renderöinti",
+		"machine": true
+	},
+	"Green Outline for Party Members": 
+	{
+		"translation": "Vihreä ääriviiva puolueen jäsenille",
+		"machine": true
+	},
+	"Friendly Outline Through Walls": 
+	{
+		"translation": "Ystävällinen ääriviivat seinien läpi",
+		"machine": true
+	},
+	"Miscellaneous": 
+	{
+		"translation": "Sekalaisia",
+		"machine": true
+	},
+	"Camera Sway": 
+	{
+		"translation": "Kamera heiluu",
+		"machine": true
+	},
+	"Pause when Inactive": 
+	{
+		"translation": "Keskeytä, kun olet passiivinen",
+		"machine": true
+	},
+	"Enable Debug Logging": 
+	{
+		"translation": "Ota käyttöön virheenkorjauksen kirjaus",
+		"machine": true
+	},
+	"Extra Logging": 
+	{
+		"translation": "Ylimääräistä kirjaamista",
+		"machine": true
+	},
+	"Input": 
+	{
+		"translation": "Syöttö",
+		"machine": true
+	},
+	"Raw Mouse Input": 
+	{
+		"translation": "Raaka hiiren tulo",
+		"machine": true
+	},
+	"Sensitivity Multiplies": 
+	{
+		"translation": "Herkkyys moninkertaistuu",
+		"machine": true
+	},
+	"Invert Y Axis": 
+	{
+		"translation": "Käännä y-akseli",
+		"machine": true
+	},
+	"Sensitivity Values": 
+	{
+		"translation": "Herkkyysarvot",
+		"machine": true
+	},
+	"Look Sensitivity": 
+	{
+		"translation": "Katso herkkyys",
+		"machine": true
+	},
+	"Ironsights Sensitivity": 
+	{
+		"translation": "Ironsights -herkkyys",
+		"machine": true
+	},
+	"X2 Scope Sensitivity": 
+	{
+		"translation": "X2 -alueen herkkyys",
+		"machine": true
+	},
+	"X4 Scope Sensitivity": 
+	{
+		"translation": "X4 -alueen herkkyys",
+		"machine": true
+	},
+	"Spectator Sensitivity": 
+	{
+		"translation": "Katsojan herkkyys",
+		"machine": true
+	},
+	"Minimap": 
+	{
+		"translation": "Minikartta",
+		"machine": true
+	},
+	"Minimap Size": 
+	{
+		"translation": "Minimap -koko",
+		"machine": true
+	},
+	"Minimap Zoom": 
+	{
+		"translation": "Pienennä zoomaus",
+		"machine": true
+	},
+	"Damage Numbers": 
+	{
+		"translation": "Vahinkojen numerot",
+		"machine": true
+	},
+	"Show in the Shooting Range": 
+	{
+		"translation": "Näytä ampumaradalla",
+		"machine": true
+	},
+	"Show HUD": 
+	{
+		"translation": "Näytä HUD",
+		"machine": true
+	},
+	"Show Kill Feed": 
+	{
+		"translation": "Näytä tappisyöte",
+		"machine": true
+	},
+	"Show Player Names": 
+	{
+		"translation": "Näytä pelaajien nimet",
+		"machine": true
+	},
+	"Show Enemies on the Zone Bar": 
+	{
+		"translation": "Näytä viholliset vyöhykepalkissa",
+		"machine": true
+	},
+	"Secret": 
+	{
+		"translation": "Salaisuus",
+		"machine": true
+	},
+	"This Doesn't Do Anything": 
+	{
+		"translation": "Tämä ei tee mitään",
+		"machine": true
+	},
+	"Resolution": 
+	{
+		"translation": "Resoluutio",
+		"machine": true
+	},
+	"Override Screen Resolution": 
+	{
+		"translation": "Ohita näytön tarkkuus",
+		"machine": true
+	},
+	"Game Resolution X": 
+	{
+		"translation": "Pelin resoluutio X",
+		"machine": true
+	},
+	"Game Resolution Y": 
+	{
+		"translation": "Pelin tarkkuus Y",
+		"machine": true
+	},
+	"Camera": 
+	{
+		"translation": "Kamera",
+		"machine": true
+	},
+	"Field of View": 
+	{
+		"translation": "Näkökenttä",
+		"machine": true
+	},
+	"Degrees": 
+	{
+		"translation": "Asteet",
+		"machine": true
+	},
+	"Brightness": 
+	{
+		"translation": "Kirkkaus",
+		"machine": true
+	},
+	"Dynamic Rendering Settings": 
+	{
+		"translation": "Dynaamiset renderointiasetukset",
+		"machine": true
+	},
+	"Texture Quality": 
+	{
+		"translation": "Tekstuurin laatu",
+		"machine": true
+	},
+	"Shadows": 
+	{
+		"translation": "Varjot",
+		"machine": true
+	},
+	"Shadow Quality": 
+	{
+		"translation": "Varjon laatu",
+		"machine": true
+	},
+	"Render Player Shadows": 
+	{
+		"translation": "Tee pelaajien varjoja",
+		"machine": true
+	},
+	"Render Entity Shadows": 
+	{
+		"translation": "Esitä kokonaisuuden varjoja",
+		"machine": true
+	},
+	"Render Particle Shadows": 
+	{
+		"translation": "Tee hiukkasvarjoja",
+		"machine": true
+	},
+	"Render Weather Particle Shadows": 
+	{
+		"translation": "Tee säästä hiukkasvarjoja",
+		"machine": true
+	},
+	"Render Structure Shadows": 
+	{
+		"translation": "Renderöi rakenteen varjoja",
+		"machine": true
+	},
+	"Voxel Settings": 
+	{
+		"translation": "Voxelin asetukset",
+		"machine": true
+	},
+	"Render Distance": 
+	{
+		"translation": "Render -etäisyys",
+		"machine": true
+	},
+	"Chunks": 
+	{
+		"translation": "Paloja",
+		"machine": true
+	},
+	"Max Chunk Updates": 
+	{
+		"translation": "Enimmäismäärä päivityksiä",
+		"machine": true
+	},
+	"Particle Amount": 
+	{
+		"translation": "Hiukkasten määrä",
+		"machine": true
+	},
+	"Weather Particle Amount": 
+	{
+		"translation": "Säähiukkasten määrä",
+		"machine": true
+	},
+	"Lights": 
+	{
+		"translation": "Valot",
+		"machine": true
+	},
+	"Lighting Quality": 
+	{
+		"translation": "Valaistuksen laatu",
+		"machine": true
+	},
+	"Samples": 
+	{
+		"translation": "Näytteet",
+		"machine": true
+	},
+	"Bloom Strength": 
+	{
+		"translation": "Kukinnan voimaa",
+		"machine": true
+	},
+	"Render Bloom On Optics": 
+	{
+		"translation": "Render kukkii optiikalla",
+		"machine": true
+	},
+	"Render Crepuscular Rays": 
+	{
+		"translation": "Esitä rypistyneet säteet",
+		"machine": true
+	},
+	"Enable Anti-Aliasing": 
+	{
+		"translation": "Ota aliasointi käyttöön",
+		"machine": true
+	},
+	"Outer Scope Blur": 
+	{
+		"translation": "Ulkopuolinen epätarkkuus",
+		"machine": true
+	},
+	"Compatibility": 
+	{
+		"translation": "Yhteensopivuus",
+		"machine": true
+	},
+	"Experimental": 
+	{
+		"translation": "Kokeellinen",
+		"machine": true
+	},
+	"Extensions": 
+	{
+		"translation": "Laajennukset",
+		"machine": true
+	},
+	"Sound Effect Volume": 
+	{
+		"translation": "Äänitehosteen äänenvoimakkuus",
+		"machine": true
+	},
+	"Ambient Volume": 
+	{
+		"translation": "Ympäristön äänenvoimakkuus",
+		"machine": true
+	},
+	"Game Music Volume": 
+	{
+		"translation": "Pelimusiikin äänenvoimakkuus",
+		"machine": true
+	},
+	"Menu Music Volume": 
+	{
+		"translation": "Valikon musiikin äänenvoimakkuus",
+		"machine": true
+	},
+	"Personal Footsteps Volume": 
+	{
+		"translation": "Henkilökohtaisten jalanjälkien äänenvoimakkuus",
+		"machine": true
+	},
+	"Team Footsteps Volume": 
+	{
+		"translation": "Joukkueen jalanjälkien äänenvoimakkuus",
+		"machine": true
+	},
+	"Movement": 
+	{
+		"translation": "Liike",
+		"machine": true
+	},
+	"Actions": 
+	{
+		"translation": "Toiminnot",
+		"machine": true
+	},
+	"Weaponry": 
+	{
+		"translation": "Aseistus",
+		"machine": true
+	},
+	"Single Dig by Default": 
+	{
+		"translation": "Yksittäinen kaivaus oletuksena",
+		"machine": true
+	},
+	"Tools": 
+	{
+		"translation": "Työkalut",
+		"machine": true
+	},
+	"Navigation": 
+	{
+		"translation": "Navigointi",
+		"machine": true
+	},
+	"Team Colours": 
+	{
+		"translation": "Joukkueen värit",
+		"machine": true
+	},
+	"Friendly Colour": 
+	{
+		"translation": "Ystävällinen väri",
+		"machine": true
+	},
+	"Party Colour": 
+	{
+		"translation": "Juhlan väri",
+		"machine": true
+	},
+	"Enemy Colour": 
+	{
+		"translation": "Vihollisen väri",
+		"machine": true
+	},
+	"High Quality Meshing": 
+	{
+		"translation": "Laadukas verkko",
+		"machine": true
+	},
+	"Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.": 
+	{
+		"translation": "Vietä enemmän aikaa prosessoriin, joka tuottaa laadukkaampia maailmansilmiä, mikä vähentää grafiikkasuorittimen painetta.",
+		"machine": true
+	},
+	"The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.": 
+	{
+		"translation": "Peli poistaa automaattisesti tehosteet käytöstä ja heikentää jälkikäsittelylaatua pitääkseen FPS korkeana. optimaalisten renderointiasetusten määrittäminen voi kestää jopa minuutin.",
+		"machine": true
+	},
+	"Polling Rate": 
+	{
+		"translation": "Äänestysnopeus",
+		"machine": true
+	},
+	"Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.": 
+	{
+		"translation": "Muuttaa, kuinka usein vastaanotat pelaajatietoja palvelimelta. alenna tätä arvoa, jos käytössäsi on epävakaa tai matalan kaistanleveyden internet.",
+		"machine": true
+	},
+	"Pew Pew Mode": 
+	{
+		"translation": "Pew pew -tila",
+		"machine": true
+	},
+	"Must keep enabled at all times": 
+	{
+		"translation": "Pitää pitää käytössä koko ajan",
+		"machine": true
+	},
+	"The size of the bottom-right minimap": 
+	{
+		"translation": "Oikean alakulman minikartan koko",
+		"machine": true
+	},
+	"The internal scale of the bottom-right minimap": 
+	{
+		"translation": "Oikean alakulman minikartan sisäinen asteikko",
+		"machine": true
+	},
+	"The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.": 
+	{
+		"translation": "Palvelimen nimeä ei näytetä tulostaululla, ja muut pelaajien nimet ja tasot satunnaistetaan puolestasi.",
+		"machine": true
+	},
+	"Controls whether the in-game HUD is rendered. Shortcut:": 
+	{
+		"translation": "Määrittää, muodostetaanko pelin sisäinen HUD. pikavalinta:",
+		"machine": true
+	},
+	"Show Chat": 
+	{
+		"translation": "Näytä chat",
+		"machine": true
+	},
+	"Controls whether the chat is rendered. Shortcut:": 
+	{
+		"translation": "Määrittää, muodostetaanko keskustelu. pikavalinta:",
+		"machine": true
+	},
+	"Controls whether the kill feed is rendered. Shortcut:": 
+	{
+		"translation": "Säätää, näytetäänkö tappisyöte. pikavalinta:",
+		"machine": true
+	},
+	"Controls whether player names are rendered. Shortcut:": 
+	{
+		"translation": "Määrittää, näytetäänkö pelaajien nimet. pikavalinta:",
+		"machine": true
+	},
+	"UI Scale": 
+	{
+		"translation": "UI -asteikko",
+		"machine": true
+	},
+	"Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS": 
+	{
+		"translation": "Hiukkasia syntyy, kun esineet osuvat tai tuhoutuvat. tämän prosentin alentaminen lisää FPS: ää",
+		"machine": true
+	},
+	"The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS": 
+	{
+		"translation": "Kartta on jaettu 32x32x32 lohkojen paloiksi. tämän vähentäminen lisää FPS: ää",
+		"machine": true
+	},
+	"Max Lights": 
+	{
+		"translation": "Max valot",
+		"machine": true
+	},
+	"The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS": 
+	{
+		"translation": "Maailmaa valaisevat auringonvalot, lohkovalot ja aseiden kuonovilkut. valojen enimmäismäärän pienentäminen lisää FPS: ää",
+		"machine": true
+	},
+	"Max FPS": 
+	{
+		"translation": "Max FPS",
+		"machine": true
+	},
+	"Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage": 
+	{
+		"translation": "Kehykset sekunnissa (FPS) tarkoittaa, kuinka monta kertaa peli päivittyy joka sekunti. tämän arvon alentaminen vähentää suorittimen ja grafiikkasuorittimen käyttöä",
+		"machine": true
+	},
+	"Enable SSAO": 
+	{
+		"translation": "Ota SSAO käyttöön",
+		"machine": true
+	},
+	"Screen Space Ambient Occlusion darkens the crevices between objects": 
+	{
+		"translation": "Näyttötilan ympäristön tukkeutuminen tummentaa esineiden välisiä rakoja",
+		"machine": true
+	},
+	"Enable Bloom": 
+	{
+		"translation": "Ota kukinta käyttöön",
+		"machine": true
+	},
+	"Bloom increases and blurs the brightness of emissive surfaces": 
+	{
+		"translation": "Bloom lisää ja sumentaa emissiopintojen kirkkautta",
+		"machine": true
+	},
+	"Enable Bloom On Optics": 
+	{
+		"translation": "Ota kukinta käyttöön optiikassa",
+		"machine": true
+	},
+	"Enable Crepuscular Rays": 
+	{
+		"translation": "Ota rypistyneet säteet käyttöön",
+		"machine": true
+	},
+	"Crepuscular rays are shafts of lights that originate from a star": 
+	{
+		"translation": "Krepuskulaariset säteet ovat tähdestä peräisin olevia valoja",
+		"machine": true
+	},
+	"Enable Shadows": 
+	{
+		"translation": "Ota varjot käyttöön",
+		"machine": true
+	},
+	"Parts of the map will be darkened by the shadows cast from other objects": 
+	{
+		"translation": "Muista kohteista heitetyt varjot tummuttavat osan kartasta",
+		"machine": true
+	},
+	"Controls whether players from casting shadows": 
+	{
+		"translation": "Määrittää, heittävätkö pelaajat varjoja",
+		"machine": true
+	},
+	"Controls whether Disruptors, C4, Scanners and Canisters cast shadows": 
+	{
+		"translation": "Määrittää, heittävätkö varjostimet, c4, skannerit ja säiliöt varjoja",
+		"machine": true
+	},
+	"Controls whether particles cast shadows": 
+	{
+		"translation": "Määrittää, heittävätkö hiukkaset varjoja",
+		"machine": true
+	},
+	"Controls whether leaf particles cast shadows": 
+	{
+		"translation": "Määrittää, heittävätkö lehtihiukkaset varjoja",
+		"machine": true
+	},
+	"Controls whether falling structures cast shadows": 
+	{
+		"translation": "Määrittää, muodostavatko putoavat rakenteet varjoja",
+		"machine": true
+	},
+	"Enable Multisampling": 
+	{
+		"translation": "Ota multisampling käyttöön",
+		"machine": true
+	},
+	"Multisampling smooths the edges of objects": 
+	{
+		"translation": "Multisampling tasoittaa esineiden reunat",
+		"machine": true
+	},
+	"Bare Minimum": 
+	{
+		"translation": "Vähimmäismäärä",
+		"machine": true
+	},
+	"The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time": 
+	{
+		"translation": "Pelkkä vähimmäismuotoilutila ohittaa kaiken jälkikäsittelyn ja renderoi objektit suoraan näytölle. tämän poistaminen käytöstä voi kestää jonkin aikaa",
+		"machine": true
+	},
+	"With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black": 
+	{
+		"translation": "Kun vähimmäismäärä on käytössä, tämä ohjaa, onko 2x ja 4x -alueiden ympärillä oleva alue epäselvä vai musta",
+		"machine": true
+	},
+	"Compress Textures": 
+	{
+		"translation": "Pakkaa tekstuurit",
+		"machine": true
+	},
+	"Compressing textures will use less memory on the GPU but the game will take longer to start up": 
+	{
+		"translation": "Kuvioiden pakkaaminen käyttää vähemmän muistia GPU: ssa, mutta pelin käynnistyminen kestää kauemmin",
+		"machine": true
+	},
+	"Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes": 
+	{
+		"translation": "Virheenkorjauksen lokitiedosto tallentaa lokitiedostot sovellukseen Data\/roaming\/vercidium\/log -kansio, joka auttaa kehittäjiä korjaamaan virheitä ja kaatumisia",
+		"machine": true
+	},
+	"Enable Safe Mode": 
+	{
+		"translation": "Ota vikasietotila käyttöön",
+		"machine": true
+	},
+	"Safe Mode prevents crashes from closing the game, but may slow the game down slightly": 
+	{
+		"translation": "Vikasietotila estää kaatumisia sulkemasta peliä, mutta voi hidastaa peliä hieman",
+		"machine": true
+	},
+	"Enable VSync": 
+	{
+		"translation": "Ota VSync käyttöön",
+		"machine": true
+	},
+	"Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing": 
+	{
+		"translation": "Pystysynkronointi vastaa pelin päivitystaajuutta näytön virkistystaajuuteen. Tämän käyttöönotto voi korjata näytön repeytymisen",
+		"machine": true
+	},
+	"Dynamic Exposure": 
+	{
+		"translation": "Dynaaminen valotus",
+		"machine": true
+	},
+	"Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene": 
+	{
+		"translation": "Dynaaminen valotus jäljittelee ihmissilmää säätämällä valotusta otoksen kirkkauden perusteella",
+		"machine": true
+	},
+	"Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker": 
+	{
+		"translation": "Varjojen laadun heikentäminen lisää FPS: ää, mutta lähivarjojen välkkymistä",
+		"machine": true
+	},
+	"Reducing the quality of lighting will increase FPS but pixelate lighting": 
+	{
+		"translation": "Valaistuksen laadun heikkeneminen lisää FPS mutta pikselivalaistusta",
+		"machine": true
+	},
+	"Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware": 
+	{
+		"translation": "Tämän käyttöönotto poistaa renderöintiputken osat, jotka ovat mahdollisesti hitaita vanhemmalla laitteistolla",
+		"machine": true
+	},
+	"Enable this if you are having trouble connecting to servers": 
+	{
+		"translation": "Ota tämä käyttöön, jos sinulla on ongelmia yhteyden muodostamisessa palvelimiin",
+		"machine": true
+	},
+	"Only Scroll Weapons": 
+	{
+		"translation": "Vain vieritysaseita",
+		"machine": true
+	},
+	"If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools": 
+	{
+		"translation": "Jos se on käytössä, vierityspyörä pyörii vain aseidesi välillä, ei rakennus-\/kaivaustyökaluissasi",
+		"machine": true
+	},
+	"If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity": 
+	{
+		"translation": "Jos tämä on käytössä, jokainen ironsight \/ 2x \/ 4x herkkyysvaihtoehto on kerroin, joka perustuu ulkonäköherkkyyteesi",
+		"machine": true
+	},
+	"The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage": 
+	{
+		"translation": "Kartan osien määrä, jotka päivitetään joka kehyksessä. tämän laskeminen vähentää suorittimen käyttöä",
+		"machine": true
+	},
+	"Low Quality Textures": 
+	{
+		"translation": "Huonolaatuiset tekstuurit",
+		"machine": true
+	},
+	"Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect": 
+	{
+		"translation": "Tämän käyttöönotto vähentää tekstuurin resoluutiota ja lisää FPS: ää ja vähentää muistin käyttöä. Tämän poistaminen käytöstä edellyttää uudelleenkäynnistystä",
+		"machine": true
+	},
+	"SSAO Samples": 
+	{
+		"translation": "SSAO -näytteet",
+		"machine": true
+	},
+	"Increasing this will improve the quality of Ambient Occlusion postprocessing": 
+	{
+		"translation": "Tämän lisääminen parantaa ympäristön tukkeutumisen jälkikäsittelyn laatua",
+		"machine": true
+	},
+	"Player Name Distance": 
+	{
+		"translation": "Pelaajan nimen etäisyys",
+		"machine": true
+	},
+	"This controls how far away friendly names will show": 
+	{
+		"translation": "Tämä ohjaa kuinka kaukana ystävälliset nimet näytetään",
+		"machine": true
+	},
+	"Midi Counts as Weapon": 
+	{
+		"translation": "Midi lasketaan aseena",
+		"machine": true
+	},
+	"When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them": 
+	{
+		"translation": "Kun tämä toiminto on poistettu käytöstä, midi\/kaivuri\/rakenne ohitetaan, kun vieritetään aseita ja viimeisen työkalunäppäimen painaminen ei vaihda niihin",
+		"machine": true
+	},
+	"Automatically pause the game when you change to another window": 
+	{
+		"translation": "Keskeytä peli automaattisesti, kun vaihdat toiseen ikkunaan",
+		"machine": true
+	},
+	"Replace swear words in chat messages with delicious food": 
+	{
+		"translation": "Korvaa chat -viestien kirosanat herkullisella ruoalla",
+		"machine": true
+	},
+	"Game Resolution": 
+	{
+		"translation": "Pelin resoluutio",
+		"machine": true
+	},
+	"Reducing this will increase FPS": 
+	{
+		"translation": "Tämän vähentäminen lisää FPS: ää",
+		"machine": true
+	},
+	"Override Resolution": 
+	{
+		"translation": "Ohita tarkkuus",
+		"machine": true
+	},
+	"Enabling this will make the game render at the resolution specified below and stretch to the size of the window": 
+	{
+		"translation": "Tämän ottaminen käyttöön tekee pelistä renderöinnin alla määritetyllä resoluutiolla ja venyy ikkunan kokoon",
+		"machine": true
+	},
+	"Smooth Scaling": 
+	{
+		"translation": "Sileä skaalaus",
+		"machine": true
+	},
+	"Enabling this will reduce the pixelation of lower game resolutions": 
+	{
+		"translation": "Tämän käyttöönotto vähentää pienempien pelitarkkuuksien pikselöintiä",
+		"machine": true
+	},
+	"NVIDIA OpenGL Extensions": 
+	{
+		"translation": "NVIDIA openGL -laajennukset",
+		"machine": true
+	},
+	"Experimental performance setting, may crash your game. Don't enable if you haven't been told to": 
+	{
+		"translation": "Kokeellinen suorituskykyasetus voi kaataa pelisi. älä ota käyttöön, jos sinulle ei ole kerrottu",
+		"machine": true
+	},
+	"Beta Rendering": 
+	{
+		"translation": "Beta -renderointi",
+		"machine": true
+	},
+	"New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled": 
+	{
+		"translation": "Uusi renderöintiputki. kerro vercidiumille erimielisyyksissä, jos peli toimii nopeammin\/hitaammin tämän ollessa käytössä",
+		"machine": true
+	},
+	"Enable this to make": 
+	{
+		"translation": "Ota tämä käyttöön",
+		"machine": true
+	},
+	"dig single blocks and": 
+	{
+		"translation": "kaivaa yksittäisiä lohkoja ja",
+		"machine": true
+	},
+	"dig a 3x3x3 area": 
+	{
+		"translation": "kaivaa 3x3x3 alue",
+		"machine": true
+	},
+	"Show Enemies on Zone Bar": 
+	{
+		"translation": "Näytä viholliset vyöhykepalkissa",
+		"machine": true
+	},
+	"Forwards": 
+	{
+		"translation": "Eteenpäin",
+		"machine": true
+	},
+	"Right": 
+	{
+		"translation": "Aivan",
+		"machine": true
+	},
+	"Backwards": 
+	{
+		"translation": "Taaksepäin",
+		"machine": true
+	},
+	"Crouch": 
+	{
+		"translation": "Kyyry",
+		"machine": true
+	},
+	"Jump": 
+	{
+		"translation": "Hypätä",
+		"machine": true
+	},
+	"Sprint": 
+	{
+		"translation": "Sprintti",
+		"machine": true
+	},
+	"Slide": 
+	{
+		"translation": "Dia",
+		"machine": true
+	},
+	"Pick Up Primary": 
+	{
+		"translation": "Nosta ensisijainen",
+		"machine": true
+	},
+	"Pick Up Secondary": 
+	{
+		"translation": "Nouto toissijainen",
+		"machine": true
+	},
+	"Ping": 
+	{
+		"translation": "Ping",
+		"machine": true
+	},
+	"Ping (Enemy)": 
+	{
+		"translation": "Ping (vihollinen)",
+		"machine": true
+	},
+	"Ping (Caution)": 
+	{
+		"translation": "Ping (varoitus)",
+		"machine": true
+	},
+	"Ping (Help)": 
+	{
+		"translation": "Ping (apua)",
+		"machine": true
+	},
+	"Ping (Reinforce)": 
+	{
+		"translation": "Ping (vahvista)",
+		"machine": true
+	},
+	"Ping (Destroy)": 
+	{
+		"translation": "Ping (tuhota)",
+		"machine": true
+	},
+	"Shoot": 
+	{
+		"translation": "Ampua",
+		"machine": true
+	},
+	"Scope": 
+	{
+		"translation": "Soveltamisala",
+		"machine": true
+	},
+	"Melee": 
+	{
+		"translation": "Nujakka",
+		"machine": true
+	},
+	"Grenade": 
+	{
+		"translation": "Kranaatti",
+		"machine": true
+	},
+	"Midi": 
+	{
+		"translation": "Midi",
+		"machine": true
+	},
+	"Digger": 
+	{
+		"translation": "Kullankaivaja",
+		"machine": true
+	},
+	"Structure (Radial)": 
+	{
+		"translation": "Rakenne (säteittäinen)",
+		"machine": true
+	},
+	"Structure (Toggle)": 
+	{
+		"translation": "Rakenne (vaihda)",
+		"machine": true
+	},
+	"Structure 1": 
+	{
+		"translation": "Rakenne 1",
+		"machine": true
+	},
+	"Structure 2": 
+	{
+		"translation": "Rakenne 2",
+		"machine": true
+	},
+	"Structure 3": 
+	{
+		"translation": "Rakenne 3",
+		"machine": true
+	},
+	"Structure 4": 
+	{
+		"translation": "Rakenne 4",
+		"machine": true
+	},
+	"Structure 5": 
+	{
+		"translation": "Rakenne 5",
+		"machine": true
+	},
+	"Structure 6": 
+	{
+		"translation": "Rakenne 6",
+		"machine": true
+	},
+	"Structure 7": 
+	{
+		"translation": "Rakenne 7",
+		"machine": true
+	},
+	"Structure 8": 
+	{
+		"translation": "Rakenne 8",
+		"machine": true
+	},
+	"Structure 9": 
+	{
+		"translation": "Rakenne 9",
+		"machine": true
+	},
+	"Primary": 
+	{
+		"translation": "Ensisijainen",
+		"machine": true
+	},
+	"Secondary": 
+	{
+		"translation": "Toissijainen",
+		"machine": true
+	},
+	"Switch To Last Tool": 
+	{
+		"translation": "Vaihda viimeiseen työkaluun",
+		"machine": true
+	},
+	"Next Tool": 
+	{
+		"translation": "Seuraava työkalu",
+		"machine": true
+	},
+	"Previous Tool": 
+	{
+		"translation": "Edellinen työkalu",
+		"machine": true
+	},
+	"Team Chat": 
+	{
+		"translation": "Joukkueen chat",
+		"machine": true
+	},
+	"View Scoreboard": 
+	{
+		"translation": "Katso tulostaulu",
+		"machine": true
+	},
+	"Unlock Scoreboard": 
+	{
+		"translation": "Avaa tulostaulu",
+		"machine": true
+	},
+	"View Map": 
+	{
+		"translation": "Näytä kartta",
+		"machine": true
+	},
+	"Menu": 
+	{
+		"translation": "Valikko",
+		"machine": true
+	},
+	"Toggle Fullscreen": 
+	{
+		"translation": "Vaihda koko näytön tilaan",
+		"machine": true
+	},
+	"Toggle UI": 
+	{
+		"translation": "Vaihda käyttöliittymä",
+		"machine": true
+	},
+	"Toggle Chat": 
+	{
+		"translation": "Vaihda chat",
+		"machine": true
+	},
+	"Toggle Killfeed": 
+	{
+		"translation": "Vaihda killfeed",
+		"machine": true
+	},
+	"Toggle Names": 
+	{
+		"translation": "Vaihda nimet",
+		"machine": true
+	},
+	"Toggle Info Overlay": 
+	{
+		"translation": "Vaihda tietopeittokuva",
+		"machine": true
+	},
+	"Custom Map - Reload": 
+	{
+		"translation": "Mukautettu kartta - lataa uudelleen",
+		"machine": true
+	},
+	"Custom Map - Full Reload": 
+	{
+		"translation": "Mukautettu kartta - täysi lataus",
+		"machine": true
+	},
+	"Custom Map - Toggle Fall Damage": 
+	{
+		"translation": "Mukautettu kartta - vaihda putoamisvaurioita",
+		"machine": true
+	},
+	"Custom Map - Toggle Fly Camera": 
+	{
+		"translation": "Mukautettu kartta - vaihda lentokameraa",
+		"machine": true
+	},
+	"Reset UI Scale": 
+	{
+		"translation": "Nollaa käyttöliittymän asteikko",
+		"machine": true
+	},
+	"Provide Feedback": 
+	{
+		"translation": "Antaa palautetta",
+		"machine": true
+	},
+	"News Tab": 
+	{
+		"translation": "Uutiset -välilehti",
+		"machine": true
+	},
+	"Store Tab": 
+	{
+		"translation": "Store -välilehti",
+		"machine": true
+	},
+	"Career Tab": 
+	{
+		"translation": "Ura -välilehti",
+		"machine": true
+	},
+	"Play Tab": 
+	{
+		"translation": "Toista -välilehti",
+		"machine": true
+	},
+	"Clan Tab": 
+	{
+		"translation": "Klaani -välilehti",
+		"machine": true
+	},
+	"Character Tab": 
+	{
+		"translation": "Merkki -välilehti",
+		"machine": true
+	},
+	"Weapons Tab": 
+	{
+		"translation": "Aseet -välilehti",
+		"machine": true
+	},
+	"Loadouts Tab": 
+	{
+		"translation": "Lataukset -välilehti",
+		"machine": true
+	},
+	"Ship Tab": 
+	{
+		"translation": "Ship -välilehti",
+		"machine": true
+	},
+	"Settings Tab": 
+	{
+		"translation": "Asetukset -välilehti",
+		"machine": true
+	},
+	"Mapping Tab": 
+	{
+		"translation": "Kartoitus -välilehti",
+		"machine": true
+	},
+	"Open Trial Window": 
+	{
+		"translation": "Avaa kokeiluikkuna",
+		"machine": true
+	},
+	"Restart Trial": 
+	{
+		"translation": "Käynnistä kokeilu uudelleen",
+		"machine": true
+	}
+}

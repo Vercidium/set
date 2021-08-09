@@ -1,0 +1,4302 @@
+{
+	"Cluster spawn": 
+	{
+		"translation": "Cluster spawn",
+		"machine": true
+	},
+	"Damage": 
+	{
+		"translation": "Schade",
+		"machine": true
+	},
+	"Overkill": 
+	{
+		"translation": "overkill",
+		"machine": true
+	},
+	"Direct": 
+	{
+		"translation": "direct",
+		"machine": true
+	},
+	"Disruptor assist": 
+	{
+		"translation": "Storingshulp",
+		"machine": true
+	},
+	"Headshot": 
+	{
+		"translation": "Hoofdschot",
+		"machine": true
+	},
+	"Kill": 
+	{
+		"translation": "Doden",
+		"machine": true
+	},
+	"Kill streak": 
+	{
+		"translation": "Kill streak",
+		"machine": true
+	},
+	"VIP kill": 
+	{
+		"translation": "VIP doden",
+		"machine": true
+	},
+	"VIP defend": 
+	{
+		"translation": "VIP verdedigen",
+		"machine": true
+	},
+	"Scanner destroyed": 
+	{
+		"translation": "Scanner vernietigd",
+		"machine": true
+	},
+	"Scanner assist": 
+	{
+		"translation": "Scannerhulp",
+		"machine": true
+	},
+	"C4 destroyed": 
+	{
+		"translation": "C4 vernietigd",
+		"machine": true
+	},
+	"Disruptor destroyed": 
+	{
+		"translation": "Disruptor vernietigd",
+		"machine": true
+	},
+	"Avenger": 
+	{
+		"translation": "Wreker",
+		"machine": true
+	},
+	"Saviour": 
+	{
+		"translation": "Redder",
+		"machine": true
+	},
+	"Flag capture": 
+	{
+		"translation": "Vlag vastleggen",
+		"machine": true
+	},
+	"Flag carry": 
+	{
+		"translation": "Vlag dragen",
+		"machine": true
+	},
+	"Flag return": 
+	{
+		"translation": "Vlag terugkeer",
+		"machine": true
+	},
+	"Flag attack": 
+	{
+		"translation": "vlag aanval",
+		"machine": true
+	},
+	"Flag defend": 
+	{
+		"translation": "Vlag verdedigen",
+		"machine": true
+	},
+	"Escort": 
+	{
+		"translation": "Escort",
+		"machine": true
+	},
+	"Flag carrier kill": 
+	{
+		"translation": "Vlaggendrager doden",
+		"machine": true
+	},
+	"Bomb deliver": 
+	{
+		"translation": "Bom afleveren",
+		"machine": true
+	},
+	"Bomb carry": 
+	{
+		"translation": "bom dragen",
+		"machine": true
+	},
+	"Bomb defuse": 
+	{
+		"translation": "Bom onschadelijk maken",
+		"machine": true
+	},
+	"Bomb attack": 
+	{
+		"translation": "Bomaanslag",
+		"machine": true
+	},
+	"Bomb defend": 
+	{
+		"translation": "Bom verdedigen",
+		"machine": true
+	},
+	"Spot assist": 
+	{
+		"translation": "Spothulp",
+		"machine": true
+	},
+	"Attacking": 
+	{
+		"translation": "aanvallend",
+		"machine": true
+	},
+	"Defending": 
+	{
+		"translation": "Verdedigen",
+		"machine": true
+	},
+	"Contesting": 
+	{
+		"translation": "Bestrijding",
+		"machine": true
+	},
+	"Canister capture": 
+	{
+		"translation": "Canister capture",
+		"machine": true
+	},
+	"Zone capture": 
+	{
+		"translation": "Zone vastleggen",
+		"machine": true
+	},
+	"Beacon capture": 
+	{
+		"translation": "Baken vastleggen",
+		"machine": true
+	},
+	"Beacon destroyed": 
+	{
+		"translation": "Baken vernietigd",
+		"machine": true
+	},
+	"Salvage": 
+	{
+		"translation": "Redden",
+		"machine": true
+	},
+	"Round win": 
+	{
+		"translation": "Ronde overwinning",
+		"machine": true
+	},
+	"Round survive": 
+	{
+		"translation": "ronde overleven",
+		"machine": true
+	},
+	"Assist": 
+	{
+		"translation": "Helpen",
+		"machine": true
+	},
+	"Assist counts as kill": 
+	{
+		"translation": "Assist telt als kill",
+		"machine": true
+	},
+	"Fortifying": 
+	{
+		"translation": "Versterkend",
+		"machine": true
+	},
+	"Most Valuable Player": 
+	{
+		"translation": "Waardevolste speler",
+		"machine": true
+	},
+	"Annihilator": 
+	{
+		"translation": "vernietiger",
+		"machine": true
+	},
+	"Marksman": 
+	{
+		"translation": "Scherpschutter",
+		"machine": true
+	},
+	"Creator": 
+	{
+		"translation": "Schepper",
+		"machine": true
+	},
+	"Destroyer": 
+	{
+		"translation": "Torpedojager",
+		"machine": true
+	},
+	"Attacker": 
+	{
+		"translation": "Aanvaller",
+		"machine": true
+	},
+	"Defender": 
+	{
+		"translation": "Verdediger",
+		"machine": true
+	},
+	"Impaler": 
+	{
+		"translation": "Spietser",
+		"machine": true
+	},
+	"Resilient": 
+	{
+		"translation": "Veerkrachtig",
+		"machine": true
+	},
+	"Assistance": 
+	{
+		"translation": "Bijstand",
+		"machine": true
+	},
+	"Impacter": 
+	{
+		"translation": "Impacter",
+		"machine": true
+	},
+	"Infiltrator": 
+	{
+		"translation": "infiltrant",
+		"machine": true
+	},
+	"Team placement": 
+	{
+		"translation": "Teamplaatsing",
+		"machine": true
+	},
+	"Connecting": 
+	{
+		"translation": "Verbinden",
+		"machine": true
+	},
+	"Loading Map": 
+	{
+		"translation": "Kaart laden",
+		"machine": true
+	},
+	"None": 
+	{
+		"translation": "Geen",
+		"machine": true
+	},
+	"Playing": 
+	{
+		"translation": "Spelen",
+		"machine": true
+	},
+	"Reserved (party)": 
+	{
+		"translation": "Gereserveerd (feestje))",
+		"machine": true
+	},
+	"Selecting a team": 
+	{
+		"translation": "Een team selecteren",
+		"machine": true
+	},
+	"Spectating": 
+	{
+		"translation": "Toeschouwers",
+		"machine": true
+	},
+	"Left": 
+	{
+		"translation": "Links",
+		"machine": true
+	},
+	"Breakthrough": 
+	{
+		"translation": "Doorbraak",
+		"machine": true
+	},
+	"Control Shift": 
+	{
+		"translation": "Besturingsverschuiving",
+		"machine": true
+	},
+	"Capture the Flag": 
+	{
+		"translation": "Verover de vlag",
+		"machine": true
+	},
+	"Gun Game": 
+	{
+		"translation": "Schietspel",
+		"machine": true
+	},
+	"Head Hunter": 
+	{
+		"translation": "koppen jager",
+		"machine": true
+	},
+	"Spire": 
+	{
+		"translation": "torenspits",
+		"machine": true
+	},
+	"Static": 
+	{
+		"translation": "Statisch",
+		"machine": true
+	},
+	"All": 
+	{
+		"translation": "Alle",
+		"machine": true
+	},
+	"Kicked by a moderator": 
+	{
+		"translation": "Geschopt door een moderator",
+		"machine": true
+	},
+	"Already in game": 
+	{
+		"translation": "Al in het spel",
+		"machine": true
+	},
+	"Authentication failed": 
+	{
+		"translation": "Verificatie mislukt",
+		"machine": true
+	},
+	"Banned": 
+	{
+		"translation": "verboden",
+		"machine": true
+	},
+	"Disconnected": 
+	{
+		"translation": "Verbinding verbroken",
+		"machine": true
+	},
+	"EAC Violation": 
+	{
+		"translation": "EAC-schending",
+		"machine": true
+	},
+	"Kicked for inactivity": 
+	{
+		"translation": "Geschopt wegens inactiviteit",
+		"machine": true
+	},
+	"Internal error": 
+	{
+		"translation": "Interne fout",
+		"machine": true
+	},
+	"Map is restoring. Try again in 10 seconds": 
+	{
+		"translation": "Kaart is aan het herstellen. probeer het over 10 seconden opnieuw",
+		"machine": true
+	},
+	"Network Error": 
+	{
+		"translation": "Netwerkfout",
+		"machine": true
+	},
+	"No Error": 
+	{
+		"translation": "Geen fout",
+		"machine": true
+	},
+	"Reconnecting": 
+	{
+		"translation": "Opnieuw verbinden",
+		"machine": true
+	},
+	"Server is restarting": 
+	{
+		"translation": "Server wordt opnieuw opgestart",
+		"machine": true
+	},
+	"Temporarily Banned": 
+	{
+		"translation": "Tijdelijk verboden",
+		"machine": true
+	},
+	"Version mismatch": 
+	{
+		"translation": "Versie komt niet overeen",
+		"machine": true
+	},
+	"Votekicked": 
+	{
+		"translation": "Gestemd",
+		"machine": true
+	},
+	"Votekick still in effect": 
+	{
+		"translation": "Stemkick nog steeds van kracht",
+		"machine": true
+	},
+	"Incorrect password": 
+	{
+		"translation": "Incorrect wachtwoord",
+		"machine": true
+	},
+	"Your level is too high": 
+	{
+		"translation": "Je niveau is te hoog",
+		"machine": true
+	},
+	"Can only claim 3 lobbies per day": 
+	{
+		"translation": "Kan slechts 3 lobby's per dag claimen",
+		"machine": true
+	},
+	"Lobby already claimed": 
+	{
+		"translation": "Lobby al geclaimd",
+		"machine": true
+	},
+	"Min level must be lower than your own": 
+	{
+		"translation": "Het minimumniveau moet lager zijn dan dat van jezelf",
+		"machine": true
+	},
+	"Max level must be greater than your own": 
+	{
+		"translation": "Max niveau moet groter zijn dan je eigen niveau",
+		"machine": true
+	},
+	"Min level can't be greater than max level": 
+	{
+		"translation": "Min niveau kan niet groter zijn dan max niveau",
+		"machine": true
+	},
+	"You are too powerful": 
+	{
+		"translation": "Je bent te machtig",
+		"machine": true
+	},
+	"Your level is too low": 
+	{
+		"translation": "Je niveau is te laag",
+		"machine": true
+	},
+	"Cannot claim. Lobby has players": 
+	{
+		"translation": "Kan niet claimen. lobby heeft spelers",
+		"machine": true
+	},
+	"Reserved slot expired": 
+	{
+		"translation": "Gereserveerd slot verlopen",
+		"machine": true
+	},
+	"Min level must be less than max level": 
+	{
+		"translation": "Min niveau moet lager zijn dan max niveau",
+		"machine": true
+	},
+	"Bot Replacement": 
+	{
+		"translation": "Botvervanging",
+		"machine": true
+	},
+	"Accelerator": 
+	{
+		"translation": "Gaspedaal",
+		"machine": true
+	},
+	"Beam splitter": 
+	{
+		"translation": "Straalsplitser",
+		"machine": true
+	},
+	"Choke": 
+	{
+		"translation": "Verstikken",
+		"machine": true
+	},
+	"Compressor": 
+	{
+		"translation": "Compressor",
+		"machine": true
+	},
+	"Default": 
+	{
+		"translation": "Standaard",
+		"machine": true
+	},
+	"Extended": 
+	{
+		"translation": "Verlengd",
+		"machine": true
+	},
+	"Extendedest": 
+	{
+		"translation": "Verlengde",
+		"machine": true
+	},
+	"Resonator": 
+	{
+		"translation": "resonator",
+		"machine": true
+	},
+	"Silencer": 
+	{
+		"translation": "Geluiddemper",
+		"machine": true
+	},
+	"Medium": 
+	{
+		"translation": "Medium",
+		"machine": true
+	},
+	"Short": 
+	{
+		"translation": "Kort",
+		"machine": true
+	},
+	"Angled": 
+	{
+		"translation": "hoekig",
+		"machine": true
+	},
+	"Removed": 
+	{
+		"translation": "VERWIJDERD",
+		"machine": true
+	},
+	"Stubby": 
+	{
+		"translation": "stomp",
+		"machine": true
+	},
+	"Augmented": 
+	{
+		"translation": "vergroot",
+		"machine": true
+	},
+	"Buckshot": 
+	{
+		"translation": "Buckshot",
+		"machine": true
+	},
+	"Burst": 
+	{
+		"translation": "Uitbarsting",
+		"machine": true
+	},
+	"Lethal": 
+	{
+		"translation": "Dodelijk",
+		"machine": true
+	},
+	"Heavy": 
+	{
+		"translation": "Zwaar",
+		"machine": true
+	},
+	"Light": 
+	{
+		"translation": "Licht",
+		"machine": true
+	},
+	"Piercing": 
+	{
+		"translation": "Piercing",
+		"machine": true
+	},
+	"Ricochet": 
+	{
+		"translation": "Ricochet",
+		"machine": true
+	},
+	"Slug": 
+	{
+		"translation": "Naaktslak",
+		"machine": true
+	},
+	"Tow": 
+	{
+		"translation": "Slepen",
+		"machine": true
+	},
+	"Corrosive": 
+	{
+		"translation": "Bijtend",
+		"machine": true
+	},
+	"Explosive": 
+	{
+		"translation": "explosief",
+		"machine": true
+	},
+	"Incendiary": 
+	{
+		"translation": "brandgevaarlijk",
+		"machine": true
+	},
+	"Base": 
+	{
+		"translation": "Baseren",
+		"machine": true
+	},
+	"Tactical": 
+	{
+		"translation": "Tactisch",
+		"machine": true
+	},
+	"Mechanical": 
+	{
+		"translation": "Mechanisch",
+		"machine": true
+	},
+	"Advanced": 
+	{
+		"translation": "Geavanceerd",
+		"machine": true
+	},
+	"Welded": 
+	{
+		"translation": "gelast",
+		"machine": true
+	},
+	"Pneumatic": 
+	{
+		"translation": "pneumatisch",
+		"machine": true
+	},
+	"Single": 
+	{
+		"translation": "Enkel",
+		"machine": true
+	},
+	"Automatic": 
+	{
+		"translation": "automatisch",
+		"machine": true
+	},
+	"Sniper": 
+	{
+		"translation": "sluipschutter",
+		"machine": true
+	},
+	"Rifle": 
+	{
+		"translation": "Geweer",
+		"machine": true
+	},
+	"SMG": 
+	{
+		"translation": "SMG",
+		"machine": true
+	},
+	"Shotgun": 
+	{
+		"translation": "Jachtgeweer",
+		"machine": true
+	},
+	"Pistol": 
+	{
+		"translation": "Pistool",
+		"machine": true
+	},
+	"Equipment": 
+	{
+		"translation": "Apparatuur",
+		"machine": true
+	},
+	"Other": 
+	{
+		"translation": "Ander",
+		"machine": true
+	},
+	"Ironsights": 
+	{
+		"translation": "Ironsights",
+		"machine": true
+	},
+	"Broken Circle": 
+	{
+		"translation": "Gebroken cirkel",
+		"machine": true
+	},
+	"Broken Square": 
+	{
+		"translation": "Gebroken vierkant",
+		"machine": true
+	},
+	"Chevron": 
+	{
+		"translation": "Chevron",
+		"machine": true
+	},
+	"Circle Cross": 
+	{
+		"translation": "Cirkel kruis",
+		"machine": true
+	},
+	"Dot Cross": 
+	{
+		"translation": "Punt kruis",
+		"machine": true
+	},
+	"Dotted Cross": 
+	{
+		"translation": "gestippeld kruis",
+		"machine": true
+	},
+	"Pointed Cross": 
+	{
+		"translation": "puntig kruis",
+		"machine": true
+	},
+	"Sparse Dotted Cross": 
+	{
+		"translation": "Dun gestippeld kruis",
+		"machine": true
+	},
+	"Unbroken Cross": 
+	{
+		"translation": "ongebroken kruis",
+		"machine": true
+	},
+	"2px Dot": 
+	{
+		"translation": "2px punt",
+		"machine": true
+	},
+	"4px Dot": 
+	{
+		"translation": "4px punt",
+		"machine": true
+	},
+	"6px Dot": 
+	{
+		"translation": "6px punt",
+		"machine": true
+	},
+	"8px Dot": 
+	{
+		"translation": "8px punt",
+		"machine": true
+	},
+	"Flat Dot": 
+	{
+		"translation": "platte stip",
+		"machine": true
+	},
+	"Dot Plus": 
+	{
+		"translation": "Punt plus",
+		"machine": true
+	},
+	"Dot Plus Circle": 
+	{
+		"translation": "Punt plus cirkel",
+		"machine": true
+	},
+	"Dot T": 
+	{
+		"translation": "Punt T",
+		"machine": true
+	},
+	"Empty Plus": 
+	{
+		"translation": "Leeg plus",
+		"machine": true
+	},
+	"Empty T": 
+	{
+		"translation": "Leeg T",
+		"machine": true
+	},
+	"T Point": 
+	{
+		"translation": "T-punt",
+		"machine": true
+	},
+	"T Point Round": 
+	{
+		"translation": "T punt rond",
+		"machine": true
+	},
+	"Camoflague": 
+	{
+		"translation": "Camoflague",
+		"machine": true
+	},
+	"Metallic": 
+	{
+		"translation": "Metalen",
+		"machine": true
+	},
+	"Animated": 
+	{
+		"translation": "geanimeerd",
+		"machine": true
+	},
+	"Digital": 
+	{
+		"translation": "Digitaal",
+		"machine": true
+	},
+	"Tiger": 
+	{
+		"translation": "Tijger",
+		"machine": true
+	},
+	"Poly": 
+	{
+		"translation": "Poly",
+		"machine": true
+	},
+	"Snakeskin": 
+	{
+		"translation": "slangenleer",
+		"machine": true
+	},
+	"Woodland": 
+	{
+		"translation": "Bos",
+		"machine": true
+	},
+	"Hot Metal": 
+	{
+		"translation": "Heet metaal",
+		"machine": true
+	},
+	"Cold Metal": 
+	{
+		"translation": "Koud metaal",
+		"machine": true
+	},
+	"Pearl": 
+	{
+		"translation": "Parel",
+		"machine": true
+	},
+	"Tracer": 
+	{
+		"translation": "Tracer",
+		"machine": true
+	},
+	"Fluid": 
+	{
+		"translation": "Vloeistof",
+		"machine": true
+	},
+	"Ember": 
+	{
+		"translation": "Sintel",
+		"machine": true
+	},
+	"Grid": 
+	{
+		"translation": "Rooster",
+		"machine": true
+	},
+	"This mid-long ranged weapon is balanced for most conflicts.": 
+	{
+		"translation": "Dit middellange afstandswapen is gebalanceerd voor de meeste conflicten.",
+		"machine": true
+	},
+	"Mecharii technology that can be charged multiple times to produce a more powerful beam.": 
+	{
+		"translation": "Mecharii-technologie die meerdere keren kan worden opgeladen om een krachtigere straal te produceren.",
+		"machine": true
+	},
+	"Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.": 
+	{
+		"translation": "Gooi met links klikken en ontploffen met rechts klikken. bij respawn zijn c4 losgekoppeld van jou en moet worden neergeschoten om te ontploffen.",
+		"machine": true
+	},
+	"This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.": 
+	{
+		"translation": "Dit jachtgeweer voor de middellange afstand maakt indruk op langere afstanden.\nTijdens het afbakenen zal de spreiding van de pellets in 3,0 seconden met 70% verminderen.",
+		"machine": true
+	},
+	"A testament to Aegis' advanced technology.": 
+	{
+		"translation": "Een bewijs van de geavanceerde technologie van aegis.",
+		"machine": true
+	},
+	"Slower Midi digging that removes a 3x3x3 chunk of blocks.": 
+	{
+		"translation": "Langzamer midi-graven dat een stuk blokken van 3x3x3 verwijdert.",
+		"machine": true
+	},
+	"Place on a block surface to electrify passing enemies. Single use only.": 
+	{
+		"translation": "Plaats op een blokoppervlak om passerende vijanden te elektriseren. eenmalig gebruik.",
+		"machine": true
+	},
+	"Allows one extra modification to be equipped.": 
+	{
+		"translation": "Maakt het mogelijk om één extra modificatie uit te rusten.",
+		"machine": true
+	},
+	"This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.": 
+	{
+		"translation": "Dit middellange afstandswapen lanceert onstabiele soltriumkernen die stuiteren voordat ze exploderen.",
+		"machine": true
+	},
+	"This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.": 
+	{
+		"translation": "Deze granaat heeft een onstabiele soltriumkern en ontploft na 3 seconden. alle spelers hebben twee granaten, maar als je dit inschakelt, blijven je granaten aan muren plakken.",
+		"machine": true
+	},
+	"Agaman technology that cuts through blocks instantly.": 
+	{
+		"translation": "Agaman-technologie die direct door blokken heen snijdt.",
+		"machine": true
+	},
+	"This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots": 
+	{
+		"translation": "Dit middellange afstandswapen heeft een grote clip voor onderdrukkend vuur.\nOververhit na 50 continue opnamen",
+		"machine": true
+	},
+	"Agaman technology that fires balls of plasma in quick succession.": 
+	{
+		"translation": "Agaman-technologie die plasmaballen snel achter elkaar afvuurt.",
+		"machine": true
+	},
+	"Place blocks with this tool.": 
+	{
+		"translation": "Plaats blokken met deze tool.",
+		"machine": true
+	},
+	"This mid ranged shoots Soltrium Tracer Rounds. Recharges over time and can overheat.": 
+	{
+		"translation": "Deze midrange schiet soltrium tracerrondes. laadt na verloop van tijd op en kan oververhit raken.",
+		"machine": true
+	},
+	"Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.": 
+	{
+		"translation": "Destructieve agaman-technologie die soltrium-energie omzet in een explosieve bal plasma.",
+		"machine": true
+	},
+	"Paint blocks with this tool.": 
+	{
+		"translation": "Verf blokken met deze tool.",
+		"machine": true
+	},
+	"This close-mid ranged weapon shoots quickly but has a small magazine.": 
+	{
+		"translation": "Dit wapen op korte afstand schiet snel maar heeft een klein magazijn.",
+		"machine": true
+	},
+	"Light Agaman technology. Fast firing, hard hitting.": 
+	{
+		"translation": "Lichte agaman-technologie. snel vuren, hard slaan.",
+		"machine": true
+	},
+	"Heavy Agaman technology. Fires a hard-hitting ball of plasma.": 
+	{
+		"translation": "Zware agaman-technologie. vuurt een keiharde plasmabal af.",
+		"machine": true
+	},
+	"This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.": 
+	{
+		"translation": "Dit langeafstandswapen maakt gebruik van magnetische voortstuwing en kan worden uitgerust met een 4x richtkijker om bondgenoten op afstand te ondersteunen.",
+		"machine": true
+	},
+	"Blocks placed have +100% health.": 
+	{
+		"translation": "Geplaatste blokken hebben +100% gezondheid.",
+		"machine": true
+	},
+	"This hard-hitting close ranged weapon contains a powerful Soltrium Core.": 
+	{
+		"translation": "Dit keiharde wapen op korte afstand bevat een krachtige soltriumkern.",
+		"machine": true
+	},
+	"Such a small gun. Such a massive boom.": 
+	{
+		"translation": "Zo'n klein pistool. zo'n enorme hausse.",
+		"machine": true
+	},
+	"This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.": 
+	{
+		"translation": "Dit langeafstandswapen maakt gebruik van soltrium-voortstuwingstechnologie om explosieve raketten te lanceren.",
+		"machine": true
+	},
+	"Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.": 
+	{
+		"translation": "Lanceert een zwevende scanbol die elke twee seconden pulseert en vijanden door muren onthult.\nScannerbollen kunnen worden neergeschoten door vijandige spelers.",
+		"machine": true
+	},
+	"Agaman technology. This close ranged weapon propels a spray of plasma": 
+	{
+		"translation": "Agaman-technologie. dit wapen van dichtbij stuwt een straal plasma voort",
+		"machine": true
+	},
+	"This close ranged weapon creates a blast of shrapnel.": 
+	{
+		"translation": "Dit wapen van dichtbij veroorzaakt een explosie van granaatscherven.",
+		"machine": true
+	},
+	"This close-mid ranged weapon packs a punch. Watch out for the recoil.": 
+	{
+		"translation": "Dit close-mid-range wapen pakt een klap uit. pas op voor de terugslag.",
+		"machine": true
+	},
+	"Place block structures with this tool.": 
+	{
+		"translation": "Plaats blokstructuren met deze tool.",
+		"machine": true
+	},
+	"Attaches to walls. Right click to pull the wall down.": 
+	{
+		"translation": "Hecht aan muren. klik met de rechtermuisknop om de muur naar beneden te trekken.",
+		"machine": true
+	},
+	"Cluster Agama technology. Not much about these weapons is known.": 
+	{
+		"translation": "Cluster agama-technologie. er is niet veel over deze wapens bekend.",
+		"machine": true
+	},
+	"Building": 
+	{
+		"translation": "Gebouw",
+		"machine": true
+	},
+	"+100 blocks\n+2 blocks build distance\n+5 block health": 
+	{
+		"translation": "+100 blokken\n+2 blokken bouwen afstand\n+5 blok gezondheid",
+		"machine": true
+	},
+	"+100 blocks\n+4 blocks build distance\n+9 block health": 
+	{
+		"translation": "+100 blokken\n+4 blokken bouwen afstand\n+9 blok gezondheid",
+		"machine": true
+	},
+	"+100 blocks\n+6 blocks build distance\n+13 block health": 
+	{
+		"translation": "+100 blokken\n+6 blokken bouwen afstand\n+13 blok gezondheid",
+		"machine": true
+	},
+	"Hydraulics": 
+	{
+		"translation": "Hydraulica",
+		"machine": true
+	},
+	"Leg servos": 
+	{
+		"translation": "Beenservo's",
+		"machine": true
+	},
+	"Regeneration": 
+	{
+		"translation": "regeneratie",
+		"machine": true
+	},
+	"Speed": 
+	{
+		"translation": "Snelheid",
+		"machine": true
+	},
+	"Stealth": 
+	{
+		"translation": "Stealth",
+		"machine": true
+	},
+	"Kinetic": 
+	{
+		"translation": "kinetisch",
+		"machine": true
+	},
+	"Scavenger": 
+	{
+		"translation": "aaseter",
+		"machine": true
+	},
+	"+3 blocks safe fall distance\n-15% fall damage": 
+	{
+		"translation": "+3 blokken veilige valafstand\n-15% valschade",
+		"machine": true
+	},
+	"+400% self explosion knockback\n-10% self explosion damage": 
+	{
+		"translation": "+400% zelfexplosie terugslag\n-10% zelfexplosieschade",
+		"machine": true
+	},
+	"+20% health regeneration speed": 
+	{
+		"translation": "+20% snelheid van gezondheidsregeneratie",
+		"machine": true
+	},
+	"+5% movement speed": 
+	{
+		"translation": "+5% bewegingssnelheid",
+		"machine": true
+	},
+	"-40% build and dig volume\n-15% footstep volume\n-25% footstep distance": 
+	{
+		"translation": "-40% bouw- en graafvolume\n-15% voetstapvolume\n-25% voetstapafstand",
+		"machine": true
+	},
+	"+10% dig speed": 
+	{
+		"translation": "+10% graafsnelheid",
+		"machine": true
+	},
+	"+6 blocks safe fall distance\n-30% fall damage": 
+	{
+		"translation": "+6 blokken veilige valafstand\n-30% valschade",
+		"machine": true
+	},
+	"+450% self explosion knockback\n-20% self explosion damage": 
+	{
+		"translation": "+450% zelfexplosie terugslag\n-20% zelfexplosieschade",
+		"machine": true
+	},
+	"+40% health regeneration speed": 
+	{
+		"translation": "+40% snelheid van gezondheidsregeneratie",
+		"machine": true
+	},
+	"+10% movement speed": 
+	{
+		"translation": "+10% bewegingssnelheid",
+		"machine": true
+	},
+	"-60% build and dig volume\n-30% footstep volume\n-50% footstep distance": 
+	{
+		"translation": "-60% bouw- en graafvolume\n-30% voetstapvolume\n-50% voetstapafstand",
+		"machine": true
+	},
+	"+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup": 
+	{
+		"translation": "+20% graafsnelheid\nWin 2 blokken per gegraven blok\n+1 uitrustingsmunitie bij elke munitie-pickup",
+		"machine": true
+	},
+	"+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height": 
+	{
+		"translation": "+9 blokken veilige valafstand\n-45% valschade\n+1 blok springhoogte",
+		"machine": true
+	},
+	"+500% self explosion knockback\n-30% self explosion damage": 
+	{
+		"translation": "+500% zelfexplosie terugslag\n-30% zelfexplosieschade",
+		"machine": true
+	},
+	"+60% health regeneration speed": 
+	{
+		"translation": "+60% gezondheidsregeneratiesnelheid",
+		"machine": true
+	},
+	"+15% movement speed": 
+	{
+		"translation": "+15% bewegingssnelheid",
+		"machine": true
+	},
+	"-80% build and dig volume\n-45% footstep volume\n-75% footstep distance": 
+	{
+		"translation": "-80% bouw- en graafvolume\n-45% voetstapvolume\n-75% voetstapafstand",
+		"machine": true
+	},
+	"+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup": 
+	{
+		"translation": "+30% graafsnelheid\nKrijg 3 blokken per gegraven blok\n+10 gezondheid per ophaling van munitie",
+		"machine": true
+	},
+	"While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.": 
+	{
+		"translation": "Hoewel onervaren, trotseerde deze huurling de reis naar het Soltrium-sterrenstelsel en probeert hij zijn waarde te bewijzen in de strijd.",
+		"machine": true
+	},
+	"This solo operative seeks nothing but victory when it comes to saving their race from destruction.": 
+	{
+		"translation": "Deze solo-agent zoekt niets anders dan overwinning als het gaat om het redden van hun ras van vernietiging.",
+		"machine": true
+	},
+	"A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.": 
+	{
+		"translation": "Een dodelijke sluipschutter op afstand en een snelle moordenaar van dichtbij, ze zijn in staat om hun mannetje te staan in elke ontmoeting.",
+		"machine": true
+	},
+	"This commander lost their arm during the Flare but continues to fight for the future of their race.": 
+	{
+		"translation": "Deze commandant verloor zijn arm tijdens de flare, maar blijft vechten voor de toekomst van hun race.",
+		"machine": true
+	},
+	"Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.": 
+	{
+		"translation": "Outlaws die door de buitenwijken van de melkweg zwerven en iedereen aanvallen die alleen durft te reizen.",
+		"machine": true
+	},
+	"This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.": 
+	{
+		"translation": "Deze agaman vocht waakzaam in de frontlinie om te bewijzen dat ze het soltrium-melkwegstelsel hebben betreden.",
+		"machine": true
+	},
+	"A curious one, aren't you?": 
+	{
+		"translation": "Een nieuwsgierige, nietwaar?",
+		"machine": true
+	},
+	"This Agaman gave up everything to make the journey to the Soltrium galaxy.": 
+	{
+		"translation": "Deze agaman gaf alles op om de reis naar het zonnestelsel te maken.",
+		"machine": true
+	},
+	"This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.": 
+	{
+		"translation": "Deze agaman highborn werd doordrenkt met soltrium in een experiment om een onstuitbare mix van vlees en machine te produceren.",
+		"machine": true
+	},
+	"Click the Play tab when you are ready": 
+	{
+		"translation": "Klik op het afspeeltabblad als je klaar bent",
+		"machine": true
+	},
+	"SETTINGS > PERFORMANCE > ANIMATED BLOCK SKINS must be enabled for animated block skins to render correctly": 
+	{
+		"translation": "INSTELLINGEN > PRESTATIES > GEANIMEERDE BLOKSKINS moeten zijn ingeschakeld om geanimeerde blokskins correct weer te geven",
+		"machine": true
+	},
+	"DRAG TO ROTATE\nSCROLL TO ZOOM\nSPACE TO AUTO ROTATE": 
+	{
+		"translation": "SLEPEN OM TE DRAAIEN\nSCROLL NAAR ZOOM\nRUIMTE VOOR AUTOMATISCH DRAAIEN",
+		"machine": true
+	},
+	"Did you know": 
+	{
+		"translation": "Wist u",
+		"machine": true
+	},
+	"Press escape to cancel": 
+	{
+		"translation": "Druk op escape om te annuleren",
+		"machine": true
+	},
+	"Warning": 
+	{
+		"translation": "Waarschuwing",
+		"machine": true
+	},
+	"This is an experimental server used for testing maps created by the community. The game may not function as intended": 
+	{
+		"translation": "Dit is een experimentele server die wordt gebruikt voor het testen van kaarten die door de community zijn gemaakt. het spel werkt mogelijk niet zoals bedoeld",
+		"machine": true
+	},
+	"Determining sector coordinates": 
+	{
+		"translation": "Sectorcoördinaten bepalen",
+		"machine": true
+	},
+	"Calibrating thermal dampeners": 
+	{
+		"translation": "Thermische dempers kalibreren",
+		"machine": true
+	},
+	"Entering planet atmosphere": 
+	{
+		"translation": "De atmosfeer van de planeet binnengaan",
+		"machine": true
+	},
+	"Analysing environment": 
+	{
+		"translation": "Omgeving analyseren",
+		"machine": true
+	},
+	"Commencing landing procedure": 
+	{
+		"translation": "Aanvang landingsprocedure",
+		"machine": true
+	},
+	"Respawn": 
+	{
+		"translation": "respawn",
+		"machine": true
+	},
+	"Players": 
+	{
+		"translation": "Spelers",
+		"machine": true
+	},
+	"No respawns": 
+	{
+		"translation": "Geen respawns",
+		"machine": true
+	},
+	"First to 5 wins": 
+	{
+		"translation": "Eerste tot 5 overwinningen",
+		"machine": true
+	},
+	"A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.": 
+	{
+		"translation": "Er heeft zich een schaduwmarkt ontwikkeld aan de rand van de melkweg waar soltrium wordt ingezet. het is alles of niets in de arena waar deelnemers vechten voor winst en overleving.",
+		"machine": true
+	},
+	"Start with nothing and collect weapons to eliminate the enemy team.": 
+	{
+		"translation": "Begin met niets en verzamel wapens om het vijandelijke team te elimineren.",
+		"machine": true
+	},
+	"All players start with the same randomised loadout.": 
+	{
+		"translation": "Alle spelers beginnen met dezelfde willekeurige uitrusting.",
+		"machine": true
+	},
+	"Times to win": 
+	{
+		"translation": "Tijden om te winnen",
+		"machine": true
+	},
+	"Soltrium is scattered throughout the outer sector. Various": 
+	{
+		"translation": "Soltrium is verspreid over de buitenste sector. verscheidene",
+		"machine": true
+	},
+	"And": 
+	{
+		"translation": "En",
+		"machine": true
+	},
+	"battalions have been dispatched to search for and collect the precious resource.": 
+	{
+		"translation": "bataljons zijn gestuurd om de kostbare hulpbron te zoeken en te verzamelen.",
+		"machine": true
+	},
+	"Capture 5 zones to win": 
+	{
+		"translation": "Verover 5 zones om te winnen",
+		"machine": true
+	},
+	"Control the zone to win": 
+	{
+		"translation": "Beheers de zone om te winnen",
+		"machine": true
+	},
+	"Deliver the bomb": 
+	{
+		"translation": "Lever de bom",
+		"machine": true
+	},
+	"Capture the flag": 
+	{
+		"translation": "Verover de vlag",
+		"machine": true
+	},
+	"Get two kills with every weapon, then melee to win": 
+	{
+		"translation": "Krijg twee moorden met elk wapen, dan melee om te winnen",
+		"machine": true
+	},
+	"Hold the most Soltrium to win": 
+	{
+		"translation": "Houd het meeste Soltrium om te winnen",
+		"machine": true
+	},
+	"Pick up": 
+	{
+		"translation": "Oppakken",
+		"machine": true
+	},
+	"From enemy corpses": 
+	{
+		"translation": "Van vijandelijke lijken",
+		"machine": true
+	},
+	"Weapons and Mods spawn around the map": 
+	{
+		"translation": "Wapens en mods verschijnen op de kaart",
+		"machine": true
+	},
+	"Not bound": 
+	{
+		"translation": "Niet gebonden",
+		"machine": true
+	},
+	"You can hold": 
+	{
+		"translation": "Je kunt vasthouden",
+		"machine": true
+	},
+	"To reveal enemy positions to teammates": 
+	{
+		"translation": "Om vijandelijke posities aan teamgenoten te onthullen",
+		"machine": true
+	},
+	"You can press": 
+	{
+		"translation": "U kunt op drukken",
+		"machine": true
+	},
+	"To provide feedback": 
+	{
+		"translation": "Feedback geven",
+		"machine": true
+	},
+	"Local": 
+	{
+		"translation": "lokaal",
+		"machine": true
+	},
+	"Subscribed": 
+	{
+		"translation": "Geabonneerd",
+		"machine": true
+	},
+	"Cancel": 
+	{
+		"translation": "Annuleren",
+		"machine": true
+	},
+	"Upload": 
+	{
+		"translation": "Uploaden",
+		"machine": true
+	},
+	"Private": 
+	{
+		"translation": "Privaat",
+		"machine": true
+	},
+	"Friends only": 
+	{
+		"translation": "Alleen vrienden",
+		"machine": true
+	},
+	"Unlisted": 
+	{
+		"translation": "niet vermeld",
+		"machine": true
+	},
+	"Public": 
+	{
+		"translation": "Openbaar",
+		"machine": true
+	},
+	"Map list": 
+	{
+		"translation": "Kaart lijst",
+		"machine": true
+	},
+	"No local maps found": 
+	{
+		"translation": "Geen lokale kaarten gevonden",
+		"machine": true
+	},
+	"No subscribed maps": 
+	{
+		"translation": "Geen geabonneerde kaarten",
+		"machine": true
+	},
+	"Before uploading maps to the Steam workshop, you must agree to the ": 
+	{
+		"translation": "Voordat u kaarten naar de stoomwerkplaats uploadt, moet u akkoord gaan met de ",
+		"machine": true
+	},
+	"Workshop Terms of Service.": 
+	{
+		"translation": "Servicevoorwaarden werkplaats.",
+		"machine": true
+	},
+	"Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.": 
+	{
+		"translation": "Kaarten waarop u zich in de workshop hebt geabonneerd, verschijnen hier. je moet mogelijk meerdere keren vernieuwen nadat je je hebt geabonneerd op een nieuwe kaart om de lijst volledig bij te werken.",
+		"machine": true
+	},
+	"Loading map": 
+	{
+		"translation": "Kaart laden",
+		"machine": true
+	},
+	"Uploading map to the Steam Workshop": 
+	{
+		"translation": "Kaart uploaden naar de stoomworkshop",
+		"machine": true
+	},
+	"Committing Changes": 
+	{
+		"translation": "Wijzigingen doorvoeren",
+		"machine": true
+	},
+	"Invalid": 
+	{
+		"translation": "Ongeldig",
+		"machine": true
+	},
+	"Preparing Config": 
+	{
+		"translation": "Configuratie voorbereiden",
+		"machine": true
+	},
+	"Preparing Content": 
+	{
+		"translation": "Inhoud voorbereiden",
+		"machine": true
+	},
+	"Uploading Content": 
+	{
+		"translation": "Inhoud uploaden",
+		"machine": true
+	},
+	"Uploading Preview Image": 
+	{
+		"translation": "Voorbeeldafbeelding uploaden",
+		"machine": true
+	},
+	"Upload summary": 
+	{
+		"translation": "Samenvatting uploaden",
+		"machine": true
+	},
+	"Map name": 
+	{
+		"translation": "Kaartnaam",
+		"machine": true
+	},
+	"Description": 
+	{
+		"translation": "Beschrijving",
+		"machine": true
+	},
+	"Supported game modes": 
+	{
+		"translation": "Ondersteunde spelmodi",
+		"machine": true
+	},
+	"Visibility": 
+	{
+		"translation": "Zichtbaarheid",
+		"machine": true
+	},
+	"Double XP + Proton Weekend! Ends in": 
+	{
+		"translation": "Dubbel XP + protonenweekend! eindigt in",
+		"machine": true
+	},
+	"day": 
+	{
+		"translation": "dag",
+		"machine": true
+	},
+	"days": 
+	{
+		"translation": "dagen",
+		"machine": true
+	},
+	"hour": 
+	{
+		"translation": "uur",
+		"machine": true
+	},
+	"hours": 
+	{
+		"translation": "uur",
+		"machine": true
+	},
+	"minute": 
+	{
+		"translation": "minuut",
+		"machine": true
+	},
+	"minutes": 
+	{
+		"translation": "minuten",
+		"machine": true
+	},
+	"and": 
+	{
+		"translation": "en",
+		"machine": true
+	},
+	"Playtime": 
+	{
+		"translation": "Speeltijd",
+		"machine": true
+	},
+	"Matches": 
+	{
+		"translation": "Wedstrijden",
+		"machine": true
+	},
+	"Kills": 
+	{
+		"translation": "doodt",
+		"machine": true
+	},
+	"Deaths": 
+	{
+		"translation": "Sterfgevallen",
+		"machine": true
+	},
+	"Assists": 
+	{
+		"translation": "assists",
+		"machine": true
+	},
+	"Headshots": 
+	{
+		"translation": "Headshots",
+		"machine": true
+	},
+	"unavailable": 
+	{
+		"translation": "niet beschikbaar",
+		"machine": true
+	},
+	"level": 
+	{
+		"translation": "niveau",
+		"machine": true
+	},
+	"equipped": 
+	{
+		"translation": "uitgerust",
+		"machine": true
+	},
+	"Barrel": 
+	{
+		"translation": "Loop",
+		"machine": true
+	},
+	"Sight": 
+	{
+		"translation": "Zicht",
+		"machine": true
+	},
+	"equip": 
+	{
+		"translation": "uitrusten",
+		"machine": true
+	},
+	"free": 
+	{
+		"translation": "vrij",
+		"machine": true
+	},
+	"Drag to rotate": 
+	{
+		"translation": "Sleep om te draaien",
+		"machine": true
+	},
+	"Scroll wheel to zoom": 
+	{
+		"translation": "Scrollwiel om in te zoomen",
+		"machine": true
+	},
+	"Space to rotate": 
+	{
+		"translation": "Ruimte om te draaien",
+		"machine": true
+	},
+	"Join": 
+	{
+		"translation": "Meedoen",
+		"machine": true
+	},
+	"This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.": 
+	{
+		"translation": "Deze spelmodus wordt salvage genoemd. twee teams strijden tegen een bus die een waardevolle grondstof bevat die soltrium wordt genoemd.",
+		"machine": true
+	},
+	"The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.": 
+	{
+		"translation": "Het team met de meeste spelers in de buurt van de bus zal soltrium extraheren en punten verdienen voor hun team. dit is te zien aan de bovenkant van het scherm.",
+		"machine": true
+	},
+	"When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!": 
+	{
+		"translation": "Wanneer een bus leeg is, zal een nieuwe ergens anders spawnen. het eerste team dat 500 punten behaalt, wint!",
+		"machine": true
+	},
+	"Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.": 
+	{
+		"translation": "Munitiebonussen vallen weg als een speler sterft. pak ze op om extra munitie voor je wapens te krijgen en verdien 2 punten voor je team.",
+		"machine": true
+	},
+	"This game mode is called Breakthrough. To win, your team must control all five zones.": 
+	{
+		"translation": "Deze spelmodus wordt doorbraak genoemd. om te winnen moet je team alle vijf de zones beheersen.",
+		"machine": true
+	},
+	"When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.": 
+	{
+		"translation": "Wanneer een zone wordt veroverd door je team, wordt deze maximaal 20 seconden bevroren. terwijl bevroren, kan de vijand het niet heroveren, wat je team de kans geeft om naar de volgende zone te duwen.",
+		"machine": true
+	},
+	"Zones must be captured in order and cannot be back-capped.": 
+	{
+		"translation": "Zones moeten op volgorde worden vastgelegd en kunnen niet achteraf worden afgedekt.",
+		"machine": true
+	},
+	"This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.": 
+	{
+		"translation": "Deze spelmodus wordt control shift genoemd. er is één zone en het doel is om die zone helemaal terug in vijandelijk gebied te duwen.",
+		"machine": true
+	},
+	"The zone will begin moving when one team has more players inside it than the other.": 
+	{
+		"translation": "De zone begint te bewegen wanneer het ene team meer spelers binnen heeft dan het andere.",
+		"machine": true
+	},
+	"This game mode is called Escort. To win, your team must deliver 3 bombs.": 
+	{
+		"translation": "Deze spelmodus wordt escort genoemd. om te winnen moet je team 3 bommen afleveren.",
+		"machine": true
+	},
+	"Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.": 
+	{
+		"translation": "Elk team heeft een bom die ze van hun kant van de kaart moeten oppakken en afleveren bij de vijandelijke bomlocatie.",
+		"machine": true
+	},
+	"You can either escort your bomb carrier, or defend your bomb site from the enemy.": 
+	{
+		"translation": "Je kunt je bommendrager escorteren of je bomlocatie verdedigen tegen de vijand.",
+		"machine": true
+	},
+	"This game mode is called Capture the Flag. Each team has a flag that they must defend.": 
+	{
+		"translation": "Deze spelmodus heet capture the flag. elk team heeft een vlag die ze moeten verdedigen.",
+		"machine": true
+	},
+	"To win your team must steal the enemy flag and take it back to your base 3 times.": 
+	{
+		"translation": "Om te winnen moet je team de vijandelijke vlag stelen en 3 keer terugbrengen naar je basis.",
+		"machine": true
+	},
+	"You can either infiltrate the enemy base, or defend your flag from the enemy.": 
+	{
+		"translation": "Je kunt de vijandelijke basis infiltreren of je vlag verdedigen tegen de vijand.",
+		"machine": true
+	},
+	"This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.": 
+	{
+		"translation": "Deze spelmodus wordt schietspel genoemd. elke speler begint met hetzelfde wapen en gaat door naar het volgende wapen na 2 kills.",
+		"machine": true
+	},
+	"The stage that each player is up to is shown at the top of the screen.": 
+	{
+		"translation": "Het stadium waarin elke speler zich bevindt, wordt bovenaan het scherm weergegeven.",
+		"machine": true
+	},
+	"To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.": 
+	{
+		"translation": "Om te winnen moet je doorgaan naar fase 11 en dan een vijand doden met je graafmachine of je mes.",
+		"machine": true
+	},
+	"When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.": 
+	{
+		"translation": "Als je sterft aan valschade of een vijandige graafmachine \/ mes, word je één fase teruggestuurd.",
+		"machine": true
+	},
+	"This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.": 
+	{
+		"translation": "Deze gratis spelmodus wordt headhunter genoemd. om te winnen, moet je het meeste soltrium vasthouden als de timer afloopt.",
+		"machine": true
+	},
+	"Each player starts with nothing and collects weapons and mods from around the map.": 
+	{
+		"translation": "Elke speler begint met niets en verzamelt wapens en mods van over de hele kaart.",
+		"machine": true
+	},
+	"When a player dies, they will drop their weapons, half their Soltrium and half their mods.": 
+	{
+		"translation": "Wanneer een speler sterft, laten ze hun wapens, de helft van hun soltrium en de helft van hun mods vallen.",
+		"machine": true
+	},
+	"Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.": 
+	{
+		"translation": "Raap soltrium op om te winnen, maar wees voorzichtig, want de speler met het meeste soltrium wordt aan iedereen onthuld.",
+		"machine": true
+	},
+	"This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.": 
+	{
+		"translation": "Deze arena-spelmodus wordt spits genoemd. om te winnen, moet je het vijandelijke team 5 keer uitschakelen.",
+		"machine": true
+	},
+	"Each player starts with nothing and must build into the sky to pick up weapons.": 
+	{
+		"translation": "Elke speler begint met niets en moet in de lucht bouwen om wapens op te pakken.",
+		"machine": true
+	},
+	"This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.": 
+	{
+		"translation": "Deze arena-spelmodus wordt statisch genoemd. om te winnen, moet je het vijandelijke team 5 keer uitschakelen.",
+		"machine": true
+	},
+	"Each player shares the same loadout, which is randomised each round.": 
+	{
+		"translation": "Elke speler deelt dezelfde uitrusting, die elke ronde willekeurig wordt verdeeld.",
+		"machine": true
+	},
+	"Press space to continue": 
+	{
+		"translation": "Druk op de spatiebalk om verder te gaan",
+		"machine": true
+	},
+	"Return to battle": 
+	{
+		"translation": "Keer terug naar de strijd",
+		"machine": true
+	},
+	"Round won!": 
+	{
+		"translation": "Ronde gewonnen!",
+		"machine": true
+	},
+	"Press": 
+	{
+		"translation": "druk op",
+		"machine": true
+	},
+	"Or": 
+	{
+		"translation": "Of",
+		"machine": true
+	},
+	"Pick up equipment": 
+	{
+		"translation": "Apparatuur ophalen",
+		"machine": true
+	},
+	"Pick up primary": 
+	{
+		"translation": "Primair ophalen",
+		"machine": true
+	},
+	"Pick up secondary": 
+	{
+		"translation": "Ophalen secundair",
+		"machine": true
+	},
+	"Player ready": 
+	{
+		"translation": "Speler klaar",
+		"machine": true
+	},
+	"Players ready": 
+	{
+		"translation": "Spelers klaar",
+		"machine": true
+	},
+	"Starting in": 
+	{
+		"translation": "beginnend in",
+		"machine": true
+	},
+	"Second": 
+	{
+		"translation": "Tweede",
+		"machine": true
+	},
+	"Seconds": 
+	{
+		"translation": "seconden",
+		"machine": true
+	},
+	"Available": 
+	{
+		"translation": "Beschikbaar",
+		"machine": true
+	},
+	"Leave killcam": 
+	{
+		"translation": "Verlaat killcam",
+		"machine": true
+	},
+	"Continue": 
+	{
+		"translation": "Doorgaan met",
+		"machine": true
+	},
+	"Redeploy": 
+	{
+		"translation": "Opnieuw inzetten",
+		"machine": true
+	},
+	"Confirm": 
+	{
+		"translation": "Bevestigen",
+		"machine": true
+	},
+	"Spectate": 
+	{
+		"translation": "Toeschouwer",
+		"machine": true
+	},
+	"Report player": 
+	{
+		"translation": "Rapporteer speler",
+		"machine": true
+	},
+	"Lobby panel": 
+	{
+		"translation": "Lobbypaneel",
+		"machine": true
+	},
+	"Settings": 
+	{
+		"translation": "Instellingen",
+		"machine": true
+	},
+	"Submit feedback": 
+	{
+		"translation": "Feedback verzenden",
+		"machine": true
+	},
+	"Disconnect": 
+	{
+		"translation": "verbinding verbreken",
+		"machine": true
+	},
+	"Contest the canister": 
+	{
+		"translation": "Bestrijd de bus",
+		"machine": true
+	},
+	"Returning flag": 
+	{
+		"translation": "Terugkerende vlag",
+		"machine": true
+	},
+	"Defusing bomb": 
+	{
+		"translation": "bom onschadelijk maken",
+		"machine": true
+	},
+	"You are carrying the flag": 
+	{
+		"translation": "Jij draagt de vlag",
+		"machine": true
+	},
+	"You are carrying thebomb": 
+	{
+		"translation": "Jij draagt de bom",
+		"machine": true
+	},
+	"To drop the flag": 
+	{
+		"translation": "Om de vlag te laten vallen",
+		"machine": true
+	},
+	"To drop the bomb": 
+	{
+		"translation": "Om de bom te laten vallen",
+		"machine": true
+	},
+	"Stage": 
+	{
+		"translation": "Fase",
+		"machine": true
+	},
+	"Cooldown": 
+	{
+		"translation": "Afkoelen",
+		"machine": true
+	},
+	"Equip as primary": 
+	{
+		"translation": "Uitrusten als primair",
+		"machine": true
+	},
+	"Equip as secondary": 
+	{
+		"translation": "Uitrusten als secundair",
+		"machine": true
+	},
+	"Edit loadouts": 
+	{
+		"translation": "Uitrustingen bewerken",
+		"machine": true
+	},
+	"Modify a structure to continue": 
+	{
+		"translation": "Wijzig een structuur om door te gaan",
+		"machine": true
+	},
+	"Head over to the shooting range": 
+	{
+		"translation": "Ga naar de schietbaan",
+		"machine": true
+	},
+	"Select a weapon from the gun rack": 
+	{
+		"translation": "Kies een wapen uit het wapenrek",
+		"machine": true
+	},
+	"Shoot the targets and try different weapons. Press": 
+	{
+		"translation": "Schiet op de doelen en probeer verschillende wapens. druk op",
+		"machine": true
+	},
+	"To set up a loadout": 
+	{
+		"translation": "Een uitrusting instellen",
+		"machine": true
+	},
+	"Play a Match": 
+	{
+		"translation": "Speel een wedstrijd",
+		"machine": true
+	},
+	"Enter Trials": 
+	{
+		"translation": "Voer proefversies in",
+		"machine": true
+	},
+	"Replay Tutorial": 
+	{
+		"translation": "Zelfstudie herhalen",
+		"machine": true
+	},
+	"Reset Ship": 
+	{
+		"translation": "Schip resetten",
+		"machine": true
+	},
+	"Level": 
+	{
+		"translation": "Niveau",
+		"machine": true
+	},
+	"Tag": 
+	{
+		"translation": "Label",
+		"machine": true
+	},
+	"Tags": 
+	{
+		"translation": "Tags",
+		"machine": true
+	},
+	"Career": 
+	{
+		"translation": "Carrière",
+		"machine": true
+	},
+	"Loadout": 
+	{
+		"translation": "Uitlading",
+		"machine": true
+	},
+	"Killed by": 
+	{
+		"translation": "Gedood door",
+		"machine": true
+	},
+	"Join the battle": 
+	{
+		"translation": "Doe mee aan de strijd",
+		"machine": true
+	},
+	"Linking your Twitch account": 
+	{
+		"translation": "Je twitch-account koppelen",
+		"machine": true
+	},
+	"Checkout": 
+	{
+		"translation": "Uitchecken",
+		"machine": true
+	},
+	"Summary": 
+	{
+		"translation": "Overzicht",
+		"machine": true
+	},
+	"Creator Code (Optional)": 
+	{
+		"translation": "Makercode (optioneel)",
+		"machine": true
+	},
+	"Friend username": 
+	{
+		"translation": "gebruikersnaam van vriend",
+		"machine": true
+	},
+	"Resources loading in the background": 
+	{
+		"translation": "Bronnen laden op de achtergrond",
+		"machine": true
+	},
+	"Magazine": 
+	{
+		"translation": "Tijdschrift",
+		"machine": true
+	},
+	"Block": 
+	{
+		"translation": "Blok",
+		"machine": true
+	},
+	"Account": 
+	{
+		"translation": "Rekening",
+		"machine": true
+	},
+	"Proton": 
+	{
+		"translation": "Proton",
+		"machine": true
+	},
+	"Protons": 
+	{
+		"translation": "protonen",
+		"machine": true
+	},
+	"Refreshing": 
+	{
+		"translation": "Verfrissend",
+		"machine": true
+	},
+	"Refresh statistics": 
+	{
+		"translation": "Statistieken vernieuwen",
+		"machine": true
+	},
+	"Character token": 
+	{
+		"translation": "Karakter token",
+		"machine": true
+	},
+	"Character tokens": 
+	{
+		"translation": "Karakter tokens",
+		"machine": true
+	},
+	"Player statistics": 
+	{
+		"translation": "Spelerstatistieken",
+		"machine": true
+	},
+	"Transaction log": 
+	{
+		"translation": "Transactielogboek",
+		"machine": true
+	},
+	"Redeem key": 
+	{
+		"translation": "Sleutel inwisselen",
+		"machine": true
+	},
+	"Provide feedback": 
+	{
+		"translation": "Geef feedback",
+		"machine": true
+	},
+	"View inventory": 
+	{
+		"translation": "Bekijk inventaris",
+		"machine": true
+	},
+	"Custom lobby": 
+	{
+		"translation": "Aangepaste lobby",
+		"machine": true
+	},
+	"Lobby settings": 
+	{
+		"translation": "Lobby-instellingen",
+		"machine": true
+	},
+	"Password": 
+	{
+		"translation": "Wachtwoord",
+		"machine": true
+	},
+	"Minimum level": 
+	{
+		"translation": "Minimaal niveau",
+		"machine": true
+	},
+	"Maximum level": 
+	{
+		"translation": "Maximaal niveau",
+		"machine": true
+	},
+	"The match will not end": 
+	{
+		"translation": "De wedstrijd zal niet eindigen",
+		"machine": true
+	},
+	"Protons, XP and stats will not be tracked": 
+	{
+		"translation": "Protonen, XP en statistieken worden niet bijgehouden",
+		"machine": true
+	},
+	"Infinite ammo. Type": 
+	{
+		"translation": "Oneindige hoeveelheid ammunitie. type",
+		"machine": true
+	},
+	"in chat to set your spawn point": 
+	{
+		"translation": "in de chat om je spawnpunt in te stellen",
+		"machine": true
+	},
+	"Weapon cooldowns removed. Players are invincible": 
+	{
+		"translation": "Cooldowns voor wapens verwijderd. spelers zijn onoverwinnelijk",
+		"machine": true
+	},
+	"Claim": 
+	{
+		"translation": "Claim",
+		"machine": true
+	},
+	"Current lobby settings": 
+	{
+		"translation": "Huidige lobby-instellingen",
+		"machine": true
+	},
+	"Next lobby settings": 
+	{
+		"translation": "Instellingen voor volgende lobby",
+		"machine": true
+	},
+	"Lobby not claimed": 
+	{
+		"translation": "Lobby niet geclaimd",
+		"machine": true
+	},
+	"Autobalancing Enabled": 
+	{
+		"translation": "Automatisch balanceren ingeschakeld",
+		"machine": true
+	},
+	"Autobalancing Disabled": 
+	{
+		"translation": "Automatisch balanceren uitgeschakeld",
+		"machine": true
+	},
+	"Eternal Mode Enabled": 
+	{
+		"translation": "Eeuwige modus ingeschakeld",
+		"machine": true
+	},
+	"Eternal Mode Disabled": 
+	{
+		"translation": "Eeuwige modus uitgeschakeld",
+		"machine": true
+	},
+	"Trailer Mode Enabled": 
+	{
+		"translation": "Trailermodus ingeschakeld",
+		"machine": true
+	},
+	"Trailer Mode Disabled": 
+	{
+		"translation": "Trailermodus uitgeschakeld",
+		"machine": true
+	},
+	"Sandbox Mode Enabled": 
+	{
+		"translation": "Sandbox-modus ingeschakeld",
+		"machine": true
+	},
+	"Sandbox Mode Disabled": 
+	{
+		"translation": "Sandbox-modus uitgeschakeld",
+		"machine": true
+	},
+	"Password Protected": 
+	{
+		"translation": "Beschermd met een wachtwoord",
+		"machine": true
+	},
+	"Password protected": 
+	{
+		"translation": "Beschermd met een wachtwoord",
+		"machine": true
+	},
+	"Note - claiming the lobby will restart the round": 
+	{
+		"translation": "Opmerking - als je de lobby claimt, wordt de ronde opnieuw gestart",
+		"machine": true
+	},
+	"Note - changing these settings will restart the round": 
+	{
+		"translation": "Opmerking - als u deze instellingen wijzigt, wordt de ronde opnieuw gestart",
+		"machine": true
+	},
+	"Leave": 
+	{
+		"translation": "Vertrekken",
+		"machine": true
+	},
+	"Total": 
+	{
+		"translation": "Totaal",
+		"machine": true
+	},
+	"Points breakdown": 
+	{
+		"translation": "Puntenverdeling",
+		"machine": true
+	},
+	"Objective": 
+	{
+		"translation": "Doelstelling",
+		"machine": true
+	},
+	"Offensive time": 
+	{
+		"translation": "Offensieve tijd",
+		"machine": true
+	},
+	"Defensive time": 
+	{
+		"translation": "Defensieve tijd",
+		"machine": true
+	},
+	"Ammo pickups": 
+	{
+		"translation": "Munitie pick-ups",
+		"machine": true
+	},
+	"Basic statistics": 
+	{
+		"translation": "Basisstatistieken",
+		"machine": true
+	},
+	"Best kill streak": 
+	{
+		"translation": "Beste killstreak",
+		"machine": true
+	},
+	"Blocks built": 
+	{
+		"translation": "blokken gebouwd",
+		"machine": true
+	},
+	"Blocks destroyed": 
+	{
+		"translation": "Blokken vernietigd",
+		"machine": true
+	},
+	"Proton breakdown": 
+	{
+		"translation": "Proton afbraak",
+		"machine": true
+	},
+	"Player points": 
+	{
+		"translation": "Spelerspunten",
+		"machine": true
+	},
+	"Proton boost": 
+	{
+		"translation": "Protonboost",
+		"machine": true
+	},
+	"Peacekeeper bonus": 
+	{
+		"translation": "Vredestichter bonus",
+		"machine": true
+	},
+	"Unlock": 
+	{
+		"translation": "Ontgrendelen",
+		"machine": true
+	},
+	"CONFIRM": 
+	{
+		"translation": "BEVESTIGEN",
+		"machine": true
+	},
+	"Buy now": 
+	{
+		"translation": "Koop nu",
+		"machine": true
+	},
+	"Use token": 
+	{
+		"translation": "Gebruik token",
+		"machine": true
+	},
+	"This is a gift": 
+	{
+		"translation": "dit is een cadeau",
+		"machine": true
+	},
+	"Submit": 
+	{
+		"translation": "Indienen",
+		"machine": true
+	},
+	"News": 
+	{
+		"translation": "Nieuws",
+		"machine": true
+	},
+	"Store": 
+	{
+		"translation": "Op te slaan",
+		"machine": true
+	},
+	"Play": 
+	{
+		"translation": "Toneelstuk",
+		"machine": true
+	},
+	"Clan": 
+	{
+		"translation": "Clan",
+		"machine": true
+	},
+	"Customise": 
+	{
+		"translation": "Aanpassen",
+		"machine": true
+	},
+	"Exit game": 
+	{
+		"translation": "Spel afsluiten",
+		"machine": true
+	},
+	"Skip tutorial": 
+	{
+		"translation": "Sla handleiding over",
+		"machine": true
+	},
+	"An update is available. Close the game and update the game through": 
+	{
+		"translation": "Een update is beschikbaar. sluit het spel en update het spel via",
+		"machine": true
+	},
+	"Connection to": 
+	{
+		"translation": "Verbinding met",
+		"machine": true
+	},
+	"failed. Online play is unavailable": 
+	{
+		"translation": "mislukt. Online spelen is niet beschikbaar",
+		"machine": true
+	},
+	"Blocks": 
+	{
+		"translation": "Blokken",
+		"machine": true
+	},
+	"Changelog": 
+	{
+		"translation": "Wijzigingslog",
+		"machine": true
+	},
+	"Trials": 
+	{
+		"translation": "Proeven",
+		"machine": true
+	},
+	"Low level": 
+	{
+		"translation": "Laag niveau",
+		"machine": true
+	},
+	"Open": 
+	{
+		"translation": "Open",
+		"machine": true
+	},
+	"Custom": 
+	{
+		"translation": "Aangepast",
+		"machine": true
+	},
+	"Empty servers": 
+	{
+		"translation": "Lege servers",
+		"machine": true
+	},
+	"Full servers": 
+	{
+		"translation": "Volledige servers",
+		"machine": true
+	},
+	"Character": 
+	{
+		"translation": "Karakter",
+		"machine": true
+	},
+	"Ship": 
+	{
+		"translation": "Schip",
+		"machine": true
+	},
+	"Loadouts": 
+	{
+		"translation": "Uitrustingen",
+		"machine": true
+	},
+	"Weapons": 
+	{
+		"translation": "wapens",
+		"machine": true
+	},
+	"Killcam": 
+	{
+		"translation": "Killcam",
+		"machine": true
+	},
+	"Mapping": 
+	{
+		"translation": "In kaart brengen",
+		"machine": true
+	},
+	"Skin": 
+	{
+		"translation": "Huid",
+		"machine": true
+	},
+	"Red dot": 
+	{
+		"translation": "rode stip",
+		"machine": true
+	},
+	"Camo": 
+	{
+		"translation": "Camouflage",
+		"machine": true
+	},
+	"Save": 
+	{
+		"translation": "Sparen",
+		"machine": true
+	},
+	"Official": 
+	{
+		"translation": "Officieel",
+		"machine": true
+	},
+	"Workshop": 
+	{
+		"translation": "werkplaats",
+		"machine": true
+	},
+	"Cheating": 
+	{
+		"translation": "Bedriegen",
+		"machine": true
+	},
+	"Exploiting": 
+	{
+		"translation": "uitbuiten",
+		"machine": true
+	},
+	"Offensive profile": 
+	{
+		"translation": "Aanstootgevend profiel",
+		"machine": true
+	},
+	"Verbal abuse": 
+	{
+		"translation": "Gescheld",
+		"machine": true
+	},
+	"Scamming": 
+	{
+		"translation": "oplichting",
+		"machine": true
+	},
+	"Spamming": 
+	{
+		"translation": "Spammen",
+		"machine": true
+	},
+	"Other negative behaviour": 
+	{
+		"translation": "Ander negatief gedrag",
+		"machine": true
+	},
+	"Report": 
+	{
+		"translation": "Rapport",
+		"machine": true
+	},
+	"Metal": 
+	{
+		"translation": "Metaal",
+		"machine": true
+	},
+	"Link": 
+	{
+		"translation": "Koppeling",
+		"machine": true
+	},
+	"Recoil": 
+	{
+		"translation": "Terugslag",
+		"machine": true
+	},
+	"Stationary recoil": 
+	{
+		"translation": "Stationaire terugslag",
+		"machine": true
+	},
+	"Holster time": 
+	{
+		"translation": "Holster tijd",
+		"machine": true
+	},
+	"ADS time": 
+	{
+		"translation": "ADS-tijd",
+		"machine": true
+	},
+	"Initial recoil": 
+	{
+		"translation": "Initiële terugslag",
+		"machine": true
+	},
+	"Shot recoil ramp": 
+	{
+		"translation": "Schot terugslag helling",
+		"machine": true
+	},
+	"Loadout power": 
+	{
+		"translation": "Uitgangsvermogen",
+		"machine": true
+	},
+	"Damage range": 
+	{
+		"translation": "Schadebereik:",
+		"machine": true
+	},
+	"Projectile speed": 
+	{
+		"translation": "Projectiel snelheid",
+		"machine": true
+	},
+	"Volume": 
+	{
+		"translation": "Volume",
+		"machine": true
+	},
+	"Minimap invisibility": 
+	{
+		"translation": "Minimap onzichtbaarheid",
+		"machine": true
+	},
+	"Pellets": 
+	{
+		"translation": "Pellets",
+		"machine": true
+	},
+	"Pellet spread": 
+	{
+		"translation": "Pelletspreiding",
+		"machine": true
+	},
+	"Reload": 
+	{
+		"translation": "Herladen",
+		"machine": true
+	},
+	"Rounds": 
+	{
+		"translation": "Rondes",
+		"machine": true
+	},
+	"Player damage (body)": 
+	{
+		"translation": "Spelersschade (lichaam)",
+		"machine": true
+	},
+	"Player damage (head)": 
+	{
+		"translation": "Spelersschade (hoofd)",
+		"machine": true
+	},
+	"Block damage": 
+	{
+		"translation": "Blokschade",
+		"machine": true
+	},
+	"RPM": 
+	{
+		"translation": "RPM",
+		"machine": true
+	},
+	"Pellet count": 
+	{
+		"translation": "Pellettelling",
+		"machine": true
+	},
+	"Damages through blocks and players": 
+	{
+		"translation": "Schade door blokken en spelers",
+		"machine": true
+	},
+	"Bounces 3 times": 
+	{
+		"translation": "Stuitert 3 keer",
+		"machine": true
+	},
+	"Choke time": 
+	{
+		"translation": "Choke tijd",
+		"machine": true
+	},
+	"Choked spread": 
+	{
+		"translation": "Gesmoorde spread",
+		"machine": true
+	},
+	"Choke resets when firing": 
+	{
+		"translation": "Choke reset tijdens het schieten",
+		"machine": true
+	},
+	"Welded choke": 
+	{
+		"translation": "Gelaste choke",
+		"machine": true
+	},
+	"Automatic fire": 
+	{
+		"translation": "Automatisch vuur",
+		"machine": true
+	},
+	"Stats": 
+	{
+		"translation": "Statistieken",
+		"machine": true
+	},
+	"Initiate": 
+	{
+		"translation": "initiëren",
+		"machine": true
+	},
+	"Proficient": 
+	{
+		"translation": "bekwaam",
+		"machine": true
+	},
+	"Adept": 
+	{
+		"translation": "Bedreven",
+		"machine": true
+	},
+	"Elite": 
+	{
+		"translation": "Elite",
+		"machine": true
+	},
+	"Expert": 
+	{
+		"translation": "Deskundige",
+		"machine": true
+	},
+	"Master": 
+	{
+		"translation": "Meester",
+		"machine": true
+	},
+	"Legend": 
+	{
+		"translation": "Legende",
+		"machine": true
+	},
+	"Paragon": 
+	{
+		"translation": "Toonbeeld",
+		"machine": true
+	},
+	"Incarnate": 
+	{
+		"translation": "vleesgeworden",
+		"machine": true
+	},
+	"Butcher": 
+	{
+		"translation": "slager",
+		"machine": true
+	},
+	"Swordsman": 
+	{
+		"translation": "zwaardvechter",
+		"machine": true
+	},
+	"Berserker": 
+	{
+		"translation": "Berserker",
+		"machine": true
+	},
+	"Assassin": 
+	{
+		"translation": "Sluipmoordenaar",
+		"machine": true
+	},
+	"Executioner": 
+	{
+		"translation": "Beul",
+		"machine": true
+	},
+	"Grenadier": 
+	{
+		"translation": "Grenadier",
+		"machine": true
+	},
+	"Detonator": 
+	{
+		"translation": "ontsteker",
+		"machine": true
+	},
+	"Volatile": 
+	{
+		"translation": "Vluchtig",
+		"machine": true
+	},
+	"Catalyst": 
+	{
+		"translation": "Katalysator",
+		"machine": true
+	},
+	"Captor": 
+	{
+		"translation": "ontvoerder",
+		"machine": true
+	},
+	"Invader": 
+	{
+		"translation": "indringer",
+		"machine": true
+	},
+	"Thief": 
+	{
+		"translation": "Dief",
+		"machine": true
+	},
+	"Reinforcer": 
+	{
+		"translation": "Versterker",
+		"machine": true
+	},
+	"Engineer": 
+	{
+		"translation": "Ingenieur",
+		"machine": true
+	},
+	"Fabricator": 
+	{
+		"translation": "Constructeur",
+		"machine": true
+	},
+	"Architect": 
+	{
+		"translation": "Architect",
+		"machine": true
+	},
+	"Sentry": 
+	{
+		"translation": "Schildwacht",
+		"machine": true
+	},
+	"Protector": 
+	{
+		"translation": "Beschermer",
+		"machine": true
+	},
+	"Sentinel": 
+	{
+		"translation": "Sentinel",
+		"machine": true
+	},
+	"Guardian": 
+	{
+		"translation": "Voogd",
+		"machine": true
+	},
+	"Raider": 
+	{
+		"translation": "Raider",
+		"machine": true
+	},
+	"Marauder": 
+	{
+		"translation": "Stroper",
+		"machine": true
+	},
+	"Vanquisher": 
+	{
+		"translation": "Overwinnaar",
+		"machine": true
+	},
+	"Conquerer": 
+	{
+		"translation": "veroveraar",
+		"machine": true
+	},
+	"Terminator": 
+	{
+		"translation": "Terminator",
+		"machine": true
+	},
+	"Gunslinger": 
+	{
+		"translation": "Geweerslinger",
+		"machine": true
+	},
+	"Deadeye": 
+	{
+		"translation": "Deadeye",
+		"machine": true
+	},
+	"Sharpshooter": 
+	{
+		"translation": "Scherpschutter",
+		"machine": true
+	},
+	"Deathbringer": 
+	{
+		"translation": "Dood brenger",
+		"machine": true
+	},
+	"Blaster": 
+	{
+		"translation": "Blaster",
+		"machine": true
+	},
+	"Collider": 
+	{
+		"translation": "Collider",
+		"machine": true
+	},
+	"Obliterator": 
+	{
+		"translation": "Vernietiger",
+		"machine": true
+	},
+	"Disintegrator": 
+	{
+		"translation": "desintegrator",
+		"machine": true
+	},
+	"Alleviator": 
+	{
+		"translation": "Verlichter",
+		"machine": true
+	},
+	"Mitigator": 
+	{
+		"translation": "Mitigator",
+		"machine": true
+	},
+	"Diminisher": 
+	{
+		"translation": "Verkleiner",
+		"machine": true
+	},
+	"Recon": 
+	{
+		"translation": "Verkennen",
+		"machine": true
+	},
+	"Luminator": 
+	{
+		"translation": "Luminator",
+		"machine": true
+	},
+	"Coruscator": 
+	{
+		"translation": "Coruscator",
+		"machine": true
+	},
+	"Spotter": 
+	{
+		"translation": "Spotter",
+		"machine": true
+	},
+	"Watchman": 
+	{
+		"translation": "Wachter",
+		"machine": true
+	},
+	"Eagle Eye": 
+	{
+		"translation": "Adelaarsoog",
+		"machine": true
+	},
+	"All Seeing": 
+	{
+		"translation": "Allesziend",
+		"machine": true
+	},
+	"Body Guard": 
+	{
+		"translation": "lijfwacht",
+		"machine": true
+	},
+	"Slayer": 
+	{
+		"translation": "Moordenaar",
+		"machine": true
+	},
+	"Punisher": 
+	{
+		"translation": "Punisher",
+		"machine": true
+	},
+	"Midi Certified": 
+	{
+		"translation": "Midi gecertificeerd",
+		"machine": true
+	},
+	"Maze Runner": 
+	{
+		"translation": "doolhof loper",
+		"machine": true
+	},
+	"Trial Master": 
+	{
+		"translation": "Proefmeester",
+		"machine": true
+	},
+	"Trial Hard": 
+	{
+		"translation": "Moeilijke proef",
+		"machine": true
+	},
+	"Podium": 
+	{
+		"translation": "Podium",
+		"machine": true
+	},
+	"Scoreboard": 
+	{
+		"translation": "Scorebord",
+		"machine": true
+	},
+	"Sensitivity": 
+	{
+		"translation": "Gevoeligheid",
+		"machine": true
+	},
+	"Video": 
+	{
+		"translation": "Video",
+		"machine": true
+	},
+	"Performance": 
+	{
+		"translation": "Uitvoering",
+		"machine": true
+	},
+	"Audio": 
+	{
+		"translation": "Audio",
+		"machine": true
+	},
+	"Accessibility": 
+	{
+		"translation": "Toegankelijkheid",
+		"machine": true
+	},
+	"Close": 
+	{
+		"translation": "Dichtbij",
+		"machine": true
+	},
+	"Peacekeeper": 
+	{
+		"translation": "Vredestichter",
+		"machine": true
+	},
+	"Networking": 
+	{
+		"translation": "Netwerken",
+		"machine": true
+	},
+	"Serious": 
+	{
+		"translation": "Echt",
+		"machine": true
+	},
+	"Control Preferences": 
+	{
+		"translation": "Voorkeuren beheren",
+		"machine": true
+	},
+	"Toggle Scope": 
+	{
+		"translation": "Bereik wisselen",
+		"machine": true
+	},
+	"Toggle Crouch": 
+	{
+		"translation": "Toggle hurken",
+		"machine": true
+	},
+	"Toggle Sprint": 
+	{
+		"translation": "Sprint wisselen",
+		"machine": true
+	},
+	"Auto-Rotate Structures": 
+	{
+		"translation": "Structuren automatisch roteren",
+		"machine": true
+	},
+	"Chat": 
+	{
+		"translation": "Chatten",
+		"machine": true
+	},
+	"Streamer Mode": 
+	{
+		"translation": "Streamer-modus",
+		"machine": true
+	},
+	"Profanity Filter": 
+	{
+		"translation": "Godslasteringsfilter",
+		"machine": true
+	},
+	"Chat Timeout": 
+	{
+		"translation": "Chat-time-out",
+		"machine": true
+	},
+	"Rendering": 
+	{
+		"translation": "weergave",
+		"machine": true
+	},
+	"Green Outline for Party Members": 
+	{
+		"translation": "Groen overzicht voor partijleden",
+		"machine": true
+	},
+	"Friendly Outline Through Walls": 
+	{
+		"translation": "Vriendelijke omtrek door muren",
+		"machine": true
+	},
+	"Miscellaneous": 
+	{
+		"translation": "Diversen",
+		"machine": true
+	},
+	"Camera Sway": 
+	{
+		"translation": "Camera zwaaien",
+		"machine": true
+	},
+	"Pause when Inactive": 
+	{
+		"translation": "Pauzeren wanneer inactief",
+		"machine": true
+	},
+	"Enable Debug Logging": 
+	{
+		"translation": "Logboekregistratie voor foutopsporing inschakelen",
+		"machine": true
+	},
+	"Extra Logging": 
+	{
+		"translation": "Extra loggen",
+		"machine": true
+	},
+	"Input": 
+	{
+		"translation": "Invoer",
+		"machine": true
+	},
+	"Raw Mouse Input": 
+	{
+		"translation": "Ruwe muisinvoer",
+		"machine": true
+	},
+	"Sensitivity Multiplies": 
+	{
+		"translation": "Gevoeligheid vermenigvuldigt zich",
+		"machine": true
+	},
+	"Invert Y Axis": 
+	{
+		"translation": "Y-as omkeren",
+		"machine": true
+	},
+	"Sensitivity Values": 
+	{
+		"translation": "Gevoeligheidswaarden",
+		"machine": true
+	},
+	"Look Sensitivity": 
+	{
+		"translation": "Kijk gevoeligheid",
+		"machine": true
+	},
+	"Ironsights Sensitivity": 
+	{
+		"translation": "Ironsights-gevoeligheid",
+		"machine": true
+	},
+	"X2 Scope Sensitivity": 
+	{
+		"translation": "X2 scoopgevoeligheid",
+		"machine": true
+	},
+	"X4 Scope Sensitivity": 
+	{
+		"translation": "X4 scoopgevoeligheid",
+		"machine": true
+	},
+	"Spectator Sensitivity": 
+	{
+		"translation": "Toeschouwersgevoeligheid",
+		"machine": true
+	},
+	"Minimap": 
+	{
+		"translation": "Minikaart",
+		"machine": true
+	},
+	"Minimap Size": 
+	{
+		"translation": "Minikaartgrootte",
+		"machine": true
+	},
+	"Minimap Zoom": 
+	{
+		"translation": "Minikaart zoomen",
+		"machine": true
+	},
+	"Damage Numbers": 
+	{
+		"translation": "Schadenummers",
+		"machine": true
+	},
+	"Show in the Shooting Range": 
+	{
+		"translation": "Tonen in de schietbaan",
+		"machine": true
+	},
+	"Show HUD": 
+	{
+		"translation": "Toon HUD",
+		"machine": true
+	},
+	"Show Kill Feed": 
+	{
+		"translation": "Toon kill-feed",
+		"machine": true
+	},
+	"Show Player Names": 
+	{
+		"translation": "Spelersnamen tonen",
+		"machine": true
+	},
+	"Show Enemies on the Zone Bar": 
+	{
+		"translation": "Laat vijanden zien op de zonebalk",
+		"machine": true
+	},
+	"Secret": 
+	{
+		"translation": "Geheim",
+		"machine": true
+	},
+	"This Doesn't Do Anything": 
+	{
+		"translation": "Dit doet niets",
+		"machine": true
+	},
+	"Resolution": 
+	{
+		"translation": "Oplossing",
+		"machine": true
+	},
+	"Override Screen Resolution": 
+	{
+		"translation": "Schermresolutie overschrijven",
+		"machine": true
+	},
+	"Game Resolution X": 
+	{
+		"translation": "Spelresolutie X",
+		"machine": true
+	},
+	"Game Resolution Y": 
+	{
+		"translation": "Spelresolutie Y",
+		"machine": true
+	},
+	"Camera": 
+	{
+		"translation": "Camera",
+		"machine": true
+	},
+	"Field of View": 
+	{
+		"translation": "Gezichtsveld",
+		"machine": true
+	},
+	"Degrees": 
+	{
+		"translation": "Graden",
+		"machine": true
+	},
+	"Brightness": 
+	{
+		"translation": "Helderheid",
+		"machine": true
+	},
+	"Dynamic Rendering Settings": 
+	{
+		"translation": "Instellingen voor dynamische weergave",
+		"machine": true
+	},
+	"Texture Quality": 
+	{
+		"translation": "Textuur kwaliteit",
+		"machine": true
+	},
+	"Shadows": 
+	{
+		"translation": "schaduwen",
+		"machine": true
+	},
+	"Shadow Quality": 
+	{
+		"translation": "Schaduw kwaliteit",
+		"machine": true
+	},
+	"Render Player Shadows": 
+	{
+		"translation": "Spelerschaduwen renderen",
+		"machine": true
+	},
+	"Render Entity Shadows": 
+	{
+		"translation": "Entiteitsschaduwen renderen",
+		"machine": true
+	},
+	"Render Particle Shadows": 
+	{
+		"translation": "Deeltjesschaduwen renderen",
+		"machine": true
+	},
+	"Render Weather Particle Shadows": 
+	{
+		"translation": "Schaduwen van weerdeeltjes weergeven",
+		"machine": true
+	},
+	"Render Structure Shadows": 
+	{
+		"translation": "Structuurschaduwen renderen",
+		"machine": true
+	},
+	"Voxel Settings": 
+	{
+		"translation": "Voxel-instellingen",
+		"machine": true
+	},
+	"Render Distance": 
+	{
+		"translation": "Renderafstand",
+		"machine": true
+	},
+	"Chunks": 
+	{
+		"translation": "Brokken",
+		"machine": true
+	},
+	"Max Chunk Updates": 
+	{
+		"translation": "Max. chunk-updates",
+		"machine": true
+	},
+	"Particle Amount": 
+	{
+		"translation": "Deeltjeshoeveelheid",
+		"machine": true
+	},
+	"Weather Particle Amount": 
+	{
+		"translation": "Hoeveelheid weerdeeltjes",
+		"machine": true
+	},
+	"Lights": 
+	{
+		"translation": "Lichten",
+		"machine": true
+	},
+	"Lighting Quality": 
+	{
+		"translation": "Lichtkwaliteit",
+		"machine": true
+	},
+	"Samples": 
+	{
+		"translation": "Monsters",
+		"machine": true
+	},
+	"Bloom Strength": 
+	{
+		"translation": "Bloeikracht",
+		"machine": true
+	},
+	"Render Bloom On Optics": 
+	{
+		"translation": "Render bloom op optica",
+		"machine": true
+	},
+	"Render Crepuscular Rays": 
+	{
+		"translation": "Geef schemerige stralen weer",
+		"machine": true
+	},
+	"Enable Anti-Aliasing": 
+	{
+		"translation": "Anti-aliasing inschakelen",
+		"machine": true
+	},
+	"Outer Scope Blur": 
+	{
+		"translation": "Buiten bereik vervagen",
+		"machine": true
+	},
+	"Compatibility": 
+	{
+		"translation": "Compatibiliteit",
+		"machine": true
+	},
+	"Experimental": 
+	{
+		"translation": "Experimenteel",
+		"machine": true
+	},
+	"Extensions": 
+	{
+		"translation": "Extensies",
+		"machine": true
+	},
+	"Sound Effect Volume": 
+	{
+		"translation": "Geluidseffectvolume",
+		"machine": true
+	},
+	"Ambient Volume": 
+	{
+		"translation": "Omgevingsvolume",
+		"machine": true
+	},
+	"Game Music Volume": 
+	{
+		"translation": "Volume van gamemuziek",
+		"machine": true
+	},
+	"Menu Music Volume": 
+	{
+		"translation": "Menu muziek volume",
+		"machine": true
+	},
+	"Personal Footsteps Volume": 
+	{
+		"translation": "Persoonlijk voetstappenvolume",
+		"machine": true
+	},
+	"Team Footsteps Volume": 
+	{
+		"translation": "Team voetstappen volume",
+		"machine": true
+	},
+	"Movement": 
+	{
+		"translation": "Beweging",
+		"machine": true
+	},
+	"Actions": 
+	{
+		"translation": "Acties",
+		"machine": true
+	},
+	"Weaponry": 
+	{
+		"translation": "Wapens",
+		"machine": true
+	},
+	"Single Dig by Default": 
+	{
+		"translation": "Standaard één opgraving",
+		"machine": true
+	},
+	"Tools": 
+	{
+		"translation": "Hulpmiddelen",
+		"machine": true
+	},
+	"Navigation": 
+	{
+		"translation": "Navigatie",
+		"machine": true
+	},
+	"Team Colours": 
+	{
+		"translation": "Teamkleuren",
+		"machine": true
+	},
+	"Friendly Colour": 
+	{
+		"translation": "Vriendelijke kleur",
+		"machine": true
+	},
+	"Party Colour": 
+	{
+		"translation": "Feest kleur",
+		"machine": true
+	},
+	"Enemy Colour": 
+	{
+		"translation": "Vijandelijke kleur",
+		"machine": true
+	},
+	"High Quality Meshing": 
+	{
+		"translation": "Hoogwaardige meshing",
+		"machine": true
+	},
+	"Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.": 
+	{
+		"translation": "Besteed meer tijd aan de CPU om wereldnetwerken van hogere kwaliteit te produceren, waardoor de druk op de GPU wordt verminderd.",
+		"machine": true
+	},
+	"The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.": 
+	{
+		"translation": "De game schakelt automatisch effecten uit en verlaagt de kwaliteit van de nabewerking om de FPS hoog te houden. het kan tot een minuut duren om de optimale weergave-instellingen te bepalen.",
+		"machine": true
+	},
+	"Polling Rate": 
+	{
+		"translation": "Opiniepeiling",
+		"machine": true
+	},
+	"Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.": 
+	{
+		"translation": "Wijzigt hoe vaak u spelergegevens van de server ontvangt. verlaag deze waarde als u een onstabiel internet of internet met een lage bandbreedte gebruikt.",
+		"machine": true
+	},
+	"Pew Pew Mode": 
+	{
+		"translation": "Pew Pew-modus",
+		"machine": true
+	},
+	"Must keep enabled at all times": 
+	{
+		"translation": "Moet te allen tijde ingeschakeld blijven",
+		"machine": true
+	},
+	"The size of the bottom-right minimap": 
+	{
+		"translation": "De grootte van de minimap rechtsonder",
+		"machine": true
+	},
+	"The internal scale of the bottom-right minimap": 
+	{
+		"translation": "De interne schaal van de minimap rechtsonder",
+		"machine": true
+	},
+	"The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.": 
+	{
+		"translation": "De servernaam wordt niet weergegeven op het scorebord en de namen en niveaus van andere spelers worden willekeurig voor je verdeeld.",
+		"machine": true
+	},
+	"Controls whether the in-game HUD is rendered. Shortcut:": 
+	{
+		"translation": "Bepaalt of de in-game HUD wordt weergegeven. snelkoppeling:",
+		"machine": true
+	},
+	"Show Chat": 
+	{
+		"translation": "Toon chat",
+		"machine": true
+	},
+	"Controls whether the chat is rendered. Shortcut:": 
+	{
+		"translation": "Bepaalt of de chat wordt weergegeven. snelkoppeling:",
+		"machine": true
+	},
+	"Controls whether the kill feed is rendered. Shortcut:": 
+	{
+		"translation": "Bepaalt of de kill-feed wordt weergegeven. snelkoppeling:",
+		"machine": true
+	},
+	"Controls whether player names are rendered. Shortcut:": 
+	{
+		"translation": "Bepaalt of spelersnamen worden weergegeven. snelkoppeling:",
+		"machine": true
+	},
+	"UI Scale": 
+	{
+		"translation": "UI-schaal",
+		"machine": true
+	},
+	"Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS": 
+	{
+		"translation": "Deeltjes worden geproduceerd wanneer objecten worden geraakt of vernietigd. het verlagen van dit percentage zal de FPS verhogen",
+		"machine": true
+	},
+	"The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS": 
+	{
+		"translation": "De kaart is verdeeld in blokken van 32x32x32 blokken. dit verminderen zal de FPS verhogen",
+		"machine": true
+	},
+	"Max Lights": 
+	{
+		"translation": "Max licht",
+		"machine": true
+	},
+	"The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS": 
+	{
+		"translation": "De wereld wordt verlicht door zonlicht, bloklichten en mondingsflitsen van geweren. het verminderen van de maximale hoeveelheid licht die kan worden weergegeven, verhoogt de FPS",
+		"machine": true
+	},
+	"Max FPS": 
+	{
+		"translation": "Max FPS",
+		"machine": true
+	},
+	"Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage": 
+	{
+		"translation": "Frames per seconde (FPS) is het aantal keren dat de game elke seconde wordt bijgewerkt. het verlagen van deze waarde zal het CPU- en GPU-gebruik verminderen",
+		"machine": true
+	},
+	"Enable SSAO": 
+	{
+		"translation": "SSAO inschakelen",
+		"machine": true
+	},
+	"Screen Space Ambient Occlusion darkens the crevices between objects": 
+	{
+		"translation": "Schermruimte ambient occlusie verdonkert de spleten tussen objecten",
+		"machine": true
+	},
+	"Enable Bloom": 
+	{
+		"translation": "Bloei inschakelen",
+		"machine": true
+	},
+	"Bloom increases and blurs the brightness of emissive surfaces": 
+	{
+		"translation": "Bloom verhoogt en vervaagt de helderheid van emitterende oppervlakken",
+		"machine": true
+	},
+	"Enable Bloom On Optics": 
+	{
+		"translation": "Bloesem inschakelen op optica",
+		"machine": true
+	},
+	"Enable Crepuscular Rays": 
+	{
+		"translation": "Schemerstralen inschakelen",
+		"machine": true
+	},
+	"Crepuscular rays are shafts of lights that originate from a star": 
+	{
+		"translation": "Crepusculaire stralen zijn lichtbundels die afkomstig zijn van een ster",
+		"machine": true
+	},
+	"Enable Shadows": 
+	{
+		"translation": "Schaduwen inschakelen",
+		"machine": true
+	},
+	"Parts of the map will be darkened by the shadows cast from other objects": 
+	{
+		"translation": "Delen van de kaart worden donkerder door de schaduwen van andere objecten",
+		"machine": true
+	},
+	"Controls whether players from casting shadows": 
+	{
+		"translation": "Bepaalt of spelers schaduwen werpen",
+		"machine": true
+	},
+	"Controls whether Disruptors, C4, Scanners and Canisters cast shadows": 
+	{
+		"translation": "Bepaalt of disruptors, c4, scanners en canisters schaduwen werpen",
+		"machine": true
+	},
+	"Controls whether particles cast shadows": 
+	{
+		"translation": "Bepaalt of deeltjes schaduwen werpen",
+		"machine": true
+	},
+	"Controls whether leaf particles cast shadows": 
+	{
+		"translation": "Bepaalt of bladdeeltjes schaduwen werpen",
+		"machine": true
+	},
+	"Controls whether falling structures cast shadows": 
+	{
+		"translation": "Bepaalt of vallende structuren schaduwen werpen",
+		"machine": true
+	},
+	"Enable Multisampling": 
+	{
+		"translation": "Multisampling inschakelen",
+		"machine": true
+	},
+	"Multisampling smooths the edges of objects": 
+	{
+		"translation": "Multisampling maakt de randen van objecten glad",
+		"machine": true
+	},
+	"Bare Minimum": 
+	{
+		"translation": "Absoluut minimum",
+		"machine": true
+	},
+	"The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time": 
+	{
+		"translation": "De absoluut minimale weergavemodus slaat alle nabewerkingen over en rendert objecten rechtstreeks op het scherm. dit uitschakelen kan enige tijd duren",
+		"machine": true
+	},
+	"With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black": 
+	{
+		"translation": "Als het absolute minimum is ingeschakeld, bepaalt dit of het gebied rond 2x en 4x scopes wazig of zwart is",
+		"machine": true
+	},
+	"Compress Textures": 
+	{
+		"translation": "Comprimeer texturen",
+		"machine": true
+	},
+	"Compressing textures will use less memory on the GPU but the game will take longer to start up": 
+	{
+		"translation": "Het comprimeren van texturen gebruikt minder geheugen op de GPU, maar het opstarten van de game duurt langer",
+		"machine": true
+	},
+	"Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes": 
+	{
+		"translation": "Logboekregistratie voor foutopsporing slaat logbestanden op in de map appData\/roaming\/vercidium\/log, wat de ontwikkelaars helpt bij het oplossen van bugs en crashes",
+		"machine": true
+	},
+	"Enable Safe Mode": 
+	{
+		"translation": "Veilige modus inschakelen",
+		"machine": true
+	},
+	"Safe Mode prevents crashes from closing the game, but may slow the game down slightly": 
+	{
+		"translation": "Veilige modus voorkomt dat het spel door crashes wordt afgesloten, maar kan het spel enigszins vertragen",
+		"machine": true
+	},
+	"Enable VSync": 
+	{
+		"translation": "VSync inschakelen",
+		"machine": true
+	},
+	"Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing": 
+	{
+		"translation": "Verticale synchronisatie stemt de updatesnelheid van het spel af op de vernieuwingsfrequentie van je monitor. als u dit inschakelt, kan het scheuren van het scherm worden verholpen",
+		"machine": true
+	},
+	"Dynamic Exposure": 
+	{
+		"translation": "Dynamische belichting",
+		"machine": true
+	},
+	"Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene": 
+	{
+		"translation": "Dynamische belichting bootst het menselijk oog na door de belichting aan te passen op basis van de helderheid van de scène",
+		"machine": true
+	},
+	"Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker": 
+	{
+		"translation": "Het verminderen van de kwaliteit van schaduwen verhoogt de FPS, maar zorgt ervoor dat close-upschaduwen flikkeren",
+		"machine": true
+	},
+	"Reducing the quality of lighting will increase FPS but pixelate lighting": 
+	{
+		"translation": "Het verminderen van de kwaliteit van de verlichting zal de FPS verhogen, maar de pixelachtige verlichting",
+		"machine": true
+	},
+	"Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware": 
+	{
+		"translation": "Als u dit inschakelt, worden delen van de rendering-pipeline verwijderd die mogelijk traag zijn op oudere hardware",
+		"machine": true
+	},
+	"Enable this if you are having trouble connecting to servers": 
+	{
+		"translation": "Schakel dit in als je problemen hebt om verbinding te maken met servers",
+		"machine": true
+	},
+	"Only Scroll Weapons": 
+	{
+		"translation": "Alleen scrollwapens",
+		"machine": true
+	},
+	"If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools": 
+	{
+		"translation": "Indien ingeschakeld, draait het scrollwiel alleen tussen je wapens en niet tussen je bouw-\/graafgereedschappen",
+		"machine": true
+	},
+	"If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity": 
+	{
+		"translation": "Indien ingeschakeld, is elke ironsight \/ 2x \/ 4x gevoeligheidsoptie een vermenigvuldiger op basis van uw uiterlijkgevoeligheid",
+		"machine": true
+	},
+	"The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage": 
+	{
+		"translation": "Het aantal secties van de kaart dat elk frame wordt bijgewerkt. dit verlagen zal het CPU-gebruik verminderen",
+		"machine": true
+	},
+	"Low Quality Textures": 
+	{
+		"translation": "Texturen van lage kwaliteit",
+		"machine": true
+	},
+	"Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect": 
+	{
+		"translation": "Als u dit inschakelt, wordt de textuurresolutie verlaagd om de FPS te verhogen en het geheugengebruik te verminderen. het uitschakelen hiervan vereist een herstart om van kracht te worden",
+		"machine": true
+	},
+	"SSAO Samples": 
+	{
+		"translation": "SSAO-monsters",
+		"machine": true
+	},
+	"Increasing this will improve the quality of Ambient Occlusion postprocessing": 
+	{
+		"translation": "Door dit te verhogen, wordt de kwaliteit van de postprocessing van ambient occlusie verbeterd",
+		"machine": true
+	},
+	"Player Name Distance": 
+	{
+		"translation": "Speler naam afstand",
+		"machine": true
+	},
+	"This controls how far away friendly names will show": 
+	{
+		"translation": "Dit bepaalt hoe ver weg vriendelijke namen worden weergegeven",
+		"machine": true
+	},
+	"Midi Counts as Weapon": 
+	{
+		"translation": "Midi telt als wapen",
+		"machine": true
+	},
+	"When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them": 
+	{
+		"translation": "Indien uitgeschakeld, zal de midi\/digger\/structuur worden overgeslagen bij het scrollen van wapens en het indrukken van de laatste tool keybind zal er niet naar wisselen",
+		"machine": true
+	},
+	"Automatically pause the game when you change to another window": 
+	{
+		"translation": "Pauzeer het spel automatisch wanneer je naar een ander venster gaat",
+		"machine": true
+	},
+	"Replace swear words in chat messages with delicious food": 
+	{
+		"translation": "Vervang scheldwoorden in chatberichten door heerlijk eten",
+		"machine": true
+	},
+	"Game Resolution": 
+	{
+		"translation": "Spelresolutie",
+		"machine": true
+	},
+	"Reducing this will increase FPS": 
+	{
+		"translation": "Door dit te verminderen, wordt de FPS verhoogd",
+		"machine": true
+	},
+	"Override Resolution": 
+	{
+		"translation": "Resolutie overschrijven",
+		"machine": true
+	},
+	"Enabling this will make the game render at the resolution specified below and stretch to the size of the window": 
+	{
+		"translation": "Als je dit inschakelt, wordt het spel gerenderd met de hieronder gespecificeerde resolutie en uitgerekt tot de grootte van het venster",
+		"machine": true
+	},
+	"Smooth Scaling": 
+	{
+		"translation": "Soepele schaling",
+		"machine": true
+	},
+	"Enabling this will reduce the pixelation of lower game resolutions": 
+	{
+		"translation": "Als u dit inschakelt, wordt de pixelvorming van lagere spelresoluties verminderd",
+		"machine": true
+	},
+	"NVIDIA OpenGL Extensions": 
+	{
+		"translation": "NVIDIA openGL-extensies",
+		"machine": true
+	},
+	"Experimental performance setting, may crash your game. Don't enable if you haven't been told to": 
+	{
+		"translation": "Experimentele prestatie-instelling, kan je spel laten crashen. niet inschakelen als u dat niet is verteld",
+		"machine": true
+	},
+	"Beta Rendering": 
+	{
+		"translation": "Bètaweergave",
+		"machine": true
+	},
+	"New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled": 
+	{
+		"translation": "Nieuwe rendering-pijplijn. laat het vercidium weten in onenigheid als het spel sneller\/langzamer loopt als dit is ingeschakeld",
+		"machine": true
+	},
+	"Enable this to make": 
+	{
+		"translation": "Schakel dit in om te maken",
+		"machine": true
+	},
+	"dig single blocks and": 
+	{
+		"translation": "graaf enkele blokken en",
+		"machine": true
+	},
+	"dig a 3x3x3 area": 
+	{
+		"translation": "graaf een gebied van 3x3x3",
+		"machine": true
+	},
+	"Show Enemies on Zone Bar": 
+	{
+		"translation": "Laat vijanden zien op zonebalk",
+		"machine": true
+	},
+	"Forwards": 
+	{
+		"translation": "Vooruit",
+		"machine": true
+	},
+	"Right": 
+	{
+		"translation": "Rechts",
+		"machine": true
+	},
+	"Backwards": 
+	{
+		"translation": "Achteruit",
+		"machine": true
+	},
+	"Crouch": 
+	{
+		"translation": "hurken",
+		"machine": true
+	},
+	"Jump": 
+	{
+		"translation": "Springen",
+		"machine": true
+	},
+	"Sprint": 
+	{
+		"translation": "Sprint",
+		"machine": true
+	},
+	"Slide": 
+	{
+		"translation": "Schuif",
+		"machine": true
+	},
+	"Pick Up Primary": 
+	{
+		"translation": "Primair ophalen",
+		"machine": true
+	},
+	"Pick Up Secondary": 
+	{
+		"translation": "Ophalen secundair",
+		"machine": true
+	},
+	"Ping": 
+	{
+		"translation": "Ping",
+		"machine": true
+	},
+	"Ping (Enemy)": 
+	{
+		"translation": "Ping (vijand))",
+		"machine": true
+	},
+	"Ping (Caution)": 
+	{
+		"translation": "Ping (let op:)",
+		"machine": true
+	},
+	"Ping (Help)": 
+	{
+		"translation": "Ping (help)",
+		"machine": true
+	},
+	"Ping (Reinforce)": 
+	{
+		"translation": "Ping (versterken))",
+		"machine": true
+	},
+	"Ping (Destroy)": 
+	{
+		"translation": "Ping (vernietigen))",
+		"machine": true
+	},
+	"Shoot": 
+	{
+		"translation": "Schieten",
+		"machine": true
+	},
+	"Scope": 
+	{
+		"translation": "Domein",
+		"machine": true
+	},
+	"Melee": 
+	{
+		"translation": "Melee",
+		"machine": true
+	},
+	"Grenade": 
+	{
+		"translation": "Granaat",
+		"machine": true
+	},
+	"Midi": 
+	{
+		"translation": "Midi",
+		"machine": true
+	},
+	"Digger": 
+	{
+		"translation": "Graver",
+		"machine": true
+	},
+	"Structure (Radial)": 
+	{
+		"translation": "Structuur (radiaal))",
+		"machine": true
+	},
+	"Structure (Toggle)": 
+	{
+		"translation": "Structuur (toggle))",
+		"machine": true
+	},
+	"Structure 1": 
+	{
+		"translation": "Structuur 1",
+		"machine": true
+	},
+	"Structure 2": 
+	{
+		"translation": "Structuur 2",
+		"machine": true
+	},
+	"Structure 3": 
+	{
+		"translation": "Structuur 3",
+		"machine": true
+	},
+	"Structure 4": 
+	{
+		"translation": "Structuur 4",
+		"machine": true
+	},
+	"Structure 5": 
+	{
+		"translation": "Structuur 5",
+		"machine": true
+	},
+	"Structure 6": 
+	{
+		"translation": "Structuur 6",
+		"machine": true
+	},
+	"Structure 7": 
+	{
+		"translation": "Structuur 7",
+		"machine": true
+	},
+	"Structure 8": 
+	{
+		"translation": "Structuur 8",
+		"machine": true
+	},
+	"Structure 9": 
+	{
+		"translation": "Structuur 9",
+		"machine": true
+	},
+	"Primary": 
+	{
+		"translation": "primair",
+		"machine": true
+	},
+	"Secondary": 
+	{
+		"translation": "Ondergeschikt",
+		"machine": true
+	},
+	"Switch To Last Tool": 
+	{
+		"translation": "Overschakelen naar laatste tool",
+		"machine": true
+	},
+	"Next Tool": 
+	{
+		"translation": "Volgende tool",
+		"machine": true
+	},
+	"Previous Tool": 
+	{
+		"translation": "Vorige tool",
+		"machine": true
+	},
+	"Team Chat": 
+	{
+		"translation": "Teamchat",
+		"machine": true
+	},
+	"View Scoreboard": 
+	{
+		"translation": "Scorebord bekijken",
+		"machine": true
+	},
+	"Unlock Scoreboard": 
+	{
+		"translation": "Scorebord ontgrendelen",
+		"machine": true
+	},
+	"View Map": 
+	{
+		"translation": "Bekijk kaart",
+		"machine": true
+	},
+	"Menu": 
+	{
+		"translation": "Menu",
+		"machine": true
+	},
+	"Toggle Fullscreen": 
+	{
+		"translation": "Volledig scherm activeren",
+		"machine": true
+	},
+	"Toggle UI": 
+	{
+		"translation": "Gebruikersinterface wisselen",
+		"machine": true
+	},
+	"Toggle Chat": 
+	{
+		"translation": "Chat wisselen",
+		"machine": true
+	},
+	"Toggle Killfeed": 
+	{
+		"translation": "Schakel killfeed in",
+		"machine": true
+	},
+	"Toggle Names": 
+	{
+		"translation": "Namen wisselen",
+		"machine": true
+	},
+	"Toggle Info Overlay": 
+	{
+		"translation": "Informatie-overlay wisselen",
+		"machine": true
+	},
+	"Custom Map - Reload": 
+	{
+		"translation": "Aangepaste kaart - herladen",
+		"machine": true
+	},
+	"Custom Map - Full Reload": 
+	{
+		"translation": "Aangepaste kaart - volledig opnieuw laden",
+		"machine": true
+	},
+	"Custom Map - Toggle Fall Damage": 
+	{
+		"translation": "Aangepaste kaart - schakel valschade in",
+		"machine": true
+	},
+	"Custom Map - Toggle Fly Camera": 
+	{
+		"translation": "Aangepaste kaart - vliegcamera wisselen",
+		"machine": true
+	},
+	"Reset UI Scale": 
+	{
+		"translation": "UI-schaal resetten",
+		"machine": true
+	},
+	"Provide Feedback": 
+	{
+		"translation": "Geef feedback",
+		"machine": true
+	},
+	"News Tab": 
+	{
+		"translation": "Tabblad Nieuws",
+		"machine": true
+	},
+	"Store Tab": 
+	{
+		"translation": "Tabblad Winkel",
+		"machine": true
+	},
+	"Career Tab": 
+	{
+		"translation": "Tabblad Carrière",
+		"machine": true
+	},
+	"Play Tab": 
+	{
+		"translation": "Tabblad Afspelen",
+		"machine": true
+	},
+	"Clan Tab": 
+	{
+		"translation": "Tabblad Clan",
+		"machine": true
+	},
+	"Character Tab": 
+	{
+		"translation": "Tabblad Karakter",
+		"machine": true
+	},
+	"Weapons Tab": 
+	{
+		"translation": "Tabblad Wapens",
+		"machine": true
+	},
+	"Loadouts Tab": 
+	{
+		"translation": "Tabblad Uitrustingen",
+		"machine": true
+	},
+	"Ship Tab": 
+	{
+		"translation": "Tabblad Verzenden",
+		"machine": true
+	},
+	"Settings Tab": 
+	{
+		"translation": "Tabblad Instellingen",
+		"machine": true
+	},
+	"Mapping Tab": 
+	{
+		"translation": "Tabblad Kaarten",
+		"machine": true
+	},
+	"Open Trial Window": 
+	{
+		"translation": "Proefvenster openen",
+		"machine": true
+	},
+	"Restart Trial": 
+	{
+		"translation": "Proefperiode opnieuw starten",
+		"machine": true
+	}
+}

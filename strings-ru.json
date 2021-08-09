@@ -1,0 +1,4302 @@
+{
+	"Cluster spawn": 
+	{
+		"translation": "Кластерный спавн",
+		"machine": true
+	},
+	"Damage": 
+	{
+		"translation": "Повреждать",
+		"machine": true
+	},
+	"Overkill": 
+	{
+		"translation": "Перебор",
+		"machine": true
+	},
+	"Direct": 
+	{
+		"translation": "Прямой",
+		"machine": true
+	},
+	"Disruptor assist": 
+	{
+		"translation": "Ассистент дезинтегратора",
+		"machine": true
+	},
+	"Headshot": 
+	{
+		"translation": "Выстрел в голову",
+		"machine": true
+	},
+	"Kill": 
+	{
+		"translation": "Убийство",
+		"machine": true
+	},
+	"Kill streak": 
+	{
+		"translation": "Серия убийств",
+		"machine": true
+	},
+	"VIP kill": 
+	{
+		"translation": "VIP убийство",
+		"machine": true
+	},
+	"VIP defend": 
+	{
+		"translation": "VIP защита",
+		"machine": true
+	},
+	"Scanner destroyed": 
+	{
+		"translation": "Сканер уничтожен",
+		"machine": true
+	},
+	"Scanner assist": 
+	{
+		"translation": "Сканер помощь",
+		"machine": true
+	},
+	"C4 destroyed": 
+	{
+		"translation": "C4 уничтожен",
+		"machine": true
+	},
+	"Disruptor destroyed": 
+	{
+		"translation": "Дисраптор уничтожен",
+		"machine": true
+	},
+	"Avenger": 
+	{
+		"translation": "Мститель",
+		"machine": true
+	},
+	"Saviour": 
+	{
+		"translation": "Спаситель",
+		"machine": true
+	},
+	"Flag capture": 
+	{
+		"translation": "Захват флага",
+		"machine": true
+	},
+	"Flag carry": 
+	{
+		"translation": "Нести флаг",
+		"machine": true
+	},
+	"Flag return": 
+	{
+		"translation": "Возврат флага",
+		"machine": true
+	},
+	"Flag attack": 
+	{
+		"translation": "Атака флагом",
+		"machine": true
+	},
+	"Flag defend": 
+	{
+		"translation": "Флаг защищать",
+		"machine": true
+	},
+	"Escort": 
+	{
+		"translation": "Эскорт",
+		"machine": true
+	},
+	"Flag carrier kill": 
+	{
+		"translation": "Убить авианосца флага",
+		"machine": true
+	},
+	"Bomb deliver": 
+	{
+		"translation": "Бомба доставить",
+		"machine": true
+	},
+	"Bomb carry": 
+	{
+		"translation": "Бомба нести",
+		"machine": true
+	},
+	"Bomb defuse": 
+	{
+		"translation": "Обезвреживание бомбы",
+		"machine": true
+	},
+	"Bomb attack": 
+	{
+		"translation": "Бомбовая атака",
+		"machine": true
+	},
+	"Bomb defend": 
+	{
+		"translation": "Бомба защищать",
+		"machine": true
+	},
+	"Spot assist": 
+	{
+		"translation": "Точечная помощь",
+		"machine": true
+	},
+	"Attacking": 
+	{
+		"translation": "Атакующий",
+		"machine": true
+	},
+	"Defending": 
+	{
+		"translation": "Защищая",
+		"machine": true
+	},
+	"Contesting": 
+	{
+		"translation": "Конкурс",
+		"machine": true
+	},
+	"Canister capture": 
+	{
+		"translation": "Захват канистры",
+		"machine": true
+	},
+	"Zone capture": 
+	{
+		"translation": "Захват зоны",
+		"machine": true
+	},
+	"Beacon capture": 
+	{
+		"translation": "Захват маяка",
+		"machine": true
+	},
+	"Beacon destroyed": 
+	{
+		"translation": "Маяк уничтожен",
+		"machine": true
+	},
+	"Salvage": 
+	{
+		"translation": "Спасение",
+		"machine": true
+	},
+	"Round win": 
+	{
+		"translation": "Победа в раунде",
+		"machine": true
+	},
+	"Round survive": 
+	{
+		"translation": "Круглый выжить",
+		"machine": true
+	},
+	"Assist": 
+	{
+		"translation": "Помощь",
+		"machine": true
+	},
+	"Assist counts as kill": 
+	{
+		"translation": "Помощь считается убийством",
+		"machine": true
+	},
+	"Fortifying": 
+	{
+		"translation": "Укрепляющий",
+		"machine": true
+	},
+	"Most Valuable Player": 
+	{
+		"translation": "Самый ценный игрок",
+		"machine": true
+	},
+	"Annihilator": 
+	{
+		"translation": "Аннигилятор",
+		"machine": true
+	},
+	"Marksman": 
+	{
+		"translation": "Стрелок",
+		"machine": true
+	},
+	"Creator": 
+	{
+		"translation": "Создатель",
+		"machine": true
+	},
+	"Destroyer": 
+	{
+		"translation": "Эсминец",
+		"machine": true
+	},
+	"Attacker": 
+	{
+		"translation": "Злоумышленник",
+		"machine": true
+	},
+	"Defender": 
+	{
+		"translation": "Защитник",
+		"machine": true
+	},
+	"Impaler": 
+	{
+		"translation": "Цепеш",
+		"machine": true
+	},
+	"Resilient": 
+	{
+		"translation": "Устойчивый",
+		"machine": true
+	},
+	"Assistance": 
+	{
+		"translation": "Помощь",
+		"machine": true
+	},
+	"Impacter": 
+	{
+		"translation": "Импактер",
+		"machine": true
+	},
+	"Infiltrator": 
+	{
+		"translation": "Разведчик",
+		"machine": true
+	},
+	"Team placement": 
+	{
+		"translation": "Размещение команды",
+		"machine": true
+	},
+	"Connecting": 
+	{
+		"translation": "Подключение",
+		"machine": true
+	},
+	"Loading Map": 
+	{
+		"translation": "Загрузка карты",
+		"machine": true
+	},
+	"None": 
+	{
+		"translation": "Никто",
+		"machine": true
+	},
+	"Playing": 
+	{
+		"translation": "Играет",
+		"machine": true
+	},
+	"Reserved (party)": 
+	{
+		"translation": "Зарезервировано (партия)",
+		"machine": true
+	},
+	"Selecting a team": 
+	{
+		"translation": "Выбор команды",
+		"machine": true
+	},
+	"Spectating": 
+	{
+		"translation": "Наблюдение",
+		"machine": true
+	},
+	"Left": 
+	{
+		"translation": "Левый",
+		"machine": true
+	},
+	"Breakthrough": 
+	{
+		"translation": "Прорвать",
+		"machine": true
+	},
+	"Control Shift": 
+	{
+		"translation": "Сдвиг управления",
+		"machine": true
+	},
+	"Capture the Flag": 
+	{
+		"translation": "Захват флага",
+		"machine": true
+	},
+	"Gun Game": 
+	{
+		"translation": "Игра с оружием",
+		"machine": true
+	},
+	"Head Hunter": 
+	{
+		"translation": "Охотник за головами",
+		"machine": true
+	},
+	"Spire": 
+	{
+		"translation": "Шпиль",
+		"machine": true
+	},
+	"Static": 
+	{
+		"translation": "Статический",
+		"machine": true
+	},
+	"All": 
+	{
+		"translation": "Все",
+		"machine": true
+	},
+	"Kicked by a moderator": 
+	{
+		"translation": "Удалено модератором",
+		"machine": true
+	},
+	"Already in game": 
+	{
+		"translation": "Уже в игре",
+		"machine": true
+	},
+	"Authentication failed": 
+	{
+		"translation": "Ошибка аутентификации",
+		"machine": true
+	},
+	"Banned": 
+	{
+		"translation": "Запрещено",
+		"machine": true
+	},
+	"Disconnected": 
+	{
+		"translation": "Отключен",
+		"machine": true
+	},
+	"EAC Violation": 
+	{
+		"translation": "Нарушение EAC",
+		"machine": true
+	},
+	"Kicked for inactivity": 
+	{
+		"translation": "Удален за бездействие",
+		"machine": true
+	},
+	"Internal error": 
+	{
+		"translation": "Внутренняя ошибка",
+		"machine": true
+	},
+	"Map is restoring. Try again in 10 seconds": 
+	{
+		"translation": "Карта восстанавливается. попробуйте еще раз через 10 секунд",
+		"machine": true
+	},
+	"Network Error": 
+	{
+		"translation": "Сетевая ошибка",
+		"machine": true
+	},
+	"No Error": 
+	{
+		"translation": "Нет ошибок",
+		"machine": true
+	},
+	"Reconnecting": 
+	{
+		"translation": "Повторное подключение",
+		"machine": true
+	},
+	"Server is restarting": 
+	{
+		"translation": "Сервер перезагружается",
+		"machine": true
+	},
+	"Temporarily Banned": 
+	{
+		"translation": "Временно забанен",
+		"machine": true
+	},
+	"Version mismatch": 
+	{
+		"translation": "Несоответствие версий",
+		"machine": true
+	},
+	"Votekicked": 
+	{
+		"translation": "Голосовать",
+		"machine": true
+	},
+	"Votekick still in effect": 
+	{
+		"translation": "Голосование по-прежнему действует",
+		"machine": true
+	},
+	"Incorrect password": 
+	{
+		"translation": "неверный пароль",
+		"machine": true
+	},
+	"Your level is too high": 
+	{
+		"translation": "Ваш уровень слишком высок",
+		"machine": true
+	},
+	"Can only claim 3 lobbies per day": 
+	{
+		"translation": "Может требовать только 3 вестибюля в день",
+		"machine": true
+	},
+	"Lobby already claimed": 
+	{
+		"translation": "Лобби уже заявлено",
+		"machine": true
+	},
+	"Min level must be lower than your own": 
+	{
+		"translation": "Минимальный уровень должен быть ниже вашего собственного",
+		"machine": true
+	},
+	"Max level must be greater than your own": 
+	{
+		"translation": "Максимальный уровень должен быть больше вашего собственного",
+		"machine": true
+	},
+	"Min level can't be greater than max level": 
+	{
+		"translation": "Минимальный уровень не может быть больше максимального.",
+		"machine": true
+	},
+	"You are too powerful": 
+	{
+		"translation": "Ты слишком силен",
+		"machine": true
+	},
+	"Your level is too low": 
+	{
+		"translation": "Ваш уровень слишком низкий",
+		"machine": true
+	},
+	"Cannot claim. Lobby has players": 
+	{
+		"translation": "Не могу претендовать. в лобби есть игроки",
+		"machine": true
+	},
+	"Reserved slot expired": 
+	{
+		"translation": "Зарезервированный слот истек",
+		"machine": true
+	},
+	"Min level must be less than max level": 
+	{
+		"translation": "Минимальный уровень должен быть меньше максимального.",
+		"machine": true
+	},
+	"Bot Replacement": 
+	{
+		"translation": "Замена бота",
+		"machine": true
+	},
+	"Accelerator": 
+	{
+		"translation": "Ускоритель",
+		"machine": true
+	},
+	"Beam splitter": 
+	{
+		"translation": "Разделитель луча",
+		"machine": true
+	},
+	"Choke": 
+	{
+		"translation": "Удушение",
+		"machine": true
+	},
+	"Compressor": 
+	{
+		"translation": "Компрессор",
+		"machine": true
+	},
+	"Default": 
+	{
+		"translation": "Дефолт",
+		"machine": true
+	},
+	"Extended": 
+	{
+		"translation": "Расширенный",
+		"machine": true
+	},
+	"Extendedest": 
+	{
+		"translation": "Самый растянутый",
+		"machine": true
+	},
+	"Resonator": 
+	{
+		"translation": "Резонатор",
+		"machine": true
+	},
+	"Silencer": 
+	{
+		"translation": "Глушитель",
+		"machine": true
+	},
+	"Medium": 
+	{
+		"translation": "Середина",
+		"machine": true
+	},
+	"Short": 
+	{
+		"translation": "Короткий",
+		"machine": true
+	},
+	"Angled": 
+	{
+		"translation": "Угловой",
+		"machine": true
+	},
+	"Removed": 
+	{
+		"translation": "Удаленный",
+		"machine": true
+	},
+	"Stubby": 
+	{
+		"translation": "Коротышка",
+		"machine": true
+	},
+	"Augmented": 
+	{
+		"translation": "Дополненный",
+		"machine": true
+	},
+	"Buckshot": 
+	{
+		"translation": "Картечь",
+		"machine": true
+	},
+	"Burst": 
+	{
+		"translation": "Лопаться",
+		"machine": true
+	},
+	"Lethal": 
+	{
+		"translation": "Смертельный",
+		"machine": true
+	},
+	"Heavy": 
+	{
+		"translation": "Тяжелый",
+		"machine": true
+	},
+	"Light": 
+	{
+		"translation": "Свет",
+		"machine": true
+	},
+	"Piercing": 
+	{
+		"translation": "Пирсинг",
+		"machine": true
+	},
+	"Ricochet": 
+	{
+		"translation": "Рикошет",
+		"machine": true
+	},
+	"Slug": 
+	{
+		"translation": "Слизняк",
+		"machine": true
+	},
+	"Tow": 
+	{
+		"translation": "Буксировка",
+		"machine": true
+	},
+	"Corrosive": 
+	{
+		"translation": "Едкий",
+		"machine": true
+	},
+	"Explosive": 
+	{
+		"translation": "Взрывчатое вещество",
+		"machine": true
+	},
+	"Incendiary": 
+	{
+		"translation": "Зажигательный",
+		"machine": true
+	},
+	"Base": 
+	{
+		"translation": "Основание",
+		"machine": true
+	},
+	"Tactical": 
+	{
+		"translation": "Тактический",
+		"machine": true
+	},
+	"Mechanical": 
+	{
+		"translation": "Механический",
+		"machine": true
+	},
+	"Advanced": 
+	{
+		"translation": "Передовой",
+		"machine": true
+	},
+	"Welded": 
+	{
+		"translation": "Сварной",
+		"machine": true
+	},
+	"Pneumatic": 
+	{
+		"translation": "Пневматический",
+		"machine": true
+	},
+	"Single": 
+	{
+		"translation": "Одинокий",
+		"machine": true
+	},
+	"Automatic": 
+	{
+		"translation": "Автоматический",
+		"machine": true
+	},
+	"Sniper": 
+	{
+		"translation": "Снайпер",
+		"machine": true
+	},
+	"Rifle": 
+	{
+		"translation": "Винтовка",
+		"machine": true
+	},
+	"SMG": 
+	{
+		"translation": "SMG",
+		"machine": true
+	},
+	"Shotgun": 
+	{
+		"translation": "Дробовик",
+		"machine": true
+	},
+	"Pistol": 
+	{
+		"translation": "Пистолет",
+		"machine": true
+	},
+	"Equipment": 
+	{
+		"translation": "Оборудование",
+		"machine": true
+	},
+	"Other": 
+	{
+		"translation": "Другой",
+		"machine": true
+	},
+	"Ironsights": 
+	{
+		"translation": "Прицелы",
+		"machine": true
+	},
+	"Broken Circle": 
+	{
+		"translation": "Разорванный круг",
+		"machine": true
+	},
+	"Broken Square": 
+	{
+		"translation": "Разбитый квадрат",
+		"machine": true
+	},
+	"Chevron": 
+	{
+		"translation": "Шеврон",
+		"machine": true
+	},
+	"Circle Cross": 
+	{
+		"translation": "Круг крест",
+		"machine": true
+	},
+	"Dot Cross": 
+	{
+		"translation": "Точка крест",
+		"machine": true
+	},
+	"Dotted Cross": 
+	{
+		"translation": "Пунктирный крест",
+		"machine": true
+	},
+	"Pointed Cross": 
+	{
+		"translation": "Остроконечный крест",
+		"machine": true
+	},
+	"Sparse Dotted Cross": 
+	{
+		"translation": "Редкий пунктирный крест",
+		"machine": true
+	},
+	"Unbroken Cross": 
+	{
+		"translation": "Сплошной крест",
+		"machine": true
+	},
+	"2px Dot": 
+	{
+		"translation": "2px точка",
+		"machine": true
+	},
+	"4px Dot": 
+	{
+		"translation": "4px точка",
+		"machine": true
+	},
+	"6px Dot": 
+	{
+		"translation": "6px точка",
+		"machine": true
+	},
+	"8px Dot": 
+	{
+		"translation": "8px точка",
+		"machine": true
+	},
+	"Flat Dot": 
+	{
+		"translation": "Плоская точка",
+		"machine": true
+	},
+	"Dot Plus": 
+	{
+		"translation": "Точка плюс",
+		"machine": true
+	},
+	"Dot Plus Circle": 
+	{
+		"translation": "Точка плюс круг",
+		"machine": true
+	},
+	"Dot T": 
+	{
+		"translation": "Точка Т",
+		"machine": true
+	},
+	"Empty Plus": 
+	{
+		"translation": "Пустой плюс",
+		"machine": true
+	},
+	"Empty T": 
+	{
+		"translation": "Пустой T",
+		"machine": true
+	},
+	"T Point": 
+	{
+		"translation": "Точка",
+		"machine": true
+	},
+	"T Point Round": 
+	{
+		"translation": "Т-точка раунд",
+		"machine": true
+	},
+	"Camoflague": 
+	{
+		"translation": "Камофлага",
+		"machine": true
+	},
+	"Metallic": 
+	{
+		"translation": "Металлический",
+		"machine": true
+	},
+	"Animated": 
+	{
+		"translation": "Анимированные",
+		"machine": true
+	},
+	"Digital": 
+	{
+		"translation": "Цифровой",
+		"machine": true
+	},
+	"Tiger": 
+	{
+		"translation": "Тигр",
+		"machine": true
+	},
+	"Poly": 
+	{
+		"translation": "Поли",
+		"machine": true
+	},
+	"Snakeskin": 
+	{
+		"translation": "Змеиная кожа",
+		"machine": true
+	},
+	"Woodland": 
+	{
+		"translation": "Woodland",
+		"machine": true
+	},
+	"Hot Metal": 
+	{
+		"translation": "Горячий металл",
+		"machine": true
+	},
+	"Cold Metal": 
+	{
+		"translation": "Холодный металл",
+		"machine": true
+	},
+	"Pearl": 
+	{
+		"translation": "Жемчужина",
+		"machine": true
+	},
+	"Tracer": 
+	{
+		"translation": "Tracer",
+		"machine": true
+	},
+	"Fluid": 
+	{
+		"translation": "Жидкость",
+		"machine": true
+	},
+	"Ember": 
+	{
+		"translation": "Ember",
+		"machine": true
+	},
+	"Grid": 
+	{
+		"translation": "Сетка",
+		"machine": true
+	},
+	"This mid-long ranged weapon is balanced for most conflicts.": 
+	{
+		"translation": "Это оружие среднего дальнего боя сбалансировано для большинства конфликтов..",
+		"machine": true
+	},
+	"Mecharii technology that can be charged multiple times to produce a more powerful beam.": 
+	{
+		"translation": "Технология Mecharii, которую можно заряжать несколько раз для получения более мощного луча..",
+		"machine": true
+	},
+	"Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.": 
+	{
+		"translation": "Бросьте левой кнопкой мыши и взорвите правой кнопкой. при возрождении c4 отключаются от вас, и их нужно выстрелить, чтобы взорвать.",
+		"machine": true
+	},
+	"This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.": 
+	{
+		"translation": "Этот дробовик средней дальности дает отличный результат на больших дистанциях..\nВо время определения объема разброс гранул уменьшится на 70% за 3,0 секунды..",
+		"machine": true
+	},
+	"A testament to Aegis' advanced technology.": 
+	{
+		"translation": "Свидетельство передовых технологий Aegis.",
+		"machine": true
+	},
+	"Slower Midi digging that removes a 3x3x3 chunk of blocks.": 
+	{
+		"translation": "Более медленное копание миди, которое удаляет кусок блоков размером 3x3x3.",
+		"machine": true
+	},
+	"Place on a block surface to electrify passing enemies. Single use only.": 
+	{
+		"translation": "Разместите на поверхности блока, чтобы электризовать проходящих врагов. только одноразовое использование.",
+		"machine": true
+	},
+	"Allows one extra modification to be equipped.": 
+	{
+		"translation": "Позволяет оборудовать одну дополнительную модификацию.",
+		"machine": true
+	},
+	"This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.": 
+	{
+		"translation": "Это оружие средней дальности запускает нестабильные ядра солтрия, которые отскакивают перед взрывом..",
+		"machine": true
+	},
+	"This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.": 
+	{
+		"translation": "Эта граната имеет нестабильный солтриевый сердечник и взрывается через 3 секунды. у всех игроков есть по две гранаты, но если вы включите это, ваши гранаты будут прилипать к стенам..",
+		"machine": true
+	},
+	"Agaman technology that cuts through blocks instantly.": 
+	{
+		"translation": "Технология Agaman, которая мгновенно прорезает блоки.",
+		"machine": true
+	},
+	"This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots": 
+	{
+		"translation": "Это оружие средней дальности имеет большой обойму для подавления огня..\nПерегревается после 50 непрерывных выстрелов",
+		"machine": true
+	},
+	"Agaman technology that fires balls of plasma in quick succession.": 
+	{
+		"translation": "Технология Агамана, которая запускает плазменные шары в быстрой последовательности..",
+		"machine": true
+	},
+	"Place blocks with this tool.": 
+	{
+		"translation": "Размещайте блоки с помощью этого инструмента.",
+		"machine": true
+	},
+	"This mid ranged shoots Soltrium Tracer Rounds. Recharges over time and can overheat.": 
+	{
+		"translation": "Стрельба из солтриума трассирующими снарядами средней дальности. со временем перезаряжается и может перегреться.",
+		"machine": true
+	},
+	"Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.": 
+	{
+		"translation": "Разрушительная технология агамана, которая превращает энергию солтрия во взрывоопасный плазменный шар..",
+		"machine": true
+	},
+	"Paint blocks with this tool.": 
+	{
+		"translation": "Раскрашивайте блоки этим инструментом.",
+		"machine": true
+	},
+	"This close-mid ranged weapon shoots quickly but has a small magazine.": 
+	{
+		"translation": "Это оружие ближнего боя стреляет быстро, но имеет небольшой магазин..",
+		"machine": true
+	},
+	"Light Agaman technology. Fast firing, hard hitting.": 
+	{
+		"translation": "Технология светового агамана. быстрая стрельба, сильное попадание.",
+		"machine": true
+	},
+	"Heavy Agaman technology. Fires a hard-hitting ball of plasma.": 
+	{
+		"translation": "Технология тяжелых агаманов. запускает мощный плазменный шар.",
+		"machine": true
+	},
+	"This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.": 
+	{
+		"translation": "Это оружие дальнего боя использует магнитную тягу и может быть оснащено 4-кратным оптическим прицелом для поддержки союзников на расстоянии..",
+		"machine": true
+	},
+	"Blocks placed have +100% health.": 
+	{
+		"translation": "Установленные блоки имеют + 100% здоровья.",
+		"machine": true
+	},
+	"This hard-hitting close ranged weapon contains a powerful Soltrium Core.": 
+	{
+		"translation": "Это мощное оружие ближнего боя содержит мощное ядро солтрия..",
+		"machine": true
+	},
+	"Such a small gun. Such a massive boom.": 
+	{
+		"translation": "Такой маленький пистолет. такой мощный бум.",
+		"machine": true
+	},
+	"This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.": 
+	{
+		"translation": "В этом дальнобойном оружии используется солтриумная силовая установка для запуска взрывоопасных ракет..",
+		"machine": true
+	},
+	"Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.": 
+	{
+		"translation": "Запускает плавающую сканирующую сферу, которая пульсирует каждые две секунды, обнаруживая врагов сквозь стены..\nСферы сканера могут стрелять вражеские игроки.",
+		"machine": true
+	},
+	"Agaman technology. This close ranged weapon propels a spray of plasma": 
+	{
+		"translation": "Агамановая технология. это оружие ближнего боя выпускает плазменные брызги",
+		"machine": true
+	},
+	"This close ranged weapon creates a blast of shrapnel.": 
+	{
+		"translation": "Это оружие ближнего боя создает взрыв шрапнели..",
+		"machine": true
+	},
+	"This close-mid ranged weapon packs a punch. Watch out for the recoil.": 
+	{
+		"translation": "Это оружие ближнего и дальнего боя обладает мощным ударом. берегись отдачи.",
+		"machine": true
+	},
+	"Place block structures with this tool.": 
+	{
+		"translation": "Размещайте блочные конструкции с помощью этого инструмента.",
+		"machine": true
+	},
+	"Attaches to walls. Right click to pull the wall down.": 
+	{
+		"translation": "Крепится к стенам. щелкните правой кнопкой мыши, чтобы опустить стену.",
+		"machine": true
+	},
+	"Cluster Agama technology. Not much about these weapons is known.": 
+	{
+		"translation": "Кластерная агама-технология. об этом оружии мало что известно.",
+		"machine": true
+	},
+	"Building": 
+	{
+		"translation": "Строительство",
+		"machine": true
+	},
+	"+100 blocks\n+2 blocks build distance\n+5 block health": 
+	{
+		"translation": "+100 блоков\n+2 блока на расстояние строительства\n+5 здоровья блока",
+		"machine": true
+	},
+	"+100 blocks\n+4 blocks build distance\n+9 block health": 
+	{
+		"translation": "+100 блоков\n+4 блока на расстояние построения\n+9 здоровья блока",
+		"machine": true
+	},
+	"+100 blocks\n+6 blocks build distance\n+13 block health": 
+	{
+		"translation": "+100 блоков\n+6 блоков на дистанцию строительства\n+13 здоровья блока",
+		"machine": true
+	},
+	"Hydraulics": 
+	{
+		"translation": "Гидравлика",
+		"machine": true
+	},
+	"Leg servos": 
+	{
+		"translation": "Сервоприводы для ног",
+		"machine": true
+	},
+	"Regeneration": 
+	{
+		"translation": "Регенерация",
+		"machine": true
+	},
+	"Speed": 
+	{
+		"translation": "Скорость",
+		"machine": true
+	},
+	"Stealth": 
+	{
+		"translation": "Скрытность",
+		"machine": true
+	},
+	"Kinetic": 
+	{
+		"translation": "Кинетический",
+		"machine": true
+	},
+	"Scavenger": 
+	{
+		"translation": "Мусорщик",
+		"machine": true
+	},
+	"+3 blocks safe fall distance\n-15% fall damage": 
+	{
+		"translation": "+3 блока безопасного расстояния падения\n-15% урон от падения",
+		"machine": true
+	},
+	"+400% self explosion knockback\n-10% self explosion damage": 
+	{
+		"translation": "+ 400% отбрасывание собственного взрыва\n-10% урон от собственного взрыва",
+		"machine": true
+	},
+	"+20% health regeneration speed": 
+	{
+		"translation": "+ 20% скорости восстановления здоровья",
+		"machine": true
+	},
+	"+5% movement speed": 
+	{
+		"translation": "+ 5% скорости передвижения",
+		"machine": true
+	},
+	"-40% build and dig volume\n-15% footstep volume\n-25% footstep distance": 
+	{
+		"translation": "-40% объема строительства и копания\n-15% громкость шагов\n-25% расстояние шага",
+		"machine": true
+	},
+	"+10% dig speed": 
+	{
+		"translation": "+ 10% скорости копания",
+		"machine": true
+	},
+	"+6 blocks safe fall distance\n-30% fall damage": 
+	{
+		"translation": "+6 блоков безопасного расстояния падения\n-30% урона от падения",
+		"machine": true
+	},
+	"+450% self explosion knockback\n-20% self explosion damage": 
+	{
+		"translation": "+ 450% отбрасывание самовзрыва\n-20% урон от собственного взрыва",
+		"machine": true
+	},
+	"+40% health regeneration speed": 
+	{
+		"translation": "+ 40% скорости восстановления здоровья",
+		"machine": true
+	},
+	"+10% movement speed": 
+	{
+		"translation": "+ 10% скорости передвижения",
+		"machine": true
+	},
+	"-60% build and dig volume\n-30% footstep volume\n-50% footstep distance": 
+	{
+		"translation": "-60% объема строительства и копания\n-30% громкости шагов\n-50% расстояние шага",
+		"machine": true
+	},
+	"+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup": 
+	{
+		"translation": "+ 20% скорости копания\nПолучите 2 блока за каждый выкопанный блок\n+1 боеприпасы к снаряжению при каждом подборе боеприпасов",
+		"machine": true
+	},
+	"+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height": 
+	{
+		"translation": "+9 блоков безопасного расстояния падения\n-45% урона от падения\n+1 высота прыжка блока",
+		"machine": true
+	},
+	"+500% self explosion knockback\n-30% self explosion damage": 
+	{
+		"translation": "+ 500% отбрасывание собственного взрыва\n-30% урон от собственного взрыва",
+		"machine": true
+	},
+	"+60% health regeneration speed": 
+	{
+		"translation": "+ 60% скорости восстановления здоровья",
+		"machine": true
+	},
+	"+15% movement speed": 
+	{
+		"translation": "+ 15% скорости передвижения",
+		"machine": true
+	},
+	"-80% build and dig volume\n-45% footstep volume\n-75% footstep distance": 
+	{
+		"translation": "-80% объема строительства и копания\n-45% громкости шагов\n-75% расстояние шага",
+		"machine": true
+	},
+	"+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup": 
+	{
+		"translation": "+ 30% скорости копания\nПолучите 3 блока за каждый выкопанный блок\n+10 здоровья за подбор боеприпасов",
+		"machine": true
+	},
+	"While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.": 
+	{
+		"translation": "Несмотря на неопытность, этот наемник отважился отправиться в путешествие в галактику солтриум и пытается доказать свою ценность в битве..",
+		"machine": true
+	},
+	"This solo operative seeks nothing but victory when it comes to saving their race from destruction.": 
+	{
+		"translation": "Этот одиночный оперативник не ищет ничего, кроме победы, когда дело доходит до спасения своей расы от разрушения..",
+		"machine": true
+	},
+	"A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.": 
+	{
+		"translation": "Смертельный снайпер на расстоянии и стремительный убийца вблизи, они способны выстоять в любой схватке..",
+		"machine": true
+	},
+	"This commander lost their arm during the Flare but continues to fight for the future of their race.": 
+	{
+		"translation": "Этот командир потерял руку во время выстрела, но продолжает бороться за будущее своей расы..",
+		"machine": true
+	},
+	"Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.": 
+	{
+		"translation": "Преступники, бродящие по окраинам галактики, нападают на любого, кто осмелится путешествовать в одиночку..",
+		"machine": true
+	},
+	"This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.": 
+	{
+		"translation": "Этот агаман неусыпно сражался на передовой, чтобы доказать свою ценность для входа в солтриумную галактику..",
+		"machine": true
+	},
+	"A curious one, aren't you?": 
+	{
+		"translation": "Любопытный, не так ли??",
+		"machine": true
+	},
+	"This Agaman gave up everything to make the journey to the Soltrium galaxy.": 
+	{
+		"translation": "Этот агаман бросил все, чтобы совершить путешествие в солтриумную галактику..",
+		"machine": true
+	},
+	"This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.": 
+	{
+		"translation": "Этот высокородный агаман был пропитан солтрием в эксперименте, чтобы произвести неудержимую смесь плоти и машины..",
+		"machine": true
+	},
+	"Click the Play tab when you are ready": 
+	{
+		"translation": "Щелкните вкладку воспроизведения, когда будете готовы",
+		"machine": true
+	},
+	"SETTINGS > PERFORMANCE > ANIMATED BLOCK SKINS must be enabled for animated block skins to render correctly": 
+	{
+		"translation": "НАСТРОЙКИ> ПРОИЗВОДИТЕЛЬНОСТЬ> АНИМИРОВАННЫЕ СКИНЫ БЛОКОВ должны быть включены, чтобы анимированные обложки блоков отображались правильно.",
+		"machine": true
+	},
+	"DRAG TO ROTATE\nSCROLL TO ZOOM\nSPACE TO AUTO ROTATE": 
+	{
+		"translation": "Перетащите, чтобы повернуть\nПРОКРУТИТЕ ДЛЯ МАСШТАБА\nПРОСТРАНСТВО ДЛЯ АВТОМАТИЧЕСКОГО ВРАЩЕНИЯ",
+		"machine": true
+	},
+	"Did you know": 
+	{
+		"translation": "Вы знали",
+		"machine": true
+	},
+	"Press escape to cancel": 
+	{
+		"translation": "Нажмите escape, чтобы отменить",
+		"machine": true
+	},
+	"Warning": 
+	{
+		"translation": "Предупреждение",
+		"machine": true
+	},
+	"This is an experimental server used for testing maps created by the community. The game may not function as intended": 
+	{
+		"translation": "Это экспериментальный сервер, используемый для тестирования карт, созданных сообществом. игра может работать не так, как задумано",
+		"machine": true
+	},
+	"Determining sector coordinates": 
+	{
+		"translation": "Определение координат сектора",
+		"machine": true
+	},
+	"Calibrating thermal dampeners": 
+	{
+		"translation": "Калибровка тепловых демпферов",
+		"machine": true
+	},
+	"Entering planet atmosphere": 
+	{
+		"translation": "Вход в атмосферу планеты",
+		"machine": true
+	},
+	"Analysing environment": 
+	{
+		"translation": "Анализ окружающей среды",
+		"machine": true
+	},
+	"Commencing landing procedure": 
+	{
+		"translation": "Начало процедуры посадки",
+		"machine": true
+	},
+	"Respawn": 
+	{
+		"translation": "респаун",
+		"machine": true
+	},
+	"Players": 
+	{
+		"translation": "Игроки",
+		"machine": true
+	},
+	"No respawns": 
+	{
+		"translation": "Нет возрождения",
+		"machine": true
+	},
+	"First to 5 wins": 
+	{
+		"translation": "Первый до 5 побед",
+		"machine": true
+	},
+	"A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.": 
+	{
+		"translation": "Теневой рынок возник на окраинах галактики, где делается ставка на солтриум. все или ничего на арене, где участники борются за прибыль и выживание.",
+		"machine": true
+	},
+	"Start with nothing and collect weapons to eliminate the enemy team.": 
+	{
+		"translation": "Начни с нуля и собирай оружие, чтобы уничтожить вражескую команду..",
+		"machine": true
+	},
+	"All players start with the same randomised loadout.": 
+	{
+		"translation": "Все игроки начинают с одинаковой рандомизированной экипировкой..",
+		"machine": true
+	},
+	"Times to win": 
+	{
+		"translation": "Время для победы",
+		"machine": true
+	},
+	"Soltrium is scattered throughout the outer sector. Various": 
+	{
+		"translation": "Солтриум разбросан по всему внешнему сектору. различный",
+		"machine": true
+	},
+	"And": 
+	{
+		"translation": "И",
+		"machine": true
+	},
+	"battalions have been dispatched to search for and collect the precious resource.": 
+	{
+		"translation": "батальоны были отправлены на поиски и сбор драгоценного ресурса.",
+		"machine": true
+	},
+	"Capture 5 zones to win": 
+	{
+		"translation": "Захватите 5 зон, чтобы выиграть",
+		"machine": true
+	},
+	"Control the zone to win": 
+	{
+		"translation": "Контролируйте зону, чтобы выиграть",
+		"machine": true
+	},
+	"Deliver the bomb": 
+	{
+		"translation": "Доставить бомбу",
+		"machine": true
+	},
+	"Capture the flag": 
+	{
+		"translation": "Захват флага",
+		"machine": true
+	},
+	"Get two kills with every weapon, then melee to win": 
+	{
+		"translation": "Совершите по два убийства каждым оружием, затем сражайтесь в ближнем бою, чтобы победить.",
+		"machine": true
+	},
+	"Hold the most Soltrium to win": 
+	{
+		"translation": "Удерживайте наибольшее количество солтриумов, чтобы выиграть",
+		"machine": true
+	},
+	"Pick up": 
+	{
+		"translation": "Поднимать",
+		"machine": true
+	},
+	"From enemy corpses": 
+	{
+		"translation": "Из трупов врагов",
+		"machine": true
+	},
+	"Weapons and Mods spawn around the map": 
+	{
+		"translation": "Оружие и модификации появляются на карте.",
+		"machine": true
+	},
+	"Not bound": 
+	{
+		"translation": "Не связан",
+		"machine": true
+	},
+	"You can hold": 
+	{
+		"translation": "Вы можете держать",
+		"machine": true
+	},
+	"To reveal enemy positions to teammates": 
+	{
+		"translation": "Раскрывать позиции врага товарищам по команде",
+		"machine": true
+	},
+	"You can press": 
+	{
+		"translation": "Вы можете нажать",
+		"machine": true
+	},
+	"To provide feedback": 
+	{
+		"translation": "Чтобы предоставить обратную связь",
+		"machine": true
+	},
+	"Local": 
+	{
+		"translation": "Местный",
+		"machine": true
+	},
+	"Subscribed": 
+	{
+		"translation": "Подписан",
+		"machine": true
+	},
+	"Cancel": 
+	{
+		"translation": "Отмена",
+		"machine": true
+	},
+	"Upload": 
+	{
+		"translation": "Загрузить",
+		"machine": true
+	},
+	"Private": 
+	{
+		"translation": "Частный",
+		"machine": true
+	},
+	"Friends only": 
+	{
+		"translation": "Только друзья",
+		"machine": true
+	},
+	"Unlisted": 
+	{
+		"translation": "Не внесено в список",
+		"machine": true
+	},
+	"Public": 
+	{
+		"translation": "Общественные",
+		"machine": true
+	},
+	"Map list": 
+	{
+		"translation": "Список карт",
+		"machine": true
+	},
+	"No local maps found": 
+	{
+		"translation": "Карты не найдены",
+		"machine": true
+	},
+	"No subscribed maps": 
+	{
+		"translation": "Нет подписанных карт",
+		"machine": true
+	},
+	"Before uploading maps to the Steam workshop, you must agree to the ": 
+	{
+		"translation": "Перед загрузкой карт в Steam Workshop необходимо согласиться с ",
+		"machine": true
+	},
+	"Workshop Terms of Service.": 
+	{
+		"translation": "Условия использования мастерской.",
+		"machine": true
+	},
+	"Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.": 
+	{
+		"translation": "Здесь появятся карты, на которые вы подписаны в мастерской. вам может потребоваться обновить несколько раз после подписки на новую карту, чтобы список полностью обновился.",
+		"machine": true
+	},
+	"Loading map": 
+	{
+		"translation": "Загрузка карты",
+		"machine": true
+	},
+	"Uploading map to the Steam Workshop": 
+	{
+		"translation": "Загрузка карты в Steam Workshop",
+		"machine": true
+	},
+	"Committing Changes": 
+	{
+		"translation": "Фиксация изменений",
+		"machine": true
+	},
+	"Invalid": 
+	{
+		"translation": "Недействительным",
+		"machine": true
+	},
+	"Preparing Config": 
+	{
+		"translation": "Подготовка конфига",
+		"machine": true
+	},
+	"Preparing Content": 
+	{
+		"translation": "Подготовка контента",
+		"machine": true
+	},
+	"Uploading Content": 
+	{
+		"translation": "Загрузка содержимого",
+		"machine": true
+	},
+	"Uploading Preview Image": 
+	{
+		"translation": "Загрузка изображения для предварительного просмотра",
+		"machine": true
+	},
+	"Upload summary": 
+	{
+		"translation": "Сводка загрузки",
+		"machine": true
+	},
+	"Map name": 
+	{
+		"translation": "Название карты",
+		"machine": true
+	},
+	"Description": 
+	{
+		"translation": "Описание",
+		"machine": true
+	},
+	"Supported game modes": 
+	{
+		"translation": "Поддерживаемые игровые режимы",
+		"machine": true
+	},
+	"Visibility": 
+	{
+		"translation": "Видимость",
+		"machine": true
+	},
+	"Double XP + Proton Weekend! Ends in": 
+	{
+		"translation": "Двойной XP + протонный уик-энд! заканчивается в",
+		"machine": true
+	},
+	"day": 
+	{
+		"translation": "день",
+		"machine": true
+	},
+	"days": 
+	{
+		"translation": "дней",
+		"machine": true
+	},
+	"hour": 
+	{
+		"translation": "час",
+		"machine": true
+	},
+	"hours": 
+	{
+		"translation": "часы",
+		"machine": true
+	},
+	"minute": 
+	{
+		"translation": "минута",
+		"machine": true
+	},
+	"minutes": 
+	{
+		"translation": "минут",
+		"machine": true
+	},
+	"and": 
+	{
+		"translation": "и",
+		"machine": true
+	},
+	"Playtime": 
+	{
+		"translation": "Время игры",
+		"machine": true
+	},
+	"Matches": 
+	{
+		"translation": "Спички",
+		"machine": true
+	},
+	"Kills": 
+	{
+		"translation": "Убивает",
+		"machine": true
+	},
+	"Deaths": 
+	{
+		"translation": "Летальные исходы",
+		"machine": true
+	},
+	"Assists": 
+	{
+		"translation": "Помогает",
+		"machine": true
+	},
+	"Headshots": 
+	{
+		"translation": "Выстрелы в голову",
+		"machine": true
+	},
+	"unavailable": 
+	{
+		"translation": "недоступен",
+		"machine": true
+	},
+	"level": 
+	{
+		"translation": "уровень",
+		"machine": true
+	},
+	"equipped": 
+	{
+		"translation": "оборудованный",
+		"machine": true
+	},
+	"Barrel": 
+	{
+		"translation": "Бочка",
+		"machine": true
+	},
+	"Sight": 
+	{
+		"translation": "Взгляд",
+		"machine": true
+	},
+	"equip": 
+	{
+		"translation": "оборудовать",
+		"machine": true
+	},
+	"free": 
+	{
+		"translation": "бесплатно",
+		"machine": true
+	},
+	"Drag to rotate": 
+	{
+		"translation": "Перетащите, чтобы повернуть",
+		"machine": true
+	},
+	"Scroll wheel to zoom": 
+	{
+		"translation": "Колесо прокрутки для увеличения",
+		"machine": true
+	},
+	"Space to rotate": 
+	{
+		"translation": "Пространство для поворота",
+		"machine": true
+	},
+	"Join": 
+	{
+		"translation": "Присоединиться",
+		"machine": true
+	},
+	"This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.": 
+	{
+		"translation": "Этот игровой режим называется утилизацией. две команды оспаривают канистру, содержащую ценный ресурс под названием солтриум.",
+		"machine": true
+	},
+	"The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.": 
+	{
+		"translation": "Команда с наибольшим количеством игроков рядом с канистрой будет извлекать солтриум и зарабатывать очки для своей команды. это можно увидеть вверху экрана.",
+		"machine": true
+	},
+	"When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!": 
+	{
+		"translation": "Когда канистра закончится, в другом месте появится новая. побеждает команда, первой набравшая 500 очков!",
+		"machine": true
+	},
+	"Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.": 
+	{
+		"translation": "Бонусы к боеприпасам выпадают, когда игрок умирает. подбирайте их, чтобы получить дополнительные патроны для своего оружия и заработать 2 очка для своей команды.",
+		"machine": true
+	},
+	"This game mode is called Breakthrough. To win, your team must control all five zones.": 
+	{
+		"translation": "Этот игровой режим называется прорывом. чтобы победить, ваша команда должна контролировать все пять зон.",
+		"machine": true
+	},
+	"When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.": 
+	{
+		"translation": "Когда зона захватывается вашей командой, она будет заморожена на срок до 20 секунд. пока он заморожен, противник не может отбить его, что дает вашей команде шанс продвинуться в следующую зону..",
+		"machine": true
+	},
+	"Zones must be captured in order and cannot be back-capped.": 
+	{
+		"translation": "Зоны должны быть захвачены по порядку и не могут быть закрыты..",
+		"machine": true
+	},
+	"This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.": 
+	{
+		"translation": "Этот игровой режим называется Control Shift. есть одна зона, и цель состоит в том, чтобы полностью оттеснить эту зону на вражескую территорию.",
+		"machine": true
+	},
+	"The zone will begin moving when one team has more players inside it than the other.": 
+	{
+		"translation": "Зона начнет движение, когда в одной команде будет больше игроков, чем в другой..",
+		"machine": true
+	},
+	"This game mode is called Escort. To win, your team must deliver 3 bombs.": 
+	{
+		"translation": "Этот игровой режим называется эскорт. чтобы победить, ваша команда должна доставить 3 бомбы.",
+		"machine": true
+	},
+	"Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.": 
+	{
+		"translation": "У каждой команды есть бомба, которую они должны подобрать со своей стороны карты и доставить к месту бомбежки противника..",
+		"machine": true
+	},
+	"You can either escort your bomb carrier, or defend your bomb site from the enemy.": 
+	{
+		"translation": "Вы можете либо сопровождать свой бомбардировщик, либо защищать свой бомбовый объект от врага..",
+		"machine": true
+	},
+	"This game mode is called Capture the Flag. Each team has a flag that they must defend.": 
+	{
+		"translation": "Этот игровой режим называется захват флага. у каждой команды есть флаг, который они должны защищать.",
+		"machine": true
+	},
+	"To win your team must steal the enemy flag and take it back to your base 3 times.": 
+	{
+		"translation": "Чтобы победить, ваша команда должна украсть флаг врага и вернуть его на свою базу 3 раза..",
+		"machine": true
+	},
+	"You can either infiltrate the enemy base, or defend your flag from the enemy.": 
+	{
+		"translation": "Вы можете проникнуть на базу врага или защитить свой флаг от врага..",
+		"machine": true
+	},
+	"This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.": 
+	{
+		"translation": "Этот игровой режим называется перестрелкой. каждый игрок начинает с того же оружия и переходит к следующему оружию после 2 убийств.",
+		"machine": true
+	},
+	"The stage that each player is up to is shown at the top of the screen.": 
+	{
+		"translation": "Этап, на котором находится каждый игрок, отображается в верхней части экрана..",
+		"machine": true
+	},
+	"To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.": 
+	{
+		"translation": "Чтобы победить, вы должны перейти к этапу 11, а затем убить врага с помощью экскаватора или ножа..",
+		"machine": true
+	},
+	"When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.": 
+	{
+		"translation": "Когда вы умираете от урона от падения или вражеского экскаватора \/ ножа, вы будете отправлены на один уровень назад.",
+		"machine": true
+	},
+	"This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.": 
+	{
+		"translation": "Этот бесплатный режим игры называется «Охотник за головами». чтобы выиграть, вы должны удерживать как можно больше солтриума, когда истечет таймер.",
+		"machine": true
+	},
+	"Each player starts with nothing and collects weapons and mods from around the map.": 
+	{
+		"translation": "Каждый игрок начинает с нуля и собирает оружие и модификации со всей карты..",
+		"machine": true
+	},
+	"When a player dies, they will drop their weapons, half their Soltrium and half their mods.": 
+	{
+		"translation": "Когда игрок умирает, он бросает свое оружие, половину солтриума и половину своих модификаций..",
+		"machine": true
+	},
+	"Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.": 
+	{
+		"translation": "Подберите солтриум, чтобы выиграть, но будьте осторожны, так как игрок с наибольшим количеством солтриумов будет показан всем.",
+		"machine": true
+	},
+	"This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.": 
+	{
+		"translation": "Этот режим игры на арене называется шпилем. для победы необходимо 5 раз уничтожить команду противника.",
+		"machine": true
+	},
+	"Each player starts with nothing and must build into the sky to pick up weapons.": 
+	{
+		"translation": "Каждый игрок начинает с нуля и должен строить небо, чтобы подобрать оружие..",
+		"machine": true
+	},
+	"This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.": 
+	{
+		"translation": "Этот режим игры на арене называется статическим. для победы необходимо 5 раз уничтожить команду противника.",
+		"machine": true
+	},
+	"Each player shares the same loadout, which is randomised each round.": 
+	{
+		"translation": "У каждого игрока одинаковая экипировка, которая случайным образом меняется в каждом раунде..",
+		"machine": true
+	},
+	"Press space to continue": 
+	{
+		"translation": "Нажмите пробел, чтобы продолжить",
+		"machine": true
+	},
+	"Return to battle": 
+	{
+		"translation": "Вернуться в бой",
+		"machine": true
+	},
+	"Round won!": 
+	{
+		"translation": "Выигран раунд!",
+		"machine": true
+	},
+	"Press": 
+	{
+		"translation": "нажимать",
+		"machine": true
+	},
+	"Or": 
+	{
+		"translation": "Или",
+		"machine": true
+	},
+	"Pick up equipment": 
+	{
+		"translation": "Подобрать оборудование",
+		"machine": true
+	},
+	"Pick up primary": 
+	{
+		"translation": "Подобрать первичный",
+		"machine": true
+	},
+	"Pick up secondary": 
+	{
+		"translation": "Подобрать вторичный",
+		"machine": true
+	},
+	"Player ready": 
+	{
+		"translation": "Плеер готов",
+		"machine": true
+	},
+	"Players ready": 
+	{
+		"translation": "Игроки готовы",
+		"machine": true
+	},
+	"Starting in": 
+	{
+		"translation": "Начиная с",
+		"machine": true
+	},
+	"Second": 
+	{
+		"translation": "Второй",
+		"machine": true
+	},
+	"Seconds": 
+	{
+		"translation": "Секунды",
+		"machine": true
+	},
+	"Available": 
+	{
+		"translation": "Имеется в наличии",
+		"machine": true
+	},
+	"Leave killcam": 
+	{
+		"translation": "Покинуть killcam",
+		"machine": true
+	},
+	"Continue": 
+	{
+		"translation": "Продолжать",
+		"machine": true
+	},
+	"Redeploy": 
+	{
+		"translation": "Повторно развернуть",
+		"machine": true
+	},
+	"Confirm": 
+	{
+		"translation": "Подтверждать",
+		"machine": true
+	},
+	"Spectate": 
+	{
+		"translation": "Наблюдать",
+		"machine": true
+	},
+	"Report player": 
+	{
+		"translation": "Пожаловаться на игрока",
+		"machine": true
+	},
+	"Lobby panel": 
+	{
+		"translation": "Панель лобби",
+		"machine": true
+	},
+	"Settings": 
+	{
+		"translation": "Настройки",
+		"machine": true
+	},
+	"Submit feedback": 
+	{
+		"translation": "Отправить отзыв",
+		"machine": true
+	},
+	"Disconnect": 
+	{
+		"translation": "Отключить",
+		"machine": true
+	},
+	"Contest the canister": 
+	{
+		"translation": "Конкурс канистры",
+		"machine": true
+	},
+	"Returning flag": 
+	{
+		"translation": "Флаг возврата",
+		"machine": true
+	},
+	"Defusing bomb": 
+	{
+		"translation": "Обезвреживание бомбы",
+		"machine": true
+	},
+	"You are carrying the flag": 
+	{
+		"translation": "Вы несете флаг",
+		"machine": true
+	},
+	"You are carrying thebomb": 
+	{
+		"translation": "Вы несете бомбу",
+		"machine": true
+	},
+	"To drop the flag": 
+	{
+		"translation": "Чтобы сбросить флаг",
+		"machine": true
+	},
+	"To drop the bomb": 
+	{
+		"translation": "Сбросить бомбу",
+		"machine": true
+	},
+	"Stage": 
+	{
+		"translation": "стадия",
+		"machine": true
+	},
+	"Cooldown": 
+	{
+		"translation": "Остыть",
+		"machine": true
+	},
+	"Equip as primary": 
+	{
+		"translation": "Оборудовать как основное",
+		"machine": true
+	},
+	"Equip as secondary": 
+	{
+		"translation": "Оборудовать как второстепенное",
+		"machine": true
+	},
+	"Edit loadouts": 
+	{
+		"translation": "Изменить снаряжение",
+		"machine": true
+	},
+	"Modify a structure to continue": 
+	{
+		"translation": "Измените структуру, чтобы продолжить",
+		"machine": true
+	},
+	"Head over to the shooting range": 
+	{
+		"translation": "Отправляйтесь в тир",
+		"machine": true
+	},
+	"Select a weapon from the gun rack": 
+	{
+		"translation": "Выберите оружие из оружейной стойки",
+		"machine": true
+	},
+	"Shoot the targets and try different weapons. Press": 
+	{
+		"translation": "Стреляйте по мишеням и пробуйте различное оружие. нажимать",
+		"machine": true
+	},
+	"To set up a loadout": 
+	{
+		"translation": "Чтобы настроить загрузку",
+		"machine": true
+	},
+	"Play a Match": 
+	{
+		"translation": "Сыграть матч",
+		"machine": true
+	},
+	"Enter Trials": 
+	{
+		"translation": "Введите испытания",
+		"machine": true
+	},
+	"Replay Tutorial": 
+	{
+		"translation": "Воспроизвести руководство",
+		"machine": true
+	},
+	"Reset Ship": 
+	{
+		"translation": "Сбросить корабль",
+		"machine": true
+	},
+	"Level": 
+	{
+		"translation": "Уровень",
+		"machine": true
+	},
+	"Tag": 
+	{
+		"translation": "Ярлык",
+		"machine": true
+	},
+	"Tags": 
+	{
+		"translation": "Теги",
+		"machine": true
+	},
+	"Career": 
+	{
+		"translation": "Карьера",
+		"machine": true
+	},
+	"Loadout": 
+	{
+		"translation": "Экипировка",
+		"machine": true
+	},
+	"Killed by": 
+	{
+		"translation": "Убит",
+		"machine": true
+	},
+	"Join the battle": 
+	{
+		"translation": "Присоединяйтесь к битве",
+		"machine": true
+	},
+	"Linking your Twitch account": 
+	{
+		"translation": "Связывание вашей учетной записи Twitch",
+		"machine": true
+	},
+	"Checkout": 
+	{
+		"translation": "Проверить",
+		"machine": true
+	},
+	"Summary": 
+	{
+		"translation": "Резюме",
+		"machine": true
+	},
+	"Creator Code (Optional)": 
+	{
+		"translation": "Код создателя (необязательно)",
+		"machine": true
+	},
+	"Friend username": 
+	{
+		"translation": "Имя пользователя друга",
+		"machine": true
+	},
+	"Resources loading in the background": 
+	{
+		"translation": "Загрузка ресурсов в фоновом режиме",
+		"machine": true
+	},
+	"Magazine": 
+	{
+		"translation": "Журнал",
+		"machine": true
+	},
+	"Block": 
+	{
+		"translation": "Блокировать",
+		"machine": true
+	},
+	"Account": 
+	{
+		"translation": "Счет",
+		"machine": true
+	},
+	"Proton": 
+	{
+		"translation": "Протон",
+		"machine": true
+	},
+	"Protons": 
+	{
+		"translation": "Протоны",
+		"machine": true
+	},
+	"Refreshing": 
+	{
+		"translation": "Освежающий",
+		"machine": true
+	},
+	"Refresh statistics": 
+	{
+		"translation": "Обновить статистику",
+		"machine": true
+	},
+	"Character token": 
+	{
+		"translation": "Жетон персонажа",
+		"machine": true
+	},
+	"Character tokens": 
+	{
+		"translation": "Жетоны персонажей",
+		"machine": true
+	},
+	"Player statistics": 
+	{
+		"translation": "Статистика игрока",
+		"machine": true
+	},
+	"Transaction log": 
+	{
+		"translation": "Журнал транзакций",
+		"machine": true
+	},
+	"Redeem key": 
+	{
+		"translation": "Погасить ключ",
+		"machine": true
+	},
+	"Provide feedback": 
+	{
+		"translation": "Обеспечить обратную связь",
+		"machine": true
+	},
+	"View inventory": 
+	{
+		"translation": "Посмотреть инвентарь",
+		"machine": true
+	},
+	"Custom lobby": 
+	{
+		"translation": "Индивидуальное лобби",
+		"machine": true
+	},
+	"Lobby settings": 
+	{
+		"translation": "Настройки лобби",
+		"machine": true
+	},
+	"Password": 
+	{
+		"translation": "Пароль",
+		"machine": true
+	},
+	"Minimum level": 
+	{
+		"translation": "Минимальный уровень",
+		"machine": true
+	},
+	"Maximum level": 
+	{
+		"translation": "Максимальный уровень",
+		"machine": true
+	},
+	"The match will not end": 
+	{
+		"translation": "Матч не закончится",
+		"machine": true
+	},
+	"Protons, XP and stats will not be tracked": 
+	{
+		"translation": "Протоны, опыт и статистика не отслеживаются.",
+		"machine": true
+	},
+	"Infinite ammo. Type": 
+	{
+		"translation": "Бесконечные патроны. тип",
+		"machine": true
+	},
+	"in chat to set your spawn point": 
+	{
+		"translation": "в чате, чтобы установить точку возрождения",
+		"machine": true
+	},
+	"Weapon cooldowns removed. Players are invincible": 
+	{
+		"translation": "Перезарядка оружия удалена. игроки непобедимы",
+		"machine": true
+	},
+	"Claim": 
+	{
+		"translation": "Требовать",
+		"machine": true
+	},
+	"Current lobby settings": 
+	{
+		"translation": "Текущие настройки лобби",
+		"machine": true
+	},
+	"Next lobby settings": 
+	{
+		"translation": "Следующие настройки лобби",
+		"machine": true
+	},
+	"Lobby not claimed": 
+	{
+		"translation": "Лобби не заявлено",
+		"machine": true
+	},
+	"Autobalancing Enabled": 
+	{
+		"translation": "Автобалансировка включена",
+		"machine": true
+	},
+	"Autobalancing Disabled": 
+	{
+		"translation": "Автобалансировка отключена",
+		"machine": true
+	},
+	"Eternal Mode Enabled": 
+	{
+		"translation": "Вечный режим включен",
+		"machine": true
+	},
+	"Eternal Mode Disabled": 
+	{
+		"translation": "Вечный режим отключен",
+		"machine": true
+	},
+	"Trailer Mode Enabled": 
+	{
+		"translation": "Включен режим прицепа",
+		"machine": true
+	},
+	"Trailer Mode Disabled": 
+	{
+		"translation": "Режим прицепа отключен",
+		"machine": true
+	},
+	"Sandbox Mode Enabled": 
+	{
+		"translation": "Режим песочницы включен",
+		"machine": true
+	},
+	"Sandbox Mode Disabled": 
+	{
+		"translation": "Режим песочницы отключен",
+		"machine": true
+	},
+	"Password Protected": 
+	{
+		"translation": "Пароль защищен",
+		"machine": true
+	},
+	"Password protected": 
+	{
+		"translation": "Пароль защищен",
+		"machine": true
+	},
+	"Note - claiming the lobby will restart the round": 
+	{
+		"translation": "Примечание. Заявка на лобби приведет к перезапуску раунда.",
+		"machine": true
+	},
+	"Note - changing these settings will restart the round": 
+	{
+		"translation": "Примечание - изменение этих настроек перезапустит раунд.",
+		"machine": true
+	},
+	"Leave": 
+	{
+		"translation": "Покинуть",
+		"machine": true
+	},
+	"Total": 
+	{
+		"translation": "Всего",
+		"machine": true
+	},
+	"Points breakdown": 
+	{
+		"translation": "Распределение баллов",
+		"machine": true
+	},
+	"Objective": 
+	{
+		"translation": "Задача",
+		"machine": true
+	},
+	"Offensive time": 
+	{
+		"translation": "Наступательное время",
+		"machine": true
+	},
+	"Defensive time": 
+	{
+		"translation": "Время защиты",
+		"machine": true
+	},
+	"Ammo pickups": 
+	{
+		"translation": "Подбор боеприпасов",
+		"machine": true
+	},
+	"Basic statistics": 
+	{
+		"translation": "Базовая статистика",
+		"machine": true
+	},
+	"Best kill streak": 
+	{
+		"translation": "Лучшая серия убийств",
+		"machine": true
+	},
+	"Blocks built": 
+	{
+		"translation": "Блоки построены",
+		"machine": true
+	},
+	"Blocks destroyed": 
+	{
+		"translation": "Блоки уничтожены",
+		"machine": true
+	},
+	"Proton breakdown": 
+	{
+		"translation": "Распад протона",
+		"machine": true
+	},
+	"Player points": 
+	{
+		"translation": "Очки игрока",
+		"machine": true
+	},
+	"Proton boost": 
+	{
+		"translation": "Протонный импульс",
+		"machine": true
+	},
+	"Peacekeeper bonus": 
+	{
+		"translation": "Бонус миротворца",
+		"machine": true
+	},
+	"Unlock": 
+	{
+		"translation": "Разблокировать",
+		"machine": true
+	},
+	"CONFIRM": 
+	{
+		"translation": "ПОДТВЕРЖДАТЬ",
+		"machine": true
+	},
+	"Buy now": 
+	{
+		"translation": "Купи сейчас",
+		"machine": true
+	},
+	"Use token": 
+	{
+		"translation": "Использовать токен",
+		"machine": true
+	},
+	"This is a gift": 
+	{
+		"translation": "Это подарок",
+		"machine": true
+	},
+	"Submit": 
+	{
+		"translation": "Представлять на рассмотрение",
+		"machine": true
+	},
+	"News": 
+	{
+		"translation": "Новости",
+		"machine": true
+	},
+	"Store": 
+	{
+		"translation": "Хранить",
+		"machine": true
+	},
+	"Play": 
+	{
+		"translation": "Играть",
+		"machine": true
+	},
+	"Clan": 
+	{
+		"translation": "Клан",
+		"machine": true
+	},
+	"Customise": 
+	{
+		"translation": "Настроить",
+		"machine": true
+	},
+	"Exit game": 
+	{
+		"translation": "Выйти из игры",
+		"machine": true
+	},
+	"Skip tutorial": 
+	{
+		"translation": "Пропустить руководство",
+		"machine": true
+	},
+	"An update is available. Close the game and update the game through": 
+	{
+		"translation": "Доступно обновление. закройте игру и обновите игру через",
+		"machine": true
+	},
+	"Connection to": 
+	{
+		"translation": "Подключение к",
+		"machine": true
+	},
+	"failed. Online play is unavailable": 
+	{
+		"translation": "не удалось. Онлайн-игра недоступна",
+		"machine": true
+	},
+	"Blocks": 
+	{
+		"translation": "Блоки",
+		"machine": true
+	},
+	"Changelog": 
+	{
+		"translation": "Журнал изменений",
+		"machine": true
+	},
+	"Trials": 
+	{
+		"translation": "Испытания",
+		"machine": true
+	},
+	"Low level": 
+	{
+		"translation": "Низкий уровень",
+		"machine": true
+	},
+	"Open": 
+	{
+		"translation": "Открыть",
+		"machine": true
+	},
+	"Custom": 
+	{
+		"translation": "Обычай",
+		"machine": true
+	},
+	"Empty servers": 
+	{
+		"translation": "Пустые серверы",
+		"machine": true
+	},
+	"Full servers": 
+	{
+		"translation": "Полные серверы",
+		"machine": true
+	},
+	"Character": 
+	{
+		"translation": "Персонаж",
+		"machine": true
+	},
+	"Ship": 
+	{
+		"translation": "Судно",
+		"machine": true
+	},
+	"Loadouts": 
+	{
+		"translation": "Снаряжение",
+		"machine": true
+	},
+	"Weapons": 
+	{
+		"translation": "Оружие",
+		"machine": true
+	},
+	"Killcam": 
+	{
+		"translation": "Killcam",
+		"machine": true
+	},
+	"Mapping": 
+	{
+		"translation": "Картография",
+		"machine": true
+	},
+	"Skin": 
+	{
+		"translation": "Кожа",
+		"machine": true
+	},
+	"Red dot": 
+	{
+		"translation": "Красная точка",
+		"machine": true
+	},
+	"Camo": 
+	{
+		"translation": "Камуфляж",
+		"machine": true
+	},
+	"Save": 
+	{
+		"translation": "Сохранить",
+		"machine": true
+	},
+	"Official": 
+	{
+		"translation": "Официальный",
+		"machine": true
+	},
+	"Workshop": 
+	{
+		"translation": "цех",
+		"machine": true
+	},
+	"Cheating": 
+	{
+		"translation": "Списывание",
+		"machine": true
+	},
+	"Exploiting": 
+	{
+		"translation": "Эксплуатируя",
+		"machine": true
+	},
+	"Offensive profile": 
+	{
+		"translation": "Оскорбительный профиль",
+		"machine": true
+	},
+	"Verbal abuse": 
+	{
+		"translation": "Словесные оскорбления",
+		"machine": true
+	},
+	"Scamming": 
+	{
+		"translation": "Мошенничество",
+		"machine": true
+	},
+	"Spamming": 
+	{
+		"translation": "Рассылка спама",
+		"machine": true
+	},
+	"Other negative behaviour": 
+	{
+		"translation": "Другое негативное поведение",
+		"machine": true
+	},
+	"Report": 
+	{
+		"translation": "Отчет",
+		"machine": true
+	},
+	"Metal": 
+	{
+		"translation": "Металл",
+		"machine": true
+	},
+	"Link": 
+	{
+		"translation": "Ссылка на сайт",
+		"machine": true
+	},
+	"Recoil": 
+	{
+		"translation": "Отдача",
+		"machine": true
+	},
+	"Stationary recoil": 
+	{
+		"translation": "Стационарная отдача",
+		"machine": true
+	},
+	"Holster time": 
+	{
+		"translation": "Время кобуры",
+		"machine": true
+	},
+	"ADS time": 
+	{
+		"translation": "Время ADS",
+		"machine": true
+	},
+	"Initial recoil": 
+	{
+		"translation": "Начальная отдача",
+		"machine": true
+	},
+	"Shot recoil ramp": 
+	{
+		"translation": "Рампа отдачи при выстреле",
+		"machine": true
+	},
+	"Loadout power": 
+	{
+		"translation": "Разгрузочная мощность",
+		"machine": true
+	},
+	"Damage range": 
+	{
+		"translation": "Диапазон повреждений",
+		"machine": true
+	},
+	"Projectile speed": 
+	{
+		"translation": "Скорость снаряда",
+		"machine": true
+	},
+	"Volume": 
+	{
+		"translation": "Объем",
+		"machine": true
+	},
+	"Minimap invisibility": 
+	{
+		"translation": "Невидимость на миникарте",
+		"machine": true
+	},
+	"Pellets": 
+	{
+		"translation": "Пеллеты",
+		"machine": true
+	},
+	"Pellet spread": 
+	{
+		"translation": "Пеллетный спред",
+		"machine": true
+	},
+	"Reload": 
+	{
+		"translation": "Перезагрузить",
+		"machine": true
+	},
+	"Rounds": 
+	{
+		"translation": "Раундов",
+		"machine": true
+	},
+	"Player damage (body)": 
+	{
+		"translation": "Повреждение игрока (тело)",
+		"machine": true
+	},
+	"Player damage (head)": 
+	{
+		"translation": "Урон игрока (голова)",
+		"machine": true
+	},
+	"Block damage": 
+	{
+		"translation": "Блокировать урон",
+		"machine": true
+	},
+	"RPM": 
+	{
+		"translation": "Об \/ мин",
+		"machine": true
+	},
+	"Pellet count": 
+	{
+		"translation": "Количество пеллет",
+		"machine": true
+	},
+	"Damages through blocks and players": 
+	{
+		"translation": "Повреждения через блоки и игроков",
+		"machine": true
+	},
+	"Bounces 3 times": 
+	{
+		"translation": "Отскакивает 3 раза",
+		"machine": true
+	},
+	"Choke time": 
+	{
+		"translation": "Время дросселирования",
+		"machine": true
+	},
+	"Choked spread": 
+	{
+		"translation": "Задушенный спред",
+		"machine": true
+	},
+	"Choke resets when firing": 
+	{
+		"translation": "Дроссель сбрасывается при стрельбе",
+		"machine": true
+	},
+	"Welded choke": 
+	{
+		"translation": "Сварной дроссель",
+		"machine": true
+	},
+	"Automatic fire": 
+	{
+		"translation": "Автоматический огонь",
+		"machine": true
+	},
+	"Stats": 
+	{
+		"translation": "Статистика",
+		"machine": true
+	},
+	"Initiate": 
+	{
+		"translation": "Положить начало",
+		"machine": true
+	},
+	"Proficient": 
+	{
+		"translation": "Опытный",
+		"machine": true
+	},
+	"Adept": 
+	{
+		"translation": "Адепт",
+		"machine": true
+	},
+	"Elite": 
+	{
+		"translation": "Элитный",
+		"machine": true
+	},
+	"Expert": 
+	{
+		"translation": "Эксперт",
+		"machine": true
+	},
+	"Master": 
+	{
+		"translation": "Владелец",
+		"machine": true
+	},
+	"Legend": 
+	{
+		"translation": "Легенда",
+		"machine": true
+	},
+	"Paragon": 
+	{
+		"translation": "Идеал",
+		"machine": true
+	},
+	"Incarnate": 
+	{
+		"translation": "Воплощенный",
+		"machine": true
+	},
+	"Butcher": 
+	{
+		"translation": "мясник",
+		"machine": true
+	},
+	"Swordsman": 
+	{
+		"translation": "Фехтовальщик",
+		"machine": true
+	},
+	"Berserker": 
+	{
+		"translation": "Берсерк",
+		"machine": true
+	},
+	"Assassin": 
+	{
+		"translation": "Убийца",
+		"machine": true
+	},
+	"Executioner": 
+	{
+		"translation": "Палач",
+		"machine": true
+	},
+	"Grenadier": 
+	{
+		"translation": "Гренадер",
+		"machine": true
+	},
+	"Detonator": 
+	{
+		"translation": "Детонатор",
+		"machine": true
+	},
+	"Volatile": 
+	{
+		"translation": "Летучий",
+		"machine": true
+	},
+	"Catalyst": 
+	{
+		"translation": "Катализатор",
+		"machine": true
+	},
+	"Captor": 
+	{
+		"translation": "Похититель",
+		"machine": true
+	},
+	"Invader": 
+	{
+		"translation": "Захватчик",
+		"machine": true
+	},
+	"Thief": 
+	{
+		"translation": "Вор",
+		"machine": true
+	},
+	"Reinforcer": 
+	{
+		"translation": "Подкрепитель",
+		"machine": true
+	},
+	"Engineer": 
+	{
+		"translation": "Инженер",
+		"machine": true
+	},
+	"Fabricator": 
+	{
+		"translation": "Изготовитель",
+		"machine": true
+	},
+	"Architect": 
+	{
+		"translation": "Архитектор",
+		"machine": true
+	},
+	"Sentry": 
+	{
+		"translation": "Часовой",
+		"machine": true
+	},
+	"Protector": 
+	{
+		"translation": "Защитник",
+		"machine": true
+	},
+	"Sentinel": 
+	{
+		"translation": "Страж",
+		"machine": true
+	},
+	"Guardian": 
+	{
+		"translation": "Хранитель",
+		"machine": true
+	},
+	"Raider": 
+	{
+		"translation": "Рейдер",
+		"machine": true
+	},
+	"Marauder": 
+	{
+		"translation": "Мародер",
+		"machine": true
+	},
+	"Vanquisher": 
+	{
+		"translation": "Покоритель",
+		"machine": true
+	},
+	"Conquerer": 
+	{
+		"translation": "Завоеватель",
+		"machine": true
+	},
+	"Terminator": 
+	{
+		"translation": "Терминатор",
+		"machine": true
+	},
+	"Gunslinger": 
+	{
+		"translation": "Стрелок",
+		"machine": true
+	},
+	"Deadeye": 
+	{
+		"translation": "Снайпер",
+		"machine": true
+	},
+	"Sharpshooter": 
+	{
+		"translation": "Снайпер",
+		"machine": true
+	},
+	"Deathbringer": 
+	{
+		"translation": "Несущий смерть",
+		"machine": true
+	},
+	"Blaster": 
+	{
+		"translation": "Бластер",
+		"machine": true
+	},
+	"Collider": 
+	{
+		"translation": "Коллайдер",
+		"machine": true
+	},
+	"Obliterator": 
+	{
+		"translation": "Облитератор",
+		"machine": true
+	},
+	"Disintegrator": 
+	{
+		"translation": "Дезинтегратор",
+		"machine": true
+	},
+	"Alleviator": 
+	{
+		"translation": "Лифт",
+		"machine": true
+	},
+	"Mitigator": 
+	{
+		"translation": "Смягчающее средство",
+		"machine": true
+	},
+	"Diminisher": 
+	{
+		"translation": "Уменьшитель",
+		"machine": true
+	},
+	"Recon": 
+	{
+		"translation": "Разведка",
+		"machine": true
+	},
+	"Luminator": 
+	{
+		"translation": "Люминатор",
+		"machine": true
+	},
+	"Coruscator": 
+	{
+		"translation": "Корусатор",
+		"machine": true
+	},
+	"Spotter": 
+	{
+		"translation": "Корректировщик",
+		"machine": true
+	},
+	"Watchman": 
+	{
+		"translation": "Сторож",
+		"machine": true
+	},
+	"Eagle Eye": 
+	{
+		"translation": "Орлиный глаз",
+		"machine": true
+	},
+	"All Seeing": 
+	{
+		"translation": "Всевидящий",
+		"machine": true
+	},
+	"Body Guard": 
+	{
+		"translation": "Телохранитель",
+		"machine": true
+	},
+	"Slayer": 
+	{
+		"translation": "Убийца",
+		"machine": true
+	},
+	"Punisher": 
+	{
+		"translation": "Каратель",
+		"machine": true
+	},
+	"Midi Certified": 
+	{
+		"translation": "Midi сертифицированный",
+		"machine": true
+	},
+	"Maze Runner": 
+	{
+		"translation": "Бегущий по лабиринту",
+		"machine": true
+	},
+	"Trial Master": 
+	{
+		"translation": "Судебный мастер",
+		"machine": true
+	},
+	"Trial Hard": 
+	{
+		"translation": "Тяжело испытать",
+		"machine": true
+	},
+	"Podium": 
+	{
+		"translation": "Подиум",
+		"machine": true
+	},
+	"Scoreboard": 
+	{
+		"translation": "Табло",
+		"machine": true
+	},
+	"Sensitivity": 
+	{
+		"translation": "Чувствительность",
+		"machine": true
+	},
+	"Video": 
+	{
+		"translation": "видео",
+		"machine": true
+	},
+	"Performance": 
+	{
+		"translation": "Представление",
+		"machine": true
+	},
+	"Audio": 
+	{
+		"translation": "Аудио",
+		"machine": true
+	},
+	"Accessibility": 
+	{
+		"translation": "Доступность",
+		"machine": true
+	},
+	"Close": 
+	{
+		"translation": "Закрывать",
+		"machine": true
+	},
+	"Peacekeeper": 
+	{
+		"translation": "Миротворец",
+		"machine": true
+	},
+	"Networking": 
+	{
+		"translation": "Сети",
+		"machine": true
+	},
+	"Serious": 
+	{
+		"translation": "Серьезный",
+		"machine": true
+	},
+	"Control Preferences": 
+	{
+		"translation": "Настройки управления",
+		"machine": true
+	},
+	"Toggle Scope": 
+	{
+		"translation": "Переключить область видимости",
+		"machine": true
+	},
+	"Toggle Crouch": 
+	{
+		"translation": "Присесть на корточки",
+		"machine": true
+	},
+	"Toggle Sprint": 
+	{
+		"translation": "Переключить спринт",
+		"machine": true
+	},
+	"Auto-Rotate Structures": 
+	{
+		"translation": "Автоповорот конструкций",
+		"machine": true
+	},
+	"Chat": 
+	{
+		"translation": "Чат",
+		"machine": true
+	},
+	"Streamer Mode": 
+	{
+		"translation": "Режим стримера",
+		"machine": true
+	},
+	"Profanity Filter": 
+	{
+		"translation": "Фильтр ненормативной лексики",
+		"machine": true
+	},
+	"Chat Timeout": 
+	{
+		"translation": "Тайм-аут чата",
+		"machine": true
+	},
+	"Rendering": 
+	{
+		"translation": "Рендеринг",
+		"machine": true
+	},
+	"Green Outline for Party Members": 
+	{
+		"translation": "Зеленый контур для членов группы",
+		"machine": true
+	},
+	"Friendly Outline Through Walls": 
+	{
+		"translation": "Дружественный контур сквозь стены",
+		"machine": true
+	},
+	"Miscellaneous": 
+	{
+		"translation": "Разнообразный",
+		"machine": true
+	},
+	"Camera Sway": 
+	{
+		"translation": "Качание камеры",
+		"machine": true
+	},
+	"Pause when Inactive": 
+	{
+		"translation": "Пауза в неактивном состоянии",
+		"machine": true
+	},
+	"Enable Debug Logging": 
+	{
+		"translation": "Включить ведение журнала отладки",
+		"machine": true
+	},
+	"Extra Logging": 
+	{
+		"translation": "Дополнительная регистрация",
+		"machine": true
+	},
+	"Input": 
+	{
+		"translation": "Вход",
+		"machine": true
+	},
+	"Raw Mouse Input": 
+	{
+		"translation": "Необработанный ввод с помощью мыши",
+		"machine": true
+	},
+	"Sensitivity Multiplies": 
+	{
+		"translation": "Чувствительность умножается",
+		"machine": true
+	},
+	"Invert Y Axis": 
+	{
+		"translation": "Инвертный Y-ось",
+		"machine": true
+	},
+	"Sensitivity Values": 
+	{
+		"translation": "Значения чувствительности",
+		"machine": true
+	},
+	"Look Sensitivity": 
+	{
+		"translation": "Искать чувствительность",
+		"machine": true
+	},
+	"Ironsights Sensitivity": 
+	{
+		"translation": "Чувствительность прицелов",
+		"machine": true
+	},
+	"X2 Scope Sensitivity": 
+	{
+		"translation": "Чувствительность прицела X2",
+		"machine": true
+	},
+	"X4 Scope Sensitivity": 
+	{
+		"translation": "Чувствительность прицела X4",
+		"machine": true
+	},
+	"Spectator Sensitivity": 
+	{
+		"translation": "Чувствительность зрителя",
+		"machine": true
+	},
+	"Minimap": 
+	{
+		"translation": "Миникарта",
+		"machine": true
+	},
+	"Minimap Size": 
+	{
+		"translation": "Размер миникарты",
+		"machine": true
+	},
+	"Minimap Zoom": 
+	{
+		"translation": "Увеличение миникарты",
+		"machine": true
+	},
+	"Damage Numbers": 
+	{
+		"translation": "Номера повреждений",
+		"machine": true
+	},
+	"Show in the Shooting Range": 
+	{
+		"translation": "Шоу в тире",
+		"machine": true
+	},
+	"Show HUD": 
+	{
+		"translation": "Показать HUD",
+		"machine": true
+	},
+	"Show Kill Feed": 
+	{
+		"translation": "Показать канал убийства",
+		"machine": true
+	},
+	"Show Player Names": 
+	{
+		"translation": "Показать имена игроков",
+		"machine": true
+	},
+	"Show Enemies on the Zone Bar": 
+	{
+		"translation": "Показывать врагов на панели зоны",
+		"machine": true
+	},
+	"Secret": 
+	{
+		"translation": "Секрет",
+		"machine": true
+	},
+	"This Doesn't Do Anything": 
+	{
+		"translation": "Это ничего не делает",
+		"machine": true
+	},
+	"Resolution": 
+	{
+		"translation": "Разрешение",
+		"machine": true
+	},
+	"Override Screen Resolution": 
+	{
+		"translation": "Отменить разрешение экрана",
+		"machine": true
+	},
+	"Game Resolution X": 
+	{
+		"translation": "Разрешение игры X",
+		"machine": true
+	},
+	"Game Resolution Y": 
+	{
+		"translation": "Разрешение игры Y",
+		"machine": true
+	},
+	"Camera": 
+	{
+		"translation": "Камера",
+		"machine": true
+	},
+	"Field of View": 
+	{
+		"translation": "Поле зрения",
+		"machine": true
+	},
+	"Degrees": 
+	{
+		"translation": "Градусы",
+		"machine": true
+	},
+	"Brightness": 
+	{
+		"translation": "Яркость",
+		"machine": true
+	},
+	"Dynamic Rendering Settings": 
+	{
+		"translation": "Настройки динамического рендеринга",
+		"machine": true
+	},
+	"Texture Quality": 
+	{
+		"translation": "Качество текстуры",
+		"machine": true
+	},
+	"Shadows": 
+	{
+		"translation": "Тени",
+		"machine": true
+	},
+	"Shadow Quality": 
+	{
+		"translation": "Качество теней",
+		"machine": true
+	},
+	"Render Player Shadows": 
+	{
+		"translation": "Рендеринг теней игрока",
+		"machine": true
+	},
+	"Render Entity Shadows": 
+	{
+		"translation": "Отрисовка теней от сущностей",
+		"machine": true
+	},
+	"Render Particle Shadows": 
+	{
+		"translation": "Рендеринг теней частиц",
+		"machine": true
+	},
+	"Render Weather Particle Shadows": 
+	{
+		"translation": "Рендеринг теней от погодных частиц",
+		"machine": true
+	},
+	"Render Structure Shadows": 
+	{
+		"translation": "Отрисовка теней структуры",
+		"machine": true
+	},
+	"Voxel Settings": 
+	{
+		"translation": "Настройки вокселя",
+		"machine": true
+	},
+	"Render Distance": 
+	{
+		"translation": "Расстояние рендеринга",
+		"machine": true
+	},
+	"Chunks": 
+	{
+		"translation": "Куски",
+		"machine": true
+	},
+	"Max Chunk Updates": 
+	{
+		"translation": "Максимальное количество обновлений фрагментов",
+		"machine": true
+	},
+	"Particle Amount": 
+	{
+		"translation": "Количество частиц",
+		"machine": true
+	},
+	"Weather Particle Amount": 
+	{
+		"translation": "Количество погодных частиц",
+		"machine": true
+	},
+	"Lights": 
+	{
+		"translation": "Огни",
+		"machine": true
+	},
+	"Lighting Quality": 
+	{
+		"translation": "Качество освещения",
+		"machine": true
+	},
+	"Samples": 
+	{
+		"translation": "Образцы",
+		"machine": true
+	},
+	"Bloom Strength": 
+	{
+		"translation": "Сила цветения",
+		"machine": true
+	},
+	"Render Bloom On Optics": 
+	{
+		"translation": "Рендеринг на оптике",
+		"machine": true
+	},
+	"Render Crepuscular Rays": 
+	{
+		"translation": "Рендеринг сумеречных лучей",
+		"machine": true
+	},
+	"Enable Anti-Aliasing": 
+	{
+		"translation": "Включить сглаживание",
+		"machine": true
+	},
+	"Outer Scope Blur": 
+	{
+		"translation": "Размытие внешнего прицела",
+		"machine": true
+	},
+	"Compatibility": 
+	{
+		"translation": "Совместимость",
+		"machine": true
+	},
+	"Experimental": 
+	{
+		"translation": "Экспериментальный",
+		"machine": true
+	},
+	"Extensions": 
+	{
+		"translation": "Расширения",
+		"machine": true
+	},
+	"Sound Effect Volume": 
+	{
+		"translation": "Громкость звукового эффекта",
+		"machine": true
+	},
+	"Ambient Volume": 
+	{
+		"translation": "Окружающая громкость",
+		"machine": true
+	},
+	"Game Music Volume": 
+	{
+		"translation": "Громкость игровой музыки",
+		"machine": true
+	},
+	"Menu Music Volume": 
+	{
+		"translation": "Громкость музыки в меню",
+		"machine": true
+	},
+	"Personal Footsteps Volume": 
+	{
+		"translation": "Громкость личных шагов",
+		"machine": true
+	},
+	"Team Footsteps Volume": 
+	{
+		"translation": "Громкость шагов команды",
+		"machine": true
+	},
+	"Movement": 
+	{
+		"translation": "Движение",
+		"machine": true
+	},
+	"Actions": 
+	{
+		"translation": "Действия",
+		"machine": true
+	},
+	"Weaponry": 
+	{
+		"translation": "Вооружение",
+		"machine": true
+	},
+	"Single Dig by Default": 
+	{
+		"translation": "Один раскоп по умолчанию",
+		"machine": true
+	},
+	"Tools": 
+	{
+		"translation": "Инструменты",
+		"machine": true
+	},
+	"Navigation": 
+	{
+		"translation": "Навигация",
+		"machine": true
+	},
+	"Team Colours": 
+	{
+		"translation": "Цвета команды",
+		"machine": true
+	},
+	"Friendly Colour": 
+	{
+		"translation": "Приятный цвет",
+		"machine": true
+	},
+	"Party Colour": 
+	{
+		"translation": "Цвет партии",
+		"machine": true
+	},
+	"Enemy Colour": 
+	{
+		"translation": "Цвет врага",
+		"machine": true
+	},
+	"High Quality Meshing": 
+	{
+		"translation": "Создание сетки высокого качества",
+		"machine": true
+	},
+	"Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.": 
+	{
+		"translation": "Уделяйте больше времени ЦП, создавая более качественные модели мира, что снижает нагрузку на графический процессор..",
+		"machine": true
+	},
+	"The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.": 
+	{
+		"translation": "Игра автоматически отключит эффекты и снизит качество постобработки, чтобы поддерживать высокий FPS. определение оптимальных настроек рендеринга может занять до одной минуты.",
+		"machine": true
+	},
+	"Polling Rate": 
+	{
+		"translation": "Частота опроса",
+		"machine": true
+	},
+	"Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.": 
+	{
+		"translation": "Изменяет частоту получения данных об игроках с сервера. уменьшите это значение, если у вас нестабильный Интернет или низкая пропускная способность..",
+		"machine": true
+	},
+	"Pew Pew Mode": 
+	{
+		"translation": "Pew pew mode",
+		"machine": true
+	},
+	"Must keep enabled at all times": 
+	{
+		"translation": "Должен быть включен постоянно",
+		"machine": true
+	},
+	"The size of the bottom-right minimap": 
+	{
+		"translation": "Размер миникарты в правом нижнем углу.",
+		"machine": true
+	},
+	"The internal scale of the bottom-right minimap": 
+	{
+		"translation": "Внутренний масштаб миникарты в правом нижнем углу.",
+		"machine": true
+	},
+	"The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.": 
+	{
+		"translation": "Имя сервера не будет отображаться на табло, а имена других игроков и уровни будут рандомизированы для вас..",
+		"machine": true
+	},
+	"Controls whether the in-game HUD is rendered. Shortcut:": 
+	{
+		"translation": "Управляет отображением игрового HUD. ярлык:",
+		"machine": true
+	},
+	"Show Chat": 
+	{
+		"translation": "Показать чат",
+		"machine": true
+	},
+	"Controls whether the chat is rendered. Shortcut:": 
+	{
+		"translation": "Управляет отображением чата. ярлык:",
+		"machine": true
+	},
+	"Controls whether the kill feed is rendered. Shortcut:": 
+	{
+		"translation": "Управляет отображением канала уничтожения. ярлык:",
+		"machine": true
+	},
+	"Controls whether player names are rendered. Shortcut:": 
+	{
+		"translation": "Управляет отображением имен игроков. ярлык:",
+		"machine": true
+	},
+	"UI Scale": 
+	{
+		"translation": "Масштаб пользовательского интерфейса",
+		"machine": true
+	},
+	"Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS": 
+	{
+		"translation": "Частицы образуются при ударе или разрушении объектов. снижение этого процента увеличит FPS",
+		"machine": true
+	},
+	"The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS": 
+	{
+		"translation": "Карта разделена на блоки по 32x32x32 блока. уменьшение этого увеличит FPS",
+		"machine": true
+	},
+	"Max Lights": 
+	{
+		"translation": "Макс фары",
+		"machine": true
+	},
+	"The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS": 
+	{
+		"translation": "Мир освещен солнечными огнями, блокирующими огнями и дульными вспышками орудий. уменьшение максимального количества света, которое может быть визуализировано, увеличит FPS",
+		"machine": true
+	},
+	"Max FPS": 
+	{
+		"translation": "Макс FPS",
+		"machine": true
+	},
+	"Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage": 
+	{
+		"translation": "Количество кадров в секунду (FPS) - это количество раз, которое игра будет обновлять каждую секунду. уменьшение этого значения уменьшит использование ЦП и графического процессора.",
+		"machine": true
+	},
+	"Enable SSAO": 
+	{
+		"translation": "Включить SSAO",
+		"machine": true
+	},
+	"Screen Space Ambient Occlusion darkens the crevices between objects": 
+	{
+		"translation": "Окклюзия экранного пространства затемняет щели между объектами",
+		"machine": true
+	},
+	"Enable Bloom": 
+	{
+		"translation": "Включить цветение",
+		"machine": true
+	},
+	"Bloom increases and blurs the brightness of emissive surfaces": 
+	{
+		"translation": "Bloom увеличивает и размывает яркость излучающих поверхностей",
+		"machine": true
+	},
+	"Enable Bloom On Optics": 
+	{
+		"translation": "Включить блюм на оптике",
+		"machine": true
+	},
+	"Enable Crepuscular Rays": 
+	{
+		"translation": "Включить сумеречные лучи",
+		"machine": true
+	},
+	"Crepuscular rays are shafts of lights that originate from a star": 
+	{
+		"translation": "Сумеречные лучи - это лучи света, исходящие от звезды.",
+		"machine": true
+	},
+	"Enable Shadows": 
+	{
+		"translation": "Включить тени",
+		"machine": true
+	},
+	"Parts of the map will be darkened by the shadows cast from other objects": 
+	{
+		"translation": "Части карты будут затемнены тенями от других объектов.",
+		"machine": true
+	},
+	"Controls whether players from casting shadows": 
+	{
+		"translation": "Контролирует, могут ли игроки отбрасывать тени",
+		"machine": true
+	},
+	"Controls whether Disruptors, C4, Scanners and Canisters cast shadows": 
+	{
+		"translation": "Контролирует, отбрасывают ли дезрапторы, c4, сканеры и канистры тени",
+		"machine": true
+	},
+	"Controls whether particles cast shadows": 
+	{
+		"translation": "Определяет, отбрасывают ли частицы тени",
+		"machine": true
+	},
+	"Controls whether leaf particles cast shadows": 
+	{
+		"translation": "Определяет, отбрасывают ли частицы листьев тени",
+		"machine": true
+	},
+	"Controls whether falling structures cast shadows": 
+	{
+		"translation": "Контролирует, отбрасывают ли падающие конструкции тени",
+		"machine": true
+	},
+	"Enable Multisampling": 
+	{
+		"translation": "Включить мультисэмплинг",
+		"machine": true
+	},
+	"Multisampling smooths the edges of objects": 
+	{
+		"translation": "Мультисэмплинг сглаживает края объектов",
+		"machine": true
+	},
+	"Bare Minimum": 
+	{
+		"translation": "Голый минимум",
+		"machine": true
+	},
+	"The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time": 
+	{
+		"translation": "В минимальном режиме рендеринга вся постобработка пропускается, а объекты рендерируются прямо на экране. отключение этого может занять некоторое время",
+		"machine": true
+	},
+	"With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black": 
+	{
+		"translation": "При включенном минимуме этот параметр контролирует, будет ли область вокруг 2x и 4x областей размытой или черной.",
+		"machine": true
+	},
+	"Compress Textures": 
+	{
+		"translation": "Сжать текстуры",
+		"machine": true
+	},
+	"Compressing textures will use less memory on the GPU but the game will take longer to start up": 
+	{
+		"translation": "Сжатие текстур будет использовать меньше памяти на графическом процессоре, но игра будет запускаться дольше.",
+		"machine": true
+	},
+	"Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes": 
+	{
+		"translation": "Журнал отладки сохраняет файлы журнала в папке appData \/ roaming \/ vercidium \/ log, что помогает разработчикам исправлять ошибки и сбои.",
+		"machine": true
+	},
+	"Enable Safe Mode": 
+	{
+		"translation": "Включить безопасный режим",
+		"machine": true
+	},
+	"Safe Mode prevents crashes from closing the game, but may slow the game down slightly": 
+	{
+		"translation": "Безопасный режим предотвращает вылет из-за закрытия игры, но может немного замедлить игру",
+		"machine": true
+	},
+	"Enable VSync": 
+	{
+		"translation": "Включить VSync",
+		"machine": true
+	},
+	"Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing": 
+	{
+		"translation": "Вертикальная синхронизация сопоставляет частоту обновления игры с частотой обновления вашего монитора. включение этого может исправить разрыв экрана",
+		"machine": true
+	},
+	"Dynamic Exposure": 
+	{
+		"translation": "Динамическая экспозиция",
+		"machine": true
+	},
+	"Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene": 
+	{
+		"translation": "Динамическая экспозиция имитирует человеческий глаз, регулируя экспозицию в зависимости от яркости сцены.",
+		"machine": true
+	},
+	"Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker": 
+	{
+		"translation": "Уменьшение качества теней увеличит FPS, но приведет к мерцанию теней крупным планом.",
+		"machine": true
+	},
+	"Reducing the quality of lighting will increase FPS but pixelate lighting": 
+	{
+		"translation": "Снижение качества освещения увеличит FPS, но пиксельное освещение",
+		"machine": true
+	},
+	"Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware": 
+	{
+		"translation": "Включение этого параметра удалит части конвейера рендеринга, которые потенциально работают медленно на старом оборудовании.",
+		"machine": true
+	},
+	"Enable this if you are having trouble connecting to servers": 
+	{
+		"translation": "Включите это, если у вас возникли проблемы с подключением к серверам.",
+		"machine": true
+	},
+	"Only Scroll Weapons": 
+	{
+		"translation": "Только оружие свитка",
+		"machine": true
+	},
+	"If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools": 
+	{
+		"translation": "Если включено, колесо прокрутки будет вращаться только между вашим оружием, а не вашими инструментами для строительства \/ копания.",
+		"machine": true
+	},
+	"If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity": 
+	{
+		"translation": "Если этот параметр включен, каждый параметр чувствительности ironsight \/ 2x \/ 4x является множителем, основанным на вашей чувствительности взгляда.",
+		"machine": true
+	},
+	"The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage": 
+	{
+		"translation": "Количество разделов карты, обновляемых в каждом кадре. понижение этого значения снизит загрузку ЦП",
+		"machine": true
+	},
+	"Low Quality Textures": 
+	{
+		"translation": "Текстуры низкого качества",
+		"machine": true
+	},
+	"Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect": 
+	{
+		"translation": "Включение этого параметра уменьшит разрешение текстуры, чтобы увеличить FPS и уменьшить использование памяти. отключение этого требует перезагрузки, чтобы вступить в силу",
+		"machine": true
+	},
+	"SSAO Samples": 
+	{
+		"translation": "Образцы SSAO",
+		"machine": true
+	},
+	"Increasing this will improve the quality of Ambient Occlusion postprocessing": 
+	{
+		"translation": "Увеличение этого параметра улучшит качество постобработки ambient occlusion.",
+		"machine": true
+	},
+	"Player Name Distance": 
+	{
+		"translation": "Расстояние до имени игрока",
+		"machine": true
+	},
+	"This controls how far away friendly names will show": 
+	{
+		"translation": "Это определяет, как далеко будут отображаться дружественные имена.",
+		"machine": true
+	},
+	"Midi Counts as Weapon": 
+	{
+		"translation": "Миди считается оружием",
+		"machine": true
+	},
+	"When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them": 
+	{
+		"translation": "Когда отключено, midi \/ digger \/ структура будет пропущена при прокрутке оружия, и нажатие последней комбинации клавиш инструмента не переключится на них.",
+		"machine": true
+	},
+	"Automatically pause the game when you change to another window": 
+	{
+		"translation": "Автоматически ставить игру на паузу при переходе в другое окно",
+		"machine": true
+	},
+	"Replace swear words in chat messages with delicious food": 
+	{
+		"translation": "Замени ругательства в сообщениях чата вкусной едой",
+		"machine": true
+	},
+	"Game Resolution": 
+	{
+		"translation": "Разрешение игры",
+		"machine": true
+	},
+	"Reducing this will increase FPS": 
+	{
+		"translation": "Уменьшение этого значения увеличит FPS.",
+		"machine": true
+	},
+	"Override Resolution": 
+	{
+		"translation": "Отменить разрешение",
+		"machine": true
+	},
+	"Enabling this will make the game render at the resolution specified below and stretch to the size of the window": 
+	{
+		"translation": "Включение этого параметра приведет к рендерингу игры с разрешением, указанным ниже, и растянутым до размера окна.",
+		"machine": true
+	},
+	"Smooth Scaling": 
+	{
+		"translation": "Плавное масштабирование",
+		"machine": true
+	},
+	"Enabling this will reduce the pixelation of lower game resolutions": 
+	{
+		"translation": "Включение этого параметра уменьшит пикселизацию при более низких разрешениях игры.",
+		"machine": true
+	},
+	"NVIDIA OpenGL Extensions": 
+	{
+		"translation": "Расширения NVIDIA openGL",
+		"machine": true
+	},
+	"Experimental performance setting, may crash your game. Don't enable if you haven't been told to": 
+	{
+		"translation": "Экспериментальная настройка производительности, может привести к сбою игры. не включайте, если вам не сказали",
+		"machine": true
+	},
+	"Beta Rendering": 
+	{
+		"translation": "Бета-рендеринг",
+		"machine": true
+	},
+	"New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled": 
+	{
+		"translation": "Новый конвейер рендеринга. пожалуйста, сообщите Vercidium в Discord, если игра работает быстрее \/ медленнее с этим включенным",
+		"machine": true
+	},
+	"Enable this to make": 
+	{
+		"translation": "Включите это, чтобы сделать",
+		"machine": true
+	},
+	"dig single blocks and": 
+	{
+		"translation": "копать отдельные блоки и",
+		"machine": true
+	},
+	"dig a 3x3x3 area": 
+	{
+		"translation": "выкопайте область 3x3x3",
+		"machine": true
+	},
+	"Show Enemies on Zone Bar": 
+	{
+		"translation": "Показать врагов на панели зоны",
+		"machine": true
+	},
+	"Forwards": 
+	{
+		"translation": "Нападающие",
+		"machine": true
+	},
+	"Right": 
+	{
+		"translation": "Правильно",
+		"machine": true
+	},
+	"Backwards": 
+	{
+		"translation": "Назад",
+		"machine": true
+	},
+	"Crouch": 
+	{
+		"translation": "Крауч",
+		"machine": true
+	},
+	"Jump": 
+	{
+		"translation": "Прыгать",
+		"machine": true
+	},
+	"Sprint": 
+	{
+		"translation": "Спринт",
+		"machine": true
+	},
+	"Slide": 
+	{
+		"translation": "Горка",
+		"machine": true
+	},
+	"Pick Up Primary": 
+	{
+		"translation": "Подобрать первичный",
+		"machine": true
+	},
+	"Pick Up Secondary": 
+	{
+		"translation": "Подобрать вторичный",
+		"machine": true
+	},
+	"Ping": 
+	{
+		"translation": "пинг",
+		"machine": true
+	},
+	"Ping (Enemy)": 
+	{
+		"translation": "Пинг (враг)",
+		"machine": true
+	},
+	"Ping (Caution)": 
+	{
+		"translation": "Пинг (осторожно)",
+		"machine": true
+	},
+	"Ping (Help)": 
+	{
+		"translation": "Пинг (справка)",
+		"machine": true
+	},
+	"Ping (Reinforce)": 
+	{
+		"translation": "Пинг (усилить)",
+		"machine": true
+	},
+	"Ping (Destroy)": 
+	{
+		"translation": "Пинг (уничтожить)",
+		"machine": true
+	},
+	"Shoot": 
+	{
+		"translation": "Стрелять",
+		"machine": true
+	},
+	"Scope": 
+	{
+		"translation": "Объем",
+		"machine": true
+	},
+	"Melee": 
+	{
+		"translation": "Рукопашный бой",
+		"machine": true
+	},
+	"Grenade": 
+	{
+		"translation": "Граната",
+		"machine": true
+	},
+	"Midi": 
+	{
+		"translation": "Миди",
+		"machine": true
+	},
+	"Digger": 
+	{
+		"translation": "экскаватор",
+		"machine": true
+	},
+	"Structure (Radial)": 
+	{
+		"translation": "Структура (радиальная)",
+		"machine": true
+	},
+	"Structure (Toggle)": 
+	{
+		"translation": "Структура (переключить)",
+		"machine": true
+	},
+	"Structure 1": 
+	{
+		"translation": "Структура 1",
+		"machine": true
+	},
+	"Structure 2": 
+	{
+		"translation": "Структура 2",
+		"machine": true
+	},
+	"Structure 3": 
+	{
+		"translation": "Структура 3",
+		"machine": true
+	},
+	"Structure 4": 
+	{
+		"translation": "Структура 4",
+		"machine": true
+	},
+	"Structure 5": 
+	{
+		"translation": "Структура 5",
+		"machine": true
+	},
+	"Structure 6": 
+	{
+		"translation": "Структура 6",
+		"machine": true
+	},
+	"Structure 7": 
+	{
+		"translation": "Структура 7",
+		"machine": true
+	},
+	"Structure 8": 
+	{
+		"translation": "Структура 8",
+		"machine": true
+	},
+	"Structure 9": 
+	{
+		"translation": "Структура 9",
+		"machine": true
+	},
+	"Primary": 
+	{
+		"translation": "Начальный",
+		"machine": true
+	},
+	"Secondary": 
+	{
+		"translation": "Вторичный",
+		"machine": true
+	},
+	"Switch To Last Tool": 
+	{
+		"translation": "Перейти к последнему инструменту",
+		"machine": true
+	},
+	"Next Tool": 
+	{
+		"translation": "Следующий инструмент",
+		"machine": true
+	},
+	"Previous Tool": 
+	{
+		"translation": "Предыдущий инструмент",
+		"machine": true
+	},
+	"Team Chat": 
+	{
+		"translation": "Командный чат",
+		"machine": true
+	},
+	"View Scoreboard": 
+	{
+		"translation": "Посмотреть табло",
+		"machine": true
+	},
+	"Unlock Scoreboard": 
+	{
+		"translation": "Разблокировать табло",
+		"machine": true
+	},
+	"View Map": 
+	{
+		"translation": "Посмотреть карту",
+		"machine": true
+	},
+	"Menu": 
+	{
+		"translation": "Меню",
+		"machine": true
+	},
+	"Toggle Fullscreen": 
+	{
+		"translation": "Переключить на полный экран",
+		"machine": true
+	},
+	"Toggle UI": 
+	{
+		"translation": "Переключить пользовательский интерфейс",
+		"machine": true
+	},
+	"Toggle Chat": 
+	{
+		"translation": "Переключить чат",
+		"machine": true
+	},
+	"Toggle Killfeed": 
+	{
+		"translation": "Переключить killfeed",
+		"machine": true
+	},
+	"Toggle Names": 
+	{
+		"translation": "Переключить имена",
+		"machine": true
+	},
+	"Toggle Info Overlay": 
+	{
+		"translation": "Переключить наложение информации",
+		"machine": true
+	},
+	"Custom Map - Reload": 
+	{
+		"translation": "Пользовательская карта - перезагрузить",
+		"machine": true
+	},
+	"Custom Map - Full Reload": 
+	{
+		"translation": "Пользовательская карта - полная перезагрузка",
+		"machine": true
+	},
+	"Custom Map - Toggle Fall Damage": 
+	{
+		"translation": "Пользовательская карта - переключение урона от падения",
+		"machine": true
+	},
+	"Custom Map - Toggle Fly Camera": 
+	{
+		"translation": "Пользовательская карта - переключение камеры полета",
+		"machine": true
+	},
+	"Reset UI Scale": 
+	{
+		"translation": "Сбросить масштаб пользовательского интерфейса",
+		"machine": true
+	},
+	"Provide Feedback": 
+	{
+		"translation": "Обеспечить обратную связь",
+		"machine": true
+	},
+	"News Tab": 
+	{
+		"translation": "Вкладка новостей",
+		"machine": true
+	},
+	"Store Tab": 
+	{
+		"translation": "Вкладка \"Магазин\"",
+		"machine": true
+	},
+	"Career Tab": 
+	{
+		"translation": "Вкладка \"Карьера\"",
+		"machine": true
+	},
+	"Play Tab": 
+	{
+		"translation": "Вкладка Play",
+		"machine": true
+	},
+	"Clan Tab": 
+	{
+		"translation": "Вкладка клана",
+		"machine": true
+	},
+	"Character Tab": 
+	{
+		"translation": "Вкладка персонажа",
+		"machine": true
+	},
+	"Weapons Tab": 
+	{
+		"translation": "Вкладка \"Оружие\"",
+		"machine": true
+	},
+	"Loadouts Tab": 
+	{
+		"translation": "Вкладка \"Снаряжение\"",
+		"machine": true
+	},
+	"Ship Tab": 
+	{
+		"translation": "Вкладка Корабль",
+		"machine": true
+	},
+	"Settings Tab": 
+	{
+		"translation": "Вкладка настроек",
+		"machine": true
+	},
+	"Mapping Tab": 
+	{
+		"translation": "Вкладка \"Отображение\"",
+		"machine": true
+	},
+	"Open Trial Window": 
+	{
+		"translation": "Открыть пробное окно",
+		"machine": true
+	},
+	"Restart Trial": 
+	{
+		"translation": "Перезапустить пробную версию",
+		"machine": true
+	}
+}

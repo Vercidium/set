@@ -1,0 +1,4302 @@
+{
+	"Cluster spawn": 
+	{
+		"translation": "Generación de racimo",
+		"machine": true
+	},
+	"Damage": 
+	{
+		"translation": "Daño",
+		"machine": true
+	},
+	"Overkill": 
+	{
+		"translation": "Overkill",
+		"machine": true
+	},
+	"Direct": 
+	{
+		"translation": "Directo",
+		"machine": true
+	},
+	"Disruptor assist": 
+	{
+		"translation": "Asistencia de disruptor",
+		"machine": true
+	},
+	"Headshot": 
+	{
+		"translation": "Disparo a la cabeza",
+		"machine": true
+	},
+	"Kill": 
+	{
+		"translation": "Matar",
+		"machine": true
+	},
+	"Kill streak": 
+	{
+		"translation": "Racha de muertes",
+		"machine": true
+	},
+	"VIP kill": 
+	{
+		"translation": "Muerte VIP",
+		"machine": true
+	},
+	"VIP defend": 
+	{
+		"translation": "Defensa VIP",
+		"machine": true
+	},
+	"Scanner destroyed": 
+	{
+		"translation": "Escáner destruido",
+		"machine": true
+	},
+	"Scanner assist": 
+	{
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	"C4 destroyed": 
+	{
+		"translation": "C4 destruido",
+		"machine": true
+	},
+	"Disruptor destroyed": 
+	{
+		"translation": "Disruptor destruido",
+		"machine": true
+	},
+	"Avenger": 
+	{
+		"translation": "Vengador",
+		"machine": true
+	},
+	"Saviour": 
+	{
+		"translation": "Salvador",
+		"machine": true
+	},
+	"Flag capture": 
+	{
+		"translation": "Captura de bandera",
+		"machine": true
+	},
+	"Flag carry": 
+	{
+		"translation": "Llevar la bandera",
+		"machine": true
+	},
+	"Flag return": 
+	{
+		"translation": "Devolución de la bandera",
+		"machine": true
+	},
+	"Flag attack": 
+	{
+		"translation": "Ataque de bandera",
+		"machine": true
+	},
+	"Flag defend": 
+	{
+		"translation": "Bandera defender",
+		"machine": true
+	},
+	"Escort": 
+	{
+		"translation": "Escolta",
+		"machine": true
+	},
+	"Flag carrier kill": 
+	{
+		"translation": "Muerte del portador de la bandera",
+		"machine": true
+	},
+	"Bomb deliver": 
+	{
+		"translation": "Entrega de bomba",
+		"machine": true
+	},
+	"Bomb carry": 
+	{
+		"translation": "Llevar bomba",
+		"machine": true
+	},
+	"Bomb defuse": 
+	{
+		"translation": "Desactivación de la bomba",
+		"machine": true
+	},
+	"Bomb attack": 
+	{
+		"translation": "Ataque con bomba",
+		"machine": true
+	},
+	"Bomb defend": 
+	{
+		"translation": "Defensa de bomba",
+		"machine": true
+	},
+	"Spot assist": 
+	{
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	"Attacking": 
+	{
+		"translation": "Agresor",
+		"machine": true
+	},
+	"Defending": 
+	{
+		"translation": "Defendiendo",
+		"machine": true
+	},
+	"Contesting": 
+	{
+		"translation": "Impugnando",
+		"machine": true
+	},
+	"Canister capture": 
+	{
+		"translation": "Captura de recipiente",
+		"machine": true
+	},
+	"Zone capture": 
+	{
+		"translation": "Captura de zona",
+		"machine": true
+	},
+	"Beacon capture": 
+	{
+		"translation": "Captura de baliza",
+		"machine": true
+	},
+	"Beacon destroyed": 
+	{
+		"translation": "Baliza destruida",
+		"machine": true
+	},
+	"Salvage": 
+	{
+		"translation": "Salvar",
+		"machine": true
+	},
+	"Round win": 
+	{
+		"translation": "Victoria redonda",
+		"machine": true
+	},
+	"Round survive": 
+	{
+		"translation": "Ronda sobrevivir",
+		"machine": true
+	},
+	"Assist": 
+	{
+		"translation": "Ayudar",
+		"machine": true
+	},
+	"Assist counts as kill": 
+	{
+		"translation": "La asistencia cuenta como muerte",
+		"machine": true
+	},
+	"Fortifying": 
+	{
+		"translation": "Fortificante",
+		"machine": true
+	},
+	"Most Valuable Player": 
+	{
+		"translation": "El jugador más Valioso",
+		"machine": true
+	},
+	"Annihilator": 
+	{
+		"translation": "Aniquilador",
+		"machine": true
+	},
+	"Marksman": 
+	{
+		"translation": "Tirador escondido",
+		"machine": true
+	},
+	"Creator": 
+	{
+		"translation": "Creador",
+		"machine": true
+	},
+	"Destroyer": 
+	{
+		"translation": "Destructor",
+		"machine": true
+	},
+	"Attacker": 
+	{
+		"translation": "Agresor",
+		"machine": true
+	},
+	"Defender": 
+	{
+		"translation": "Defensor",
+		"machine": true
+	},
+	"Impaler": 
+	{
+		"translation": "Empalador",
+		"machine": true
+	},
+	"Resilient": 
+	{
+		"translation": "Elástico",
+		"machine": true
+	},
+	"Assistance": 
+	{
+		"translation": "Asistencia",
+		"machine": true
+	},
+	"Impacter": 
+	{
+		"translation": "Impactador",
+		"machine": true
+	},
+	"Infiltrator": 
+	{
+		"translation": "Infiltrado",
+		"machine": true
+	},
+	"Team placement": 
+	{
+		"translation": "Colocación de equipo",
+		"machine": true
+	},
+	"Connecting": 
+	{
+		"translation": "Conectando",
+		"machine": true
+	},
+	"Loading Map": 
+	{
+		"translation": "Cargando mapa",
+		"machine": true
+	},
+	"None": 
+	{
+		"translation": "Ninguno",
+		"machine": true
+	},
+	"Playing": 
+	{
+		"translation": "Jugando",
+		"machine": true
+	},
+	"Reserved (party)": 
+	{
+		"translation": "Reservado (fiesta)",
+		"machine": true
+	},
+	"Selecting a team": 
+	{
+		"translation": "Seleccionar un equipo",
+		"machine": true
+	},
+	"Spectating": 
+	{
+		"translation": "Espectador",
+		"machine": true
+	},
+	"Left": 
+	{
+		"translation": "Izquierda",
+		"machine": true
+	},
+	"Breakthrough": 
+	{
+		"translation": "Descubrimiento",
+		"machine": true
+	},
+	"Control Shift": 
+	{
+		"translation": "Cambio de control",
+		"machine": true
+	},
+	"Capture the Flag": 
+	{
+		"translation": "Captura la bandera",
+		"machine": true
+	},
+	"Gun Game": 
+	{
+		"translation": "Juego de pistolas",
+		"machine": true
+	},
+	"Head Hunter": 
+	{
+		"translation": "Cazador de cabezas",
+		"machine": true
+	},
+	"Spire": 
+	{
+		"translation": "Aguja",
+		"machine": true
+	},
+	"Static": 
+	{
+		"translation": "Estático",
+		"machine": true
+	},
+	"All": 
+	{
+		"translation": "Todos",
+		"machine": true
+	},
+	"Kicked by a moderator": 
+	{
+		"translation": "Pateado por un moderador",
+		"machine": true
+	},
+	"Already in game": 
+	{
+		"translation": "Ya en el juego",
+		"machine": true
+	},
+	"Authentication failed": 
+	{
+		"translation": "Autenticación fallida",
+		"machine": true
+	},
+	"Banned": 
+	{
+		"translation": "Prohibido",
+		"machine": true
+	},
+	"Disconnected": 
+	{
+		"translation": "Desconectado",
+		"machine": true
+	},
+	"EAC Violation": 
+	{
+		"translation": "Violación de EAC",
+		"machine": true
+	},
+	"Kicked for inactivity": 
+	{
+		"translation": "Pateado por inactividad",
+		"machine": true
+	},
+	"Internal error": 
+	{
+		"translation": "Error interno",
+		"machine": true
+	},
+	"Map is restoring. Try again in 10 seconds": 
+	{
+		"translation": "El mapa se está restaurando. inténtalo de nuevo en 10 segundos",
+		"machine": true
+	},
+	"Network Error": 
+	{
+		"translation": "Error de red",
+		"machine": true
+	},
+	"No Error": 
+	{
+		"translation": "No hay error",
+		"machine": true
+	},
+	"Reconnecting": 
+	{
+		"translation": "Reconectando",
+		"machine": true
+	},
+	"Server is restarting": 
+	{
+		"translation": "El servidor se está reiniciando",
+		"machine": true
+	},
+	"Temporarily Banned": 
+	{
+		"translation": "Prohibido temporalmente",
+		"machine": true
+	},
+	"Version mismatch": 
+	{
+		"translation": "Versión no coincide",
+		"machine": true
+	},
+	"Votekicked": 
+	{
+		"translation": "Votekicked",
+		"machine": true
+	},
+	"Votekick still in effect": 
+	{
+		"translation": "Votekick sigue vigente",
+		"machine": true
+	},
+	"Incorrect password": 
+	{
+		"translation": "Contraseña incorrecta",
+		"machine": true
+	},
+	"Your level is too high": 
+	{
+		"translation": "Tu nivel es demasiado alto",
+		"machine": true
+	},
+	"Can only claim 3 lobbies per day": 
+	{
+		"translation": "Solo puede reclamar 3 lobbies por día",
+		"machine": true
+	},
+	"Lobby already claimed": 
+	{
+		"translation": "Lobby ya reclamado",
+		"machine": true
+	},
+	"Min level must be lower than your own": 
+	{
+		"translation": "El nivel mínimo debe ser más bajo que el tuyo",
+		"machine": true
+	},
+	"Max level must be greater than your own": 
+	{
+		"translation": "El nivel máximo debe ser mayor que el tuyo",
+		"machine": true
+	},
+	"Min level can't be greater than max level": 
+	{
+		"translation": "El nivel mínimo no puede ser mayor que el nivel máximo",
+		"machine": true
+	},
+	"You are too powerful": 
+	{
+		"translation": "Eres demasiado poderoso",
+		"machine": true
+	},
+	"Your level is too low": 
+	{
+		"translation": "Tu nivel es demasiado bajo",
+		"machine": true
+	},
+	"Cannot claim. Lobby has players": 
+	{
+		"translation": "No se puede reclamar. el lobby tiene jugadores",
+		"machine": true
+	},
+	"Reserved slot expired": 
+	{
+		"translation": "La ranura reservada caducó",
+		"machine": true
+	},
+	"Min level must be less than max level": 
+	{
+		"translation": "El nivel mínimo debe ser menor que el nivel máximo",
+		"machine": true
+	},
+	"Bot Replacement": 
+	{
+		"translation": "Reemplazo de bot",
+		"machine": true
+	},
+	"Accelerator": 
+	{
+		"translation": "Acelerador",
+		"machine": true
+	},
+	"Beam splitter": 
+	{
+		"translation": "Divisor de haz",
+		"machine": true
+	},
+	"Choke": 
+	{
+		"translation": "Ahogo",
+		"machine": true
+	},
+	"Compressor": 
+	{
+		"translation": "Compresor",
+		"machine": true
+	},
+	"Default": 
+	{
+		"translation": "Defecto",
+		"machine": true
+	},
+	"Extended": 
+	{
+		"translation": "Extendido",
+		"machine": true
+	},
+	"Extendedest": 
+	{
+		"translation": "Más extenso",
+		"machine": true
+	},
+	"Resonator": 
+	{
+		"translation": "Resonador",
+		"machine": true
+	},
+	"Silencer": 
+	{
+		"translation": "Silenciador",
+		"machine": true
+	},
+	"Medium": 
+	{
+		"translation": "Medio",
+		"machine": true
+	},
+	"Short": 
+	{
+		"translation": "Pequeño",
+		"machine": true
+	},
+	"Angled": 
+	{
+		"translation": "Angular",
+		"machine": true
+	},
+	"Removed": 
+	{
+		"translation": "Remoto",
+		"machine": true
+	},
+	"Stubby": 
+	{
+		"translation": "Achaparrado",
+		"machine": true
+	},
+	"Augmented": 
+	{
+		"translation": "Aumentado",
+		"machine": true
+	},
+	"Buckshot": 
+	{
+		"translation": "Posta zorrera",
+		"machine": true
+	},
+	"Burst": 
+	{
+		"translation": "Estallar",
+		"machine": true
+	},
+	"Lethal": 
+	{
+		"translation": "Letal",
+		"machine": true
+	},
+	"Heavy": 
+	{
+		"translation": "Pesado",
+		"machine": true
+	},
+	"Light": 
+	{
+		"translation": "Luz",
+		"machine": true
+	},
+	"Piercing": 
+	{
+		"translation": "Perforación",
+		"machine": true
+	},
+	"Ricochet": 
+	{
+		"translation": "Rebotar",
+		"machine": true
+	},
+	"Slug": 
+	{
+		"translation": "Babosa",
+		"machine": true
+	},
+	"Tow": 
+	{
+		"translation": "Remolcar",
+		"machine": true
+	},
+	"Corrosive": 
+	{
+		"translation": "Corrosivo",
+		"machine": true
+	},
+	"Explosive": 
+	{
+		"translation": "Explosivo",
+		"machine": true
+	},
+	"Incendiary": 
+	{
+		"translation": "Incendiario",
+		"machine": true
+	},
+	"Base": 
+	{
+		"translation": "Base",
+		"machine": true
+	},
+	"Tactical": 
+	{
+		"translation": "Táctico",
+		"machine": true
+	},
+	"Mechanical": 
+	{
+		"translation": "Mecánico",
+		"machine": true
+	},
+	"Advanced": 
+	{
+		"translation": "Avanzado",
+		"machine": true
+	},
+	"Welded": 
+	{
+		"translation": "Soldada",
+		"machine": true
+	},
+	"Pneumatic": 
+	{
+		"translation": "Neumático",
+		"machine": true
+	},
+	"Single": 
+	{
+		"translation": "Único",
+		"machine": true
+	},
+	"Automatic": 
+	{
+		"translation": "Automático",
+		"machine": true
+	},
+	"Sniper": 
+	{
+		"translation": "Francotirador",
+		"machine": true
+	},
+	"Rifle": 
+	{
+		"translation": "Rifle",
+		"machine": true
+	},
+	"SMG": 
+	{
+		"translation": "SMG",
+		"machine": true
+	},
+	"Shotgun": 
+	{
+		"translation": "Escopeta",
+		"machine": true
+	},
+	"Pistol": 
+	{
+		"translation": "Pistola",
+		"machine": true
+	},
+	"Equipment": 
+	{
+		"translation": "Equipo",
+		"machine": true
+	},
+	"Other": 
+	{
+		"translation": "Otro",
+		"machine": true
+	},
+	"Ironsights": 
+	{
+		"translation": "Ironsights",
+		"machine": true
+	},
+	"Broken Circle": 
+	{
+		"translation": "Círculo roto",
+		"machine": true
+	},
+	"Broken Square": 
+	{
+		"translation": "Plaza rota",
+		"machine": true
+	},
+	"Chevron": 
+	{
+		"translation": "Cheurón",
+		"machine": true
+	},
+	"Circle Cross": 
+	{
+		"translation": "Cruz circular",
+		"machine": true
+	},
+	"Dot Cross": 
+	{
+		"translation": "Cruz de puntos",
+		"machine": true
+	},
+	"Dotted Cross": 
+	{
+		"translation": "Cruz punteada",
+		"machine": true
+	},
+	"Pointed Cross": 
+	{
+		"translation": "Cruz puntiaguda",
+		"machine": true
+	},
+	"Sparse Dotted Cross": 
+	{
+		"translation": "Cruz de puntos dispersos",
+		"machine": true
+	},
+	"Unbroken Cross": 
+	{
+		"translation": "Cruz inquebrantable",
+		"machine": true
+	},
+	"2px Dot": 
+	{
+		"translation": "Punto de 2px",
+		"machine": true
+	},
+	"4px Dot": 
+	{
+		"translation": "Punto de 4px",
+		"machine": true
+	},
+	"6px Dot": 
+	{
+		"translation": "Punto de 6px",
+		"machine": true
+	},
+	"8px Dot": 
+	{
+		"translation": "Punto de 8px",
+		"machine": true
+	},
+	"Flat Dot": 
+	{
+		"translation": "Punto plano",
+		"machine": true
+	},
+	"Dot Plus": 
+	{
+		"translation": "Dot plus",
+		"machine": true
+	},
+	"Dot Plus Circle": 
+	{
+		"translation": "Punto más círculo",
+		"machine": true
+	},
+	"Dot T": 
+	{
+		"translation": "Punto T",
+		"machine": true
+	},
+	"Empty Plus": 
+	{
+		"translation": "Más vacío",
+		"machine": true
+	},
+	"Empty T": 
+	{
+		"translation": "Vacío T",
+		"machine": true
+	},
+	"T Point": 
+	{
+		"translation": "Punto T",
+		"machine": true
+	},
+	"T Point Round": 
+	{
+		"translation": "Punto T redondo",
+		"machine": true
+	},
+	"Camoflague": 
+	{
+		"translation": "Camoflague",
+		"machine": true
+	},
+	"Metallic": 
+	{
+		"translation": "Metálico",
+		"machine": true
+	},
+	"Animated": 
+	{
+		"translation": "Animado",
+		"machine": true
+	},
+	"Digital": 
+	{
+		"translation": "Digital",
+		"machine": true
+	},
+	"Tiger": 
+	{
+		"translation": "Tigre",
+		"machine": true
+	},
+	"Poly": 
+	{
+		"translation": "escuela politécnica",
+		"machine": true
+	},
+	"Snakeskin": 
+	{
+		"translation": "Piel de serpiente",
+		"machine": true
+	},
+	"Woodland": 
+	{
+		"translation": "Bosque",
+		"machine": true
+	},
+	"Hot Metal": 
+	{
+		"translation": "Metal caliente",
+		"machine": true
+	},
+	"Cold Metal": 
+	{
+		"translation": "Metal frio",
+		"machine": true
+	},
+	"Pearl": 
+	{
+		"translation": "Perla",
+		"machine": true
+	},
+	"Tracer": 
+	{
+		"translation": "Trazador",
+		"machine": true
+	},
+	"Fluid": 
+	{
+		"translation": "Líquido",
+		"machine": true
+	},
+	"Ember": 
+	{
+		"translation": "Ascua",
+		"machine": true
+	},
+	"Grid": 
+	{
+		"translation": "Red",
+		"machine": true
+	},
+	"This mid-long ranged weapon is balanced for most conflicts.": 
+	{
+		"translation": "Esta arma de mediano alcance está equilibrada para la mayoría de los conflictos..",
+		"machine": true
+	},
+	"Mecharii technology that can be charged multiple times to produce a more powerful beam.": 
+	{
+		"translation": "Tecnología Mecharii que se puede cargar varias veces para producir un rayo más potente.",
+		"machine": true
+	},
+	"Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.": 
+	{
+		"translation": "Lanzar con clic izquierdo y detonar con clic derecho. al reaparecer, c4 se desconecta de ti y debes disparar para detonar.",
+		"machine": true
+	},
+	"This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.": 
+	{
+		"translation": "Esta escopeta de largo alcance tiene un gran impacto en distancias más largas..\nMientras se mira, su dispersión de pellets se reducirá en un 70% en 3.0 segundos..",
+		"machine": true
+	},
+	"A testament to Aegis' advanced technology.": 
+	{
+		"translation": "Un testimonio de la tecnología avanzada de aegis.",
+		"machine": true
+	},
+	"Slower Midi digging that removes a 3x3x3 chunk of blocks.": 
+	{
+		"translation": "Excavación midi más lenta que elimina un trozo de bloques de 3x3x3.",
+		"machine": true
+	},
+	"Place on a block surface to electrify passing enemies. Single use only.": 
+	{
+		"translation": "Colócalo sobre una superficie de bloque para electrificar a los enemigos que pasan. de un solo uso.",
+		"machine": true
+	},
+	"Allows one extra modification to be equipped.": 
+	{
+		"translation": "Permite equipar una modificación adicional.",
+		"machine": true
+	},
+	"This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.": 
+	{
+		"translation": "Esta arma de rango medio lanza núcleos de soltrio inestables que rebotan antes de explotar..",
+		"machine": true
+	},
+	"This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.": 
+	{
+		"translation": "Esta granada tiene un núcleo de soltrio inestable y detona después de 3 segundos. todos los jugadores tienen dos granadas, pero habilitar esto hará que las granadas se peguen a las paredes.",
+		"machine": true
+	},
+	"Agaman technology that cuts through blocks instantly.": 
+	{
+		"translation": "Tecnología Agaman que corta bloques instantáneamente.",
+		"machine": true
+	},
+	"This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots": 
+	{
+		"translation": "Esta arma de rango medio tiene un clip grande para fuego de supresión..\nSe sobrecalienta después de 50 disparos continuos",
+		"machine": true
+	},
+	"Agaman technology that fires balls of plasma in quick succession.": 
+	{
+		"translation": "Tecnología Agaman que dispara bolas de plasma en rápida sucesión..",
+		"machine": true
+	},
+	"Place blocks with this tool.": 
+	{
+		"translation": "Coloca bloques con esta herramienta.",
+		"machine": true
+	},
+	"This mid ranged shoots Soltrium Tracer Rounds. Recharges over time and can overheat.": 
+	{
+		"translation": "Estas rondas trazadoras de soltrio de brotes de rango medio. se recarga con el tiempo y puede sobrecalentarse.",
+		"machine": true
+	},
+	"Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.": 
+	{
+		"translation": "Tecnología destructiva de agaman que convierte la energía del soltrio en una bola explosiva de plasma..",
+		"machine": true
+	},
+	"Paint blocks with this tool.": 
+	{
+		"translation": "Pintar bloques con esta herramienta.",
+		"machine": true
+	},
+	"This close-mid ranged weapon shoots quickly but has a small magazine.": 
+	{
+		"translation": "Esta arma de corto alcance dispara rápidamente pero tiene un cargador pequeño..",
+		"machine": true
+	},
+	"Light Agaman technology. Fast firing, hard hitting.": 
+	{
+		"translation": "Tecnología Light Agaman. disparo rápido, golpe fuerte.",
+		"machine": true
+	},
+	"Heavy Agaman technology. Fires a hard-hitting ball of plasma.": 
+	{
+		"translation": "Tecnología agaman pesada. dispara una bola de plasma contundente.",
+		"machine": true
+	},
+	"This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.": 
+	{
+		"translation": "Esta arma de largo alcance utiliza propulsión magnética y puede equiparse con un alcance 4x para brindar apoyo a los aliados a distancia..",
+		"machine": true
+	},
+	"Blocks placed have +100% health.": 
+	{
+		"translation": "Los bloques colocados tienen + 100% de salud.",
+		"machine": true
+	},
+	"This hard-hitting close ranged weapon contains a powerful Soltrium Core.": 
+	{
+		"translation": "Esta potente arma de corto alcance contiene un poderoso núcleo de soltrio..",
+		"machine": true
+	},
+	"Such a small gun. Such a massive boom.": 
+	{
+		"translation": "Un arma tan pequeña. un boom tan masivo.",
+		"machine": true
+	},
+	"This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.": 
+	{
+		"translation": "Esta arma de largo alcance utiliza tecnología de propulsión de soltrio para lanzar misiles explosivos..",
+		"machine": true
+	},
+	"Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.": 
+	{
+		"translation": "Lanza un orbe de escaneo flotante que pulsa cada dos segundos, revelando enemigos a través de las paredes..\nLos jugadores enemigos pueden disparar orbes de escáner.",
+		"machine": true
+	},
+	"Agaman technology. This close ranged weapon propels a spray of plasma": 
+	{
+		"translation": "Tecnología Agaman. esta arma de corto alcance propulsa un chorro de plasma",
+		"machine": true
+	},
+	"This close ranged weapon creates a blast of shrapnel.": 
+	{
+		"translation": "Esta arma de corto alcance crea una ráfaga de metralla.",
+		"machine": true
+	},
+	"This close-mid ranged weapon packs a punch. Watch out for the recoil.": 
+	{
+		"translation": "Esta arma de corto alcance tiene un gran impacto. cuidado con el retroceso.",
+		"machine": true
+	},
+	"Place block structures with this tool.": 
+	{
+		"translation": "Coloca estructuras de bloques con esta herramienta.",
+		"machine": true
+	},
+	"Attaches to walls. Right click to pull the wall down.": 
+	{
+		"translation": "Se adhiere a las paredes. clic derecho para derribar la pared.",
+		"machine": true
+	},
+	"Cluster Agama technology. Not much about these weapons is known.": 
+	{
+		"translation": "Tecnología Cluster Agama. no se sabe mucho sobre estas armas.",
+		"machine": true
+	},
+	"Building": 
+	{
+		"translation": "Edificio",
+		"machine": true
+	},
+	"+100 blocks\n+2 blocks build distance\n+5 block health": 
+	{
+		"translation": "+100 bloques\n+2 bloques de distancia de construcción\n+5 salud de bloque",
+		"machine": true
+	},
+	"+100 blocks\n+4 blocks build distance\n+9 block health": 
+	{
+		"translation": "+100 bloques\n+4 bloques de distancia de construcción\n+9 salud de bloque",
+		"machine": true
+	},
+	"+100 blocks\n+6 blocks build distance\n+13 block health": 
+	{
+		"translation": "+100 bloques\n+6 bloques de distancia de construcción\n+13 salud de bloque",
+		"machine": true
+	},
+	"Hydraulics": 
+	{
+		"translation": "Hidráulica",
+		"machine": true
+	},
+	"Leg servos": 
+	{
+		"translation": "Servos de pierna",
+		"machine": true
+	},
+	"Regeneration": 
+	{
+		"translation": "Regeneración",
+		"machine": true
+	},
+	"Speed": 
+	{
+		"translation": "Velocidad",
+		"machine": true
+	},
+	"Stealth": 
+	{
+		"translation": "Sigilo",
+		"machine": true
+	},
+	"Kinetic": 
+	{
+		"translation": "Cinético",
+		"machine": true
+	},
+	"Scavenger": 
+	{
+		"translation": "Carroñero",
+		"machine": true
+	},
+	"+3 blocks safe fall distance\n-15% fall damage": 
+	{
+		"translation": "+3 bloques de distancia de caída segura\n-15% de daño por caída",
+		"machine": true
+	},
+	"+400% self explosion knockback\n-10% self explosion damage": 
+	{
+		"translation": "+ 400% de retroceso de autoexplosión\n-10% de daño por autoexplosión",
+		"machine": true
+	},
+	"+20% health regeneration speed": 
+	{
+		"translation": "+ 20% de velocidad de regeneración de salud",
+		"machine": true
+	},
+	"+5% movement speed": 
+	{
+		"translation": "+ 5% de velocidad de movimiento",
+		"machine": true
+	},
+	"-40% build and dig volume\n-15% footstep volume\n-25% footstep distance": 
+	{
+		"translation": "-40% de volumen de construcción y excavación\n-15% de volumen de pisadas\n-25% de distancia entre pasos",
+		"machine": true
+	},
+	"+10% dig speed": 
+	{
+		"translation": "+ 10% de velocidad de excavación",
+		"machine": true
+	},
+	"+6 blocks safe fall distance\n-30% fall damage": 
+	{
+		"translation": "+6 bloques de distancia de caída segura\n-30% de daño por caída",
+		"machine": true
+	},
+	"+450% self explosion knockback\n-20% self explosion damage": 
+	{
+		"translation": "+ 450% de retroceso de autoexplosión\n-20% de daño por autoexplosión",
+		"machine": true
+	},
+	"+40% health regeneration speed": 
+	{
+		"translation": "+ 40% de velocidad de regeneración de salud",
+		"machine": true
+	},
+	"+10% movement speed": 
+	{
+		"translation": "+ 10% de velocidad de movimiento",
+		"machine": true
+	},
+	"-60% build and dig volume\n-30% footstep volume\n-50% footstep distance": 
+	{
+		"translation": "-60% de volumen de construcción y excavación\n-30% de volumen de pisadas\n-50% de distancia de pisada",
+		"machine": true
+	},
+	"+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup": 
+	{
+		"translation": "+ 20% de velocidad de excavación\nGana 2 bloques por bloque excavado\n+1 munición de equipo en cada recogida de munición",
+		"machine": true
+	},
+	"+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height": 
+	{
+		"translation": "+9 bloques de distancia de caída segura\n-45% de daño por caída\n+1 altura de salto de bloque",
+		"machine": true
+	},
+	"+500% self explosion knockback\n-30% self explosion damage": 
+	{
+		"translation": "+ 500% de retroceso de autoexplosión\n-30% de daño por autoexplosión",
+		"machine": true
+	},
+	"+60% health regeneration speed": 
+	{
+		"translation": "+ 60% de velocidad de regeneración de salud",
+		"machine": true
+	},
+	"+15% movement speed": 
+	{
+		"translation": "+ 15% de velocidad de movimiento",
+		"machine": true
+	},
+	"-80% build and dig volume\n-45% footstep volume\n-75% footstep distance": 
+	{
+		"translation": "-80% de volumen de construcción y excavación\n-45% de volumen de pisadas\n-75% de distancia de pisada",
+		"machine": true
+	},
+	"+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup": 
+	{
+		"translation": "+ 30% de velocidad de excavación\nGana 3 bloques por bloque excavado\n+10 de salud por recogida de munición",
+		"machine": true
+	},
+	"While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.": 
+	{
+		"translation": "Aunque no tenía experiencia, este mercenario desafió el viaje a la galaxia soltrium y busca demostrar su valía en la batalla..",
+		"machine": true
+	},
+	"This solo operative seeks nothing but victory when it comes to saving their race from destruction.": 
+	{
+		"translation": "Este operativo en solitario no busca más que la victoria cuando se trata de salvar a su raza de la destrucción..",
+		"machine": true
+	},
+	"A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.": 
+	{
+		"translation": "Un francotirador mortal a distancia y un asesino rápido de cerca, son capaces de defenderse en cualquier encuentro..",
+		"machine": true
+	},
+	"This commander lost their arm during the Flare but continues to fight for the future of their race.": 
+	{
+		"translation": "Este comandante perdió su brazo durante la bengala, pero continúa luchando por el futuro de su raza..",
+		"machine": true
+	},
+	"Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.": 
+	{
+		"translation": "Forajidos que deambulan por las afueras de la galaxia, atacando a cualquiera que se atreva a viajar solo.",
+		"machine": true
+	},
+	"This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.": 
+	{
+		"translation": "Este agaman luchó atentamente en el frente para demostrar su valía al entrar en la galaxia soltrium..",
+		"machine": true
+	},
+	"A curious one, aren't you?": 
+	{
+		"translation": "Uno curioso, ¿no es así??",
+		"machine": true
+	},
+	"This Agaman gave up everything to make the journey to the Soltrium galaxy.": 
+	{
+		"translation": "Este agaman renunció a todo para emprender el viaje a la galaxia soltrium..",
+		"machine": true
+	},
+	"This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.": 
+	{
+		"translation": "Este noble agaman fue infundido con soltrium en un experimento para producir una mezcla imparable de carne y máquina..",
+		"machine": true
+	},
+	"Click the Play tab when you are ready": 
+	{
+		"translation": "Haga clic en la pestaña de reproducción cuando esté listo",
+		"machine": true
+	},
+	"SETTINGS > PERFORMANCE > ANIMATED BLOCK SKINS must be enabled for animated block skins to render correctly": 
+	{
+		"translation": "AJUSTES> RENDIMIENTO> Las pieles de bloques animados deben estar habilitadas para que las pieles de bloques animados se representen correctamente",
+		"machine": true
+	},
+	"DRAG TO ROTATE\nSCROLL TO ZOOM\nSPACE TO AUTO ROTATE": 
+	{
+		"translation": "ARRASTRAR PARA ROTAR\nDESPLAZARSE PARA ZOOM\nESPACIO PARA ROTAR AUTOMÁTICAMENTE",
+		"machine": true
+	},
+	"Did you know": 
+	{
+		"translation": "Sabías",
+		"machine": true
+	},
+	"Press escape to cancel": 
+	{
+		"translation": "Presione escape para cancelar",
+		"machine": true
+	},
+	"Warning": 
+	{
+		"translation": "Advertencia",
+		"machine": true
+	},
+	"This is an experimental server used for testing maps created by the community. The game may not function as intended": 
+	{
+		"translation": "Este es un servidor experimental utilizado para probar mapas creados por la comunidad. es posible que el juego no funcione según lo previsto",
+		"machine": true
+	},
+	"Determining sector coordinates": 
+	{
+		"translation": "Determinando las coordenadas del sector",
+		"machine": true
+	},
+	"Calibrating thermal dampeners": 
+	{
+		"translation": "Calibración de amortiguadores térmicos",
+		"machine": true
+	},
+	"Entering planet atmosphere": 
+	{
+		"translation": "Entrando en la atmósfera del planeta",
+		"machine": true
+	},
+	"Analysing environment": 
+	{
+		"translation": "Analizando el entorno",
+		"machine": true
+	},
+	"Commencing landing procedure": 
+	{
+		"translation": "Inicio del procedimiento de aterrizaje",
+		"machine": true
+	},
+	"Respawn": 
+	{
+		"translation": "Reaparecer",
+		"machine": true
+	},
+	"Players": 
+	{
+		"translation": "Jugadores",
+		"machine": true
+	},
+	"No respawns": 
+	{
+		"translation": "Sin reapariciones",
+		"machine": true
+	},
+	"First to 5 wins": 
+	{
+		"translation": "Primero en 5 victorias",
+		"machine": true
+	},
+	"A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.": 
+	{
+		"translation": "Se ha desarrollado un mercado en la sombra en las afueras de la galaxia donde se apuesta al soltrio. es todo o nada en la arena donde los concursantes luchan por las ganancias y la supervivencia.",
+		"machine": true
+	},
+	"Start with nothing and collect weapons to eliminate the enemy team.": 
+	{
+		"translation": "Empieza sin nada y recoge armas para eliminar al equipo enemigo..",
+		"machine": true
+	},
+	"All players start with the same randomised loadout.": 
+	{
+		"translation": "Todos los jugadores comienzan con la misma carga aleatoria..",
+		"machine": true
+	},
+	"Times to win": 
+	{
+		"translation": "Tiempos para ganar",
+		"machine": true
+	},
+	"Soltrium is scattered throughout the outer sector. Various": 
+	{
+		"translation": "El soltrio se encuentra disperso por todo el sector exterior. varios",
+		"machine": true
+	},
+	"And": 
+	{
+		"translation": "Y",
+		"machine": true
+	},
+	"battalions have been dispatched to search for and collect the precious resource.": 
+	{
+		"translation": "Se han enviado batallones para buscar y recolectar el preciado recurso..",
+		"machine": true
+	},
+	"Capture 5 zones to win": 
+	{
+		"translation": "Captura 5 zonas para ganar",
+		"machine": true
+	},
+	"Control the zone to win": 
+	{
+		"translation": "Controla la zona para ganar",
+		"machine": true
+	},
+	"Deliver the bomb": 
+	{
+		"translation": "Entrega la bomba",
+		"machine": true
+	},
+	"Capture the flag": 
+	{
+		"translation": "Captura la bandera",
+		"machine": true
+	},
+	"Get two kills with every weapon, then melee to win": 
+	{
+		"translation": "Consigue dos muertes con cada arma, luego cuerpo a cuerpo para ganar.",
+		"machine": true
+	},
+	"Hold the most Soltrium to win": 
+	{
+		"translation": "Mantenga el mayor soltrio para ganar",
+		"machine": true
+	},
+	"Pick up": 
+	{
+		"translation": "Recoger",
+		"machine": true
+	},
+	"From enemy corpses": 
+	{
+		"translation": "De los cadáveres enemigos",
+		"machine": true
+	},
+	"Weapons and Mods spawn around the map": 
+	{
+		"translation": "Aparecen armas y modificaciones en el mapa.",
+		"machine": true
+	},
+	"Not bound": 
+	{
+		"translation": "No unido",
+		"machine": true
+	},
+	"You can hold": 
+	{
+		"translation": "Puedes sostener",
+		"machine": true
+	},
+	"To reveal enemy positions to teammates": 
+	{
+		"translation": "Para revelar las posiciones enemigas a los compañeros de equipo.",
+		"machine": true
+	},
+	"You can press": 
+	{
+		"translation": "Puedes presionar",
+		"machine": true
+	},
+	"To provide feedback": 
+	{
+		"translation": "Para proporcionar comentarios",
+		"machine": true
+	},
+	"Local": 
+	{
+		"translation": "Local",
+		"machine": true
+	},
+	"Subscribed": 
+	{
+		"translation": "Suscrito",
+		"machine": true
+	},
+	"Cancel": 
+	{
+		"translation": "Cancelar",
+		"machine": true
+	},
+	"Upload": 
+	{
+		"translation": "Subir",
+		"machine": true
+	},
+	"Private": 
+	{
+		"translation": "Privado",
+		"machine": true
+	},
+	"Friends only": 
+	{
+		"translation": "Solo amigos",
+		"machine": true
+	},
+	"Unlisted": 
+	{
+		"translation": "No incluido en listado",
+		"machine": true
+	},
+	"Public": 
+	{
+		"translation": "Público",
+		"machine": true
+	},
+	"Map list": 
+	{
+		"translation": "Lista de mapas",
+		"machine": true
+	},
+	"No local maps found": 
+	{
+		"translation": "No se encontraron mapas locales",
+		"machine": true
+	},
+	"No subscribed maps": 
+	{
+		"translation": "No hay mapas suscritos",
+		"machine": true
+	},
+	"Before uploading maps to the Steam workshop, you must agree to the ": 
+	{
+		"translation": "Antes de cargar mapas en Steam Workshop, debe aceptar las ",
+		"machine": true
+	},
+	"Workshop Terms of Service.": 
+	{
+		"translation": "Condiciones de servicio del taller.",
+		"machine": true
+	},
+	"Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.": 
+	{
+		"translation": "Los mapas a los que se haya suscrito en el taller aparecerán aquí. es posible que deba actualizar varias veces después de suscribirse a un nuevo mapa para que la lista se actualice por completo.",
+		"machine": true
+	},
+	"Loading map": 
+	{
+		"translation": "Cargando mapa",
+		"machine": true
+	},
+	"Uploading map to the Steam Workshop": 
+	{
+		"translation": "Subiendo mapa al taller de Steam",
+		"machine": true
+	},
+	"Committing Changes": 
+	{
+		"translation": "Confirmación de cambios",
+		"machine": true
+	},
+	"Invalid": 
+	{
+		"translation": "Inválido",
+		"machine": true
+	},
+	"Preparing Config": 
+	{
+		"translation": "Preparando la configuración",
+		"machine": true
+	},
+	"Preparing Content": 
+	{
+		"translation": "Preparando contenido",
+		"machine": true
+	},
+	"Uploading Content": 
+	{
+		"translation": "Subiendo contenido",
+		"machine": true
+	},
+	"Uploading Preview Image": 
+	{
+		"translation": "Subiendo imagen de vista previa",
+		"machine": true
+	},
+	"Upload summary": 
+	{
+		"translation": "Subir resumen",
+		"machine": true
+	},
+	"Map name": 
+	{
+		"translation": "Nombre del mapa",
+		"machine": true
+	},
+	"Description": 
+	{
+		"translation": "Descripción",
+		"machine": true
+	},
+	"Supported game modes": 
+	{
+		"translation": "Modos de juego compatibles",
+		"machine": true
+	},
+	"Visibility": 
+	{
+		"translation": "Visibilidad",
+		"machine": true
+	},
+	"Double XP + Proton Weekend! Ends in": 
+	{
+		"translation": "¡Fin de semana de doble XP + protones! termina en",
+		"machine": true
+	},
+	"day": 
+	{
+		"translation": "día",
+		"machine": true
+	},
+	"days": 
+	{
+		"translation": "dias",
+		"machine": true
+	},
+	"hour": 
+	{
+		"translation": "hora",
+		"machine": true
+	},
+	"hours": 
+	{
+		"translation": "horas",
+		"machine": true
+	},
+	"minute": 
+	{
+		"translation": "minuto",
+		"machine": true
+	},
+	"minutes": 
+	{
+		"translation": "minutos",
+		"machine": true
+	},
+	"and": 
+	{
+		"translation": "y",
+		"machine": true
+	},
+	"Playtime": 
+	{
+		"translation": "Tiempo de juego",
+		"machine": true
+	},
+	"Matches": 
+	{
+		"translation": "Coincidencias",
+		"machine": true
+	},
+	"Kills": 
+	{
+		"translation": "Mata",
+		"machine": true
+	},
+	"Deaths": 
+	{
+		"translation": "Fallecidos",
+		"machine": true
+	},
+	"Assists": 
+	{
+		"translation": "Asiste",
+		"machine": true
+	},
+	"Headshots": 
+	{
+		"translation": "Disparos a la cabeza",
+		"machine": true
+	},
+	"unavailable": 
+	{
+		"translation": "indisponible",
+		"machine": true
+	},
+	"level": 
+	{
+		"translation": "nivel",
+		"machine": true
+	},
+	"equipped": 
+	{
+		"translation": "equipado",
+		"machine": true
+	},
+	"Barrel": 
+	{
+		"translation": "Barril",
+		"machine": true
+	},
+	"Sight": 
+	{
+		"translation": "Vista",
+		"machine": true
+	},
+	"equip": 
+	{
+		"translation": "equipar",
+		"machine": true
+	},
+	"free": 
+	{
+		"translation": "libre",
+		"machine": true
+	},
+	"Drag to rotate": 
+	{
+		"translation": "Arrastra para rotar",
+		"machine": true
+	},
+	"Scroll wheel to zoom": 
+	{
+		"translation": "Rueda de desplazamiento para hacer zoom",
+		"machine": true
+	},
+	"Space to rotate": 
+	{
+		"translation": "Espacio para rotar",
+		"machine": true
+	},
+	"Join": 
+	{
+		"translation": "Unirse",
+		"machine": true
+	},
+	"This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.": 
+	{
+		"translation": "Este modo de juego se llama salvamento. dos equipos disputan un bote que contiene un recurso valioso llamado soltrio.",
+		"machine": true
+	},
+	"The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.": 
+	{
+		"translation": "El equipo con más jugadores cerca del bote extraerá soltrio y ganará puntos para su equipo. esto se puede ver en la parte superior de la pantalla.",
+		"machine": true
+	},
+	"When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!": 
+	{
+		"translation": "Cuando se agota un recipiente, se generará uno nuevo en otro lugar. el primer equipo en alcanzar los 500 puntos gana!",
+		"machine": true
+	},
+	"Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.": 
+	{
+		"translation": "Las bonificaciones de munición caen cuando un jugador muere. recógelos para obtener munición extra para tus armas y gana 2 puntos para tu equipo.",
+		"machine": true
+	},
+	"This game mode is called Breakthrough. To win, your team must control all five zones.": 
+	{
+		"translation": "Este modo de juego se llama avance. para ganar, tu equipo debe controlar las cinco zonas.",
+		"machine": true
+	},
+	"When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.": 
+	{
+		"translation": "Cuando su equipo captura una zona, se congela hasta por 20 segundos. mientras está congelado, el enemigo no puede volver a tomarlo, lo que le da a su equipo la oportunidad de avanzar a la siguiente zona.",
+		"machine": true
+	},
+	"Zones must be captured in order and cannot be back-capped.": 
+	{
+		"translation": "Las zonas se deben capturar en orden y no se pueden restringir.",
+		"machine": true
+	},
+	"This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.": 
+	{
+		"translation": "Este modo de juego se llama cambio de control. hay una zona y el objetivo es empujar esa zona hasta el territorio enemigo.",
+		"machine": true
+	},
+	"The zone will begin moving when one team has more players inside it than the other.": 
+	{
+		"translation": "La zona comenzará a moverse cuando un equipo tenga más jugadores dentro que el otro..",
+		"machine": true
+	},
+	"This game mode is called Escort. To win, your team must deliver 3 bombs.": 
+	{
+		"translation": "Este modo de juego se llama escolta. para ganar, tu equipo debe lanzar 3 bombas.",
+		"machine": true
+	},
+	"Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.": 
+	{
+		"translation": "Cada equipo tiene una bomba que debe recoger de su lado del mapa y entregarla en el sitio de la bomba enemiga..",
+		"machine": true
+	},
+	"You can either escort your bomb carrier, or defend your bomb site from the enemy.": 
+	{
+		"translation": "Puedes escoltar a tu portador de bombas o defender el sitio de la bomba del enemigo..",
+		"machine": true
+	},
+	"This game mode is called Capture the Flag. Each team has a flag that they must defend.": 
+	{
+		"translation": "Este modo de juego se llama capturar la bandera. cada equipo tiene una bandera que debe defender.",
+		"machine": true
+	},
+	"To win your team must steal the enemy flag and take it back to your base 3 times.": 
+	{
+		"translation": "Para ganar, tu equipo debe robar la bandera enemiga y llevarla de regreso a tu base 3 veces..",
+		"machine": true
+	},
+	"You can either infiltrate the enemy base, or defend your flag from the enemy.": 
+	{
+		"translation": "Puedes infiltrarte en la base enemiga o defender tu bandera del enemigo.",
+		"machine": true
+	},
+	"This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.": 
+	{
+		"translation": "Este modo de juego se llama juego de armas. cada jugador comienza con la misma arma y avanza a la siguiente arma después de obtener 2 muertes.",
+		"machine": true
+	},
+	"The stage that each player is up to is shown at the top of the screen.": 
+	{
+		"translation": "La etapa en la que se encuentra cada jugador se muestra en la parte superior de la pantalla..",
+		"machine": true
+	},
+	"To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.": 
+	{
+		"translation": "Para ganar, debes avanzar a la etapa 11 y luego matar a un enemigo con tu excavadora o tu cuchillo..",
+		"machine": true
+	},
+	"When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.": 
+	{
+		"translation": "Cuando mueras por el daño por caída o por un excavador \/ cuchillo enemigo, serás enviado de regreso a una etapa..",
+		"machine": true
+	},
+	"This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.": 
+	{
+		"translation": "Este modo de juego gratuito para todos se llama cazatalentos. para ganar, debes aguantar la mayor cantidad de soltrio cuando se acabe el tiempo.",
+		"machine": true
+	},
+	"Each player starts with nothing and collects weapons and mods from around the map.": 
+	{
+		"translation": "Cada jugador comienza sin nada y recolecta armas y modificaciones de todo el mapa..",
+		"machine": true
+	},
+	"When a player dies, they will drop their weapons, half their Soltrium and half their mods.": 
+	{
+		"translation": "Cuando un jugador muere, dejará caer sus armas, la mitad de su soltrio y la mitad de sus modificaciones..",
+		"machine": true
+	},
+	"Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.": 
+	{
+		"translation": "Elige el soltrio para ganar, pero ten cuidado, ya que el jugador con más soltrio será revelado a todos..",
+		"machine": true
+	},
+	"This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.": 
+	{
+		"translation": "Este modo de juego de arena se llama aguja. para ganar, debes eliminar al equipo enemigo 5 veces.",
+		"machine": true
+	},
+	"Each player starts with nothing and must build into the sky to pick up weapons.": 
+	{
+		"translation": "Cada jugador comienza sin nada y debe construir en el cielo para recoger armas..",
+		"machine": true
+	},
+	"This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.": 
+	{
+		"translation": "Este modo de juego de arena se llama estático. para ganar, debes eliminar al equipo enemigo 5 veces.",
+		"machine": true
+	},
+	"Each player shares the same loadout, which is randomised each round.": 
+	{
+		"translation": "Cada jugador comparte la misma carga, que se distribuye al azar en cada ronda..",
+		"machine": true
+	},
+	"Press space to continue": 
+	{
+		"translation": "presione espacio para continuar",
+		"machine": true
+	},
+	"Return to battle": 
+	{
+		"translation": "Regreso a la batalla",
+		"machine": true
+	},
+	"Round won!": 
+	{
+		"translation": "Ronda ganada!",
+		"machine": true
+	},
+	"Press": 
+	{
+		"translation": "Prensa",
+		"machine": true
+	},
+	"Or": 
+	{
+		"translation": "O",
+		"machine": true
+	},
+	"Pick up equipment": 
+	{
+		"translation": "Recoger equipo",
+		"machine": true
+	},
+	"Pick up primary": 
+	{
+		"translation": "Recoger primaria",
+		"machine": true
+	},
+	"Pick up secondary": 
+	{
+		"translation": "Recoger secundaria",
+		"machine": true
+	},
+	"Player ready": 
+	{
+		"translation": "Jugador listo",
+		"machine": true
+	},
+	"Players ready": 
+	{
+		"translation": "Jugadores listos",
+		"machine": true
+	},
+	"Starting in": 
+	{
+		"translation": "Empezando en",
+		"machine": true
+	},
+	"Second": 
+	{
+		"translation": "Segundo",
+		"machine": true
+	},
+	"Seconds": 
+	{
+		"translation": "Segundos",
+		"machine": true
+	},
+	"Available": 
+	{
+		"translation": "Disponible",
+		"machine": true
+	},
+	"Leave killcam": 
+	{
+		"translation": "Deja killcam",
+		"machine": true
+	},
+	"Continue": 
+	{
+		"translation": "Continuar",
+		"machine": true
+	},
+	"Redeploy": 
+	{
+		"translation": "Redistribuir",
+		"machine": true
+	},
+	"Confirm": 
+	{
+		"translation": "Confirmar",
+		"machine": true
+	},
+	"Spectate": 
+	{
+		"translation": "Espectate",
+		"machine": true
+	},
+	"Report player": 
+	{
+		"translation": "Reportar jugador",
+		"machine": true
+	},
+	"Lobby panel": 
+	{
+		"translation": "Panel de vestíbulo",
+		"machine": true
+	},
+	"Settings": 
+	{
+		"translation": "Ajustes",
+		"machine": true
+	},
+	"Submit feedback": 
+	{
+		"translation": "Enviar comentarios",
+		"machine": true
+	},
+	"Disconnect": 
+	{
+		"translation": "Desconectar",
+		"machine": true
+	},
+	"Contest the canister": 
+	{
+		"translation": "Competir con el bote",
+		"machine": true
+	},
+	"Returning flag": 
+	{
+		"translation": "Bandera de regreso",
+		"machine": true
+	},
+	"Defusing bomb": 
+	{
+		"translation": "Desactivando bomba",
+		"machine": true
+	},
+	"You are carrying the flag": 
+	{
+		"translation": "Llevas la bandera",
+		"machine": true
+	},
+	"You are carrying thebomb": 
+	{
+		"translation": "Llevas la bomba",
+		"machine": true
+	},
+	"To drop the flag": 
+	{
+		"translation": "Para dejar caer la bandera",
+		"machine": true
+	},
+	"To drop the bomb": 
+	{
+		"translation": "Para soltar la bomba",
+		"machine": true
+	},
+	"Stage": 
+	{
+		"translation": "Escenario",
+		"machine": true
+	},
+	"Cooldown": 
+	{
+		"translation": "Enfriarse",
+		"machine": true
+	},
+	"Equip as primary": 
+	{
+		"translation": "Equipar como primario",
+		"machine": true
+	},
+	"Equip as secondary": 
+	{
+		"translation": "Equipar como secundario",
+		"machine": true
+	},
+	"Edit loadouts": 
+	{
+		"translation": "Editar equipamientos",
+		"machine": true
+	},
+	"Modify a structure to continue": 
+	{
+		"translation": "Modificar una estructura para continuar",
+		"machine": true
+	},
+	"Head over to the shooting range": 
+	{
+		"translation": "Dirígete al campo de tiro",
+		"machine": true
+	},
+	"Select a weapon from the gun rack": 
+	{
+		"translation": "Selecciona un arma del estante de armas",
+		"machine": true
+	},
+	"Shoot the targets and try different weapons. Press": 
+	{
+		"translation": "Dispara a los objetivos y prueba diferentes armas. Prensa",
+		"machine": true
+	},
+	"To set up a loadout": 
+	{
+		"translation": "Para configurar una carga",
+		"machine": true
+	},
+	"Play a Match": 
+	{
+		"translation": "Jugar un partido",
+		"machine": true
+	},
+	"Enter Trials": 
+	{
+		"translation": "Ingresar pruebas",
+		"machine": true
+	},
+	"Replay Tutorial": 
+	{
+		"translation": "Tutorial de repetición",
+		"machine": true
+	},
+	"Reset Ship": 
+	{
+		"translation": "Restablecer barco",
+		"machine": true
+	},
+	"Level": 
+	{
+		"translation": "Nivel",
+		"machine": true
+	},
+	"Tag": 
+	{
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	"Tags": 
+	{
+		"translation": "Etiquetas",
+		"machine": true
+	},
+	"Career": 
+	{
+		"translation": "Carrera profesional",
+		"machine": true
+	},
+	"Loadout": 
+	{
+		"translation": "Equipamiento",
+		"machine": true
+	},
+	"Killed by": 
+	{
+		"translation": "Asesinado por",
+		"machine": true
+	},
+	"Join the battle": 
+	{
+		"translation": "Únete a la batalla",
+		"machine": true
+	},
+	"Linking your Twitch account": 
+	{
+		"translation": "Vinculando su cuenta de twitch",
+		"machine": true
+	},
+	"Checkout": 
+	{
+		"translation": "Verificar",
+		"machine": true
+	},
+	"Summary": 
+	{
+		"translation": "Resumen",
+		"machine": true
+	},
+	"Creator Code (Optional)": 
+	{
+		"translation": "Código de creador (opcional)",
+		"machine": true
+	},
+	"Friend username": 
+	{
+		"translation": "Nombre de usuario de amigo",
+		"machine": true
+	},
+	"Resources loading in the background": 
+	{
+		"translation": "Carga de recursos en segundo plano",
+		"machine": true
+	},
+	"Magazine": 
+	{
+		"translation": "Revista",
+		"machine": true
+	},
+	"Block": 
+	{
+		"translation": "Cuadra",
+		"machine": true
+	},
+	"Account": 
+	{
+		"translation": "Cuenta",
+		"machine": true
+	},
+	"Proton": 
+	{
+		"translation": "Protón",
+		"machine": true
+	},
+	"Protons": 
+	{
+		"translation": "Protones",
+		"machine": true
+	},
+	"Refreshing": 
+	{
+		"translation": "Refrescante",
+		"machine": true
+	},
+	"Refresh statistics": 
+	{
+		"translation": "Actualizar estadísticas",
+		"machine": true
+	},
+	"Character token": 
+	{
+		"translation": "Ficha de personaje",
+		"machine": true
+	},
+	"Character tokens": 
+	{
+		"translation": "Fichas de personaje",
+		"machine": true
+	},
+	"Player statistics": 
+	{
+		"translation": "Estadísticas del jugador",
+		"machine": true
+	},
+	"Transaction log": 
+	{
+		"translation": "Registro de transacciones",
+		"machine": true
+	},
+	"Redeem key": 
+	{
+		"translation": "Canjear clave",
+		"machine": true
+	},
+	"Provide feedback": 
+	{
+		"translation": "Suministre realimentación",
+		"machine": true
+	},
+	"View inventory": 
+	{
+		"translation": "Ver inventario",
+		"machine": true
+	},
+	"Custom lobby": 
+	{
+		"translation": "Lobby personalizado",
+		"machine": true
+	},
+	"Lobby settings": 
+	{
+		"translation": "Configuración del lobby",
+		"machine": true
+	},
+	"Password": 
+	{
+		"translation": "Clave",
+		"machine": true
+	},
+	"Minimum level": 
+	{
+		"translation": "Nivel mínimo",
+		"machine": true
+	},
+	"Maximum level": 
+	{
+		"translation": "Nivel maximo",
+		"machine": true
+	},
+	"The match will not end": 
+	{
+		"translation": "El partido no terminará",
+		"machine": true
+	},
+	"Protons, XP and stats will not be tracked": 
+	{
+		"translation": "Los protones, XP y estadísticas no serán rastreados",
+		"machine": true
+	},
+	"Infinite ammo. Type": 
+	{
+		"translation": "Munición infinita. escribe",
+		"machine": true
+	},
+	"in chat to set your spawn point": 
+	{
+		"translation": "en el chat para establecer su punto de generación",
+		"machine": true
+	},
+	"Weapon cooldowns removed. Players are invincible": 
+	{
+		"translation": "Se eliminaron los tiempos de reutilización de armas. los jugadores son invencibles",
+		"machine": true
+	},
+	"Claim": 
+	{
+		"translation": "Afirmar",
+		"machine": true
+	},
+	"Current lobby settings": 
+	{
+		"translation": "Configuración actual del lobby",
+		"machine": true
+	},
+	"Next lobby settings": 
+	{
+		"translation": "Siguiente configuración del lobby",
+		"machine": true
+	},
+	"Lobby not claimed": 
+	{
+		"translation": "Lobby no reclamado",
+		"machine": true
+	},
+	"Autobalancing Enabled": 
+	{
+		"translation": "Equilibrio automático habilitado",
+		"machine": true
+	},
+	"Autobalancing Disabled": 
+	{
+		"translation": "Equilibrio automático desactivado",
+		"machine": true
+	},
+	"Eternal Mode Enabled": 
+	{
+		"translation": "Modo eterno habilitado",
+		"machine": true
+	},
+	"Eternal Mode Disabled": 
+	{
+		"translation": "Modo eterno desactivado",
+		"machine": true
+	},
+	"Trailer Mode Enabled": 
+	{
+		"translation": "Modo de remolque habilitado",
+		"machine": true
+	},
+	"Trailer Mode Disabled": 
+	{
+		"translation": "Modo de remolque deshabilitado",
+		"machine": true
+	},
+	"Sandbox Mode Enabled": 
+	{
+		"translation": "Modo de zona de pruebas habilitado",
+		"machine": true
+	},
+	"Sandbox Mode Disabled": 
+	{
+		"translation": "Modo de zona de pruebas deshabilitado",
+		"machine": true
+	},
+	"Password Protected": 
+	{
+		"translation": "Contraseña protegida",
+		"machine": true
+	},
+	"Password protected": 
+	{
+		"translation": "Contraseña protegida",
+		"machine": true
+	},
+	"Note - claiming the lobby will restart the round": 
+	{
+		"translation": "Nota: reclamar el lobby reiniciará la ronda",
+		"machine": true
+	},
+	"Note - changing these settings will restart the round": 
+	{
+		"translation": "Nota: cambiar esta configuración reiniciará la ronda",
+		"machine": true
+	},
+	"Leave": 
+	{
+		"translation": "Abandonar",
+		"machine": true
+	},
+	"Total": 
+	{
+		"translation": "Total",
+		"machine": true
+	},
+	"Points breakdown": 
+	{
+		"translation": "Desglose de puntos",
+		"machine": true
+	},
+	"Objective": 
+	{
+		"translation": "Objetivo",
+		"machine": true
+	},
+	"Offensive time": 
+	{
+		"translation": "Tiempo ofensivo",
+		"machine": true
+	},
+	"Defensive time": 
+	{
+		"translation": "Tiempo defensivo",
+		"machine": true
+	},
+	"Ammo pickups": 
+	{
+		"translation": "Recolección de munición",
+		"machine": true
+	},
+	"Basic statistics": 
+	{
+		"translation": "Estadisticas basicas",
+		"machine": true
+	},
+	"Best kill streak": 
+	{
+		"translation": "Mejor racha de asesinatos",
+		"machine": true
+	},
+	"Blocks built": 
+	{
+		"translation": "Bloques construidos",
+		"machine": true
+	},
+	"Blocks destroyed": 
+	{
+		"translation": "Bloques destruidos",
+		"machine": true
+	},
+	"Proton breakdown": 
+	{
+		"translation": "Desglose de protones",
+		"machine": true
+	},
+	"Player points": 
+	{
+		"translation": "Puntos de jugador",
+		"machine": true
+	},
+	"Proton boost": 
+	{
+		"translation": "Impulso de protones",
+		"machine": true
+	},
+	"Peacekeeper bonus": 
+	{
+		"translation": "Bono de pacificador",
+		"machine": true
+	},
+	"Unlock": 
+	{
+		"translation": "desbloquear",
+		"machine": true
+	},
+	"CONFIRM": 
+	{
+		"translation": "CONFIRMAR",
+		"machine": true
+	},
+	"Buy now": 
+	{
+		"translation": "Comprar ahora",
+		"machine": true
+	},
+	"Use token": 
+	{
+		"translation": "Usar token",
+		"machine": true
+	},
+	"This is a gift": 
+	{
+		"translation": "Este es un regalo",
+		"machine": true
+	},
+	"Submit": 
+	{
+		"translation": "Entregar",
+		"machine": true
+	},
+	"News": 
+	{
+		"translation": "Noticias",
+		"machine": true
+	},
+	"Store": 
+	{
+		"translation": "Tienda",
+		"machine": true
+	},
+	"Play": 
+	{
+		"translation": "Tocar",
+		"machine": true
+	},
+	"Clan": 
+	{
+		"translation": "Clan",
+		"machine": true
+	},
+	"Customise": 
+	{
+		"translation": "Personalizar",
+		"machine": true
+	},
+	"Exit game": 
+	{
+		"translation": "Salir del juego",
+		"machine": true
+	},
+	"Skip tutorial": 
+	{
+		"translation": "Saltar tutorial",
+		"machine": true
+	},
+	"An update is available. Close the game and update the game through": 
+	{
+		"translation": "Hay disponible una actualización. cierra el juego y actualiza el juego a través de",
+		"machine": true
+	},
+	"Connection to": 
+	{
+		"translation": "Conexión a",
+		"machine": true
+	},
+	"failed. Online play is unavailable": 
+	{
+		"translation": "fallido. El juego en línea no está disponible",
+		"machine": true
+	},
+	"Blocks": 
+	{
+		"translation": "Bloques",
+		"machine": true
+	},
+	"Changelog": 
+	{
+		"translation": "Registro de cambios",
+		"machine": true
+	},
+	"Trials": 
+	{
+		"translation": "Ensayos",
+		"machine": true
+	},
+	"Low level": 
+	{
+		"translation": "Nivel bajo",
+		"machine": true
+	},
+	"Open": 
+	{
+		"translation": "Abierto",
+		"machine": true
+	},
+	"Custom": 
+	{
+		"translation": "Personalizado",
+		"machine": true
+	},
+	"Empty servers": 
+	{
+		"translation": "Servidores vacíos",
+		"machine": true
+	},
+	"Full servers": 
+	{
+		"translation": "Servidores completos",
+		"machine": true
+	},
+	"Character": 
+	{
+		"translation": "Personaje",
+		"machine": true
+	},
+	"Ship": 
+	{
+		"translation": "Barco",
+		"machine": true
+	},
+	"Loadouts": 
+	{
+		"translation": "Equipamientos",
+		"machine": true
+	},
+	"Weapons": 
+	{
+		"translation": "Armas",
+		"machine": true
+	},
+	"Killcam": 
+	{
+		"translation": "Killcam",
+		"machine": true
+	},
+	"Mapping": 
+	{
+		"translation": "Cartografía",
+		"machine": true
+	},
+	"Skin": 
+	{
+		"translation": "Piel",
+		"machine": true
+	},
+	"Red dot": 
+	{
+		"translation": "punto rojo",
+		"machine": true
+	},
+	"Camo": 
+	{
+		"translation": "Camuflaje",
+		"machine": true
+	},
+	"Save": 
+	{
+		"translation": "Salvar",
+		"machine": true
+	},
+	"Official": 
+	{
+		"translation": "Oficial",
+		"machine": true
+	},
+	"Workshop": 
+	{
+		"translation": "Taller",
+		"machine": true
+	},
+	"Cheating": 
+	{
+		"translation": "Infiel",
+		"machine": true
+	},
+	"Exploiting": 
+	{
+		"translation": "Explotando",
+		"machine": true
+	},
+	"Offensive profile": 
+	{
+		"translation": "Perfil ofensivo",
+		"machine": true
+	},
+	"Verbal abuse": 
+	{
+		"translation": "Abuso verbal",
+		"machine": true
+	},
+	"Scamming": 
+	{
+		"translation": "Estafa",
+		"machine": true
+	},
+	"Spamming": 
+	{
+		"translation": "Spam",
+		"machine": true
+	},
+	"Other negative behaviour": 
+	{
+		"translation": "Otro comportamiento negativo",
+		"machine": true
+	},
+	"Report": 
+	{
+		"translation": "Reporte",
+		"machine": true
+	},
+	"Metal": 
+	{
+		"translation": "Metal",
+		"machine": true
+	},
+	"Link": 
+	{
+		"translation": "Enlace",
+		"machine": true
+	},
+	"Recoil": 
+	{
+		"translation": "Retroceso",
+		"machine": true
+	},
+	"Stationary recoil": 
+	{
+		"translation": "Retroceso estacionario",
+		"machine": true
+	},
+	"Holster time": 
+	{
+		"translation": "Tiempo de pistolera",
+		"machine": true
+	},
+	"ADS time": 
+	{
+		"translation": "Tiempo de anuncios",
+		"machine": true
+	},
+	"Initial recoil": 
+	{
+		"translation": "Retroceso inicial",
+		"machine": true
+	},
+	"Shot recoil ramp": 
+	{
+		"translation": "Rampa de retroceso de tiro",
+		"machine": true
+	},
+	"Loadout power": 
+	{
+		"translation": "Poder de carga",
+		"machine": true
+	},
+	"Damage range": 
+	{
+		"translation": "Rango de daño",
+		"machine": true
+	},
+	"Projectile speed": 
+	{
+		"translation": "Velocidad de proyectil",
+		"machine": true
+	},
+	"Volume": 
+	{
+		"translation": "Volumen",
+		"machine": true
+	},
+	"Minimap invisibility": 
+	{
+		"translation": "Invisibilidad del minimapa",
+		"machine": true
+	},
+	"Pellets": 
+	{
+		"translation": "Pellets",
+		"machine": true
+	},
+	"Pellet spread": 
+	{
+		"translation": "Pellet propagación",
+		"machine": true
+	},
+	"Reload": 
+	{
+		"translation": "Recargar",
+		"machine": true
+	},
+	"Rounds": 
+	{
+		"translation": "Rondas",
+		"machine": true
+	},
+	"Player damage (body)": 
+	{
+		"translation": "Daño al jugador (cuerpo)",
+		"machine": true
+	},
+	"Player damage (head)": 
+	{
+		"translation": "Daño al jugador (cabeza)",
+		"machine": true
+	},
+	"Block damage": 
+	{
+		"translation": "Bloquear daño",
+		"machine": true
+	},
+	"RPM": 
+	{
+		"translation": "RPM",
+		"machine": true
+	},
+	"Pellet count": 
+	{
+		"translation": "Recuento de pellets",
+		"machine": true
+	},
+	"Damages through blocks and players": 
+	{
+		"translation": "Daños a través de bloques y jugadores.",
+		"machine": true
+	},
+	"Bounces 3 times": 
+	{
+		"translation": "Rebota 3 veces",
+		"machine": true
+	},
+	"Choke time": 
+	{
+		"translation": "Tiempo de estrangulamiento",
+		"machine": true
+	},
+	"Choked spread": 
+	{
+		"translation": "Propagación ahogada",
+		"machine": true
+	},
+	"Choke resets when firing": 
+	{
+		"translation": "El estrangulador se reinicia al disparar",
+		"machine": true
+	},
+	"Welded choke": 
+	{
+		"translation": "Estrangulador soldado",
+		"machine": true
+	},
+	"Automatic fire": 
+	{
+		"translation": "Fuego automático",
+		"machine": true
+	},
+	"Stats": 
+	{
+		"translation": "Estadisticas",
+		"machine": true
+	},
+	"Initiate": 
+	{
+		"translation": "Iniciado",
+		"machine": true
+	},
+	"Proficient": 
+	{
+		"translation": "Competente",
+		"machine": true
+	},
+	"Adept": 
+	{
+		"translation": "Adepto",
+		"machine": true
+	},
+	"Elite": 
+	{
+		"translation": "Élite",
+		"machine": true
+	},
+	"Expert": 
+	{
+		"translation": "Experto",
+		"machine": true
+	},
+	"Master": 
+	{
+		"translation": "Maestría",
+		"machine": true
+	},
+	"Legend": 
+	{
+		"translation": "Leyenda",
+		"machine": true
+	},
+	"Paragon": 
+	{
+		"translation": "Dechado",
+		"machine": true
+	},
+	"Incarnate": 
+	{
+		"translation": "Encarnar",
+		"machine": true
+	},
+	"Butcher": 
+	{
+		"translation": "carnicero",
+		"machine": true
+	},
+	"Swordsman": 
+	{
+		"translation": "Espadachín",
+		"machine": true
+	},
+	"Berserker": 
+	{
+		"translation": "frenético",
+		"machine": true
+	},
+	"Assassin": 
+	{
+		"translation": "Asesino",
+		"machine": true
+	},
+	"Executioner": 
+	{
+		"translation": "Verdugo",
+		"machine": true
+	},
+	"Grenadier": 
+	{
+		"translation": "Granadero",
+		"machine": true
+	},
+	"Detonator": 
+	{
+		"translation": "Detonador",
+		"machine": true
+	},
+	"Volatile": 
+	{
+		"translation": "Volátil",
+		"machine": true
+	},
+	"Catalyst": 
+	{
+		"translation": "Catalizador",
+		"machine": true
+	},
+	"Captor": 
+	{
+		"translation": "Apresador",
+		"machine": true
+	},
+	"Invader": 
+	{
+		"translation": "Invasor",
+		"machine": true
+	},
+	"Thief": 
+	{
+		"translation": "Ladrón",
+		"machine": true
+	},
+	"Reinforcer": 
+	{
+		"translation": "Reforzador",
+		"machine": true
+	},
+	"Engineer": 
+	{
+		"translation": "Ingeniero",
+		"machine": true
+	},
+	"Fabricator": 
+	{
+		"translation": "Fabricante",
+		"machine": true
+	},
+	"Architect": 
+	{
+		"translation": "Arquitecto",
+		"machine": true
+	},
+	"Sentry": 
+	{
+		"translation": "Centinela",
+		"machine": true
+	},
+	"Protector": 
+	{
+		"translation": "Protector",
+		"machine": true
+	},
+	"Sentinel": 
+	{
+		"translation": "Centinela",
+		"machine": true
+	},
+	"Guardian": 
+	{
+		"translation": "guardián",
+		"machine": true
+	},
+	"Raider": 
+	{
+		"translation": "Asaltante",
+		"machine": true
+	},
+	"Marauder": 
+	{
+		"translation": "Merodeador",
+		"machine": true
+	},
+	"Vanquisher": 
+	{
+		"translation": "Vencedor",
+		"machine": true
+	},
+	"Conquerer": 
+	{
+		"translation": "Conquistador",
+		"machine": true
+	},
+	"Terminator": 
+	{
+		"translation": "Terminator",
+		"machine": true
+	},
+	"Gunslinger": 
+	{
+		"translation": "Pistolero",
+		"machine": true
+	},
+	"Deadeye": 
+	{
+		"translation": "Vigota",
+		"machine": true
+	},
+	"Sharpshooter": 
+	{
+		"translation": "Tirador de primera",
+		"machine": true
+	},
+	"Deathbringer": 
+	{
+		"translation": "Portador de muerte",
+		"machine": true
+	},
+	"Blaster": 
+	{
+		"translation": "Desintegrador",
+		"machine": true
+	},
+	"Collider": 
+	{
+		"translation": "Colisionador",
+		"machine": true
+	},
+	"Obliterator": 
+	{
+		"translation": "Destructor",
+		"machine": true
+	},
+	"Disintegrator": 
+	{
+		"translation": "Desintegrador",
+		"machine": true
+	},
+	"Alleviator": 
+	{
+		"translation": "Aliviador",
+		"machine": true
+	},
+	"Mitigator": 
+	{
+		"translation": "Mitigador",
+		"machine": true
+	},
+	"Diminisher": 
+	{
+		"translation": "Disminuido",
+		"machine": true
+	},
+	"Recon": 
+	{
+		"translation": "Recon",
+		"machine": true
+	},
+	"Luminator": 
+	{
+		"translation": "Luminator",
+		"machine": true
+	},
+	"Coruscator": 
+	{
+		"translation": "Coruscator",
+		"machine": true
+	},
+	"Spotter": 
+	{
+		"translation": "Observador",
+		"machine": true
+	},
+	"Watchman": 
+	{
+		"translation": "Sereno",
+		"machine": true
+	},
+	"Eagle Eye": 
+	{
+		"translation": "Ojo de águila",
+		"machine": true
+	},
+	"All Seeing": 
+	{
+		"translation": "Todo lo ve",
+		"machine": true
+	},
+	"Body Guard": 
+	{
+		"translation": "Guardaespaldas",
+		"machine": true
+	},
+	"Slayer": 
+	{
+		"translation": "Asesino",
+		"machine": true
+	},
+	"Punisher": 
+	{
+		"translation": "Castigador",
+		"machine": true
+	},
+	"Midi Certified": 
+	{
+		"translation": "Certificado Midi",
+		"machine": true
+	},
+	"Maze Runner": 
+	{
+		"translation": "Corredor del laberinto",
+		"machine": true
+	},
+	"Trial Master": 
+	{
+		"translation": "Maestro de prueba",
+		"machine": true
+	},
+	"Trial Hard": 
+	{
+		"translation": "Prueba duro",
+		"machine": true
+	},
+	"Podium": 
+	{
+		"translation": "Podio",
+		"machine": true
+	},
+	"Scoreboard": 
+	{
+		"translation": "Marcador",
+		"machine": true
+	},
+	"Sensitivity": 
+	{
+		"translation": "Sensibilidad",
+		"machine": true
+	},
+	"Video": 
+	{
+		"translation": "Video",
+		"machine": true
+	},
+	"Performance": 
+	{
+		"translation": "Rendimiento",
+		"machine": true
+	},
+	"Audio": 
+	{
+		"translation": "Audio",
+		"machine": true
+	},
+	"Accessibility": 
+	{
+		"translation": "Accesibilidad",
+		"machine": true
+	},
+	"Close": 
+	{
+		"translation": "Cerrar",
+		"machine": true
+	},
+	"Peacekeeper": 
+	{
+		"translation": "Pacificador",
+		"machine": true
+	},
+	"Networking": 
+	{
+		"translation": "Redes",
+		"machine": true
+	},
+	"Serious": 
+	{
+		"translation": "Grave",
+		"machine": true
+	},
+	"Control Preferences": 
+	{
+		"translation": "Preferencias de control",
+		"machine": true
+	},
+	"Toggle Scope": 
+	{
+		"translation": "Alternar alcance",
+		"machine": true
+	},
+	"Toggle Crouch": 
+	{
+		"translation": "Alternar agacharse",
+		"machine": true
+	},
+	"Toggle Sprint": 
+	{
+		"translation": "Alternar sprint",
+		"machine": true
+	},
+	"Auto-Rotate Structures": 
+	{
+		"translation": "Estructuras de rotación automática",
+		"machine": true
+	},
+	"Chat": 
+	{
+		"translation": "Chat",
+		"machine": true
+	},
+	"Streamer Mode": 
+	{
+		"translation": "Modo streamer",
+		"machine": true
+	},
+	"Profanity Filter": 
+	{
+		"translation": "Filtro de blasfemias",
+		"machine": true
+	},
+	"Chat Timeout": 
+	{
+		"translation": "Tiempo de espera de chat",
+		"machine": true
+	},
+	"Rendering": 
+	{
+		"translation": "Representación",
+		"machine": true
+	},
+	"Green Outline for Party Members": 
+	{
+		"translation": "Contorno verde para miembros del partido.",
+		"machine": true
+	},
+	"Friendly Outline Through Walls": 
+	{
+		"translation": "Contorno amistoso a través de las paredes",
+		"machine": true
+	},
+	"Miscellaneous": 
+	{
+		"translation": "Diverso",
+		"machine": true
+	},
+	"Camera Sway": 
+	{
+		"translation": "Balanceo de la cámara",
+		"machine": true
+	},
+	"Pause when Inactive": 
+	{
+		"translation": "Pausar cuando esté inactivo",
+		"machine": true
+	},
+	"Enable Debug Logging": 
+	{
+		"translation": "Habilitar el registro de depuración",
+		"machine": true
+	},
+	"Extra Logging": 
+	{
+		"translation": "Registro adicional",
+		"machine": true
+	},
+	"Input": 
+	{
+		"translation": "Aporte",
+		"machine": true
+	},
+	"Raw Mouse Input": 
+	{
+		"translation": "Entrada del ratón en bruto",
+		"machine": true
+	},
+	"Sensitivity Multiplies": 
+	{
+		"translation": "La sensibilidad se multiplica",
+		"machine": true
+	},
+	"Invert Y Axis": 
+	{
+		"translation": "Invertir eje y",
+		"machine": true
+	},
+	"Sensitivity Values": 
+	{
+		"translation": "Valores de sensibilidad",
+		"machine": true
+	},
+	"Look Sensitivity": 
+	{
+		"translation": "Mira la sensibilidad",
+		"machine": true
+	},
+	"Ironsights Sensitivity": 
+	{
+		"translation": "Sensibilidad de Ironsights",
+		"machine": true
+	},
+	"X2 Scope Sensitivity": 
+	{
+		"translation": "Sensibilidad del osciloscopio X2",
+		"machine": true
+	},
+	"X4 Scope Sensitivity": 
+	{
+		"translation": "Sensibilidad del osciloscopio X4",
+		"machine": true
+	},
+	"Spectator Sensitivity": 
+	{
+		"translation": "Sensibilidad del espectador",
+		"machine": true
+	},
+	"Minimap": 
+	{
+		"translation": "Minimapa",
+		"machine": true
+	},
+	"Minimap Size": 
+	{
+		"translation": "Tamaño del minimapa",
+		"machine": true
+	},
+	"Minimap Zoom": 
+	{
+		"translation": "Zoom del minimapa",
+		"machine": true
+	},
+	"Damage Numbers": 
+	{
+		"translation": "Números de daños",
+		"machine": true
+	},
+	"Show in the Shooting Range": 
+	{
+		"translation": "Mostrar en el campo de tiro",
+		"machine": true
+	},
+	"Show HUD": 
+	{
+		"translation": "Mostrar el HUD",
+		"machine": true
+	},
+	"Show Kill Feed": 
+	{
+		"translation": "Mostrar feed de muertes",
+		"machine": true
+	},
+	"Show Player Names": 
+	{
+		"translation": "Mostrar nombres de jugadores",
+		"machine": true
+	},
+	"Show Enemies on the Zone Bar": 
+	{
+		"translation": "Mostrar enemigos en la barra de zona",
+		"machine": true
+	},
+	"Secret": 
+	{
+		"translation": "Secreto",
+		"machine": true
+	},
+	"This Doesn't Do Anything": 
+	{
+		"translation": "Esto no hace nada",
+		"machine": true
+	},
+	"Resolution": 
+	{
+		"translation": "Resolución",
+		"machine": true
+	},
+	"Override Screen Resolution": 
+	{
+		"translation": "Anular la resolución de la pantalla",
+		"machine": true
+	},
+	"Game Resolution X": 
+	{
+		"translation": "Resolución de juego X",
+		"machine": true
+	},
+	"Game Resolution Y": 
+	{
+		"translation": "Resolución de juego Y",
+		"machine": true
+	},
+	"Camera": 
+	{
+		"translation": "Cámara",
+		"machine": true
+	},
+	"Field of View": 
+	{
+		"translation": "Campo de visión",
+		"machine": true
+	},
+	"Degrees": 
+	{
+		"translation": "Grados",
+		"machine": true
+	},
+	"Brightness": 
+	{
+		"translation": "Brillo",
+		"machine": true
+	},
+	"Dynamic Rendering Settings": 
+	{
+		"translation": "Configuración de renderizado dinámico",
+		"machine": true
+	},
+	"Texture Quality": 
+	{
+		"translation": "Calidad de textura",
+		"machine": true
+	},
+	"Shadows": 
+	{
+		"translation": "Oscuridad",
+		"machine": true
+	},
+	"Shadow Quality": 
+	{
+		"translation": "Calidad sombra",
+		"machine": true
+	},
+	"Render Player Shadows": 
+	{
+		"translation": "Renderizar sombras de jugadores",
+		"machine": true
+	},
+	"Render Entity Shadows": 
+	{
+		"translation": "Renderizar sombras de entidades",
+		"machine": true
+	},
+	"Render Particle Shadows": 
+	{
+		"translation": "Renderizar sombras de partículas",
+		"machine": true
+	},
+	"Render Weather Particle Shadows": 
+	{
+		"translation": "Renderizar sombras de partículas meteorológicas",
+		"machine": true
+	},
+	"Render Structure Shadows": 
+	{
+		"translation": "Renderizar las sombras de la estructura",
+		"machine": true
+	},
+	"Voxel Settings": 
+	{
+		"translation": "Configuración de voxel",
+		"machine": true
+	},
+	"Render Distance": 
+	{
+		"translation": "Distancia de renderizado",
+		"machine": true
+	},
+	"Chunks": 
+	{
+		"translation": "Trozos",
+		"machine": true
+	},
+	"Max Chunk Updates": 
+	{
+		"translation": "Actualizaciones de cantidad máxima",
+		"machine": true
+	},
+	"Particle Amount": 
+	{
+		"translation": "Cantidad de partículas",
+		"machine": true
+	},
+	"Weather Particle Amount": 
+	{
+		"translation": "Cantidad de partículas climáticas",
+		"machine": true
+	},
+	"Lights": 
+	{
+		"translation": "Luces",
+		"machine": true
+	},
+	"Lighting Quality": 
+	{
+		"translation": "Calidad de iluminación",
+		"machine": true
+	},
+	"Samples": 
+	{
+		"translation": "Muestras",
+		"machine": true
+	},
+	"Bloom Strength": 
+	{
+		"translation": "Fuerza de floración",
+		"machine": true
+	},
+	"Render Bloom On Optics": 
+	{
+		"translation": "Renderizar la floración en la óptica",
+		"machine": true
+	},
+	"Render Crepuscular Rays": 
+	{
+		"translation": "Renderizar rayos crepusculares",
+		"machine": true
+	},
+	"Enable Anti-Aliasing": 
+	{
+		"translation": "Habilitar suavizado",
+		"machine": true
+	},
+	"Outer Scope Blur": 
+	{
+		"translation": "Desenfoque del alcance externo",
+		"machine": true
+	},
+	"Compatibility": 
+	{
+		"translation": "Compatibilidad",
+		"machine": true
+	},
+	"Experimental": 
+	{
+		"translation": "Experimental",
+		"machine": true
+	},
+	"Extensions": 
+	{
+		"translation": "Extensiones",
+		"machine": true
+	},
+	"Sound Effect Volume": 
+	{
+		"translation": "Volumen del efecto de sonido",
+		"machine": true
+	},
+	"Ambient Volume": 
+	{
+		"translation": "Volumen ambiental",
+		"machine": true
+	},
+	"Game Music Volume": 
+	{
+		"translation": "Volumen de la música del juego",
+		"machine": true
+	},
+	"Menu Music Volume": 
+	{
+		"translation": "Volumen de la música del menú",
+		"machine": true
+	},
+	"Personal Footsteps Volume": 
+	{
+		"translation": "Volumen de pasos personales",
+		"machine": true
+	},
+	"Team Footsteps Volume": 
+	{
+		"translation": "Volumen de pasos del equipo",
+		"machine": true
+	},
+	"Movement": 
+	{
+		"translation": "Movimiento",
+		"machine": true
+	},
+	"Actions": 
+	{
+		"translation": "Comportamiento",
+		"machine": true
+	},
+	"Weaponry": 
+	{
+		"translation": "Arsenal",
+		"machine": true
+	},
+	"Single Dig by Default": 
+	{
+		"translation": "Una sola excavación por defecto",
+		"machine": true
+	},
+	"Tools": 
+	{
+		"translation": "Instrumentos",
+		"machine": true
+	},
+	"Navigation": 
+	{
+		"translation": "Navegación",
+		"machine": true
+	},
+	"Team Colours": 
+	{
+		"translation": "Colores del equipo",
+		"machine": true
+	},
+	"Friendly Colour": 
+	{
+		"translation": "Color amigable",
+		"machine": true
+	},
+	"Party Colour": 
+	{
+		"translation": "Color de fiesta",
+		"machine": true
+	},
+	"Enemy Colour": 
+	{
+		"translation": "Color enemigo",
+		"machine": true
+	},
+	"High Quality Meshing": 
+	{
+		"translation": "Malla de alta calidad",
+		"machine": true
+	},
+	"Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.": 
+	{
+		"translation": "Dedique más tiempo a la CPU produciendo mallas mundiales de mayor calidad, lo que reduce la presión sobre la GPU.",
+		"machine": true
+	},
+	"The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.": 
+	{
+		"translation": "El juego desactivará automáticamente los efectos y reducirá la calidad del posprocesamiento para mantener los FPS altos. puede llevar hasta un minuto determinar la configuración de renderización óptima.",
+		"machine": true
+	},
+	"Polling Rate": 
+	{
+		"translation": "Tasa de sondeo",
+		"machine": true
+	},
+	"Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.": 
+	{
+		"translation": "Cambia la frecuencia con la que recibes datos de jugadores del servidor. baje este valor si está en Internet inestable o con poco ancho de banda.",
+		"machine": true
+	},
+	"Pew Pew Mode": 
+	{
+		"translation": "Modo de banco de banco",
+		"machine": true
+	},
+	"Must keep enabled at all times": 
+	{
+		"translation": "Debe mantenerse habilitado en todo momento",
+		"machine": true
+	},
+	"The size of the bottom-right minimap": 
+	{
+		"translation": "El tamaño del minimapa inferior derecho",
+		"machine": true
+	},
+	"The internal scale of the bottom-right minimap": 
+	{
+		"translation": "La escala interna del minimapa inferior derecho",
+		"machine": true
+	},
+	"The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.": 
+	{
+		"translation": "El nombre del servidor no se mostrará en el marcador y los nombres y niveles de otros jugadores se asignarán al azar..",
+		"machine": true
+	},
+	"Controls whether the in-game HUD is rendered. Shortcut:": 
+	{
+		"translation": "Controla si se procesa el HUD del juego. atajo:",
+		"machine": true
+	},
+	"Show Chat": 
+	{
+		"translation": "Mostrar chat",
+		"machine": true
+	},
+	"Controls whether the chat is rendered. Shortcut:": 
+	{
+		"translation": "Controla si se procesa el chat. atajo:",
+		"machine": true
+	},
+	"Controls whether the kill feed is rendered. Shortcut:": 
+	{
+		"translation": "Controla si se procesa el feed de eliminación. atajo:",
+		"machine": true
+	},
+	"Controls whether player names are rendered. Shortcut:": 
+	{
+		"translation": "Controla si se representan los nombres de los jugadores. atajo:",
+		"machine": true
+	},
+	"UI Scale": 
+	{
+		"translation": "Escala de la interfaz de usuario",
+		"machine": true
+	},
+	"Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS": 
+	{
+		"translation": "Las partículas se producen cuando se golpean o destruyen objetos. reducir este porcentaje aumentará los FPS",
+		"machine": true
+	},
+	"The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS": 
+	{
+		"translation": "El mapa está dividido en bloques de 32x32x32. reducir esto aumentará FPS",
+		"machine": true
+	},
+	"Max Lights": 
+	{
+		"translation": "Luces máximas",
+		"machine": true
+	},
+	"The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS": 
+	{
+		"translation": "El mundo está iluminado por luces solares, luces de bloque y destellos de boca de las armas. reducir la cantidad máxima de luces que se pueden renderizar aumentará los FPS",
+		"machine": true
+	},
+	"Max FPS": 
+	{
+		"translation": "FPS máx.",
+		"machine": true
+	},
+	"Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage": 
+	{
+		"translation": "Los fotogramas por segundo (FPS) es la cantidad de veces que el juego se actualizará cada segundo. reducir este valor disminuirá el uso de CPU y GPU",
+		"machine": true
+	},
+	"Enable SSAO": 
+	{
+		"translation": "Habilitar SSAO",
+		"machine": true
+	},
+	"Screen Space Ambient Occlusion darkens the crevices between objects": 
+	{
+		"translation": "La oclusión ambiental del espacio de la pantalla oscurece las grietas entre los objetos",
+		"machine": true
+	},
+	"Enable Bloom": 
+	{
+		"translation": "Habilitar floración",
+		"machine": true
+	},
+	"Bloom increases and blurs the brightness of emissive surfaces": 
+	{
+		"translation": "Bloom aumenta y difumina el brillo de las superficies emisoras.",
+		"machine": true
+	},
+	"Enable Bloom On Optics": 
+	{
+		"translation": "Habilitar la floración en la óptica",
+		"machine": true
+	},
+	"Enable Crepuscular Rays": 
+	{
+		"translation": "Habilitar rayos crepusculares",
+		"machine": true
+	},
+	"Crepuscular rays are shafts of lights that originate from a star": 
+	{
+		"translation": "Los rayos crepusculares son haces de luz que se originan en una estrella.",
+		"machine": true
+	},
+	"Enable Shadows": 
+	{
+		"translation": "Habilitar sombras",
+		"machine": true
+	},
+	"Parts of the map will be darkened by the shadows cast from other objects": 
+	{
+		"translation": "Partes del mapa se oscurecerán por las sombras proyectadas por otros objetos",
+		"machine": true
+	},
+	"Controls whether players from casting shadows": 
+	{
+		"translation": "Controla si los jugadores proyectan sombras",
+		"machine": true
+	},
+	"Controls whether Disruptors, C4, Scanners and Canisters cast shadows": 
+	{
+		"translation": "Controla si los disruptores, c4, escáneres y recipientes proyectan sombras",
+		"machine": true
+	},
+	"Controls whether particles cast shadows": 
+	{
+		"translation": "Controla si las partículas proyectan sombras",
+		"machine": true
+	},
+	"Controls whether leaf particles cast shadows": 
+	{
+		"translation": "Controla si las partículas de las hojas proyectan sombras",
+		"machine": true
+	},
+	"Controls whether falling structures cast shadows": 
+	{
+		"translation": "Controla si las estructuras que caen proyectan sombras",
+		"machine": true
+	},
+	"Enable Multisampling": 
+	{
+		"translation": "Habilitar multimuestreo",
+		"machine": true
+	},
+	"Multisampling smooths the edges of objects": 
+	{
+		"translation": "El multimuestreo suaviza los bordes de los objetos",
+		"machine": true
+	},
+	"Bare Minimum": 
+	{
+		"translation": "Mínimo",
+		"machine": true
+	},
+	"The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time": 
+	{
+		"translation": "El modo de renderizado mínimo básico omite todo el posprocesamiento y renderiza los objetos directamente en la pantalla. deshabilitar esto puede llevar algún tiempo",
+		"machine": true
+	},
+	"With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black": 
+	{
+		"translation": "Con el mínimo habilitado, esto controla si la región alrededor de los osciloscopios 2x y 4x está borrosa o negra",
+		"machine": true
+	},
+	"Compress Textures": 
+	{
+		"translation": "Comprimir texturas",
+		"machine": true
+	},
+	"Compressing textures will use less memory on the GPU but the game will take longer to start up": 
+	{
+		"translation": "La compresión de texturas utilizará menos memoria en la GPU, pero el juego tardará más en iniciarse.",
+		"machine": true
+	},
+	"Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes": 
+	{
+		"translation": "El registro de depuración almacena los archivos de registro en la carpeta appData \/ roaming \/ vercidium \/ log, lo que ayuda a los desarrolladores a corregir errores y bloqueos.",
+		"machine": true
+	},
+	"Enable Safe Mode": 
+	{
+		"translation": "Habilitar el modo seguro",
+		"machine": true
+	},
+	"Safe Mode prevents crashes from closing the game, but may slow the game down slightly": 
+	{
+		"translation": "El modo seguro evita que los bloqueos cierren el juego, pero puede ralentizarlo un poco.",
+		"machine": true
+	},
+	"Enable VSync": 
+	{
+		"translation": "Habilitar VSync",
+		"machine": true
+	},
+	"Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing": 
+	{
+		"translation": "La sincronización vertical hace coincidir la frecuencia de actualización del juego con la frecuencia de actualización de su monitor. habilitar esto puede arreglar el desgarro de la pantalla",
+		"machine": true
+	},
+	"Dynamic Exposure": 
+	{
+		"translation": "Exposición dinámica",
+		"machine": true
+	},
+	"Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene": 
+	{
+		"translation": "La exposición dinámica imita el ojo humano ajustando la exposición según el brillo de la escena",
+		"machine": true
+	},
+	"Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker": 
+	{
+		"translation": "Reducir la calidad de las sombras aumentará los FPS pero hará que las sombras de primeros planos parpadeen",
+		"machine": true
+	},
+	"Reducing the quality of lighting will increase FPS but pixelate lighting": 
+	{
+		"translation": "Reducir la calidad de la iluminación aumentará los FPS pero la iluminación pixelada",
+		"machine": true
+	},
+	"Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware": 
+	{
+		"translation": "Habilitar esto eliminará partes de la canalización de renderizado que son potencialmente lentas en hardware antiguo",
+		"machine": true
+	},
+	"Enable this if you are having trouble connecting to servers": 
+	{
+		"translation": "Habilite esto si tiene problemas para conectarse a los servidores",
+		"machine": true
+	},
+	"Only Scroll Weapons": 
+	{
+		"translation": "Solo armas de desplazamiento",
+		"machine": true
+	},
+	"If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools": 
+	{
+		"translation": "Si está habilitada, la rueda de desplazamiento solo rotará entre sus armas y no entre sus herramientas de construcción \/ excavación",
+		"machine": true
+	},
+	"If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity": 
+	{
+		"translation": "Si está habilitada, cada opción de sensibilidad de ironsight \/ 2x \/ 4x es un multiplicador basado en la sensibilidad de su mirada",
+		"machine": true
+	},
+	"The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage": 
+	{
+		"translation": "La cantidad de secciones del mapa que se actualizan en cada fotograma. reducir esto reducirá el uso de la CPU",
+		"machine": true
+	},
+	"Low Quality Textures": 
+	{
+		"translation": "Texturas de baja calidad",
+		"machine": true
+	},
+	"Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect": 
+	{
+		"translation": "Habilitar esto reducirá la resolución de la textura para aumentar FPS y reducir el uso de memoria. deshabilitar esto requiere un reinicio para que surta efecto",
+		"machine": true
+	},
+	"SSAO Samples": 
+	{
+		"translation": "Muestras de SSAO",
+		"machine": true
+	},
+	"Increasing this will improve the quality of Ambient Occlusion postprocessing": 
+	{
+		"translation": "Aumentar esto mejorará la calidad del posprocesamiento de oclusión ambiental.",
+		"machine": true
+	},
+	"Player Name Distance": 
+	{
+		"translation": "Distancia del nombre del jugador",
+		"machine": true
+	},
+	"This controls how far away friendly names will show": 
+	{
+		"translation": "Esto controla a qué distancia se mostrarán los nombres descriptivos.",
+		"machine": true
+	},
+	"Midi Counts as Weapon": 
+	{
+		"translation": "Midi cuenta como arma",
+		"machine": true
+	},
+	"When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them": 
+	{
+		"translation": "Cuando está deshabilitado, la estructura midi \/ digger \/ se omitirá al desplazarse por las armas y al presionar la última combinación de teclas de la herramienta no se cambiará a ellas",
+		"machine": true
+	},
+	"Automatically pause the game when you change to another window": 
+	{
+		"translation": "Pausa automáticamente el juego cuando cambias a otra ventana",
+		"machine": true
+	},
+	"Replace swear words in chat messages with delicious food": 
+	{
+		"translation": "Reemplaza las malas palabras en los mensajes de chat con comida deliciosa",
+		"machine": true
+	},
+	"Game Resolution": 
+	{
+		"translation": "Resolución del juego",
+		"machine": true
+	},
+	"Reducing this will increase FPS": 
+	{
+		"translation": "Reducir esto aumentará los FPS",
+		"machine": true
+	},
+	"Override Resolution": 
+	{
+		"translation": "Anular resolución",
+		"machine": true
+	},
+	"Enabling this will make the game render at the resolution specified below and stretch to the size of the window": 
+	{
+		"translation": "Habilitar esto hará que el juego se procese con la resolución especificada a continuación y se estire al tamaño de la ventana.",
+		"machine": true
+	},
+	"Smooth Scaling": 
+	{
+		"translation": "Escalado suave",
+		"machine": true
+	},
+	"Enabling this will reduce the pixelation of lower game resolutions": 
+	{
+		"translation": "Habilitar esto reducirá la pixelación de resoluciones de juego más bajas.",
+		"machine": true
+	},
+	"NVIDIA OpenGL Extensions": 
+	{
+		"translation": "Extensiones de NVIDIA openGL",
+		"machine": true
+	},
+	"Experimental performance setting, may crash your game. Don't enable if you haven't been told to": 
+	{
+		"translation": "La configuración de rendimiento experimental puede bloquear su juego. no habilites si no te lo han dicho",
+		"machine": true
+	},
+	"Beta Rendering": 
+	{
+		"translation": "Representación beta",
+		"machine": true
+	},
+	"New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled": 
+	{
+		"translation": "Nueva canalización de renderizado. por favor, avísele a vercidium en discordia si el juego corre más rápido \/ más lento con esto habilitado",
+		"machine": true
+	},
+	"Enable this to make": 
+	{
+		"translation": "Habilite esto para hacer",
+		"machine": true
+	},
+	"dig single blocks and": 
+	{
+		"translation": "cavar bloques individuales y",
+		"machine": true
+	},
+	"dig a 3x3x3 area": 
+	{
+		"translation": "cavar un área de 3x3x3",
+		"machine": true
+	},
+	"Show Enemies on Zone Bar": 
+	{
+		"translation": "Mostrar enemigos en la barra de zona",
+		"machine": true
+	},
+	"Forwards": 
+	{
+		"translation": "Hacia adelante",
+		"machine": true
+	},
+	"Right": 
+	{
+		"translation": "Correcto",
+		"machine": true
+	},
+	"Backwards": 
+	{
+		"translation": "Hacia atrás",
+		"machine": true
+	},
+	"Crouch": 
+	{
+		"translation": "Agacharse",
+		"machine": true
+	},
+	"Jump": 
+	{
+		"translation": "Salto",
+		"machine": true
+	},
+	"Sprint": 
+	{
+		"translation": "pique",
+		"machine": true
+	},
+	"Slide": 
+	{
+		"translation": "Diapositiva",
+		"machine": true
+	},
+	"Pick Up Primary": 
+	{
+		"translation": "Recoger primaria",
+		"machine": true
+	},
+	"Pick Up Secondary": 
+	{
+		"translation": "Recoger secundaria",
+		"machine": true
+	},
+	"Ping": 
+	{
+		"translation": "Silbido",
+		"machine": true
+	},
+	"Ping (Enemy)": 
+	{
+		"translation": "Ping (enemigo)",
+		"machine": true
+	},
+	"Ping (Caution)": 
+	{
+		"translation": "Ping (precaución)",
+		"machine": true
+	},
+	"Ping (Help)": 
+	{
+		"translation": "Ping (ayuda)",
+		"machine": true
+	},
+	"Ping (Reinforce)": 
+	{
+		"translation": "Ping (reforzar)",
+		"machine": true
+	},
+	"Ping (Destroy)": 
+	{
+		"translation": "Ping (destruir)",
+		"machine": true
+	},
+	"Shoot": 
+	{
+		"translation": "Disparo",
+		"machine": true
+	},
+	"Scope": 
+	{
+		"translation": "Alcance",
+		"machine": true
+	},
+	"Melee": 
+	{
+		"translation": "Pelea confusa",
+		"machine": true
+	},
+	"Grenade": 
+	{
+		"translation": "Granada",
+		"machine": true
+	},
+	"Midi": 
+	{
+		"translation": "Midi",
+		"machine": true
+	},
+	"Digger": 
+	{
+		"translation": "Cavador",
+		"machine": true
+	},
+	"Structure (Radial)": 
+	{
+		"translation": "Estructura (radial)",
+		"machine": true
+	},
+	"Structure (Toggle)": 
+	{
+		"translation": "Estructura (alternar)",
+		"machine": true
+	},
+	"Structure 1": 
+	{
+		"translation": "Estructura 1",
+		"machine": true
+	},
+	"Structure 2": 
+	{
+		"translation": "Estructura 2",
+		"machine": true
+	},
+	"Structure 3": 
+	{
+		"translation": "Estructura 3",
+		"machine": true
+	},
+	"Structure 4": 
+	{
+		"translation": "Estructura 4",
+		"machine": true
+	},
+	"Structure 5": 
+	{
+		"translation": "Estructura 5",
+		"machine": true
+	},
+	"Structure 6": 
+	{
+		"translation": "Estructura 6",
+		"machine": true
+	},
+	"Structure 7": 
+	{
+		"translation": "Estructura 7",
+		"machine": true
+	},
+	"Structure 8": 
+	{
+		"translation": "Estructura 8",
+		"machine": true
+	},
+	"Structure 9": 
+	{
+		"translation": "Estructura 9",
+		"machine": true
+	},
+	"Primary": 
+	{
+		"translation": "Primario",
+		"machine": true
+	},
+	"Secondary": 
+	{
+		"translation": "Secundario",
+		"machine": true
+	},
+	"Switch To Last Tool": 
+	{
+		"translation": "Cambiar a la última herramienta",
+		"machine": true
+	},
+	"Next Tool": 
+	{
+		"translation": "Siguiente herramienta",
+		"machine": true
+	},
+	"Previous Tool": 
+	{
+		"translation": "Herramienta anterior",
+		"machine": true
+	},
+	"Team Chat": 
+	{
+		"translation": "Chat de equipo",
+		"machine": true
+	},
+	"View Scoreboard": 
+	{
+		"translation": "Ver marcador",
+		"machine": true
+	},
+	"Unlock Scoreboard": 
+	{
+		"translation": "Desbloquear marcador",
+		"machine": true
+	},
+	"View Map": 
+	{
+		"translation": "Ver el mapa",
+		"machine": true
+	},
+	"Menu": 
+	{
+		"translation": "Menú",
+		"machine": true
+	},
+	"Toggle Fullscreen": 
+	{
+		"translation": "Alternar pantalla completa",
+		"machine": true
+	},
+	"Toggle UI": 
+	{
+		"translation": "Alternar interfaz de usuario",
+		"machine": true
+	},
+	"Toggle Chat": 
+	{
+		"translation": "Alternar chat",
+		"machine": true
+	},
+	"Toggle Killfeed": 
+	{
+		"translation": "Alternar killfeed",
+		"machine": true
+	},
+	"Toggle Names": 
+	{
+		"translation": "Cambiar nombres",
+		"machine": true
+	},
+	"Toggle Info Overlay": 
+	{
+		"translation": "Alternar superposición de información",
+		"machine": true
+	},
+	"Custom Map - Reload": 
+	{
+		"translation": "Mapa personalizado - recargar",
+		"machine": true
+	},
+	"Custom Map - Full Reload": 
+	{
+		"translation": "Mapa personalizado: recarga completa",
+		"machine": true
+	},
+	"Custom Map - Toggle Fall Damage": 
+	{
+		"translation": "Mapa personalizado: alternar el daño por caída",
+		"machine": true
+	},
+	"Custom Map - Toggle Fly Camera": 
+	{
+		"translation": "Mapa personalizado: alternar la cámara de vuelo",
+		"machine": true
+	},
+	"Reset UI Scale": 
+	{
+		"translation": "Restablecer la escala de la interfaz de usuario",
+		"machine": true
+	},
+	"Provide Feedback": 
+	{
+		"translation": "Suministre realimentación",
+		"machine": true
+	},
+	"News Tab": 
+	{
+		"translation": "Pestaña de noticias",
+		"machine": true
+	},
+	"Store Tab": 
+	{
+		"translation": "Pestaña tienda",
+		"machine": true
+	},
+	"Career Tab": 
+	{
+		"translation": "Ficha carrera",
+		"machine": true
+	},
+	"Play Tab": 
+	{
+		"translation": "Pestaña de reproducción",
+		"machine": true
+	},
+	"Clan Tab": 
+	{
+		"translation": "Pestaña de clan",
+		"machine": true
+	},
+	"Character Tab": 
+	{
+		"translation": "Ficha personaje",
+		"machine": true
+	},
+	"Weapons Tab": 
+	{
+		"translation": "Pestaña de armas",
+		"machine": true
+	},
+	"Loadouts Tab": 
+	{
+		"translation": "Pestaña de equipamientos",
+		"machine": true
+	},
+	"Ship Tab": 
+	{
+		"translation": "Pestaña de envío",
+		"machine": true
+	},
+	"Settings Tab": 
+	{
+		"translation": "Pestaña de configuración",
+		"machine": true
+	},
+	"Mapping Tab": 
+	{
+		"translation": "Pestaña de mapeo",
+		"machine": true
+	},
+	"Open Trial Window": 
+	{
+		"translation": "Abrir ventana de prueba",
+		"machine": true
+	},
+	"Restart Trial": 
+	{
+		"translation": "Reiniciar la prueba",
+		"machine": true
+	}
+}
