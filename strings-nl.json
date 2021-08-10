@@ -1,4302 +1,6882 @@
-{
-	"Cluster spawn": 
+[
 	{
+		"phrase": "Cluster spawn",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Cluster spawn",
 		"machine": true
 	},
-	"Damage": 
 	{
+		"phrase": "Damage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schade",
 		"machine": true
 	},
-	"Overkill": 
 	{
+		"phrase": "Overkill",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "overkill",
 		"machine": true
 	},
-	"Direct": 
 	{
+		"phrase": "Direct",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "direct",
 		"machine": true
 	},
-	"Disruptor assist": 
 	{
+		"phrase": "Disruptor assist",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Storingshulp",
 		"machine": true
 	},
-	"Headshot": 
 	{
+		"phrase": "Headshot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Hoofdschot",
 		"machine": true
 	},
-	"Kill": 
 	{
+		"phrase": "Kill",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Doden",
 		"machine": true
 	},
-	"Kill streak": 
 	{
+		"phrase": "Kill streak",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kill streak",
 		"machine": true
 	},
-	"VIP kill": 
 	{
+		"phrase": "VIP kill",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "VIP doden",
 		"machine": true
 	},
-	"VIP defend": 
 	{
+		"phrase": "VIP defend",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "VIP verdedigen",
 		"machine": true
 	},
-	"Scanner destroyed": 
 	{
+		"phrase": "Scanner destroyed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Scanner vernietigd",
 		"machine": true
 	},
-	"Scanner assist": 
 	{
+		"phrase": "Scanner assist",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Scannerhulp",
 		"machine": true
 	},
-	"C4 destroyed": 
 	{
+		"phrase": "C4 destroyed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "C4 vernietigd",
 		"machine": true
 	},
-	"Disruptor destroyed": 
 	{
+		"phrase": "Disruptor destroyed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Disruptor vernietigd",
 		"machine": true
 	},
-	"Avenger": 
 	{
+		"phrase": "Avenger",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wreker",
 		"machine": true
 	},
-	"Saviour": 
 	{
+		"phrase": "Saviour",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Redder",
 		"machine": true
 	},
-	"Flag capture": 
 	{
+		"phrase": "Flag capture",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vlag vastleggen",
 		"machine": true
 	},
-	"Flag carry": 
 	{
+		"phrase": "Flag carry",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vlag dragen",
 		"machine": true
 	},
-	"Flag return": 
 	{
+		"phrase": "Flag return",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vlag terugkeer",
 		"machine": true
 	},
-	"Flag attack": 
 	{
+		"phrase": "Flag attack",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "vlag aanval",
 		"machine": true
 	},
-	"Flag defend": 
 	{
+		"phrase": "Flag defend",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vlag verdedigen",
 		"machine": true
 	},
-	"Escort": 
 	{
+		"phrase": "Escort",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Escort",
 		"machine": true
 	},
-	"Flag carrier kill": 
 	{
+		"phrase": "Flag carrier kill",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vlaggendrager doden",
 		"machine": true
 	},
-	"Bomb deliver": 
 	{
+		"phrase": "Bomb deliver",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bom afleveren",
 		"machine": true
 	},
-	"Bomb carry": 
 	{
+		"phrase": "Bomb carry",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "bom dragen",
 		"machine": true
 	},
-	"Bomb defuse": 
 	{
+		"phrase": "Bomb defuse",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bom onschadelijk maken",
 		"machine": true
 	},
-	"Bomb attack": 
 	{
+		"phrase": "Bomb attack",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bomaanslag",
 		"machine": true
 	},
-	"Bomb defend": 
 	{
+		"phrase": "Bomb defend",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bom verdedigen",
 		"machine": true
 	},
-	"Spot assist": 
 	{
+		"phrase": "Spot assist",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spothulp",
 		"machine": true
 	},
-	"Attacking": 
 	{
+		"phrase": "Attacking",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "aanvallend",
 		"machine": true
 	},
-	"Defending": 
 	{
+		"phrase": "Defending",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verdedigen",
 		"machine": true
 	},
-	"Contesting": 
 	{
+		"phrase": "Contesting",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bestrijding",
 		"machine": true
 	},
-	"Canister capture": 
 	{
+		"phrase": "Canister capture",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Canister capture",
 		"machine": true
 	},
-	"Zone capture": 
 	{
+		"phrase": "Zone capture",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Zone vastleggen",
 		"machine": true
 	},
-	"Beacon capture": 
 	{
+		"phrase": "Beacon capture",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Baken vastleggen",
 		"machine": true
 	},
-	"Beacon destroyed": 
 	{
+		"phrase": "Beacon destroyed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Baken vernietigd",
 		"machine": true
 	},
-	"Salvage": 
 	{
+		"phrase": "Salvage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Redden",
 		"machine": true
 	},
-	"Round win": 
 	{
+		"phrase": "Round win",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ronde overwinning",
 		"machine": true
 	},
-	"Round survive": 
 	{
+		"phrase": "Round survive",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "ronde overleven",
 		"machine": true
 	},
-	"Assist": 
 	{
+		"phrase": "Assist",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Helpen",
 		"machine": true
 	},
-	"Assist counts as kill": 
 	{
+		"phrase": "Assist counts as kill",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Assist telt als kill",
 		"machine": true
 	},
-	"Fortifying": 
 	{
+		"phrase": "Fortifying",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Versterkend",
 		"machine": true
 	},
-	"Most Valuable Player": 
 	{
+		"phrase": "Most Valuable Player",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Waardevolste speler",
 		"machine": true
 	},
-	"Annihilator": 
 	{
+		"phrase": "Annihilator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "vernietiger",
 		"machine": true
 	},
-	"Marksman": 
 	{
+		"phrase": "Marksman",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Scherpschutter",
 		"machine": true
 	},
-	"Creator": 
 	{
+		"phrase": "Creator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schepper",
 		"machine": true
 	},
-	"Destroyer": 
 	{
+		"phrase": "Destroyer",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Torpedojager",
 		"machine": true
 	},
-	"Attacker": 
 	{
+		"phrase": "Attacker",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aanvaller",
 		"machine": true
 	},
-	"Defender": 
 	{
+		"phrase": "Defender",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verdediger",
 		"machine": true
 	},
-	"Impaler": 
 	{
+		"phrase": "Impaler",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spietser",
 		"machine": true
 	},
-	"Resilient": 
 	{
+		"phrase": "Resilient",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Veerkrachtig",
 		"machine": true
 	},
-	"Assistance": 
 	{
+		"phrase": "Assistance",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bijstand",
 		"machine": true
 	},
-	"Impacter": 
 	{
+		"phrase": "Impacter",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Impacter",
 		"machine": true
 	},
-	"Infiltrator": 
 	{
+		"phrase": "Infiltrator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "infiltrant",
 		"machine": true
 	},
-	"Team placement": 
 	{
+		"phrase": "Team placement",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Teamplaatsing",
 		"machine": true
 	},
-	"Connecting": 
 	{
+		"phrase": "Connecting",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verbinden",
 		"machine": true
 	},
-	"Loading Map": 
 	{
+		"phrase": "Loading Map",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kaart laden",
 		"machine": true
 	},
-	"None": 
 	{
+		"phrase": "None",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geen",
 		"machine": true
 	},
-	"Playing": 
 	{
+		"phrase": "Playing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelen",
 		"machine": true
 	},
-	"Reserved (party)": 
 	{
+		"phrase": "Reserved (party)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gereserveerd (feestje))",
 		"machine": true
 	},
-	"Selecting a team": 
 	{
+		"phrase": "Selecting a team",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Een team selecteren",
 		"machine": true
 	},
-	"Spectating": 
 	{
+		"phrase": "Spectating",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toeschouwers",
 		"machine": true
 	},
-	"Left": 
 	{
+		"phrase": "Left",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Links",
 		"machine": true
 	},
-	"Breakthrough": 
 	{
+		"phrase": "Breakthrough",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Doorbraak",
 		"machine": true
 	},
-	"Control Shift": 
 	{
+		"phrase": "Control Shift",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Besturingsverschuiving",
 		"machine": true
 	},
-	"Capture the Flag": 
 	{
+		"phrase": "Capture the Flag",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verover de vlag",
 		"machine": true
 	},
-	"Gun Game": 
 	{
+		"phrase": "Gun Game",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schietspel",
 		"machine": true
 	},
-	"Head Hunter": 
 	{
+		"phrase": "Head Hunter",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "koppen jager",
 		"machine": true
 	},
-	"Spire": 
 	{
+		"phrase": "Spire",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "torenspits",
 		"machine": true
 	},
-	"Static": 
 	{
+		"phrase": "Static",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Statisch",
 		"machine": true
 	},
-	"All": 
 	{
+		"phrase": "All",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Alle",
 		"machine": true
 	},
-	"Kicked by a moderator": 
 	{
+		"phrase": "Kicked by a moderator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geschopt door een moderator",
 		"machine": true
 	},
-	"Already in game": 
 	{
+		"phrase": "Already in game",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Al in het spel",
 		"machine": true
 	},
-	"Authentication failed": 
 	{
+		"phrase": "Authentication failed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verificatie mislukt",
 		"machine": true
 	},
-	"Banned": 
 	{
+		"phrase": "Banned",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "verboden",
 		"machine": true
 	},
-	"Disconnected": 
 	{
+		"phrase": "Disconnected",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verbinding verbroken",
 		"machine": true
 	},
-	"EAC Violation": 
 	{
+		"phrase": "EAC Violation",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "EAC-schending",
 		"machine": true
 	},
-	"Kicked for inactivity": 
 	{
+		"phrase": "Kicked for inactivity",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geschopt wegens inactiviteit",
 		"machine": true
 	},
-	"Internal error": 
 	{
+		"phrase": "Internal error",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Interne fout",
 		"machine": true
 	},
-	"Map is restoring. Try again in 10 seconds": 
 	{
+		"phrase": "Map is restoring. Try again in 10 seconds",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kaart is aan het herstellen. probeer het over 10 seconden opnieuw",
 		"machine": true
 	},
-	"Network Error": 
 	{
+		"phrase": "Network Error",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Netwerkfout",
 		"machine": true
 	},
-	"No Error": 
 	{
+		"phrase": "No Error",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geen fout",
 		"machine": true
 	},
-	"Reconnecting": 
 	{
+		"phrase": "Reconnecting",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Opnieuw verbinden",
 		"machine": true
 	},
-	"Server is restarting": 
 	{
+		"phrase": "Server is restarting",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Server wordt opnieuw opgestart",
 		"machine": true
 	},
-	"Temporarily Banned": 
 	{
+		"phrase": "Temporarily Banned",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tijdelijk verboden",
 		"machine": true
 	},
-	"Version mismatch": 
 	{
+		"phrase": "Version mismatch",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Versie komt niet overeen",
 		"machine": true
 	},
-	"Votekicked": 
 	{
+		"phrase": "Votekicked",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gestemd",
 		"machine": true
 	},
-	"Votekick still in effect": 
 	{
+		"phrase": "Votekick still in effect",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Stemkick nog steeds van kracht",
 		"machine": true
 	},
-	"Incorrect password": 
 	{
+		"phrase": "Incorrect password",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Incorrect wachtwoord",
 		"machine": true
 	},
-	"Your level is too high": 
 	{
+		"phrase": "Your level is too high",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Je niveau is te hoog",
 		"machine": true
 	},
-	"Can only claim 3 lobbies per day": 
 	{
+		"phrase": "Can only claim 3 lobbies per day",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kan slechts 3 lobby's per dag claimen",
 		"machine": true
 	},
-	"Lobby already claimed": 
 	{
+		"phrase": "Lobby already claimed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lobby al geclaimd",
 		"machine": true
 	},
-	"Min level must be lower than your own": 
 	{
+		"phrase": "Min level must be lower than your own",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Het minimumniveau moet lager zijn dan dat van jezelf",
 		"machine": true
 	},
-	"Max level must be greater than your own": 
 	{
+		"phrase": "Max level must be greater than your own",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Max niveau moet groter zijn dan je eigen niveau",
 		"machine": true
 	},
-	"Min level can't be greater than max level": 
 	{
+		"phrase": "Min level can't be greater than max level",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Min niveau kan niet groter zijn dan max niveau",
 		"machine": true
 	},
-	"You are too powerful": 
 	{
+		"phrase": "You are too powerful",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Je bent te machtig",
 		"machine": true
 	},
-	"Your level is too low": 
 	{
+		"phrase": "Your level is too low",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Je niveau is te laag",
 		"machine": true
 	},
-	"Cannot claim. Lobby has players": 
 	{
+		"phrase": "Cannot claim. Lobby has players",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kan niet claimen. lobby heeft spelers",
 		"machine": true
 	},
-	"Reserved slot expired": 
 	{
+		"phrase": "Reserved slot expired",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gereserveerd slot verlopen",
 		"machine": true
 	},
-	"Min level must be less than max level": 
 	{
+		"phrase": "Min level must be less than max level",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Min niveau moet lager zijn dan max niveau",
 		"machine": true
 	},
-	"Bot Replacement": 
 	{
+		"phrase": "Bot Replacement",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Botvervanging",
 		"machine": true
 	},
-	"Accelerator": 
 	{
+		"phrase": "Accelerator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gaspedaal",
 		"machine": true
 	},
-	"Beam splitter": 
 	{
+		"phrase": "Beam splitter",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Straalsplitser",
 		"machine": true
 	},
-	"Choke": 
 	{
+		"phrase": "Choke",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verstikken",
 		"machine": true
 	},
-	"Compressor": 
 	{
+		"phrase": "Compressor",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Compressor",
 		"machine": true
 	},
-	"Default": 
 	{
+		"phrase": "Default",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Standaard",
 		"machine": true
 	},
-	"Extended": 
 	{
+		"phrase": "Extended",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verlengd",
 		"machine": true
 	},
-	"Extendedest": 
 	{
+		"phrase": "Extendedest",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verlengde",
 		"machine": true
 	},
-	"Resonator": 
 	{
+		"phrase": "Resonator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "resonator",
 		"machine": true
 	},
-	"Silencer": 
 	{
+		"phrase": "Silencer",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geluiddemper",
 		"machine": true
 	},
-	"Medium": 
 	{
+		"phrase": "Medium",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Medium",
 		"machine": true
 	},
-	"Short": 
 	{
+		"phrase": "Short",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kort",
 		"machine": true
 	},
-	"Angled": 
 	{
+		"phrase": "Angled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "hoekig",
 		"machine": true
 	},
-	"Removed": 
 	{
+		"phrase": "Removed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "VERWIJDERD",
 		"machine": true
 	},
-	"Stubby": 
 	{
+		"phrase": "Stubby",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "stomp",
 		"machine": true
 	},
-	"Augmented": 
 	{
+		"phrase": "Augmented",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "vergroot",
 		"machine": true
 	},
-	"Buckshot": 
 	{
+		"phrase": "Buckshot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Buckshot",
 		"machine": true
 	},
-	"Burst": 
 	{
+		"phrase": "Burst",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitbarsting",
 		"machine": true
 	},
-	"Lethal": 
 	{
+		"phrase": "Lethal",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dodelijk",
 		"machine": true
 	},
-	"Heavy": 
 	{
+		"phrase": "Heavy",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Zwaar",
 		"machine": true
 	},
-	"Light": 
 	{
+		"phrase": "Light",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Licht",
 		"machine": true
 	},
-	"Piercing": 
 	{
+		"phrase": "Piercing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Piercing",
 		"machine": true
 	},
-	"Ricochet": 
 	{
+		"phrase": "Ricochet",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ricochet",
 		"machine": true
 	},
-	"Slug": 
 	{
+		"phrase": "Slug",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Naaktslak",
 		"machine": true
 	},
-	"Tow": 
 	{
+		"phrase": "Tow",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Slepen",
 		"machine": true
 	},
-	"Corrosive": 
 	{
+		"phrase": "Corrosive",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bijtend",
 		"machine": true
 	},
-	"Explosive": 
 	{
+		"phrase": "Explosive",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "explosief",
 		"machine": true
 	},
-	"Incendiary": 
 	{
+		"phrase": "Incendiary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "brandgevaarlijk",
 		"machine": true
 	},
-	"Base": 
 	{
+		"phrase": "Base",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Baseren",
 		"machine": true
 	},
-	"Tactical": 
 	{
+		"phrase": "Tactical",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tactisch",
 		"machine": true
 	},
-	"Mechanical": 
 	{
+		"phrase": "Mechanical",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Mechanisch",
 		"machine": true
 	},
-	"Advanced": 
 	{
+		"phrase": "Advanced",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geavanceerd",
 		"machine": true
 	},
-	"Welded": 
 	{
+		"phrase": "Welded",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "gelast",
 		"machine": true
 	},
-	"Pneumatic": 
 	{
+		"phrase": "Pneumatic",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "pneumatisch",
 		"machine": true
 	},
-	"Single": 
 	{
+		"phrase": "Single",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Enkel",
 		"machine": true
 	},
-	"Automatic": 
 	{
+		"phrase": "Automatic",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "automatisch",
 		"machine": true
 	},
-	"Sniper": 
 	{
+		"phrase": "Sniper",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "sluipschutter",
 		"machine": true
 	},
-	"Rifle": 
 	{
+		"phrase": "Rifle",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geweer",
 		"machine": true
 	},
-	"SMG": 
 	{
+		"phrase": "SMG",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "SMG",
 		"machine": true
 	},
-	"Shotgun": 
 	{
+		"phrase": "Shotgun",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Jachtgeweer",
 		"machine": true
 	},
-	"Pistol": 
 	{
+		"phrase": "Pistol",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Pistool",
 		"machine": true
 	},
-	"Equipment": 
 	{
+		"phrase": "Equipment",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Apparatuur",
 		"machine": true
 	},
-	"Other": 
 	{
+		"phrase": "Other",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ander",
 		"machine": true
 	},
-	"Ironsights": 
 	{
+		"phrase": "Ironsights",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ironsights",
 		"machine": true
 	},
-	"Broken Circle": 
 	{
+		"phrase": "Broken Circle",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gebroken cirkel",
 		"machine": true
 	},
-	"Broken Square": 
 	{
+		"phrase": "Broken Square",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gebroken vierkant",
 		"machine": true
 	},
-	"Chevron": 
 	{
+		"phrase": "Chevron",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Chevron",
 		"machine": true
 	},
-	"Circle Cross": 
 	{
+		"phrase": "Circle Cross",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Cirkel kruis",
 		"machine": true
 	},
-	"Dot Cross": 
 	{
+		"phrase": "Dot Cross",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Punt kruis",
 		"machine": true
 	},
-	"Dotted Cross": 
 	{
+		"phrase": "Dotted Cross",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "gestippeld kruis",
 		"machine": true
 	},
-	"Pointed Cross": 
 	{
+		"phrase": "Pointed Cross",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "puntig kruis",
 		"machine": true
 	},
-	"Sparse Dotted Cross": 
 	{
+		"phrase": "Sparse Dotted Cross",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dun gestippeld kruis",
 		"machine": true
 	},
-	"Unbroken Cross": 
 	{
+		"phrase": "Unbroken Cross",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "ongebroken kruis",
 		"machine": true
 	},
-	"2px Dot": 
 	{
+		"phrase": "2px Dot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "2px punt",
 		"machine": true
 	},
-	"4px Dot": 
 	{
+		"phrase": "4px Dot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "4px punt",
 		"machine": true
 	},
-	"6px Dot": 
 	{
+		"phrase": "6px Dot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "6px punt",
 		"machine": true
 	},
-	"8px Dot": 
 	{
+		"phrase": "8px Dot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "8px punt",
 		"machine": true
 	},
-	"Flat Dot": 
 	{
+		"phrase": "Flat Dot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "platte stip",
 		"machine": true
 	},
-	"Dot Plus": 
 	{
+		"phrase": "Dot Plus",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Punt plus",
 		"machine": true
 	},
-	"Dot Plus Circle": 
 	{
+		"phrase": "Dot Plus Circle",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Punt plus cirkel",
 		"machine": true
 	},
-	"Dot T": 
 	{
+		"phrase": "Dot T",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Punt T",
 		"machine": true
 	},
-	"Empty Plus": 
 	{
+		"phrase": "Empty Plus",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Leeg plus",
 		"machine": true
 	},
-	"Empty T": 
 	{
+		"phrase": "Empty T",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Leeg T",
 		"machine": true
 	},
-	"T Point": 
 	{
+		"phrase": "T Point",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "T-punt",
 		"machine": true
 	},
-	"T Point Round": 
 	{
+		"phrase": "T Point Round",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "T punt rond",
 		"machine": true
 	},
-	"Camoflague": 
 	{
+		"phrase": "Camoflague",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Camoflague",
 		"machine": true
 	},
-	"Metallic": 
 	{
+		"phrase": "Metallic",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Metalen",
 		"machine": true
 	},
-	"Animated": 
 	{
+		"phrase": "Animated",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "geanimeerd",
 		"machine": true
 	},
-	"Digital": 
 	{
+		"phrase": "Digital",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Digitaal",
 		"machine": true
 	},
-	"Tiger": 
 	{
+		"phrase": "Tiger",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tijger",
 		"machine": true
 	},
-	"Poly": 
 	{
+		"phrase": "Poly",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Poly",
 		"machine": true
 	},
-	"Snakeskin": 
 	{
+		"phrase": "Snakeskin",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "slangenleer",
 		"machine": true
 	},
-	"Woodland": 
 	{
+		"phrase": "Woodland",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bos",
 		"machine": true
 	},
-	"Hot Metal": 
 	{
+		"phrase": "Hot Metal",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Heet metaal",
 		"machine": true
 	},
-	"Cold Metal": 
 	{
+		"phrase": "Cold Metal",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Koud metaal",
 		"machine": true
 	},
-	"Pearl": 
 	{
+		"phrase": "Pearl",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Parel",
 		"machine": true
 	},
-	"Tracer": 
 	{
+		"phrase": "Tracer",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tracer",
 		"machine": true
 	},
-	"Fluid": 
 	{
+		"phrase": "Fluid",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vloeistof",
 		"machine": true
 	},
-	"Ember": 
 	{
+		"phrase": "Ember",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sintel",
 		"machine": true
 	},
-	"Grid": 
 	{
+		"phrase": "Grid",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Rooster",
 		"machine": true
 	},
-	"This mid-long ranged weapon is balanced for most conflicts.": 
 	{
+		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit middellange afstandswapen is gebalanceerd voor de meeste conflicten.",
 		"machine": true
 	},
-	"Mecharii technology that can be charged multiple times to produce a more powerful beam.": 
 	{
+		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Mecharii-technologie die meerdere keren kan worden opgeladen om een krachtigere straal te produceren.",
 		"machine": true
 	},
-	"Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.": 
 	{
+		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gooi met links klikken en ontploffen met rechts klikken. bij respawn zijn c4 losgekoppeld van jou en moet worden neergeschoten om te ontploffen.",
 		"machine": true
 	},
-	"This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.": 
 	{
+		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit jachtgeweer voor de middellange afstand maakt indruk op langere afstanden.\nTijdens het afbakenen zal de spreiding van de pellets in 3,0 seconden met 70% verminderen.",
 		"machine": true
 	},
-	"A testament to Aegis' advanced technology.": 
 	{
+		"phrase": "A testament to Aegis' advanced technology.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Een bewijs van de geavanceerde technologie van aegis.",
 		"machine": true
 	},
-	"Slower Midi digging that removes a 3x3x3 chunk of blocks.": 
 	{
+		"phrase": "Slower Midi digging that removes a 3x3x3 chunk of blocks.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Langzamer midi-graven dat een stuk blokken van 3x3x3 verwijdert.",
 		"machine": true
 	},
-	"Place on a block surface to electrify passing enemies. Single use only.": 
 	{
+		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Plaats op een blokoppervlak om passerende vijanden te elektriseren. eenmalig gebruik.",
 		"machine": true
 	},
-	"Allows one extra modification to be equipped.": 
 	{
+		"phrase": "Allows one extra modification to be equipped.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Maakt het mogelijk om één extra modificatie uit te rusten.",
 		"machine": true
 	},
-	"This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.": 
 	{
+		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit middellange afstandswapen lanceert onstabiele soltriumkernen die stuiteren voordat ze exploderen.",
 		"machine": true
 	},
-	"This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.": 
 	{
+		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze granaat heeft een onstabiele soltriumkern en ontploft na 3 seconden. alle spelers hebben twee granaten, maar als je dit inschakelt, blijven je granaten aan muren plakken.",
 		"machine": true
 	},
-	"Agaman technology that cuts through blocks instantly.": 
 	{
+		"phrase": "Agaman technology that cuts through blocks instantly.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Agaman-technologie die direct door blokken heen snijdt.",
 		"machine": true
 	},
-	"This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots": 
 	{
+		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit middellange afstandswapen heeft een grote clip voor onderdrukkend vuur.\nOververhit na 50 continue opnamen",
 		"machine": true
 	},
-	"Agaman technology that fires balls of plasma in quick succession.": 
 	{
+		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Agaman-technologie die plasmaballen snel achter elkaar afvuurt.",
 		"machine": true
 	},
-	"Place blocks with this tool.": 
 	{
+		"phrase": "Place blocks with this tool.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Plaats blokken met deze tool.",
 		"machine": true
 	},
-	"This mid ranged shoots Soltrium Tracer Rounds. Recharges over time and can overheat.": 
 	{
+		"phrase": "This mid ranged shoots Soltrium Tracer Rounds. Recharges over time and can overheat.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze midrange schiet soltrium tracerrondes. laadt na verloop van tijd op en kan oververhit raken.",
 		"machine": true
 	},
-	"Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.": 
 	{
+		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Destructieve agaman-technologie die soltrium-energie omzet in een explosieve bal plasma.",
 		"machine": true
 	},
-	"Paint blocks with this tool.": 
 	{
+		"phrase": "Paint blocks with this tool.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verf blokken met deze tool.",
 		"machine": true
 	},
-	"This close-mid ranged weapon shoots quickly but has a small magazine.": 
 	{
+		"phrase": "This close-mid ranged weapon shoots quickly but has a small magazine.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit wapen op korte afstand schiet snel maar heeft een klein magazijn.",
 		"machine": true
 	},
-	"Light Agaman technology. Fast firing, hard hitting.": 
 	{
+		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lichte agaman-technologie. snel vuren, hard slaan.",
 		"machine": true
 	},
-	"Heavy Agaman technology. Fires a hard-hitting ball of plasma.": 
 	{
+		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Zware agaman-technologie. vuurt een keiharde plasmabal af.",
 		"machine": true
 	},
-	"This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.": 
 	{
+		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit langeafstandswapen maakt gebruik van magnetische voortstuwing en kan worden uitgerust met een 4x richtkijker om bondgenoten op afstand te ondersteunen.",
 		"machine": true
 	},
-	"Blocks placed have +100% health.": 
 	{
+		"phrase": "Blocks placed have +100% health.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geplaatste blokken hebben +100% gezondheid.",
 		"machine": true
 	},
-	"This hard-hitting close ranged weapon contains a powerful Soltrium Core.": 
 	{
+		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit keiharde wapen op korte afstand bevat een krachtige soltriumkern.",
 		"machine": true
 	},
-	"Such a small gun. Such a massive boom.": 
 	{
+		"phrase": "Such a small gun. Such a massive boom.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Zo'n klein pistool. zo'n enorme hausse.",
 		"machine": true
 	},
-	"This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.": 
 	{
+		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit langeafstandswapen maakt gebruik van soltrium-voortstuwingstechnologie om explosieve raketten te lanceren.",
 		"machine": true
 	},
-	"Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.": 
 	{
+		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lanceert een zwevende scanbol die elke twee seconden pulseert en vijanden door muren onthult.\nScannerbollen kunnen worden neergeschoten door vijandige spelers.",
 		"machine": true
 	},
-	"Agaman technology. This close ranged weapon propels a spray of plasma": 
 	{
+		"phrase": "Agaman technology. This close ranged weapon propels a spray of plasma",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Agaman-technologie. dit wapen van dichtbij stuwt een straal plasma voort",
 		"machine": true
 	},
-	"This close ranged weapon creates a blast of shrapnel.": 
 	{
+		"phrase": "This close ranged weapon creates a blast of shrapnel.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit wapen van dichtbij veroorzaakt een explosie van granaatscherven.",
 		"machine": true
 	},
-	"This close-mid ranged weapon packs a punch. Watch out for the recoil.": 
 	{
+		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit close-mid-range wapen pakt een klap uit. pas op voor de terugslag.",
 		"machine": true
 	},
-	"Place block structures with this tool.": 
 	{
+		"phrase": "Place block structures with this tool.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Plaats blokstructuren met deze tool.",
 		"machine": true
 	},
-	"Attaches to walls. Right click to pull the wall down.": 
 	{
+		"phrase": "Attaches to walls. Right click to pull the wall down.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Hecht aan muren. klik met de rechtermuisknop om de muur naar beneden te trekken.",
 		"machine": true
 	},
-	"Cluster Agama technology. Not much about these weapons is known.": 
 	{
+		"phrase": "Cluster Agama technology. Not much about these weapons is known.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Cluster agama-technologie. er is niet veel over deze wapens bekend.",
 		"machine": true
 	},
-	"Building": 
 	{
+		"phrase": "Building",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gebouw",
 		"machine": true
 	},
-	"+100 blocks\n+2 blocks build distance\n+5 block health": 
 	{
+		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+100 blokken\n+2 blokken bouwen afstand\n+5 blok gezondheid",
 		"machine": true
 	},
-	"+100 blocks\n+4 blocks build distance\n+9 block health": 
 	{
+		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+100 blokken\n+4 blokken bouwen afstand\n+9 blok gezondheid",
 		"machine": true
 	},
-	"+100 blocks\n+6 blocks build distance\n+13 block health": 
 	{
+		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+100 blokken\n+6 blokken bouwen afstand\n+13 blok gezondheid",
 		"machine": true
 	},
-	"Hydraulics": 
 	{
+		"phrase": "Hydraulics",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Hydraulica",
 		"machine": true
 	},
-	"Leg servos": 
 	{
+		"phrase": "Leg servos",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beenservo's",
 		"machine": true
 	},
-	"Regeneration": 
 	{
+		"phrase": "Regeneration",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "regeneratie",
 		"machine": true
 	},
-	"Speed": 
 	{
+		"phrase": "Speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Snelheid",
 		"machine": true
 	},
-	"Stealth": 
 	{
+		"phrase": "Stealth",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Stealth",
 		"machine": true
 	},
-	"Kinetic": 
 	{
+		"phrase": "Kinetic",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "kinetisch",
 		"machine": true
 	},
-	"Scavenger": 
 	{
+		"phrase": "Scavenger",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "aaseter",
 		"machine": true
 	},
-	"+3 blocks safe fall distance\n-15% fall damage": 
 	{
+		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+3 blokken veilige valafstand\n-15% valschade",
 		"machine": true
 	},
-	"+400% self explosion knockback\n-10% self explosion damage": 
 	{
+		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+400% zelfexplosie terugslag\n-10% zelfexplosieschade",
 		"machine": true
 	},
-	"+20% health regeneration speed": 
 	{
+		"phrase": "+20% health regeneration speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+20% snelheid van gezondheidsregeneratie",
 		"machine": true
 	},
-	"+5% movement speed": 
 	{
+		"phrase": "+5% movement speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+5% bewegingssnelheid",
 		"machine": true
 	},
-	"-40% build and dig volume\n-15% footstep volume\n-25% footstep distance": 
 	{
+		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "-40% bouw- en graafvolume\n-15% voetstapvolume\n-25% voetstapafstand",
 		"machine": true
 	},
-	"+10% dig speed": 
 	{
+		"phrase": "+10% dig speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+10% graafsnelheid",
 		"machine": true
 	},
-	"+6 blocks safe fall distance\n-30% fall damage": 
 	{
+		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+6 blokken veilige valafstand\n-30% valschade",
 		"machine": true
 	},
-	"+450% self explosion knockback\n-20% self explosion damage": 
 	{
+		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+450% zelfexplosie terugslag\n-20% zelfexplosieschade",
 		"machine": true
 	},
-	"+40% health regeneration speed": 
 	{
+		"phrase": "+40% health regeneration speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+40% snelheid van gezondheidsregeneratie",
 		"machine": true
 	},
-	"+10% movement speed": 
 	{
+		"phrase": "+10% movement speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+10% bewegingssnelheid",
 		"machine": true
 	},
-	"-60% build and dig volume\n-30% footstep volume\n-50% footstep distance": 
 	{
+		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "-60% bouw- en graafvolume\n-30% voetstapvolume\n-50% voetstapafstand",
 		"machine": true
 	},
-	"+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup": 
 	{
+		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+20% graafsnelheid\nWin 2 blokken per gegraven blok\n+1 uitrustingsmunitie bij elke munitie-pickup",
 		"machine": true
 	},
-	"+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height": 
 	{
+		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+9 blokken veilige valafstand\n-45% valschade\n+1 blok springhoogte",
 		"machine": true
 	},
-	"+500% self explosion knockback\n-30% self explosion damage": 
 	{
+		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+500% zelfexplosie terugslag\n-30% zelfexplosieschade",
 		"machine": true
 	},
-	"+60% health regeneration speed": 
 	{
+		"phrase": "+60% health regeneration speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+60% gezondheidsregeneratiesnelheid",
 		"machine": true
 	},
-	"+15% movement speed": 
 	{
+		"phrase": "+15% movement speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+15% bewegingssnelheid",
 		"machine": true
 	},
-	"-80% build and dig volume\n-45% footstep volume\n-75% footstep distance": 
 	{
+		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "-80% bouw- en graafvolume\n-45% voetstapvolume\n-75% voetstapafstand",
 		"machine": true
 	},
-	"+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup": 
 	{
+		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "+30% graafsnelheid\nKrijg 3 blokken per gegraven blok\n+10 gezondheid per ophaling van munitie",
 		"machine": true
 	},
-	"While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.": 
 	{
+		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Hoewel onervaren, trotseerde deze huurling de reis naar het Soltrium-sterrenstelsel en probeert hij zijn waarde te bewijzen in de strijd.",
 		"machine": true
 	},
-	"This solo operative seeks nothing but victory when it comes to saving their race from destruction.": 
 	{
+		"phrase": "This solo operative seeks nothing but victory when it comes to saving their race from destruction.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze solo-agent zoekt niets anders dan overwinning als het gaat om het redden van hun ras van vernietiging.",
 		"machine": true
 	},
-	"A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.": 
 	{
+		"phrase": "A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Een dodelijke sluipschutter op afstand en een snelle moordenaar van dichtbij, ze zijn in staat om hun mannetje te staan in elke ontmoeting.",
 		"machine": true
 	},
-	"This commander lost their arm during the Flare but continues to fight for the future of their race.": 
 	{
+		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze commandant verloor zijn arm tijdens de flare, maar blijft vechten voor de toekomst van hun race.",
 		"machine": true
 	},
-	"Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.": 
 	{
+		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Outlaws die door de buitenwijken van de melkweg zwerven en iedereen aanvallen die alleen durft te reizen.",
 		"machine": true
 	},
-	"This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.": 
 	{
+		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze agaman vocht waakzaam in de frontlinie om te bewijzen dat ze het soltrium-melkwegstelsel hebben betreden.",
 		"machine": true
 	},
-	"A curious one, aren't you?": 
 	{
+		"phrase": "A curious one, aren't you?",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Een nieuwsgierige, nietwaar?",
 		"machine": true
 	},
-	"This Agaman gave up everything to make the journey to the Soltrium galaxy.": 
 	{
+		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze agaman gaf alles op om de reis naar het zonnestelsel te maken.",
 		"machine": true
 	},
-	"This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.": 
 	{
+		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze agaman highborn werd doordrenkt met soltrium in een experiment om een onstuitbare mix van vlees en machine te produceren.",
 		"machine": true
 	},
-	"Click the Play tab when you are ready": 
 	{
+		"phrase": "Click the Play tab when you are ready",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Klik op het afspeeltabblad als je klaar bent",
 		"machine": true
 	},
-	"SETTINGS > PERFORMANCE > ANIMATED BLOCK SKINS must be enabled for animated block skins to render correctly": 
 	{
+		"phrase": "SETTINGS > PERFORMANCE > ANIMATED BLOCK SKINS must be enabled for animated block skins to render correctly",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "INSTELLINGEN > PRESTATIES > GEANIMEERDE BLOKSKINS moeten zijn ingeschakeld om geanimeerde blokskins correct weer te geven",
 		"machine": true
 	},
-	"DRAG TO ROTATE\nSCROLL TO ZOOM\nSPACE TO AUTO ROTATE": 
 	{
+		"phrase": "DRAG TO ROTATE\nSCROLL TO ZOOM\nSPACE TO AUTO ROTATE",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "SLEPEN OM TE DRAAIEN\nSCROLL NAAR ZOOM\nRUIMTE VOOR AUTOMATISCH DRAAIEN",
 		"machine": true
 	},
-	"Did you know": 
 	{
+		"phrase": "Did you know",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wist u",
 		"machine": true
 	},
-	"Press escape to cancel": 
 	{
+		"phrase": "Press escape to cancel",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Druk op escape om te annuleren",
 		"machine": true
 	},
-	"Warning": 
 	{
+		"phrase": "Warning",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Waarschuwing",
 		"machine": true
 	},
-	"This is an experimental server used for testing maps created by the community. The game may not function as intended": 
 	{
+		"phrase": "This is an experimental server used for testing maps created by the community. The game may not function as intended",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit is een experimentele server die wordt gebruikt voor het testen van kaarten die door de community zijn gemaakt. het spel werkt mogelijk niet zoals bedoeld",
 		"machine": true
 	},
-	"Determining sector coordinates": 
 	{
+		"phrase": "Determining sector coordinates",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sectorcoördinaten bepalen",
 		"machine": true
 	},
-	"Calibrating thermal dampeners": 
 	{
+		"phrase": "Calibrating thermal dampeners",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Thermische dempers kalibreren",
 		"machine": true
 	},
-	"Entering planet atmosphere": 
 	{
+		"phrase": "Entering planet atmosphere",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De atmosfeer van de planeet binnengaan",
 		"machine": true
 	},
-	"Analysing environment": 
 	{
+		"phrase": "Analysing environment",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Omgeving analyseren",
 		"machine": true
 	},
-	"Commencing landing procedure": 
 	{
+		"phrase": "Commencing landing procedure",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aanvang landingsprocedure",
 		"machine": true
 	},
-	"Respawn": 
 	{
+		"phrase": "Respawn",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "respawn",
 		"machine": true
 	},
-	"Players": 
 	{
+		"phrase": "Players",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelers",
 		"machine": true
 	},
-	"No respawns": 
 	{
+		"phrase": "No respawns",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geen respawns",
 		"machine": true
 	},
-	"First to 5 wins": 
 	{
+		"phrase": "First to 5 wins",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Eerste tot 5 overwinningen",
 		"machine": true
 	},
-	"A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.": 
 	{
+		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Er heeft zich een schaduwmarkt ontwikkeld aan de rand van de melkweg waar soltrium wordt ingezet. het is alles of niets in de arena waar deelnemers vechten voor winst en overleving.",
 		"machine": true
 	},
-	"Start with nothing and collect weapons to eliminate the enemy team.": 
 	{
+		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Begin met niets en verzamel wapens om het vijandelijke team te elimineren.",
 		"machine": true
 	},
-	"All players start with the same randomised loadout.": 
 	{
+		"phrase": "All players start with the same randomised loadout.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Alle spelers beginnen met dezelfde willekeurige uitrusting.",
 		"machine": true
 	},
-	"Times to win": 
 	{
+		"phrase": "Times to win",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tijden om te winnen",
 		"machine": true
 	},
-	"Soltrium is scattered throughout the outer sector. Various": 
 	{
+		"phrase": "Soltrium is scattered throughout the outer sector. Various",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Soltrium is verspreid over de buitenste sector. verscheidene",
 		"machine": true
 	},
-	"And": 
 	{
+		"phrase": "And",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "En",
 		"machine": true
 	},
-	"battalions have been dispatched to search for and collect the precious resource.": 
 	{
+		"phrase": "battalions have been dispatched to search for and collect the precious resource.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "bataljons zijn gestuurd om de kostbare hulpbron te zoeken en te verzamelen.",
 		"machine": true
 	},
-	"Capture 5 zones to win": 
 	{
+		"phrase": "Capture 5 zones to win",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verover 5 zones om te winnen",
 		"machine": true
 	},
-	"Control the zone to win": 
 	{
+		"phrase": "Control the zone to win",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beheers de zone om te winnen",
 		"machine": true
 	},
-	"Deliver the bomb": 
 	{
+		"phrase": "Deliver the bomb",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lever de bom",
 		"machine": true
 	},
-	"Capture the flag": 
 	{
+		"phrase": "Capture the flag",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verover de vlag",
 		"machine": true
 	},
-	"Get two kills with every weapon, then melee to win": 
 	{
+		"phrase": "Get two kills with every weapon, then melee to win",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Krijg twee moorden met elk wapen, dan melee om te winnen",
 		"machine": true
 	},
-	"Hold the most Soltrium to win": 
 	{
+		"phrase": "Hold the most Soltrium to win",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Houd het meeste Soltrium om te winnen",
 		"machine": true
 	},
-	"Pick up": 
 	{
+		"phrase": "Pick up",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Oppakken",
 		"machine": true
 	},
-	"From enemy corpses": 
 	{
+		"phrase": "From enemy corpses",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Van vijandelijke lijken",
 		"machine": true
 	},
-	"Weapons and Mods spawn around the map": 
 	{
+		"phrase": "Weapons and Mods spawn around the map",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wapens en mods verschijnen op de kaart",
 		"machine": true
 	},
-	"Not bound": 
 	{
+		"phrase": "Not bound",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Niet gebonden",
 		"machine": true
 	},
-	"You can hold": 
 	{
+		"phrase": "You can hold",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Je kunt vasthouden",
 		"machine": true
 	},
-	"To reveal enemy positions to teammates": 
 	{
+		"phrase": "To reveal enemy positions to teammates",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Om vijandelijke posities aan teamgenoten te onthullen",
 		"machine": true
 	},
-	"You can press": 
 	{
+		"phrase": "You can press",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "U kunt op drukken",
 		"machine": true
 	},
-	"To provide feedback": 
 	{
+		"phrase": "To provide feedback",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Feedback geven",
 		"machine": true
 	},
-	"Local": 
 	{
+		"phrase": "Local",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "lokaal",
 		"machine": true
 	},
-	"Subscribed": 
 	{
+		"phrase": "Subscribed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geabonneerd",
 		"machine": true
 	},
-	"Cancel": 
 	{
+		"phrase": "Cancel",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Annuleren",
 		"machine": true
 	},
-	"Upload": 
 	{
+		"phrase": "Upload",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uploaden",
 		"machine": true
 	},
-	"Private": 
 	{
+		"phrase": "Private",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Privaat",
 		"machine": true
 	},
-	"Friends only": 
 	{
+		"phrase": "Friends only",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Alleen vrienden",
 		"machine": true
 	},
-	"Unlisted": 
 	{
+		"phrase": "Unlisted",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "niet vermeld",
 		"machine": true
 	},
-	"Public": 
 	{
+		"phrase": "Public",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Openbaar",
 		"machine": true
 	},
-	"Map list": 
 	{
+		"phrase": "Map list",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kaart lijst",
 		"machine": true
 	},
-	"No local maps found": 
 	{
+		"phrase": "No local maps found",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geen lokale kaarten gevonden",
 		"machine": true
 	},
-	"No subscribed maps": 
 	{
+		"phrase": "No subscribed maps",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geen geabonneerde kaarten",
 		"machine": true
 	},
-	"Before uploading maps to the Steam workshop, you must agree to the ": 
 	{
+		"phrase": "Before uploading maps to the Steam workshop, you must agree to the ",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Voordat u kaarten naar de stoomwerkplaats uploadt, moet u akkoord gaan met de ",
 		"machine": true
 	},
-	"Workshop Terms of Service.": 
 	{
+		"phrase": "Workshop Terms of Service.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Servicevoorwaarden werkplaats.",
 		"machine": true
 	},
-	"Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.": 
 	{
+		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kaarten waarop u zich in de workshop hebt geabonneerd, verschijnen hier. je moet mogelijk meerdere keren vernieuwen nadat je je hebt geabonneerd op een nieuwe kaart om de lijst volledig bij te werken.",
 		"machine": true
 	},
-	"Loading map": 
 	{
+		"phrase": "Loading map",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kaart laden",
 		"machine": true
 	},
-	"Uploading map to the Steam Workshop": 
 	{
+		"phrase": "Uploading map to the Steam Workshop",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kaart uploaden naar de stoomworkshop",
 		"machine": true
 	},
-	"Committing Changes": 
 	{
+		"phrase": "Committing Changes",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wijzigingen doorvoeren",
 		"machine": true
 	},
-	"Invalid": 
 	{
+		"phrase": "Invalid",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ongeldig",
 		"machine": true
 	},
-	"Preparing Config": 
 	{
+		"phrase": "Preparing Config",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Configuratie voorbereiden",
 		"machine": true
 	},
-	"Preparing Content": 
 	{
+		"phrase": "Preparing Content",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Inhoud voorbereiden",
 		"machine": true
 	},
-	"Uploading Content": 
 	{
+		"phrase": "Uploading Content",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Inhoud uploaden",
 		"machine": true
 	},
-	"Uploading Preview Image": 
 	{
+		"phrase": "Uploading Preview Image",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Voorbeeldafbeelding uploaden",
 		"machine": true
 	},
-	"Upload summary": 
 	{
+		"phrase": "Upload summary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Samenvatting uploaden",
 		"machine": true
 	},
-	"Map name": 
 	{
+		"phrase": "Map name",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kaartnaam",
 		"machine": true
 	},
-	"Description": 
 	{
+		"phrase": "Description",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beschrijving",
 		"machine": true
 	},
-	"Supported game modes": 
 	{
+		"phrase": "Supported game modes",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ondersteunde spelmodi",
 		"machine": true
 	},
-	"Visibility": 
 	{
+		"phrase": "Visibility",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Zichtbaarheid",
 		"machine": true
 	},
-	"Double XP + Proton Weekend! Ends in": 
 	{
+		"phrase": "Double XP + Proton Weekend! Ends in",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dubbel XP + protonenweekend! eindigt in",
 		"machine": true
 	},
-	"day": 
 	{
+		"phrase": "day",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "dag",
 		"machine": true
 	},
-	"days": 
 	{
+		"phrase": "days",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "dagen",
 		"machine": true
 	},
-	"hour": 
 	{
+		"phrase": "hour",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "uur",
 		"machine": true
 	},
-	"hours": 
 	{
+		"phrase": "hours",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "uur",
 		"machine": true
 	},
-	"minute": 
 	{
+		"phrase": "minute",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "minuut",
 		"machine": true
 	},
-	"minutes": 
 	{
+		"phrase": "minutes",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "minuten",
 		"machine": true
 	},
-	"and": 
 	{
+		"phrase": "and",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "en",
 		"machine": true
 	},
-	"Playtime": 
 	{
+		"phrase": "Playtime",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Speeltijd",
 		"machine": true
 	},
-	"Matches": 
 	{
+		"phrase": "Matches",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wedstrijden",
 		"machine": true
 	},
-	"Kills": 
 	{
+		"phrase": "Kills",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "doodt",
 		"machine": true
 	},
-	"Deaths": 
 	{
+		"phrase": "Deaths",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sterfgevallen",
 		"machine": true
 	},
-	"Assists": 
 	{
+		"phrase": "Assists",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "assists",
 		"machine": true
 	},
-	"Headshots": 
 	{
+		"phrase": "Headshots",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Headshots",
 		"machine": true
 	},
-	"unavailable": 
 	{
+		"phrase": "unavailable",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "niet beschikbaar",
 		"machine": true
 	},
-	"level": 
 	{
+		"phrase": "level",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "niveau",
 		"machine": true
 	},
-	"equipped": 
 	{
+		"phrase": "equipped",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "uitgerust",
 		"machine": true
 	},
-	"Barrel": 
 	{
+		"phrase": "Barrel",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Loop",
 		"machine": true
 	},
-	"Sight": 
 	{
+		"phrase": "Sight",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Zicht",
 		"machine": true
 	},
-	"equip": 
 	{
+		"phrase": "equip",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "uitrusten",
 		"machine": true
 	},
-	"free": 
 	{
+		"phrase": "free",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "vrij",
 		"machine": true
 	},
-	"Drag to rotate": 
 	{
+		"phrase": "Drag to rotate",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sleep om te draaien",
 		"machine": true
 	},
-	"Scroll wheel to zoom": 
 	{
+		"phrase": "Scroll wheel to zoom",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Scrollwiel om in te zoomen",
 		"machine": true
 	},
-	"Space to rotate": 
 	{
+		"phrase": "Space to rotate",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ruimte om te draaien",
 		"machine": true
 	},
-	"Join": 
 	{
+		"phrase": "Join",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Meedoen",
 		"machine": true
 	},
-	"This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.": 
 	{
+		"phrase": "This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze spelmodus wordt salvage genoemd. twee teams strijden tegen een bus die een waardevolle grondstof bevat die soltrium wordt genoemd.",
 		"machine": true
 	},
-	"The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.": 
 	{
+		"phrase": "The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Het team met de meeste spelers in de buurt van de bus zal soltrium extraheren en punten verdienen voor hun team. dit is te zien aan de bovenkant van het scherm.",
 		"machine": true
 	},
-	"When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!": 
 	{
+		"phrase": "When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wanneer een bus leeg is, zal een nieuwe ergens anders spawnen. het eerste team dat 500 punten behaalt, wint!",
 		"machine": true
 	},
-	"Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.": 
 	{
+		"phrase": "Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Munitiebonussen vallen weg als een speler sterft. pak ze op om extra munitie voor je wapens te krijgen en verdien 2 punten voor je team.",
 		"machine": true
 	},
-	"This game mode is called Breakthrough. To win, your team must control all five zones.": 
 	{
+		"phrase": "This game mode is called Breakthrough. To win, your team must control all five zones.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze spelmodus wordt doorbraak genoemd. om te winnen moet je team alle vijf de zones beheersen.",
 		"machine": true
 	},
-	"When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.": 
 	{
+		"phrase": "When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wanneer een zone wordt veroverd door je team, wordt deze maximaal 20 seconden bevroren. terwijl bevroren, kan de vijand het niet heroveren, wat je team de kans geeft om naar de volgende zone te duwen.",
 		"machine": true
 	},
-	"Zones must be captured in order and cannot be back-capped.": 
 	{
+		"phrase": "Zones must be captured in order and cannot be back-capped.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Zones moeten op volgorde worden vastgelegd en kunnen niet achteraf worden afgedekt.",
 		"machine": true
 	},
-	"This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.": 
 	{
+		"phrase": "This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze spelmodus wordt control shift genoemd. er is één zone en het doel is om die zone helemaal terug in vijandelijk gebied te duwen.",
 		"machine": true
 	},
-	"The zone will begin moving when one team has more players inside it than the other.": 
 	{
+		"phrase": "The zone will begin moving when one team has more players inside it than the other.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De zone begint te bewegen wanneer het ene team meer spelers binnen heeft dan het andere.",
 		"machine": true
 	},
-	"This game mode is called Escort. To win, your team must deliver 3 bombs.": 
 	{
+		"phrase": "This game mode is called Escort. To win, your team must deliver 3 bombs.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze spelmodus wordt escort genoemd. om te winnen moet je team 3 bommen afleveren.",
 		"machine": true
 	},
-	"Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.": 
 	{
+		"phrase": "Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Elk team heeft een bom die ze van hun kant van de kaart moeten oppakken en afleveren bij de vijandelijke bomlocatie.",
 		"machine": true
 	},
-	"You can either escort your bomb carrier, or defend your bomb site from the enemy.": 
 	{
+		"phrase": "You can either escort your bomb carrier, or defend your bomb site from the enemy.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Je kunt je bommendrager escorteren of je bomlocatie verdedigen tegen de vijand.",
 		"machine": true
 	},
-	"This game mode is called Capture the Flag. Each team has a flag that they must defend.": 
 	{
+		"phrase": "This game mode is called Capture the Flag. Each team has a flag that they must defend.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze spelmodus heet capture the flag. elk team heeft een vlag die ze moeten verdedigen.",
 		"machine": true
 	},
-	"To win your team must steal the enemy flag and take it back to your base 3 times.": 
 	{
+		"phrase": "To win your team must steal the enemy flag and take it back to your base 3 times.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Om te winnen moet je team de vijandelijke vlag stelen en 3 keer terugbrengen naar je basis.",
 		"machine": true
 	},
-	"You can either infiltrate the enemy base, or defend your flag from the enemy.": 
 	{
+		"phrase": "You can either infiltrate the enemy base, or defend your flag from the enemy.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Je kunt de vijandelijke basis infiltreren of je vlag verdedigen tegen de vijand.",
 		"machine": true
 	},
-	"This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.": 
 	{
+		"phrase": "This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze spelmodus wordt schietspel genoemd. elke speler begint met hetzelfde wapen en gaat door naar het volgende wapen na 2 kills.",
 		"machine": true
 	},
-	"The stage that each player is up to is shown at the top of the screen.": 
 	{
+		"phrase": "The stage that each player is up to is shown at the top of the screen.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Het stadium waarin elke speler zich bevindt, wordt bovenaan het scherm weergegeven.",
 		"machine": true
 	},
-	"To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.": 
 	{
+		"phrase": "To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Om te winnen moet je doorgaan naar fase 11 en dan een vijand doden met je graafmachine of je mes.",
 		"machine": true
 	},
-	"When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.": 
 	{
+		"phrase": "When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Als je sterft aan valschade of een vijandige graafmachine \/ mes, word je één fase teruggestuurd.",
 		"machine": true
 	},
-	"This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.": 
 	{
+		"phrase": "This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze gratis spelmodus wordt headhunter genoemd. om te winnen, moet je het meeste soltrium vasthouden als de timer afloopt.",
 		"machine": true
 	},
-	"Each player starts with nothing and collects weapons and mods from around the map.": 
 	{
+		"phrase": "Each player starts with nothing and collects weapons and mods from around the map.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Elke speler begint met niets en verzamelt wapens en mods van over de hele kaart.",
 		"machine": true
 	},
-	"When a player dies, they will drop their weapons, half their Soltrium and half their mods.": 
 	{
+		"phrase": "When a player dies, they will drop their weapons, half their Soltrium and half their mods.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wanneer een speler sterft, laten ze hun wapens, de helft van hun soltrium en de helft van hun mods vallen.",
 		"machine": true
 	},
-	"Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.": 
 	{
+		"phrase": "Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Raap soltrium op om te winnen, maar wees voorzichtig, want de speler met het meeste soltrium wordt aan iedereen onthuld.",
 		"machine": true
 	},
-	"This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.": 
 	{
+		"phrase": "This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze arena-spelmodus wordt spits genoemd. om te winnen, moet je het vijandelijke team 5 keer uitschakelen.",
 		"machine": true
 	},
-	"Each player starts with nothing and must build into the sky to pick up weapons.": 
 	{
+		"phrase": "Each player starts with nothing and must build into the sky to pick up weapons.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Elke speler begint met niets en moet in de lucht bouwen om wapens op te pakken.",
 		"machine": true
 	},
-	"This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.": 
 	{
+		"phrase": "This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deze arena-spelmodus wordt statisch genoemd. om te winnen, moet je het vijandelijke team 5 keer uitschakelen.",
 		"machine": true
 	},
-	"Each player shares the same loadout, which is randomised each round.": 
 	{
+		"phrase": "Each player shares the same loadout, which is randomised each round.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Elke speler deelt dezelfde uitrusting, die elke ronde willekeurig wordt verdeeld.",
 		"machine": true
 	},
-	"Press space to continue": 
 	{
+		"phrase": "Press space to continue",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Druk op de spatiebalk om verder te gaan",
 		"machine": true
 	},
-	"Return to battle": 
 	{
+		"phrase": "Return to battle",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Keer terug naar de strijd",
 		"machine": true
 	},
-	"Round won!": 
 	{
+		"phrase": "Round won!",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ronde gewonnen!",
 		"machine": true
 	},
-	"Press": 
 	{
+		"phrase": "Press",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "druk op",
 		"machine": true
 	},
-	"Or": 
 	{
+		"phrase": "Or",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Of",
 		"machine": true
 	},
-	"Pick up equipment": 
 	{
+		"phrase": "Pick up equipment",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Apparatuur ophalen",
 		"machine": true
 	},
-	"Pick up primary": 
 	{
+		"phrase": "Pick up primary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Primair ophalen",
 		"machine": true
 	},
-	"Pick up secondary": 
 	{
+		"phrase": "Pick up secondary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ophalen secundair",
 		"machine": true
 	},
-	"Player ready": 
 	{
+		"phrase": "Player ready",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Speler klaar",
 		"machine": true
 	},
-	"Players ready": 
 	{
+		"phrase": "Players ready",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelers klaar",
 		"machine": true
 	},
-	"Starting in": 
 	{
+		"phrase": "Starting in",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "beginnend in",
 		"machine": true
 	},
-	"Second": 
 	{
+		"phrase": "Second",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tweede",
 		"machine": true
 	},
-	"Seconds": 
 	{
+		"phrase": "Seconds",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "seconden",
 		"machine": true
 	},
-	"Available": 
 	{
+		"phrase": "Available",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beschikbaar",
 		"machine": true
 	},
-	"Leave killcam": 
 	{
+		"phrase": "Leave killcam",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verlaat killcam",
 		"machine": true
 	},
-	"Continue": 
 	{
+		"phrase": "Continue",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Doorgaan met",
 		"machine": true
 	},
-	"Redeploy": 
 	{
+		"phrase": "Redeploy",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Opnieuw inzetten",
 		"machine": true
 	},
-	"Confirm": 
 	{
+		"phrase": "Confirm",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bevestigen",
 		"machine": true
 	},
-	"Spectate": 
 	{
+		"phrase": "Spectate",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toeschouwer",
 		"machine": true
 	},
-	"Report player": 
 	{
+		"phrase": "Report player",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Rapporteer speler",
 		"machine": true
 	},
-	"Lobby panel": 
 	{
+		"phrase": "Lobby panel",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lobbypaneel",
 		"machine": true
 	},
-	"Settings": 
 	{
+		"phrase": "Settings",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Instellingen",
 		"machine": true
 	},
-	"Submit feedback": 
 	{
+		"phrase": "Submit feedback",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Feedback verzenden",
 		"machine": true
 	},
-	"Disconnect": 
 	{
+		"phrase": "Disconnect",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "verbinding verbreken",
 		"machine": true
 	},
-	"Contest the canister": 
 	{
+		"phrase": "Contest the canister",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bestrijd de bus",
 		"machine": true
 	},
-	"Returning flag": 
 	{
+		"phrase": "Returning flag",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Terugkerende vlag",
 		"machine": true
 	},
-	"Defusing bomb": 
 	{
+		"phrase": "Defusing bomb",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "bom onschadelijk maken",
 		"machine": true
 	},
-	"You are carrying the flag": 
 	{
+		"phrase": "You are carrying the flag",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Jij draagt de vlag",
 		"machine": true
 	},
-	"You are carrying the bomb": 
 	{
+		"phrase": "You are carrying the bomb",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Jij draagt de bom",
 		"machine": true
 	},
-	"To drop the flag": 
 	{
+		"phrase": "To drop the flag",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Om de vlag te laten vallen",
 		"machine": true
 	},
-	"To drop the bomb": 
 	{
+		"phrase": "To drop the bomb",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Om de bom te laten vallen",
 		"machine": true
 	},
-	"Stage": 
 	{
+		"phrase": "Stage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Fase",
 		"machine": true
 	},
-	"Cooldown": 
 	{
+		"phrase": "Cooldown",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Afkoelen",
 		"machine": true
 	},
-	"Equip as primary": 
 	{
+		"phrase": "Equip as primary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitrusten als primair",
 		"machine": true
 	},
-	"Equip as secondary": 
 	{
+		"phrase": "Equip as secondary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitrusten als secundair",
 		"machine": true
 	},
-	"Edit loadouts": 
 	{
+		"phrase": "Edit loadouts",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitrustingen bewerken",
 		"machine": true
 	},
-	"Modify a structure to continue": 
 	{
+		"phrase": "Modify a structure to continue",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wijzig een structuur om door te gaan",
 		"machine": true
 	},
-	"Head over to the shooting range": 
 	{
+		"phrase": "Head over to the shooting range",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ga naar de schietbaan",
 		"machine": true
 	},
-	"Select a weapon from the gun rack": 
 	{
+		"phrase": "Select a weapon from the gun rack",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kies een wapen uit het wapenrek",
 		"machine": true
 	},
-	"Shoot the targets and try different weapons. Press": 
 	{
+		"phrase": "Shoot the targets and try different weapons. Press",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schiet op de doelen en probeer verschillende wapens. druk op",
 		"machine": true
 	},
-	"To set up a loadout": 
 	{
+		"phrase": "To set up a loadout",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Een uitrusting instellen",
 		"machine": true
 	},
-	"Play a Match": 
 	{
+		"phrase": "Play a Match",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Speel een wedstrijd",
 		"machine": true
 	},
-	"Enter Trials": 
 	{
+		"phrase": "Enter Trials",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Voer proefversies in",
 		"machine": true
 	},
-	"Replay Tutorial": 
 	{
+		"phrase": "Replay Tutorial",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Zelfstudie herhalen",
 		"machine": true
 	},
-	"Reset Ship": 
 	{
+		"phrase": "Reset Ship",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schip resetten",
 		"machine": true
 	},
-	"Level": 
 	{
+		"phrase": "Level",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Niveau",
 		"machine": true
 	},
-	"Tag": 
 	{
+		"phrase": "Tag",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Label",
 		"machine": true
 	},
-	"Tags": 
 	{
+		"phrase": "Tags",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tags",
 		"machine": true
 	},
-	"Career": 
 	{
+		"phrase": "Career",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Carrière",
 		"machine": true
 	},
-	"Loadout": 
 	{
+		"phrase": "Loadout",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitlading",
 		"machine": true
 	},
-	"Killed by": 
 	{
+		"phrase": "Killed by",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gedood door",
 		"machine": true
 	},
-	"Join the battle": 
 	{
+		"phrase": "Join the battle",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Doe mee aan de strijd",
 		"machine": true
 	},
-	"Linking your Twitch account": 
 	{
+		"phrase": "Linking your Twitch account",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Je twitch-account koppelen",
 		"machine": true
 	},
-	"Checkout": 
 	{
+		"phrase": "Checkout",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitchecken",
 		"machine": true
 	},
-	"Summary": 
 	{
+		"phrase": "Summary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Overzicht",
 		"machine": true
 	},
-	"Creator Code (Optional)": 
 	{
+		"phrase": "Creator Code (Optional)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Makercode (optioneel)",
 		"machine": true
 	},
-	"Friend username": 
 	{
+		"phrase": "Friend username",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "gebruikersnaam van vriend",
 		"machine": true
 	},
-	"Resources loading in the background": 
 	{
+		"phrase": "Resources loading in the background",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bronnen laden op de achtergrond",
 		"machine": true
 	},
-	"Magazine": 
 	{
+		"phrase": "Magazine",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tijdschrift",
 		"machine": true
 	},
-	"Block": 
 	{
+		"phrase": "Block",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Blok",
 		"machine": true
 	},
-	"Account": 
 	{
+		"phrase": "Account",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Rekening",
 		"machine": true
 	},
-	"Proton": 
 	{
+		"phrase": "Proton",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Proton",
 		"machine": true
 	},
-	"Protons": 
 	{
+		"phrase": "Protons",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "protonen",
 		"machine": true
 	},
-	"Refreshing": 
 	{
+		"phrase": "Refreshing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verfrissend",
 		"machine": true
 	},
-	"Refresh statistics": 
 	{
+		"phrase": "Refresh statistics",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Statistieken vernieuwen",
 		"machine": true
 	},
-	"Character token": 
 	{
+		"phrase": "Character token",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Karakter token",
 		"machine": true
 	},
-	"Character tokens": 
 	{
+		"phrase": "Character tokens",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Karakter tokens",
 		"machine": true
 	},
-	"Player statistics": 
 	{
+		"phrase": "Player statistics",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelerstatistieken",
 		"machine": true
 	},
-	"Transaction log": 
 	{
+		"phrase": "Transaction log",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Transactielogboek",
 		"machine": true
 	},
-	"Redeem key": 
 	{
+		"phrase": "Redeem key",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sleutel inwisselen",
 		"machine": true
 	},
-	"Provide feedback": 
 	{
+		"phrase": "Provide feedback",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geef feedback",
 		"machine": true
 	},
-	"View inventory": 
 	{
+		"phrase": "View inventory",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bekijk inventaris",
 		"machine": true
 	},
-	"Custom lobby": 
 	{
+		"phrase": "Custom lobby",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aangepaste lobby",
 		"machine": true
 	},
-	"Lobby settings": 
 	{
+		"phrase": "Lobby settings",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lobby-instellingen",
 		"machine": true
 	},
-	"Password": 
 	{
+		"phrase": "Password",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wachtwoord",
 		"machine": true
 	},
-	"Minimum level": 
 	{
+		"phrase": "Minimum level",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Minimaal niveau",
 		"machine": true
 	},
-	"Maximum level": 
 	{
+		"phrase": "Maximum level",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Maximaal niveau",
 		"machine": true
 	},
-	"The match will not end": 
 	{
+		"phrase": "The match will not end",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De wedstrijd zal niet eindigen",
 		"machine": true
 	},
-	"Protons, XP and stats will not be tracked": 
 	{
+		"phrase": "Protons, XP and stats will not be tracked",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Protonen, XP en statistieken worden niet bijgehouden",
 		"machine": true
 	},
-	"Infinite ammo. Type": 
 	{
+		"phrase": "Infinite ammo. Type",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Oneindige hoeveelheid ammunitie. type",
 		"machine": true
 	},
-	"in chat to set your spawn point": 
 	{
+		"phrase": "in chat to set your spawn point",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "in de chat om je spawnpunt in te stellen",
 		"machine": true
 	},
-	"Weapon cooldowns removed. Players are invincible": 
 	{
+		"phrase": "Weapon cooldowns removed. Players are invincible",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Cooldowns voor wapens verwijderd. spelers zijn onoverwinnelijk",
 		"machine": true
 	},
-	"Claim": 
 	{
+		"phrase": "Claim",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Claim",
 		"machine": true
 	},
-	"Current lobby settings": 
 	{
+		"phrase": "Current lobby settings",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Huidige lobby-instellingen",
 		"machine": true
 	},
-	"Next lobby settings": 
 	{
+		"phrase": "Next lobby settings",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Instellingen voor volgende lobby",
 		"machine": true
 	},
-	"Lobby not claimed": 
 	{
+		"phrase": "Lobby not claimed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lobby niet geclaimd",
 		"machine": true
 	},
-	"Autobalancing Enabled": 
 	{
+		"phrase": "Autobalancing Enabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Automatisch balanceren ingeschakeld",
 		"machine": true
 	},
-	"Autobalancing Disabled": 
 	{
+		"phrase": "Autobalancing Disabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Automatisch balanceren uitgeschakeld",
 		"machine": true
 	},
-	"Eternal Mode Enabled": 
 	{
+		"phrase": "Eternal Mode Enabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Eeuwige modus ingeschakeld",
 		"machine": true
 	},
-	"Eternal Mode Disabled": 
 	{
+		"phrase": "Eternal Mode Disabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Eeuwige modus uitgeschakeld",
 		"machine": true
 	},
-	"Trailer Mode Enabled": 
 	{
+		"phrase": "Trailer Mode Enabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Trailermodus ingeschakeld",
 		"machine": true
 	},
-	"Trailer Mode Disabled": 
 	{
+		"phrase": "Trailer Mode Disabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Trailermodus uitgeschakeld",
 		"machine": true
 	},
-	"Sandbox Mode Enabled": 
 	{
+		"phrase": "Sandbox Mode Enabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sandbox-modus ingeschakeld",
 		"machine": true
 	},
-	"Sandbox Mode Disabled": 
 	{
+		"phrase": "Sandbox Mode Disabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sandbox-modus uitgeschakeld",
 		"machine": true
 	},
-	"Password Protected": 
 	{
+		"phrase": "Password Protected",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beschermd met een wachtwoord",
 		"machine": true
 	},
-	"Password protected": 
 	{
+		"phrase": "Password protected",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beschermd met een wachtwoord",
 		"machine": true
 	},
-	"Note - claiming the lobby will restart the round": 
 	{
+		"phrase": "Note - claiming the lobby will restart the round",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Opmerking - als je de lobby claimt, wordt de ronde opnieuw gestart",
 		"machine": true
 	},
-	"Note - changing these settings will restart the round": 
 	{
+		"phrase": "Note - changing these settings will restart the round",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Opmerking - als u deze instellingen wijzigt, wordt de ronde opnieuw gestart",
 		"machine": true
 	},
-	"Leave": 
 	{
+		"phrase": "Leave",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vertrekken",
 		"machine": true
 	},
-	"Total": 
 	{
+		"phrase": "Total",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Totaal",
 		"machine": true
 	},
-	"Points breakdown": 
 	{
+		"phrase": "Points breakdown",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Puntenverdeling",
 		"machine": true
 	},
-	"Objective": 
 	{
+		"phrase": "Objective",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Doelstelling",
 		"machine": true
 	},
-	"Offensive time": 
 	{
+		"phrase": "Offensive time",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Offensieve tijd",
 		"machine": true
 	},
-	"Defensive time": 
 	{
+		"phrase": "Defensive time",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Defensieve tijd",
 		"machine": true
 	},
-	"Ammo pickups": 
 	{
+		"phrase": "Ammo pickups",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Munitie pick-ups",
 		"machine": true
 	},
-	"Basic statistics": 
 	{
+		"phrase": "Basic statistics",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Basisstatistieken",
 		"machine": true
 	},
-	"Best kill streak": 
 	{
+		"phrase": "Best kill streak",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beste killstreak",
 		"machine": true
 	},
-	"Blocks built": 
 	{
+		"phrase": "Blocks built",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "blokken gebouwd",
 		"machine": true
 	},
-	"Blocks destroyed": 
 	{
+		"phrase": "Blocks destroyed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Blokken vernietigd",
 		"machine": true
 	},
-	"Proton breakdown": 
 	{
+		"phrase": "Proton breakdown",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Proton afbraak",
 		"machine": true
 	},
-	"Player points": 
 	{
+		"phrase": "Player points",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelerspunten",
 		"machine": true
 	},
-	"Proton boost": 
 	{
+		"phrase": "Proton boost",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Protonboost",
 		"machine": true
 	},
-	"Peacekeeper bonus": 
 	{
+		"phrase": "Peacekeeper bonus",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vredestichter bonus",
 		"machine": true
 	},
-	"Unlock": 
 	{
+		"phrase": "Unlock",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ontgrendelen",
 		"machine": true
 	},
-	"CONFIRM": 
 	{
+		"phrase": "CONFIRM",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "BEVESTIGEN",
 		"machine": true
 	},
-	"Buy now": 
 	{
+		"phrase": "Buy now",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Koop nu",
 		"machine": true
 	},
-	"Use token": 
 	{
+		"phrase": "Use token",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gebruik token",
 		"machine": true
 	},
-	"This is a gift": 
 	{
+		"phrase": "This is a gift",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "dit is een cadeau",
 		"machine": true
 	},
-	"Submit": 
 	{
+		"phrase": "Submit",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Indienen",
 		"machine": true
 	},
-	"News": 
 	{
+		"phrase": "News",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Nieuws",
 		"machine": true
 	},
-	"Store": 
 	{
+		"phrase": "Store",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Op te slaan",
 		"machine": true
 	},
-	"Play": 
 	{
+		"phrase": "Play",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toneelstuk",
 		"machine": true
 	},
-	"Clan": 
 	{
+		"phrase": "Clan",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Clan",
 		"machine": true
 	},
-	"Customise": 
 	{
+		"phrase": "Customise",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aanpassen",
 		"machine": true
 	},
-	"Exit game": 
 	{
+		"phrase": "Exit game",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spel afsluiten",
 		"machine": true
 	},
-	"Skip tutorial": 
 	{
+		"phrase": "Skip tutorial",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sla handleiding over",
 		"machine": true
 	},
-	"An update is available. Close the game and update the game through": 
 	{
+		"phrase": "An update is available. Close the game and update the game through",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Een update is beschikbaar. sluit het spel en update het spel via",
 		"machine": true
 	},
-	"Connection to": 
 	{
+		"phrase": "Connection to",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verbinding met",
 		"machine": true
 	},
-	"failed. Online play is unavailable": 
 	{
+		"phrase": "failed. Online play is unavailable",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "mislukt. Online spelen is niet beschikbaar",
 		"machine": true
 	},
-	"Blocks": 
 	{
+		"phrase": "Blocks",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Blokken",
 		"machine": true
 	},
-	"Changelog": 
 	{
+		"phrase": "Changelog",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wijzigingslog",
 		"machine": true
 	},
-	"Trials": 
 	{
+		"phrase": "Trials",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Proeven",
 		"machine": true
 	},
-	"Low level": 
 	{
+		"phrase": "Low level",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Laag niveau",
 		"machine": true
 	},
-	"Open": 
 	{
+		"phrase": "Open",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Open",
 		"machine": true
 	},
-	"Custom": 
 	{
+		"phrase": "Custom",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aangepast",
 		"machine": true
 	},
-	"Empty servers": 
 	{
+		"phrase": "Empty servers",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lege servers",
 		"machine": true
 	},
-	"Full servers": 
 	{
+		"phrase": "Full servers",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Volledige servers",
 		"machine": true
 	},
-	"Character": 
 	{
+		"phrase": "Character",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Karakter",
 		"machine": true
 	},
-	"Ship": 
 	{
+		"phrase": "Ship",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schip",
 		"machine": true
 	},
-	"Loadouts": 
 	{
+		"phrase": "Loadouts",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitrustingen",
 		"machine": true
 	},
-	"Weapons": 
 	{
+		"phrase": "Weapons",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "wapens",
 		"machine": true
 	},
-	"Killcam": 
 	{
+		"phrase": "Killcam",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Killcam",
 		"machine": true
 	},
-	"Mapping": 
 	{
+		"phrase": "Mapping",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "In kaart brengen",
 		"machine": true
 	},
-	"Skin": 
 	{
+		"phrase": "Skin",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Huid",
 		"machine": true
 	},
-	"Red dot": 
 	{
+		"phrase": "Red dot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "rode stip",
 		"machine": true
 	},
-	"Camo": 
 	{
+		"phrase": "Camo",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Camouflage",
 		"machine": true
 	},
-	"Save": 
 	{
+		"phrase": "Save",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sparen",
 		"machine": true
 	},
-	"Official": 
 	{
+		"phrase": "Official",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Officieel",
 		"machine": true
 	},
-	"Workshop": 
 	{
+		"phrase": "Workshop",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "werkplaats",
 		"machine": true
 	},
-	"Cheating": 
 	{
+		"phrase": "Cheating",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bedriegen",
 		"machine": true
 	},
-	"Exploiting": 
 	{
+		"phrase": "Exploiting",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "uitbuiten",
 		"machine": true
 	},
-	"Offensive profile": 
 	{
+		"phrase": "Offensive profile",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aanstootgevend profiel",
 		"machine": true
 	},
-	"Verbal abuse": 
 	{
+		"phrase": "Verbal abuse",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gescheld",
 		"machine": true
 	},
-	"Scamming": 
 	{
+		"phrase": "Scamming",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "oplichting",
 		"machine": true
 	},
-	"Spamming": 
 	{
+		"phrase": "Spamming",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spammen",
 		"machine": true
 	},
-	"Other negative behaviour": 
 	{
+		"phrase": "Other negative behaviour",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ander negatief gedrag",
 		"machine": true
 	},
-	"Report": 
 	{
+		"phrase": "Report",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Rapport",
 		"machine": true
 	},
-	"Metal": 
 	{
+		"phrase": "Metal",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Metaal",
 		"machine": true
 	},
-	"Link": 
 	{
+		"phrase": "Link",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Koppeling",
 		"machine": true
 	},
-	"Recoil": 
 	{
+		"phrase": "Recoil",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Terugslag",
 		"machine": true
 	},
-	"Stationary recoil": 
 	{
+		"phrase": "Stationary recoil",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Stationaire terugslag",
 		"machine": true
 	},
-	"Holster time": 
 	{
+		"phrase": "Holster time",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Holster tijd",
 		"machine": true
 	},
-	"ADS time": 
 	{
+		"phrase": "ADS time",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "ADS-tijd",
 		"machine": true
 	},
-	"Initial recoil": 
 	{
+		"phrase": "Initial recoil",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Initiële terugslag",
 		"machine": true
 	},
-	"Shot recoil ramp": 
 	{
+		"phrase": "Shot recoil ramp",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schot terugslag helling",
 		"machine": true
 	},
-	"Loadout power": 
 	{
+		"phrase": "Loadout power",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitgangsvermogen",
 		"machine": true
 	},
-	"Damage range": 
 	{
+		"phrase": "Damage range",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schadebereik:",
 		"machine": true
 	},
-	"Projectile speed": 
 	{
+		"phrase": "Projectile speed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Projectiel snelheid",
 		"machine": true
 	},
-	"Volume": 
 	{
+		"phrase": "Volume",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Volume",
 		"machine": true
 	},
-	"Minimap invisibility": 
 	{
+		"phrase": "Minimap invisibility",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Minimap onzichtbaarheid",
 		"machine": true
 	},
-	"Pellets": 
 	{
+		"phrase": "Pellets",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Pellets",
 		"machine": true
 	},
-	"Pellet spread": 
 	{
+		"phrase": "Pellet spread",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Pelletspreiding",
 		"machine": true
 	},
-	"Reload": 
 	{
+		"phrase": "Reload",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Herladen",
 		"machine": true
 	},
-	"Rounds": 
 	{
+		"phrase": "Rounds",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Rondes",
 		"machine": true
 	},
-	"Player damage (body)": 
 	{
+		"phrase": "Player damage (body)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelersschade (lichaam)",
 		"machine": true
 	},
-	"Player damage (head)": 
 	{
+		"phrase": "Player damage (head)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelersschade (hoofd)",
 		"machine": true
 	},
-	"Block damage": 
 	{
+		"phrase": "Block damage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Blokschade",
 		"machine": true
 	},
-	"RPM": 
 	{
+		"phrase": "RPM",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "RPM",
 		"machine": true
 	},
-	"Pellet count": 
 	{
+		"phrase": "Pellet count",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Pellettelling",
 		"machine": true
 	},
-	"Damages through blocks and players": 
 	{
+		"phrase": "Damages through blocks and players",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schade door blokken en spelers",
 		"machine": true
 	},
-	"Bounces 3 times": 
 	{
+		"phrase": "Bounces 3 times",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Stuitert 3 keer",
 		"machine": true
 	},
-	"Choke time": 
 	{
+		"phrase": "Choke time",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Choke tijd",
 		"machine": true
 	},
-	"Choked spread": 
 	{
+		"phrase": "Choked spread",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gesmoorde spread",
 		"machine": true
 	},
-	"Choke resets when firing": 
 	{
+		"phrase": "Choke resets when firing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Choke reset tijdens het schieten",
 		"machine": true
 	},
-	"Welded choke": 
 	{
+		"phrase": "Welded choke",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gelaste choke",
 		"machine": true
 	},
-	"Automatic fire": 
 	{
+		"phrase": "Automatic fire",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Automatisch vuur",
 		"machine": true
 	},
-	"Stats": 
 	{
+		"phrase": "Stats",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Statistieken",
 		"machine": true
 	},
-	"Initiate": 
 	{
+		"phrase": "Initiate",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "initiëren",
 		"machine": true
 	},
-	"Proficient": 
 	{
+		"phrase": "Proficient",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "bekwaam",
 		"machine": true
 	},
-	"Adept": 
 	{
+		"phrase": "Adept",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bedreven",
 		"machine": true
 	},
-	"Elite": 
 	{
+		"phrase": "Elite",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Elite",
 		"machine": true
 	},
-	"Expert": 
 	{
+		"phrase": "Expert",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deskundige",
 		"machine": true
 	},
-	"Master": 
 	{
+		"phrase": "Master",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Meester",
 		"machine": true
 	},
-	"Legend": 
 	{
+		"phrase": "Legend",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Legende",
 		"machine": true
 	},
-	"Paragon": 
 	{
+		"phrase": "Paragon",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toonbeeld",
 		"machine": true
 	},
-	"Incarnate": 
 	{
+		"phrase": "Incarnate",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "vleesgeworden",
 		"machine": true
 	},
-	"Butcher": 
 	{
+		"phrase": "Butcher",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "slager",
 		"machine": true
 	},
-	"Swordsman": 
 	{
+		"phrase": "Swordsman",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "zwaardvechter",
 		"machine": true
 	},
-	"Berserker": 
 	{
+		"phrase": "Berserker",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Berserker",
 		"machine": true
 	},
-	"Assassin": 
 	{
+		"phrase": "Assassin",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sluipmoordenaar",
 		"machine": true
 	},
-	"Executioner": 
 	{
+		"phrase": "Executioner",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beul",
 		"machine": true
 	},
-	"Grenadier": 
 	{
+		"phrase": "Grenadier",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Grenadier",
 		"machine": true
 	},
-	"Detonator": 
 	{
+		"phrase": "Detonator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "ontsteker",
 		"machine": true
 	},
-	"Volatile": 
 	{
+		"phrase": "Volatile",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vluchtig",
 		"machine": true
 	},
-	"Catalyst": 
 	{
+		"phrase": "Catalyst",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Katalysator",
 		"machine": true
 	},
-	"Captor": 
 	{
+		"phrase": "Captor",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "ontvoerder",
 		"machine": true
 	},
-	"Invader": 
 	{
+		"phrase": "Invader",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "indringer",
 		"machine": true
 	},
-	"Thief": 
 	{
+		"phrase": "Thief",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dief",
 		"machine": true
 	},
-	"Reinforcer": 
 	{
+		"phrase": "Reinforcer",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Versterker",
 		"machine": true
 	},
-	"Engineer": 
 	{
+		"phrase": "Engineer",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ingenieur",
 		"machine": true
 	},
-	"Fabricator": 
 	{
+		"phrase": "Fabricator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Constructeur",
 		"machine": true
 	},
-	"Architect": 
 	{
+		"phrase": "Architect",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Architect",
 		"machine": true
 	},
-	"Sentry": 
 	{
+		"phrase": "Sentry",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schildwacht",
 		"machine": true
 	},
-	"Protector": 
 	{
+		"phrase": "Protector",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beschermer",
 		"machine": true
 	},
-	"Sentinel": 
 	{
+		"phrase": "Sentinel",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sentinel",
 		"machine": true
 	},
-	"Guardian": 
 	{
+		"phrase": "Guardian",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Voogd",
 		"machine": true
 	},
-	"Raider": 
 	{
+		"phrase": "Raider",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Raider",
 		"machine": true
 	},
-	"Marauder": 
 	{
+		"phrase": "Marauder",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Stroper",
 		"machine": true
 	},
-	"Vanquisher": 
 	{
+		"phrase": "Vanquisher",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Overwinnaar",
 		"machine": true
 	},
-	"Conquerer": 
 	{
+		"phrase": "Conquerer",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "veroveraar",
 		"machine": true
 	},
-	"Terminator": 
 	{
+		"phrase": "Terminator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Terminator",
 		"machine": true
 	},
-	"Gunslinger": 
 	{
+		"phrase": "Gunslinger",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geweerslinger",
 		"machine": true
 	},
-	"Deadeye": 
 	{
+		"phrase": "Deadeye",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deadeye",
 		"machine": true
 	},
-	"Sharpshooter": 
 	{
+		"phrase": "Sharpshooter",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Scherpschutter",
 		"machine": true
 	},
-	"Deathbringer": 
 	{
+		"phrase": "Deathbringer",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dood brenger",
 		"machine": true
 	},
-	"Blaster": 
 	{
+		"phrase": "Blaster",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Blaster",
 		"machine": true
 	},
-	"Collider": 
 	{
+		"phrase": "Collider",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Collider",
 		"machine": true
 	},
-	"Obliterator": 
 	{
+		"phrase": "Obliterator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vernietiger",
 		"machine": true
 	},
-	"Disintegrator": 
 	{
+		"phrase": "Disintegrator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "desintegrator",
 		"machine": true
 	},
-	"Alleviator": 
 	{
+		"phrase": "Alleviator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verlichter",
 		"machine": true
 	},
-	"Mitigator": 
 	{
+		"phrase": "Mitigator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Mitigator",
 		"machine": true
 	},
-	"Diminisher": 
 	{
+		"phrase": "Diminisher",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verkleiner",
 		"machine": true
 	},
-	"Recon": 
 	{
+		"phrase": "Recon",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verkennen",
 		"machine": true
 	},
-	"Luminator": 
 	{
+		"phrase": "Luminator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Luminator",
 		"machine": true
 	},
-	"Coruscator": 
 	{
+		"phrase": "Coruscator",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Coruscator",
 		"machine": true
 	},
-	"Spotter": 
 	{
+		"phrase": "Spotter",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spotter",
 		"machine": true
 	},
-	"Watchman": 
 	{
+		"phrase": "Watchman",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wachter",
 		"machine": true
 	},
-	"Eagle Eye": 
 	{
+		"phrase": "Eagle Eye",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Adelaarsoog",
 		"machine": true
 	},
-	"All Seeing": 
 	{
+		"phrase": "All Seeing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Allesziend",
 		"machine": true
 	},
-	"Body Guard": 
 	{
+		"phrase": "Body Guard",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "lijfwacht",
 		"machine": true
 	},
-	"Slayer": 
 	{
+		"phrase": "Slayer",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Moordenaar",
 		"machine": true
 	},
-	"Punisher": 
 	{
+		"phrase": "Punisher",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Punisher",
 		"machine": true
 	},
-	"Midi Certified": 
 	{
+		"phrase": "Midi Certified",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Midi gecertificeerd",
 		"machine": true
 	},
-	"Maze Runner": 
 	{
+		"phrase": "Maze Runner",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "doolhof loper",
 		"machine": true
 	},
-	"Trial Master": 
 	{
+		"phrase": "Trial Master",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Proefmeester",
 		"machine": true
 	},
-	"Trial Hard": 
 	{
+		"phrase": "Trial Hard",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Moeilijke proef",
 		"machine": true
 	},
-	"Podium": 
 	{
+		"phrase": "Podium",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Podium",
 		"machine": true
 	},
-	"Scoreboard": 
 	{
+		"phrase": "Scoreboard",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Scorebord",
 		"machine": true
 	},
-	"Sensitivity": 
 	{
+		"phrase": "Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gevoeligheid",
 		"machine": true
 	},
-	"Video": 
 	{
+		"phrase": "Video",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Video",
 		"machine": true
 	},
-	"Performance": 
 	{
+		"phrase": "Performance",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Uitvoering",
 		"machine": true
 	},
-	"Audio": 
 	{
+		"phrase": "Audio",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Audio",
 		"machine": true
 	},
-	"Accessibility": 
 	{
+		"phrase": "Accessibility",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toegankelijkheid",
 		"machine": true
 	},
-	"Close": 
 	{
+		"phrase": "Close",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dichtbij",
 		"machine": true
 	},
-	"Peacekeeper": 
 	{
+		"phrase": "Peacekeeper",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vredestichter",
 		"machine": true
 	},
-	"Networking": 
 	{
+		"phrase": "Networking",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Netwerken",
 		"machine": true
 	},
-	"Serious": 
 	{
+		"phrase": "Serious",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Echt",
 		"machine": true
 	},
-	"Control Preferences": 
 	{
+		"phrase": "Control Preferences",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Voorkeuren beheren",
 		"machine": true
 	},
-	"Toggle Scope": 
 	{
+		"phrase": "Toggle Scope",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bereik wisselen",
 		"machine": true
 	},
-	"Toggle Crouch": 
 	{
+		"phrase": "Toggle Crouch",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toggle hurken",
 		"machine": true
 	},
-	"Toggle Sprint": 
 	{
+		"phrase": "Toggle Sprint",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sprint wisselen",
 		"machine": true
 	},
-	"Auto-Rotate Structures": 
 	{
+		"phrase": "Auto-Rotate Structures",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuren automatisch roteren",
 		"machine": true
 	},
-	"Chat": 
 	{
+		"phrase": "Chat",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Chatten",
 		"machine": true
 	},
-	"Streamer Mode": 
 	{
+		"phrase": "Streamer Mode",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Streamer-modus",
 		"machine": true
 	},
-	"Profanity Filter": 
 	{
+		"phrase": "Profanity Filter",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Godslasteringsfilter",
 		"machine": true
 	},
-	"Chat Timeout": 
 	{
+		"phrase": "Chat Timeout",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Chat-time-out",
 		"machine": true
 	},
-	"Rendering": 
 	{
+		"phrase": "Rendering",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "weergave",
 		"machine": true
 	},
-	"Green Outline for Party Members": 
 	{
+		"phrase": "Green Outline for Party Members",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Groen overzicht voor partijleden",
 		"machine": true
 	},
-	"Friendly Outline Through Walls": 
 	{
+		"phrase": "Friendly Outline Through Walls",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vriendelijke omtrek door muren",
 		"machine": true
 	},
-	"Miscellaneous": 
 	{
+		"phrase": "Miscellaneous",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Diversen",
 		"machine": true
 	},
-	"Camera Sway": 
 	{
+		"phrase": "Camera Sway",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Camera zwaaien",
 		"machine": true
 	},
-	"Pause when Inactive": 
 	{
+		"phrase": "Pause when Inactive",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Pauzeren wanneer inactief",
 		"machine": true
 	},
-	"Enable Debug Logging": 
 	{
+		"phrase": "Enable Debug Logging",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Logboekregistratie voor foutopsporing inschakelen",
 		"machine": true
 	},
-	"Extra Logging": 
 	{
+		"phrase": "Extra Logging",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Extra loggen",
 		"machine": true
 	},
-	"Input": 
 	{
+		"phrase": "Input",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Invoer",
 		"machine": true
 	},
-	"Raw Mouse Input": 
 	{
+		"phrase": "Raw Mouse Input",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ruwe muisinvoer",
 		"machine": true
 	},
-	"Sensitivity Multiplies": 
 	{
+		"phrase": "Sensitivity Multiplies",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gevoeligheid vermenigvuldigt zich",
 		"machine": true
 	},
-	"Invert Y Axis": 
 	{
+		"phrase": "Invert Y Axis",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Y-as omkeren",
 		"machine": true
 	},
-	"Sensitivity Values": 
 	{
+		"phrase": "Sensitivity Values",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gevoeligheidswaarden",
 		"machine": true
 	},
-	"Look Sensitivity": 
 	{
+		"phrase": "Look Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Kijk gevoeligheid",
 		"machine": true
 	},
-	"Ironsights Sensitivity": 
 	{
+		"phrase": "Ironsights Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ironsights-gevoeligheid",
 		"machine": true
 	},
-	"X2 Scope Sensitivity": 
 	{
+		"phrase": "X2 Scope Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "X2 scoopgevoeligheid",
 		"machine": true
 	},
-	"X4 Scope Sensitivity": 
 	{
+		"phrase": "X4 Scope Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "X4 scoopgevoeligheid",
 		"machine": true
 	},
-	"Spectator Sensitivity": 
 	{
+		"phrase": "Spectator Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toeschouwersgevoeligheid",
 		"machine": true
 	},
-	"Minimap": 
 	{
+		"phrase": "Minimap",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Minikaart",
 		"machine": true
 	},
-	"Minimap Size": 
 	{
+		"phrase": "Minimap Size",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Minikaartgrootte",
 		"machine": true
 	},
-	"Minimap Zoom": 
 	{
+		"phrase": "Minimap Zoom",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Minikaart zoomen",
 		"machine": true
 	},
-	"Damage Numbers": 
 	{
+		"phrase": "Damage Numbers",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schadenummers",
 		"machine": true
 	},
-	"Show in the Shooting Range": 
 	{
+		"phrase": "Show in the Shooting Range",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tonen in de schietbaan",
 		"machine": true
 	},
-	"Show HUD": 
 	{
+		"phrase": "Show HUD",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toon HUD",
 		"machine": true
 	},
-	"Show Kill Feed": 
 	{
+		"phrase": "Show Kill Feed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toon kill-feed",
 		"machine": true
 	},
-	"Show Player Names": 
 	{
+		"phrase": "Show Player Names",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelersnamen tonen",
 		"machine": true
 	},
-	"Show Enemies on the Zone Bar": 
 	{
+		"phrase": "Show Enemies on the Zone Bar",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Laat vijanden zien op de zonebalk",
 		"machine": true
 	},
-	"Secret": 
 	{
+		"phrase": "Secret",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geheim",
 		"machine": true
 	},
-	"This Doesn't Do Anything": 
 	{
+		"phrase": "This Doesn't Do Anything",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit doet niets",
 		"machine": true
 	},
-	"Resolution": 
 	{
+		"phrase": "Resolution",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Oplossing",
 		"machine": true
 	},
-	"Override Screen Resolution": 
 	{
+		"phrase": "Override Screen Resolution",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schermresolutie overschrijven",
 		"machine": true
 	},
-	"Game Resolution X": 
 	{
+		"phrase": "Game Resolution X",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelresolutie X",
 		"machine": true
 	},
-	"Game Resolution Y": 
 	{
+		"phrase": "Game Resolution Y",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelresolutie Y",
 		"machine": true
 	},
-	"Camera": 
 	{
+		"phrase": "Camera",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Camera",
 		"machine": true
 	},
-	"Field of View": 
 	{
+		"phrase": "Field of View",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gezichtsveld",
 		"machine": true
 	},
-	"Degrees": 
 	{
+		"phrase": "Degrees",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Graden",
 		"machine": true
 	},
-	"Brightness": 
 	{
+		"phrase": "Brightness",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Helderheid",
 		"machine": true
 	},
-	"Dynamic Rendering Settings": 
 	{
+		"phrase": "Dynamic Rendering Settings",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Instellingen voor dynamische weergave",
 		"machine": true
 	},
-	"Texture Quality": 
 	{
+		"phrase": "Texture Quality",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Textuur kwaliteit",
 		"machine": true
 	},
-	"Shadows": 
 	{
+		"phrase": "Shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "schaduwen",
 		"machine": true
 	},
-	"Shadow Quality": 
 	{
+		"phrase": "Shadow Quality",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schaduw kwaliteit",
 		"machine": true
 	},
-	"Render Player Shadows": 
 	{
+		"phrase": "Render Player Shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelerschaduwen renderen",
 		"machine": true
 	},
-	"Render Entity Shadows": 
 	{
+		"phrase": "Render Entity Shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Entiteitsschaduwen renderen",
 		"machine": true
 	},
-	"Render Particle Shadows": 
 	{
+		"phrase": "Render Particle Shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deeltjesschaduwen renderen",
 		"machine": true
 	},
-	"Render Weather Particle Shadows": 
 	{
+		"phrase": "Render Weather Particle Shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schaduwen van weerdeeltjes weergeven",
 		"machine": true
 	},
-	"Render Structure Shadows": 
 	{
+		"phrase": "Render Structure Shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuurschaduwen renderen",
 		"machine": true
 	},
-	"Voxel Settings": 
 	{
+		"phrase": "Voxel Settings",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Voxel-instellingen",
 		"machine": true
 	},
-	"Render Distance": 
 	{
+		"phrase": "Render Distance",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Renderafstand",
 		"machine": true
 	},
-	"Chunks": 
 	{
+		"phrase": "Chunks",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Brokken",
 		"machine": true
 	},
-	"Max Chunk Updates": 
 	{
+		"phrase": "Max Chunk Updates",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Max. chunk-updates",
 		"machine": true
 	},
-	"Particle Amount": 
 	{
+		"phrase": "Particle Amount",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deeltjeshoeveelheid",
 		"machine": true
 	},
-	"Weather Particle Amount": 
 	{
+		"phrase": "Weather Particle Amount",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Hoeveelheid weerdeeltjes",
 		"machine": true
 	},
-	"Lights": 
 	{
+		"phrase": "Lights",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lichten",
 		"machine": true
 	},
-	"Lighting Quality": 
 	{
+		"phrase": "Lighting Quality",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Lichtkwaliteit",
 		"machine": true
 	},
-	"Samples": 
 	{
+		"phrase": "Samples",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Monsters",
 		"machine": true
 	},
-	"Bloom Strength": 
 	{
+		"phrase": "Bloom Strength",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bloeikracht",
 		"machine": true
 	},
-	"Render Bloom On Optics": 
 	{
+		"phrase": "Render Bloom On Optics",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Render bloom op optica",
 		"machine": true
 	},
-	"Render Crepuscular Rays": 
 	{
+		"phrase": "Render Crepuscular Rays",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geef schemerige stralen weer",
 		"machine": true
 	},
-	"Enable Anti-Aliasing": 
 	{
+		"phrase": "Enable Anti-Aliasing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Anti-aliasing inschakelen",
 		"machine": true
 	},
-	"Outer Scope Blur": 
 	{
+		"phrase": "Outer Scope Blur",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Buiten bereik vervagen",
 		"machine": true
 	},
-	"Compatibility": 
 	{
+		"phrase": "Compatibility",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Compatibiliteit",
 		"machine": true
 	},
-	"Experimental": 
 	{
+		"phrase": "Experimental",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Experimenteel",
 		"machine": true
 	},
-	"Extensions": 
 	{
+		"phrase": "Extensions",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Extensies",
 		"machine": true
 	},
-	"Sound Effect Volume": 
 	{
+		"phrase": "Sound Effect Volume",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geluidseffectvolume",
 		"machine": true
 	},
-	"Ambient Volume": 
 	{
+		"phrase": "Ambient Volume",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Omgevingsvolume",
 		"machine": true
 	},
-	"Game Music Volume": 
 	{
+		"phrase": "Game Music Volume",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Volume van gamemuziek",
 		"machine": true
 	},
-	"Menu Music Volume": 
 	{
+		"phrase": "Menu Music Volume",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Menu muziek volume",
 		"machine": true
 	},
-	"Personal Footsteps Volume": 
 	{
+		"phrase": "Personal Footsteps Volume",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Persoonlijk voetstappenvolume",
 		"machine": true
 	},
-	"Team Footsteps Volume": 
 	{
+		"phrase": "Team Footsteps Volume",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Team voetstappen volume",
 		"machine": true
 	},
-	"Movement": 
 	{
+		"phrase": "Movement",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Beweging",
 		"machine": true
 	},
-	"Actions": 
 	{
+		"phrase": "Actions",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Acties",
 		"machine": true
 	},
-	"Weaponry": 
 	{
+		"phrase": "Weaponry",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wapens",
 		"machine": true
 	},
-	"Single Dig by Default": 
 	{
+		"phrase": "Single Dig by Default",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Standaard één opgraving",
 		"machine": true
 	},
-	"Tools": 
 	{
+		"phrase": "Tools",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Hulpmiddelen",
 		"machine": true
 	},
-	"Navigation": 
 	{
+		"phrase": "Navigation",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Navigatie",
 		"machine": true
 	},
-	"Team Colours": 
 	{
+		"phrase": "Team Colours",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Teamkleuren",
 		"machine": true
 	},
-	"Friendly Colour": 
 	{
+		"phrase": "Friendly Colour",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vriendelijke kleur",
 		"machine": true
 	},
-	"Party Colour": 
 	{
+		"phrase": "Party Colour",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Feest kleur",
 		"machine": true
 	},
-	"Enemy Colour": 
 	{
+		"phrase": "Enemy Colour",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vijandelijke kleur",
 		"machine": true
 	},
-	"High Quality Meshing": 
 	{
+		"phrase": "High Quality Meshing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Hoogwaardige meshing",
 		"machine": true
 	},
-	"Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.": 
 	{
+		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Besteed meer tijd aan de CPU om wereldnetwerken van hogere kwaliteit te produceren, waardoor de druk op de GPU wordt verminderd.",
 		"machine": true
 	},
-	"The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.": 
 	{
+		"phrase": "The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De game schakelt automatisch effecten uit en verlaagt de kwaliteit van de nabewerking om de FPS hoog te houden. het kan tot een minuut duren om de optimale weergave-instellingen te bepalen.",
 		"machine": true
 	},
-	"Polling Rate": 
 	{
+		"phrase": "Polling Rate",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Opiniepeiling",
 		"machine": true
 	},
-	"Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.": 
 	{
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Wijzigt hoe vaak u spelergegevens van de server ontvangt. verlaag deze waarde als u een onstabiel internet of internet met een lage bandbreedte gebruikt.",
 		"machine": true
 	},
-	"Pew Pew Mode": 
 	{
+		"phrase": "Pew Pew Mode",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Pew Pew-modus",
 		"machine": true
 	},
-	"Must keep enabled at all times": 
 	{
+		"phrase": "Must keep enabled at all times",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Moet te allen tijde ingeschakeld blijven",
 		"machine": true
 	},
-	"The size of the bottom-right minimap": 
 	{
+		"phrase": "The size of the bottom-right minimap",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De grootte van de minimap rechtsonder",
 		"machine": true
 	},
-	"The internal scale of the bottom-right minimap": 
 	{
+		"phrase": "The internal scale of the bottom-right minimap",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De interne schaal van de minimap rechtsonder",
 		"machine": true
 	},
-	"The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.": 
 	{
+		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De servernaam wordt niet weergegeven op het scorebord en de namen en niveaus van andere spelers worden willekeurig voor je verdeeld.",
 		"machine": true
 	},
-	"Controls whether the in-game HUD is rendered. Shortcut:": 
 	{
+		"phrase": "Controls whether the in-game HUD is rendered. Shortcut:",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of de in-game HUD wordt weergegeven. snelkoppeling:",
 		"machine": true
 	},
-	"Show Chat": 
 	{
+		"phrase": "Show Chat",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Toon chat",
 		"machine": true
 	},
-	"Controls whether the chat is rendered. Shortcut:": 
 	{
+		"phrase": "Controls whether the chat is rendered. Shortcut:",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of de chat wordt weergegeven. snelkoppeling:",
 		"machine": true
 	},
-	"Controls whether the kill feed is rendered. Shortcut:": 
 	{
+		"phrase": "Controls whether the kill feed is rendered. Shortcut:",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of de kill-feed wordt weergegeven. snelkoppeling:",
 		"machine": true
 	},
-	"Controls whether player names are rendered. Shortcut:": 
 	{
+		"phrase": "Controls whether player names are rendered. Shortcut:",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of spelersnamen worden weergegeven. snelkoppeling:",
 		"machine": true
 	},
-	"UI Scale": 
 	{
+		"phrase": "UI Scale",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "UI-schaal",
 		"machine": true
 	},
-	"Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS": 
 	{
+		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Deeltjes worden geproduceerd wanneer objecten worden geraakt of vernietigd. het verlagen van dit percentage zal de FPS verhogen",
 		"machine": true
 	},
-	"The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS": 
 	{
+		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De kaart is verdeeld in blokken van 32x32x32 blokken. dit verminderen zal de FPS verhogen",
 		"machine": true
 	},
-	"Max Lights": 
 	{
+		"phrase": "Max Lights",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Max licht",
 		"machine": true
 	},
-	"The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS": 
 	{
+		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De wereld wordt verlicht door zonlicht, bloklichten en mondingsflitsen van geweren. het verminderen van de maximale hoeveelheid licht die kan worden weergegeven, verhoogt de FPS",
 		"machine": true
 	},
-	"Max FPS": 
 	{
+		"phrase": "Max FPS",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Max FPS",
 		"machine": true
 	},
-	"Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage": 
 	{
+		"phrase": "Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Frames per seconde (FPS) is het aantal keren dat de game elke seconde wordt bijgewerkt. het verlagen van deze waarde zal het CPU- en GPU-gebruik verminderen",
 		"machine": true
 	},
-	"Enable SSAO": 
 	{
+		"phrase": "Enable SSAO",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "SSAO inschakelen",
 		"machine": true
 	},
-	"Screen Space Ambient Occlusion darkens the crevices between objects": 
 	{
+		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schermruimte ambient occlusie verdonkert de spleten tussen objecten",
 		"machine": true
 	},
-	"Enable Bloom": 
 	{
+		"phrase": "Enable Bloom",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bloei inschakelen",
 		"machine": true
 	},
-	"Bloom increases and blurs the brightness of emissive surfaces": 
 	{
+		"phrase": "Bloom increases and blurs the brightness of emissive surfaces",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bloom verhoogt en vervaagt de helderheid van emitterende oppervlakken",
 		"machine": true
 	},
-	"Enable Bloom On Optics": 
 	{
+		"phrase": "Enable Bloom On Optics",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bloesem inschakelen op optica",
 		"machine": true
 	},
-	"Enable Crepuscular Rays": 
 	{
+		"phrase": "Enable Crepuscular Rays",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schemerstralen inschakelen",
 		"machine": true
 	},
-	"Crepuscular rays are shafts of lights that originate from a star": 
 	{
+		"phrase": "Crepuscular rays are shafts of lights that originate from a star",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Crepusculaire stralen zijn lichtbundels die afkomstig zijn van een ster",
 		"machine": true
 	},
-	"Enable Shadows": 
 	{
+		"phrase": "Enable Shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schaduwen inschakelen",
 		"machine": true
 	},
-	"Parts of the map will be darkened by the shadows cast from other objects": 
 	{
+		"phrase": "Parts of the map will be darkened by the shadows cast from other objects",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Delen van de kaart worden donkerder door de schaduwen van andere objecten",
 		"machine": true
 	},
-	"Controls whether players from casting shadows": 
 	{
+		"phrase": "Controls whether players from casting shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of spelers schaduwen werpen",
 		"machine": true
 	},
-	"Controls whether Disruptors, C4, Scanners and Canisters cast shadows": 
 	{
+		"phrase": "Controls whether Disruptors, C4, Scanners and Canisters cast shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of disruptors, c4, scanners en canisters schaduwen werpen",
 		"machine": true
 	},
-	"Controls whether particles cast shadows": 
 	{
+		"phrase": "Controls whether particles cast shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of deeltjes schaduwen werpen",
 		"machine": true
 	},
-	"Controls whether leaf particles cast shadows": 
 	{
+		"phrase": "Controls whether leaf particles cast shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of bladdeeltjes schaduwen werpen",
 		"machine": true
 	},
-	"Controls whether falling structures cast shadows": 
 	{
+		"phrase": "Controls whether falling structures cast shadows",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bepaalt of vallende structuren schaduwen werpen",
 		"machine": true
 	},
-	"Enable Multisampling": 
 	{
+		"phrase": "Enable Multisampling",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Multisampling inschakelen",
 		"machine": true
 	},
-	"Multisampling smooths the edges of objects": 
 	{
+		"phrase": "Multisampling smooths the edges of objects",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Multisampling maakt de randen van objecten glad",
 		"machine": true
 	},
-	"Bare Minimum": 
 	{
+		"phrase": "Bare Minimum",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Absoluut minimum",
 		"machine": true
 	},
-	"The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time": 
 	{
+		"phrase": "The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "De absoluut minimale weergavemodus slaat alle nabewerkingen over en rendert objecten rechtstreeks op het scherm. dit uitschakelen kan enige tijd duren",
 		"machine": true
 	},
-	"With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black": 
 	{
+		"phrase": "With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Als het absolute minimum is ingeschakeld, bepaalt dit of het gebied rond 2x en 4x scopes wazig of zwart is",
 		"machine": true
 	},
-	"Compress Textures": 
 	{
+		"phrase": "Compress Textures",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Comprimeer texturen",
 		"machine": true
 	},
-	"Compressing textures will use less memory on the GPU but the game will take longer to start up": 
 	{
+		"phrase": "Compressing textures will use less memory on the GPU but the game will take longer to start up",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Het comprimeren van texturen gebruikt minder geheugen op de GPU, maar het opstarten van de game duurt langer",
 		"machine": true
 	},
-	"Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes": 
 	{
+		"phrase": "Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Logboekregistratie voor foutopsporing slaat logbestanden op in de map appData\/roaming\/vercidium\/log, wat de ontwikkelaars helpt bij het oplossen van bugs en crashes",
 		"machine": true
 	},
-	"Enable Safe Mode": 
 	{
+		"phrase": "Enable Safe Mode",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Veilige modus inschakelen",
 		"machine": true
 	},
-	"Safe Mode prevents crashes from closing the game, but may slow the game down slightly": 
 	{
+		"phrase": "Safe Mode prevents crashes from closing the game, but may slow the game down slightly",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Veilige modus voorkomt dat het spel door crashes wordt afgesloten, maar kan het spel enigszins vertragen",
 		"machine": true
 	},
-	"Enable VSync": 
 	{
+		"phrase": "Enable VSync",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "VSync inschakelen",
 		"machine": true
 	},
-	"Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing": 
 	{
+		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Verticale synchronisatie stemt de updatesnelheid van het spel af op de vernieuwingsfrequentie van je monitor. als u dit inschakelt, kan het scheuren van het scherm worden verholpen",
 		"machine": true
 	},
-	"Dynamic Exposure": 
 	{
+		"phrase": "Dynamic Exposure",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dynamische belichting",
 		"machine": true
 	},
-	"Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene": 
 	{
+		"phrase": "Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dynamische belichting bootst het menselijk oog na door de belichting aan te passen op basis van de helderheid van de scène",
 		"machine": true
 	},
-	"Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker": 
 	{
+		"phrase": "Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Het verminderen van de kwaliteit van schaduwen verhoogt de FPS, maar zorgt ervoor dat close-upschaduwen flikkeren",
 		"machine": true
 	},
-	"Reducing the quality of lighting will increase FPS but pixelate lighting": 
 	{
+		"phrase": "Reducing the quality of lighting will increase FPS but pixelate lighting",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Het verminderen van de kwaliteit van de verlichting zal de FPS verhogen, maar de pixelachtige verlichting",
 		"machine": true
 	},
-	"Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware": 
 	{
+		"phrase": "Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Als u dit inschakelt, worden delen van de rendering-pipeline verwijderd die mogelijk traag zijn op oudere hardware",
 		"machine": true
 	},
-	"Enable this if you are having trouble connecting to servers": 
 	{
+		"phrase": "Enable this if you are having trouble connecting to servers",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schakel dit in als je problemen hebt om verbinding te maken met servers",
 		"machine": true
 	},
-	"Only Scroll Weapons": 
 	{
+		"phrase": "Only Scroll Weapons",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Alleen scrollwapens",
 		"machine": true
 	},
-	"If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools": 
 	{
+		"phrase": "If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Indien ingeschakeld, draait het scrollwiel alleen tussen je wapens en niet tussen je bouw-\/graafgereedschappen",
 		"machine": true
 	},
-	"If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity": 
 	{
+		"phrase": "If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Indien ingeschakeld, is elke ironsight \/ 2x \/ 4x gevoeligheidsoptie een vermenigvuldiger op basis van uw uiterlijkgevoeligheid",
 		"machine": true
 	},
-	"The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage": 
 	{
+		"phrase": "The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Het aantal secties van de kaart dat elk frame wordt bijgewerkt. dit verlagen zal het CPU-gebruik verminderen",
 		"machine": true
 	},
-	"Low Quality Textures": 
 	{
+		"phrase": "Low Quality Textures",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Texturen van lage kwaliteit",
 		"machine": true
 	},
-	"Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect": 
 	{
+		"phrase": "Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Als u dit inschakelt, wordt de textuurresolutie verlaagd om de FPS te verhogen en het geheugengebruik te verminderen. het uitschakelen hiervan vereist een herstart om van kracht te worden",
 		"machine": true
 	},
-	"SSAO Samples": 
 	{
+		"phrase": "SSAO Samples",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "SSAO-monsters",
 		"machine": true
 	},
-	"Increasing this will improve the quality of Ambient Occlusion postprocessing": 
 	{
+		"phrase": "Increasing this will improve the quality of Ambient Occlusion postprocessing",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Door dit te verhogen, wordt de kwaliteit van de postprocessing van ambient occlusie verbeterd",
 		"machine": true
 	},
-	"Player Name Distance": 
 	{
+		"phrase": "Player Name Distance",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Speler naam afstand",
 		"machine": true
 	},
-	"This controls how far away friendly names will show": 
 	{
+		"phrase": "This controls how far away friendly names will show",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Dit bepaalt hoe ver weg vriendelijke namen worden weergegeven",
 		"machine": true
 	},
-	"Midi Counts as Weapon": 
 	{
+		"phrase": "Midi Counts as Weapon",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Midi telt als wapen",
 		"machine": true
 	},
-	"When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them": 
 	{
+		"phrase": "When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Indien uitgeschakeld, zal de midi\/digger\/structuur worden overgeslagen bij het scrollen van wapens en het indrukken van de laatste tool keybind zal er niet naar wisselen",
 		"machine": true
 	},
-	"Automatically pause the game when you change to another window": 
 	{
+		"phrase": "Automatically pause the game when you change to another window",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Pauzeer het spel automatisch wanneer je naar een ander venster gaat",
 		"machine": true
 	},
-	"Replace swear words in chat messages with delicious food": 
 	{
+		"phrase": "Replace swear words in chat messages with delicious food",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vervang scheldwoorden in chatberichten door heerlijk eten",
 		"machine": true
 	},
-	"Game Resolution": 
 	{
+		"phrase": "Game Resolution",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Spelresolutie",
 		"machine": true
 	},
-	"Reducing this will increase FPS": 
 	{
+		"phrase": "Reducing this will increase FPS",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Door dit te verminderen, wordt de FPS verhoogd",
 		"machine": true
 	},
-	"Override Resolution": 
 	{
+		"phrase": "Override Resolution",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Resolutie overschrijven",
 		"machine": true
 	},
-	"Enabling this will make the game render at the resolution specified below and stretch to the size of the window": 
 	{
+		"phrase": "Enabling this will make the game render at the resolution specified below and stretch to the size of the window",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Als je dit inschakelt, wordt het spel gerenderd met de hieronder gespecificeerde resolutie en uitgerekt tot de grootte van het venster",
 		"machine": true
 	},
-	"Smooth Scaling": 
 	{
+		"phrase": "Smooth Scaling",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Soepele schaling",
 		"machine": true
 	},
-	"Enabling this will reduce the pixelation of lower game resolutions": 
 	{
+		"phrase": "Enabling this will reduce the pixelation of lower game resolutions",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Als u dit inschakelt, wordt de pixelvorming van lagere spelresoluties verminderd",
 		"machine": true
 	},
-	"NVIDIA OpenGL Extensions": 
 	{
+		"phrase": "NVIDIA OpenGL Extensions",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "NVIDIA openGL-extensies",
 		"machine": true
 	},
-	"Experimental performance setting, may crash your game. Don't enable if you haven't been told to": 
 	{
+		"phrase": "Experimental performance setting, may crash your game. Don't enable if you haven't been told to",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Experimentele prestatie-instelling, kan je spel laten crashen. niet inschakelen als u dat niet is verteld",
 		"machine": true
 	},
-	"Beta Rendering": 
 	{
+		"phrase": "Beta Rendering",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bètaweergave",
 		"machine": true
 	},
-	"New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled": 
 	{
+		"phrase": "New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Nieuwe rendering-pijplijn. laat het vercidium weten in onenigheid als het spel sneller\/langzamer loopt als dit is ingeschakeld",
 		"machine": true
 	},
-	"Enable this to make": 
 	{
+		"phrase": "Enable this to make",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schakel dit in om te maken",
 		"machine": true
 	},
-	"dig single blocks and": 
 	{
+		"phrase": "dig single blocks and",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "graaf enkele blokken en",
 		"machine": true
 	},
-	"dig a 3x3x3 area": 
 	{
+		"phrase": "dig a 3x3x3 area",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "graaf een gebied van 3x3x3",
 		"machine": true
 	},
-	"Show Enemies on Zone Bar": 
 	{
+		"phrase": "Show Enemies on Zone Bar",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Laat vijanden zien op zonebalk",
 		"machine": true
 	},
-	"Forwards": 
 	{
+		"phrase": "Forwards",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vooruit",
 		"machine": true
 	},
-	"Right": 
 	{
+		"phrase": "Right",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Rechts",
 		"machine": true
 	},
-	"Backwards": 
 	{
+		"phrase": "Backwards",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Achteruit",
 		"machine": true
 	},
-	"Crouch": 
 	{
+		"phrase": "Crouch",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "hurken",
 		"machine": true
 	},
-	"Jump": 
 	{
+		"phrase": "Jump",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Springen",
 		"machine": true
 	},
-	"Sprint": 
 	{
+		"phrase": "Sprint",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Sprint",
 		"machine": true
 	},
-	"Slide": 
 	{
+		"phrase": "Slide",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schuif",
 		"machine": true
 	},
-	"Pick Up Primary": 
 	{
+		"phrase": "Pick Up Primary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Primair ophalen",
 		"machine": true
 	},
-	"Pick Up Secondary": 
 	{
+		"phrase": "Pick Up Secondary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ophalen secundair",
 		"machine": true
 	},
-	"Ping": 
 	{
+		"phrase": "Ping",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ping",
 		"machine": true
 	},
-	"Ping (Enemy)": 
 	{
+		"phrase": "Ping (Enemy)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ping (vijand))",
 		"machine": true
 	},
-	"Ping (Caution)": 
 	{
+		"phrase": "Ping (Caution)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ping (let op:)",
 		"machine": true
 	},
-	"Ping (Help)": 
 	{
+		"phrase": "Ping (Help)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ping (help)",
 		"machine": true
 	},
-	"Ping (Reinforce)": 
 	{
+		"phrase": "Ping (Reinforce)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ping (versterken))",
 		"machine": true
 	},
-	"Ping (Destroy)": 
 	{
+		"phrase": "Ping (Destroy)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ping (vernietigen))",
 		"machine": true
 	},
-	"Shoot": 
 	{
+		"phrase": "Shoot",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schieten",
 		"machine": true
 	},
-	"Scope": 
 	{
+		"phrase": "Scope",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Domein",
 		"machine": true
 	},
-	"Melee": 
 	{
+		"phrase": "Melee",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Melee",
 		"machine": true
 	},
-	"Grenade": 
 	{
+		"phrase": "Grenade",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Granaat",
 		"machine": true
 	},
-	"Midi": 
 	{
+		"phrase": "Midi",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Midi",
 		"machine": true
 	},
-	"Digger": 
 	{
+		"phrase": "Digger",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Graver",
 		"machine": true
 	},
-	"Structure (Radial)": 
 	{
+		"phrase": "Structure (Radial)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur (radiaal))",
 		"machine": true
 	},
-	"Structure (Toggle)": 
 	{
+		"phrase": "Structure (Toggle)",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur (toggle))",
 		"machine": true
 	},
-	"Structure 1": 
 	{
+		"phrase": "Structure 1",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 1",
 		"machine": true
 	},
-	"Structure 2": 
 	{
+		"phrase": "Structure 2",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 2",
 		"machine": true
 	},
-	"Structure 3": 
 	{
+		"phrase": "Structure 3",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 3",
 		"machine": true
 	},
-	"Structure 4": 
 	{
+		"phrase": "Structure 4",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 4",
 		"machine": true
 	},
-	"Structure 5": 
 	{
+		"phrase": "Structure 5",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 5",
 		"machine": true
 	},
-	"Structure 6": 
 	{
+		"phrase": "Structure 6",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 6",
 		"machine": true
 	},
-	"Structure 7": 
 	{
+		"phrase": "Structure 7",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 7",
 		"machine": true
 	},
-	"Structure 8": 
 	{
+		"phrase": "Structure 8",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 8",
 		"machine": true
 	},
-	"Structure 9": 
 	{
+		"phrase": "Structure 9",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Structuur 9",
 		"machine": true
 	},
-	"Primary": 
 	{
+		"phrase": "Primary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "primair",
 		"machine": true
 	},
-	"Secondary": 
 	{
+		"phrase": "Secondary",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Ondergeschikt",
 		"machine": true
 	},
-	"Switch To Last Tool": 
 	{
+		"phrase": "Switch To Last Tool",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Overschakelen naar laatste tool",
 		"machine": true
 	},
-	"Next Tool": 
 	{
+		"phrase": "Next Tool",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Volgende tool",
 		"machine": true
 	},
-	"Previous Tool": 
 	{
+		"phrase": "Previous Tool",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Vorige tool",
 		"machine": true
 	},
-	"Team Chat": 
 	{
+		"phrase": "Team Chat",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Teamchat",
 		"machine": true
 	},
-	"View Scoreboard": 
 	{
+		"phrase": "View Scoreboard",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Scorebord bekijken",
 		"machine": true
 	},
-	"Unlock Scoreboard": 
 	{
+		"phrase": "Unlock Scoreboard",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Scorebord ontgrendelen",
 		"machine": true
 	},
-	"View Map": 
 	{
+		"phrase": "View Map",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Bekijk kaart",
 		"machine": true
 	},
-	"Menu": 
 	{
+		"phrase": "Menu",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Menu",
 		"machine": true
 	},
-	"Toggle Fullscreen": 
 	{
+		"phrase": "Toggle Fullscreen",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Volledig scherm activeren",
 		"machine": true
 	},
-	"Toggle UI": 
 	{
+		"phrase": "Toggle UI",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Gebruikersinterface wisselen",
 		"machine": true
 	},
-	"Toggle Chat": 
 	{
+		"phrase": "Toggle Chat",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Chat wisselen",
 		"machine": true
 	},
-	"Toggle Killfeed": 
 	{
+		"phrase": "Toggle Killfeed",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Schakel killfeed in",
 		"machine": true
 	},
-	"Toggle Names": 
 	{
+		"phrase": "Toggle Names",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Namen wisselen",
 		"machine": true
 	},
-	"Toggle Info Overlay": 
 	{
+		"phrase": "Toggle Info Overlay",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Informatie-overlay wisselen",
 		"machine": true
 	},
-	"Custom Map - Reload": 
 	{
+		"phrase": "Custom Map - Reload",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aangepaste kaart - herladen",
 		"machine": true
 	},
-	"Custom Map - Full Reload": 
 	{
+		"phrase": "Custom Map - Full Reload",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aangepaste kaart - volledig opnieuw laden",
 		"machine": true
 	},
-	"Custom Map - Toggle Fall Damage": 
 	{
+		"phrase": "Custom Map - Toggle Fall Damage",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aangepaste kaart - schakel valschade in",
 		"machine": true
 	},
-	"Custom Map - Toggle Fly Camera": 
 	{
+		"phrase": "Custom Map - Toggle Fly Camera",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Aangepaste kaart - vliegcamera wisselen",
 		"machine": true
 	},
-	"Reset UI Scale": 
 	{
+		"phrase": "Reset UI Scale",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "UI-schaal resetten",
 		"machine": true
 	},
-	"Provide Feedback": 
 	{
+		"phrase": "Provide Feedback",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Geef feedback",
 		"machine": true
 	},
-	"News Tab": 
 	{
+		"phrase": "News Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Nieuws",
 		"machine": true
 	},
-	"Store Tab": 
 	{
+		"phrase": "Store Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Winkel",
 		"machine": true
 	},
-	"Career Tab": 
 	{
+		"phrase": "Career Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Carrière",
 		"machine": true
 	},
-	"Play Tab": 
 	{
+		"phrase": "Play Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Afspelen",
 		"machine": true
 	},
-	"Clan Tab": 
 	{
+		"phrase": "Clan Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Clan",
 		"machine": true
 	},
-	"Character Tab": 
 	{
+		"phrase": "Character Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Karakter",
 		"machine": true
 	},
-	"Weapons Tab": 
 	{
+		"phrase": "Weapons Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Wapens",
 		"machine": true
 	},
-	"Loadouts Tab": 
 	{
+		"phrase": "Loadouts Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Uitrustingen",
 		"machine": true
 	},
-	"Ship Tab": 
 	{
+		"phrase": "Ship Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Verzenden",
 		"machine": true
 	},
-	"Settings Tab": 
 	{
+		"phrase": "Settings Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Instellingen",
 		"machine": true
 	},
-	"Mapping Tab": 
 	{
+		"phrase": "Mapping Tab",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Tabblad Kaarten",
 		"machine": true
 	},
-	"Open Trial Window": 
 	{
+		"phrase": "Open Trial Window",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Proefvenster openen",
 		"machine": true
 	},
-	"Restart Trial": 
 	{
+		"phrase": "Restart Trial",
+		"context": null,
+		"comment": null,
+		"locations": null,
 		"translation": "Proefperiode opnieuw starten",
 		"machine": true
 	}
-}
+]

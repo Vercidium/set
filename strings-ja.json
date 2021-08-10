@@ -1,4302 +1,7370 @@
-{
-	"Cluster spawn": 
+[
 	{
+		"phrase": "Cluster spawn",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "クラスタースポーン",
 		"machine": true
 	},
-	"Damage": 
 	{
+		"phrase": "Damage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ダメージ",
 		"machine": true
 	},
-	"Overkill": 
 	{
+		"phrase": "Overkill",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "やり過ぎ",
 		"machine": true
 	},
-	"Direct": 
 	{
+		"phrase": "Direct",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "直接",
 		"machine": true
 	},
-	"Disruptor assist": 
 	{
+		"phrase": "Disruptor assist",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ディスラプターアシスト",
 		"machine": true
 	},
-	"Headshot": 
 	{
+		"phrase": "Headshot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ヘッド・ショット",
 		"machine": true
 	},
-	"Kill": 
 	{
+		"phrase": "Kill",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "殺す",
 		"machine": true
 	},
-	"Kill streak": 
 	{
+		"phrase": "Kill streak",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ストリークを殺す",
 		"machine": true
 	},
-	"VIP kill": 
 	{
+		"phrase": "VIP kill",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "VIPキル",
 		"machine": true
 	},
-	"VIP defend": 
 	{
+		"phrase": "VIP defend",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "VIPディフェンス",
 		"machine": true
 	},
-	"Scanner destroyed": 
 	{
+		"phrase": "Scanner destroyed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スキャナーが破壊されました",
 		"machine": true
 	},
-	"Scanner assist": 
 	{
+		"phrase": "Scanner assist",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スキャナーアシスト",
 		"machine": true
 	},
-	"C4 destroyed": 
 	{
+		"phrase": "C4 destroyed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "C4が破壊された",
 		"machine": true
 	},
-	"Disruptor destroyed": 
 	{
+		"phrase": "Disruptor destroyed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ディスラプターが破壊された",
 		"machine": true
 	},
-	"Avenger": 
 	{
+		"phrase": "Avenger",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アベンジャー",
 		"machine": true
 	},
-	"Saviour": 
 	{
+		"phrase": "Saviour",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "救世主",
 		"machine": true
 	},
-	"Flag capture": 
 	{
+		"phrase": "Flag capture",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "旗取り",
 		"machine": true
 	},
-	"Flag carry": 
 	{
+		"phrase": "Flag carry",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フラグキャリー",
 		"machine": true
 	},
-	"Flag return": 
 	{
+		"phrase": "Flag return",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フラグリターン",
 		"machine": true
 	},
-	"Flag attack": 
 	{
+		"phrase": "Flag attack",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フラグ攻撃",
 		"machine": true
 	},
-	"Flag defend": 
 	{
+		"phrase": "Flag defend",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "旗を守る",
 		"machine": true
 	},
-	"Escort": 
 	{
+		"phrase": "Escort",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "護衛",
 		"machine": true
 	},
-	"Flag carrier kill": 
 	{
+		"phrase": "Flag carrier kill",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フラッグキャリアキル",
 		"machine": true
 	},
-	"Bomb deliver": 
 	{
+		"phrase": "Bomb deliver",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾配達",
 		"machine": true
 	},
-	"Bomb carry": 
 	{
+		"phrase": "Bomb carry",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾運搬",
 		"machine": true
 	},
-	"Bomb defuse": 
 	{
+		"phrase": "Bomb defuse",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾の拡散",
 		"machine": true
 	},
-	"Bomb attack": 
 	{
+		"phrase": "Bomb attack",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾攻撃",
 		"machine": true
 	},
-	"Bomb defend": 
 	{
+		"phrase": "Bomb defend",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾防御",
 		"machine": true
 	},
-	"Spot assist": 
 	{
+		"phrase": "Spot assist",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スポットアシスト",
 		"machine": true
 	},
-	"Attacking": 
 	{
+		"phrase": "Attacking",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "攻撃",
 		"machine": true
 	},
-	"Defending": 
 	{
+		"phrase": "Defending",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "防御",
 		"machine": true
 	},
-	"Contesting": 
 	{
+		"phrase": "Contesting",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "コンテスト",
 		"machine": true
 	},
-	"Canister capture": 
 	{
+		"phrase": "Canister capture",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャニスターキャプチャ",
 		"machine": true
 	},
-	"Zone capture": 
 	{
+		"phrase": "Zone capture",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゾーンキャプチャ",
 		"machine": true
 	},
-	"Beacon capture": 
 	{
+		"phrase": "Beacon capture",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ビーコンキャプチャ",
 		"machine": true
 	},
-	"Beacon destroyed": 
 	{
+		"phrase": "Beacon destroyed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ビーコンが破壊された",
 		"machine": true
 	},
-	"Salvage": 
 	{
+		"phrase": "Salvage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "引き上げ",
 		"machine": true
 	},
-	"Round win": 
 	{
+		"phrase": "Round win",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ラウンドウィン",
 		"machine": true
 	},
-	"Round survive": 
 	{
+		"phrase": "Round survive",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ラウンドサバイブ",
 		"machine": true
 	},
-	"Assist": 
 	{
+		"phrase": "Assist",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "支援する",
 		"machine": true
 	},
-	"Assist counts as kill": 
 	{
+		"phrase": "Assist counts as kill",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アシストはキルとしてカウントされます",
 		"machine": true
 	},
-	"Fortifying": 
 	{
+		"phrase": "Fortifying",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "要塞化",
 		"machine": true
 	},
-	"Most Valuable Player": 
 	{
+		"phrase": "Most Valuable Player",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最優秀選手",
 		"machine": true
 	},
-	"Annihilator": 
 	{
+		"phrase": "Annihilator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アニヒレーター",
 		"machine": true
 	},
-	"Marksman": 
 	{
+		"phrase": "Marksman",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マークスマン",
 		"machine": true
 	},
-	"Creator": 
 	{
+		"phrase": "Creator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "クリエイター",
 		"machine": true
 	},
-	"Destroyer": 
 	{
+		"phrase": "Destroyer",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "駆逐艦",
 		"machine": true
 	},
-	"Attacker": 
 	{
+		"phrase": "Attacker",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アタッカー",
 		"machine": true
 	},
-	"Defender": 
 	{
+		"phrase": "Defender",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ディフェンダー",
 		"machine": true
 	},
-	"Impaler": 
 	{
+		"phrase": "Impaler",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "インパラー",
 		"machine": true
 	},
-	"Resilient": 
 	{
+		"phrase": "Resilient",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "弾力性",
 		"machine": true
 	},
-	"Assistance": 
 	{
+		"phrase": "Assistance",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "支援",
 		"machine": true
 	},
-	"Impacter": 
 	{
+		"phrase": "Impacter",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "インパクター",
 		"machine": true
 	},
-	"Infiltrator": 
 	{
+		"phrase": "Infiltrator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "潜入者",
 		"machine": true
 	},
-	"Team placement": 
 	{
+		"phrase": "Team placement",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チームの配置",
 		"machine": true
 	},
-	"Connecting": 
 	{
+		"phrase": "Connecting",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "接続する",
 		"machine": true
 	},
-	"Loading Map": 
 	{
+		"phrase": "Loading Map",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "地図を読み込んでいます",
 		"machine": true
 	},
-	"None": 
 	{
+		"phrase": "None",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "なし",
 		"machine": true
 	},
-	"Playing": 
 	{
+		"phrase": "Playing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "遊ぶ",
 		"machine": true
 	},
-	"Reserved (party)": 
 	{
+		"phrase": "Reserved (party)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "予約済み（パーティー)",
 		"machine": true
 	},
-	"Selecting a team": 
 	{
+		"phrase": "Selecting a team",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チームの選択",
 		"machine": true
 	},
-	"Spectating": 
 	{
+		"phrase": "Spectating",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "観戦",
 		"machine": true
 	},
-	"Left": 
 	{
+		"phrase": "Left",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "左",
 		"machine": true
 	},
-	"Breakthrough": 
 	{
+		"phrase": "Breakthrough",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブレークスルー",
 		"machine": true
 	},
-	"Control Shift": 
 	{
+		"phrase": "Control Shift",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "コントロールシフト",
 		"machine": true
 	},
-	"Capture the Flag": 
 	{
+		"phrase": "Capture the Flag",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "旗を取れ",
 		"machine": true
 	},
-	"Gun Game": 
 	{
+		"phrase": "Gun Game",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ガンゲーム",
 		"machine": true
 	},
-	"Head Hunter": 
 	{
+		"phrase": "Head Hunter",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ヘッドハンター",
 		"machine": true
 	},
-	"Spire": 
 	{
+		"phrase": "Spire",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "尖塔",
 		"machine": true
 	},
-	"Static": 
 	{
+		"phrase": "Static",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "静的",
 		"machine": true
 	},
-	"All": 
 	{
+		"phrase": "All",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "全て",
 		"machine": true
 	},
-	"Kicked by a moderator": 
 	{
+		"phrase": "Kicked by a moderator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "モデレーターに蹴られた",
 		"machine": true
 	},
-	"Already in game": 
 	{
+		"phrase": "Already in game",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "すでにゲーム中",
 		"machine": true
 	},
-	"Authentication failed": 
 	{
+		"phrase": "Authentication failed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "認証に失敗しました",
 		"machine": true
 	},
-	"Banned": 
 	{
+		"phrase": "Banned",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "禁止された",
 		"machine": true
 	},
-	"Disconnected": 
 	{
+		"phrase": "Disconnected",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "切断されました",
 		"machine": true
 	},
-	"EAC Violation": 
 	{
+		"phrase": "EAC Violation",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "EAC違反",
 		"machine": true
 	},
-	"Kicked for inactivity": 
 	{
+		"phrase": "Kicked for inactivity",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "非アクティブのために蹴られた",
 		"machine": true
 	},
-	"Internal error": 
 	{
+		"phrase": "Internal error",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "内部エラー",
 		"machine": true
 	},
-	"Map is restoring. Try again in 10 seconds": 
 	{
+		"phrase": "Map is restoring. Try again in 10 seconds",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マップが復元されています。 10秒後に再試行してください",
 		"machine": true
 	},
-	"Network Error": 
 	{
+		"phrase": "Network Error",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ネットワークエラー",
 		"machine": true
 	},
-	"No Error": 
 	{
+		"phrase": "No Error",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エラーなし",
 		"machine": true
 	},
-	"Reconnecting": 
 	{
+		"phrase": "Reconnecting",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "再接続",
 		"machine": true
 	},
-	"Server is restarting": 
 	{
+		"phrase": "Server is restarting",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サーバーが再起動しています",
 		"machine": true
 	},
-	"Temporarily Banned": 
 	{
+		"phrase": "Temporarily Banned",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "一時的に禁止",
 		"machine": true
 	},
-	"Version mismatch": 
 	{
+		"phrase": "Version mismatch",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "バージョンの不一致",
 		"machine": true
 	},
-	"Votekicked": 
 	{
+		"phrase": "Votekicked",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "投票キック",
 		"machine": true
 	},
-	"Votekick still in effect": 
 	{
+		"phrase": "Votekick still in effect",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "投票キックはまだ有効です",
 		"machine": true
 	},
-	"Incorrect password": 
 	{
+		"phrase": "Incorrect password",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パスワードが正しくありません",
 		"machine": true
 	},
-	"Your level is too high": 
 	{
+		"phrase": "Your level is too high",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レベルが高すぎます",
 		"machine": true
 	},
-	"Can only claim 3 lobbies per day": 
 	{
-		"translation": "1日あたり3つのロビーしか請求できません",
-		"machine": true
-	},
-	"Lobby already claimed": 
-	{
+		"phrase": "Lobby already claimed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロビーはすでに主張している",
 		"machine": true
 	},
-	"Min level must be lower than your own": 
 	{
+		"phrase": "Min level must be lower than your own",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最小レベルは自分より低くする必要があります",
 		"machine": true
 	},
-	"Max level must be greater than your own": 
 	{
+		"phrase": "Max level must be greater than your own",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最大レベルはあなた自身よりも大きくなければなりません",
 		"machine": true
 	},
-	"Min level can't be greater than max level": 
 	{
+		"phrase": "Min level can't be greater than max level",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最小レベルは最大レベルを超えることはできません",
 		"machine": true
 	},
-	"You are too powerful": 
 	{
+		"phrase": "You are too powerful",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "あなたは力が強すぎる",
 		"machine": true
 	},
-	"Your level is too low": 
 	{
+		"phrase": "Your level is too low",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レベルが低すぎます",
 		"machine": true
 	},
-	"Cannot claim. Lobby has players": 
 	{
+		"phrase": "Cannot claim. Lobby has players",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "主張することはできません。ロビーには選手がいます",
 		"machine": true
 	},
-	"Reserved slot expired": 
 	{
+		"phrase": "Reserved slot expired",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "予約済みスロットの有効期限が切れました",
 		"machine": true
 	},
-	"Min level must be less than max level": 
 	{
+		"phrase": "Min level must be less than max level",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最小レベルは最大レベル未満である必要があります",
 		"machine": true
 	},
-	"Bot Replacement": 
 	{
+		"phrase": "Bot Replacement",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ボットの交換",
 		"machine": true
 	},
-	"Accelerator": 
 	{
+		"phrase": "Accelerator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アクセル",
 		"machine": true
 	},
-	"Beam splitter": 
 	{
+		"phrase": "Beam splitter",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ビームスプリッター",
 		"machine": true
 	},
-	"Choke": 
 	{
+		"phrase": "Choke",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "むせさせる",
 		"machine": true
 	},
-	"Compressor": 
 	{
+		"phrase": "Compressor",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "コンプレッサー",
 		"machine": true
 	},
-	"Default": 
 	{
+		"phrase": "Default",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ディフォルト",
 		"machine": true
 	},
-	"Extended": 
 	{
+		"phrase": "Extended",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "拡張",
 		"machine": true
 	},
-	"Extendedest": 
 	{
-		"translation": "拡張された",
-		"machine": true
-	},
-	"Resonator": 
-	{
+		"phrase": "Resonator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レゾネーター",
 		"machine": true
 	},
-	"Silencer": 
 	{
+		"phrase": "Silencer",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サイレンサー",
 		"machine": true
 	},
-	"Medium": 
 	{
+		"phrase": "Medium",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "中くらい",
 		"machine": true
 	},
-	"Short": 
 	{
+		"phrase": "Short",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "短い",
 		"machine": true
 	},
-	"Angled": 
 	{
+		"phrase": "Angled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "角度付き",
 		"machine": true
 	},
-	"Removed": 
 	{
+		"phrase": "Removed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "NS",
 		"machine": true
 	},
-	"Stubby": 
 	{
+		"phrase": "Stubby",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スタビー軍曹",
 		"machine": true
 	},
-	"Augmented": 
 	{
+		"phrase": "Augmented",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "拡張",
 		"machine": true
 	},
-	"Buckshot": 
 	{
+		"phrase": "Buckshot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "散弾銃",
 		"machine": true
 	},
-	"Burst": 
 	{
+		"phrase": "Burst",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "バースト",
 		"machine": true
 	},
-	"Lethal": 
 	{
+		"phrase": "Lethal",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "致死",
 		"machine": true
 	},
-	"Heavy": 
 	{
+		"phrase": "Heavy",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "重い",
 		"machine": true
 	},
-	"Light": 
 	{
+		"phrase": "Light",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "光",
 		"machine": true
 	},
-	"Piercing": 
 	{
+		"phrase": "Piercing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ピアス",
 		"machine": true
 	},
-	"Ricochet": 
 	{
+		"phrase": "Ricochet",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "リコシェ",
 		"machine": true
 	},
-	"Slug": 
 	{
+		"phrase": "Slug",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ナメクジ",
 		"machine": true
 	},
-	"Tow": 
 	{
+		"phrase": "Tow",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "牽引",
 		"machine": true
 	},
-	"Corrosive": 
 	{
+		"phrase": "Corrosive",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "腐食性",
 		"machine": true
 	},
-	"Explosive": 
 	{
+		"phrase": "Explosive",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆発物",
 		"machine": true
 	},
-	"Incendiary": 
 	{
+		"phrase": "Incendiary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "焼夷弾",
 		"machine": true
 	},
-	"Base": 
 	{
+		"phrase": "Base",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ベース",
 		"machine": true
 	},
-	"Tactical": 
 	{
+		"phrase": "Tactical",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "戦術",
 		"machine": true
 	},
-	"Mechanical": 
 	{
+		"phrase": "Mechanical",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "機械的",
 		"machine": true
 	},
-	"Advanced": 
 	{
+		"phrase": "Advanced",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "高度",
 		"machine": true
 	},
-	"Welded": 
 	{
+		"phrase": "Welded",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "溶接",
 		"machine": true
 	},
-	"Pneumatic": 
 	{
+		"phrase": "Pneumatic",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "空気圧",
 		"machine": true
 	},
-	"Single": 
 	{
+		"phrase": "Single",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "独身",
 		"machine": true
 	},
-	"Automatic": 
 	{
+		"phrase": "Automatic",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "自動",
 		"machine": true
 	},
-	"Sniper": 
 	{
+		"phrase": "Sniper",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スナイパー",
 		"machine": true
 	},
-	"Rifle": 
 	{
+		"phrase": "Rifle",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ライフル",
 		"machine": true
 	},
-	"SMG": 
 	{
+		"phrase": "SMG",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "SMG",
 		"machine": true
 	},
-	"Shotgun": 
 	{
+		"phrase": "Shotgun",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ショットガン",
 		"machine": true
 	},
-	"Pistol": 
 	{
+		"phrase": "Pistol",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ピストル",
 		"machine": true
 	},
-	"Equipment": 
 	{
+		"phrase": "Equipment",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "装置",
 		"machine": true
 	},
-	"Other": 
 	{
+		"phrase": "Other",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "他の",
 		"machine": true
 	},
-	"Ironsights": 
 	{
+		"phrase": "Ironsights",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "Ironsights",
 		"machine": true
 	},
-	"Broken Circle": 
 	{
+		"phrase": "Broken Circle",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "壊れた円",
 		"machine": true
 	},
-	"Broken Square": 
 	{
+		"phrase": "Broken Square",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "壊れた正方形",
 		"machine": true
 	},
-	"Chevron": 
 	{
+		"phrase": "Chevron",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "シェブロン",
 		"machine": true
 	},
-	"Circle Cross": 
 	{
+		"phrase": "Circle Cross",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サークルクロス",
 		"machine": true
 	},
-	"Dot Cross": 
 	{
+		"phrase": "Dot Cross",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ドットクロス",
 		"machine": true
 	},
-	"Dotted Cross": 
 	{
+		"phrase": "Dotted Cross",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "点線の十字架",
 		"machine": true
 	},
-	"Pointed Cross": 
 	{
+		"phrase": "Pointed Cross",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "とがった十字架",
 		"machine": true
 	},
-	"Sparse Dotted Cross": 
 	{
+		"phrase": "Sparse Dotted Cross",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スパースドットクロス",
 		"machine": true
 	},
-	"Unbroken Cross": 
 	{
+		"phrase": "Unbroken Cross",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "途切れのない十字架",
 		"machine": true
 	},
-	"2px Dot": 
 	{
+		"phrase": "2px Dot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "2pxドット",
 		"machine": true
 	},
-	"4px Dot": 
 	{
+		"phrase": "4px Dot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "4pxドット",
 		"machine": true
 	},
-	"6px Dot": 
 	{
+		"phrase": "6px Dot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "6pxドット",
 		"machine": true
 	},
-	"8px Dot": 
 	{
+		"phrase": "8px Dot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "8pxドット",
 		"machine": true
 	},
-	"Flat Dot": 
 	{
+		"phrase": "Flat Dot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フラットドット",
 		"machine": true
 	},
-	"Dot Plus": 
 	{
+		"phrase": "Dot Plus",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ドットプラス",
 		"machine": true
 	},
-	"Dot Plus Circle": 
 	{
+		"phrase": "Dot Plus Circle",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ドットプラスサークル",
 		"machine": true
 	},
-	"Dot T": 
 	{
+		"phrase": "Dot T",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ドットT",
 		"machine": true
 	},
-	"Empty Plus": 
 	{
+		"phrase": "Empty Plus",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "空のプラス",
 		"machine": true
 	},
-	"Empty T": 
 	{
+		"phrase": "Empty T",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "空のT",
 		"machine": true
 	},
-	"T Point": 
 	{
+		"phrase": "T Point",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "Tポイント",
 		"machine": true
 	},
-	"T Point Round": 
 	{
+		"phrase": "T Point Round",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "Tポイントラウンド",
 		"machine": true
 	},
-	"Camoflague": 
 	{
+		"phrase": "Camoflague",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カモフラーグ",
 		"machine": true
 	},
-	"Metallic": 
 	{
+		"phrase": "Metallic",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "メタリック",
 		"machine": true
 	},
-	"Animated": 
 	{
+		"phrase": "Animated",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アニメーション",
 		"machine": true
 	},
-	"Digital": 
 	{
+		"phrase": "Digital",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "デジタル",
 		"machine": true
 	},
-	"Tiger": 
 	{
+		"phrase": "Tiger",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "虎",
 		"machine": true
 	},
-	"Poly": 
 	{
+		"phrase": "Poly",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ポリ",
 		"machine": true
 	},
-	"Snakeskin": 
 	{
+		"phrase": "Snakeskin",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スネークスキン",
 		"machine": true
 	},
-	"Woodland": 
 	{
+		"phrase": "Woodland",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "森林",
 		"machine": true
 	},
-	"Hot Metal": 
 	{
+		"phrase": "Hot Metal",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "溶銑",
 		"machine": true
 	},
-	"Cold Metal": 
 	{
+		"phrase": "Cold Metal",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "コールドメタル",
 		"machine": true
 	},
-	"Pearl": 
 	{
+		"phrase": "Pearl",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パール",
 		"machine": true
 	},
-	"Tracer": 
 	{
+		"phrase": "Tracer",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トレーサー",
 		"machine": true
 	},
-	"Fluid": 
 	{
+		"phrase": "Fluid",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "体液",
 		"machine": true
 	},
-	"Ember": 
 	{
+		"phrase": "Ember",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "残り火",
 		"machine": true
 	},
-	"Grid": 
 	{
+		"phrase": "Grid",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "グリッド",
 		"machine": true
 	},
-	"This mid-long ranged weapon is balanced for most conflicts.": 
 	{
+		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この中長距離兵器は、ほとんどの紛争でバランスが取れています.",
 		"machine": true
 	},
-	"Mecharii technology that can be charged multiple times to produce a more powerful beam.": 
 	{
+		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "より強力なビームを生成するために複数回充電できるMechariiテクノロジー.",
 		"machine": true
 	},
-	"Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.": 
 	{
+		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "左クリックで投げ、右クリックで爆発します。リスポーン時に、c4はあなたから切断され、爆発させるために撃たれなければなりません.",
 		"machine": true
 	},
-	"This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.": 
 	{
+		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この中長距離ショットガンは、長距離でパンチを詰め込みます.\nスコーピング中、そのペレットの広がりは3.0秒で70％減少します.",
 		"machine": true
 	},
-	"A testament to Aegis' advanced technology.": 
 	{
-		"translation": "イージスの高度な技術の証.",
-		"machine": true
-	},
-	"Slower Midi digging that removes a 3x3x3 chunk of blocks.": 
-	{
-		"translation": "ブロックの3x3x3チャンクを削除する遅いmidi掘削.",
-		"machine": true
-	},
-	"Place on a block surface to electrify passing enemies. Single use only.": 
-	{
+		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "通過する敵を電化するためにブロック面に置きます。使い捨てのみ.",
 		"machine": true
 	},
-	"Allows one extra modification to be equipped.": 
 	{
-		"translation": "1つの追加の変更を装備できます.",
-		"machine": true
-	},
-	"This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.": 
-	{
+		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この中距離の武器は、爆発する前に跳ね返る不安定なソルトリウムコアを発射します.",
 		"machine": true
 	},
-	"This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.": 
 	{
+		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この手榴弾は不安定なソルトリウムコアを持ち、3秒後に爆発します。すべてのプレイヤーは2つの手榴弾を持っていますが、これを有効にすると手榴弾が壁にくっつきます.",
 		"machine": true
 	},
-	"Agaman technology that cuts through blocks instantly.": 
 	{
+		"phrase": "Agaman technology that cuts through blocks instantly.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブロックを瞬時にカットするアガマンテクノロジー.",
 		"machine": true
 	},
-	"This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots": 
 	{
+		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この中距離武器には制圧射撃用の大きなクリップがあります.\n50回の連続ショット後に過熱",
 		"machine": true
 	},
-	"Agaman technology that fires balls of plasma in quick succession.": 
 	{
+		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プラズマのボールを素早く連続して発射するアガマン技術.",
 		"machine": true
 	},
-	"Place blocks with this tool.": 
 	{
+		"phrase": "Place blocks with this tool.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このツールでブロックを配置します.",
 		"machine": true
 	},
-	"This mid ranged shoots Soltrium Tracer Rounds. Recharges over time and can overheat.": 
 	{
-		"translation": "この中距離射撃ソルトリウムトレーサーラウンド。時間の経過とともに再充電され、過熱する可能性があります.",
-		"machine": true
-	},
-	"Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.": 
-	{
+		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ソルトリウムエネルギーを爆発性のプラズマ球に変換する破壊的なアガマン技術.",
 		"machine": true
 	},
-	"Paint blocks with this tool.": 
 	{
+		"phrase": "Paint blocks with this tool.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このツールでブロックをペイントする.",
 		"machine": true
 	},
-	"This close-mid ranged weapon shoots quickly but has a small magazine.": 
 	{
+		"phrase": "This close-mid ranged weapon shoots quickly but has a small magazine.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この半狭母音の武器は素早く発射しますが、小さなマガジンがあります.",
 		"machine": true
 	},
-	"Light Agaman technology. Fast firing, hard hitting.": 
 	{
+		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "軽いアガマンテクノロジー。速い発砲、強い打撃.",
 		"machine": true
 	},
-	"Heavy Agaman technology. Fires a hard-hitting ball of plasma.": 
 	{
+		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ヘビーアガマンテクノロジー。プラズマの強烈なボールを発射します.",
 		"machine": true
 	},
-	"This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.": 
 	{
+		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この長距離兵器は磁気推進力を使用し、4倍のスコープを装備して範囲内の味方をサポートすることができます.",
 		"machine": true
 	},
-	"Blocks placed have +100% health.": 
 	{
-		"translation": "配置されたブロックのヘルスは+ 100％です.",
-		"machine": true
-	},
-	"This hard-hitting close ranged weapon contains a powerful Soltrium Core.": 
-	{
+		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この強烈な近距離武器には、強力なソルトリウムコアが含まれています.",
 		"machine": true
 	},
-	"Such a small gun. Such a massive boom.": 
 	{
+		"phrase": "Such a small gun. Such a massive boom.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "そのような小さな銃。そのような大ブーム.",
 		"machine": true
 	},
-	"This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.": 
 	{
+		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この長距離兵器は、爆発性ミサイルを発射するためにソルトリウム推進技術を使用しています.",
 		"machine": true
 	},
-	"Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.": 
 	{
+		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "2秒ごとにパルスするフローティングスキャニングオーブを起動し、壁を通して敵を明らかにします.\nスキャナーオーブは敵プレイヤーが撃つことができます.",
 		"machine": true
 	},
-	"Agaman technology. This close ranged weapon propels a spray of plasma": 
 	{
-		"translation": "アガマンテクノロジー。この近距離兵器はプラズマのスプレーを推進します",
-		"machine": true
-	},
-	"This close ranged weapon creates a blast of shrapnel.": 
-	{
+		"phrase": "This close ranged weapon creates a blast of shrapnel.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この近距離武器は榴散弾の爆発を作成します.",
 		"machine": true
 	},
-	"This close-mid ranged weapon packs a punch. Watch out for the recoil.": 
 	{
+		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この近中距離の武器はパンチを詰め込みます。反動に気をつけろ.",
 		"machine": true
 	},
-	"Place block structures with this tool.": 
 	{
+		"phrase": "Place block structures with this tool.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このツールでブロック構造を配置します.",
 		"machine": true
 	},
-	"Attaches to walls. Right click to pull the wall down.": 
 	{
+		"phrase": "Attaches to walls. Right click to pull the wall down.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "壁に取り付けます。右クリックして壁を引き下げます.",
 		"machine": true
 	},
-	"Cluster Agama technology. Not much about these weapons is known.": 
 	{
-		"translation": "クラスターアガマテクノロジー。これらの武器についてはあまり知られていません.",
-		"machine": true
-	},
-	"Building": 
-	{
+		"phrase": "Building",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "建物",
 		"machine": true
 	},
-	"+100 blocks\n+2 blocks build distance\n+5 block health": 
 	{
+		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+100ブロック\n+2ブロック構築距離\n+5ブロックヘルス",
 		"machine": true
 	},
-	"+100 blocks\n+4 blocks build distance\n+9 block health": 
 	{
+		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+100ブロック\n+4ブロック構築距離\n+9ブロックヘルス",
 		"machine": true
 	},
-	"+100 blocks\n+6 blocks build distance\n+13 block health": 
 	{
+		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+100ブロック\n+6ブロック構築距離\n+13ブロックヘルス",
 		"machine": true
 	},
-	"Hydraulics": 
 	{
+		"phrase": "Hydraulics",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "油圧",
 		"machine": true
 	},
-	"Leg servos": 
 	{
+		"phrase": "Leg servos",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レッグサーボ",
 		"machine": true
 	},
-	"Regeneration": 
 	{
+		"phrase": "Regeneration",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "再生",
 		"machine": true
 	},
-	"Speed": 
 	{
+		"phrase": "Speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スピード",
 		"machine": true
 	},
-	"Stealth": 
 	{
+		"phrase": "Stealth",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ステルス",
 		"machine": true
 	},
-	"Kinetic": 
 	{
+		"phrase": "Kinetic",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キネティック",
 		"machine": true
 	},
-	"Scavenger": 
 	{
+		"phrase": "Scavenger",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スカベンジャー",
 		"machine": true
 	},
-	"+3 blocks safe fall distance\n-15% fall damage": 
 	{
+		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+3ブロックの安全落下距離\n-15％の落下ダメージ",
 		"machine": true
 	},
-	"+400% self explosion knockback\n-10% self explosion damage": 
 	{
+		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 400％自己爆発ノックバック\n-10％の自己爆発ダメージ",
 		"machine": true
 	},
-	"+20% health regeneration speed": 
 	{
+		"phrase": "+20% health regeneration speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 20％のヘルス再生速度",
 		"machine": true
 	},
-	"+5% movement speed": 
 	{
+		"phrase": "+5% movement speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 5％の移動速度",
 		"machine": true
 	},
-	"-40% build and dig volume\n-15% footstep volume\n-25% footstep distance": 
 	{
+		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "-40％のビルドと掘り出し量\n-15％の足音ボリューム\n-25％の足跡距離",
 		"machine": true
 	},
-	"+10% dig speed": 
 	{
+		"phrase": "+10% dig speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 10％の掘削速度",
 		"machine": true
 	},
-	"+6 blocks safe fall distance\n-30% fall damage": 
 	{
+		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+6ブロックの安全落下距離\n-30％の落下ダメージ",
 		"machine": true
 	},
-	"+450% self explosion knockback\n-20% self explosion damage": 
 	{
+		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 450％自己爆発ノックバック\n-20％の自己爆発ダメージ",
 		"machine": true
 	},
-	"+40% health regeneration speed": 
 	{
+		"phrase": "+40% health regeneration speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 40％のヘルス再生速度",
 		"machine": true
 	},
-	"+10% movement speed": 
 	{
+		"phrase": "+10% movement speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 10％の移動速度",
 		"machine": true
 	},
-	"-60% build and dig volume\n-30% footstep volume\n-50% footstep distance": 
 	{
+		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "-60％のビルドとディグボリューム\n-30％の足音ボリューム\n-50％の足跡距離",
 		"machine": true
 	},
-	"+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup": 
 	{
+		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 20％の掘削速度\n掘ったブロックごとに2ブロックを獲得\nすべての弾薬ピックアップで+1の装備弾薬",
 		"machine": true
 	},
-	"+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height": 
 	{
+		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+9ブロックの安全落下距離\n-45％の落下ダメージ\n+1ブロックジャンプ高さ",
 		"machine": true
 	},
-	"+500% self explosion knockback\n-30% self explosion damage": 
 	{
+		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 500％自己爆発ノックバック\n-30％の自己爆発ダメージ",
 		"machine": true
 	},
-	"+60% health regeneration speed": 
 	{
+		"phrase": "+60% health regeneration speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 60％のヘルス再生速度",
 		"machine": true
 	},
-	"+15% movement speed": 
 	{
+		"phrase": "+15% movement speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 15％の移動速度",
 		"machine": true
 	},
-	"-80% build and dig volume\n-45% footstep volume\n-75% footstep distance": 
 	{
+		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "-80％のビルドと掘削ボリューム\n-45％の足音ボリューム\n-75％の足跡距離",
 		"machine": true
 	},
-	"+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup": 
 	{
+		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "+ 30％の掘削速度\n掘ったブロックごとに3ブロックを獲得\n弾薬ピックアップごとに+10ヘルス",
 		"machine": true
 	},
-	"While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.": 
 	{
+		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "経験の浅い間、この傭兵はソルトリウム銀河への旅に勇敢に立ち向かい、戦いで彼らの価値を証明しようとしています.",
 		"machine": true
 	},
-	"This solo operative seeks nothing but victory when it comes to saving their race from destruction.": 
 	{
+		"phrase": "This solo operative seeks nothing but victory when it comes to saving their race from destruction.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この一人の工作員は、彼らの種族を破壊から救うことになると、勝利以外の何物も求めません。.",
 		"machine": true
 	},
-	"A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.": 
 	{
+		"phrase": "A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "範囲内での致命的な狙撃兵と近くでの迅速な殺人者、彼らはどんな遭遇でも彼ら自身を保持することができます.",
 		"machine": true
 	},
-	"This commander lost their arm during the Flare but continues to fight for the future of their race.": 
 	{
+		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この司令官はフレア中に腕を失いましたが、レースの未来のために戦い続けています.",
 		"machine": true
 	},
-	"Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.": 
 	{
+		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "銀河の郊外を歩き回り、一人で旅をする勇気のある人を攻撃する無法者.",
 		"machine": true
 	},
-	"This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.": 
 	{
+		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このアガマンは、ソルトリウム銀河に入る価値を証明するために最前線で慎重に戦いました.",
 		"machine": true
 	},
-	"A curious one, aren't you?": 
 	{
+		"phrase": "A curious one, aren't you?",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "好奇心旺盛ですよね?",
 		"machine": true
 	},
-	"This Agaman gave up everything to make the journey to the Soltrium galaxy.": 
 	{
+		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このアガマンは、ソルトリウム銀河への旅をするためにすべてをあきらめました.",
 		"machine": true
 	},
-	"This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.": 
 	{
+		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このアガマンハイボーンは、肉と機械の止められない混合物を作り出す実験でソルトリウムを注入されました.",
 		"machine": true
 	},
-	"Click the Play tab when you are ready": 
 	{
+		"phrase": "Click the Play tab when you are ready",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "準備ができたら再生タブをクリックします",
 		"machine": true
 	},
-	"SETTINGS > PERFORMANCE > ANIMATED BLOCK SKINS must be enabled for animated block skins to render correctly": 
 	{
-		"translation": "アニメーションブロックスキンを正しくレンダリングするには、[設定]> [パフォーマンス]> [アニメーションブロックスキン]を有効にする必要があります",
-		"machine": true
-	},
-	"DRAG TO ROTATE\nSCROLL TO ZOOM\nSPACE TO AUTO ROTATE": 
-	{
-		"translation": "回転させるドラッグ\nズームするまでスクロール\n自動回転するスペース",
-		"machine": true
-	},
-	"Did you know": 
-	{
+		"phrase": "Did you know",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "知ってますか",
 		"machine": true
 	},
-	"Press escape to cancel": 
 	{
+		"phrase": "Press escape to cancel",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エスケープを押してキャンセルします",
 		"machine": true
 	},
-	"Warning": 
 	{
+		"phrase": "Warning",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "警告",
 		"machine": true
 	},
-	"This is an experimental server used for testing maps created by the community. The game may not function as intended": 
 	{
-		"translation": "これは、コミュニティによって作成されたマップをテストするために使用される実験的なサーバーです。ゲームが意図したとおりに機能しない可能性があります",
-		"machine": true
-	},
-	"Determining sector coordinates": 
-	{
+		"phrase": "Determining sector coordinates",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "セクター座標の決定",
 		"machine": true
 	},
-	"Calibrating thermal dampeners": 
 	{
+		"phrase": "Calibrating thermal dampeners",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サーマルダンパーの校正",
 		"machine": true
 	},
-	"Entering planet atmosphere": 
 	{
+		"phrase": "Entering planet atmosphere",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "惑星大気に入る",
 		"machine": true
 	},
-	"Analysing environment": 
 	{
+		"phrase": "Analysing environment",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "分析環境",
 		"machine": true
 	},
-	"Commencing landing procedure": 
 	{
+		"phrase": "Commencing landing procedure",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "着陸手順の開始",
 		"machine": true
 	},
-	"Respawn": 
 	{
+		"phrase": "Respawn",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "リスポーン",
 		"machine": true
 	},
-	"Players": 
 	{
+		"phrase": "Players",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤー",
 		"machine": true
 	},
-	"No respawns": 
 	{
+		"phrase": "No respawns",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "リスポーンなし",
 		"machine": true
 	},
-	"First to 5 wins": 
 	{
+		"phrase": "First to 5 wins",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最初から5勝",
 		"machine": true
 	},
-	"A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.": 
 	{
+		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ソルトリウムが賭けられている銀河の郊外に影の市場が発達しました。出場者が利益と生存のために戦う分野では、それはすべてか無かです.",
 		"machine": true
 	},
-	"Start with nothing and collect weapons to eliminate the enemy team.": 
 	{
+		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "何もないところから始めて、武器を集めて敵チームを排除します.",
 		"machine": true
 	},
-	"All players start with the same randomised loadout.": 
 	{
+		"phrase": "All players start with the same randomised loadout.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "すべてのプレイヤーは同じランダム化されたロードアウトで始まります.",
 		"machine": true
 	},
-	"Times to win": 
 	{
+		"phrase": "Times to win",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "勝つための時間",
 		"machine": true
 	},
-	"Soltrium is scattered throughout the outer sector. Various": 
 	{
+		"phrase": "Soltrium is scattered throughout the outer sector. Various",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ソルトリウムは外側のセクター全体に散らばっています。様々",
 		"machine": true
 	},
-	"And": 
 	{
+		"phrase": "And",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "と",
 		"machine": true
 	},
-	"battalions have been dispatched to search for and collect the precious resource.": 
 	{
+		"phrase": "battalions have been dispatched to search for and collect the precious resource.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "貴重な資源を探して集めるために大隊が派遣されました.",
 		"machine": true
 	},
-	"Capture 5 zones to win": 
 	{
+		"phrase": "Capture 5 zones to win",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "勝つために5つのゾーンをキャプチャします",
 		"machine": true
 	},
-	"Control the zone to win": 
 	{
+		"phrase": "Control the zone to win",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "勝つためにゾーンを制御する",
 		"machine": true
 	},
-	"Deliver the bomb": 
 	{
+		"phrase": "Deliver the bomb",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾を届ける",
 		"machine": true
 	},
-	"Capture the flag": 
 	{
+		"phrase": "Capture the flag",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "旗を取れ",
 		"machine": true
 	},
-	"Get two kills with every weapon, then melee to win": 
 	{
+		"phrase": "Get two kills with every weapon, then melee to win",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "すべての武器で2キルを取得し、近接攻撃で勝利する",
 		"machine": true
 	},
-	"Hold the most Soltrium to win": 
 	{
+		"phrase": "Hold the most Soltrium to win",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "勝つために最も多くのソルトリウムを保持する",
 		"machine": true
 	},
-	"Pick up": 
 	{
+		"phrase": "Pick up",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "選び出す",
 		"machine": true
 	},
-	"From enemy corpses": 
 	{
+		"phrase": "From enemy corpses",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "敵の死体から",
 		"machine": true
 	},
-	"Weapons and Mods spawn around the map": 
 	{
+		"phrase": "Weapons and Mods spawn around the map",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マップの周りに武器と改造が出現します",
 		"machine": true
 	},
-	"Not bound": 
 	{
+		"phrase": "Not bound",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "バインドされていません",
 		"machine": true
 	},
-	"You can hold": 
 	{
+		"phrase": "You can hold",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "あなたが保持することができます",
 		"machine": true
 	},
-	"To reveal enemy positions to teammates": 
 	{
+		"phrase": "To reveal enemy positions to teammates",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チームメイトに敵の位置を明らかにする",
 		"machine": true
 	},
-	"You can press": 
 	{
+		"phrase": "You can press",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "あなたは押すことができます",
 		"machine": true
 	},
-	"To provide feedback": 
 	{
+		"phrase": "To provide feedback",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フィードバックを提供するには",
 		"machine": true
 	},
-	"Local": 
 	{
+		"phrase": "Local",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ローカル",
 		"machine": true
 	},
-	"Subscribed": 
 	{
+		"phrase": "Subscribed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "購読済み",
 		"machine": true
 	},
-	"Cancel": 
 	{
+		"phrase": "Cancel",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャンセル",
 		"machine": true
 	},
-	"Upload": 
 	{
+		"phrase": "Upload",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アップロード",
 		"machine": true
 	},
-	"Private": 
 	{
+		"phrase": "Private",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プライベート",
 		"machine": true
 	},
-	"Friends only": 
 	{
+		"phrase": "Friends only",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "友達のみ",
 		"machine": true
 	},
-	"Unlisted": 
 	{
+		"phrase": "Unlisted",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "非公開",
 		"machine": true
 	},
-	"Public": 
 	{
+		"phrase": "Public",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "公衆",
 		"machine": true
 	},
-	"Map list": 
 	{
+		"phrase": "Map list",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マップリスト",
 		"machine": true
 	},
-	"No local maps found": 
 	{
+		"phrase": "No local maps found",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ローカルマップが見つかりません",
 		"machine": true
 	},
-	"No subscribed maps": 
 	{
+		"phrase": "No subscribed maps",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "購読済みの地図はありません",
 		"machine": true
 	},
-	"Before uploading maps to the Steam workshop, you must agree to the ": 
 	{
-		"translation": "Steamワークショップにマップをアップロードする前に、 ",
-		"machine": true
-	},
-	"Workshop Terms of Service.": 
-	{
-		"translation": "ワークショップの利用規約.",
-		"machine": true
-	},
-	"Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.": 
-	{
+		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ワークショップで購読したマップがここに表示されます。リストを完全に更新するには、新しいマップをサブスクライブした後、複数回更新する必要がある場合があります.",
 		"machine": true
 	},
-	"Loading map": 
 	{
+		"phrase": "Loading map",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "地図を読み込んでいます",
 		"machine": true
 	},
-	"Uploading map to the Steam Workshop": 
 	{
+		"phrase": "Uploading map to the Steam Workshop",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "Steamワークショップへの地図のアップロード",
 		"machine": true
 	},
-	"Committing Changes": 
 	{
+		"phrase": "Committing Changes",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "変更のコミット",
 		"machine": true
 	},
-	"Invalid": 
 	{
+		"phrase": "Invalid",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "無効",
 		"machine": true
 	},
-	"Preparing Config": 
 	{
+		"phrase": "Preparing Config",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "設定の準備",
 		"machine": true
 	},
-	"Preparing Content": 
 	{
+		"phrase": "Preparing Content",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "コンテンツの準備",
 		"machine": true
 	},
-	"Uploading Content": 
 	{
+		"phrase": "Uploading Content",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "コンテンツのアップロード",
 		"machine": true
 	},
-	"Uploading Preview Image": 
 	{
+		"phrase": "Uploading Preview Image",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレビュー画像をアップロードしています",
 		"machine": true
 	},
-	"Upload summary": 
 	{
+		"phrase": "Upload summary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アップロードの概要",
 		"machine": true
 	},
-	"Map name": 
 	{
+		"phrase": "Map name",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "地図名",
 		"machine": true
 	},
-	"Description": 
 	{
+		"phrase": "Description",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "説明",
 		"machine": true
 	},
-	"Supported game modes": 
 	{
+		"phrase": "Supported game modes",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サポートされているゲームモード",
 		"machine": true
 	},
-	"Visibility": 
 	{
+		"phrase": "Visibility",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "可視性",
 		"machine": true
 	},
-	"Double XP + Proton Weekend! Ends in": 
 	{
+		"phrase": "Double XP + Proton Weekend! Ends in",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ダブルXP +プロトンウィークエンド！で終わる",
 		"machine": true
 	},
-	"day": 
 	{
+		"phrase": "day",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "日",
 		"machine": true
 	},
-	"days": 
 	{
+		"phrase": "days",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "日々",
 		"machine": true
 	},
-	"hour": 
 	{
+		"phrase": "hour",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "時間",
 		"machine": true
 	},
-	"hours": 
 	{
+		"phrase": "hours",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "時間",
 		"machine": true
 	},
-	"minute": 
 	{
+		"phrase": "minute",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "分",
 		"machine": true
 	},
-	"minutes": 
 	{
+		"phrase": "minutes",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "分",
 		"machine": true
 	},
-	"and": 
 	{
+		"phrase": "and",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "と",
 		"machine": true
 	},
-	"Playtime": 
 	{
+		"phrase": "Playtime",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイタイム",
 		"machine": true
 	},
-	"Matches": 
 	{
+		"phrase": "Matches",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "一致する",
 		"machine": true
 	},
-	"Kills": 
 	{
+		"phrase": "Kills",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "殺す",
 		"machine": true
 	},
-	"Deaths": 
 	{
+		"phrase": "Deaths",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "死亡者（数",
 		"machine": true
 	},
-	"Assists": 
 	{
+		"phrase": "Assists",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アシスト",
 		"machine": true
 	},
-	"Headshots": 
 	{
+		"phrase": "Headshots",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ヘッドショット",
 		"machine": true
 	},
-	"unavailable": 
 	{
-		"translation": "利用できません",
-		"machine": true
-	},
-	"level": 
-	{
-		"translation": "レベル",
-		"machine": true
-	},
-	"equipped": 
-	{
-		"translation": "装備",
-		"machine": true
-	},
-	"Barrel": 
-	{
+		"phrase": "Barrel",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "たる",
 		"machine": true
 	},
-	"Sight": 
 	{
+		"phrase": "Sight",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "視力",
 		"machine": true
 	},
-	"equip": 
 	{
-		"translation": "装備",
-		"machine": true
-	},
-	"free": 
-	{
-		"translation": "自由",
-		"machine": true
-	},
-	"Drag to rotate": 
-	{
+		"phrase": "Drag to rotate",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ドラッグして回転",
 		"machine": true
 	},
-	"Scroll wheel to zoom": 
 	{
-		"translation": "ホイールをスクロールしてズーム",
-		"machine": true
-	},
-	"Space to rotate": 
-	{
-		"translation": "回転するスペース",
-		"machine": true
-	},
-	"Join": 
-	{
+		"phrase": "Join",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "加入",
 		"machine": true
 	},
-	"This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.": 
 	{
+		"phrase": "This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このゲームモードはサルベージと呼ばれます。 2つのチームがソルトリウムと呼ばれる貴重な資源を含むキャニスターを争います.",
 		"machine": true
 	},
-	"The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.": 
 	{
+		"phrase": "The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャニスターの近くに最も多くのプレーヤーがいるチームは、ソルトリウムを抽出し、チームのポイントを獲得します。これは画面の上部に表示されます.",
 		"machine": true
 	},
-	"When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!": 
 	{
+		"phrase": "When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャニスターが使い果たされると、新しいキャニスターが他の場所に出現します。 500ポイントに到達した最初のチームが勝ちます!",
 		"machine": true
 	},
-	"Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.": 
 	{
+		"phrase": "Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤーが死亡すると、弾薬ボーナスは低下します。それらを拾って武器の追加の弾薬を手に入れ、チームのために2ポイントを獲得してください.",
 		"machine": true
 	},
-	"This game mode is called Breakthrough. To win, your team must control all five zones.": 
 	{
+		"phrase": "This game mode is called Breakthrough. To win, your team must control all five zones.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このゲームモードはブレークスルーと呼ばれます。勝つには、チームが5つのゾーンすべてを制御する必要があります.",
 		"machine": true
 	},
-	"When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.": 
 	{
+		"phrase": "When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チームがゾーンをキャプチャすると、最大20秒間フリーズします。凍っている間、敵はそれを取り戻すことができません。それはあなたのチームに次のゾーンに前進する機会を与えます.",
 		"machine": true
 	},
-	"Zones must be captured in order and cannot be back-capped.": 
 	{
+		"phrase": "Zones must be captured in order and cannot be back-capped.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゾーンは順番にキャプチャする必要があり、バックキャップすることはできません.",
 		"machine": true
 	},
-	"This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.": 
 	{
+		"phrase": "This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このゲームモードはコントロールシフトと呼ばれます。ゾーンが1つあり、そのゾーンを敵の領土に押し戻すことが目的です。.",
 		"machine": true
 	},
-	"The zone will begin moving when one team has more players inside it than the other.": 
 	{
+		"phrase": "The zone will begin moving when one team has more players inside it than the other.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゾーンは、一方のチームの中に他のチームよりも多くのプレーヤーがいるときに移動を開始します.",
 		"machine": true
 	},
-	"This game mode is called Escort. To win, your team must deliver 3 bombs.": 
 	{
+		"phrase": "This game mode is called Escort. To win, your team must deliver 3 bombs.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このゲームモードは護衛と呼ばれます。勝つために、あなたのチームは3つの爆弾を届けなければなりません.",
 		"machine": true
 	},
-	"Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.": 
 	{
+		"phrase": "Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "各チームには爆弾があり、マップの自分の側から拾い上げて敵の爆弾サイトに届ける必要があります.",
 		"machine": true
 	},
-	"You can either escort your bomb carrier, or defend your bomb site from the enemy.": 
 	{
+		"phrase": "You can either escort your bomb carrier, or defend your bomb site from the enemy.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾運搬船を護衛するか、爆弾サイトを敵から守ることができます.",
 		"machine": true
 	},
-	"This game mode is called Capture the Flag. Each team has a flag that they must defend.": 
 	{
+		"phrase": "This game mode is called Capture the Flag. Each team has a flag that they must defend.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このゲームモードはキャプチャーザフラッグと呼ばれます。各チームには、守らなければならない旗があります.",
 		"machine": true
 	},
-	"To win your team must steal the enemy flag and take it back to your base 3 times.": 
 	{
+		"phrase": "To win your team must steal the enemy flag and take it back to your base 3 times.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チームに勝つには、敵の旗を盗んで基地に3回戻す必要があります.",
 		"machine": true
 	},
-	"You can either infiltrate the enemy base, or defend your flag from the enemy.": 
 	{
+		"phrase": "You can either infiltrate the enemy base, or defend your flag from the enemy.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "敵の基地に潜入するか、敵から旗を守ることができます.",
 		"machine": true
 	},
-	"This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.": 
 	{
+		"phrase": "This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このゲームモードはガンゲームと呼ばれます。各プレイヤーは同じ武器で開始し、2キルを取得した後、次の武器に進みます.",
 		"machine": true
 	},
-	"The stage that each player is up to is shown at the top of the screen.": 
 	{
+		"phrase": "The stage that each player is up to is shown at the top of the screen.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "画面上部に各プレイヤーのステージが表示されます.",
 		"machine": true
 	},
-	"To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.": 
 	{
+		"phrase": "To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "勝つには、ステージ11に進み、掘削機またはナイフで敵を倒す必要があります。.",
 		"machine": true
 	},
-	"When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.": 
 	{
+		"phrase": "When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "落下ダメージや敵の掘削機\/ナイフで死にかけているとき、あなたは1つのステージに送り返されます.",
 		"machine": true
 	},
-	"This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.": 
 	{
+		"phrase": "This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "この無料のゲームモードは、ヘッドハンターと呼ばれます。勝つためには、タイマーが切れたときに最も多くのソルトリウムを保持する必要があります.",
 		"machine": true
 	},
-	"Each player starts with nothing and collects weapons and mods from around the map.": 
 	{
+		"phrase": "Each player starts with nothing and collects weapons and mods from around the map.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "各プレイヤーは何もないところから始めて、マップの周りから武器や改造を収集します.",
 		"machine": true
 	},
-	"When a player dies, they will drop their weapons, half their Soltrium and half their mods.": 
 	{
+		"phrase": "When a player dies, they will drop their weapons, half their Soltrium and half their mods.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤーが死ぬと、武器、ソルトリウムの半分、モッドの半分をドロップします.",
 		"machine": true
 	},
-	"Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.": 
 	{
+		"phrase": "Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "勝つためにソルトリウムを手に入れますが、ソルトリウムが最も多いプレイヤーが全員に公開されるので注意してください.",
 		"machine": true
 	},
-	"This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.": 
 	{
+		"phrase": "This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このアリーナゲームモードはスパイアと呼ばれます。勝つには、敵チームを5回排除する必要があります.",
 		"machine": true
 	},
-	"Each player starts with nothing and must build into the sky to pick up weapons.": 
 	{
+		"phrase": "Each player starts with nothing and must build into the sky to pick up weapons.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "各プレイヤーは何もないところから始め、武器を手に入れるために空に組み込まれなければなりません.",
 		"machine": true
 	},
-	"This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.": 
 	{
+		"phrase": "This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "このアリーナゲームモードは静的と呼ばれます。勝つには、敵チームを5回排除する必要があります.",
 		"machine": true
 	},
-	"Each player shares the same loadout, which is randomised each round.": 
 	{
+		"phrase": "Each player shares the same loadout, which is randomised each round.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "各プレイヤーは同じロードアウトを共有し、ラウンドごとにランダム化されます.",
 		"machine": true
 	},
-	"Press space to continue": 
 	{
+		"phrase": "Press space to continue",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スペースを押して続行します",
 		"machine": true
 	},
-	"Return to battle": 
 	{
+		"phrase": "Return to battle",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "戦いに戻る",
 		"machine": true
 	},
-	"Round won!": 
 	{
+		"phrase": "Round won!",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ラウンド勝ち!",
 		"machine": true
 	},
-	"Press": 
 	{
+		"phrase": "Press",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレス",
 		"machine": true
 	},
-	"Or": 
 	{
+		"phrase": "Or",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "または",
 		"machine": true
 	},
-	"Pick up equipment": 
 	{
+		"phrase": "Pick up equipment",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "機器を拾う",
 		"machine": true
 	},
-	"Pick up primary": 
 	{
+		"phrase": "Pick up primary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プライマリをピックアップ",
 		"machine": true
 	},
-	"Pick up secondary": 
 	{
+		"phrase": "Pick up secondary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "二次ピックアップ",
 		"machine": true
 	},
-	"Player ready": 
 	{
+		"phrase": "Player ready",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレーヤーの準備ができました",
 		"machine": true
 	},
-	"Players ready": 
 	{
+		"phrase": "Players ready",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤーの準備ができています",
 		"machine": true
 	},
-	"Starting in": 
 	{
+		"phrase": "Starting in",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "で始まる",
 		"machine": true
 	},
-	"Second": 
 	{
+		"phrase": "Second",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "2番",
 		"machine": true
 	},
-	"Seconds": 
 	{
+		"phrase": "Seconds",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "秒",
 		"machine": true
 	},
-	"Available": 
 	{
+		"phrase": "Available",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "利用可能",
 		"machine": true
 	},
-	"Leave killcam": 
 	{
+		"phrase": "Leave killcam",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "killcamを離れる",
 		"machine": true
 	},
-	"Continue": 
 	{
+		"phrase": "Continue",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "継続する",
 		"machine": true
 	},
-	"Redeploy": 
 	{
+		"phrase": "Redeploy",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "再デプロイ",
 		"machine": true
 	},
-	"Confirm": 
 	{
+		"phrase": "Confirm",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "確認",
 		"machine": true
 	},
-	"Spectate": 
 	{
+		"phrase": "Spectate",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "観客",
 		"machine": true
 	},
-	"Report player": 
 	{
+		"phrase": "Report player",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レポートプレーヤー",
 		"machine": true
 	},
-	"Lobby panel": 
 	{
+		"phrase": "Lobby panel",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロビーパネル",
 		"machine": true
 	},
-	"Settings": 
 	{
+		"phrase": "Settings",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "設定",
 		"machine": true
 	},
-	"Submit feedback": 
 	{
+		"phrase": "Submit feedback",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フィードバックを送信",
 		"machine": true
 	},
-	"Disconnect": 
 	{
+		"phrase": "Disconnect",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "切断する",
 		"machine": true
 	},
-	"Contest the canister": 
 	{
+		"phrase": "Contest the canister",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャニスターを争う",
 		"machine": true
 	},
-	"Returning flag": 
 	{
+		"phrase": "Returning flag",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "戻りフラグ",
 		"machine": true
 	},
-	"Defusing bomb": 
 	{
+		"phrase": "Defusing bomb",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾の解体",
 		"machine": true
 	},
-	"You are carrying the flag": 
 	{
+		"phrase": "You are carrying the flag",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "あなたは旗を持っています",
 		"machine": true
 	},
-	"You are carrying the bomb": 
 	{
+		"phrase": "You are carrying the bomb",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "あなたは爆弾を運んでいます",
 		"machine": true
 	},
-	"To drop the flag": 
 	{
+		"phrase": "To drop the flag",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "旗を落とすには",
 		"machine": true
 	},
-	"To drop the bomb": 
 	{
+		"phrase": "To drop the bomb",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "爆弾を落とすには",
 		"machine": true
 	},
-	"Stage": 
 	{
+		"phrase": "Stage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ステージ",
 		"machine": true
 	},
-	"Cooldown": 
 	{
+		"phrase": "Cooldown",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "クールダウン",
 		"machine": true
 	},
-	"Equip as primary": 
 	{
+		"phrase": "Equip as primary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プライマリとして装備",
 		"machine": true
 	},
-	"Equip as secondary": 
 	{
+		"phrase": "Equip as secondary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "二次として装備",
 		"machine": true
 	},
-	"Edit loadouts": 
 	{
+		"phrase": "Edit loadouts",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロードアウトを編集する",
 		"machine": true
 	},
-	"Modify a structure to continue": 
 	{
+		"phrase": "Modify a structure to continue",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "続行するには構造を変更してください",
 		"machine": true
 	},
-	"Head over to the shooting range": 
 	{
+		"phrase": "Head over to the shooting range",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "射撃場に向かいます",
 		"machine": true
 	},
-	"Select a weapon from the gun rack": 
 	{
+		"phrase": "Select a weapon from the gun rack",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ガンラックから武器を選択します",
 		"machine": true
 	},
-	"Shoot the targets and try different weapons. Press": 
 	{
+		"phrase": "Shoot the targets and try different weapons. Press",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ターゲットを撃ち、さまざまな武器を試してください。プレス",
 		"machine": true
 	},
-	"To set up a loadout": 
 	{
+		"phrase": "To set up a loadout",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロードアウトを設定するには",
 		"machine": true
 	},
-	"Play a Match": 
 	{
+		"phrase": "Play a Match",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "試合をする",
 		"machine": true
 	},
-	"Enter Trials": 
 	{
+		"phrase": "Enter Trials",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トライアルに参加する",
 		"machine": true
 	},
-	"Replay Tutorial": 
 	{
+		"phrase": "Replay Tutorial",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "リプレイチュートリアル",
 		"machine": true
 	},
-	"Reset Ship": 
 	{
+		"phrase": "Reset Ship",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "船をリセット",
 		"machine": true
 	},
-	"Level": 
 	{
+		"phrase": "Level",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レベル",
 		"machine": true
 	},
-	"Tag": 
 	{
+		"phrase": "Tag",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "鬼ごっこ",
 		"machine": true
 	},
-	"Tags": 
 	{
+		"phrase": "Tags",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "タグ",
 		"machine": true
 	},
-	"Career": 
 	{
+		"phrase": "Career",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャリア",
 		"machine": true
 	},
-	"Loadout": 
 	{
+		"phrase": "Loadout",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロードアウト",
 		"machine": true
 	},
-	"Killed by": 
 	{
+		"phrase": "Killed by",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "に殺された",
 		"machine": true
 	},
-	"Join the battle": 
 	{
+		"phrase": "Join the battle",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "戦いに参加する",
 		"machine": true
 	},
-	"Linking your Twitch account": 
 	{
+		"phrase": "Linking your Twitch account",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "Twitchアカウントをリンクする",
 		"machine": true
 	},
-	"Checkout": 
 	{
+		"phrase": "Checkout",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チェックアウト",
 		"machine": true
 	},
-	"Summary": 
 	{
+		"phrase": "Summary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "概要",
 		"machine": true
 	},
-	"Creator Code (Optional)": 
 	{
+		"phrase": "Creator Code (Optional)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "クリエイターコード（オプション)",
 		"machine": true
 	},
-	"Friend username": 
 	{
+		"phrase": "Friend username",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "友達のユーザー名",
 		"machine": true
 	},
-	"Resources loading in the background": 
 	{
+		"phrase": "Resources loading in the background",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "バックグラウンドでのリソースの読み込み",
 		"machine": true
 	},
-	"Magazine": 
 	{
+		"phrase": "Magazine",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "雑誌",
 		"machine": true
 	},
-	"Block": 
 	{
+		"phrase": "Block",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブロック",
 		"machine": true
 	},
-	"Account": 
 	{
+		"phrase": "Account",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アカウント",
 		"machine": true
 	},
-	"Proton": 
 	{
-		"translation": "プロトン",
-		"machine": true
-	},
-	"Protons": 
-	{
-		"translation": "プロトン",
-		"machine": true
-	},
-	"Refreshing": 
-	{
+		"phrase": "Refreshing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "さわやか",
 		"machine": true
 	},
-	"Refresh statistics": 
 	{
+		"phrase": "Refresh statistics",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "統計を更新する",
 		"machine": true
 	},
-	"Character token": 
 	{
+		"phrase": "Character token",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "文字トークン",
 		"machine": true
 	},
-	"Character tokens": 
 	{
+		"phrase": "Character tokens",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "文字トークン",
 		"machine": true
 	},
-	"Player statistics": 
 	{
+		"phrase": "Player statistics",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤー統計",
 		"machine": true
 	},
-	"Transaction log": 
 	{
+		"phrase": "Transaction log",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トランザクションログ",
 		"machine": true
 	},
-	"Redeem key": 
 	{
+		"phrase": "Redeem key",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キーを引き換える",
 		"machine": true
 	},
-	"Provide feedback": 
 	{
+		"phrase": "Provide feedback",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フィードバックを提供します",
 		"machine": true
 	},
-	"View inventory": 
 	{
+		"phrase": "View inventory",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "在庫を見る",
 		"machine": true
 	},
-	"Custom lobby": 
 	{
+		"phrase": "Custom lobby",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カスタムロビー",
 		"machine": true
 	},
-	"Lobby settings": 
 	{
+		"phrase": "Lobby settings",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロビーの設定",
 		"machine": true
 	},
-	"Password": 
 	{
+		"phrase": "Password",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パスワード",
 		"machine": true
 	},
-	"Minimum level": 
 	{
+		"phrase": "Minimum level",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最小レベル",
 		"machine": true
 	},
-	"Maximum level": 
 	{
+		"phrase": "Maximum level",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最大レベル",
 		"machine": true
 	},
-	"The match will not end": 
 	{
+		"phrase": "The match will not end",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "試合は終わらない",
 		"machine": true
 	},
-	"Protons, XP and stats will not be tracked": 
 	{
+		"phrase": "Protons, XP and stats will not be tracked",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プロトン、XP、統計は追跡されません",
 		"machine": true
 	},
-	"Infinite ammo. Type": 
 	{
+		"phrase": "Infinite ammo. Type",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "無限の弾薬。タイプ",
 		"machine": true
 	},
-	"in chat to set your spawn point": 
 	{
+		"phrase": "in chat to set your spawn point",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チャットでスポーンポイントを設定する",
 		"machine": true
 	},
-	"Weapon cooldowns removed. Players are invincible": 
 	{
+		"phrase": "Weapon cooldowns removed. Players are invincible",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "武器のクールダウンが削除されました。プレイヤーは無敵です",
 		"machine": true
 	},
-	"Claim": 
 	{
+		"phrase": "Claim",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "請求",
 		"machine": true
 	},
-	"Current lobby settings": 
 	{
+		"phrase": "Current lobby settings",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "現在のロビー設定",
 		"machine": true
 	},
-	"Next lobby settings": 
 	{
+		"phrase": "Next lobby settings",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "次のロビー設定",
 		"machine": true
 	},
-	"Lobby not claimed": 
 	{
+		"phrase": "Lobby not claimed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロビーは請求されていません",
 		"machine": true
 	},
-	"Autobalancing Enabled": 
 	{
+		"phrase": "Autobalancing Enabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "自動バランシングが有効",
 		"machine": true
 	},
-	"Autobalancing Disabled": 
 	{
+		"phrase": "Autobalancing Disabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "オートバランスが無効",
 		"machine": true
 	},
-	"Eternal Mode Enabled": 
 	{
+		"phrase": "Eternal Mode Enabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エターナルモードが有効",
 		"machine": true
 	},
-	"Eternal Mode Disabled": 
 	{
+		"phrase": "Eternal Mode Disabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エターナルモードが無効",
 		"machine": true
 	},
-	"Trailer Mode Enabled": 
 	{
+		"phrase": "Trailer Mode Enabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トレーラーモードが有効",
 		"machine": true
 	},
-	"Trailer Mode Disabled": 
 	{
+		"phrase": "Trailer Mode Disabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トレーラーモードが無効",
 		"machine": true
 	},
-	"Sandbox Mode Enabled": 
 	{
+		"phrase": "Sandbox Mode Enabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サンドボックスモードが有効",
 		"machine": true
 	},
-	"Sandbox Mode Disabled": 
 	{
+		"phrase": "Sandbox Mode Disabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サンドボックスモードが無効",
 		"machine": true
 	},
-	"Password Protected": 
 	{
+		"phrase": "Password Protected",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "守られたパスワード",
 		"machine": true
 	},
-	"Password protected": 
 	{
+		"phrase": "Password protected",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "守られたパスワード",
 		"machine": true
 	},
-	"Note - claiming the lobby will restart the round": 
 	{
+		"phrase": "Note - claiming the lobby will restart the round",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "注-ロビーを主張するとラウンドが再開されます",
 		"machine": true
 	},
-	"Note - changing these settings will restart the round": 
 	{
+		"phrase": "Note - changing these settings will restart the round",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "注-これらの設定を変更すると、ラウンドが再開されます",
 		"machine": true
 	},
-	"Leave": 
 	{
+		"phrase": "Leave",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "離れる",
 		"machine": true
 	},
-	"Total": 
 	{
+		"phrase": "Total",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "合計",
 		"machine": true
 	},
-	"Points breakdown": 
 	{
+		"phrase": "Points breakdown",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ポイントの内訳",
 		"machine": true
 	},
-	"Objective": 
 	{
+		"phrase": "Objective",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "目的",
 		"machine": true
 	},
-	"Offensive time": 
 	{
+		"phrase": "Offensive time",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "不快な時間",
 		"machine": true
 	},
-	"Defensive time": 
 	{
+		"phrase": "Defensive time",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "守備時間",
 		"machine": true
 	},
-	"Ammo pickups": 
 	{
+		"phrase": "Ammo pickups",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "弾薬ピックアップ",
 		"machine": true
 	},
-	"Basic statistics": 
 	{
+		"phrase": "Basic statistics",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "基本的な統計",
 		"machine": true
 	},
-	"Best kill streak": 
 	{
+		"phrase": "Best kill streak",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最高のキルストリーク",
 		"machine": true
 	},
-	"Blocks built": 
 	{
+		"phrase": "Blocks built",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構築されたブロック",
 		"machine": true
 	},
-	"Blocks destroyed": 
 	{
+		"phrase": "Blocks destroyed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "破壊されたブロック",
 		"machine": true
 	},
-	"Proton breakdown": 
 	{
+		"phrase": "Proton breakdown",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プロトンの内訳",
 		"machine": true
 	},
-	"Player points": 
 	{
+		"phrase": "Player points",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤーポイント",
 		"machine": true
 	},
-	"Proton boost": 
 	{
+		"phrase": "Proton boost",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プロトンブースト",
 		"machine": true
 	},
-	"Peacekeeper bonus": 
 	{
+		"phrase": "Peacekeeper bonus",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ピースキーパーボーナス",
 		"machine": true
 	},
-	"Unlock": 
 	{
+		"phrase": "Unlock",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロックを解除する",
 		"machine": true
 	},
-	"CONFIRM": 
 	{
-		"translation": "確認",
-		"machine": true
-	},
-	"Buy now": 
-	{
+		"phrase": "Buy now",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "今買う",
 		"machine": true
 	},
-	"Use token": 
 	{
+		"phrase": "Use token",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トークンを使用する",
 		"machine": true
 	},
-	"This is a gift": 
 	{
+		"phrase": "This is a gift",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これは贈り物です",
 		"machine": true
 	},
-	"Submit": 
 	{
+		"phrase": "Submit",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "送信",
 		"machine": true
 	},
-	"News": 
 	{
+		"phrase": "News",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ニュース",
 		"machine": true
 	},
-	"Store": 
 	{
+		"phrase": "Store",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "店",
 		"machine": true
 	},
-	"Play": 
 	{
+		"phrase": "Play",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "演奏する",
 		"machine": true
 	},
-	"Clan": 
 	{
+		"phrase": "Clan",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "クラン",
 		"machine": true
 	},
-	"Customise": 
 	{
+		"phrase": "Customise",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カスタマイズ",
 		"machine": true
 	},
-	"Exit game": 
 	{
+		"phrase": "Exit game",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゲームを終了する",
 		"machine": true
 	},
-	"Skip tutorial": 
 	{
+		"phrase": "Skip tutorial",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チュートリアルをスキップ",
 		"machine": true
 	},
-	"An update is available. Close the game and update the game through": 
 	{
+		"phrase": "An update is available. Close the game and update the game through",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アップデートが利用可能です。ゲームを閉じて、ゲームを更新します",
 		"machine": true
 	},
-	"Connection to": 
 	{
+		"phrase": "Connection to",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "への接続",
 		"machine": true
 	},
-	"failed. Online play is unavailable": 
 	{
+		"phrase": "failed. Online play is unavailable",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "失敗した。オンラインプレイは利用できません",
 		"machine": true
 	},
-	"Blocks": 
 	{
+		"phrase": "Blocks",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブロック",
 		"machine": true
 	},
-	"Changelog": 
 	{
+		"phrase": "Changelog",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "変更ログ",
 		"machine": true
 	},
-	"Trials": 
 	{
+		"phrase": "Trials",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トライアル",
 		"machine": true
 	},
-	"Low level": 
 	{
+		"phrase": "Low level",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "低レベル",
 		"machine": true
 	},
-	"Open": 
 	{
+		"phrase": "Open",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "開ける",
 		"machine": true
 	},
-	"Custom": 
 	{
+		"phrase": "Custom",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カスタム",
 		"machine": true
 	},
-	"Empty servers": 
 	{
+		"phrase": "Empty servers",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "空のサーバー",
 		"machine": true
 	},
-	"Full servers": 
 	{
+		"phrase": "Full servers",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フルサーバー",
 		"machine": true
 	},
-	"Character": 
 	{
+		"phrase": "Character",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャラクター",
 		"machine": true
 	},
-	"Ship": 
 	{
+		"phrase": "Ship",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "船",
 		"machine": true
 	},
-	"Loadouts": 
 	{
+		"phrase": "Loadouts",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロードアウト",
 		"machine": true
 	},
-	"Weapons": 
 	{
+		"phrase": "Weapons",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "兵器",
 		"machine": true
 	},
-	"Killcam": 
 	{
+		"phrase": "Killcam",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "Killcam",
 		"machine": true
 	},
-	"Mapping": 
 	{
+		"phrase": "Mapping",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マッピング",
 		"machine": true
 	},
-	"Skin": 
 	{
+		"phrase": "Skin",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "肌",
 		"machine": true
 	},
-	"Red dot": 
 	{
+		"phrase": "Red dot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "赤い点",
 		"machine": true
 	},
-	"Camo": 
 	{
+		"phrase": "Camo",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カモ",
 		"machine": true
 	},
-	"Save": 
 	{
+		"phrase": "Save",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "保存する",
 		"machine": true
 	},
-	"Official": 
 	{
+		"phrase": "Official",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "正式",
 		"machine": true
 	},
-	"Workshop": 
 	{
+		"phrase": "Workshop",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ワークショップ",
 		"machine": true
 	},
-	"Cheating": 
 	{
+		"phrase": "Cheating",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "不正行為",
 		"machine": true
 	},
-	"Exploiting": 
 	{
+		"phrase": "Exploiting",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エクスプロイト",
 		"machine": true
 	},
-	"Offensive profile": 
 	{
+		"phrase": "Offensive profile",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "攻撃的なプロファイル",
 		"machine": true
 	},
-	"Verbal abuse": 
 	{
+		"phrase": "Verbal abuse",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "言葉によるいじめ",
 		"machine": true
 	},
-	"Scamming": 
 	{
+		"phrase": "Scamming",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "詐欺",
 		"machine": true
 	},
-	"Spamming": 
 	{
+		"phrase": "Spamming",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スパム",
 		"machine": true
 	},
-	"Other negative behaviour": 
 	{
+		"phrase": "Other negative behaviour",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "その他の否定的な行動",
 		"machine": true
 	},
-	"Report": 
 	{
+		"phrase": "Report",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "報告",
 		"machine": true
 	},
-	"Metal": 
 	{
+		"phrase": "Metal",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "金属",
 		"machine": true
 	},
-	"Link": 
 	{
+		"phrase": "Link",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "リンク",
 		"machine": true
 	},
-	"Recoil": 
 	{
+		"phrase": "Recoil",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "反動",
 		"machine": true
 	},
-	"Stationary recoil": 
 	{
+		"phrase": "Stationary recoil",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "静止反動",
 		"machine": true
 	},
-	"Holster time": 
 	{
+		"phrase": "Holster time",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ホルスター時間",
 		"machine": true
 	},
-	"ADS time": 
 	{
+		"phrase": "ADS time",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ADS時間",
 		"machine": true
 	},
-	"Initial recoil": 
 	{
+		"phrase": "Initial recoil",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最初の反動",
 		"machine": true
 	},
-	"Shot recoil ramp": 
 	{
+		"phrase": "Shot recoil ramp",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ショットリコイルランプ",
 		"machine": true
 	},
-	"Loadout power": 
 	{
+		"phrase": "Loadout power",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ロードアウトパワー",
 		"machine": true
 	},
-	"Damage range": 
 	{
+		"phrase": "Damage range",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ダメージ範囲",
 		"machine": true
 	},
-	"Projectile speed": 
 	{
+		"phrase": "Projectile speed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "発射速度",
 		"machine": true
 	},
-	"Volume": 
 	{
+		"phrase": "Volume",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "音量",
 		"machine": true
 	},
-	"Minimap invisibility": 
 	{
+		"phrase": "Minimap invisibility",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ミニマップの不可視性",
 		"machine": true
 	},
-	"Pellets": 
 	{
+		"phrase": "Pellets",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ペレット",
 		"machine": true
 	},
-	"Pellet spread": 
 	{
+		"phrase": "Pellet spread",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ペレットスプレッド",
 		"machine": true
 	},
-	"Reload": 
 	{
+		"phrase": "Reload",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "リロード",
 		"machine": true
 	},
-	"Rounds": 
 	{
+		"phrase": "Rounds",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ラウンド",
 		"machine": true
 	},
-	"Player damage (body)": 
 	{
+		"phrase": "Player damage (body)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤーのダメージ（体)",
 		"machine": true
 	},
-	"Player damage (head)": 
 	{
+		"phrase": "Player damage (head)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤーのダメージ（頭)",
 		"machine": true
 	},
-	"Block damage": 
 	{
+		"phrase": "Block damage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブロックダメージ",
 		"machine": true
 	},
-	"RPM": 
 	{
+		"phrase": "RPM",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "RPM",
 		"machine": true
 	},
-	"Pellet count": 
 	{
+		"phrase": "Pellet count",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ペレット数",
 		"machine": true
 	},
-	"Damages through blocks and players": 
 	{
+		"phrase": "Damages through blocks and players",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブロックとプレイヤーによる損害",
 		"machine": true
 	},
-	"Bounces 3 times": 
 	{
+		"phrase": "Bounces 3 times",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "3回バウンス",
 		"machine": true
 	},
-	"Choke time": 
 	{
+		"phrase": "Choke time",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チョークタイム",
 		"machine": true
 	},
-	"Choked spread": 
 	{
+		"phrase": "Choked spread",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チョークスプレッド",
 		"machine": true
 	},
-	"Choke resets when firing": 
 	{
+		"phrase": "Choke resets when firing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "発射時にチョークがリセットされます",
 		"machine": true
 	},
-	"Welded choke": 
 	{
+		"phrase": "Welded choke",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "溶接チョーク",
 		"machine": true
 	},
-	"Automatic fire": 
 	{
+		"phrase": "Automatic fire",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "自動火災",
 		"machine": true
 	},
-	"Stats": 
 	{
+		"phrase": "Stats",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "統計",
 		"machine": true
 	},
-	"Initiate": 
 	{
+		"phrase": "Initiate",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "開始する",
 		"machine": true
 	},
-	"Proficient": 
 	{
+		"phrase": "Proficient",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "熟練している",
 		"machine": true
 	},
-	"Adept": 
 	{
+		"phrase": "Adept",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "熟達者",
 		"machine": true
 	},
-	"Elite": 
 	{
+		"phrase": "Elite",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エリート",
 		"machine": true
 	},
-	"Expert": 
 	{
+		"phrase": "Expert",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エキスパート",
 		"machine": true
 	},
-	"Master": 
 	{
+		"phrase": "Master",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "主人",
 		"machine": true
 	},
-	"Legend": 
 	{
+		"phrase": "Legend",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "伝説",
 		"machine": true
 	},
-	"Paragon": 
 	{
+		"phrase": "Paragon",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パラゴン",
 		"machine": true
 	},
-	"Incarnate": 
 	{
+		"phrase": "Incarnate",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "化身",
 		"machine": true
 	},
-	"Butcher": 
 	{
+		"phrase": "Butcher",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "肉屋",
 		"machine": true
 	},
-	"Swordsman": 
 	{
+		"phrase": "Swordsman",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "剣士",
 		"machine": true
 	},
-	"Berserker": 
 	{
+		"phrase": "Berserker",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "バーサーカー",
 		"machine": true
 	},
-	"Assassin": 
 	{
+		"phrase": "Assassin",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "暗殺者",
 		"machine": true
 	},
-	"Executioner": 
 	{
+		"phrase": "Executioner",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "死刑執行人",
 		"machine": true
 	},
-	"Grenadier": 
 	{
+		"phrase": "Grenadier",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "擲弾兵",
 		"machine": true
 	},
-	"Detonator": 
 	{
+		"phrase": "Detonator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "雷管",
 		"machine": true
 	},
-	"Volatile": 
 	{
+		"phrase": "Volatile",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "揮発性",
 		"machine": true
 	},
-	"Catalyst": 
 	{
+		"phrase": "Catalyst",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "触媒",
 		"machine": true
 	},
-	"Captor": 
 	{
+		"phrase": "Captor",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャプター",
 		"machine": true
 	},
-	"Invader": 
 	{
+		"phrase": "Invader",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "インベーダー",
 		"machine": true
 	},
-	"Thief": 
 	{
+		"phrase": "Thief",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "泥棒",
 		"machine": true
 	},
-	"Reinforcer": 
 	{
+		"phrase": "Reinforcer",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "補強材",
 		"machine": true
 	},
-	"Engineer": 
 	{
+		"phrase": "Engineer",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エンジニア",
 		"machine": true
 	},
-	"Fabricator": 
 	{
+		"phrase": "Fabricator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "製作者",
 		"machine": true
 	},
-	"Architect": 
 	{
+		"phrase": "Architect",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "建築家",
 		"machine": true
 	},
-	"Sentry": 
 	{
+		"phrase": "Sentry",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "衛兵",
 		"machine": true
 	},
-	"Protector": 
 	{
+		"phrase": "Protector",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プロテクター",
 		"machine": true
 	},
-	"Sentinel": 
 	{
+		"phrase": "Sentinel",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "センチネル",
 		"machine": true
 	},
-	"Guardian": 
 	{
+		"phrase": "Guardian",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ガーディアン",
 		"machine": true
 	},
-	"Raider": 
 	{
+		"phrase": "Raider",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レイダー",
 		"machine": true
 	},
-	"Marauder": 
 	{
+		"phrase": "Marauder",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マローダー",
 		"machine": true
 	},
-	"Vanquisher": 
 	{
+		"phrase": "Vanquisher",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ヴァンキッシャー",
 		"machine": true
 	},
-	"Conquerer": 
 	{
+		"phrase": "Conquerer",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "征服者",
 		"machine": true
 	},
-	"Terminator": 
 	{
+		"phrase": "Terminator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ターミネーター",
 		"machine": true
 	},
-	"Gunslinger": 
 	{
+		"phrase": "Gunslinger",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ガンスリンガー",
 		"machine": true
 	},
-	"Deadeye": 
 	{
+		"phrase": "Deadeye",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "デッドアイ",
 		"machine": true
 	},
-	"Sharpshooter": 
 	{
+		"phrase": "Sharpshooter",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "シャープシューター",
 		"machine": true
 	},
-	"Deathbringer": 
 	{
+		"phrase": "Deathbringer",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "デスブリンガー",
 		"machine": true
 	},
-	"Blaster": 
 	{
+		"phrase": "Blaster",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブラスター",
 		"machine": true
 	},
-	"Collider": 
 	{
+		"phrase": "Collider",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "コライダー",
 		"machine": true
 	},
-	"Obliterator": 
 	{
+		"phrase": "Obliterator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "抹消者",
 		"machine": true
 	},
-	"Disintegrator": 
 	{
+		"phrase": "Disintegrator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "崩壊剤",
 		"machine": true
 	},
-	"Alleviator": 
 	{
+		"phrase": "Alleviator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "緩和剤",
 		"machine": true
 	},
-	"Mitigator": 
 	{
+		"phrase": "Mitigator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "緩和剤",
 		"machine": true
 	},
-	"Diminisher": 
 	{
+		"phrase": "Diminisher",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ディミニッシャー",
 		"machine": true
 	},
-	"Recon": 
 	{
+		"phrase": "Recon",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "偵察",
 		"machine": true
 	},
-	"Luminator": 
 	{
+		"phrase": "Luminator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ルミネーター",
 		"machine": true
 	},
-	"Coruscator": 
 	{
+		"phrase": "Coruscator",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "コルスカトール",
 		"machine": true
 	},
-	"Spotter": 
 	{
+		"phrase": "Spotter",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スポッター",
 		"machine": true
 	},
-	"Watchman": 
 	{
+		"phrase": "Watchman",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "警備員",
 		"machine": true
 	},
-	"Eagle Eye": 
 	{
+		"phrase": "Eagle Eye",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "鋭い目",
 		"machine": true
 	},
-	"All Seeing": 
 	{
+		"phrase": "All Seeing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "すべて見る",
 		"machine": true
 	},
-	"Body Guard": 
 	{
+		"phrase": "Body Guard",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ボディガード",
 		"machine": true
 	},
-	"Slayer": 
 	{
+		"phrase": "Slayer",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スレイヤー",
 		"machine": true
 	},
-	"Punisher": 
 	{
+		"phrase": "Punisher",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パニッシャー",
 		"machine": true
 	},
-	"Midi Certified": 
 	{
+		"phrase": "Midi Certified",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ミディ認定",
 		"machine": true
 	},
-	"Maze Runner": 
 	{
+		"phrase": "Maze Runner",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "迷路の走者",
 		"machine": true
 	},
-	"Trial Master": 
 	{
+		"phrase": "Trial Master",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トライアルマスター",
 		"machine": true
 	},
-	"Trial Hard": 
 	{
+		"phrase": "Trial Hard",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "一生懸命試してみる",
 		"machine": true
 	},
-	"Podium": 
 	{
+		"phrase": "Podium",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "表彰台",
 		"machine": true
 	},
-	"Scoreboard": 
 	{
+		"phrase": "Scoreboard",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スコアボード",
 		"machine": true
 	},
-	"Sensitivity": 
 	{
+		"phrase": "Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "感度",
 		"machine": true
 	},
-	"Video": 
 	{
+		"phrase": "Video",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ビデオ",
 		"machine": true
 	},
-	"Performance": 
 	{
+		"phrase": "Performance",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パフォーマンス",
 		"machine": true
 	},
-	"Audio": 
 	{
+		"phrase": "Audio",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "オーディオ",
 		"machine": true
 	},
-	"Accessibility": 
 	{
+		"phrase": "Accessibility",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アクセシビリティ",
 		"machine": true
 	},
-	"Close": 
 	{
+		"phrase": "Close",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "選ぶ",
 		"machine": true
 	},
-	"Peacekeeper": 
 	{
+		"phrase": "Peacekeeper",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "平和維持軍",
 		"machine": true
 	},
-	"Networking": 
 	{
+		"phrase": "Networking",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ネットワーキング",
 		"machine": true
 	},
-	"Serious": 
 	{
+		"phrase": "Serious",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "深刻",
 		"machine": true
 	},
-	"Control Preferences": 
 	{
+		"phrase": "Control Preferences",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "設定を制御する",
 		"machine": true
 	},
-	"Toggle Scope": 
 	{
+		"phrase": "Toggle Scope",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スコープの切り替え",
 		"machine": true
 	},
-	"Toggle Crouch": 
 	{
+		"phrase": "Toggle Crouch",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "しゃがみを切り替える",
 		"machine": true
 	},
-	"Toggle Sprint": 
 	{
+		"phrase": "Toggle Sprint",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スプリントを切り替えます",
 		"machine": true
 	},
-	"Auto-Rotate Structures": 
 	{
+		"phrase": "Auto-Rotate Structures",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造を自動回転させる",
 		"machine": true
 	},
-	"Chat": 
 	{
+		"phrase": "Chat",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チャット",
 		"machine": true
 	},
-	"Streamer Mode": 
 	{
+		"phrase": "Streamer Mode",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ストリーマーモード",
 		"machine": true
 	},
-	"Profanity Filter": 
 	{
+		"phrase": "Profanity Filter",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "冒とく的なフィルター",
 		"machine": true
 	},
-	"Chat Timeout": 
 	{
+		"phrase": "Chat Timeout",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チャットのタイムアウト",
 		"machine": true
 	},
-	"Rendering": 
 	{
+		"phrase": "Rendering",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レンダリング",
 		"machine": true
 	},
-	"Green Outline for Party Members": 
 	{
-		"translation": "党員のための緑のアウトライン",
-		"machine": true
-	},
-	"Friendly Outline Through Walls": 
-	{
+		"phrase": "Friendly Outline Through Walls",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "壁を通して優しい輪郭",
 		"machine": true
 	},
-	"Miscellaneous": 
 	{
+		"phrase": "Miscellaneous",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "その他",
 		"machine": true
 	},
-	"Camera Sway": 
 	{
+		"phrase": "Camera Sway",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カメラの揺れ",
 		"machine": true
 	},
-	"Pause when Inactive": 
 	{
+		"phrase": "Pause when Inactive",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "非アクティブの場合は一時停止",
 		"machine": true
 	},
-	"Enable Debug Logging": 
 	{
+		"phrase": "Enable Debug Logging",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "デバッグログを有効にする",
 		"machine": true
 	},
-	"Extra Logging": 
 	{
+		"phrase": "Extra Logging",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "追加のロギング",
 		"machine": true
 	},
-	"Input": 
 	{
+		"phrase": "Input",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "入力",
 		"machine": true
 	},
-	"Raw Mouse Input": 
 	{
+		"phrase": "Raw Mouse Input",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "生のマウス入力",
 		"machine": true
 	},
-	"Sensitivity Multiplies": 
 	{
+		"phrase": "Sensitivity Multiplies",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "感度が倍増",
 		"machine": true
 	},
-	"Invert Y Axis": 
 	{
+		"phrase": "Invert Y Axis",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "y軸を反転",
 		"machine": true
 	},
-	"Sensitivity Values": 
 	{
+		"phrase": "Sensitivity Values",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "感度値",
 		"machine": true
 	},
-	"Look Sensitivity": 
 	{
+		"phrase": "Look Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "感度を見てください",
 		"machine": true
 	},
-	"Ironsights Sensitivity": 
 	{
+		"phrase": "Ironsights Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "Ironsightsの感度",
 		"machine": true
 	},
-	"X2 Scope Sensitivity": 
 	{
+		"phrase": "X2 Scope Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "X2スコープの感度",
 		"machine": true
 	},
-	"X4 Scope Sensitivity": 
 	{
+		"phrase": "X4 Scope Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "X4スコープの感度",
 		"machine": true
 	},
-	"Spectator Sensitivity": 
 	{
+		"phrase": "Spectator Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "観客の感度",
 		"machine": true
 	},
-	"Minimap": 
 	{
+		"phrase": "Minimap",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ミニマップ",
 		"machine": true
 	},
-	"Minimap Size": 
 	{
+		"phrase": "Minimap Size",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ミニマップサイズ",
 		"machine": true
 	},
-	"Minimap Zoom": 
 	{
+		"phrase": "Minimap Zoom",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ミニマップズーム",
 		"machine": true
 	},
-	"Damage Numbers": 
 	{
+		"phrase": "Damage Numbers",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ダメージ数",
 		"machine": true
 	},
-	"Show in the Shooting Range": 
 	{
+		"phrase": "Show in the Shooting Range",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "射撃場に表示",
 		"machine": true
 	},
-	"Show HUD": 
 	{
+		"phrase": "Show HUD",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "HUDを表示",
 		"machine": true
 	},
-	"Show Kill Feed": 
 	{
+		"phrase": "Show Kill Feed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キルフィードを表示",
 		"machine": true
 	},
-	"Show Player Names": 
 	{
+		"phrase": "Show Player Names",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレーヤー名を表示する",
 		"machine": true
 	},
-	"Show Enemies on the Zone Bar": 
 	{
+		"phrase": "Show Enemies on the Zone Bar",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゾーンバーに敵を表示する",
 		"machine": true
 	},
-	"Secret": 
 	{
+		"phrase": "Secret",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ひみつ",
 		"machine": true
 	},
-	"This Doesn't Do Anything": 
 	{
+		"phrase": "This Doesn't Do Anything",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これは何もしません",
 		"machine": true
 	},
-	"Resolution": 
 	{
+		"phrase": "Resolution",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "解像度",
 		"machine": true
 	},
-	"Override Screen Resolution": 
 	{
+		"phrase": "Override Screen Resolution",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "画面の解像度を上書きする",
 		"machine": true
 	},
-	"Game Resolution X": 
 	{
+		"phrase": "Game Resolution X",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゲームの解像度X",
 		"machine": true
 	},
-	"Game Resolution Y": 
 	{
+		"phrase": "Game Resolution Y",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゲームの解像度Y",
 		"machine": true
 	},
-	"Camera": 
 	{
+		"phrase": "Camera",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カメラ",
 		"machine": true
 	},
-	"Field of View": 
 	{
+		"phrase": "Field of View",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "視野",
 		"machine": true
 	},
-	"Degrees": 
 	{
+		"phrase": "Degrees",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "度",
 		"machine": true
 	},
-	"Brightness": 
 	{
+		"phrase": "Brightness",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "輝度",
 		"machine": true
 	},
-	"Dynamic Rendering Settings": 
 	{
+		"phrase": "Dynamic Rendering Settings",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "動的レンダリング設定",
 		"machine": true
 	},
-	"Texture Quality": 
 	{
+		"phrase": "Texture Quality",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "テクスチャ品質",
 		"machine": true
 	},
-	"Shadows": 
 	{
+		"phrase": "Shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "影",
 		"machine": true
 	},
-	"Shadow Quality": 
 	{
+		"phrase": "Shadow Quality",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "影の品質",
 		"machine": true
 	},
-	"Render Player Shadows": 
 	{
+		"phrase": "Render Player Shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレーヤーの影をレンダリングする",
 		"machine": true
 	},
-	"Render Entity Shadows": 
 	{
+		"phrase": "Render Entity Shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "エンティティシャドウをレンダリングする",
 		"machine": true
 	},
-	"Render Particle Shadows": 
 	{
+		"phrase": "Render Particle Shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "粒子の影をレンダリングする",
 		"machine": true
 	},
-	"Render Weather Particle Shadows": 
 	{
+		"phrase": "Render Weather Particle Shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "天気の粒子の影をレンダリングする",
 		"machine": true
 	},
-	"Render Structure Shadows": 
 	{
+		"phrase": "Render Structure Shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造の影をレンダリングする",
 		"machine": true
 	},
-	"Voxel Settings": 
 	{
+		"phrase": "Voxel Settings",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ボクセル設定",
 		"machine": true
 	},
-	"Render Distance": 
 	{
+		"phrase": "Render Distance",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "レンダリング距離",
 		"machine": true
 	},
-	"Chunks": 
 	{
+		"phrase": "Chunks",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チャンク",
 		"machine": true
 	},
-	"Max Chunk Updates": 
 	{
+		"phrase": "Max Chunk Updates",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最大チャンク更新",
 		"machine": true
 	},
-	"Particle Amount": 
 	{
+		"phrase": "Particle Amount",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "粒子量",
 		"machine": true
 	},
-	"Weather Particle Amount": 
 	{
+		"phrase": "Weather Particle Amount",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "気象粒子量",
 		"machine": true
 	},
-	"Lights": 
 	{
+		"phrase": "Lights",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ライト",
 		"machine": true
 	},
-	"Lighting Quality": 
 	{
+		"phrase": "Lighting Quality",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "照明品質",
 		"machine": true
 	},
-	"Samples": 
 	{
+		"phrase": "Samples",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サンプル",
 		"machine": true
 	},
-	"Bloom Strength": 
 	{
+		"phrase": "Bloom Strength",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブルームの強さ",
 		"machine": true
 	},
-	"Render Bloom On Optics": 
 	{
+		"phrase": "Render Bloom On Optics",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "光学系でブルームをレンダリング",
 		"machine": true
 	},
-	"Render Crepuscular Rays": 
 	{
+		"phrase": "Render Crepuscular Rays",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "薄明光線をレンダリングする",
 		"machine": true
 	},
-	"Enable Anti-Aliasing": 
 	{
+		"phrase": "Enable Anti-Aliasing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "アンチエイリアシングを有効にする",
 		"machine": true
 	},
-	"Outer Scope Blur": 
 	{
+		"phrase": "Outer Scope Blur",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "外側のスコープのぼかし",
 		"machine": true
 	},
-	"Compatibility": 
 	{
+		"phrase": "Compatibility",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "互換性",
 		"machine": true
 	},
-	"Experimental": 
 	{
+		"phrase": "Experimental",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "実験的",
 		"machine": true
 	},
-	"Extensions": 
 	{
+		"phrase": "Extensions",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "拡張機能",
 		"machine": true
 	},
-	"Sound Effect Volume": 
 	{
+		"phrase": "Sound Effect Volume",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "効果音音量",
 		"machine": true
 	},
-	"Ambient Volume": 
 	{
+		"phrase": "Ambient Volume",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "周囲の音量",
 		"machine": true
 	},
-	"Game Music Volume": 
 	{
+		"phrase": "Game Music Volume",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゲームミュージックのボリューム",
 		"machine": true
 	},
-	"Menu Music Volume": 
 	{
+		"phrase": "Menu Music Volume",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "メニューの音楽ボリューム",
 		"machine": true
 	},
-	"Personal Footsteps Volume": 
 	{
+		"phrase": "Personal Footsteps Volume",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "個人の足音ボリューム",
 		"machine": true
 	},
-	"Team Footsteps Volume": 
 	{
-		"translation": "チームの足跡のボリューム",
-		"machine": true
-	},
-	"Movement": 
-	{
+		"phrase": "Movement",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "動き",
 		"machine": true
 	},
-	"Actions": 
 	{
+		"phrase": "Actions",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "行動",
 		"machine": true
 	},
-	"Weaponry": 
 	{
+		"phrase": "Weaponry",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "武器",
 		"machine": true
 	},
-	"Single Dig by Default": 
 	{
+		"phrase": "Single Dig by Default",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "デフォルトではシングルディグ",
 		"machine": true
 	},
-	"Tools": 
 	{
+		"phrase": "Tools",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ツール",
 		"machine": true
 	},
-	"Navigation": 
 	{
+		"phrase": "Navigation",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ナビゲーション",
 		"machine": true
 	},
-	"Team Colours": 
 	{
+		"phrase": "Team Colours",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チームカラー",
 		"machine": true
 	},
-	"Friendly Colour": 
 	{
+		"phrase": "Friendly Colour",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "優しい色",
 		"machine": true
 	},
-	"Party Colour": 
 	{
+		"phrase": "Party Colour",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パーティーカラー",
 		"machine": true
 	},
-	"Enemy Colour": 
 	{
+		"phrase": "Enemy Colour",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "敵の色",
 		"machine": true
 	},
-	"High Quality Meshing": 
 	{
+		"phrase": "High Quality Meshing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "高品質のメッシュ",
 		"machine": true
 	},
-	"Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.": 
 	{
+		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "より高品質のワールドメッシュを生成するCPUにより多くの時間を費やし、GPUへの圧力を軽減します.",
 		"machine": true
 	},
-	"The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.": 
 	{
+		"phrase": "The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゲームは自動的にエフェクトを無効にし、後処理の品質を下げてFPSを高く保ちます。最適なレンダリング設定を決定するのに最大1分かかる場合があります.",
 		"machine": true
 	},
-	"Polling Rate": 
 	{
+		"phrase": "Polling Rate",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ポーリングレート",
 		"machine": true
 	},
-	"Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.": 
 	{
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サーバーからプレーヤーデータを受信する頻度を変更します。不安定なインターネットまたは低帯域幅のインターネットを使用している場合は、この値を下げてください.",
 		"machine": true
 	},
-	"Pew Pew Mode": 
 	{
+		"phrase": "Pew Pew Mode",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ピューピューモード",
 		"machine": true
 	},
-	"Must keep enabled at all times": 
 	{
+		"phrase": "Must keep enabled at all times",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "常に有効にしておく必要があります",
 		"machine": true
 	},
-	"The size of the bottom-right minimap": 
 	{
+		"phrase": "The size of the bottom-right minimap",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "右下のミニマップのサイズ",
 		"machine": true
 	},
-	"The internal scale of the bottom-right minimap": 
 	{
+		"phrase": "The internal scale of the bottom-right minimap",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "右下のミニマップの内部スケール",
 		"machine": true
 	},
-	"The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.": 
 	{
+		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サーバー名はスコアボードに表示されず、他のプレイヤー名とレベルはランダム化されます.",
 		"machine": true
 	},
-	"Controls whether the in-game HUD is rendered. Shortcut:": 
 	{
+		"phrase": "Controls whether the in-game HUD is rendered. Shortcut:",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゲーム内のHUDをレンダリングするかどうかを制御します。ショートカット:",
 		"machine": true
 	},
-	"Show Chat": 
 	{
+		"phrase": "Show Chat",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チャットを表示",
 		"machine": true
 	},
-	"Controls whether the chat is rendered. Shortcut:": 
 	{
+		"phrase": "Controls whether the chat is rendered. Shortcut:",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チャットをレンダリングするかどうかを制御します。ショートカット:",
 		"machine": true
 	},
-	"Controls whether the kill feed is rendered. Shortcut:": 
 	{
+		"phrase": "Controls whether the kill feed is rendered. Shortcut:",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キルフィードをレンダリングするかどうかを制御します。ショートカット:",
 		"machine": true
 	},
-	"Controls whether player names are rendered. Shortcut:": 
 	{
+		"phrase": "Controls whether player names are rendered. Shortcut:",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレーヤー名をレンダリングするかどうかを制御します。ショートカット:",
 		"machine": true
 	},
-	"UI Scale": 
 	{
+		"phrase": "UI Scale",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "UIスケール",
 		"machine": true
 	},
-	"Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS": 
 	{
+		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パーティクルは、オブジェクトがヒットまたは破壊されたときに生成されます。このパーセンテージを下げるとFPSが増加します",
 		"machine": true
 	},
-	"The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS": 
 	{
+		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マップは32x32x32ブロックのチャンクに分割されます。これを減らすとFPSが上がります",
 		"machine": true
 	},
-	"Max Lights": 
 	{
+		"phrase": "Max Lights",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最大ライト",
 		"machine": true
 	},
-	"The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS": 
 	{
+		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "世界は、太陽光、ブロックライト、銃からの銃口フラッシュで照らされています。レンダリングできるライトの最大量を減らすと、FPSが増加します",
 		"machine": true
 	},
-	"Max FPS": 
 	{
+		"phrase": "Max FPS",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最大FPS",
 		"machine": true
 	},
-	"Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage": 
 	{
+		"phrase": "Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "1秒あたりのフレーム数（FPS）は、ゲームが1秒あたりに更新する回数です。この値を下げると、CPUとGPUの使用量が減少します",
 		"machine": true
 	},
-	"Enable SSAO": 
 	{
+		"phrase": "Enable SSAO",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "SSAOを有効にする",
 		"machine": true
 	},
-	"Screen Space Ambient Occlusion darkens the crevices between objects": 
 	{
+		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スクリーンスペースアンビエントオクルージョンは、オブジェクト間の隙間を暗くします",
 		"machine": true
 	},
-	"Enable Bloom": 
 	{
+		"phrase": "Enable Bloom",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブルームを有効にする",
 		"machine": true
 	},
-	"Bloom increases and blurs the brightness of emissive surfaces": 
 	{
+		"phrase": "Bloom increases and blurs the brightness of emissive surfaces",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ブルームが増加し、放射面の明るさがぼやけます",
 		"machine": true
 	},
-	"Enable Bloom On Optics": 
 	{
+		"phrase": "Enable Bloom On Optics",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "光学系でブルームを有効にする",
 		"machine": true
 	},
-	"Enable Crepuscular Rays": 
 	{
+		"phrase": "Enable Crepuscular Rays",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "薄明光線を有効にする",
 		"machine": true
 	},
-	"Crepuscular rays are shafts of lights that originate from a star": 
 	{
+		"phrase": "Crepuscular rays are shafts of lights that originate from a star",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "薄明光線は、星から発する光の軸です",
 		"machine": true
 	},
-	"Enable Shadows": 
 	{
+		"phrase": "Enable Shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "シャドウを有効にする",
 		"machine": true
 	},
-	"Parts of the map will be darkened by the shadows cast from other objects": 
 	{
+		"phrase": "Parts of the map will be darkened by the shadows cast from other objects",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マップの一部は、他のオブジェクトから投影された影によって暗くなります",
 		"machine": true
 	},
-	"Controls whether players from casting shadows": 
 	{
+		"phrase": "Controls whether players from casting shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プレイヤーが影を落とすかどうかを制御します",
 		"machine": true
 	},
-	"Controls whether Disruptors, C4, Scanners and Canisters cast shadows": 
 	{
+		"phrase": "Controls whether Disruptors, C4, Scanners and Canisters cast shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ディスラプター、c4、スキャナー、キャニスターが影を落とすかどうかを制御します",
 		"machine": true
 	},
-	"Controls whether particles cast shadows": 
 	{
+		"phrase": "Controls whether particles cast shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "パーティクルが影を落とすかどうかを制御します",
 		"machine": true
 	},
-	"Controls whether leaf particles cast shadows": 
 	{
+		"phrase": "Controls whether leaf particles cast shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "葉の粒子が影を落とすかどうかを制御します",
 		"machine": true
 	},
-	"Controls whether falling structures cast shadows": 
 	{
+		"phrase": "Controls whether falling structures cast shadows",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "落下する構造物が影を落とすかどうかを制御します",
 		"machine": true
 	},
-	"Enable Multisampling": 
 	{
+		"phrase": "Enable Multisampling",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マルチサンプリングを有効にする",
 		"machine": true
 	},
-	"Multisampling smooths the edges of objects": 
 	{
+		"phrase": "Multisampling smooths the edges of objects",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "マルチサンプリングは、オブジェクトのエッジを滑らかにします",
 		"machine": true
 	},
-	"Bare Minimum": 
 	{
+		"phrase": "Bare Minimum",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最低",
 		"machine": true
 	},
-	"The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time": 
 	{
+		"phrase": "The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最低限のレンダリングモードでは、すべての後処理がスキップされ、オブジェクトが画面に直接レンダリングされます。これを無効にすると、時間がかかる場合があります",
 		"machine": true
 	},
-	"With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black": 
 	{
+		"phrase": "With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最低限を有効にすると、これは2倍および4倍のスコープの周囲の領域がぼやけているか黒であるかを制御します",
 		"machine": true
 	},
-	"Compress Textures": 
 	{
+		"phrase": "Compress Textures",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "テクスチャを圧縮する",
 		"machine": true
 	},
-	"Compressing textures will use less memory on the GPU but the game will take longer to start up": 
 	{
+		"phrase": "Compressing textures will use less memory on the GPU but the game will take longer to start up",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "テクスチャを圧縮すると、GPUで使用するメモリは少なくなりますが、ゲームの起動に時間がかかります",
 		"machine": true
 	},
-	"Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes": 
 	{
+		"phrase": "Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "デバッグログは、ログファイルをappData \/ roaming \/ vercidium \/ logフォルダーに保存します。これは、開発者がバグやクラッシュを修正するのに役立ちます。",
 		"machine": true
 	},
-	"Enable Safe Mode": 
 	{
+		"phrase": "Enable Safe Mode",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "セーフモードを有効にする",
 		"machine": true
 	},
-	"Safe Mode prevents crashes from closing the game, but may slow the game down slightly": 
 	{
+		"phrase": "Safe Mode prevents crashes from closing the game, but may slow the game down slightly",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "セーフモードは、クラッシュによるゲームの終了を防ぎますが、ゲームの速度がわずかに低下する可能性があります",
 		"machine": true
 	},
-	"Enable VSync": 
 	{
+		"phrase": "Enable VSync",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "VSyncを有効にする",
 		"machine": true
 	},
-	"Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing": 
 	{
+		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "垂直同期は、ゲームの更新レートをモニターのリフレッシュレートに一致させます。これを有効にすると、画面のティアリングが修正される場合があります",
 		"machine": true
 	},
-	"Dynamic Exposure": 
 	{
+		"phrase": "Dynamic Exposure",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "動的露出",
 		"machine": true
 	},
-	"Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene": 
 	{
+		"phrase": "Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "動的露出は、シーンの明るさに基づいて露出を調整することにより、人間の目を模倣します",
 		"machine": true
 	},
-	"Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker": 
 	{
+		"phrase": "Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "シャドウの品質を下げるとFPSが向上しますが、クローズアップシャドウがちらつきます",
 		"machine": true
 	},
-	"Reducing the quality of lighting will increase FPS but pixelate lighting": 
 	{
+		"phrase": "Reducing the quality of lighting will increase FPS but pixelate lighting",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "照明の品質を下げるとFPSは上がりますが、ピクセル化された照明になります",
 		"machine": true
 	},
-	"Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware": 
 	{
+		"phrase": "Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これを有効にすると、古いハードウェアで遅くなる可能性のあるレンダリングパイプラインの一部が削除されます",
 		"machine": true
 	},
-	"Enable this if you are having trouble connecting to servers": 
 	{
+		"phrase": "Enable this if you are having trouble connecting to servers",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "サーバーへの接続に問題がある場合は、これを有効にしてください",
 		"machine": true
 	},
-	"Only Scroll Weapons": 
 	{
+		"phrase": "Only Scroll Weapons",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スクロール武器のみ",
 		"machine": true
 	},
-	"If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools": 
 	{
+		"phrase": "If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "有効にすると、スクロールホイールは武器間でのみ回転し、建物\/掘削ツールは回転しません。",
 		"machine": true
 	},
-	"If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity": 
 	{
+		"phrase": "If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "有効にすると、各ironsight \/ 2x \/ 4x感度オプションは、外観の感度に基づく乗数になります",
 		"machine": true
 	},
-	"The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage": 
 	{
+		"phrase": "The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フレームごとに更新されるマップのセクションの量。これを下げると、CPU使用率が低下します",
 		"machine": true
 	},
-	"Low Quality Textures": 
 	{
+		"phrase": "Low Quality Textures",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "低品質のテクスチャ",
 		"machine": true
 	},
-	"Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect": 
 	{
+		"phrase": "Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これを有効にすると、テクスチャの解像度が低下してFPSが増加し、メモリ使用量が減少します。これを無効にするには、再起動する必要があります",
 		"machine": true
 	},
-	"SSAO Samples": 
 	{
+		"phrase": "SSAO Samples",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "SSAOサンプル",
 		"machine": true
 	},
-	"Increasing this will improve the quality of Ambient Occlusion postprocessing": 
 	{
+		"phrase": "Increasing this will improve the quality of Ambient Occlusion postprocessing",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これを増やすと、アンビエントオクルージョンの後処理の品質が向上します",
 		"machine": true
 	},
-	"Player Name Distance": 
 	{
+		"phrase": "Player Name Distance",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "選手名距離",
 		"machine": true
 	},
-	"This controls how far away friendly names will show": 
 	{
+		"phrase": "This controls how far away friendly names will show",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これは、友好的な名前が表示される距離を制御します",
 		"machine": true
 	},
-	"Midi Counts as Weapon": 
 	{
+		"phrase": "Midi Counts as Weapon",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ミディは武器として数えます",
 		"machine": true
 	},
-	"When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them": 
 	{
+		"phrase": "When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "無効にすると、武器をスクロールし、最後のツールのキーバインドを押しても武器にスワップしないときに、midi \/ digger \/ structureがスキップされます",
 		"machine": true
 	},
-	"Automatically pause the game when you change to another window": 
 	{
+		"phrase": "Automatically pause the game when you change to another window",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "別のウィンドウに変更すると、ゲームが自動的に一時停止します",
 		"machine": true
 	},
-	"Replace swear words in chat messages with delicious food": 
 	{
+		"phrase": "Replace swear words in chat messages with delicious food",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チャットメッセージの冒とく的な言葉をおいしい食べ物に置き換えます",
 		"machine": true
 	},
-	"Game Resolution": 
 	{
+		"phrase": "Game Resolution",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゲームの解像度",
 		"machine": true
 	},
-	"Reducing this will increase FPS": 
 	{
+		"phrase": "Reducing this will increase FPS",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これを減らすとFPSが上がります",
 		"machine": true
 	},
-	"Override Resolution": 
 	{
+		"phrase": "Override Resolution",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "解像度を上書きする",
 		"machine": true
 	},
-	"Enabling this will make the game render at the resolution specified below and stretch to the size of the window": 
 	{
+		"phrase": "Enabling this will make the game render at the resolution specified below and stretch to the size of the window",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これを有効にすると、ゲームは以下に指定された解像度でレンダリングされ、ウィンドウのサイズに拡大されます。",
 		"machine": true
 	},
-	"Smooth Scaling": 
 	{
+		"phrase": "Smooth Scaling",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スムーズなスケーリング",
 		"machine": true
 	},
-	"Enabling this will reduce the pixelation of lower game resolutions": 
 	{
+		"phrase": "Enabling this will reduce the pixelation of lower game resolutions",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これを有効にすると、低いゲーム解像度のピクセル化が減少します",
 		"machine": true
 	},
-	"NVIDIA OpenGL Extensions": 
 	{
+		"phrase": "NVIDIA OpenGL Extensions",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "NVIDIAopenGL拡張機能",
 		"machine": true
 	},
-	"Experimental performance setting, may crash your game. Don't enable if you haven't been told to": 
 	{
+		"phrase": "Experimental performance setting, may crash your game. Don't enable if you haven't been told to",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "実験的なパフォーマンス設定は、ゲームをクラッシュさせる可能性があります。指示されていない場合は有効にしないでください",
 		"machine": true
 	},
-	"Beta Rendering": 
 	{
+		"phrase": "Beta Rendering",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ベータレンダリング",
 		"machine": true
 	},
-	"New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled": 
 	{
+		"phrase": "New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "新しいレンダリングパイプライン。これを有効にしてゲームの実行速度が速くなったり遅くなったりする場合は、不和でvercidiumに知らせてください",
 		"machine": true
 	},
-	"Enable this to make": 
 	{
+		"phrase": "Enable this to make",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "これを有効にして",
 		"machine": true
 	},
-	"dig single blocks and": 
 	{
+		"phrase": "dig single blocks and",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "単一のブロックを掘り、",
 		"machine": true
 	},
-	"dig a 3x3x3 area": 
 	{
+		"phrase": "dig a 3x3x3 area",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "3x3x3の領域を掘る",
 		"machine": true
 	},
-	"Show Enemies on Zone Bar": 
 	{
+		"phrase": "Show Enemies on Zone Bar",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ゾーンバーに敵を表示する",
 		"machine": true
 	},
-	"Forwards": 
 	{
+		"phrase": "Forwards",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フォワード",
 		"machine": true
 	},
-	"Right": 
 	{
+		"phrase": "Right",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "右",
 		"machine": true
 	},
-	"Backwards": 
 	{
+		"phrase": "Backwards",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "後方",
 		"machine": true
 	},
-	"Crouch": 
 	{
+		"phrase": "Crouch",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "しゃがむ",
 		"machine": true
 	},
-	"Jump": 
 	{
+		"phrase": "Jump",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ジャンプ",
 		"machine": true
 	},
-	"Sprint": 
 	{
+		"phrase": "Sprint",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スプリント",
 		"machine": true
 	},
-	"Slide": 
 	{
+		"phrase": "Slide",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "滑り台",
 		"machine": true
 	},
-	"Pick Up Primary": 
 	{
+		"phrase": "Pick Up Primary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "プライマリをピックアップ",
 		"machine": true
 	},
-	"Pick Up Secondary": 
 	{
+		"phrase": "Pick Up Secondary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "二次ピックアップ",
 		"machine": true
 	},
-	"Ping": 
 	{
+		"phrase": "Ping",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ping",
 		"machine": true
 	},
-	"Ping (Enemy)": 
 	{
+		"phrase": "Ping (Enemy)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ping（敵)",
 		"machine": true
 	},
-	"Ping (Caution)": 
 	{
+		"phrase": "Ping (Caution)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ping（注意)",
 		"machine": true
 	},
-	"Ping (Help)": 
 	{
+		"phrase": "Ping (Help)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ping（ヘルプ)",
 		"machine": true
 	},
-	"Ping (Reinforce)": 
 	{
+		"phrase": "Ping (Reinforce)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ping（強化)",
 		"machine": true
 	},
-	"Ping (Destroy)": 
 	{
+		"phrase": "Ping (Destroy)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ping（破壊)",
 		"machine": true
 	},
-	"Shoot": 
 	{
+		"phrase": "Shoot",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "シュート",
 		"machine": true
 	},
-	"Scope": 
 	{
+		"phrase": "Scope",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "範囲",
 		"machine": true
 	},
-	"Melee": 
 	{
+		"phrase": "Melee",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "近接",
 		"machine": true
 	},
-	"Grenade": 
 	{
+		"phrase": "Grenade",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "グレネード",
 		"machine": true
 	},
-	"Midi": 
 	{
+		"phrase": "Midi",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ミディ",
 		"machine": true
 	},
-	"Digger": 
 	{
+		"phrase": "Digger",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ディガー",
 		"machine": true
 	},
-	"Structure (Radial)": 
 	{
+		"phrase": "Structure (Radial)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造（放射状)",
 		"machine": true
 	},
-	"Structure (Toggle)": 
 	{
+		"phrase": "Structure (Toggle)",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造（トグル)",
 		"machine": true
 	},
-	"Structure 1": 
 	{
+		"phrase": "Structure 1",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造1",
 		"machine": true
 	},
-	"Structure 2": 
 	{
+		"phrase": "Structure 2",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造2",
 		"machine": true
 	},
-	"Structure 3": 
 	{
+		"phrase": "Structure 3",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造3",
 		"machine": true
 	},
-	"Structure 4": 
 	{
+		"phrase": "Structure 4",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造4",
 		"machine": true
 	},
-	"Structure 5": 
 	{
+		"phrase": "Structure 5",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造5",
 		"machine": true
 	},
-	"Structure 6": 
 	{
+		"phrase": "Structure 6",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造6",
 		"machine": true
 	},
-	"Structure 7": 
 	{
+		"phrase": "Structure 7",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造7",
 		"machine": true
 	},
-	"Structure 8": 
 	{
+		"phrase": "Structure 8",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造8",
 		"machine": true
 	},
-	"Structure 9": 
 	{
+		"phrase": "Structure 9",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "構造9",
 		"machine": true
 	},
-	"Primary": 
 	{
+		"phrase": "Primary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "主要な",
 		"machine": true
 	},
-	"Secondary": 
 	{
+		"phrase": "Secondary",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "二次",
 		"machine": true
 	},
-	"Switch To Last Tool": 
 	{
+		"phrase": "Switch To Last Tool",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "最後のツールに切り替えます",
 		"machine": true
 	},
-	"Next Tool": 
 	{
+		"phrase": "Next Tool",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "次のツール",
 		"machine": true
 	},
-	"Previous Tool": 
 	{
+		"phrase": "Previous Tool",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "以前のツール",
 		"machine": true
 	},
-	"Team Chat": 
 	{
+		"phrase": "Team Chat",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チームチャット",
 		"machine": true
 	},
-	"View Scoreboard": 
 	{
+		"phrase": "View Scoreboard",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スコアボードを見る",
 		"machine": true
 	},
-	"Unlock Scoreboard": 
 	{
+		"phrase": "Unlock Scoreboard",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "スコアボードのロックを解除する",
 		"machine": true
 	},
-	"View Map": 
 	{
+		"phrase": "View Map",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "地図を見ます",
 		"machine": true
 	},
-	"Menu": 
 	{
+		"phrase": "Menu",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "メニュー",
 		"machine": true
 	},
-	"Toggle Fullscreen": 
 	{
+		"phrase": "Toggle Fullscreen",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フルスクリーン切り替え",
 		"machine": true
 	},
-	"Toggle UI": 
 	{
+		"phrase": "Toggle UI",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "UIを切り替えます",
 		"machine": true
 	},
-	"Toggle Chat": 
 	{
+		"phrase": "Toggle Chat",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "チャットを切り替えます",
 		"machine": true
 	},
-	"Toggle Killfeed": 
 	{
+		"phrase": "Toggle Killfeed",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キルフィードを切り替えます",
 		"machine": true
 	},
-	"Toggle Names": 
 	{
+		"phrase": "Toggle Names",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "名前を切り替える",
 		"machine": true
 	},
-	"Toggle Info Overlay": 
 	{
+		"phrase": "Toggle Info Overlay",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "情報オーバーレイを切り替えます",
 		"machine": true
 	},
-	"Custom Map - Reload": 
 	{
+		"phrase": "Custom Map - Reload",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カスタムマップ-リロード",
 		"machine": true
 	},
-	"Custom Map - Full Reload": 
 	{
+		"phrase": "Custom Map - Full Reload",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カスタムマップ-フルリロード",
 		"machine": true
 	},
-	"Custom Map - Toggle Fall Damage": 
 	{
+		"phrase": "Custom Map - Toggle Fall Damage",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カスタムマップ-落下ダメージを切り替えます",
 		"machine": true
 	},
-	"Custom Map - Toggle Fly Camera": 
 	{
+		"phrase": "Custom Map - Toggle Fly Camera",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "カスタムマップ-フライカメラを切り替えます",
 		"machine": true
 	},
-	"Reset UI Scale": 
 	{
+		"phrase": "Reset UI Scale",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "UIスケールをリセット",
 		"machine": true
 	},
-	"Provide Feedback": 
 	{
+		"phrase": "Provide Feedback",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "フィードバックを提供します",
 		"machine": true
 	},
-	"News Tab": 
 	{
+		"phrase": "News Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "ニュースタブ",
 		"machine": true
 	},
-	"Store Tab": 
 	{
+		"phrase": "Store Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "[ストア]タブ",
 		"machine": true
 	},
-	"Career Tab": 
 	{
+		"phrase": "Career Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "キャリアタブ",
 		"machine": true
 	},
-	"Play Tab": 
 	{
+		"phrase": "Play Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "再生タブ",
 		"machine": true
 	},
-	"Clan Tab": 
 	{
+		"phrase": "Clan Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "クランタブ",
 		"machine": true
 	},
-	"Character Tab": 
 	{
+		"phrase": "Character Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "文字タブ",
 		"machine": true
 	},
-	"Weapons Tab": 
 	{
+		"phrase": "Weapons Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "武器タブ",
 		"machine": true
 	},
-	"Loadouts Tab": 
 	{
+		"phrase": "Loadouts Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "[ロードアウト]タブ",
 		"machine": true
 	},
-	"Ship Tab": 
 	{
+		"phrase": "Ship Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "[出荷]タブ",
 		"machine": true
 	},
-	"Settings Tab": 
 	{
+		"phrase": "Settings Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "[設定]タブ",
 		"machine": true
 	},
-	"Mapping Tab": 
 	{
+		"phrase": "Mapping Tab",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "[マッピング]タブ",
 		"machine": true
 	},
-	"Open Trial Window": 
 	{
+		"phrase": "Open Trial Window",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トライアルウィンドウを開く",
 		"machine": true
 	},
-	"Restart Trial": 
 	{
+		"phrase": "Restart Trial",
+		"context": null,
+		"comment": null,
+		"locations": [],
 		"translation": "トライアルを再開する",
 		"machine": true
+	},
+	{
+		"phrase": "Flag escort",
+		"context": null,
+		"comment": "In-game point text",
+		"locations": [],
+		"translation": "旗の護衛",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb escort",
+		"context": null,
+		"comment": "In-game point text",
+		"locations": [],
+		"translation": "爆弾の護衛",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb carrier kill",
+		"context": null,
+		"comment": "In-game point text",
+		"locations": [],
+		"translation": "爆弾運搬船殺害",
+		"machine": true
+	},
+	{
+		"phrase": "MVP",
+		"context": null,
+		"comment": "Abbreviated medal name",
+		"locations": [],
+		"translation": "MVP",
+		"machine": true
+	},
+	{
+		"phrase": "You can only claim 3 lobbies per day",
+		"context": null,
+		"comment": "Reason for being disconnected from a server",
+		"locations": [],
+		"translation": "1日あたり3つのロビーしか請求できません",
+		"machine": true
+	},
+	{
+		"phrase": "Extendest",
+		"context": null,
+		"comment": "Barrel attachment name",
+		"locations": [],
+		"translation": "エクステンデスト",
+		"machine": true
+	},
+	{
+		"phrase": "Side",
+		"context": null,
+		"comment": "Foregrip attachment name",
+		"locations": [],
+		"translation": "側",
+		"machine": true
+	},
+	{
+		"phrase": "Angled Half-Grip",
+		"context": null,
+		"comment": "Foregrip attachment name",
+		"locations": [],
+		"translation": "角度の付いたハーフグリップ",
+		"machine": true
+	},
+	{
+		"phrase": "Large",
+		"context": null,
+		"comment": "Magazine attachment name",
+		"locations": [],
+		"translation": "大きい",
+		"machine": true
+	},
+	{
+		"phrase": "Triple",
+		"context": null,
+		"comment": "Ammo type name",
+		"locations": [],
+		"translation": "トリプル",
+		"machine": true
+	},
+	{
+		"phrase": "Rigid",
+		"context": null,
+		"comment": "Stock attachment name",
+		"locations": [],
+		"translation": "リジッド",
+		"machine": true
+	},
+	{
+		"phrase": "Plasma Cutter",
+		"context": null,
+		"comment": "Core attachment name",
+		"locations": [],
+		"translation": "プラズマカッター",
+		"machine": true
+	},
+	{
+		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
+		"context": null,
+		"comment": "Weapon description",
+		"locations": [],
+		"translation": "[非推奨]イージスの高度な技術の証.",
+		"machine": true
+	},
+	{
+		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
+		"context": null,
+		"comment": "Weapon description",
+		"locations": [],
+		"translation": "[非推奨] 3x3x3のブロックチャンクを削除する低速のmidi掘削.",
+		"machine": true
+	},
+	{
+		"phrase": "[Deprecated] Allows one extra modification to be equipped.",
+		"context": null,
+		"comment": "Weapon description",
+		"locations": [],
+		"translation": "[非推奨] 1つの追加の変更を装備できます.",
+		"machine": true
+	},
+	{
+		"phrase": "This mid ranged weapon shoots Soltrium Tracer Rounds. Recharges over time and can overheat.",
+		"context": null,
+		"comment": "Weapon description for Aranet's Minigun",
+		"locations": [],
+		"translation": "この中距離武器は、ソルトリウムトレーサーラウンドを撃ちます。時間の経過とともに再充電され、過熱する可能性があります.",
+		"machine": true
+	},
+	{
+		"phrase": "[Deprecated] Blocks placed have +100% health.",
+		"context": null,
+		"comment": "Weapon description",
+		"locations": [],
+		"translation": "[非推奨]配置されたブロックのヘルスは+ 100％です.",
+		"machine": true
+	},
+	{
+		"phrase": "[Deprecated] Agaman technology. This close ranged weapon propels a spray of plasma",
+		"context": null,
+		"comment": "Weapon description",
+		"locations": [],
+		"translation": "[非推奨] agamanテクノロジー。この近距離兵器はプラズマのスプレーを推進します",
+		"machine": true
+	},
+	{
+		"phrase": "[Deprecated] Cluster Agama technology. Not much about this weapon is known.",
+		"context": null,
+		"comment": "Weapon description",
+		"locations": [],
+		"translation": "[非推奨]クラスターアガマテクノロジー。この武器についてはあまり知られていません.",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks",
+		"context": "Cubes",
+		"comment": "A 3d voxel",
+		"locations": [],
+		"translation": "ブロック",
+		"machine": true
+	},
+	{
+		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
+		"context": null,
+		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"locations": [],
+		"translation": "アニメーションブロックスキンを正しくレンダリングするには、アニメーションブロックスキンを有効にする必要があります",
+		"machine": true
+	},
+	{
+		"phrase": "Scroll to zoom",
+		"context": null,
+		"comment": "[Block Customisation] Use the scroll wheel to move the camera closer to the block",
+		"locations": [],
+		"translation": "スクロールしてズーム",
+		"machine": true
+	},
+	{
+		"phrase": "Press space to auto rotate",
+		"context": null,
+		"comment": "[Block Customisation] Press space on your keyboard to make the block automatically rotate",
+		"locations": [],
+		"translation": "スペースを押して自動回転します",
+		"machine": true
+	},
+	{
+		"phrase": "This is an experimental server used for beta testing. The game may not function as intended",
+		"context": null,
+		"comment": "[Connecting] Text that shows on the left of the screen when connecting to a beta server",
+		"locations": [],
+		"translation": "これは、ベータテストに使用される実験的なサーバーです。ゲームが意図したとおりに機能しない可能性があります",
+		"machine": true
+	},
+	{
+		"phrase": "The first team to",
+		"context": null,
+		"comment": "[Gamemode Info] [1\/2] Win requirement. The full phrase is: The first team to 500 points wins",
+		"locations": [],
+		"translation": "最初のチーム",
+		"machine": true
+	},
+	{
+		"phrase": "points wins",
+		"context": null,
+		"comment": "[Gamemode Info] [2\/2] Win requirement. The full phrase is: The first team to 500 points wins",
+		"locations": [],
+		"translation": "ポイントが勝ちます",
+		"machine": true
+	},
+	{
+		"phrase": "Before uploading maps to the Steam workshop, you must agree to the",
+		"context": null,
+		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
+		"locations": [],
+		"translation": "Steamワークショップにマップをアップロードする前に、",
+		"machine": true
+	},
+	{
+		"phrase": "Terms of Service.",
+		"context": null,
+		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
+		"locations": [],
+		"translation": "利用規約.",
+		"machine": true
+	},
+	{
+		"phrase": "N\/A",
+		"context": "Not Applicable",
+		"comment": "[Term] This is an abbreviation for Not Applicable",
+		"locations": [],
+		"translation": "該当なし",
+		"machine": true
+	},
+	{
+		"phrase": "Ping",
+		"context": "Latency",
+		"comment": "[Play Screen] Server Column Header for sorting servers. In this case ping refers to latency",
+		"locations": [],
+		"translation": "ping",
+		"machine": true
+	},
+	{
+		"phrase": "Region",
+		"context": null,
+		"comment": "[Play Screen] Server Column Header for sorting servers",
+		"locations": [],
+		"translation": "領域",
+		"machine": true
+	},
+	{
+		"phrase": "Map",
+		"context": null,
+		"comment": "[Play Screen] Server Column Header for sorting servers",
+		"locations": [],
+		"translation": "地図",
+		"machine": true
+	},
+	{
+		"phrase": "Mode",
+		"context": null,
+		"comment": "[Play Screen] Server Column Header for sorting servers",
+		"locations": [],
+		"translation": "モード",
+		"machine": true
+	},
+	{
+		"phrase": "Time",
+		"context": null,
+		"comment": "[Play Screen] Server Column Header for sorting servers",
+		"locations": [],
+		"translation": "時間",
+		"machine": true
+	},
+	{
+		"phrase": "General",
+		"context": "Generic",
+		"comment": "Settings category title",
+		"locations": [],
+		"translation": "全般的",
+		"machine": true
+	},
+	{
+		"phrase": "UI",
+		"context": "User interface",
+		"comment": "Settings category title",
+		"locations": [],
+		"translation": "UI",
+		"machine": true
+	},
+	{
+		"phrase": "Keybinds",
+		"context": "Key bindings",
+		"comment": "Settings category title",
+		"locations": [],
+		"translation": "キーバインド",
+		"machine": true
+	},
+	{
+		"phrase": "Points",
+		"context": null,
+		"comment": "Settings category title",
+		"locations": [],
+		"translation": "ポイント",
+		"machine": true
+	},
+	{
+		"phrase": "FPS",
+		"context": null,
+		"comment": "Frames per second",
+		"locations": [],
+		"translation": "FPS",
+		"machine": true
+	},
+	{
+		"phrase": "Counts As Weapon",
+		"context": null,
+		"comment": "[Midi] counts as weapon is the full checkbox setting name. When enabled, the user can change to the midi with the 'Last Tool\/Next Tool\/Previous Tool' keybinds",
+		"locations": [],
+		"translation": "武器として数えます",
+		"machine": true
+	},
+	{
+		"phrase": "Party Colour Outline for Party Members",
+		"context": null,
+		"comment": "[Setting] [Checkbox] When enabled, the outline around party members is party coloured (e.g. green), rather than the team coloured. (e.g. blue)",
+		"locations": [],
+		"translation": "パーティーメンバーのためのパーティーカラーアウトライン",
+		"machine": true
+	},
+	{
+		"phrase": "Detailed Logging",
+		"context": null,
+		"comment": "[Setting] [Checkbox] Enable this to increase the detail of debug logging",
+		"locations": [],
+		"translation": "詳細なログ",
+		"machine": true
+	},
+	{
+		"phrase": "Static Crosshairs",
+		"context": null,
+		"comment": "[Setting] [Checkbox] Enable this to prevent the crosshairs from expanding when jumping\/running",
+		"locations": [],
+		"translation": "静的十字線",
+		"machine": true
+	},
+	{
+		"phrase": "Pings",
+		"context": null,
+		"comment": "[Settings Section Header] e.g. Enemy Spotted ping, Build Here ping",
+		"locations": [],
+		"translation": "ping",
+		"machine": true
+	},
+	{
+		"phrase": "Only Show Party Member Pings",
+		"context": null,
+		"comment": "[Setting] [Checkbox] When enabled, team mate pings are hidden and only party member pings are shown",
+		"locations": [],
+		"translation": "パーティーメンバーのpingのみを表示する",
+		"machine": true
+	},
+	{
+		"phrase": "Show Ping Owner Name",
+		"context": null,
+		"comment": "[Setting] [Checkbox] When enabled, the name of the player who created this ping will show",
+		"locations": [],
+		"translation": "pingの所有者名を表示する",
+		"machine": true
+	},
+	{
+		"phrase": "Max Ping Distance",
+		"context": null,
+		"comment": "[Setting] [Slider] Control the cut-off distance for showing pings",
+		"locations": [],
+		"translation": "最大ping距離",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks",
+		"context": "Voxels",
+		"comment": "[Unit] 3D voxels",
+		"locations": [],
+		"translation": "ブロック",
+		"machine": true
+	},
+	{
+		"phrase": "Player Nameplates",
+		"context": null,
+		"comment": "[Settings Section Header] A player nameplate is the UI above a player that shows their name and health",
+		"locations": [],
+		"translation": "プレーヤーのネームプレート",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplate Distance",
+		"context": null,
+		"comment": "[Setting] [Slider] Controls the cut-off distance for drawing player nameplates",
+		"locations": [],
+		"translation": "銘板距離",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplate Scale",
+		"context": null,
+		"comment": "[Setting] [Slider] Controls the size of player nameplates",
+		"locations": [],
+		"translation": "銘板スケール",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle UI",
+		"context": "Toggle User Interface",
+		"comment": "[Settings Section Header]",
+		"locations": [],
+		"translation": "UIを切り替えます",
+		"machine": true
+	},
+	{
+		"phrase": "Show Killfeed",
+		"context": "Show Kill Feed",
+		"comment": "[Setting] [Checkbox] Controls whether to show killfeed messages, e.g. Pegarex railgunned Satisfied Onion in the face",
+		"locations": [],
+		"translation": "キルフィードを表示",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh Rate",
+		"context": "Monitor Refresh Rate",
+		"comment": "[Settings Section Header]",
+		"locations": [],
+		"translation": "リフレッシュレート",
+		"machine": true
+	},
+	{
+		"phrase": "Max FPS",
+		"context": "Max Frames per Second",
+		"comment": "[Setting] [Slider] Controls the max FPS that the game can run at",
+		"locations": [],
+		"translation": "最大FPS",
+		"machine": true
+	},
+	{
+		"phrase": "Enable VSync",
+		"context": "Enable Vertical Sync",
+		"comment": "[Setting] [Checkbox] Enable this to prevent the game from running faster than your monitor can render",
+		"locations": [],
+		"translation": "VSyncを有効にする",
+		"machine": true
+	},
+	{
+		"phrase": "Fullscreen",
+		"context": "Full Screen",
+		"comment": "[Setting] [Checkbox]",
+		"locations": [],
+		"translation": "全画面表示",
+		"machine": true
+	},
+	{
+		"phrase": "Smooth Scaling",
+		"context": "Smooth Upscale",
+		"comment": "[Setting] [Checkbox] Performance setting that controls whether smaller game resolutions are upscaled smoothly (enabled) or pixelated (disabled)",
+		"locations": [],
+		"translation": "スムーズなスケーリング",
+		"machine": true
+	},
+	{
+		"phrase": "Postprocessing",
+		"context": "Post processing",
+		"comment": "[Settings Section Header] Post processing encompasses effects that are applied once the world has been rendered, such as lights, shadows, ambient occlusion and bloom",
+		"locations": [],
+		"translation": "後処理",
+		"machine": true
+	},
+	{
+		"phrase": "Max Lights",
+		"context": "Maximum Lights",
+		"comment": "[Setting] [Slider] This controls how many lights can be rendered at any one time",
+		"locations": [],
+		"translation": "最大ライト",
+		"machine": true
+	},
+	{
+		"phrase": "SSAO Samples",
+		"context": "Crevice Shading Quality",
+		"comment": "[Setting] [Slider] This controls the quality of ambient occlusion",
+		"locations": [],
+		"translation": "SSAOサンプル",
+		"machine": true
+	},
+	{
+		"phrase": "Bare Minimum",
+		"context": "Lowest Quality",
+		"comment": "[Setting] [Checkbox] The Bare Minimum rendering setting renders the game at the lowest quality possible for maximum FPS",
+		"locations": [],
+		"translation": "最低",
+		"machine": true
+	},
+	{
+		"phrase": "Animated Block Skins",
+		"context": "Animated Cube Textures",
+		"comment": "[Setting] [Checkbox] This controls whether animated block skins should be rendered",
+		"locations": [],
+		"translation": "アニメーションブロックスキン",
+		"machine": true
+	},
+	{
+		"phrase": "Source",
+		"context": "Output Source",
+		"comment": "[Setting] [Dropdown] Select the output source for the game audio, e.g. speakers or headphones",
+		"locations": [],
+		"translation": "ソース",
+		"machine": true
+	},
+	{
+		"phrase": "HUD",
+		"context": "In-Game User Interface",
+		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
+		"locations": [],
+		"translation": "HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Newbie Colour",
+		"context": "New Player Colour",
+		"comment": "[Setting] [Colour Picker] This controls the colour of new players",
+		"locations": [],
+		"translation": "初心者の色",
+		"machine": true
+	},
+	{
+		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
+		"context": null,
+		"comment": "[Settings Header Title] This is a summary about how the points UI customisation works",
+		"locations": [],
+		"translation": "ここでは、ゲーム内で獲得したポイントの表示方法をカスタマイズできます。一次ポイントはポイントスタックの一番上に配置され、二次ポイントはポイントスタックの一番下に配置されます.",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
+		"context": null,
+		"comment": "Peacekeeper description",
+		"locations": [],
+		"translation": "レベル20以下で、KDRが1以下の敵は、ハイライト表示されます。.",
+		"machine": true
+	},
+	{
+		"phrase": "For the duration Peacekeeper is enabled, deal",
+		"context": null,
+		"comment": "[1\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
+		"locations": [],
+		"translation": "ピースキーパーが有効になっている間、取引",
+		"machine": true
+	},
+	{
+		"phrase": "damage to these players and earn",
+		"context": null,
+		"comment": "[2\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
+		"locations": [],
+		"translation": "これらのプレイヤーにダメージを与えて稼ぐ",
+		"machine": true
+	},
+	{
+		"phrase": "extra XP and Protons.",
+		"context": null,
+		"comment": "[3\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
+		"locations": [],
+		"translation": "追加のXPとプロトン.",
+		"machine": true
+	},
+	{
+		"phrase": "Changes take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"context": null,
+		"comment": "[4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
+		"locations": [],
+		"translation": "変更はリスポーンで有効になります。ピースキーパーは、すべてのゲームモードで無料で効果がありません.",
+		"machine": true
+	},
+	{
+		"phrase": "This controls the scale of all UI and in-game HUD. Press",
+		"context": null,
+		"comment": "[1\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100",
+		"locations": [],
+		"translation": "これは、すべてのUIとゲーム内HUDのスケールを制御します。プレス",
+		"machine": true
+	},
+	{
+		"phrase": "to reset it back to 100%",
+		"context": null,
+		"comment": "[2\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100%",
+		"locations": [],
+		"translation": "100にリセットします%",
+		"machine": true
+	},
+	{
+		"phrase": "KDR",
+		"context": null,
+		"comment": "[Player Statistic] Kill to death ratio",
+		"locations": [],
+		"translation": "KDR",
+		"machine": true
+	},
+	{
+		"phrase": "Unavailable",
+		"context": null,
+		"comment": "[Unlock Button] This character can not be unlocked",
+		"locations": [],
+		"translation": "利用できません",
+		"machine": true
+	},
+	{
+		"phrase": "Equipped",
+		"context": null,
+		"comment": "[Unlock Button] This character is equipped",
+		"locations": [],
+		"translation": "装備",
+		"machine": true
+	},
+	{
+		"phrase": "2X",
+		"context": null,
+		"comment": "[Weapons] 2X scope tab",
+		"locations": [],
+		"translation": "2倍",
+		"machine": true
+	},
+	{
+		"phrase": "4X",
+		"context": null,
+		"comment": "[Weapons] 4X scope tab",
+		"locations": [],
+		"translation": "4X",
+		"machine": true
+	},
+	{
+		"phrase": "Foregrip",
+		"context": null,
+		"comment": "[Attachment Type]",
+		"locations": [],
+		"translation": "フォアグリップ",
+		"machine": true
+	},
+	{
+		"phrase": "Stock",
+		"context": null,
+		"comment": "[Attachment Type]",
+		"locations": [],
+		"translation": "株式",
+		"machine": true
+	},
+	{
+		"phrase": "Ammo",
+		"context": null,
+		"comment": "[Attachment Type]",
+		"locations": [],
+		"translation": "弾薬",
+		"machine": true
+	},
+	{
+		"phrase": "Equip",
+		"context": null,
+		"comment": "[Unlock Button] This character can be equipped",
+		"locations": [],
+		"translation": "装備",
+		"machine": true
+	},
+	{
+		"phrase": "Free",
+		"context": null,
+		"comment": "[Unlock Button] This weapon skin can be unlocked for free",
+		"locations": [],
+		"translation": "無料",
+		"machine": true
+	},
+	{
+		"phrase": "to change team mates",
+		"context": null,
+		"comment": "[3\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
+		"locations": [],
+		"translation": "チームメイトを変更するには",
+		"machine": true
+	},
+	{
+		"phrase": "Magazines",
+		"context": null,
+		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
+		"locations": [],
+		"translation": "雑誌",
+		"machine": true
+	},
+	{
+		"phrase": "Hidden",
+		"context": null,
+		"comment": "[Point UI Customisation] Hidden point category",
+		"locations": [],
+		"translation": "隠れた",
+		"machine": true
 	}
-}
+]
