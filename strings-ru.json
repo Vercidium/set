@@ -20,8 +20,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Перебор",
-		"machine": true
+		"translation": "Избыточный урон",
+		"machine": false
 	},
 	{
 		"phrase": "Direct",
@@ -44,8 +44,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Выстрел в голову",
-		"machine": true
+		"translation": "Попадание в голову",
+		"machine": false
 	},
 	{
 		"phrase": "Kill",
@@ -212,8 +212,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Бомбовая атака",
-		"machine": true
+		"translation": "Нападение на бомбу",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb defend",
@@ -476,8 +476,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Зарезервировано (партия)",
-		"machine": true
+		"translation": "Зарезервировано (группа)",
+		"machine": false
 	},
 	{
 		"phrase": "Selecting a team",
@@ -548,8 +548,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Шпиль",
-		"machine": true
+		"translation": "Арена",
+		"machine": false
 	},
 	{
 		"phrase": "Static",
@@ -620,8 +620,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Удален за бездействие",
-		"machine": true
+		"translation": "Изгнан за бездействие",
+		"machine": false
 	},
 	{
 		"phrase": "Internal error",
@@ -692,16 +692,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Голосовать",
-		"machine": true
+		"translation": "Изгнан голосованием",
+		"machine": false
 	},
 	{
 		"phrase": "Votekick still in effect",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Голосование по-прежнему действует",
-		"machine": true
+		"translation": "Эффект голосования по-прежнему в силе",
+		"machine": false
 	},
 	{
 		"phrase": "Incorrect password",
@@ -756,8 +756,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ты слишком силен",
-		"machine": true
+		"translation": "Вы слишком сильны",
+		"machine": false
 	},
 	{
 		"phrase": "Your level is too low",
@@ -2541,55 +2541,55 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Присоединиться",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот игровой режим называется утилизацией. две команды оспаривают канистру, содержащую ценный ресурс под названием солтриум.",
-		"machine": true
+		"translation": "Этот игровой режим называется «Cпасение». Две команды сражаются за канистру, содержащую ценный ресурс под названием Солтриум.",
+		"machine": false
 	},
 	{
 		"phrase": "The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Команда с наибольшим количеством игроков рядом с канистрой будет извлекать солтриум и зарабатывать очки для своей команды. это можно увидеть вверху экрана.",
-		"machine": true
+		"translation": "Команда с наибольшим количеством игроков рядом с канистрой будет извлекать Cолтриум и зарабатывать очки для своей команды. Это можно увидеть вверху экрана.",
+		"machine": false
 	},
 	{
 		"phrase": "When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Когда канистра закончится, в другом месте появится новая. побеждает команда, первой набравшая 500 очков!",
-		"machine": true
+		"translation": "Когда канистра закончится, в другом месте появится новая. Побеждает команда, первой набравшая 500 очков!",
+		"machine": false
 	},
 	{
 		"phrase": "Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Бонусы к боеприпасам выпадают, когда игрок умирает. подбирайте их, чтобы получить дополнительные патроны для своего оружия и заработать 2 очка для своей команды.",
-		"machine": true
+		"translation": "После смерти игрока из него выпадают бонусы к боеприпасам. Подбирайте их, чтобы получить дополнительные патроны для своего оружия и заработать 2 очка для своей команды.",
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Breakthrough. To win, your team must control all five zones.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот игровой режим называется прорывом. чтобы победить, ваша команда должна контролировать все пять зон.",
-		"machine": true
+		"translation": "Этот игровой режим называется «Прорыв». Чтобы победить, ваша команда должна контролировать все пять зон.",
+		"machine": false
 	},
 	{
 		"phrase": "When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Когда зона захватывается вашей командой, она будет заморожена на срок до 20 секунд. пока он заморожен, противник не может отбить его, что дает вашей команде шанс продвинуться в следующую зону..",
-		"machine": true
+		"translation": "Когда зона захватывается вашей командой, она будет заморожена на срок до 20 секунд. Пока она заморожена, противник не может отбить ее, что дает вашей команде шанс продвинуться в следующую зону.",
+		"machine": false
 	},
 	{
 		"phrase": "Zones must be captured in order and cannot be back-capped.",
@@ -2604,160 +2604,160 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот игровой режим называется Control Shift. есть одна зона, и цель состоит в том, чтобы полностью оттеснить эту зону на вражескую территорию.",
-		"machine": true
+		"translation": "Этот игровой режим называется «Фронт». Есть одна зона, и цель состоит в том, чтобы полностью отодвинуть эту зону на вражескую территорию.",
+		"machine": false
 	},
 	{
 		"phrase": "The zone will begin moving when one team has more players inside it than the other.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Зона начнет движение, когда в одной команде будет больше игроков, чем в другой..",
-		"machine": true
+		"translation": "Зона начнет движение, когда в одной команде на территории зоны будет больше игроков, чем в другой.",
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Escort. To win, your team must deliver 3 bombs.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот игровой режим называется эскорт. чтобы победить, ваша команда должна доставить 3 бомбы.",
-		"machine": true
+		"translation": "Этот игровой режим называется «Сопровождение». Чтобы победить, ваша команда должна доставить 3 бомбы.",
+		"machine": false
 	},
 	{
 		"phrase": "Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "У каждой команды есть бомба, которую они должны подобрать со своей стороны карты и доставить к месту бомбежки противника..",
-		"machine": true
+		"translation": "У каждой команды есть бомба, которую она должна подобрать со своей стороны карты и доставить к месту расположения бомбы противника.",
+		"machine": false
 	},
 	{
 		"phrase": "You can either escort your bomb carrier, or defend your bomb site from the enemy.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Вы можете либо сопровождать свой бомбардировщик, либо защищать свой бомбовый объект от врага..",
-		"machine": true
+		"translation": "Вы можете либо сопровождать вашего курьера, либо защищать место расположения вашей от врага.",
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Capture the Flag. Each team has a flag that they must defend.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот игровой режим называется захват флага. у каждой команды есть флаг, который они должны защищать.",
-		"machine": true
+		"translation": "Этот игровой режим называется «Захват флага». У каждой команды есть флаг, который они должны защищать.",
+		"machine": false
 	},
 	{
 		"phrase": "To win your team must steal the enemy flag and take it back to your base 3 times.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Чтобы победить, ваша команда должна украсть флаг врага и вернуть его на свою базу 3 раза..",
-		"machine": true
+		"translation": "Чтобы победить, ваша команда должна украсть флаг врага и вернуть его на свою базу 3 раза.",
+		"machine": false
 	},
 	{
 		"phrase": "You can either infiltrate the enemy base, or defend your flag from the enemy.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Вы можете проникнуть на базу врага или защитить свой флаг от врага..",
-		"machine": true
+		"translation": "Вы можете как проникнуть на базу врага, так и защищать свой флаг от врага.",
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот игровой режим называется перестрелкой. каждый игрок начинает с того же оружия и переходит к следующему оружию после 2 убийств.",
-		"machine": true
+		"translation": "Этот игровой режим называется «Гонка вооружений». Каждый игрок начинает с одинакового оружия и переходит к следующему оружию после 2 убийств.",
+		"machine": false
 	},
 	{
 		"phrase": "The stage that each player is up to is shown at the top of the screen.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этап, на котором находится каждый игрок, отображается в верхней части экрана..",
-		"machine": true
+		"translation": "Этап, на котором находится каждый игрок, отображается в верхней части экрана.",
+		"machine": false
 	},
 	{
 		"phrase": "To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Чтобы победить, вы должны перейти к этапу 11, а затем убить врага с помощью экскаватора или ножа..",
-		"machine": true
+		"translation": "Чтобы победить, вы должны перейти к этапу 11, а затем убить врага с помощью копателя или ножа.",
+		"machine": false
 	},
 	{
 		"phrase": "When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Когда вы умираете от урона от падения или вражеского экскаватора \/ ножа, вы будете отправлены на один уровень назад.",
-		"machine": true
+		"translation": "Когда вы умираете от урона от падения или вражеского копателя \/ ножа, вы потеряете один уровень.",
+		"machine": false
 	},
 	{
 		"phrase": "This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот бесплатный режим игры называется «Охотник за головами». чтобы выиграть, вы должны удерживать как можно больше солтриума, когда истечет таймер.",
-		"machine": true
+		"translation": "Этот FFA режим игры называется «Охота за головами». чтобы выиграть, вы должны удерживать как можно больше солтриума, когда истечет таймер.",
+		"machine": false
 	},
 	{
 		"phrase": "Each player starts with nothing and collects weapons and mods from around the map.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Каждый игрок начинает с нуля и собирает оружие и модификации со всей карты..",
-		"machine": true
+		"translation": "Каждый игрок начинает с нуля и собирает оружие и модификации по всей карте.",
+		"machine": false
 	},
 	{
 		"phrase": "When a player dies, they will drop their weapons, half their Soltrium and half their mods.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Когда игрок умирает, он бросает свое оружие, половину солтриума и половину своих модификаций..",
-		"machine": true
+		"translation": "Когда игрок умирает, он бросает свое оружие, половину Cолтриума и половину своих модификаций.",
+		"machine": false
 	},
 	{
 		"phrase": "Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Подберите солтриум, чтобы выиграть, но будьте осторожны, так как игрок с наибольшим количеством солтриумов будет показан всем.",
-		"machine": true
+		"translation": "Подберите Cолтриум, чтобы выиграть, но будьте осторожны, так как игрок с наибольшим количеством Cолтриума будет показан всем.",
+		"machine": false
 	},
 	{
 		"phrase": "This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот режим игры на арене называется шпилем. для победы необходимо 5 раз уничтожить команду противника.",
-		"machine": true
+		"translation": "Этот режим игры называется «Арена». Для победы необходимо 5 раз уничтожить команду противника.",
+		"machine": false
 	},
 	{
 		"phrase": "Each player starts with nothing and must build into the sky to pick up weapons.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Каждый игрок начинает с нуля и должен строить небо, чтобы подобрать оружие..",
-		"machine": true
+		"translation": "Каждый игрок начинает с нуля и должен строить вверх, чтобы подобрать оружие.",
+		"machine": false
 	},
 	{
 		"phrase": "This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Этот режим игры на арене называется статическим. для победы необходимо 5 раз уничтожить команду противника.",
-		"machine": true
+		"translation": "Этот режим игры на арене называется «Командный бой». Для победы необходимо 5 раз уничтожить команду противника.",
+		"machine": false
 	},
 	{
 		"phrase": "Each player shares the same loadout, which is randomised each round.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "У каждого игрока одинаковая экипировка, которая случайным образом меняется в каждом раунде..",
-		"machine": true
+		"translation": "У каждого игрока одинаковая экипировка, которая случайным образом меняется в каждом раунде.",
+		"machine": false
 	},
 	{
 		"phrase": "Press space to continue",
@@ -2765,23 +2765,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Нажмите пробел, чтобы продолжить",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Return to battle",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Вернуться в бой",
-		"machine": true
+		"translation": "Вернитесь в бой",
+		"machine": false
 	},
 	{
 		"phrase": "Round won!",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Выигран раунд!",
-		"machine": true
+		"translation": "Победа в раунде!",
+		"machine": false
 	},
 	{
 		"phrase": "Press",
@@ -6484,7 +6484,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Отображать пользовательский интерфейс",
+		"translation": "Переключить пользовательский интерфейс",
 		"machine": false
 	},
 	{
@@ -6492,7 +6492,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Отображать чат",
+		"translation": "Переключить чат",
 		"machine": false
 	},
 	{
@@ -6500,7 +6500,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Отображать список убийств",
+		"translation": "Переключить список убийств",
 		"machine": false
 	},
 	{
@@ -6508,7 +6508,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Отображать имена",
+		"translation": "Переключить имена",
 		"machine": false
 	},
 	{
@@ -7092,8 +7092,8 @@
 		"context": "Show Kill Feed",
 		"comment": "[Setting] [Checkbox] Controls whether to show killfeed messages, e.g. Pegarex railgunned Satisfied Onion in the face",
 		"locations": [],
-		"translation": "Показать killfeed",
-		"machine": true
+		"translation": "Показать список убийств",
+		"machine": false
 	},
 	{
 		"phrase": "Refresh Rate",
@@ -7244,8 +7244,8 @@
 		"context": null,
 		"comment": "[4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
-		"translation": "Изменения вступают в силу при возрождении. Миротворец не действует бесплатно во всех режимах игры.",
-		"machine": true
+		"translation": "Изменения вступают в силу при возрождении. Миротворец не действует в режимах без команд.",
+		"machine": false
 	},
 	{
 		"phrase": "This controls the scale of all UI and in-game HUD. Press",
@@ -7276,16 +7276,16 @@
 		"context": null,
 		"comment": "[Unlock Button] This character can not be unlocked",
 		"locations": [],
-		"translation": "Недоступен",
-		"machine": true
+		"translation": "Недоступно",
+		"machine": false
 	},
 	{
 		"phrase": "Equipped",
 		"context": null,
 		"comment": "[Unlock Button] This character is equipped",
 		"locations": [],
-		"translation": "Оборудован",
-		"machine": true
+		"translation": "Экипировано",
+		"machine": false
 	},
 	{
 		"phrase": "2X",
@@ -7316,8 +7316,8 @@
 		"context": null,
 		"comment": "[Attachment Type]",
 		"locations": [],
-		"translation": "Склад",
-		"machine": true
+		"translation": "Приклад",
+		"machine": false
 	},
 	{
 		"phrase": "Ammo",
@@ -7332,8 +7332,8 @@
 		"context": null,
 		"comment": "[Unlock Button] This character can be equipped",
 		"locations": [],
-		"translation": "Оборудовать",
-		"machine": true
+		"translation": "Экипировать",
+		"machine": false
 	},
 	{
 		"phrase": "Free",
@@ -7356,8 +7356,8 @@
 		"context": null,
 		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
 		"locations": [],
-		"translation": "Журналы",
-		"machine": true
+		"translation": "Магазины",
+		"machine": false
 	},
 	{
 		"phrase": "Hidden",
