@@ -6,8 +6,8 @@
 	},
 	"Damage": 
 	{
-		"translation": "Beschädigung",
-		"machine": true
+		"translation": "Schaden",
+		"machine": false
 	},
 	"Overkill": 
 	{
@@ -171,8 +171,8 @@
 	},
 	"Beacon capture": 
 	{
-		"translation": "Beacon-Erfassung",
-		"machine": true
+		"translation": "Leuchtfeuer Erfassung",
+		"machine": false
 	},
 	"Beacon destroyed": 
 	{
@@ -186,13 +186,13 @@
 	},
 	"Round win": 
 	{
-		"translation": "Runde gewinnen",
-		"machine": true
+		"translation": "Runde gewonnen",
+		"machine": false
 	},
 	"Round survive": 
 	{
-		"translation": "Runde überleben",
-		"machine": true
+		"translation": "Runde überlebt",
+		"machine": falsey
 	},
 	"Assist": 
 	{
@@ -276,8 +276,8 @@
 	},
 	"Connecting": 
 	{
-		"translation": "Anschließen",
-		"machine": true
+		"translation": "Verbinden",
+		"machine": false
 	},
 	"Loading Map": 
 	{
@@ -371,8 +371,8 @@
 	},
 	"Banned": 
 	{
-		"translation": "Verboten",
-		"machine": true
+		"translation": "Gebannt",
+		"machine": false
 	},
 	"Disconnected": 
 	{
@@ -471,8 +471,8 @@
 	},
 	"Min level can't be greater than max level": 
 	{
-		"translation": "Min-Level darf nicht größer als Max-Level sein",
-		"machine": true
+		"translation": "Mindestlevel darf nicht größer als das maximale Level sein",
+		"machine": false
 	},
 	"You are too powerful": 
 	{
@@ -486,8 +486,8 @@
 	},
 	"Cannot claim. Lobby has players": 
 	{
-		"translation": "Kann nicht behaupten. Lobby hat Spieler",
-		"machine": true
+		"translation": "Kann nicht beanspruchen. Lobby hat Spieler",
+		"machine": false
 	},
 	"Reserved slot expired": 
 	{
@@ -496,7 +496,7 @@
 	},
 	"Min level must be less than max level": 
 	{
-		"translation": "Min-Level muss kleiner als Max-Level sein",
+		"translation": "Mindestlevel muss kleiner als das maximale Level sein",
 		"machine": true
 	},
 	"Bot Replacement": 
@@ -517,6 +517,7 @@
 	"Choke": 
 	{
 		"translation": "Ersticken",
+		"note": "literally means suffocate, pretty sure that's wrong",
 		"machine": true
 	},
 	"Compressor": 
@@ -561,13 +562,13 @@
 	},
 	"Angled": 
 	{
-		"translation": "Abgewinkelt",
-		"machine": true
+		"translation": "Angewinkelt",
+		"machine": false
 	},
 	"Removed": 
 	{
-		"translation": "ENTFERNT",
-		"machine": true
+		"translation": "Entfernt",
+		"machine": false
 	},
 	"Stubby": 
 	{
@@ -586,8 +587,8 @@
 	},
 	"Burst": 
 	{
-		"translation": "Platzen",
-		"machine": true
+		"translation": "Salve",
+		"machine": false
 	},
 	"Lethal": 
 	{
@@ -601,8 +602,8 @@
 	},
 	"Light": 
 	{
-		"translation": "Licht",
-		"machine": true
+		"translation": "Leicht",
+		"machine": false
 	},
 	"Piercing": 
 	{
@@ -617,6 +618,7 @@
 	"Slug": 
 	{
 		"translation": "Schnecke",
+		"note": "it translated snail, not sure if that's right",
 		"machine": true
 	},
 	"Tow": 
@@ -646,8 +648,8 @@
 	},
 	"Tactical": 
 	{
-		"translation": "Taktik",
-		"machine": true
+		"translation": "Taktisch",
+		"machine": false
 	},
 	"Mechanical": 
 	{
@@ -821,8 +823,8 @@
 	},
 	"T Point Round": 
 	{
-		"translation": "T-Punkt-Runde",
-		"machine": true
+		"translation": "T-Punkt Rund",
+		"machine": false
 	},
 	"Camoflague": 
 	{
@@ -911,8 +913,8 @@
 	},
 	"Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.": 
 	{
-		"translation": "Mit Linksklick werfen und mit Rechtsklick detonieren. Beim Respawn sind c4 von dir getrennt und müssen geschossen werden, um zu explodieren.",
-		"machine": true
+		"translation": "Mit Linksklick werfen und mit Rechtsklick detonieren. Beim Respawn sind C4 von dir getrennt und müssen angeschossen werden, um zu explodieren.",
+		"machine": false
 	},
 	"This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.": 
 	{
@@ -921,8 +923,8 @@
 	},
 	"A testament to Aegis' advanced technology.": 
 	{
-		"translation": "Ein Beweis für die fortschrittliche Technologie von aegis.",
-		"machine": true
+		"translation": "Ein Beweis für die fortschrittliche Technologie von Aegis.",
+		"machine": false
 	},
 	"Slower Midi digging that removes a 3x3x3 chunk of blocks.": 
 	{
@@ -946,8 +948,8 @@
 	},
 	"This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.": 
 	{
-		"translation": "Diese Granate hat einen instabilen Soltriumkern und detoniert nach 3 Sekunden. alle Spieler haben zwei Granaten, aber wenn du dies aktivierst, bleiben deine Granaten an Wänden haften.",
-		"machine": true
+		"translation": "Diese Granate hat einen instabilen Soltriumkern und detoniert nach 3 Sekunden. Alle Spieler haben zwei Granaten, aber wenn du dies aktivierst, bleiben deine Granaten an Wänden haften.",
+		"machine": false
 	},
 	"Agaman technology that cuts through blocks instantly.": 
 	{
@@ -981,8 +983,8 @@
 	},
 	"Paint blocks with this tool.": 
 	{
-		"translation": "Malen Sie Blöcke mit diesem Werkzeug.",
-		"machine": true
+		"translation": "Bemalen Sie Blöcke mit diesem Werkzeug.",
+		"machine": false
 	},
 	"This close-mid ranged weapon shoots quickly but has a small magazine.": 
 	{
@@ -991,8 +993,9 @@
 	},
 	"Light Agaman technology. Fast firing, hard hitting.": 
 	{
-		"translation": "Leichte Agaman-Technologie. schnelles Feuern, hartes Schlagen.",
-		"machine": true
+		"translation": "Leichte Agaman-Technologie. Schnelles Feuern, harter aufschlag.",
+		"note": "not sure if that's right",
+		"machine": false
 	},
 	"Heavy Agaman technology. Fires a hard-hitting ball of plasma.": 
 	{
