@@ -1,13 +1,13 @@
 {
 	"Cluster spawn": 
 	{
-		"translation": "Apparition de cluster",
-		"machine": true
+		"translation": "Apparition en cluster",
+		"machine": false
 	},
 	"Damage": 
 	{
-		"translation": "Endommager",
-		"machine": true
+		"translation": "Dégâts",
+		"machine": false
 	},
 	"Overkill": 
 	{
@@ -26,13 +26,13 @@
 	},
 	"Headshot": 
 	{
-		"translation": "Photo du visage",
-		"machine": true
+		"translation": "Tir a la tête",
+		"machine": false
 	},
 	"Kill": 
 	{
-		"translation": "Tuer",
-		"machine": true
+		"translation": "Meurtre",
+		"machine": false
 	},
 	"Kill streak": 
 	{
@@ -41,13 +41,13 @@
 	},
 	"VIP kill": 
 	{
-		"translation": "Tuer VIP",
-		"machine": true
+		"translation": "Meurtre du VIP",
+		"machine": false
 	},
 	"VIP defend": 
 	{
-		"translation": "VIP défendre",
-		"machine": true
+		"translation": "Defense du VIP",
+		"machine": false
 	},
 	"Scanner destroyed": 
 	{
@@ -66,8 +66,8 @@
 	},
 	"Disruptor destroyed": 
 	{
-		"translation": "Disrupteur détruit",
-		"machine": true
+		"translation": "perturbateur détruit",
+		"machine": false
 	},
 	"Avenger": 
 	{
@@ -86,8 +86,8 @@
 	},
 	"Flag carry": 
 	{
-		"translation": "Porte drapeau",
-		"machine": true
+		"translation": "Port du drapeau",
+		"machine": false
 	},
 	"Flag return": 
 	{
@@ -96,13 +96,13 @@
 	},
 	"Flag attack": 
 	{
-		"translation": "Attaque de drapeau",
+		"translation": "Attaque du drapeau",
 		"machine": true
 	},
 	"Flag defend": 
 	{
-		"translation": "Drapeau défendre",
-		"machine": true
+		"translation": "Défense du Drapeau",
+		"machine": false
 	},
 	"Escort": 
 	{
@@ -111,13 +111,13 @@
 	},
 	"Flag carrier kill": 
 	{
-		"translation": "Tuer un porte-drapeau",
-		"machine": true
+		"translation": "Meurtre du porte-drapeau",
+		"machine": false
 	},
 	"Bomb deliver": 
 	{
-		"translation": "Bombe livrer",
-		"machine": true
+		"translation": "Bombe livrée",
+		"machine": false
 	},
 	"Bomb carry": 
 	{
@@ -132,47 +132,48 @@
 	"Bomb attack": 
 	{
 		"translation": "Attaque à la bombe",
+		"note": "here its attack by using a bomb",
 		"machine": true
 	},
 	"Bomb defend": 
 	{
-		"translation": "Défense à la bombe",
+		"translation": "Défense de la bombe",
 		"machine": true
 	},
 	"Spot assist": 
 	{
-		"translation": "Assistance ponctuelle",
-		"machine": true
+		"translation": "Aide localisation",
+		"machine": false
 	},
 	"Attacking": 
 	{
-		"translation": "Attaquer",
-		"machine": true
+		"translation": "Attaque",
+		"machine": false
 	},
 	"Defending": 
 	{
-		"translation": "Défendre",
-		"machine": true
+		"translation": "Défense",
+		"machine": false
 	},
 	"Contesting": 
 	{
-		"translation": "Contestation",
-		"machine": true
+		"translation": "Contester",
+		"machine": false
 	},
 	"Canister capture": 
 	{
-		"translation": "Capture de bidon",
-		"machine": true
+		"translation": "Capture du bidon",
+		"machine": false
 	},
 	"Zone capture": 
 	{
-		"translation": "Saisie de zones",
-		"machine": true
+		"translation": "Capture de la zone",
+		"machine": false
 	},
 	"Beacon capture": 
 	{
-		"translation": "Capture de balise",
-		"machine": true
+		"translation": "Capture de la balise",
+		"machine": false
 	},
 	"Beacon destroyed": 
 	{
@@ -181,38 +182,38 @@
 	},
 	"Salvage": 
 	{
-		"translation": "Sauvetage",
+		"translation": "Récupération",
 		"machine": true
 	},
 	"Round win": 
 	{
-		"translation": "Victoire du tour",
-		"machine": true
+		"translation": "Victoire du round",
+		"machine": false
 	},
 	"Round survive": 
 	{
-		"translation": "ronde survivre",
-		"machine": true
+		"translation": "survivant",
+		"machine": false
 	},
 	"Assist": 
 	{
-		"translation": "Aider",
-		"machine": true
+		"translation": "Aide",
+		"machine": false
 	},
 	"Assist counts as kill": 
 	{
-		"translation": "L'assistance compte comme une mise à mort",
-		"machine": true
+		"translation": "L'assistance compte comme un meurtre",
+		"machine": false
 	},
 	"Fortifying": 
 	{
-		"translation": "Fortifiant",
-		"machine": true
+		"translation": "Renforcement",
+		"machine": false
 	},
 	"Most Valuable Player": 
 	{
-		"translation": "Joueur le plus précieux",
-		"machine": true
+		"translation": "Meilleur joueur",
+		"machine": false
 	},
 	"Annihilator": 
 	{
@@ -221,8 +222,8 @@
 	},
 	"Marksman": 
 	{
-		"translation": "Buteur",
-		"machine": true
+		"translation": "tireur d'élite",
+		"machine": false
 	},
 	"Creator": 
 	{
@@ -276,8 +277,8 @@
 	},
 	"Connecting": 
 	{
-		"translation": "De liaison",
-		"machine": true
+		"translation": "connection",
+		"machine": false
 	},
 	"Loading Map": 
 	{
@@ -291,18 +292,18 @@
 	},
 	"Playing": 
 	{
-		"translation": "En jouant",
-		"machine": true
+		"translation": "Joue",
+		"machine": false
 	},
 	"Reserved (party)": 
 	{
-		"translation": "Réservé (fête)",
-		"machine": true
+		"translation": "Réservé (groupe)",
+		"machine": false
 	},
 	"Selecting a team": 
 	{
-		"translation": "Sélection d'une équipe",
-		"machine": true
+		"translation": "Sélectionne une équipe",
+		"machine": false
 	},
 	"Spectating": 
 	{
@@ -311,28 +312,28 @@
 	},
 	"Left": 
 	{
-		"translation": "La gauche",
-		"machine": true
+		"translation": "gauche",
+		"machine": false
 	},
 	"Breakthrough": 
 	{
-		"translation": "Percée",
-		"machine": true
+		"translation": "Capture de Zones",
+		"machine": false
 	},
 	"Control Shift": 
 	{
-		"translation": "Changement de contrôle",
-		"machine": true
+		"translation": "Zone Mobile",
+		"machine": false
 	},
 	"Capture the Flag": 
 	{
-		"translation": "Capturer le drapeau",
-		"machine": true
+		"translation": "Capture de drapeau",
+		"machine": false
 	},
 	"Gun Game": 
 	{
-		"translation": "Jeu d'armes à feu",
-		"machine": true
+		"translation": "Gun Game",
+		"machine": false
 	},
 	"Head Hunter": 
 	{
@@ -341,13 +342,13 @@
 	},
 	"Spire": 
 	{
-		"translation": "Flèche",
+		"translation": "spire",
 		"machine": true
 	},
 	"Static": 
 	{
-		"translation": "Statique",
-		"machine": true
+		"translation": "Static",
+		"machine": false
 	},
 	"All": 
 	{
