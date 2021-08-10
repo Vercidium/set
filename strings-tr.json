@@ -404,39 +404,39 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "kazık",
-		"machine": true
+		"translation": "Bıçaklama",
+		"machine": false
 	},
 	{
 		"phrase": "Resilient",
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "esnek",
-		"machine": true
+		"translation": "Dayanma",
+		"machine": false
 	},
 	{
 		"phrase": "Assistance",
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "Yardım",
-		"machine": true
+		"translation": "Yardımcı,
+		"machine": false
 	},
 	{
 		"phrase": "Impacter",
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "Etkileyici",
-		"machine": true
+		"translation": "Patlatıcı",
+		"machine": false
 	},
 	{
 		"phrase": "Infiltrator",
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "casus",
+		"translation": "Casus",
 		"machine": true
 	},
 	{
@@ -452,8 +452,8 @@
 		"context": null,
 		"comment": "Player status on the scoreboard",
 		"locations": [],
-		"translation": "Takım yerleştirme",
-		"machine": true
+		"translation": "Takıma yerleşiyor",
+		"machine": false
 	},
 	{
 		"phrase": "Connecting",
@@ -484,8 +484,8 @@
 		"context": null,
 		"comment": "Player status on the scoreboard",
 		"locations": [],
-		"translation": "oynamak",
-		"machine": true
+		"translation": "Oynuyor",
+		"machine": false
 	},
 	{
 		"phrase": "Reserved (party)",
@@ -500,7 +500,7 @@
 		"context": null,
 		"comment": "Player status on the scoreboard",
 		"locations": [],
-		"translation": "Takım seçme",
+		"translation": "Takım seçiyor",
 		"machine": true
 	},
 	{
@@ -524,64 +524,64 @@
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "atılım",
-		"machine": true
+		"translation": "Breakthrough",
+		"machine": false
 	},
 	{
 		"phrase": "Control Shift",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Kontrol kayması",
-		"machine": true
+		"translation": "Control Shift",
+		"machine": false
 	},
 	{
 		"phrase": "Capture the Flag",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Bayrağı ele geçir",
-		"machine": true
+		"translation": "Capture the Flag",
+		"machine": false
 	},
 	{
 		"phrase": "Escort",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Eskort",
-		"machine": true
+		"translation": "Escort",
+		"machine": false
 	},
 	{
 		"phrase": "Gun Game",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Silah oyunu",
-		"machine": true
+		"translation": "Gun Game",
+		"machine": false
 	},
 	{
 		"phrase": "Head Hunter",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Kafa avcısı",
-		"machine": true
+		"translation": "Head Hunter",
+		"machine": false
 	},
 	{
 		"phrase": "Spire",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "kule",
-		"machine": true
+		"translation": "Spire",
+		"machine": false
 	},
 	{
 		"phrase": "Static",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Statik",
-		"machine": true
+		"translation": "Static",
+		"machine": false
 	},
 	{
 		"phrase": "All",
@@ -604,7 +604,7 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "zaten oyunda",
+		"translation": "Zaten oyunda",
 		"machine": true
 	},
 	{
@@ -612,24 +612,24 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Kimlik doğrulama başarısız oldu",
-		"machine": true
+		"translation": "Kimlik doğrulaması başarısız oldu",
+		"machine": false
 	},
 	{
 		"phrase": "Banned",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "yasaklandı",
-		"machine": true
+		"translation": "Banlandı",
+		"machine": false
 	},
 	{
 		"phrase": "Disconnected",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Bağlantı kesildi",
-		"machine": true
+		"translation": "Bağlantısını kesti",
+		"machine": false
 	},
 	{
 		"phrase": "EAC Violation",
@@ -644,8 +644,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Hareketsizlik nedeniyle tekmelendi",
-		"machine": true
+		"translation": "Hareketsizlik nedeniyle atıldı",
+		"machine": false
 	},
 	{
 		"phrase": "Internal error",
@@ -700,8 +700,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Geçici olarak yasaklandı",
-		"machine": true
+		"translation": "Geçici olarak banlandı",
+		"machine": false
 	},
 	{
 		"phrase": "Version mismatch",
@@ -716,16 +716,16 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "oylandı",
-		"machine": true
+		"translation": "Oyla atıldı",
+		"machine": false
 	},
 	{
 		"phrase": "Votekick still in effect",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Votekick hala yürürlükte",
-		"machine": true
+		"translation": "Oyla atılma hala yürürlükte",
+		"machine": false
 	},
 	{
 		"phrase": "Incorrect password",
@@ -748,16 +748,16 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Günde sadece 3 lobi talep edebilirsiniz",
-		"machine": true
+		"translation": "Günde sadece 3 lobi ele geçirebilirsiniz",
+		"machine": false
 	},
 	{
 		"phrase": "Lobby already claimed",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Lobi zaten talep edildi",
-		"machine": true
+		"translation": "Lobi zaten ele geçirildi",
+		"machine": false
 	},
 	{
 		"phrase": "Min level must be lower than your own",
@@ -804,8 +804,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "iddia edemez. lobide oyuncular var",
-		"machine": true
+		"translation": "Lobi ele geçirilemiyor. lobide oyuncular var",
+		"machine": false
 	},
 	{
 		"phrase": "Reserved slot expired",
@@ -836,8 +836,8 @@
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "Gaz pedalı",
-		"machine": true
+		"translation": "Namlu hızlandırıcı",
+		"machine": false
 	},
 	{
 		"phrase": "Beam splitter",
@@ -852,16 +852,16 @@
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "boğulmak",
-		"machine": true
+		"translation": "Namlu kısıcı",
+		"machine": false
 	},
 	{
 		"phrase": "Compressor",
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "Kompresör",
-		"machine": true
+		"translation": "Namlu sıkıştırıcı",
+		"machine": false
 	},
 	{
 		"phrase": "Default",
@@ -916,8 +916,8 @@
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "Kısa boylu",
-		"machine": true
+		"translation": "Kısa",
+		"machine": false
 	},
 	{
 		"phrase": "Angled",
@@ -932,16 +932,16 @@
 		"context": null,
 		"comment": "Attachment name",
 		"locations": [],
-		"translation": "Kaldırıldı",
-		"machine": true
+		"translation": "Yok",
+		"machine": false
 	},
 	{
 		"phrase": "Stubby",
 		"context": null,
 		"comment": "Foregrip attachment name",
 		"locations": [],
-		"translation": "güdük",
-		"machine": true
+		"translation": "Yatay tutacak",
+		"machine": false
 	},
 	{
 		"phrase": "Side",
@@ -956,8 +956,8 @@
 		"context": null,
 		"comment": "Foregrip attachment name",
 		"locations": [],
-		"translation": "Açılı yarım tutuş",
-		"machine": true
+		"translation": "Açılı yarım tutacak",
+		"machine": false
 	},
 	{
 		"phrase": "Large",
@@ -980,8 +980,8 @@
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Işık",
-		"machine": true
+		"translation": "Hafif",
+		"machine": false
 	},
 	{
 		"phrase": "Piercing",
@@ -996,31 +996,31 @@
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "sekme",
-		"machine": true
+		"translation": "Seken",
+		"machine": false
 	},
 	{
 		"phrase": "Slug",
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "sümüklü böcek",
-		"machine": true
+		"translation": "Domuz kurşunu",
+		"machine": false
 	},
 	{
 		"phrase": "Buckshot",
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "saçmalık",
-		"machine": true
+		"translation": "Saçma",
+		"machine": false
 	},
 	{
 		"phrase": "Burst",
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Patlama",
+		"translation": "Saçılma",
 		"machine": true
 	},
 	{
@@ -1028,7 +1028,7 @@
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Çekme",
+		"translation": "Lazer güdümlü",
 		"machine": true
 	},
 	{
@@ -1044,8 +1044,8 @@
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "öldürücü",
-		"machine": true
+		"translation": "Ölümcül",
+		"machine": false
 	},
 	{
 		"phrase": "Augmented",
@@ -1060,7 +1060,7 @@
 		"context": null,
 		"comment": "Payload attachment name",
 		"locations": [],
-		"translation": "aşındırıcı",
+		"translation": "Aşındırıcı",
 		"machine": true
 	},
 	{
@@ -1076,8 +1076,8 @@
 		"context": null,
 		"comment": "Payload attachment name",
 		"locations": [],
-		"translation": "yangın çıkaran",
-		"machine": true
+		"translation": "Yanıcı",
+		"machine": false
 	},
 	{
 		"phrase": "Base",
@@ -1092,15 +1092,15 @@
 		"context": null,
 		"comment": "Stock attachment name",
 		"locations": [],
-		"translation": "Taktik",
-		"machine": true
+		"translation": "Taktiksel",
+		"machine": false
 	},
 	{
 		"phrase": "Rigid",
 		"context": null,
 		"comment": "Stock attachment name",
 		"locations": [],
-		"translation": "sert",
+		"translation": "Sert",
 		"machine": true
 	},
 	{
@@ -1108,8 +1108,8 @@
 		"context": null,
 		"comment": "Revolver trigger attachment name",
 		"locations": [],
-		"translation": "Mekanik",
-		"machine": true
+		"translation": "Mekaniksel",
+		"machine": false
 	},
 	{
 		"phrase": "Advanced",
@@ -1124,7 +1124,7 @@
 		"context": null,
 		"comment": "Combat Shotgun choke attachment name",
 		"locations": [],
-		"translation": "kaynaklı",
+		"translation": "Kaynaklı",
 		"machine": true
 	},
 	{
@@ -1132,16 +1132,16 @@
 		"context": null,
 		"comment": "Combat Shotgun choke attachment name",
 		"locations": [],
-		"translation": "Pnömatik",
-		"machine": true
+		"translation": "Basınçlı",
+		"machine": false
 	},
 	{
 		"phrase": "Single",
 		"context": null,
 		"comment": "Core attachment name, i.e. single shot vs automatic fire",
 		"locations": [],
-		"translation": "Bekar",
-		"machine": true
+		"translation": "Tekli",
+		"machine": false
 	},
 	{
 		"phrase": "Automatic",
@@ -1164,7 +1164,7 @@
 		"context": null,
 		"comment": "Weapon category name",
 		"locations": [],
-		"translation": "Keskin nisanci",
+		"translation": "Keskin nişanci",
 		"machine": true
 	},
 	{
@@ -1172,7 +1172,7 @@
 		"context": null,
 		"comment": "Weapon category name",
 		"locations": [],
-		"translation": "tüfek",
+		"translation": "Tüfek",
 		"machine": true
 	},
 	{
@@ -1220,15 +1220,15 @@
 		"context": null,
 		"comment": "Sight attachment name",
 		"locations": [],
-		"translation": "Demir Görüşler",
-		"machine": true
+		"translation": "Basit nişangah",
+		"machine": false
 	},
 	{
 		"phrase": "Broken Circle",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "kırık daire",
+		"translation": "Kırık daire",
 		"machine": true
 	},
 	{
@@ -1236,7 +1236,7 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "kırık kare",
+		"translation": "Kırık kare",
 		"machine": true
 	},
 	{
@@ -1244,7 +1244,7 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "şerit",
+		"translation": "Şerit",
 		"machine": true
 	},
 	{
@@ -1252,16 +1252,16 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Daire çapraz",
-		"machine": true
+		"translation": "Daire içinde artı",
+		"machine": false
 	},
 	{
 		"phrase": "Dot Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "nokta çapraz",
-		"machine": true
+		"translation": "Artı ortasında nokta",
+		"machine": false
 	},
 	{
 		"phrase": "Dotted Cross",
