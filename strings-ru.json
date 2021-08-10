@@ -2811,8 +2811,8 @@
 	},
 	"Butcher": 
 	{
-		"translation": "мясник",
-		"machine": true
+		"translation": "Мясник",
+		"machine": false
 	},
 	"Swordsman": 
 	{
@@ -2941,8 +2941,8 @@
 	},
 	"Deadeye": 
 	{
-		"translation": "Снайпер",
-		"machine": true
+		"translation": "Меткий глаз",
+		"machine": false
 	},
 	"Sharpshooter": 
 	{
@@ -3076,8 +3076,8 @@
 	},
 	"Video": 
 	{
-		"translation": "видео",
-		"machine": true
+		"translation": "Видео",
+		"machine": false
 	},
 	"Performance": 
 	{
@@ -3171,8 +3171,8 @@
 	},
 	"Friendly Outline Through Walls": 
 	{
-		"translation": "Дружественный контур сквозь стены",
-		"machine": true
+		"translation": "Контур союзников сквозь стены",
+		"machine": false
 	},
 	"Miscellaneous": 
 	{
@@ -3226,8 +3226,8 @@
 	},
 	"Look Sensitivity": 
 	{
-		"translation": "Искать чувствительность",
-		"machine": true
+		"translation": "Чувствительность взгляда",
+		"machine": false
 	},
 	"Ironsights Sensitivity": 
 	{
@@ -3266,13 +3266,13 @@
 	},
 	"Damage Numbers": 
 	{
-		"translation": "Номера повреждений",
-		"machine": true
+		"translation": "Числа повреждений",
+		"machine": false
 	},
 	"Show in the Shooting Range": 
 	{
-		"translation": "Шоу в тире",
-		"machine": true
+		"translation": "Отображать в тире",
+		"machine": false
 	},
 	"Show HUD": 
 	{
@@ -3401,8 +3401,8 @@
 	},
 	"Chunks": 
 	{
-		"translation": "Куски",
-		"machine": true
+		"translation": "Чанки",
+		"machine": false
 	},
 	"Max Chunk Updates": 
 	{
@@ -3436,13 +3436,13 @@
 	},
 	"Bloom Strength": 
 	{
-		"translation": "Сила цветения",
-		"machine": true
+		"translation": "Сила размытия",
+		"machine": false
 	},
 	"Render Bloom On Optics": 
 	{
-		"translation": "Рендеринг на оптике",
-		"machine": true
+		"translation": "Рендеринг сглаживания на оптике",
+		"machine": false
 	},
 	"Render Crepuscular Rays": 
 	{
@@ -3521,8 +3521,8 @@
 	},
 	"Single Dig by Default": 
 	{
-		"translation": "Один раскоп по умолчанию",
-		"machine": true
+		"translation": "1x1x1 копание по умолчанию",
+		"machine": false
 	},
 	"Tools": 
 	{
@@ -3541,18 +3541,18 @@
 	},
 	"Friendly Colour": 
 	{
-		"translation": "Приятный цвет",
-		"machine": true
+		"translation": "Цвет союзников",
+		"machine": false
 	},
 	"Party Colour": 
 	{
-		"translation": "Цвет партии",
-		"machine": true
+		"translation": "Цвет группы",
+		"machine": false
 	},
 	"Enemy Colour": 
 	{
-		"translation": "Цвет врага",
-		"machine": true
+		"translation": "Цвет врагов",
+		"machine": false
 	},
 	"High Quality Meshing": 
 	{
@@ -3581,8 +3581,8 @@
 	},
 	"Pew Pew Mode": 
 	{
-		"translation": "Pew pew mode",
-		"machine": true
+		"translation": "Режим Пиу-Пиу",
+		"machine": false
 	},
 	"Must keep enabled at all times": 
 	{
@@ -3656,8 +3656,8 @@
 	},
 	"Max FPS": 
 	{
-		"translation": "Макс FPS",
-		"machine": true
+		"translation": "Макс. FPS",
+		"machine": false
 	},
 	"Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage": 
 	{
@@ -3676,8 +3676,8 @@
 	},
 	"Enable Bloom": 
 	{
-		"translation": "Включить цветение",
-		"machine": true
+		"translation": "Включить размытие",
+		"machine": false
 	},
 	"Bloom increases and blurs the brightness of emissive surfaces": 
 	{
