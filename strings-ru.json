@@ -3966,13 +3966,13 @@
 	},
 	"Forwards": 
 	{
-		"translation": "Нападающие",
-		"machine": true
+		"translation": "Вперед",
+		"machine": false
 	},
 	"Right": 
 	{
-		"translation": "Правильно",
-		"machine": true
+		"translation": "Вправо",
+		"machine": false
 	},
 	"Backwards": 
 	{
@@ -3981,8 +3981,8 @@
 	},
 	"Crouch": 
 	{
-		"translation": "Крауч",
-		"machine": true
+		"translation": "Присесть",
+		"machine": false
 	},
 	"Jump": 
 	{
@@ -3991,23 +3991,23 @@
 	},
 	"Sprint": 
 	{
-		"translation": "Спринт",
-		"machine": true
+		"translation": "Бежать",
+		"machine": false
 	},
 	"Slide": 
 	{
-		"translation": "Горка",
-		"machine": true
+		"translation": "Скользить",
+		"machine": false
 	},
 	"Pick Up Primary": 
 	{
-		"translation": "Подобрать первичный",
-		"machine": true
+		"translation": "Подобрать как основное",
+		"machine": false
 	},
 	"Pick Up Secondary": 
 	{
-		"translation": "Подобрать вторичный",
-		"machine": true
+		"translation": "Подобрать как второстепенное",
+		"machine": false
 	},
 	"Ping": 
 	{
@@ -4061,13 +4061,13 @@
 	},
 	"Midi": 
 	{
-		"translation": "Миди",
-		"machine": true
+		"translation": "Midi",
+		"machine": false
 	},
 	"Digger": 
 	{
-		"translation": "экскаватор",
-		"machine": true
+		"translation": "Копатель",
+		"machine": false
 	},
 	"Structure (Radial)": 
 	{
@@ -4176,28 +4176,28 @@
 	},
 	"Toggle Fullscreen": 
 	{
-		"translation": "Переключить на полный экран",
-		"machine": true
+		"translation": "Полный экран",
+		"machine": false
 	},
 	"Toggle UI": 
 	{
-		"translation": "Переключить пользовательский интерфейс",
-		"machine": true
+		"translation": "Отображать пользовательский интерфейс",
+		"machine": false
 	},
 	"Toggle Chat": 
 	{
-		"translation": "Переключить чат",
-		"machine": true
+		"translation": "Отображать чат",
+		"machine": false
 	},
 	"Toggle Killfeed": 
 	{
-		"translation": "Переключить killfeed",
-		"machine": true
+		"translation": "Отображать список убийств",
+		"machine": false
 	},
 	"Toggle Names": 
 	{
-		"translation": "Переключить имена",
-		"machine": true
+		"translation": "Отображать имена",
+		"machine": false
 	},
 	"Toggle Info Overlay": 
 	{
