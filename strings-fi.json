@@ -21,8 +21,8 @@
 	},
 	"Disruptor assist": 
 	{
-		"translation": "Häiriöavustaja",
-		"machine": true
+		"translation": "Häiriöavustus",
+		"machine": false
 	},
 	"Headshot": 
 	{
@@ -31,8 +31,8 @@
 	},
 	"Kill": 
 	{
-		"translation": "Tappaa",
-		"machine": true
+		"translation": "Tappo",
+		"machine": false
 	},
 	"Kill streak": 
 	{
@@ -41,8 +41,8 @@
 	},
 	"VIP kill": 
 	{
-		"translation": "VIP tappaa",
-		"machine": true
+		"translation": "VIP tappo",
+		"machine": false
 	},
 	"VIP defend": 
 	{
@@ -66,8 +66,8 @@
 	},
 	"Disruptor destroyed": 
 	{
-		"translation": "Hävittäjä tuhoutui",
-		"machine": true
+		"translation": "Häiritsijä tuhoutui",
+		"machine": false
 	},
 	"Avenger": 
 	{
@@ -111,8 +111,8 @@
 	},
 	"Flag carrier kill": 
 	{
-		"translation": "Lippukantaja tappaa",
-		"machine": true
+		"translation": "Lippukantaja tappo",
+		"machine": false
 	},
 	"Bomb deliver": 
 	{
@@ -166,8 +166,8 @@
 	},
 	"Zone capture": 
 	{
-		"translation": "Vyöhykkeen kaappaus",
-		"machine": true
+		"translation": "Alueen kaappaus",
+		"machine": false
 	},
 	"Beacon capture": 
 	{
@@ -181,23 +181,23 @@
 	},
 	"Salvage": 
 	{
-		"translation": "Pelastaa",
-		"machine": true
+		"translation": "Pelastus",
+		"machine": false
 	},
 	"Round win": 
 	{
-		"translation": "Pyöreä voitto",
-		"machine": true
+		"translation": "Kierros voitto",
+		"machine": false
 	},
 	"Round survive": 
 	{
-		"translation": "Pyöreä hengissä",
-		"machine": true
+		"translation": "Kierros selvitty",
+		"machine": false
 	},
 	"Assist": 
 	{
-		"translation": "Avustaa",
-		"machine": true
+		"translation": "Avustus",
+		"machine": false
 	},
 	"Assist counts as kill": 
 	{
@@ -231,8 +231,8 @@
 	},
 	"Destroyer": 
 	{
-		"translation": "Hävittäjä",
-		"machine": true
+		"translation": "Tuhoaja",
+		"machine": false
 	},
 	"Attacker": 
 	{
@@ -246,8 +246,8 @@
 	},
 	"Impaler": 
 	{
-		"translation": "Impaler",
-		"machine": true
+		"translation": "Keihästäjä",
+		"machine": false
 	},
 	"Resilient": 
 	{
@@ -296,8 +296,8 @@
 	},
 	"Reserved (party)": 
 	{
-		"translation": "Varattu (juhla)",
-		"machine": true
+		"translation": "Varattu (Ryhmä)",
+		"machine": false
 	},
 	"Selecting a team": 
 	{
@@ -306,8 +306,8 @@
 	},
 	"Spectating": 
 	{
-		"translation": "Odottaa",
-		"machine": true
+		"translation": "Katsojana",
+		"machine": false
 	},
 	"Left": 
 	{
@@ -321,8 +321,8 @@
 	},
 	"Control Shift": 
 	{
-		"translation": "Ohjausvipu",
-		"machine": true
+		"translation": "Hallinan vaihto",
+		"machine": false
 	},
 	"Capture the Flag": 
 	{
@@ -336,8 +336,8 @@
 	},
 	"Head Hunter": 
 	{
-		"translation": "Päämetsästäjä",
-		"machine": true
+		"translation": "Pään metsästäjä",
+		"machine": false
 	},
 	"Spire": 
 	{
@@ -356,8 +356,8 @@
 	},
 	"Kicked by a moderator": 
 	{
-		"translation": "Moderaattorin potku",
-		"machine": true
+		"translation": "Moderaattori potki ulos",
+		"machine": false
 	},
 	"Already in game": 
 	{
@@ -386,8 +386,8 @@
 	},
 	"Kicked for inactivity": 
 	{
-		"translation": "Potkittiin passiivisuudesta",
-		"machine": true
+		"translation": "Potkittiin toimettomuudesta",
+		"machine": false
 	},
 	"Internal error": 
 	{
@@ -396,8 +396,8 @@
 	},
 	"Map is restoring. Try again in 10 seconds": 
 	{
-		"translation": "Kartta palautuu. yritä uudelleen 10 sekunnin kuluttua",
-		"machine": true
+		"translation": "Kartta palautuu. Yritä uudelleen 10 sekunnin kuluttua",
+		"machine": false
 	},
 	"Network Error": 
 	{
@@ -456,8 +456,8 @@
 	},
 	"Lobby already claimed": 
 	{
-		"translation": "Aula on jo väittänyt",
-		"machine": true
+		"translation": "Aula on jo käytössä",
+		"machine": false
 	},
 	"Min level must be lower than your own": 
 	{
@@ -466,8 +466,8 @@
 	},
 	"Max level must be greater than your own": 
 	{
-		"translation": "Suurimman tason on oltava suurempi kuin oma",
-		"machine": true
+		"translation": "Suurimman tason on oltava suurempi kuin omasi",
+		"machine": false
 	},
 	"Min level can't be greater than max level": 
 	{
@@ -531,13 +531,13 @@
 	},
 	"Extended": 
 	{
-		"translation": "Laajennettu",
-		"machine": true
+		"translation": "Pidennys",
+		"machine": false
 	},
 	"Extendedest": 
 	{
-		"translation": "Extendedest",
-		"machine": true
+		"translation": "Pidennys +",
+		"machine": false
 	},
 	"Resonator": 
 	{
@@ -571,7 +571,7 @@
 	},
 	"Stubby": 
 	{
-		"translation": "Stubby",
+		"translation": "Tynkä",
 		"machine": true
 	},
 	"Augmented": 
@@ -581,8 +581,8 @@
 	},
 	"Buckshot": 
 	{
-		"translation": "Buckshot",
-		"machine": true
+		"translation": "Hauli",
+		"machine": false
 	},
 	"Burst": 
 	{
@@ -601,23 +601,23 @@
 	},
 	"Light": 
 	{
-		"translation": "Valo",
-		"machine": true
+		"translation": "Kevyt",
+		"machine": false
 	},
 	"Piercing": 
 	{
-		"translation": "Lävistys",
-		"machine": true
+		"translation": "Lävistävä",
+		"machine": false
 	},
 	"Ricochet": 
 	{
-		"translation": "Kimmota",
-		"machine": true
+		"translation": "Kimpoava",
+		"machine": false
 	},
 	"Slug": 
 	{
-		"translation": "Etana",
-		"machine": true
+		"translation": "Jykevä",
+		"machine": false
 	},
 	"Tow": 
 	{
@@ -1969,7 +1969,7 @@
 		"translation": "Sinulla on lippu",
 		"machine": true
 	},
-	"You are carrying the bomb": 
+	"You are carrying thebomb": 
 	{
 		"translation": "Sinulla on pommi",
 		"machine": true
