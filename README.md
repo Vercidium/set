@@ -14,9 +14,9 @@ Each word in each JSON file follows this format:
 	"machine": true
 },
 ```
-"Direct" is the English keyword
-"Direkte" is the German translation
-"machine" is true if this translation was done by DeepL. **Set this to false when you translate it yourself, so it isn't sent to DeepL for translation again**
+- "Direct" is the English keyword
+- "Direkte" is the German translation
+- "machine" is true if this translation was done by DeepL. **Set this to false when you translate it yourself, so it isn't sent to DeepL for translation again**
 
 ## TO-DO
 - Add a "hint" variable below "translation" that tells us where+how this phrase is used
