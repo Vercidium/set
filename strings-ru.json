@@ -16,8 +16,8 @@
 	},
 	"Direct": 
 	{
-		"translation": "Прямой",
-		"machine": true
+		"translation": "Прямое попадание",
+		"machine": false
 	},
 	"Disruptor assist": 
 	{
@@ -41,18 +41,18 @@
 	},
 	"VIP kill": 
 	{
-		"translation": "VIP убийство",
-		"machine": true
+		"translation": "Убийство VIP",
+		"machine": false
 	},
 	"VIP defend": 
 	{
-		"translation": "VIP защита",
-		"machine": true
+		"translation": "Защита VIP",
+		"machine": false
 	},
 	"Scanner destroyed": 
 	{
-		"translation": "Сканер уничтожен",
-		"machine": true
+		"translation": "Уничтожение сканера",
+		"machine": false
 	},
 	"Scanner assist": 
 	{
@@ -61,8 +61,8 @@
 	},
 	"C4 destroyed": 
 	{
-		"translation": "C4 уничтожен",
-		"machine": true
+		"translation": "Уничтожение C4",
+		"machine": false
 	},
 	"Disruptor destroyed": 
 	{
@@ -86,8 +86,8 @@
 	},
 	"Flag carry": 
 	{
-		"translation": "Нести флаг",
-		"machine": true
+		"translation": "Перенос флаг",
+		"machine": false
 	},
 	"Flag return": 
 	{
@@ -96,8 +96,8 @@
 	},
 	"Flag attack": 
 	{
-		"translation": "Атака флагом",
-		"machine": true
+		"translation": "Нападение на флаг",
+		"machine": false
 	},
 	"Flag defend": 
 	{
@@ -111,18 +111,18 @@
 	},
 	"Flag carrier kill": 
 	{
-		"translation": "Убить курьера флага",
+		"translation": "Убийство игрока с флагом",
 		"machine": false
 	},
 	"Bomb deliver": 
 	{
-		"translation": "Бомба доставить",
-		"machine": true
+		"translation": "Доставка бомбы",
+		"machine": false
 	},
 	"Bomb carry": 
 	{
-		"translation": "Бомба нести",
-		"machine": true
+		"translation": "Перенос бомбы",
+		"machine": false
 	},
 	"Bomb defuse": 
 	{
@@ -146,8 +146,8 @@
 	},
 	"Attacking": 
 	{
-		"translation": "Атакующий",
-		"machine": true
+		"translation": "Атака",
+		"machine": false
 	},
 	"Defending": 
 	{
@@ -191,8 +191,8 @@
 	},
 	"Round survive": 
 	{
-		"translation": "Круглый выжить",
-		"machine": true
+		"translation": "Выживание в раунде",
+		"machine": false
 	},
 	"Assist": 
 	{
@@ -201,13 +201,13 @@
 	},
 	"Assist counts as kill": 
 	{
-		"translation": "Помощь считается убийством",
-		"machine": true
+		"translation": "Убийство с помощью",
+		"machine": false
 	},
 	"Fortifying": 
 	{
-		"translation": "Укрепляющий",
-		"machine": true
+		"translation": "Укрепление",
+		"machine": false
 	},
 	"Most Valuable Player": 
 	{
@@ -246,8 +246,8 @@
 	},
 	"Impaler": 
 	{
-		"translation": "Цепеш",
-		"machine": true
+		"translation": "Боец",
+		"machine": false
 	},
 	"Resilient": 
 	{
@@ -321,8 +321,8 @@
 	},
 	"Control Shift": 
 	{
-		"translation": "Сдвиг управления",
-		"machine": true
+		"translation": "Линия фронта",
+		"machine": false
 	},
 	"Capture the Flag": 
 	{
@@ -336,8 +336,8 @@
 	},
 	"Head Hunter": 
 	{
-		"translation": "Охотник за головами",
-		"machine": true
+		"translation": "Охота за головами",
+		"machine": false
 	},
 	"Spire": 
 	{
@@ -346,8 +346,8 @@
 	},
 	"Static": 
 	{
-		"translation": "Статический",
-		"machine": true
+		"translation": "Командный бой",
+		"machine": false
 	},
 	"All": 
 	{
@@ -3056,8 +3056,8 @@
 	},
 	"Trial Hard": 
 	{
-		"translation": "Тяжело испытать",
-		"machine": true
+		"translation": "Закаленный испытаниями",
+		"machine": false
 	},
 	"Podium": 
 	{
@@ -3121,18 +3121,18 @@
 	},
 	"Toggle Scope": 
 	{
-		"translation": "Переключить область видимости",
-		"machine": true
+		"translation": "Переключить прицел",
+		"machine": false
 	},
 	"Toggle Crouch": 
 	{
-		"translation": "Присесть на корточки",
-		"machine": true
+		"translation": "Переключить приседание",
+		"machine": false
 	},
 	"Toggle Sprint": 
 	{
-		"translation": "Переключить спринт",
-		"machine": true
+		"translation": "Переключить бег",
+		"machine": false
 	},
 	"Auto-Rotate Structures": 
 	{
@@ -3196,8 +3196,8 @@
 	},
 	"Extra Logging": 
 	{
-		"translation": "Дополнительная регистрация",
-		"machine": true
+		"translation": "Дополнительная отладочная информация",
+		"machine": false
 	},
 	"Input": 
 	{
@@ -3216,8 +3216,8 @@
 	},
 	"Invert Y Axis": 
 	{
-		"translation": "Инвертный Y-ось",
-		"machine": true
+		"translation": "Инвертировать ось Y",
+		"machine": false
 	},
 	"Sensitivity Values": 
 	{
@@ -3246,8 +3246,8 @@
 	},
 	"Spectator Sensitivity": 
 	{
-		"translation": "Чувствительность зрителя",
-		"machine": true
+		"translation": "Чувствительность наблюдателя",
+		"machine": false
 	},
 	"Minimap": 
 	{
@@ -3966,13 +3966,13 @@
 	},
 	"Forwards": 
 	{
-		"translation": "Нападающие",
-		"machine": true
+		"translation": "Вперед",
+		"machine": false
 	},
 	"Right": 
 	{
-		"translation": "Правильно",
-		"machine": true
+		"translation": "Вправо",
+		"machine": false
 	},
 	"Backwards": 
 	{
@@ -3981,8 +3981,8 @@
 	},
 	"Crouch": 
 	{
-		"translation": "Крауч",
-		"machine": true
+		"translation": "Присесть",
+		"machine": false
 	},
 	"Jump": 
 	{
@@ -3991,23 +3991,23 @@
 	},
 	"Sprint": 
 	{
-		"translation": "Спринт",
-		"machine": true
+		"translation": "Бежать",
+		"machine": false
 	},
 	"Slide": 
 	{
-		"translation": "Горка",
-		"machine": true
+		"translation": "Скользить",
+		"machine": false
 	},
 	"Pick Up Primary": 
 	{
-		"translation": "Подобрать первичный",
-		"machine": true
+		"translation": "Подобрать как основное",
+		"machine": false
 	},
 	"Pick Up Secondary": 
 	{
-		"translation": "Подобрать вторичный",
-		"machine": true
+		"translation": "Подобрать как второстепенное",
+		"machine": false
 	},
 	"Ping": 
 	{
@@ -4061,13 +4061,13 @@
 	},
 	"Midi": 
 	{
-		"translation": "Миди",
-		"machine": true
+		"translation": "Midi",
+		"machine": false
 	},
 	"Digger": 
 	{
-		"translation": "экскаватор",
-		"machine": true
+		"translation": "Копатель",
+		"machine": false
 	},
 	"Structure (Radial)": 
 	{
@@ -4176,28 +4176,28 @@
 	},
 	"Toggle Fullscreen": 
 	{
-		"translation": "Переключить на полный экран",
-		"machine": true
+		"translation": "Полный экран",
+		"machine": false
 	},
 	"Toggle UI": 
 	{
-		"translation": "Переключить пользовательский интерфейс",
-		"machine": true
+		"translation": "Отображать пользовательский интерфейс",
+		"machine": false
 	},
 	"Toggle Chat": 
 	{
-		"translation": "Переключить чат",
-		"machine": true
+		"translation": "Отображать чат",
+		"machine": false
 	},
 	"Toggle Killfeed": 
 	{
-		"translation": "Переключить killfeed",
-		"machine": true
+		"translation": "Отображать список убийств",
+		"machine": false
 	},
 	"Toggle Names": 
 	{
-		"translation": "Переключить имена",
-		"machine": true
+		"translation": "Отображать имена",
+		"machine": false
 	},
 	"Toggle Info Overlay": 
 	{
