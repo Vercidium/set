@@ -4,8 +4,8 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "küme yumurtlaması",
-		"machine": true
+		"translation": "Grup canlanma",
+		"machine": false
 	},
 	{
 		"phrase": "Damage",
@@ -20,24 +20,24 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Aşırı yükleme",
-		"machine": true
+		"translation": "Üst üste hasar",
+		"machine": false
 	},
 	{
 		"phrase": "Direct",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "doğrudan",
-		"machine": true
+		"translation": "Direkt",
+		"machine": false
 	},
 	{
 		"phrase": "Disruptor assist",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bozucu yardımı",
-		"machine": true
+		"translation": "Disruptor asisti",
+		"machine": false
 	},
 	{
 		"phrase": "Headshot",
@@ -52,16 +52,16 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Öldürmek",
-		"machine": true
+		"translation": "Öldürüldü",
+		"machine": false
 	},
 	{
 		"phrase": "Kill streak",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "galibiyet serisi",
-		"machine": true
+		"translation": "Öldürme serisi",
+		"machine": false
 	},
 	{
 		"phrase": "VIP kill",
@@ -92,8 +92,8 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Tarayıcı yardımı",
-		"machine": true
+		"translation": "Tarayıcı asisti",
+		"machine": false
 	},
 	{
 		"phrase": "C4 destroyed",
@@ -108,8 +108,8 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bozucu yok edildi",
-		"machine": true
+		"translation": "Disruptor yok edildi",
+		"machine": false
 	},
 	{
 		"phrase": "Avenger",
@@ -132,111 +132,111 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bayrak taşımak",
-		"machine": true
+		"translation": "Bayrak taşıma",
+		"machine": false
 	},
 	{
 		"phrase": "Flag return",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bayrak dönüşü",
-		"machine": true
+		"translation": "Bayrağı geri döndürme",
+		"machine": false
 	},
 	{
 		"phrase": "Flag attack",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bayrak saldırısı",
-		"machine": true
+		"translation": "Bayrağa saldırma",
+		"machine": false
 	},
 	{
 		"phrase": "Flag defend",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bayrak savunması",
-		"machine": true
+		"translation": "Bayrağı savunma",
+		"machine": false
 	},
 	{
 		"phrase": "Flag escort",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "bayrak eskortu",
-		"machine": true
+		"translation": "Bayrağa refakât etme",
+		"machine": false
 	},
 	{
 		"phrase": "Flag carrier kill",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bayrak taşıyıcı öldürmek",
-		"machine": true
+		"translation": "Bayrak taşıyıcısını öldürme",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb deliver",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bomba teslimatı",
-		"machine": true
+		"translation": "Bombayı teslim etme",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb carry",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bomba taşıma",
-		"machine": true
+		"translation": "Bombayı taşıma",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb defuse",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "bomba imha",
-		"machine": true
+		"translation": "Bombayı imha etme",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb attack",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bombalı saldırı",
-		"machine": true
+		"translation": "Bombaya saldırma",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb defend",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bomba savunması",
-		"machine": true
+		"translation": "Bombayı savunma",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb escort",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "bomba eskort",
-		"machine": true
+		"translation": "Bombaya refakât etme",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb carrier kill",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bomba taşıyıcı öldürmek",
-		"machine": true
+		"translation": "Bomba taşıyıcısını öldürme",
+		"machine": false
 	},
 	{
 		"phrase": "Spot assist",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Nokta yardımı",
+		"translation": "İşaret etme asisti",
 		"machine": true
 	},
 	{
@@ -244,15 +244,15 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "saldıran",
-		"machine": true
+		"translation": "Saldırı",
+		"machine": false
 	},
 	{
 		"phrase": "Defending",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "savunma",
+		"translation": "Savunma",
 		"machine": true
 	},
 	{
@@ -260,88 +260,88 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "yarışma",
-		"machine": true
+		"translation": "Ele geçirme",
+		"machine": false
 	},
 	{
 		"phrase": "Canister capture",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "teneke kutu yakalama",
-		"machine": true
+		"translation": "Objeyi ele geçirme",
+		"machine": false
 	},
 	{
 		"phrase": "Zone capture",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bölge yakalama",
-		"machine": true
+		"translation": "Bölgeyi ele geçirme",
+		"machine": false
 	},
 	{
 		"phrase": "Beacon capture",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "İşaret yakalama",
-		"machine": true
+		"translation": "Fener yakalama",
+		"machine": false
 	},
 	{
 		"phrase": "Beacon destroyed",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "İşaretçi yok edildi",
-		"machine": true
+		"translation": "Fener yok edildi",
+		"machine": false
 	},
 	{
 		"phrase": "Salvage",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Kurtarma",
-		"machine": true
+		"translation": "Malzeme toplama",
+		"machine": false
 	},
 	{
 		"phrase": "Round win",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "yuvarlak galibiyet",
-		"machine": true
+		"translation": "Raunt kazanıldı",
+		"machine": false
 	},
 	{
 		"phrase": "Round survive",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "yuvarlak hayatta",
-		"machine": true
+		"translation": "Rauntta hayatta kalınıldı",
+		"machine": false
 	},
 	{
 		"phrase": "Assist",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Yardım",
-		"machine": true
+		"translation": "Asist",
+		"machine": false
 	},
 	{
 		"phrase": "Assist counts as kill",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Asist öldürme olarak sayılır",
-		"machine": true
+		"translation": "Öldürme olarak sayılan asist",
+		"machine": false
 	},
 	{
 		"phrase": "Fortifying",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "güçlendirici",
-		"machine": true
+		"translation": "Sağlamlaştırma",
+		"machine": false
 	},
 	{
 		"phrase": "Most Valuable Player",
@@ -356,7 +356,7 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "yok edici",
+		"translation": "Yok edici",
 		"machine": true
 	},
 	{
@@ -364,7 +364,7 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "nişancı",
+		"translation": "Nişancı",
 		"machine": true
 	},
 	{
@@ -372,7 +372,7 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "yaratıcı",
+		"translation": "İnşa edici",
 		"machine": true
 	},
 	{
@@ -380,15 +380,15 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "Yok edici",
-		"machine": true
+		"translation": "Yıkıcı",
+		"machine": false
 	},
 	{
 		"phrase": "Attacker",
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "saldırgan",
+		"translation": "Saldırgan",
 		"machine": true
 	},
 	{
@@ -396,8 +396,8 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "defans oyuncusu",
-		"machine": true
+		"translation": "Savunmacı",
+		"machine": false
 	},
 	{
 		"phrase": "Impaler",
