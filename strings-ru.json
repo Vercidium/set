@@ -16,8 +16,8 @@
 	},
 	"Direct": 
 	{
-		"translation": "Прямой",
-		"machine": true
+		"translation": "Прямое попадание",
+		"machine": false
 	},
 	"Disruptor assist": 
 	{
@@ -41,18 +41,18 @@
 	},
 	"VIP kill": 
 	{
-		"translation": "VIP убийство",
-		"machine": true
+		"translation": "Убийство VIP",
+		"machine": false
 	},
 	"VIP defend": 
 	{
-		"translation": "VIP защита",
-		"machine": true
+		"translation": "Защита VIP",
+		"machine": false
 	},
 	"Scanner destroyed": 
 	{
-		"translation": "Сканер уничтожен",
-		"machine": true
+		"translation": "Уничтожение сканера",
+		"machine": false
 	},
 	"Scanner assist": 
 	{
@@ -61,8 +61,8 @@
 	},
 	"C4 destroyed": 
 	{
-		"translation": "C4 уничтожен",
-		"machine": true
+		"translation": "Уничтожение C4",
+		"machine": false
 	},
 	"Disruptor destroyed": 
 	{
@@ -86,8 +86,8 @@
 	},
 	"Flag carry": 
 	{
-		"translation": "Нести флаг",
-		"machine": true
+		"translation": "Перенос флаг",
+		"machine": false
 	},
 	"Flag return": 
 	{
@@ -96,8 +96,8 @@
 	},
 	"Flag attack": 
 	{
-		"translation": "Атака флагом",
-		"machine": true
+		"translation": "Нападение на флаг",
+		"machine": false
 	},
 	"Flag defend": 
 	{
@@ -111,18 +111,18 @@
 	},
 	"Flag carrier kill": 
 	{
-		"translation": "Убить курьера флага",
+		"translation": "Убийство игрока с флагом",
 		"machine": false
 	},
 	"Bomb deliver": 
 	{
-		"translation": "Бомба доставить",
-		"machine": true
+		"translation": "Доставка бомбы",
+		"machine": false
 	},
 	"Bomb carry": 
 	{
-		"translation": "Бомба нести",
-		"machine": true
+		"translation": "Перенос бомбы",
+		"machine": false
 	},
 	"Bomb defuse": 
 	{
@@ -146,8 +146,8 @@
 	},
 	"Attacking": 
 	{
-		"translation": "Атакующий",
-		"machine": true
+		"translation": "Атака",
+		"machine": false
 	},
 	"Defending": 
 	{
@@ -191,8 +191,8 @@
 	},
 	"Round survive": 
 	{
-		"translation": "Круглый выжить",
-		"machine": true
+		"translation": "Выживание в раунде",
+		"machine": false
 	},
 	"Assist": 
 	{
@@ -201,13 +201,13 @@
 	},
 	"Assist counts as kill": 
 	{
-		"translation": "Помощь считается убийством",
-		"machine": true
+		"translation": "Убийство с помощью",
+		"machine": false
 	},
 	"Fortifying": 
 	{
-		"translation": "Укрепляющий",
-		"machine": true
+		"translation": "Укрепление",
+		"machine": false
 	},
 	"Most Valuable Player": 
 	{
@@ -246,8 +246,8 @@
 	},
 	"Impaler": 
 	{
-		"translation": "Цепеш",
-		"machine": true
+		"translation": "Боец",
+		"machine": false
 	},
 	"Resilient": 
 	{
@@ -321,8 +321,8 @@
 	},
 	"Control Shift": 
 	{
-		"translation": "Сдвиг управления",
-		"machine": true
+		"translation": "Линия фронта",
+		"machine": false
 	},
 	"Capture the Flag": 
 	{
@@ -336,8 +336,8 @@
 	},
 	"Head Hunter": 
 	{
-		"translation": "Охотник за головами",
-		"machine": true
+		"translation": "Охота за головами",
+		"machine": false
 	},
 	"Spire": 
 	{
@@ -346,8 +346,8 @@
 	},
 	"Static": 
 	{
-		"translation": "Статический",
-		"machine": true
+		"translation": "Командный бой",
+		"machine": false
 	},
 	"All": 
 	{
