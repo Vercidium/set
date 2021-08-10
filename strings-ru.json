@@ -1,13 +1,13 @@
 {
 	"Cluster spawn": 
 	{
-		"translation": "Кластерный спавн",
-		"machine": true
+		"translation": "Групповое возрождение",
+		"machine": false
 	},
 	"Damage": 
 	{
-		"translation": "Повреждать",
-		"machine": true
+		"translation": "Урон",
+		"machine": false
 	},
 	"Overkill": 
 	{
@@ -56,8 +56,8 @@
 	},
 	"Scanner assist": 
 	{
-		"translation": "Сканер помощь",
-		"machine": true
+		"translation": "Обнаружение",
+		"machine": false
 	},
 	"C4 destroyed": 
 	{
@@ -71,13 +71,13 @@
 	},
 	"Avenger": 
 	{
-		"translation": "Мститель",
-		"machine": true
+		"translation": "Месть",
+		"machine": false
 	},
 	"Saviour": 
 	{
-		"translation": "Спаситель",
-		"machine": true
+		"translation": "Спасение",
+		"machine": false
 	},
 	"Flag capture": 
 	{
@@ -101,18 +101,18 @@
 	},
 	"Flag defend": 
 	{
-		"translation": "Флаг защищать",
-		"machine": true
+		"translation": "Защита флага",
+		"machine": false
 	},
 	"Escort": 
 	{
-		"translation": "Эскорт",
-		"machine": true
+		"translation": "Сопровождение",
+		"machine": false
 	},
 	"Flag carrier kill": 
 	{
-		"translation": "Убить авианосца флага",
-		"machine": true
+		"translation": "Убить курьера флага",
+		"machine": false
 	},
 	"Bomb deliver": 
 	{
@@ -136,8 +136,8 @@
 	},
 	"Bomb defend": 
 	{
-		"translation": "Бомба защищать",
-		"machine": true
+		"translation": "Защита бомбы",
+		"machine": false
 	},
 	"Spot assist": 
 	{
@@ -151,13 +151,13 @@
 	},
 	"Defending": 
 	{
-		"translation": "Защищая",
-		"machine": true
+		"translation": "Оборона",
+		"machine": false
 	},
 	"Contesting": 
 	{
-		"translation": "Конкурс",
-		"machine": true
+		"translation": "Удержание",
+		"machine": false
 	},
 	"Canister capture": 
 	{
@@ -231,13 +231,13 @@
 	},
 	"Destroyer": 
 	{
-		"translation": "Эсминец",
-		"machine": true
+		"translation": "Разрушитель",
+		"machine": false
 	},
 	"Attacker": 
 	{
-		"translation": "Злоумышленник",
-		"machine": true
+		"translation": "Атакующий",
+		"machine": false
 	},
 	"Defender": 
 	{
@@ -256,8 +256,8 @@
 	},
 	"Assistance": 
 	{
-		"translation": "Помощь",
-		"machine": true
+		"translation": "Помощник",
+		"machine": false
 	},
 	"Impacter": 
 	{
@@ -316,8 +316,8 @@
 	},
 	"Breakthrough": 
 	{
-		"translation": "Прорвать",
-		"machine": true
+		"translation": "Прорыв",
+		"machine": false
 	},
 	"Control Shift": 
 	{
@@ -331,8 +331,8 @@
 	},
 	"Gun Game": 
 	{
-		"translation": "Игра с оружием",
-		"machine": true
+		"translation": "Гонка вооружений",
+		"machine": false
 	},
 	"Head Hunter": 
 	{
@@ -356,8 +356,8 @@
 	},
 	"Kicked by a moderator": 
 	{
-		"translation": "Удалено модератором",
-		"machine": true
+		"translation": "Изгнан модератором",
+		"machine": false
 	},
 	"Already in game": 
 	{
@@ -371,8 +371,8 @@
 	},
 	"Banned": 
 	{
-		"translation": "Запрещено",
-		"machine": true
+		"translation": "Заблокирован",
+		"machine": false
 	},
 	"Disconnected": 
 	{
@@ -421,8 +421,8 @@
 	},
 	"Temporarily Banned": 
 	{
-		"translation": "Временно забанен",
-		"machine": true
+		"translation": "Временно заблокирован",
+		"machine": false
 	},
 	"Version mismatch": 
 	{
@@ -441,8 +441,8 @@
 	},
 	"Incorrect password": 
 	{
-		"translation": "неверный пароль",
-		"machine": true
+		"translation": "Неверный пароль",
+		"machine": false
 	},
 	"Your level is too high": 
 	{
@@ -451,13 +451,13 @@
 	},
 	"Can only claim 3 lobbies per day": 
 	{
-		"translation": "Может требовать только 3 вестибюля в день",
-		"machine": true
+		"translation": "Можно занять только 3 лобби в день",
+		"machine": false
 	},
 	"Lobby already claimed": 
 	{
-		"translation": "Лобби уже заявлено",
-		"machine": true
+		"translation": "Лобби уже занято",
+		"machine": false
 	},
 	"Min level must be lower than your own": 
 	{
@@ -486,8 +486,8 @@
 	},
 	"Cannot claim. Lobby has players": 
 	{
-		"translation": "Не могу претендовать. в лобби есть игроки",
-		"machine": true
+		"translation": "Невозможно занять. В лобби есть игроки",
+		"machine": false
 	},
 	"Reserved slot expired": 
 	{
@@ -526,8 +526,8 @@
 	},
 	"Default": 
 	{
-		"translation": "Дефолт",
-		"machine": true
+		"translation": "Стандартный",
+		"machine": false
 	},
 	"Extended": 
 	{
@@ -1106,8 +1106,8 @@
 	},
 	"Kinetic": 
 	{
-		"translation": "Кинетический",
-		"machine": true
+		"translation": "Кинетика",
+		"machine": false
 	},
 	"Scavenger": 
 	{
@@ -1311,8 +1311,8 @@
 	},
 	"Respawn": 
 	{
-		"translation": "респаун",
-		"machine": true
+		"translation": "Возрождение",
+		"machine": false
 	},
 	"Players": 
 	{
@@ -1341,8 +1341,8 @@
 	},
 	"All players start with the same randomised loadout.": 
 	{
-		"translation": "Все игроки начинают с одинаковой рандомизированной экипировкой..",
-		"machine": true
+		"translation": "Все игроки начинают с одинаковой случайной экипировкой..",
+		"machine": false
 	},
 	"Times to win": 
 	{
@@ -1616,18 +1616,18 @@
 	},
 	"Matches": 
 	{
-		"translation": "Спички",
-		"machine": true
+		"translation": "Матчи",
+		"machine": false
 	},
 	"Kills": 
 	{
-		"translation": "Убивает",
-		"machine": true
+		"translation": "Убийства",
+		"machine": false
 	},
 	"Deaths": 
 	{
-		"translation": "Летальные исходы",
-		"machine": true
+		"translation": "Смерти",
+		"machine": false
 	},
 	"Assists": 
 	{
@@ -1871,8 +1871,8 @@
 	},
 	"Player ready": 
 	{
-		"translation": "Плеер готов",
-		"machine": true
+		"translation": "Игрок готов",
+		"machine": false
 	},
 	"Players ready": 
 	{
@@ -2046,8 +2046,8 @@
 	},
 	"Replay Tutorial": 
 	{
-		"translation": "Воспроизвести руководство",
-		"machine": true
+		"translation": "Перезапустить обучение",
+		"machine": false
 	},
 	"Reset Ship": 
 	{
@@ -2061,8 +2061,8 @@
 	},
 	"Tag": 
 	{
-		"translation": "Ярлык",
-		"machine": true
+		"translation": "Тег",
+		"machine": false
 	},
 	"Tags": 
 	{
@@ -2111,8 +2111,8 @@
 	},
 	"Friend username": 
 	{
-		"translation": "Имя пользователя друга",
-		"machine": true
+		"translation": "Имя друга",
+		"machine": false
 	},
 	"Resources loading in the background": 
 	{
@@ -2131,7 +2131,7 @@
 	},
 	"Account": 
 	{
-		"translation": "Счет",
+		"translation": "Аккаунт",
 		"machine": true
 	},
 	"Proton": 
@@ -2241,8 +2241,8 @@
 	},
 	"Claim": 
 	{
-		"translation": "Требовать",
-		"machine": true
+		"translation": "Занять",
+		"machine": false
 	},
 	"Current lobby settings": 
 	{
@@ -2256,8 +2256,8 @@
 	},
 	"Lobby not claimed": 
 	{
-		"translation": "Лобби не заявлено",
-		"machine": true
+		"translation": "Лобби не занято",
+		"machine": false
 	},
 	"Autobalancing Enabled": 
 	{
@@ -2431,8 +2431,8 @@
 	},
 	"Store": 
 	{
-		"translation": "Хранить",
-		"machine": true
+		"translation": "Магазин",
+		"machine": false
 	},
 	"Play": 
 	{
@@ -2456,8 +2456,8 @@
 	},
 	"Skip tutorial": 
 	{
-		"translation": "Пропустить руководство",
-		"machine": true
+		"translation": "Пропустить обучение",
+		"machine": false
 	},
 	"An update is available. Close the game and update the game through": 
 	{
@@ -2521,8 +2521,8 @@
 	},
 	"Ship": 
 	{
-		"translation": "Судно",
-		"machine": true
+		"translation": "Корабль",
+		"machine": false
 	},
 	"Loadouts": 
 	{
@@ -2546,8 +2546,8 @@
 	},
 	"Skin": 
 	{
-		"translation": "Кожа",
-		"machine": true
+		"translation": "Скин",
+		"machine": false
 	},
 	"Red dot": 
 	{
@@ -2571,8 +2571,8 @@
 	},
 	"Workshop": 
 	{
-		"translation": "цех",
-		"machine": true
+		"translation": "Мастерская",
+		"machine": false
 	},
 	"Cheating": 
 	{
@@ -2781,8 +2781,8 @@
 	},
 	"Elite": 
 	{
-		"translation": "Элитный",
-		"machine": true
+		"translation": "Элита",
+		"machine": false
 	},
 	"Expert": 
 	{
@@ -2791,8 +2791,8 @@
 	},
 	"Master": 
 	{
-		"translation": "Владелец",
-		"machine": true
+		"translation": "Мастер",
+		"machine": false
 	},
 	"Legend": 
 	{
@@ -2801,8 +2801,8 @@
 	},
 	"Paragon": 
 	{
-		"translation": "Идеал",
-		"machine": true
+		"translation": "Парагон",
+		"machine": false
 	},
 	"Incarnate": 
 	{
@@ -2826,8 +2826,8 @@
 	},
 	"Assassin": 
 	{
-		"translation": "Убийца",
-		"machine": true
+		"translation": "Ассасин",
+		"machine": false
 	},
 	"Executioner": 
 	{
@@ -3051,8 +3051,8 @@
 	},
 	"Trial Master": 
 	{
-		"translation": "Судебный мастер",
-		"machine": true
+		"translation": "Мастер испытаний",
+		"machine": false
 	},
 	"Trial Hard": 
 	{
@@ -3081,8 +3081,8 @@
 	},
 	"Performance": 
 	{
-		"translation": "Представление",
-		"machine": true
+		"translation": "Производительность",
+		"machine": false
 	},
 	"Audio": 
 	{
@@ -3106,8 +3106,8 @@
 	},
 	"Networking": 
 	{
-		"translation": "Сети",
-		"machine": true
+		"translation": "Сеть",
+		"machine": false
 	},
 	"Serious": 
 	{
@@ -4046,8 +4046,8 @@
 	},
 	"Scope": 
 	{
-		"translation": "Объем",
-		"machine": true
+		"translation": "Прицел",
+		"machine": false
 	},
 	"Melee": 
 	{
@@ -4291,12 +4291,12 @@
 	},
 	"Open Trial Window": 
 	{
-		"translation": "Открыть пробное окно",
-		"machine": true
+		"translation": "Открыть окно испытаний",
+		"machine": false
 	},
 	"Restart Trial": 
 	{
-		"translation": "Перезапустить пробную версию",
-		"machine": true
+		"translation": "Перезапустить испытание",
+		"machine": false
 	}
 }
