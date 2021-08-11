@@ -79,13 +79,12 @@
 	{
 		"phrase": "Saviour",
 		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Спасение"
+		"translation": "Спаситель"
 	},
 	{
 		"phrase": "Flag capture",
 		"comment": "In-game point text",
-		"translation": "Захват флага",
-		"machine": true
+		"translation": "Захват флага"
 	},
 	{
 		"phrase": "Flag carry",
@@ -130,8 +129,7 @@
 	{
 		"phrase": "Bomb defuse",
 		"comment": "In-game point text",
-		"translation": "Обезвреживание бомбы",
-		"machine": true
+		"translation": "Обезвреживание бомбы"
 	},
 	{
 		"phrase": "Bomb attack",
@@ -187,14 +185,12 @@
 	{
 		"phrase": "Salvage",
 		"comment": "In-game point text",
-		"translation": "Спасение",
-		"machine": true
+		"translation": "Подтверждение убийства"
 	},
 	{
 		"phrase": "Round win",
 		"comment": "In-game point text",
-		"translation": "Победа в раунде",
-		"machine": true
+		"translation": "Победа в раунде"
 	},
 	{
 		"phrase": "Round survive",
@@ -204,8 +200,7 @@
 	{
 		"phrase": "Assist",
 		"comment": "In-game point text",
-		"translation": "Помощь",
-		"machine": true
+		"translation": "Помощь"
 	},
 	{
 		"phrase": "Assist counts as kill",
@@ -292,14 +287,12 @@
 	{
 		"phrase": "Connecting",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Подключение",
-		"machine": true
+		"translation": "Подключение"
 	},
 	{
 		"phrase": "Loading Map",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Загрузка карты",
-		"machine": true
+		"translation": "Загрузка карты"
 	},
 	{
 		"phrase": "None",
@@ -321,8 +314,7 @@
 	{
 		"phrase": "Selecting a team",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Выбор команды",
-		"machine": true
+		"translation": "Выбор команды"
 	},
 	{
 		"phrase": "Spectating",
@@ -349,8 +341,7 @@
 	{
 		"phrase": "Capture the Flag",
 		"comment": "Game mode name",
-		"translation": "Захват флага",
-		"machine": true
+		"translation": "Захват флага"
 	},
 	{
 		"phrase": "Gun Game",
@@ -6315,8 +6306,7 @@
 	{
 		"phrase": "Finland",
 		"comment": "[Server List] [Filter]",
-		"translation": "Финляндия",
-		"machine": true
+		"translation": "Финляндия"
 	},
 	{
 		"phrase": "Copied",
@@ -6327,8 +6317,7 @@
 	{
 		"phrase": "Inventory",
 		"comment": "[Inventory] [Title]",
-		"translation": "Инвентарь",
-		"machine": true
+		"translation": "Инвентарь"
 	},
 	{
 		"phrase": "No items",
@@ -6339,8 +6328,7 @@
 	{
 		"phrase": "Loading",
 		"comment": "[Inventory] This text shows when the inventory is being loaded from the server",
-		"translation": "Загрузка",
-		"machine": true
+		"translation": "Загрузка"
 	},
 	{
 		"phrase": "Activating",
@@ -6351,20 +6339,17 @@
 	{
 		"phrase": "Delete",
 		"comment": "[Button] Delete a loadout",
-		"translation": "Удалить",
-		"machine": true
+		"translation": "Удалить"
 	},
 	{
 		"phrase": "Loadout Name",
 		"comment": "[Loadouts] [Text Field] [Placeholder] Placeholder text for when a new loadout is created",
-		"translation": "Название экипировки",
-		"machine": true
+		"translation": "Название экипировки"
 	},
 	{
 		"phrase": "Modifications",
 		"comment": "[Loadouts] [Title] This text shows above the mod selector",
-		"translation": "Модификации",
-		"machine": true
+		"translation": "Модификации"
 	},
 	{
 		"phrase": "Extra",
@@ -6375,14 +6360,12 @@
 	{
 		"phrase": "Loadout X",
 		"comment": "[Loadouts] This is the default name for a new loadout",
-		"translation": "Снаряжение X",
-		"machine": true
+		"translation": "Снаряжение X"
 	},
 	{
 		"phrase": "Power",
 		"comment": "[Loadouts] [Unit] Loadout power",
-		"translation": "Мощность",
-		"machine": true
+		"translation": "Мощность"
 	},
 	{
 		"phrase": "Block capacity",
@@ -6393,32 +6376,27 @@
 	{
 		"phrase": "Regeneration speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость регенерации",
-		"machine": true
+		"translation": "Скорость регенерации"
 	},
 	{
 		"phrase": "Movement speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость передвижения",
-		"machine": true
+		"translation": "Скорость передвижения"
 	},
 	{
 		"phrase": "Jump velocity",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость прыжка",
-		"machine": true
+		"translation": "Скорость прыжка"
 	},
 	{
 		"phrase": "Fall damage",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Повреждение при падении",
-		"machine": true
+		"translation": "Урон от падения"
 	},
 	{
 		"phrase": "Safe fall distance",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Безопасное расстояние падения",
-		"machine": true
+		"translation": "Безопасная высота падения"
 	},
 	{
 		"phrase": "Building volume",
@@ -6429,20 +6407,17 @@
 	{
 		"phrase": "Footstep volume and distance",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Громкость и расстояние шагов",
-		"machine": true
+		"translation": "Громкость и расстояние шагов"
 	},
 	{
 		"phrase": "Build distance",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Построить расстояние",
-		"machine": true
+		"translation": "Дальность строительства"
 	},
 	{
 		"phrase": "Block health",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Заблокировать здоровье",
-		"machine": true
+		"translation": "Здоровье блоков"
 	},
 	{
 		"phrase": "Self explosion damage",
@@ -6459,21 +6434,18 @@
 	{
 		"phrase": "Dig speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость копания",
-		"machine": true
+		"translation": "Скорость копания"
 	},
 	{
 		"phrase": "Blocks per dig",
 		"context": "Blocks collected per dig",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Блоки на раскоп",
-		"machine": true
+		"translation": "Блоки за копание"
 	},
 	{
 		"phrase": "Build speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость сборки",
-		"machine": true
+		"translation": "Скорость строительства"
 	},
 	{
 		"phrase": "Melee speed",
@@ -6490,14 +6462,12 @@
 	{
 		"phrase": "Left click",
 		"comment": "[Loadout] [Input Prompt]",
-		"translation": "Щелчок левой кнопкой мыши",
-		"machine": true
+		"translation": "ЛКМ"
 	},
 	{
 		"phrase": "Ctrl",
 		"comment": "[Loadout] [Input Prompt] This refers to the control key on the keyboard",
-		"translation": "Ctrl",
-		"machine": true
+		"translation": "Ctrl"
 	},
 	{
 		"phrase": "Equip primary",
@@ -6569,15 +6539,13 @@
 		"phrase": "Mag Size",
 		"context": "Magazine Size",
 		"comment": "[Loadout] [Weapon Characteristic] The amount of bullets inside a magazine",
-		"translation": "Размер магазина",
-		"machine": true
+		"translation": "Размер магазина"
 	},
 	{
 		"phrase": "Extra Ammo",
 		"context": "Extra Ammunition",
 		"comment": "[Loadout] [Weapon Characteristic] The amount of extra ammunition this gun has",
-		"translation": "Дополнительные боеприпасы",
-		"machine": true
+		"translation": "Дополнительные боеприпасы"
 	},
 	{
 		"phrase": "Direct Damage",
@@ -6594,86 +6562,72 @@
 	{
 		"phrase": "Headshot Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The amount of damage this projectile deals when it smacks a player in the noggin",
-		"translation": "Урон от выстрела в голову",
-		"machine": true
+		"translation": "Урон от выстрела в голову"
 	},
 	{
 		"phrase": "Body Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The amount of damage this projectile deals when it hits a player in the body",
-		"translation": "Повреждение тела",
-		"machine": true
+		"translation": "Урон от выстрела в тело"
 	},
 	{
 		"phrase": "Block Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The amount of damage this projectile deals when it hits a block",
-		"translation": "Блокировать урон",
-		"machine": true
+		"translation": "Урон блокам"
 	},
 	{
 		"phrase": "Reload Time",
 		"comment": "[Loadout] [Weapon Characteristic] The time taken to reload this weapon",
-		"translation": "Время перезагрузки",
-		"machine": true
+		"translation": "Время перезарядки"
 	},
 	{
 		"phrase": "s",
 		"comment": "[Unit] [Abbreviation] Abbreviation of 'Seconds', the measurement of time",
-		"translation": "s",
-		"machine": true
+		"translation": "с"
 	},
 	{
 		"phrase": "Projectile Speed",
 		"comment": "[Loadout] [Projectile Characteristic] The speed that this projectile travels",
-		"translation": "Скорость снаряда",
-		"machine": true
+		"translation": "Скорость снаряда"
 	},
 	{
 		"phrase": "bps",
 		"comment": "[Unit] [Abbreviation] Abbreviation of 'Blocks Per Second', which is how many blocks a projectile travels every second. If an abbreviation is not available, please translate the full phrase",
-		"translation": "бит \/ с",
-		"machine": true
+		"translation": "блоков \/ с"
 	},
 	{
 		"phrase": "Detection Radius",
 		"comment": "[Loadout] [Scanner Characteristic] The radius (in blocks) that a Scanner reveals enemies through walls",
-		"translation": "Радиус обнаружения",
-		"machine": true
+		"translation": "Радиус обнаружения"
 	},
 	{
 		"phrase": "Lifetime",
 		"comment": "[Unit] The amount of seconds that this scanner stays alive for",
-		"translation": "Продолжительность жизни",
-		"machine": true
+		"translation": "Продолжительность жизни"
 	},
 	{
 		"phrase": "Health",
 		"comment": "[Unit] The amount of health points that a player, block, or entity has",
-		"translation": "Здоровье",
-		"machine": true
+		"translation": "Здоровье"
 	},
 	{
 		"phrase": "Level 1",
 		"comment": "[Loadouts] [Mod Level] This is a title above the statistics list for a level 1 mod",
-		"translation": "1-й уровень",
-		"machine": true
+		"translation": "Уровень 1"
 	},
 	{
 		"phrase": "Level 2",
 		"comment": "[Loadouts] [Mod Level] This is a title above the statistics list for a level 2 mod",
-		"translation": "Уровень 2",
-		"machine": true
+		"translation": "Уровень 2"
 	},
 	{
 		"phrase": "Level 3",
 		"comment": "[Loadouts] [Mod Level] This is a title above the statistics list for a level 3 mod",
-		"translation": "Уровень 3",
-		"machine": true
+		"translation": "Уровень 3"
 	},
 	{
 		"phrase": "Explosion Radius",
 		"comment": "[Projectile Characteristic] The radius of the explosion that this projectile causes",
-		"translation": "Радиус взрыва",
-		"machine": true
+		"translation": "Радиус взрыва"
 	},
 	{
 		"phrase": "Explosions",
@@ -6750,26 +6704,22 @@
 	{
 		"phrase": "Arena",
 		"comment": "Map Name",
-		"translation": "Арена",
-		"machine": true
+		"translation": "Арена"
 	},
 	{
 		"phrase": "Shrine",
 		"comment": "Map Name",
-		"translation": "Святыня",
-		"machine": true
+		"translation": "Святыня"
 	},
 	{
 		"phrase": "Aegis Desert",
 		"comment": "Map Name",
-		"translation": "Пустыня Эгида",
-		"machine": true
+		"translation": "Пустыня Aegis"
 	},
 	{
 		"phrase": "Crashed Freighter",
 		"comment": "Map Name",
-		"translation": "Разбитое грузовое судно",
-		"machine": true
+		"translation": "Разбитое грузовое судно"
 	},
 	{
 		"phrase": "Ice Station",
@@ -6786,32 +6736,27 @@
 	{
 		"phrase": "Soltrium Temple",
 		"comment": "Map Name",
-		"translation": "Солтриум храм",
-		"machine": true
+		"translation": "Храм Солтриума"
 	},
 	{
 		"phrase": "Railway",
 		"comment": "Map Name",
-		"translation": "железная дорога",
-		"machine": true
+		"translation": "Железная дорога"
 	},
 	{
 		"phrase": "Laboratory",
 		"comment": "Map Name",
-		"translation": "Лаборатория",
-		"machine": true
+		"translation": "Лаборатория"
 	},
 	{
 		"phrase": "Canyon",
 		"comment": "[Map Name]",
-		"translation": "Каньон",
-		"machine": true
+		"translation": "Каньон"
 	},
 	{
 		"phrase": "Mining Facility",
 		"comment": "[Map Name]",
-		"translation": "Горнодобывающий комплекс",
-		"machine": true
+		"translation": "Горнодобывающий комплекс"
 	},
 	{
 		"phrase": "Sail City",
