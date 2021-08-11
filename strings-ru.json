@@ -8500,48 +8500,48 @@
 		"context": null,
 		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
 		"locations": [],
-		"translation": "Практикуйте свои навыки строительства и копания в испытаниях!\nЗавершите каждое испытание в течение указанного времени, чтобы заработать протоны и убить титулы камеры..\nДостичь ",
-		"machine": true
+		"translation": "Практикуйте свои навыки строительства и копания в испытаниях!\nЗавершите каждое испытание в течение указанного времени, чтобы заработать протоны и титулы.\nДостигните ",
+		"machine": false
 	},
 	{
 		"phrase": "Yellow",
 		"context": null,
 		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
 		"locations": [],
-		"translation": "Желтый",
-		"machine": true
+		"translation": "желтой",
+		"machine": false
 	},
 	{
 		"phrase": "Platform to win, avoid touching the",
 		"context": null,
 		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
 		"locations": [],
-		"translation": "Платформа для победы, не прикасайтесь к",
-		"machine": true
+		"translation": "платформы, чтоб победить, не прикасайтесь к",
+		"machine": false
 	},
 	{
 		"phrase": "Red",
 		"context": null,
 		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
 		"locations": [],
-		"translation": "красный",
-		"machine": true
+		"translation": "красным",
+		"machine": false
 	},
 	{
 		"phrase": "Blocks and build off the",
 		"context": null,
 		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
 		"locations": [],
-		"translation": "Блокирует и строит",
-		"machine": true
+		"translation": "блокам и стройте на",
+		"machine": false
 	},
 	{
 		"phrase": "Purple",
 		"context": null,
 		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
 		"locations": [],
-		"translation": "Фиолетовый",
-		"machine": true
+		"translation": "фиолетовых блоках",
+		"machine": false
 	},
 	{
 		"phrase": "Leaderboards are updated every 30 seconds.",
@@ -8549,23 +8549,23 @@
 		"comment": "[Trials] Leaderboard description",
 		"locations": [],
 		"translation": "Таблицы лидеров обновляются каждые 30 секунд..",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "\nLoading personal times and leaderboards",
 		"context": null,
 		"comment": "[Trials] Text that shows while loading the leaderboard",
 		"locations": [],
-		"translation": "\nЗагрузка личного времени и списков лидеров",
-		"machine": true
+		"translation": "\nЗагрузка личного времени и списка лидеров",
+		"machine": false
 	},
 	{
 		"phrase": "You have automatically voted no as you are the target",
 		"context": null,
 		"comment": "[Votekick] This text appears when you are being votekicked",
 		"locations": [],
-		"translation": "Вы автоматически проголосовали против, поскольку являетесь целью",
-		"machine": true
+		"translation": "Вы автоматически проголосовали против, поскольку являетесь целью голосования",
+		"machine": false
 	},
 	{
 		"phrase": "Vote yes",
@@ -8573,15 +8573,15 @@
 		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F1] Vote yes'",
 		"locations": [],
 		"translation": "Голосовать за",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Vote no",
 		"context": null,
 		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F2] Vote no'",
 		"locations": [],
-		"translation": "Голосовать нет",
-		"machine": true
+		"translation": "Голосовать против",
+		"machine": false
 	},
 	{
 		"phrase": "Ignore",
@@ -8589,7 +8589,7 @@
 		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F3] Ignore'",
 		"locations": [],
 		"translation": "Игнорировать",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Unlocking",
