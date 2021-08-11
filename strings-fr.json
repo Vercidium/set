@@ -228,7 +228,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Aide localisation",
+		"translation": "Aide à la localisation",
 		"machine": false
 	},
 	{
@@ -292,8 +292,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Récupération",
-		"machine": true
+		"translation": "Salvage",
+		"machine": false
 	},
 	{
 		"phrase": "Round win",
@@ -460,8 +460,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Rien",
-		"machine": true
+		"translation": "Aucun",
+		"machine": false
 	},
 	{
 		"phrase": "Playing",
@@ -508,7 +508,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Capture de Zones",
+		"translation": "Breakthrough",
 		"machine": false
 	},
 	{
@@ -516,7 +516,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Zone Mobile",
+		"translation": "Control Shift",
 		"machine": false
 	},
 	{
@@ -549,7 +549,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "spire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Static",
@@ -604,8 +604,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Débranché",
-		"machine": true
+		"translation": "déconnecté",
+		"machine": false
 	},
 	{
 		"phrase": "EAC Violation",
@@ -676,8 +676,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Interdit temporairement",
-		"machine": true
+		"translation": "Banni temporairement",
+		"machine": false
 	},
 	{
 		"phrase": "Version mismatch",
@@ -692,16 +692,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Expulsé des votes",
-		"machine": true
+		"translation": "Expulsé par votes",
+		"machine": false
 	},
 	{
 		"phrase": "Votekick still in effect",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Votekick toujours en vigueur",
-		"machine": true
+		"translation": "Votekick toujours en effet",
+		"machine": false
 	},
 	{
 		"phrase": "Incorrect password",
@@ -796,8 +796,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Remplacement de bot",
-		"machine": true
+		"translation": "Remplacement par un bot",
+		"machine": false
 	},
 	{
 		"phrase": "Accelerator",
@@ -812,16 +812,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Diviseur faisceau",
-		"machine": true
+		"translation": "Diviseur de faisceau",
+		"machine": false
 	},
 	{
 		"phrase": "Choke",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Étouffer",
-		"machine": true
+		"translation": "choke de précision",
+		"machine": false
 	},
 	{
 		"phrase": "Compressor",
@@ -844,8 +844,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Élargi",
-		"machine": true
+		"translation": "allongé",
+		"machine": false
 	},
 	{
 		"phrase": "Resonator",
@@ -892,16 +892,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Supprimé",
-		"machine": true
+		"translation": "retiré",
+		"machine": false
 	},
 	{
 		"phrase": "Stubby",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Trapu",
-		"machine": true
+		"translation": "vertical",
+		"machine": false
 	},
 	{
 		"phrase": "Augmented",
@@ -924,8 +924,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Éclater",
-		"machine": true
+		"translation": "rafale",
+		"machine": false
 	},
 	{
 		"phrase": "Lethal",
@@ -972,16 +972,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Limace",
-		"machine": true
+		"translation": "Slug",
+		"machine": false
 	},
 	{
 		"phrase": "Tow",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Remorquer",
-		"machine": true
+		"translation": "Tow",
+		"machine": false
 	},
 	{
 		"phrase": "Corrosive",
@@ -1036,8 +1036,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Avancée",
-		"machine": true
+		"translation": "Avancé",
+		"machine": false
 	},
 	{
 		"phrase": "Welded",
@@ -1076,8 +1076,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tireur d'élite",
-		"machine": true
+		"translation": "Sniper",
+		"machine": false
 	},
 	{
 		"phrase": "Rifle",
@@ -1276,8 +1276,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Vide plus",
-		"machine": true
+		"translation": "Plus vide",
+		"machine": false
 	},
 	{
 		"phrase": "Empty T",
@@ -1364,8 +1364,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Des bois",
-		"machine": true
+		"translation": "bois",
+		"machine": false
 	},
 	{
 		"phrase": "Hot Metal",
@@ -1452,8 +1452,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce fusil de chasse à mi-longue a du punch à de plus longues distances.\nLors de la portée, sa propagation de granulés réduira de 70 % en 3,0 secondes.",
-		"machine": true
+		"translation": "Ce fusil à pompe à mi-longue portée a du punch à de plus longues distances.\nPendant la visée, sa propagation de granulés réduira de 70 % en 3,0 secondes.",
+		"machine": false
 	},
 	{
 		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
@@ -1484,16 +1484,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Technologie Agaman qui coupe instantanément les blocs.",
-		"machine": true
+		"translation": "Technologie Agaman qui coupe instantanément à travers les blocs.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme de moyenne portée a un grand clip pour un tir de suppression.\nSurchauffe après 50 prises de vue en continu",
-		"machine": true
+		"translation": "Cette arme de moyenne portée a un grand chargeur pour un tir de suppression.\nSurchauffe après 50 tirs en continu",
+		"machine": false
 	},
 	{
 		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
@@ -1508,8 +1508,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Placer des blocs avec cet outil.",
-		"machine": true
+		"translation": "Place des blocs avec cet outil.",
+		"machine": false
 	},
 	{
 		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
@@ -1532,24 +1532,24 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme à courte portée et moyenne tire rapidement mais a un petit chargeur.",
-		"machine": true
+		"translation": "Cette arme à courte et moyenne portée tire rapidement mais a un petit chargeur.",
+		"machine": false
 	},
 	{
 		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Technologie légère d'agaman. tir rapide, coup dur.",
-		"machine": true
+		"translation": "Technologie légère d'agaman. tir rapide, frappe dur.",
+		"machine": false
 	},
 	{
 		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Technologie lourde d'agaman. tire une boule de plasma percutante.",
-		"machine": true
+		"translation": "Technologie lourde d'agaman. tire une boule de plasma puissante.",
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
@@ -1564,16 +1564,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme à courte portée percutante contient un puissant noyau de soltrium.",
-		"machine": true
+		"translation": "Cette arme à courte portée puissante contient un puissant noyau de soltrium.",
+		"machine": false
 	},
 	{
 		"phrase": "Such a small gun. Such a massive boom.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Une si petite arme. un tel boom.",
-		"machine": true
+		"translation": "Une si petite arme. un si grand boom.",
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
@@ -1588,32 +1588,32 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lance un orbe de balayage flottant qui clignote toutes les deux secondes, révélant les ennemis à travers les murs.\nLes orbes du scanner peuvent être tirés par les joueurs ennemis.",
-		"machine": true
+		"translation": "Lance un orbe de scanner flottant qui clignote toutes les deux secondes, révélant les ennemis à travers les murs.\nLes orbes du scanner peuvent être detruites par les joueurs ennemis.",
+		"machine": false
 	},
 	{
 		"phrase": "This close ranged weapon creates a blast of shrapnel.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme à courte portée crée une explosion d'éclats d'obus.",
-		"machine": true
+		"translation": "Cette arme à courte portée crée une explosion d'éclats de shrapnel.",
+		"machine": false
 	},
 	{
 		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme à courte portée moyenne a du punch. attention au recul.",
-		"machine": true
+		"translation": "Cette arme à courte et moyenne portée a du punch. attention au recul.",
+		"machine": false
 	},
 	{
 		"phrase": "Place block structures with this tool.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Placer des structures de blocs avec cet outil.",
-		"machine": true
+		"translation": "Place des structures de blocs avec cet outil.",
+		"machine": false
 	},
 	{
 		"phrase": "Attaches to walls. Right click to pull the wall down.",
@@ -1628,8 +1628,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Imeuble",
-		"machine": true
+		"translation": "construction",
+		"machine": false
 	},
 	{
 		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
@@ -2053,30 +2053,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Confirmer",
-		"machine": true
-	},
-	{
-		"phrase": "An update is available. Close the game and update the game through",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Une mise à jour est disponible. fermez le jeu et mettez à jour le jeu via",
-		"machine": true
-	},
-	{
-		"phrase": "Connection to",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Connection à",
-		"machine": true
-	},
-	{
-		"phrase": "failed. Online play is unavailable",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "échoué. Le jeu en ligne n'est pas disponible",
 		"machine": true
 	},
 	{
@@ -2632,14 +2608,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Open",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ouvert",
-		"machine": true
-	},
-	{
 		"phrase": "Custom",
 		"context": null,
 		"comment": null,
@@ -2864,14 +2832,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Extra Logging",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Journalisation supplémentaire",
-		"machine": true
-	},
-	{
 		"phrase": "Input",
 		"context": null,
 		"comment": null,
@@ -2997,14 +2957,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Afficher l'ATH",
-		"machine": true
-	},
-	{
-		"phrase": "Show Kill Feed",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Afficher le flux d'élimination",
 		"machine": true
 	},
 	{
@@ -3448,14 +3400,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "High Quality Meshing",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Maillage de haute qualité",
-		"machine": true
-	},
-	{
 		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
 		"context": null,
 		"comment": null,
@@ -3592,27 +3536,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Max Lights",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Lumières maximales",
-		"machine": true
-	},
-	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Le monde est illuminé par les lumières du soleil, les lumières de blocage et les éclairs de bouche des armes à feu. réduire la quantité maximale de lumières pouvant être rendues augmentera les FPS",
-		"machine": true
-	},
-	{
-		"phrase": "Max FPS",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "FPS maximum",
 		"machine": true
 	},
 	{
@@ -3624,27 +3552,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable SSAO",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Activer SSAO",
-		"machine": true
-	},
-	{
 		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "L'occlusion ambiante de l'espace de l'écran assombrit les interstices entre les objets",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Bloom",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Activer la floraison",
 		"machine": true
 	},
 	{
@@ -3656,35 +3568,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Bloom On Optics",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Activer le bloom sur l'optique",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Crepuscular Rays",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Activer les rayons crépusculaires",
-		"machine": true
-	},
-	{
 		"phrase": "Crepuscular rays are shafts of lights that originate from a star",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Les rayons crépusculaires sont des faisceaux de lumière qui proviennent d'une étoile",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Shadows",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Activer les ombres",
 		"machine": true
 	},
 	{
@@ -3736,27 +3624,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Multisampling",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Activer le multi-échantillonnage",
-		"machine": true
-	},
-	{
 		"phrase": "Multisampling smooths the edges of objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Le multi-échantillonnage lisse les bords des objets",
-		"machine": true
-	},
-	{
-		"phrase": "Bare Minimum",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Le strict minimum",
 		"machine": true
 	},
 	{
@@ -3776,14 +3648,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Compress Textures",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Compresser les textures",
-		"machine": true
-	},
-	{
 		"phrase": "Compressing textures will use less memory on the GPU but the game will take longer to start up",
 		"context": null,
 		"comment": null,
@@ -3800,14 +3664,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Safe Mode",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Activer le mode sans échec",
-		"machine": true
-	},
-	{
 		"phrase": "Safe Mode prevents crashes from closing the game, but may slow the game down slightly",
 		"context": null,
 		"comment": null,
@@ -3816,27 +3672,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable VSync",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Activer VSync",
-		"machine": true
-	},
-	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "La synchronisation verticale fait correspondre le taux de mise à jour du jeu au taux de rafraîchissement de votre moniteur. l'activation de cela peut corriger le déchirement de l'écran",
-		"machine": true
-	},
-	{
-		"phrase": "Dynamic Exposure",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Exposition dynamique",
 		"machine": true
 	},
 	{
@@ -3880,14 +3720,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Only Scroll Weapons",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Faire défiler uniquement les armes",
-		"machine": true
-	},
-	{
 		"phrase": "If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools",
 		"context": null,
 		"comment": null,
@@ -3912,27 +3744,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Low Quality Textures",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Textures de mauvaise qualité",
-		"machine": true
-	},
-	{
 		"phrase": "Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "L'activation de cette option réduira la résolution de la texture pour augmenter les FPS et réduire l'utilisation de la mémoire. la désactivation nécessite un redémarrage pour prendre effet",
-		"machine": true
-	},
-	{
-		"phrase": "SSAO Samples",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Échantillons SSAO",
 		"machine": true
 	},
 	{
@@ -3944,27 +3760,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Player Name Distance",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Distance du nom du joueur",
-		"machine": true
-	},
-	{
 		"phrase": "This controls how far away friendly names will show",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Cela contrôle à quelle distance les noms conviviaux s'afficheront",
-		"machine": true
-	},
-	{
-		"phrase": "Midi Counts as Weapon",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Le midi compte comme une arme",
 		"machine": true
 	},
 	{
@@ -3992,27 +3792,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Game Resolution",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Résolution du jeu",
-		"machine": true
-	},
-	{
 		"phrase": "Reducing this will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Réduire cela augmentera les FPS",
-		"machine": true
-	},
-	{
-		"phrase": "Override Resolution",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Remplacer la résolution",
 		"machine": true
 	},
 	{
@@ -4024,52 +3808,28 @@
 		"machine": true
 	},
 	{
-		"phrase": "Smooth Scaling",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Mise à l'échelle en douceur",
-		"machine": true
-	},
-	{
 		"phrase": "Enabling this will reduce the pixelation of lower game resolutions",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "L'activation de cela réduira la pixellisation des résolutions de jeu inférieures",
-		"machine": true
-	},
-	{
-		"phrase": "NVIDIA OpenGL Extensions",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Extensions NVIDIA openGL",
-		"machine": true
+		"translation": "Activer ceci peut réduire la pixellisation des résolutions de jeu inférieures",
+		"machine": false
 	},
 	{
 		"phrase": "Experimental performance setting, may crash your game. Don't enable if you haven't been told to",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Le paramètre de performance expérimental peut faire planter votre jeu. ne pas activer si on ne vous l'a pas dit",
-		"machine": true
-	},
-	{
-		"phrase": "Beta Rendering",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Rendu bêta",
-		"machine": true
+		"translation": "Le paramètre de performance expérimental, peut faire planter votre jeu. Ne pas activer si on ne vous l'a pas dit",
+		"machine": false
 	},
 	{
 		"phrase": "New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Nouveau pipeline de rendu. veuillez faire savoir à Vercidium dans Discord si le jeu s'exécute plus rapidement\/plus lentement avec cette option activée",
-		"machine": true
+		"translation": "Nouveau pipeline de rendu. Veuillez faire savoir à Vercidium dans Discord si le jeu s'exécute plus rapidement\/lentement avec cette option activée",
+		"machine": false
 	},
 	{
 		"phrase": "Enable this to make",
@@ -4077,15 +3837,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Activez ceci pour faire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "dig single blocks and",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "creuser des blocs simples et",
-		"machine": true
+		"translation": "creuser des blocs un par un et",
+		"machine": false
 	},
 	{
 		"phrase": "dig a 3x3x3 area",
@@ -4093,15 +3853,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "creuser une zone 3x3x3",
-		"machine": true
-	},
-	{
-		"phrase": "Show Enemies on Zone Bar",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Afficher les ennemis sur la barre de zone",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Character",
@@ -4109,15 +3861,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Personnage",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Ship",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Bateau",
-		"machine": true
+		"translation": "Vaisseau",
+		"machine": false
 	},
 	{
 		"phrase": "Loadouts",
@@ -4125,7 +3877,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Chargements",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Weapons",
@@ -4133,7 +3885,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Armes",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Killcam",
@@ -4141,7 +3893,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Killcam",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Blocks",
@@ -4149,23 +3901,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Blocs",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Playtime",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Récréation",
-		"machine": true
+		"translation": "Temps de jeu",
+		"machine": false
 	},
 	{
 		"phrase": "Matches",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Allumettes",
-		"machine": true
+		"translation": "Matches",
+		"machine": false
 	},
 	{
 		"phrase": "Kills",
@@ -4180,8 +3932,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Des morts",
-		"machine": true
+		"translation": "Morts",
+		"machine": false
 	},
 	{
 		"phrase": "Assists",
@@ -4189,7 +3941,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Aides",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Headshots",
@@ -4213,7 +3965,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Peau",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Red dot",
@@ -4221,7 +3973,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "point rouge",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Camo",
@@ -4237,7 +3989,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Métal",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Barrel",
@@ -4245,7 +3997,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Baril",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Drag to rotate",
@@ -4253,7 +4005,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Faites glisser pour faire pivoter",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Join",
@@ -4261,55 +4013,55 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Rejoindre",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu est appelé récupération. deux équipes contestent une boîte contenant une ressource précieuse appelée soltrium.",
-		"machine": true
+		"translation": "Ce mode de jeu est appelé Salvage. Deux équipes contestent une boîte contenant une ressource précieuse appelée Soltrium.",
+		"machine": false
 	},
 	{
 		"phrase": "The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "L'équipe avec le plus de joueurs près de la cartouche extraira le soltrium et gagnera des points pour son équipe. cela se voit en haut de l'écran.",
-		"machine": true
+		"translation": "L'équipe avec le plus de joueurs près de la boîte extraira le Soltrium et gagnera des points pour son équipe. Ceci se voit en haut de l'écran.",
+		"machine": false
 	},
 	{
 		"phrase": "When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lorsqu'une cartouche est épuisée, une nouvelle apparaîtra ailleurs. la première équipe à atteindre 500 points gagne!",
-		"machine": true
+		"translation": "Lorsqu'une boîte est épuisée, une nouvelle apparaîtra ailleurs. La première équipe à atteindre 500 points gagne!",
+		"machine": false
 	},
 	{
 		"phrase": "Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Les bonus de munitions tombent lorsqu'un joueur meurt. ramassez-les pour obtenir des munitions supplémentaires pour vos armes et gagnez 2 points pour votre équipe.",
-		"machine": true
+		"translation": "Les bonus de munitions tombent lorsqu'un joueur meurt. Ramassez-les pour obtenir des munitions supplémentaires pour vos armes et gagnez 2 points pour votre équipe.",
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Breakthrough. To win, your team must control all five zones.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu est appelé percée. pour gagner, votre équipe doit contrôler les cinq zones.",
-		"machine": true
+		"translation": "Ce mode de jeu est appelé Breakthrough. Pour gagner, votre équipe doit contrôler les cinq zones.",
+		"machine": false
 	},
 	{
 		"phrase": "When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lorsqu'une zone est capturée par votre équipe, elle sera gelée jusqu'à 20 secondes. tant qu'il est gelé, l'ennemi ne peut pas le reprendre, ce qui donne à votre équipe la possibilité d'avancer dans la zone suivante.",
-		"machine": true
+		"translation": "Lorsqu'une zone est capturée par votre équipe, elle sera gelée jusqu'à 20 secondes. Tant qu'elle est gelée, l'ennemi ne peut pas le reprendre, ce qui donne à votre équipe la possibilité d'avancer dans la zone suivante.",
+		"machine": false
 	},
 	{
 		"phrase": "Zones must be captured in order and cannot be back-capped.",
@@ -4324,8 +4076,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu est appelé control shift. il y a une zone et l'objectif est de repousser cette zone jusqu'en territoire ennemi.",
-		"machine": true
+		"translation": "Ce mode de jeu est appelé Control Shift. Il y a une zone et l'objectif est de pousser cette zone jusqu'au bout du territoire ennemi.",
+		"machine": false
 	},
 	{
 		"phrase": "The zone will begin moving when one team has more players inside it than the other.",
@@ -4333,15 +4085,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "La zone commencera à bouger lorsqu'une équipe aura plus de joueurs à l'intérieur que l'autre.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Escort. To win, your team must deliver 3 bombs.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu s'appelle escorte. pour gagner, votre équipe doit livrer 3 bombes.",
-		"machine": true
+		"translation": "Ce mode de jeu s'appelle Escort. Pour gagner, votre équipe doit livrer 3 bombes.",
+		"machine": false
 	},
 	{
 		"phrase": "Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.",
@@ -4349,31 +4101,31 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Chaque équipe a une bombe qu'elle doit ramasser de son côté de la carte et livrer au site de bombe ennemi.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "You can either escort your bomb carrier, or defend your bomb site from the enemy.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Vous pouvez soit escorter votre porte-bombes, soit défendre votre site de bombes contre l'ennemi.",
-		"machine": true
+		"translation": "Vous pouvez soit escorter votre porteur de bombes, soit défendre votre site de bombes contre l'ennemi.",
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Capture the Flag. Each team has a flag that they must defend.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu s'appelle capturer le drapeau. chaque équipe a un drapeau qu'elle doit défendre.",
-		"machine": true
+		"translation": "Ce mode de jeu s'appelle Capture the Flag. Chaque équipe à un drapeau qu'elle doit défendre.",
+		"machine": false
 	},
 	{
 		"phrase": "To win your team must steal the enemy flag and take it back to your base 3 times.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Pour gagner votre équipe doit voler le drapeau ennemi et le ramener à votre base 3 fois.",
-		"machine": true
+		"translation": "Pour gagner, votre équipe doit voler le drapeau ennemi et le ramener à votre base 3 fois.",
+		"machine": false
 	},
 	{
 		"phrase": "You can either infiltrate the enemy base, or defend your flag from the enemy.",
@@ -4381,47 +4133,47 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Vous pouvez soit infiltrer la base ennemie, soit défendre votre drapeau contre l'ennemi.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu est appelé jeu d'armes à feu. chaque joueur commence avec la même arme et passe à l'arme suivante après avoir tué 2.",
-		"machine": true
+		"translation": "Ce mode de jeu s'appelle Gun Game. Chaque joueur commence avec la même arme et passe à l'arme suivante après avoir tué 2 ennemis.",
+		"machine": false
 	},
 	{
 		"phrase": "The stage that each player is up to is shown at the top of the screen.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Le stade auquel chaque joueur est parvenu est affiché en haut de l'écran.",
-		"machine": true
+		"translation": "L'étape auquel chaque joueur est parvenu est affiché en haut de l'écran.",
+		"machine": false
 	},
 	{
 		"phrase": "To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Pour gagner, vous devez passer au niveau 11, puis tuer un ennemi avec votre pelleteuse ou votre couteau.",
-		"machine": true
+		"translation": "Pour gagner, vous devez passer à l'étape 11, puis tuer un ennemi avec votre pelleteuse ou votre couteau.",
+		"machine": false
 	},
 	{
 		"phrase": "When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lorsque vous mourez d'envie de tomber ou d'un excavateur\/couteau ennemi, vous serez renvoyé d'une étape.",
-		"machine": true
+		"translation": "Lorsque vous mourez en tombant de haut ou d'une pelleteuse\/couteau ennemi, vous serez renvoyé d'une étape.",
+		"machine": false
 	},
 	{
 		"phrase": "This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu gratuit pour tous est appelé chasseur de têtes. pour gagner, vous devez tenir le plus de soltrium lorsque le temps imparti est écoulé.",
-		"machine": true
+		"translation": "Ce mode de jeu chacun pour soi est appelé Head Hunter. Pour gagner, vous devez tenir le plus de Soltrium lorsque le temps imparti est écoulé.",
+		"machine": false
 	},
 	{
 		"phrase": "Each player starts with nothing and collects weapons and mods from around the map.",
@@ -4429,31 +4181,31 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Chaque joueur commence avec rien et récupère des armes et des mods de partout sur la carte.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "When a player dies, they will drop their weapons, half their Soltrium and half their mods.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Quand un joueur meurt, il lâchera ses armes, la moitié de son soltrium et la moitié de ses mods.",
-		"machine": true
+		"translation": "Quand un joueur meurt, il lâchera ses armes, la moitié de son Soltrium et la moitié de ses mods.",
+		"machine": false
 	},
 	{
 		"phrase": "Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ramassez le soltrium pour gagner, mais faites attention car le joueur avec le plus de soltrium sera révélé à tout le monde.",
-		"machine": true
+		"translation": "Ramassez le Soltrium pour gagner, mais faites attention car le joueur avec le plus de Soltrium sera révélé à tout le monde.",
+		"machine": false
 	},
 	{
 		"phrase": "This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu d'arène s'appelle spire. pour gagner, vous devez éliminer l'équipe ennemie 5 fois.",
-		"machine": true
+		"translation": "Ce mode de jeu d'arène s'appelle Spire. Pour gagner, vous devez éliminer l'équipe ennemie 5 fois.",
+		"machine": false
 	},
 	{
 		"phrase": "Each player starts with nothing and must build into the sky to pick up weapons.",
@@ -4461,39 +4213,39 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Chaque joueur commence avec rien et doit construire dans le ciel pour ramasser des armes.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce mode de jeu en arène est appelé statique. pour gagner, vous devez éliminer l'équipe ennemie 5 fois.",
-		"machine": true
+		"translation": "Ce mode de jeu d'arène s'appelle Static. Pour gagner, vous devez éliminer l'équipe ennemie 5 fois.",
+		"machine": false
 	},
 	{
 		"phrase": "Each player shares the same loadout, which is randomised each round.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Chaque joueur partage le même chargement, qui est randomisé à chaque tour.",
-		"machine": true
+		"translation": "Chaque joueur partage le même chargement, qui est aléatoire à chaque tour.",
+		"machine": false
 	},
 	{
 		"phrase": "Press space to continue",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "appuie sur Espace pour continuer",
-		"machine": true
+		"translation": "Appuyez sur Espace pour continuer",
+		"machine": false
 	},
 	{
 		"phrase": "Return to battle",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Retour au combat",
-		"machine": true
+		"translation": "Retournez au combat",
+		"machine": false
 	},
 	{
 		"phrase": "Round won!",
@@ -4508,16 +4260,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "presse",
-		"machine": true
+		"translation": "Appuyez",
+		"machine": false
 	},
 	{
 		"phrase": "Or",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ou alors",
-		"machine": true
+		"translation": "Ou",
+		"machine": false
 	},
 	{
 		"phrase": "Pick up equipment",
@@ -4525,7 +4277,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ramasser le matériel",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pick up primary",
@@ -4533,7 +4285,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ramasser le primaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pick up secondary",
@@ -4541,7 +4293,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ramasser le secondaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Player ready",
@@ -4549,7 +4301,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Joueur prêt",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Players ready",
@@ -4557,15 +4309,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Joueurs prêts",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Starting in",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "À partir de",
-		"machine": true
+		"translation": "Démarrage dans",
+		"machine": false
 	},
 	{
 		"phrase": "Second",
@@ -4573,7 +4325,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Seconde",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Available",
@@ -4581,7 +4333,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Disponible",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Leave killcam",
@@ -4589,7 +4341,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Quitter la killcam",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Redeploy",
@@ -4597,7 +4349,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Redéployer",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Spectate",
@@ -4605,7 +4357,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Spectateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Report player",
@@ -4613,15 +4365,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Signaler un joueur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Lobby panel",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Panneau du hall",
-		"machine": true
+		"translation": "Panneau de lobby",
+		"machine": false
 	},
 	{
 		"phrase": "Settings",
@@ -4629,7 +4381,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Paramètres",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Submit feedback",
@@ -4637,7 +4389,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Soumettre des commentaires",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Disconnect",
@@ -4645,7 +4397,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Déconnecter",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Contest the canister",
@@ -4660,16 +4412,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Drapeau de retour",
-		"machine": true
+		"translation": "Renvoi du drapeau",
+		"machine": false
 	},
 	{
 		"phrase": "Defusing bomb",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Bombe de désamorçage",
-		"machine": true
+		"translation": "Désamorçage de la bombe",
+		"machine": false
 	},
 	{
 		"phrase": "You are carrying the flag",
@@ -4677,7 +4429,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Vous portez le drapeau",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "You are carrying the bomb",
@@ -4685,15 +4437,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Vous portez la bombe",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "To drop the flag",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Pour déposer le drapeau",
-		"machine": true
+		"translation": "Pour lâcher le drapeau",
+		"machine": false
 	},
 	{
 		"phrase": "To drop the bomb",
@@ -4701,7 +4453,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Pour lâcher la bombe",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Stage",
@@ -4733,15 +4485,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Équiper en tant que primaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Equip as secondary",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Équiper comme secondaire",
-		"machine": true
+		"translation": "Équiper en tant que secondaire",
+		"machine": false
 	},
 	{
 		"phrase": "Edit loadouts",
@@ -4749,7 +4501,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Modifier les chargements",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Modify a structure to continue",
@@ -4757,31 +4509,31 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Modifier une structure pour continuer",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Head over to the shooting range",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Rendez-vous au stand de tir",
-		"machine": true
+		"translation": "Allez au stand de tir",
+		"machine": false
 	},
 	{
 		"phrase": "Select a weapon from the gun rack",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Sélectionnez une arme dans le râtelier",
-		"machine": true
+		"translation": "Sélectionnez une arme dans l'étagère",
+		"machine": false
 	},
 	{
 		"phrase": "Shoot the targets and try different weapons. Press",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tirez sur les cibles et essayez différentes armes. presse",
-		"machine": true
+		"translation": "Tirez sur les cibles et essayez différentes armes. Appuyez",
+		"machine": false
 	},
 	{
 		"phrase": "To set up a loadout",
@@ -4789,39 +4541,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Pour configurer un chargement",
-		"machine": true
-	},
-	{
-		"phrase": "Play a Match",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Jouer un match",
-		"machine": true
-	},
-	{
-		"phrase": "Enter Trials",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Entrez dans les essais",
-		"machine": true
-	},
-	{
-		"phrase": "Replay Tutorial",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Rejouer le didacticiel",
-		"machine": true
-	},
-	{
-		"phrase": "Reset Ship",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Réinitialiser le navire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Level",
@@ -4829,23 +4549,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Niveau",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Tag",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Étiqueter",
-		"machine": true
+		"translation": "Étiquette",
+		"machine": false
 	},
 	{
 		"phrase": "Tags",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Mots clés",
-		"machine": true
+		"translation": "Étiquettes",
+		"machine": false
 	},
 	{
 		"phrase": "Loadout",
@@ -4853,15 +4573,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Chargement",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Killed by",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tue par",
-		"machine": true
+		"translation": "Tué par",
+		"machine": false
 	},
 	{
 		"phrase": "Join the battle",
@@ -4869,15 +4589,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Rejoignez la bataille",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Linking your Twitch account",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lier votre compte twitch",
-		"machine": true
+		"translation": "Lier votre compte Twitch",
+		"machine": false
 	},
 	{
 		"phrase": "Summary",
@@ -4885,7 +4605,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Résumé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Creator Code (Optional)",
@@ -4893,7 +4613,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Code créateur (facultatif)",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Friend username",
@@ -4901,7 +4621,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Nom d'utilisateur de l'ami",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Resources loading in the background",
@@ -4909,7 +4629,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Chargement des ressources en arrière-plan",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Magazine",
@@ -4917,7 +4637,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Magazine",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Block",
@@ -4925,7 +4645,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Bloquer",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Account",
@@ -4933,7 +4653,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Compte",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Refreshing",
@@ -4941,39 +4661,39 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Rafraîchissant",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Refresh statistics",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Actualiser les statistiques",
-		"machine": true
+		"translation": "Rafraîchir les statistiques",
+		"machine": false
 	},
 	{
 		"phrase": "Character token",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Caractère symbolique",
-		"machine": true
+		"translation": "Jeton de personnage",
+		"machine": false
 	},
 	{
 		"phrase": "Character tokens",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Jetons de caractères",
-		"machine": true
+		"translation": "Jetons de personnage",
+		"machine": false
 	},
 	{
 		"phrase": "Player statistics",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Statistiques des joueurs",
-		"machine": true
+		"translation": "Statistiques de joueur",
+		"machine": false
 	},
 	{
 		"phrase": "Transaction log",
@@ -4981,15 +4701,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Journal des transactions",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Redeem key",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Échanger la clé",
-		"machine": true
+		"translation": "Activer une clé",
+		"machine": false
 	},
 	{
 		"phrase": "Provide feedback",
@@ -4997,7 +4717,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Fournir une réponse",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "View inventory",
@@ -5005,7 +4725,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Afficher l'inventaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Link",
@@ -5013,7 +4733,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Relier",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Recoil",
@@ -5021,7 +4741,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Recul",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Stationary recoil",
@@ -5029,7 +4749,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "recul stationnaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Holster time",
@@ -5037,15 +4757,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Temps de l'étui",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "ADS time",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Heure ADS",
-		"machine": true
+		"translation": "Temps ADS",
+		"machine": false
 	},
 	{
 		"phrase": "Initial recoil",
@@ -5053,7 +4773,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "recul initial",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Shot recoil ramp",
@@ -5061,7 +4781,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Rampe de recul de tir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Loadout power",
@@ -5069,7 +4789,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Puissance de chargement",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Damage range",
@@ -5077,7 +4797,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Plage de dégâts",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Projectile speed",
@@ -5085,7 +4805,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Vitesse du projectile",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Minimap invisibility",
@@ -5093,23 +4813,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Invisibilité de la mini-carte",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pellets",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Granulés",
-		"machine": true
+		"translation": "Plombs",
+		"machine": false
 	},
 	{
 		"phrase": "Pellet spread",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Pâte à tartiner",
-		"machine": true
+		"translation": "Propagation du plomb",
+		"machine": false
 	},
 	{
 		"phrase": "Reload",
@@ -5117,15 +4837,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Recharger",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Rounds",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Les manches",
-		"machine": true
+		"translation": "Balles",
+		"machine": false
 	},
 	{
 		"phrase": "Player damage (body)",
@@ -5133,23 +4853,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Dégâts du joueur (corps)",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Player damage (head)",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Dommages au joueur (tête)",
-		"machine": true
+		"translation": "Dégâts au joueur (tête)",
+		"machine": false
 	},
 	{
 		"phrase": "Block damage",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Bloquer les dégâts",
-		"machine": true
+		"translation": "Dégâts au blocs",
+		"machine": false
 	},
 	{
 		"phrase": "RPM",
@@ -5157,23 +4877,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "RPM",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pellet count",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Comptage de granulés",
-		"machine": true
+		"translation": "Nombre de plombs",
+		"machine": false
 	},
 	{
 		"phrase": "Damages through blocks and players",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Dommages causés par les blocs et les joueurs",
-		"machine": true
+		"translation": "Dégats à travers les blocs et les joueurs",
+		"machine": false
 	},
 	{
 		"phrase": "Bounces 3 times",
@@ -5181,7 +4901,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Rebondit 3 fois",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Choke time",
@@ -5189,15 +4909,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Temps d'étouffement",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Choked spread",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Pâte à tartiner étouffée",
-		"machine": true
+		"translation": "Propagation étouffée",
+		"machine": false
 	},
 	{
 		"phrase": "Choke resets when firing",
@@ -5205,15 +4925,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Le starter se réinitialise lors du tir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Welded choke",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "starter soudé",
-		"machine": true
+		"translation": "Starter soudé",
+		"machine": false
 	},
 	{
 		"phrase": "Automatic fire",
@@ -5221,7 +4941,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Feu automatique",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Stats",
@@ -5229,7 +4949,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Statistiques",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Forwards",
@@ -5237,7 +4957,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Avant",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Right",
@@ -5245,15 +4965,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Droite",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Backwards",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "En arrière",
-		"machine": true
+		"translation": "Arrière",
+		"machine": false
 	},
 	{
 		"phrase": "Crouch",
@@ -5261,7 +4981,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Accroupissement",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Jump",
@@ -5269,7 +4989,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Saut",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sprint",
@@ -5277,7 +4997,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Sprint",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Slide",
@@ -5285,7 +5005,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Glisser",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pick Up Primary",
@@ -5293,7 +5013,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ramasser le primaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pick Up Secondary",
@@ -5301,7 +5021,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ramasser le secondaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Ping",
@@ -5309,47 +5029,47 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ping",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Ping (Enemy)",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ping (ennemi)",
-		"machine": true
+		"translation": "Ping (Ennemi)",
+		"machine": false
 	},
 	{
 		"phrase": "Ping (Caution)",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ping (attention)",
-		"machine": true
+		"translation": "Ping (Attention)",
+		"machine": false
 	},
 	{
 		"phrase": "Ping (Help)",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ping (aide)",
-		"machine": true
+		"translation": "Ping (Aide)",
+		"machine": false
 	},
 	{
 		"phrase": "Ping (Reinforce)",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ping (renforcer)",
-		"machine": true
+		"translation": "Ping (Renforcer)",
+		"machine": false
 	},
 	{
 		"phrase": "Ping (Destroy)",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ping (détruire)",
-		"machine": true
+		"translation": "Ping (Détruire)",
+		"machine": false
 	},
 	{
 		"phrase": "Shoot",
@@ -5357,7 +5077,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Tirer",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Scope",
@@ -5365,7 +5085,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Portée",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Melee",
@@ -5373,7 +5093,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Mêlée",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Grenade",
@@ -5381,7 +5101,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Grenade",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Midi",
@@ -5389,7 +5109,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Midi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Digger",
@@ -5397,7 +5117,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Excavateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure (Radial)",
@@ -5405,7 +5125,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure (radiale)",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure (Toggle)",
@@ -5413,7 +5133,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure (basculer)",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 1",
@@ -5421,7 +5141,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 1",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 2",
@@ -5429,7 +5149,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 2",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 3",
@@ -5437,7 +5157,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 3",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 4",
@@ -5445,7 +5165,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 4",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 5",
@@ -5453,7 +5173,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 5",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 6",
@@ -5461,7 +5181,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 6",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 7",
@@ -5469,7 +5189,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 7",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 8",
@@ -5477,7 +5197,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 8",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Structure 9",
@@ -5485,7 +5205,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Structure 9",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Primary",
@@ -5493,7 +5213,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Primaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Secondary",
@@ -5501,7 +5221,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Secondaire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Switch To Last Tool",
@@ -5509,7 +5229,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Passer au dernier outil",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Next Tool",
@@ -5517,7 +5237,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Outil suivant",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Previous Tool",
@@ -5525,7 +5245,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Outil précédent",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Team Chat",
@@ -5533,7 +5253,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Chat d'équipe",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "View Scoreboard",
@@ -5541,15 +5261,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Voir le tableau de bord",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Unlock Scoreboard",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Débloquer le tableau de bord",
-		"machine": true
+		"translation": "Déverrouiller le tableau de bord",
+		"machine": false
 	},
 	{
 		"phrase": "View Map",
@@ -5557,7 +5277,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Voir la carte",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Menu",
@@ -5565,7 +5285,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Menu",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Toggle Fullscreen",
@@ -5573,7 +5293,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Passer en plein écran",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Toggle UI",
@@ -5581,7 +5301,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Basculer l'interface utilisateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Toggle Chat",
@@ -5589,7 +5309,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Basculer le chat",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Toggle Killfeed",
@@ -5597,7 +5317,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Basculer le killfeed",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Toggle Names",
@@ -5605,55 +5325,55 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Basculer les noms",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Toggle Info Overlay",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Basculer la superposition d'informations",
-		"machine": true
+		"translation": "Basculer la fenêtre d'informations",
+		"machine": false
 	},
 	{
 		"phrase": "Custom Map - Reload",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Carte personnalisée - recharger",
-		"machine": true
+		"translation": "Carte personnalisée - Recharger",
+		"machine": false
 	},
 	{
 		"phrase": "Custom Map - Full Reload",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Carte personnalisée - rechargement complet",
-		"machine": true
+		"translation": "Carte personnalisée - Rechargement complet",
+		"machine": false
 	},
 	{
 		"phrase": "Custom Map - Toggle Fall Damage",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Carte personnalisée - activer\/désactiver les dégâts de chute",
-		"machine": true
+		"translation": "Carte personnalisée - Basculer les dégâts de chute",
+		"machine": false
 	},
 	{
 		"phrase": "Custom Map - Toggle Fly Camera",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Carte personnalisée - basculer la caméra de vol",
-		"machine": true
+		"translation": "Carte personnalisée - Basculer la caméra de vol",
+		"machine": false
 	},
 	{
 		"phrase": "Reset UI Scale",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Réinitialiser l'échelle de l'interface utilisateur",
-		"machine": true
+		"translation": "Réinitialiser l'échelle de l'UI",
+		"machine": false
 	},
 	{
 		"phrase": "Provide Feedback",
@@ -5661,7 +5381,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Fournir une réponse",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "News Tab",
@@ -5669,7 +5389,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Onglet Actualités",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Store Tab",
@@ -5677,7 +5397,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Onglet Boutique",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Career Tab",
@@ -5685,15 +5405,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Onglet Carrière",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Play Tab",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Onglet Lecture",
-		"machine": true
+		"translation": "Onglet Jeu",
+		"machine": false
 	},
 	{
 		"phrase": "Clan Tab",
@@ -5701,7 +5421,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Onglet Clan",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Character Tab",
@@ -5709,7 +5429,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Onglet Personnage",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Weapons Tab",
@@ -5717,7 +5437,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Onglet Armes",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Loadouts Tab",
@@ -5725,15 +5445,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Onglet Chargements",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Ship Tab",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Onglet Expédier",
-		"machine": true
+		"translation": "Onglet Vaisseau",
+		"machine": false
 	},
 	{
 		"phrase": "Settings Tab",
@@ -5741,15 +5461,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Onglet Paramètres",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Mapping Tab",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Onglet Mappage",
-		"machine": true
+		"translation": "Onglet Cartography",
+		"machine": false
 	},
 	{
 		"phrase": "Open Trial Window",
@@ -5757,7 +5477,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ouvrir la fenêtre d'essai",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Restart Trial",
@@ -5765,15 +5485,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Redémarrer l'essai",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Initiate",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lancer",
-		"machine": true
+		"translation": "Initié",
+		"machine": false
 	},
 	{
 		"phrase": "Proficient",
@@ -5781,15 +5501,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Compétent",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Adept",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Expert",
-		"machine": true
+		"translation": "Adepte",
+		"machine": false
 	},
 	{
 		"phrase": "Elite",
@@ -5797,7 +5517,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Élite",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Expert",
@@ -5805,7 +5525,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Expert",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Master",
@@ -5813,7 +5533,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Maître",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Legend",
@@ -5821,7 +5541,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Légende",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Paragon",
@@ -5829,15 +5549,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Parangon",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Incarnate",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Incarner",
-		"machine": true
+		"translation": "Incarné",
+		"machine": false
 	},
 	{
 		"phrase": "Butcher",
@@ -5845,7 +5565,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Boucher",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Swordsman",
@@ -5853,7 +5573,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Épéiste",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Berserker",
@@ -5861,7 +5581,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Berserker",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Assassin",
@@ -5869,7 +5589,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Assassin",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Executioner",
@@ -5877,7 +5597,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Bourreau",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Grenadier",
@@ -5885,7 +5605,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Grenadier",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Detonator",
@@ -5893,7 +5613,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Détonateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Volatile",
@@ -5901,7 +5621,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Volatil",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Catalyst",
@@ -5909,7 +5629,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Catalyseur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Captor",
@@ -5917,7 +5637,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ravisseur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Invader",
@@ -5925,7 +5645,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Envahisseur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Thief",
@@ -5933,7 +5653,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Voleur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Reinforcer",
@@ -5941,7 +5661,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Renforceur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Engineer",
@@ -5949,7 +5669,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ingénieur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Fabricator",
@@ -5957,7 +5677,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Fabricant",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Architect",
@@ -5965,15 +5685,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Architecte",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sentry",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Sentinelle",
-		"machine": true
+		"translation": "Tourelle",
+		"machine": false
 	},
 	{
 		"phrase": "Protector",
@@ -5981,7 +5701,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Protecteur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sentinel",
@@ -5989,7 +5709,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Sentinelle",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Guardian",
@@ -5997,7 +5717,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Gardien",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Raider",
@@ -6005,7 +5725,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Raider",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Marauder",
@@ -6013,7 +5733,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Maraudeur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Vanquisher",
@@ -6021,7 +5741,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Vainqueur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Conquerer",
@@ -6029,7 +5749,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Conquérant",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Terminator",
@@ -6037,7 +5757,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Terminateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Gunslinger",
@@ -6045,15 +5765,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Pistolero",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Deadeye",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "œil mort",
-		"machine": true
+		"translation": "Œil mort",
+		"machine": false
 	},
 	{
 		"phrase": "Sharpshooter",
@@ -6061,15 +5781,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Tireur d'élite",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Deathbringer",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Porte-mort",
-		"machine": true
+		"translation": "Porteur de mort",
+		"machine": false
 	},
 	{
 		"phrase": "Blaster",
@@ -6077,7 +5797,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Blaster",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Collider",
@@ -6085,7 +5805,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Collisionneur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Obliterator",
@@ -6093,7 +5813,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Oblitérateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Disintegrator",
@@ -6101,7 +5821,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Désintégrateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Alleviator",
@@ -6109,7 +5829,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Allégeur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Mitigator",
@@ -6117,15 +5837,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Atténuateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Diminisher",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Diminateur",
-		"machine": true
+		"translation": "Réducteur",
+		"machine": false
 	},
 	{
 		"phrase": "Recon",
@@ -6133,7 +5853,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Reconnaissance",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Luminator",
@@ -6141,7 +5861,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Luminateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Coruscator",
@@ -6149,7 +5869,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Coruscateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Spotter",
@@ -6157,15 +5877,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Observateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Watchman",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Gardien",
-		"machine": true
+		"translation": "Veilleur",
+		"machine": false
 	},
 	{
 		"phrase": "Eagle Eye",
@@ -6173,7 +5893,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Œil de lynx",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "All Seeing",
@@ -6181,7 +5901,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Qui voit tout",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Body Guard",
@@ -6189,7 +5909,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Garde du corps",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Slayer",
@@ -6197,7 +5917,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Tueur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Punisher",
@@ -6205,7 +5925,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "punisseur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Midi Certified",
@@ -6213,7 +5933,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Midi certifié",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Maze Runner",
@@ -6221,7 +5941,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "coureur de labyrinthe",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Trial Master",
@@ -6229,7 +5949,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Maître d'essai",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Trial Hard",
@@ -6237,23 +5957,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Essai dur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Custom lobby",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Hall d'accueil personnalisé",
-		"machine": true
+		"translation": "Lobby personnalisé",
+		"machine": false
 	},
 	{
 		"phrase": "Lobby settings",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Paramètres du hall",
-		"machine": true
+		"translation": "Paramètres du lobby",
+		"machine": false
 	},
 	{
 		"phrase": "Password",
@@ -6261,7 +5981,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Mot de passe",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Minimum level",
@@ -6269,7 +5989,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Niveau minimum",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Maximum level",
@@ -6277,7 +5997,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Niveau maximum",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "The match will not end",
@@ -6285,47 +6005,47 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Le match ne se terminera pas",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Protons, XP and stats will not be tracked",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Les protons, XP et les statistiques ne seront pas suivis",
-		"machine": true
+		"translation": "Les protons, XP et statistiques ne seront pas suivis",
+		"machine": false
 	},
 	{
 		"phrase": "Infinite ammo. Type",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Munitions infinies. taper",
-		"machine": true
+		"translation": "Munitions infinies. Taper",
+		"machine": false
 	},
 	{
 		"phrase": "in chat to set your spawn point",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "dans le chat pour définir votre point de spawn",
-		"machine": true
+		"translation": "dans le chat pour définir votre point d'apparition",
+		"machine": false
 	},
 	{
 		"phrase": "Weapon cooldowns removed. Players are invincible",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Les temps de recharge des armes ont été supprimés. les joueurs sont invincibles",
-		"machine": true
+		"translation": "Les temps de recharge des armes ont été supprimés. Les joueurs sont invincibles",
+		"machine": false
 	},
 	{
 		"phrase": "Claim",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Prétendre",
-		"machine": true
+		"translation": "Revendiquer",
+		"machine": false
 	},
 	{
 		"phrase": "Current lobby settings",
@@ -6333,15 +6053,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Paramètres actuels du lobby",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Next lobby settings",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Paramètres du salon suivant",
-		"machine": true
+		"translation": "Paramètres du lobby suivant",
+		"machine": false
 	},
 	{
 		"phrase": "Lobby not claimed",
@@ -6349,7 +6069,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Lobby non revendiqué",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Autobalancing Enabled",
@@ -6357,7 +6077,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Équilibrage automatique activé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Autobalancing Disabled",
@@ -6365,7 +6085,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Équilibrage automatique désactivé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Eternal Mode Enabled",
@@ -6373,7 +6093,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Mode éternel activé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Eternal Mode Disabled",
@@ -6381,23 +6101,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Mode éternel désactivé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Trailer Mode Enabled",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Mode remorque activé",
-		"machine": true
+		"translation": "Mode Bande Annonce activé",
+		"machine": false
 	},
 	{
 		"phrase": "Trailer Mode Disabled",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Mode remorque désactivé",
-		"machine": true
+		"translation": "Mode Bande Annonce désactivé",
+		"machine": false
 	},
 	{
 		"phrase": "Sandbox Mode Enabled",
@@ -6405,7 +6125,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Mode bac à sable activé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sandbox Mode Disabled",
@@ -6413,7 +6133,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Mode bac à sable désactivé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Password Protected",
@@ -6421,31 +6141,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Protégé par mot de passe",
-		"machine": true
-	},
-	{
-		"phrase": "Password protected",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Protégé par mot de passe",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Note - claiming the lobby will restart the round",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Remarque - réclamer le lobby redémarrera le tour",
-		"machine": true
+		"translation": "Remarque - réclamer le lobby redémarrera le match",
+		"machine": false
 	},
 	{
 		"phrase": "Note - changing these settings will restart the round",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Remarque - la modification de ces paramètres redémarrera le tour",
-		"machine": true
+		"translation": "Remarque - Modifier ces paramètres redémarrera le match",
+		"machine": false
 	},
 	{
 		"phrase": "Leave",
@@ -6453,7 +6165,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Quitter",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Official",
@@ -6461,7 +6173,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Officiel",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Workshop",
@@ -6469,7 +6181,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Atelier",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Podium",
@@ -6477,7 +6189,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Podium",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Scoreboard",
@@ -6485,7 +6197,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Tableau de bord",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Total",
@@ -6493,7 +6205,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Total",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Points breakdown",
@@ -6501,7 +6213,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Répartition des points",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Objective",
@@ -6509,7 +6221,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Objectif",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Offensive time",
@@ -6517,7 +6229,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Temps offensif",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Defensive time",
@@ -6525,7 +6237,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Temps défensif",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Ammo pickups",
@@ -6533,7 +6245,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ramassage de munitions",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Basic statistics",
@@ -6541,15 +6253,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Statistiques de base",
-		"machine": true
-	},
-	{
-		"phrase": "Best kill streak",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Meilleure séquence de meurtres",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Blocks built",
@@ -6557,7 +6261,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Blocs construits",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Blocks destroyed",
@@ -6565,15 +6269,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Blocs détruits",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Proton breakdown",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Dégradation des protons",
-		"machine": true
+		"translation": "Répartition des protons",
+		"machine": false
 	},
 	{
 		"phrase": "Player points",
@@ -6581,7 +6285,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Points de joueur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Proton boost",
@@ -6589,15 +6293,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Boost de protons",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Peacekeeper bonus",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Bonus de gardien de la paix",
-		"machine": true
+		"translation": "Bonus de Protecteur de la Paix",
+		"machine": false
 	},
 	{
 		"phrase": "Cheating",
@@ -6605,7 +6309,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Tricherie",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Exploiting",
@@ -6613,7 +6317,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Exploitant",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Offensive profile",
@@ -6621,7 +6325,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Profil offensif",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Verbal abuse",
@@ -6629,7 +6333,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Violence verbale",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Scamming",
@@ -6637,7 +6341,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Arnaque",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Spamming",
@@ -6645,7 +6349,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Spamming",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Other negative behaviour",
@@ -6653,15 +6357,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Autre comportement négatif",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Report",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Reportage",
-		"machine": true
+		"translation": "Reporter",
+		"machine": false
 	},
 	{
 		"phrase": "Unlock",
@@ -6669,23 +6373,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ouvrir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Flag escort",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Escorte de drapeau",
-		"machine": true
+		"translation": "Escorte du drapeau",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb escort",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Escorte à la bombe",
-		"machine": true
+		"translation": "Escorte de la bombe",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb carrier kill",
@@ -6693,7 +6397,7 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "Tuer un porteur de bombe",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "MVP",
@@ -6701,7 +6405,7 @@
 		"comment": "Abbreviated medal name",
 		"locations": [],
 		"translation": "MVP",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "You can only claim 3 lobbies per day",
@@ -6709,7 +6413,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Vous ne pouvez réclamer que 3 lobbies par jour",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Extendest",
@@ -6717,7 +6421,7 @@
 		"comment": "Barrel attachment name",
 		"locations": [],
 		"translation": "Étendre le plus",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Side",
@@ -6725,31 +6429,31 @@
 		"comment": "Foregrip attachment name",
 		"locations": [],
 		"translation": "Côté",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Angled Half-Grip",
 		"context": null,
 		"comment": "Foregrip attachment name",
 		"locations": [],
-		"translation": "Demi-poignée coudée",
-		"machine": true
+		"translation": "Demi-poignée inclinée",
+		"machine": false
 	},
 	{
 		"phrase": "Large",
 		"context": null,
 		"comment": "Magazine attachment name",
 		"locations": [],
-		"translation": "Grande",
-		"machine": true
+		"translation": "Grand",
+		"machine": false
 	},
 	{
 		"phrase": "Triple",
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Tripler",
-		"machine": true
+		"translation": "Triple",
+		"machine": false
 	},
 	{
 		"phrase": "Rigid",
@@ -6757,7 +6461,7 @@
 		"comment": "Stock attachment name",
 		"locations": [],
 		"translation": "Rigide",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Plasma Cutter",
@@ -6765,63 +6469,63 @@
 		"comment": "Core attachment name",
 		"locations": [],
 		"translation": "Coupeur de plasma",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Obsolète] un témoignage de la technologie de pointe d'aegis.",
-		"machine": true
+		"translation": "[Obsolète] Un témoignage de la technologie de pointe d'Aegis.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Obsolète] creusement midi plus lent qui supprime un bloc de blocs 3x3x3.",
-		"machine": true
+		"translation": "[Obsolète] Creusement du Midi plus lent qui supprime un bloc de 3x3x3 blocs.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Allows one extra modification to be equipped.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Obsolète] permet d'équiper une modification supplémentaire.",
-		"machine": true
+		"translation": "[Obsolète] Permet d'équiper une modification supplémentaire.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid ranged weapon shoots Soltrium Tracer Rounds. Recharges over time and can overheat.",
 		"context": null,
 		"comment": "Weapon description for Aranet's Minigun",
 		"locations": [],
-		"translation": "Cette arme de moyenne portée tire des obus traceurs de soltrium. se recharge avec le temps et peut surchauffer.",
-		"machine": true
+		"translation": "Cette arme de moyenne portée tire des obus traceurs de Soltrium. Se recharge avec le temps et peut surchauffer.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Blocks placed have +100% health.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Obsolète] les blocs placés ont +100% de santé.",
-		"machine": true
+		"translation": "[Obsolète] Les blocs placés ont +100% de santé.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Agaman technology. This close ranged weapon propels a spray of plasma",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Obsolète] technologie agaman. cette arme à courte portée propulse un jet de plasma",
-		"machine": true
+		"translation": "[Obsolète] Technologie Agaman. Cette arme à courte portée propulse un jet de plasma",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Cluster Agama technology. Not much about this weapon is known.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Obsolète] technologie cluster agama. on ne sait pas grand-chose sur cette arme.",
-		"machine": true
+		"translation": "[Obsolète] Technologie Cluster Agama. On ne sait pas grand-chose sur cette arme.",
+		"machine": false
 	},
 	{
 		"phrase": "Blocks",
@@ -6829,15 +6533,15 @@
 		"comment": "A 3d voxel",
 		"locations": [],
 		"translation": "Blocs",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
 		"context": null,
 		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
 		"locations": [],
-		"translation": "Les skins de blocs animés doivent être activés pour que les skins de blocs animés s'affichent correctement",
-		"machine": true
+		"translation": "Les peaux de blocs animés doivent être activés pour que les peaux de blocs animés s'affichent correctement",
+		"machine": false
 	},
 	{
 		"phrase": "Scroll to zoom",
@@ -6845,7 +6549,7 @@
 		"comment": "[Block Customisation] Use the scroll wheel to move the camera closer to the block",
 		"locations": [],
 		"translation": "Faites défiler pour zoomer",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Press space to auto rotate",
@@ -6853,15 +6557,15 @@
 		"comment": "[Block Customisation] Press space on your keyboard to make the block automatically rotate",
 		"locations": [],
 		"translation": "Appuyez sur espace pour faire pivoter automatiquement",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This is an experimental server used for beta testing. The game may not function as intended",
 		"context": null,
 		"comment": "[Connecting] Text that shows on the left of the screen when connecting to a beta server",
 		"locations": [],
-		"translation": "Il s'agit d'un serveur expérimental utilisé pour les tests bêta. le jeu peut ne pas fonctionner comme prévu",
-		"machine": true
+		"translation": "Il s'agit d'un serveur expérimental utilisé pour les tests bêta. Le jeu peut ne pas fonctionner comme prévu",
+		"machine": false
 	},
 	{
 		"phrase": "The first team to",
@@ -6869,7 +6573,7 @@
 		"comment": "[Gamemode Info] [1\/2] Win requirement. The full phrase is: The first team to 500 points wins",
 		"locations": [],
 		"translation": "La première équipe à",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "points wins",
@@ -6877,15 +6581,15 @@
 		"comment": "[Gamemode Info] [2\/2] Win requirement. The full phrase is: The first team to 500 points wins",
 		"locations": [],
 		"translation": "points gagnés",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Before uploading maps to the Steam workshop, you must agree to the",
 		"context": null,
 		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
 		"locations": [],
-		"translation": "Avant de télécharger des cartes dans l'atelier Steam, vous devez accepter les",
-		"machine": true
+		"translation": "Avant de télécharger des cartes dans le Steam Workshop, vous devez accepter les",
+		"machine": false
 	},
 	{
 		"phrase": "Terms of Service.",
@@ -6893,15 +6597,15 @@
 		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
 		"locations": [],
 		"translation": "Conditions d'utilisation.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "N\/A",
 		"context": "Not Applicable",
 		"comment": "[Term] This is an abbreviation for Not Applicable",
 		"locations": [],
-		"translation": "N \/ A",
-		"machine": true
+		"translation": "S\/O",
+		"machine": false
 	},
 	{
 		"phrase": "Ping",
@@ -6909,7 +6613,7 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers. In this case ping refers to latency",
 		"locations": [],
 		"translation": "Ping",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Region",
@@ -6917,7 +6621,7 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers",
 		"locations": [],
 		"translation": "Région",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Map",
@@ -6925,7 +6629,7 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers",
 		"locations": [],
 		"translation": "Carte",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Mode",
@@ -6933,7 +6637,7 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers",
 		"locations": [],
 		"translation": "Mode",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Time",
@@ -6941,7 +6645,7 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers",
 		"locations": [],
 		"translation": "Temps",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "General",
@@ -6949,15 +6653,15 @@
 		"comment": "Settings category title",
 		"locations": [],
 		"translation": "Général",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "UI",
 		"context": "User interface",
 		"comment": "Settings category title",
 		"locations": [],
-		"translation": "Interface utilisateur",
-		"machine": true
+		"translation": "UI",
+		"machine": false
 	},
 	{
 		"phrase": "Keybinds",
@@ -6965,7 +6669,7 @@
 		"comment": "Settings category title",
 		"locations": [],
 		"translation": "Raccourcis clavier",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Points",
@@ -6973,7 +6677,7 @@
 		"comment": "Settings category title",
 		"locations": [],
 		"translation": "Points",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "FPS",
@@ -6981,7 +6685,7 @@
 		"comment": "Frames per second",
 		"locations": [],
 		"translation": "FPS",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Counts As Weapon",
@@ -6989,7 +6693,7 @@
 		"comment": "[Midi] counts as weapon is the full checkbox setting name. When enabled, the user can change to the midi with the 'Last Tool\/Next Tool\/Previous Tool' keybinds",
 		"locations": [],
 		"translation": "Compte comme arme",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Party Colour Outline for Party Members",
@@ -6997,7 +6701,7 @@
 		"comment": "[Setting] [Checkbox] When enabled, the outline around party members is party coloured (e.g. green), rather than the team coloured. (e.g. blue)",
 		"locations": [],
 		"translation": "Contour de couleur du parti pour les membres du parti",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Detailed Logging",
@@ -7005,7 +6709,7 @@
 		"comment": "[Setting] [Checkbox] Enable this to increase the detail of debug logging",
 		"locations": [],
 		"translation": "Journalisation détaillée",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Static Crosshairs",
@@ -7013,7 +6717,7 @@
 		"comment": "[Setting] [Checkbox] Enable this to prevent the crosshairs from expanding when jumping\/running",
 		"locations": [],
 		"translation": "Réticule statique",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pings",
@@ -7021,7 +6725,7 @@
 		"comment": "[Settings Section Header] e.g. Enemy Spotted ping, Build Here ping",
 		"locations": [],
 		"translation": "Pings",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Only Show Party Member Pings",
@@ -7029,7 +6733,7 @@
 		"comment": "[Setting] [Checkbox] When enabled, team mate pings are hidden and only party member pings are shown",
 		"locations": [],
 		"translation": "Afficher uniquement les pings des membres du groupe",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Show Ping Owner Name",
@@ -7037,7 +6741,7 @@
 		"comment": "[Setting] [Checkbox] When enabled, the name of the player who created this ping will show",
 		"locations": [],
 		"translation": "Afficher le nom du propriétaire du ping",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Max Ping Distance",
@@ -7045,7 +6749,7 @@
 		"comment": "[Setting] [Slider] Control the cut-off distance for showing pings",
 		"locations": [],
 		"translation": "Distance maximale de ping",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Blocks",
@@ -7053,31 +6757,31 @@
 		"comment": "[Unit] 3D voxels",
 		"locations": [],
 		"translation": "Blocs",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Player Nameplates",
 		"context": null,
 		"comment": "[Settings Section Header] A player nameplate is the UI above a player that shows their name and health",
 		"locations": [],
-		"translation": "Plaques signalétiques des joueurs",
-		"machine": true
+		"translation": "Plaques de nom des joueurs",
+		"machine": false
 	},
 	{
 		"phrase": "Nameplate Distance",
 		"context": null,
 		"comment": "[Setting] [Slider] Controls the cut-off distance for drawing player nameplates",
 		"locations": [],
-		"translation": "Distance de la plaque signalétique",
-		"machine": true
+		"translation": "Distance de plaque de nom",
+		"machine": false
 	},
 	{
 		"phrase": "Nameplate Scale",
 		"context": null,
 		"comment": "[Setting] [Slider] Controls the size of player nameplates",
 		"locations": [],
-		"translation": "Échelle de plaque signalétique",
-		"machine": true
+		"translation": "Échelle de plaque de nom",
+		"machine": false
 	},
 	{
 		"phrase": "Toggle UI",
@@ -7085,7 +6789,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Basculer l'interface utilisateur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Show Killfeed",
@@ -7093,7 +6797,7 @@
 		"comment": "[Setting] [Checkbox] Controls whether to show killfeed messages, e.g. Pegarex railgunned Satisfied Onion in the face",
 		"locations": [],
 		"translation": "Afficher le killfeed",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Refresh Rate",
@@ -7101,7 +6805,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Fréquence de rafraîchissement",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Max FPS",
@@ -7109,7 +6813,7 @@
 		"comment": "[Setting] [Slider] Controls the max FPS that the game can run at",
 		"locations": [],
 		"translation": "FPS maximum",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Enable VSync",
@@ -7117,7 +6821,7 @@
 		"comment": "[Setting] [Checkbox] Enable this to prevent the game from running faster than your monitor can render",
 		"locations": [],
 		"translation": "Activer VSync",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Fullscreen",
@@ -7125,7 +6829,7 @@
 		"comment": "[Setting] [Checkbox]",
 		"locations": [],
 		"translation": "Plein écran",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Smooth Scaling",
@@ -7133,15 +6837,15 @@
 		"comment": "[Setting] [Checkbox] Performance setting that controls whether smaller game resolutions are upscaled smoothly (enabled) or pixelated (disabled)",
 		"locations": [],
 		"translation": "Mise à l'échelle en douceur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Postprocessing",
 		"context": "Post processing",
 		"comment": "[Settings Section Header] Post processing encompasses effects that are applied once the world has been rendered, such as lights, shadows, ambient occlusion and bloom",
 		"locations": [],
-		"translation": "Post-traitement",
-		"machine": true
+		"translation": "Après-traitement",
+		"machine": false
 	},
 	{
 		"phrase": "Max Lights",
@@ -7149,7 +6853,7 @@
 		"comment": "[Setting] [Slider] This controls how many lights can be rendered at any one time",
 		"locations": [],
 		"translation": "Lumières maximales",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "SSAO Samples",
@@ -7157,15 +6861,15 @@
 		"comment": "[Setting] [Slider] This controls the quality of ambient occlusion",
 		"locations": [],
 		"translation": "Échantillons SSAO",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Bare Minimum",
 		"context": "Lowest Quality",
 		"comment": "[Setting] [Checkbox] The Bare Minimum rendering setting renders the game at the lowest quality possible for maximum FPS",
 		"locations": [],
-		"translation": "Le strict minimum",
-		"machine": true
+		"translation": "Strict minimum",
+		"machine": false
 	},
 	{
 		"phrase": "Animated Block Skins",
@@ -7173,23 +6877,23 @@
 		"comment": "[Setting] [Checkbox] This controls whether animated block skins should be rendered",
 		"locations": [],
 		"translation": "Peaux de blocs animés",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Source",
 		"context": "Output Source",
 		"comment": "[Setting] [Dropdown] Select the output source for the game audio, e.g. speakers or headphones",
 		"locations": [],
-		"translation": "La source",
-		"machine": true
+		"translation": "Source",
+		"machine": false
 	},
 	{
 		"phrase": "HUD",
 		"context": "In-Game User Interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"locations": [],
-		"translation": "ATH",
-		"machine": true
+		"translation": "HUD",
+		"machine": false
 	},
 	{
 		"phrase": "Newbie Colour",
@@ -7197,15 +6901,15 @@
 		"comment": "[Setting] [Colour Picker] This controls the colour of new players",
 		"locations": [],
 		"translation": "Couleur débutant",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
 		"context": null,
 		"comment": "[Settings Header Title] This is a summary about how the points UI customisation works",
 		"locations": [],
-		"translation": "Ici, vous pouvez personnaliser l'affichage des points que vous gagnez dans le jeu. les points principaux sont placés en haut de la pile de points et les points secondaires sont placés en bas de la pile de points.",
-		"machine": true
+		"translation": "Ici, vous pouvez personnaliser l'affichage des points que vous gagnez dans le jeu. Les points principaux sont placés en haut de la pile de points et les points secondaires sont placés en bas de la pile de points.",
+		"machine": false
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
@@ -7213,23 +6917,23 @@
 		"comment": "Peacekeeper description",
 		"locations": [],
 		"translation": "Les ennemis seront mis en évidence s'ils sont de niveau 20 ou moins et ont un KDR de 1 ou moins.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "For the duration Peacekeeper is enabled, deal",
 		"context": null,
 		"comment": "[1\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
-		"translation": "Pendant la durée d'activation du Casque bleu, traitez",
-		"machine": true
+		"translation": "Pendant la durée d'activation de Protecteur de la Paix, infligez",
+		"machine": false
 	},
 	{
 		"phrase": "damage to these players and earn",
 		"context": null,
 		"comment": "[2\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
-		"translation": "dommages à ces joueurs et gagnez",
-		"machine": true
+		"translation": "dégats à ces joueurs et gagnez",
+		"machine": false
 	},
 	{
 		"phrase": "extra XP and Protons.",
@@ -7237,31 +6941,31 @@
 		"comment": "[3\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
 		"translation": "XP et protons supplémentaires.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Changes take effect on respawn. Peacekeeper has no effect in free for all game modes.",
 		"context": null,
 		"comment": "[4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
-		"translation": "Les modifications prennent effet lors de la réapparition. Peacekeeper n'a aucun effet en gratuit pour tous les modes de jeu.",
-		"machine": true
+		"translation": "Les modifications prennent effet lors de la réapparition. Protecteur de la Paix n'a aucun effet pour tous les modes de jeu chacun pour soi.",
+		"machine": false
 	},
 	{
 		"phrase": "This controls the scale of all UI and in-game HUD. Press",
 		"context": null,
 		"comment": "[1\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100",
 		"locations": [],
-		"translation": "Cela contrôle l'échelle de toutes les interfaces utilisateur et HUD dans le jeu. presse",
-		"machine": true
+		"translation": "Ceci contrôle l'échelle de toutes les interfaces utilisateur et HUD dans le jeu. Appuyez",
+		"machine": false
 	},
 	{
 		"phrase": "to reset it back to 100%",
 		"context": null,
 		"comment": "[2\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100%",
 		"locations": [],
-		"translation": "pour le remettre à 100%",
-		"machine": true
+		"translation": "pour la remettre à 100%",
+		"machine": false
 	},
 	{
 		"phrase": "KDR",
@@ -7269,7 +6973,7 @@
 		"comment": "[Player Statistic] Kill to death ratio",
 		"locations": [],
 		"translation": "KDR",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Unavailable",
@@ -7277,7 +6981,7 @@
 		"comment": "[Unlock Button] This character can not be unlocked",
 		"locations": [],
 		"translation": "Indisponible",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Equipped",
@@ -7285,7 +6989,7 @@
 		"comment": "[Unlock Button] This character is equipped",
 		"locations": [],
 		"translation": "Équipé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "2X",
@@ -7293,7 +6997,7 @@
 		"comment": "[Weapons] 2X scope tab",
 		"locations": [],
 		"translation": "2X",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "4X",
@@ -7301,7 +7005,7 @@
 		"comment": "[Weapons] 4X scope tab",
 		"locations": [],
 		"translation": "4X",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Foregrip",
@@ -7309,15 +7013,15 @@
 		"comment": "[Attachment Type]",
 		"locations": [],
 		"translation": "poignée avant",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Stock",
 		"context": null,
 		"comment": "[Attachment Type]",
 		"locations": [],
-		"translation": "Stocker",
-		"machine": true
+		"translation": "Stock",
+		"machine": false
 	},
 	{
 		"phrase": "Ammo",
@@ -7325,7 +7029,7 @@
 		"comment": "[Attachment Type]",
 		"locations": [],
 		"translation": "Munitions",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Equip",
@@ -7333,31 +7037,31 @@
 		"comment": "[Unlock Button] This character can be equipped",
 		"locations": [],
 		"translation": "Équiper",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Free",
 		"context": null,
 		"comment": "[Unlock Button] This weapon skin can be unlocked for free",
 		"locations": [],
-		"translation": "Libre",
-		"machine": true
+		"translation": "Gratuit",
+		"machine": false
 	},
 	{
 		"phrase": "to change team mates",
 		"context": null,
 		"comment": "[3\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
 		"locations": [],
-		"translation": "changer de coéquipier",
-		"machine": true
+		"translation": "pour changer de coéquipier",
+		"machine": false
 	},
 	{
 		"phrase": "Magazines",
 		"context": null,
 		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
 		"locations": [],
-		"translation": "Les magazines",
-		"machine": true
+		"translation": "Magasins",
+		"machine": false
 	},
 	{
 		"phrase": "Hidden",
@@ -7365,6 +7069,1574 @@
 		"comment": "[Point UI Customisation] Hidden point category",
 		"locations": [],
 		"translation": "Caché",
+		"machine": false
+	},
+	{
+		"phrase": "Building 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Bâtiment 1",
+		"machine": true
+	},
+	{
+		"phrase": "Building 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Bâtiment 2",
+		"machine": true
+	},
+	{
+		"phrase": "Building 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Bâtiment 3",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Creuser 1",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Creuser 2",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Creuser 3",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Construire + creuser 1",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Construire + creuser 2",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Construire + creuser 3",
+		"machine": true
+	},
+	{
+		"phrase": "Purchases",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "Achats",
+		"machine": true
+	},
+	{
+		"phrase": "CHARACTERS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "PERSONNAGES",
+		"machine": true
+	},
+	{
+		"phrase": "CHARACTER SKINS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "SKINS DE PERSONNAGE",
+		"machine": true
+	},
+	{
+		"phrase": "WEAPON SKINS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "SKINS D'ARMES",
+		"machine": true
+	},
+	{
+		"phrase": "CROSSHAIRS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "CROISIÈRE",
+		"machine": true
+	},
+	{
+		"phrase": "Open",
+		"context": "Public",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"locations": [],
+		"translation": "Ouvert",
+		"machine": true
+	},
+	{
+		"phrase": "England",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Angleterre",
+		"machine": true
+	},
+	{
+		"phrase": "France",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "La France",
+		"machine": true
+	},
+	{
+		"phrase": "Germany",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Allemagne",
+		"machine": true
+	},
+	{
+		"phrase": "Greece",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Grèce",
+		"machine": true
+	},
+	{
+		"phrase": "Sweden",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Suède",
+		"machine": true
+	},
+	{
+		"phrase": "Russia",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Russie",
+		"machine": true
+	},
+	{
+		"phrase": "Israel",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Israël",
+		"machine": true
+	},
+	{
+		"phrase": "USA West",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "USA ouest",
+		"machine": true
+	},
+	{
+		"phrase": "USA Central",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Centre des États-Unis",
+		"machine": true
+	},
+	{
+		"phrase": "USA East",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "USA est",
+		"machine": true
+	},
+	{
+		"phrase": "Canada",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Canada",
+		"machine": true
+	},
+	{
+		"phrase": "Brazil",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Brésil",
+		"machine": true
+	},
+	{
+		"phrase": "India",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Inde",
+		"machine": true
+	},
+	{
+		"phrase": "Japan",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Japon",
+		"machine": true
+	},
+	{
+		"phrase": "Singapore",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Singapour",
+		"machine": true
+	},
+	{
+		"phrase": "South Korea",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Corée du Sud",
+		"machine": true
+	},
+	{
+		"phrase": "Australia",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Australie",
+		"machine": true
+	},
+	{
+		"phrase": "Close",
+		"context": "Shut",
+		"comment": "[Settings] [Button] Sidebar text. This closes the settings window",
+		"locations": [],
+		"translation": "Fermer",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Voxel",
+		"comment": "[Unit] 3D voxel",
+		"locations": [],
+		"translation": "Bloquer",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": null,
+		"comment": "[Unit] Angle measurement",
+		"locations": [],
+		"translation": "Degré",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": null,
+		"comment": "[Unit] A group of 32x32x32 voxels",
+		"locations": [],
+		"translation": "Tronçon",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": null,
+		"comment": "[Unit] The amount of times a shader should gather information from a texture",
+		"locations": [],
+		"translation": "Goûter",
+		"machine": true
+	},
+	{
+		"phrase": "%",
+		"context": null,
+		"comment": "[Unit] Percentage, e.g. '50% Bloom Strength'",
+		"locations": [],
+		"translation": "%",
+		"machine": true
+	},
+	{
+		"phrase": "x",
+		"context": null,
+		"comment": "[Unit] Multiplication, e.g. '2.0x Shadow Quality'",
+		"locations": [],
+		"translation": "X",
+		"machine": true
+	},
+	{
+		"phrase": "Show bloom effects on Holo and Red Dot optics",
+		"context": null,
+		"comment": "[Setting] [Tooltip]",
+		"locations": [],
+		"translation": "Afficher les effets de bloom sur les optiques holo et point rouge",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether enemies are also shown on the top zone bar in Breakthrough when they are shooting, or revealed by a Scanner",
+		"context": null,
+		"comment": "[Setting] [Tooltip]",
+		"locations": [],
+		"translation": "Contrôle si les ennemis sont également affichés sur la barre de la zone supérieure en percée lorsqu'ils tirent, ou révélés par un scanner",
+		"machine": true
+	},
+	{
+		"phrase": "Use Title Accent Colour",
+		"context": "Display Title Accent Colour",
+		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
+		"locations": [],
+		"translation": "Utiliser la couleur d'accent du titre",
+		"machine": true
+	},
+	{
+		"phrase": "Use Title Background",
+		"context": "Display Title Background",
+		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
+		"locations": [],
+		"translation": "Utiliser l'arrière-plan du titre",
+		"machine": true
+	},
+	{
+		"phrase": "ms",
+		"context": "milliseconds",
+		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
+		"locations": [],
+		"translation": "Mme",
+		"machine": true
+	},
+	{
+		"phrase": "Play a Match",
+		"context": "Play a Game",
+		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
+		"locations": [],
+		"translation": "Jouer un match",
+		"machine": true
+	},
+	{
+		"phrase": "Enter Trials",
+		"context": "Enter the Trials",
+		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
+		"locations": [],
+		"translation": "Entrez dans les essais",
+		"machine": true
+	},
+	{
+		"phrase": "Replay Tutorial",
+		"context": "Replay the Tutorial",
+		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
+		"locations": [],
+		"translation": "Rejouer le didacticiel",
+		"machine": true
+	},
+	{
+		"phrase": "Reset Ship",
+		"context": "Reset the Ship",
+		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
+		"locations": [],
+		"translation": "Réinitialiser le navire",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. apples",
+		"context": null,
+		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
+		"locations": [],
+		"translation": "par exemple des pommes",
+		"machine": true
+	},
+	{
+		"phrase": "An update is available. Close the game and update the game through Steam",
+		"context": null,
+		"comment": "[Popup] Banner at the top of the screen that tells the user to update the game through Steam. Do not translate 'Steam'",
+		"locations": [],
+		"translation": "Une mise à jour est disponible. fermez le jeu et mettez à jour le jeu via steam",
+		"machine": true
+	},
+	{
+		"phrase": "Connection to Steam failed. Online play is unavailable",
+		"context": null,
+		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
+		"locations": [],
+		"translation": "La connexion à Steam a échoué. le jeu en ligne n'est pas disponible",
+		"machine": true
+	},
+	{
+		"phrase": "Title unlocked",
+		"context": null,
+		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
+		"locations": [],
+		"translation": "Titre débloqué",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Médaille de bronze",
+		"machine": true
+	},
+	{
+		"phrase": "Silver medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Médaille d'argent",
+		"machine": true
+	},
+	{
+		"phrase": "Gold medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Médaille d'or",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Médaille de platine",
+		"machine": true
+	},
+	{
+		"phrase": "To restart",
+		"context": null,
+		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
+		"locations": [],
+		"translation": "Recommencer",
+		"machine": true
+	},
+	{
+		"phrase": "To cancel",
+		"context": null,
+		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
+		"locations": [],
+		"translation": "Annuler",
+		"machine": true
+	},
+	{
+		"phrase": "Best kill streak",
+		"context": "LOngest kill streak",
+		"comment": "[Victory Screen] Your longest kill streak, e.g. 'Best kill streak: 3'",
+		"locations": [],
+		"translation": "Meilleure séquence de meurtres",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon Stats",
+		"context": null,
+		"comment": "[Victory Screen] Title above the table showing how many kills, shots\/throws, accuracy, etc you have for each weapon",
+		"locations": [],
+		"translation": "Statistiques d'armes",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'C4: 1 throw'",
+		"locations": [],
+		"translation": "Jeter",
+		"machine": true
+	},
+	{
+		"phrase": "Throws",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'C4: 3 throws'",
+		"locations": [],
+		"translation": "Jetés",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 1 swing'",
+		"locations": [],
+		"translation": "Balançoire",
+		"machine": true
+	},
+	{
+		"phrase": "Swings",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 3 swings'",
+		"locations": [],
+		"translation": "Oscillations",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 1 shot'",
+		"locations": [],
+		"translation": "Tirer",
+		"machine": true
+	},
+	{
+		"phrase": "Shots",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 18 shots'",
+		"locations": [],
+		"translation": "Coups",
+		"machine": true
+	},
+	{
+		"phrase": "Body",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 body damage'",
+		"locations": [],
+		"translation": "Corps",
+		"machine": true
+	},
+	{
+		"phrase": "Head",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 head damage'",
+		"locations": [],
+		"translation": "Diriger",
+		"machine": true
+	},
+	{
+		"phrase": "Splash",
+		"context": "Area of effect",
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Grenade: 12 splash damage'",
+		"locations": [],
+		"translation": "Éclaboussure",
+		"machine": true
+	},
+	{
+		"phrase": "Accuracy",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
+		"locations": [],
+		"translation": "Précision",
+		"machine": true
+	},
+	{
+		"phrase": "Headshot hit",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Headshot hit: 50%'",
+		"locations": [],
+		"translation": "Coup de tête",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Utilisation",
+		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 1 use'",
+		"locations": [],
+		"translation": "Utilisation",
+		"machine": true
+	},
+	{
+		"phrase": "Uses",
+		"context": "Utilisations",
+		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 15 uses'",
+		"locations": [],
+		"translation": "Les usages",
+		"machine": true
+	},
+	{
+		"phrase": "Accept",
+		"context": null,
+		"comment": "[UI] [Button] Accept an invitation",
+		"locations": [],
+		"translation": "J'accepte",
+		"machine": true
+	},
+	{
+		"phrase": "Decline",
+		"context": null,
+		"comment": "[UI] [Button] Decline an invitation",
+		"locations": [],
+		"translation": "Déclin",
+		"machine": true
+	},
+	{
+		"phrase": "Melee kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Melee kills'",
+		"locations": [],
+		"translation": "Mêlée tue",
+		"machine": true
+	},
+	{
+		"phrase": "Grenade kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Grenade kills'",
+		"locations": [],
+		"translation": "La grenade tue",
+		"machine": true
+	},
+	{
+		"phrase": "Spent",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] [1\/3] The full phrase is: 'Spent 3 hours defending'",
+		"locations": [],
+		"translation": "Dépensé",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": null,
+		"comment": "[Unit] Measurement of time'",
+		"locations": [],
+		"translation": "Heure",
+		"machine": true
+	},
+	{
+		"phrase": "Hours",
+		"context": null,
+		"comment": "[Unit] Measurement of time'",
+		"locations": [],
+		"translation": "Les heures",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks placed",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '10000 Blocks placed'",
+		"locations": [],
+		"translation": "Blocs placés",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assists",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Spot assists'",
+		"locations": [],
+		"translation": "Aides ponctuelles",
+		"machine": true
+	},
+	{
+		"phrase": "Direct explosive kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 direct explosive kills'",
+		"locations": [],
+		"translation": "Les explosifs directs tuent",
+		"machine": true
+	},
+	{
+		"phrase": "Headshot kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 headshot kills'",
+		"locations": [],
+		"translation": "Une balle dans la tête tue",
+		"machine": true
+	},
+	{
+		"phrase": "Flag steals",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 flag steals'",
+		"locations": [],
+		"translation": "Le drapeau vole",
+		"machine": true
+	},
+	{
+		"phrase": "Friendlies saved",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] Saviour tag description. The full phrase is: '100 friendlies saved'",
+		"locations": [],
+		"translation": "Amicaux sauvés",
+		"machine": true
+	},
+	{
+		"phrase": "Friendlies avenged",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] Avenger tag description. The full phrase is: '100 friendlies avenged'",
+		"locations": [],
+		"translation": "Les matchs amicaux se sont vengés",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. spaghetti",
+		"context": null,
+		"comment": "[Password Window] [Text Field] [Placeholder]",
+		"locations": [],
+		"translation": "par exemple des spaghettis",
+		"machine": true
+	},
+	{
+		"phrase": "Enter password",
+		"context": null,
+		"comment": "[Password Window] [Title]",
+		"locations": [],
+		"translation": "Entrer le mot de passe",
+		"machine": true
+	},
+	{
+		"phrase": "Quick play",
+		"context": null,
+		"comment": "[Button] This is the large button at the top of the server list",
+		"locations": [],
+		"translation": "Jeu rapide",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. Space Master 4000",
+		"context": null,
+		"comment": "[Player Dropdown Selector] Placeholder text for the search field for this dropdown",
+		"locations": [],
+		"translation": "par exemple Space Master 4000",
+		"machine": true
+	},
+	{
+		"phrase": "Please select a friend",
+		"context": null,
+		"comment": "[Player Dropdown Selector] This text shows when selecting a player from the dropdown",
+		"locations": [],
+		"translation": "Veuillez sélectionner un ami",
+		"machine": true
+	},
+	{
+		"phrase": "Selecting a loadout",
+		"context": null,
+		"comment": "[Scoreboard] Player joining status",
+		"locations": [],
+		"translation": "Sélection d'un chargement",
+		"machine": true
+	},
+	{
+		"phrase": "Kick",
+		"context": null,
+		"comment": "[Lobby Panel] [Button] Kick a player",
+		"locations": [],
+		"translation": "Coup",
+		"machine": true
+	},
+	{
+		"phrase": "Swap",
+		"context": null,
+		"comment": "[Lobby Panel] [Button] Move this player to the other team",
+		"locations": [],
+		"translation": "Échanger",
+		"machine": true
+	},
+	{
+		"phrase": "Type here",
+		"context": null,
+		"comment": "[Text Field] Placeholder text",
+		"locations": [],
+		"translation": "Écrivez ici",
+		"machine": true
+	},
+	{
+		"phrase": "Reason",
+		"context": null,
+		"comment": "[Report Popup] Dropdown label",
+		"locations": [],
+		"translation": "Raison",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn",
+		"context": null,
+		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
+		"locations": [],
+		"translation": "Frayer",
+		"machine": true
+	},
+	{
+		"phrase": "Pan with mouse",
+		"context": null,
+		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
+		"locations": [],
+		"translation": "Panoramique avec la souris",
+		"machine": true
+	},
+	{
+		"phrase": "Scroll to zoom",
+		"context": "Scroll wheel to zoom",
+		"comment": "[Respawn] [Input Prompt] Use the scroll wheel to zoom into the map",
+		"locations": [],
+		"translation": "Faites défiler pour zoomer",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout overpowered",
+		"context": "Loadout is too powerful",
+		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
+		"locations": [],
+		"translation": "Charge surpuissante",
+		"machine": true
+	},
+	{
+		"phrase": "s",
+		"context": "Seconds",
+		"comment": "[Unit] [Abbreviation] Abbreviation for seconds, e.g. 'Respawn in 13s'",
+		"locations": [],
+		"translation": "s",
+		"machine": true
+	},
+	{
+		"phrase": "Proton boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
+		"locations": [],
+		"translation": "Boost de protons actif",
+		"machine": true
+	},
+	{
+		"phrase": "No Proton boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
+		"locations": [],
+		"translation": "Pas de boost de protons actif",
+		"machine": true
+	},
+	{
+		"phrase": "XP boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you have a XP boost active",
+		"locations": [],
+		"translation": "Boost d'XP actif",
+		"machine": true
+	},
+	{
+		"phrase": "No XP boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you do not have a XP boost active",
+		"locations": [],
+		"translation": "Pas de boost d'XP actif",
+		"machine": true
+	},
+	{
+		"phrase": "View Steam Profile",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Voir le profil de vapeur",
+		"machine": true
+	},
+	{
+		"phrase": "View Statistics",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Afficher les statistiques",
+		"machine": true
+	},
+	{
+		"phrase": "Add Friend",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Ajouter un ami",
+		"machine": true
+	},
+	{
+		"phrase": "Remove Friend",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Supprimer un ami",
+		"machine": true
+	},
+	{
+		"phrase": "Invite to Party",
+		"context": "Invite to Group",
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Inviter à faire la fête",
+		"machine": true
+	},
+	{
+		"phrase": "Invite Votekick",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Inviter votekick",
+		"machine": true
+	},
+	{
+		"phrase": "Report Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Signaler un joueur",
+		"machine": true
+	},
+	{
+		"phrase": "Mute Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Joueur muet",
+		"machine": true
+	},
+	{
+		"phrase": "Unmute Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Rétablir le son du joueur",
+		"machine": true
+	},
+	{
+		"phrase": "Spectate",
+		"context": "Become a spectator",
+		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
+		"locations": [],
+		"translation": "Spectateur",
+		"machine": true
+	},
+	{
+		"phrase": "Solt",
+		"context": null,
+		"comment": "[Scoreboard] [Column Header] Abbreviation for Soltrium, shows in Head Hunter",
+		"locations": [],
+		"translation": "Solt",
+		"machine": true
+	},
+	{
+		"phrase": "P",
+		"context": "Points",
+		"comment": "[Scoreboard] [Column Header] Player points, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "P",
+		"machine": true
+	},
+	{
+		"phrase": "K",
+		"context": "Kills",
+		"comment": "[Scoreboard] [Column Header] Player kills, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "K",
+		"machine": true
+	},
+	{
+		"phrase": "D",
+		"context": "Deaths",
+		"comment": "[Scoreboard] [Column Header] Player deaths, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "ré",
+		"machine": true
+	},
+	{
+		"phrase": "A",
+		"context": "Assists",
+		"comment": "[Scoreboard] [Column Header] Player assists, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "UNE",
+		"machine": true
+	},
+	{
+		"phrase": "MS",
+		"context": "Latency",
+		"comment": "[Scoreboard] [Column Header] Latency (ping), measured in milliseconds. Please set to MS if it is the most appropriate measurement for latency",
+		"locations": [],
+		"translation": "MME",
+		"machine": true
+	},
+	{
+		"phrase": "Server Full",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is full",
+		"locations": [],
+		"translation": "Serveur plein",
+		"machine": true
+	},
+	{
+		"phrase": "Lobby Claimed",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is claimed",
+		"locations": [],
+		"translation": "Lobby revendiqué",
+		"machine": true
+	},
+	{
+		"phrase": "Player",
+		"context": null,
+		"comment": "[Scoreboard] This player count shows at the bottom of the scoreboard, i.e. '1 Player'",
+		"locations": [],
+		"translation": "Joueur",
+		"machine": true
+	},
+	{
+		"phrase": "Click outside or press escape to close",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom when the cursor has been unlocked",
+		"locations": [],
+		"translation": "Cliquez à l'extérieur ou appuyez sur Échap pour fermer",
+		"machine": true
+	},
+	{
+		"phrase": "Hold",
+		"context": null,
+		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
+		"locations": [],
+		"translation": "Tenir",
+		"machine": true
+	},
+	{
+		"phrase": "To unlock the cursor",
+		"context": null,
+		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
+		"locations": [],
+		"translation": "Pour déverrouiller le curseur",
+		"machine": true
+	},
+	{
+		"phrase": "Spectator",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
+		"locations": [],
+		"translation": "Spectateur",
+		"machine": true
+	},
+	{
+		"phrase": "Spectators",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Spectators'",
+		"locations": [],
+		"translation": "Spectateurs",
+		"machine": true
+	},
+	{
+		"phrase": "Player joining",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Player joining'",
+		"locations": [],
+		"translation": "Joueur rejoignant",
+		"machine": true
+	},
+	{
+		"phrase": "Players joining",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Players joining'",
+		"locations": [],
+		"translation": "Les joueurs rejoignent",
+		"machine": true
+	},
+	{
+		"phrase": "Balance the teams",
+		"context": null,
+		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
+		"locations": [],
+		"translation": "Équilibrer les équipes",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Quarter",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Qualité de la texture: quart",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Half",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Qualité de la texture: la moitié",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Full",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Qualité de la texture: pleine",
+		"machine": true
+	},
+	{
+		"phrase": "Minimap Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]'",
+		"locations": [],
+		"translation": "Minicarte désactivée",
+		"machine": true
+	},
+	{
+		"phrase": "Player Names Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Noms de joueurs désactivés",
+		"machine": true
+	},
+	{
+		"phrase": "Peacekeeper Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Casque bleu désactivé",
+		"machine": true
+	},
+	{
+		"phrase": "Bloom Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Bloom désactivé",
+		"machine": true
+	},
+	{
+		"phrase": "SSAO Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "SSAO désactivé",
+		"machine": true
+	},
+	{
+		"phrase": "Chat Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Chat désactivé",
+		"machine": true
+	},
+	{
+		"phrase": "Chat Timeout: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Délai d'expiration du chat : infini",
+		"machine": true
+	},
+	{
+		"phrase": "Max Chunk Updates: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Nombre maximal de mises à jour : infini",
+		"machine": true
+	},
+	{
+		"phrase": "Max Lights: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Lumières max: infini",
+		"machine": true
+	},
+	{
+		"phrase": "Max FPS: Uncapped",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "FPS max: non plafonné",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplates Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Plaques signalétiques désactivées",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplate Distance: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Distance de la plaque signalétique : infinie",
+		"machine": true
+	},
+	{
+		"phrase": "Pings Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Pings désactivés",
+		"machine": true
+	},
+	{
+		"phrase": "Max Ping Distance: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Distance maximale de ping : infinie",
+		"machine": true
+	},
+	{
+		"phrase": "You have left the party",
+		"context": null,
+		"comment": "[Social Sidebar] [Message] This message shows at the top of the social sidebar when you leave a party",
+		"locations": [],
+		"translation": "Vous avez quitté la fête",
+		"machine": true
+	},
+	{
+		"phrase": "Notification",
+		"context": null,
+		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
+		"locations": [],
+		"translation": "Notification",
+		"machine": true
+	},
+	{
+		"phrase": "Notifications",
+		"context": null,
+		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
+		"locations": [],
+		"translation": "Notifications",
+		"machine": true
+	},
+	{
+		"phrase": "Party",
+		"context": null,
+		"comment": "[Social Sidebar] Party labe. The full phrase is 'Party: 2 \/ 4'",
+		"locations": [],
+		"translation": "Fête",
+		"machine": true
+	},
+	{
+		"phrase": "Online",
+		"context": null,
+		"comment": "[Social Sidebar] Online friends label. The full phrase is 'Party: 2 \/ 4'",
+		"locations": [],
+		"translation": "En ligne",
+		"machine": true
+	},
+	{
+		"phrase": "Click to edit",
+		"context": null,
+		"comment": "[Text Field] Placeholder text when editing a new loadout name",
+		"locations": [],
+		"translation": "Cliquez pour modifier",
+		"machine": true
+	},
+	{
+		"phrase": "No title",
+		"context": null,
+		"comment": "[Killcam UI] [Button] Click this button to unequip your title",
+		"locations": [],
+		"translation": "Pas de titre",
+		"machine": true
+	},
+	{
+		"phrase": "No tags",
+		"context": null,
+		"comment": "[Killcam UI] [Button] Click this button to unequip your tag",
+		"locations": [],
+		"translation": "Aucune balise",
+		"machine": true
+	},
+	{
+		"phrase": "Retrieving transaction list",
+		"context": null,
+		"comment": "[Transaction Log] Loading text",
+		"locations": [],
+		"translation": "Récupérer la liste des transactions",
+		"machine": true
+	},
+	{
+		"phrase": "No transactions",
+		"context": null,
+		"comment": "[Transaction Log] There are no transactions in this list",
+		"locations": [],
+		"translation": "Aucune opération",
+		"machine": true
+	},
+	{
+		"phrase": "Token",
+		"context": null,
+		"comment": "[Transaction Log] This weapon skin was unlocked with a weapon skin token. The full phrase is: '1 Token'",
+		"locations": [],
+		"translation": "Jeton",
+		"machine": true
+	},
+	{
+		"phrase": "Tokens",
+		"context": null,
+		"comment": "[Transaction Log] This weapon skin was unlocked with multiple weapon skin tokens. The full phrase is: '2 Tokens'",
+		"locations": [],
+		"translation": "Jetons",
+		"machine": true
+	},
+	{
+		"phrase": "Incomplete",
+		"context": null,
+		"comment": "[Trials] This text shows when you haven't completed this trial yet",
+		"locations": [],
+		"translation": "Incomplet",
+		"machine": true
+	},
+	{
+		"phrase": "Leaderboard",
+		"context": null,
+		"comment": "[Trials] [Title]",
+		"locations": [],
+		"translation": "Classement",
+		"machine": true
+	},
+	{
+		"phrase": "Restart",
+		"context": null,
+		"comment": "[Trials] [Button] Click this button to restart the trial",
+		"locations": [],
+		"translation": "Redémarrage",
+		"machine": true
+	},
+	{
+		"phrase": "Trials list",
+		"context": null,
+		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
+		"locations": [],
+		"translation": "Liste des essais",
+		"machine": true
+	},
+	{
+		"phrase": "Trial",
+		"context": null,
+		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
+		"locations": [],
+		"translation": "Procès",
+		"machine": true
+	},
+	{
+		"phrase": "Medals",
+		"context": null,
+		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
+		"locations": [],
+		"translation": "Médailles",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Platinum: 4:750'",
+		"locations": [],
+		"translation": "Platine",
+		"machine": true
+	},
+	{
+		"phrase": "Gold",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Gold: 4:750'",
+		"locations": [],
+		"translation": "Or",
+		"machine": true
+	},
+	{
+		"phrase": "Silver",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Silver: 4:750'",
+		"locations": [],
+		"translation": "Argent",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Bronze: 4:750'",
+		"locations": [],
+		"translation": "Bronze",
+		"machine": true
+	},
+	{
+		"phrase": "Last attempt",
+		"context": "Previous attempt",
+		"comment": "[Trial] [Title] The full phrase is: 'Last attempt: 5:223'",
+		"locations": [],
+		"translation": "Dernière tentative",
+		"machine": true
+	},
+	{
+		"phrase": "Saving time",
+		"context": "Storing time",
+		"comment": "[Trial] [Loading Text] This text shows when your trial time is being saved",
+		"locations": [],
+		"translation": "Gagner du temps",
+		"machine": true
+	},
+	{
+		"phrase": "Time saved",
+		"context": "Time stored",
+		"comment": "[Trial] [Loading Text] This text shows when your trial time has been saved",
+		"locations": [],
+		"translation": "Temps gagné",
+		"machine": true
+	},
+	{
+		"phrase": "Best time",
+		"context": "Fastest time",
+		"comment": "[Trial] This text shows next to your best time for this trial, e.g. 'Best time: 4:873'",
+		"locations": [],
+		"translation": "Meilleur temps",
+		"machine": true
+	},
+	{
+		"phrase": "Rewards",
+		"context": null,
+		"comment": "[Trial] [Title] This text shows above the rewards you earned for completing this trial",
+		"locations": [],
+		"translation": "Récompenses",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh Leaderboards",
+		"context": "Refresh the Leaderboards",
+		"comment": "[Trials] [Button] Refresh the leaderboards by pressing this button",
+		"locations": [],
+		"translation": "Actualiser les classements",
+		"machine": true
+	},
+	{
+		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
+		"context": null,
+		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Pratiquez vos compétences de construction et de creusement dans les essais!\nTerminez chaque essai dans le temps imparti pour gagner des protons et tuer des titres de caméra.\nAtteindre le ",
+		"machine": true
+	},
+	{
+		"phrase": "Yellow",
+		"context": null,
+		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Jaune",
+		"machine": true
+	},
+	{
+		"phrase": "Platform to win, avoid touching the",
+		"context": null,
+		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Plateforme pour gagner, évitez de toucher le",
+		"machine": true
+	},
+	{
+		"phrase": "Red",
+		"context": null,
+		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "rouge",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks and build off the",
+		"context": null,
+		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Bloque et construit à partir du",
+		"machine": true
+	},
+	{
+		"phrase": "Purple",
+		"context": null,
+		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Mauve",
+		"machine": true
+	},
+	{
+		"phrase": "Leaderboards are updated every 30 seconds.",
+		"context": null,
+		"comment": "[Trials] Leaderboard description",
+		"locations": [],
+		"translation": "Les classements sont mis à jour toutes les 30 secondes.",
+		"machine": true
+	},
+	{
+		"phrase": "\nLoading personal times and leaderboards",
+		"context": null,
+		"comment": "[Trials] Text that shows while loading the leaderboard",
+		"locations": [],
+		"translation": "\nChargement des temps personnels et des classements",
+		"machine": true
+	},
+	{
+		"phrase": "You have automatically voted no as you are the target",
+		"context": null,
+		"comment": "[Votekick] This text appears when you are being votekicked",
+		"locations": [],
+		"translation": "Vous avez automatiquement voté non car vous êtes la cible",
+		"machine": true
+	},
+	{
+		"phrase": "Vote yes",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F1] Vote yes'",
+		"locations": [],
+		"translation": "Votez oui",
+		"machine": true
+	},
+	{
+		"phrase": "Vote no",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F2] Vote no'",
+		"locations": [],
+		"translation": "Votez non",
+		"machine": true
+	},
+	{
+		"phrase": "Ignore",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F3] Ignore'",
+		"locations": [],
+		"translation": "Ignorer",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"context": null,
+		"comment": "[Unlock Button] This text shows when unlocking a weapon skin",
+		"locations": [],
+		"translation": "Déverrouillage",
+		"machine": true
+	},
+	{
+		"phrase": "Engineer Pack",
+		"context": null,
+		"comment": "[Unlock Button] If the user HASN'T purchased the Engineer Pack, this text is shown on the unlock button for the Agaman Engineer",
+		"locations": [],
+		"translation": "Pack Ingénieur",
+		"machine": true
+	},
+	{
+		"phrase": "Supporter",
+		"context": null,
+		"comment": "[Unlock Button] If the user HASN'T purchased the Supporter Pack, this text is shown on the unlock button for the Human Renegade",
+		"locations": [],
+		"translation": "Supporter",
+		"machine": true
+	},
+	{
+		"phrase": "1 Token",
+		"context": null,
+		"comment": "[Unlock Button] If the user HAS a character token, this text is shown on the unlock button for the Human Renegade",
+		"locations": [],
+		"translation": "1 jeton",
+		"machine": true
+	},
+	{
+		"phrase": "1 Skin Token",
+		"context": null,
+		"comment": "[Unlock Button] This text shows on the unlock button for the Grid weapon skin",
+		"locations": [],
+		"translation": "1 jeton de skin",
+		"machine": true
+	},
+	{
+		"phrase": "Locked",
+		"context": null,
+		"comment": "[Unlock Button] This character can't be unlocked yet as the player isn't a high enough level",
+		"locations": [],
+		"translation": "Fermé à clé",
 		"machine": true
 	}
 ]
