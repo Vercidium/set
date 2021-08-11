@@ -4,8 +4,8 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Generazione a grappolo",
-		"machine": true
+		"translation": "Spawn di gruppo",
+		"machine": false
 	},
 	{
 		"phrase": "Damage",
@@ -20,8 +20,8 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Eccessivo",
-		"machine": true
+		"translation": "Overkill",
+		"machine": false
 	},
 	{
 		"phrase": "Direct",
@@ -36,8 +36,8 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Assistenza disturbatore",
-		"machine": true
+		"translation": "Assistenza disruptor",
+		"machine": false
 	},
 	{
 		"phrase": "Headshot",
@@ -52,32 +52,32 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Uccisione",
-		"machine": true
+		"translation": "Kill",
+		"machine": false
 	},
 	{
 		"phrase": "Kill streak",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Uccisioni consecutive",
-		"machine": true
+		"translation": "Kill streak",
+		"machine": false
 	},
 	{
 		"phrase": "VIP kill",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Uccisione VIP",
-		"machine": true
+		"translation": "VIP kill",
+		"machine": false
 	},
 	{
 		"phrase": "VIP defend",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Difensore VIP",
-		"machine": true
+		"translation": "Difesa VIP",
+		"machine": false
 	},
 	{
 		"phrase": "Scanner destroyed",
@@ -92,24 +92,24 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Assistente scanner",
-		"machine": true
+		"translation": "Assistenza scanner",
+		"machine": false
 	},
 	{
 		"phrase": "C4 destroyed",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "C4 distrutto",
-		"machine": true
+		"translation": "C4 distrutta",
+		"machine": false
 	},
 	{
 		"phrase": "Disruptor destroyed",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Distruttore distrutto",
-		"machine": true
+		"translation": "Disruptor distrutto",
+		"machine": false
 	},
 	{
 		"phrase": "Avenger",
@@ -156,23 +156,23 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Difendi la bandiera",
-		"machine": true
+		"translation": "Difesa bandiera",
+		"machine": false
 	},
 	{
 		"phrase": "Flag escort",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bandiera scorta",
-		"machine": true
+		"translation": "Escortatore bandiera",
+		"machine": false
 	},
 	{
 		"phrase": "Flag carrier kill",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Uccisione della compagnia di bandiera",
+		"translation": "Uccisione portatore bandiera",
 		"machine": true
 	},
 	{
@@ -180,8 +180,8 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bomba consegna",
-		"machine": true
+		"translation": "Consegna bomba",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb carry",
@@ -204,72 +204,72 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "attacco bomba",
-		"machine": true
+		"translation": "Attacco bomba",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb defend",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Bomba difendi",
-		"machine": true
+		"translation": "Difesa bomba",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb escort",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "scorta bomba",
-		"machine": true
+		"translation": "Escortatore bomba",
+		"machine": false
 	},
 	{
 		"phrase": "Bomb carrier kill",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Uccisione del portatore di bombe",
-		"machine": true
+		"translation": "Uccisione portatore bomba",
+		"machine": false
 	},
 	{
 		"phrase": "Spot assist",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Assistenza spot",
-		"machine": true
+		"translation": "Spot assist",
+		"machine": false
 	},
 	{
 		"phrase": "Attacking",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "attaccando",
-		"machine": true
+		"translation": "Attaccando",
+		"machine": false
 	},
 	{
 		"phrase": "Defending",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "difendendo",
-		"machine": true
+		"translation": "Difendendo",
+		"machine": false
 	},
 	{
 		"phrase": "Contesting",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Contestare",
-		"machine": true
+		"translation": "Contestando",
+		"machine": false
 	},
 	{
 		"phrase": "Canister capture",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Cattura del contenitore",
-		"machine": true
+		"translation": "Cattura contenitore",
+		"machine": false
 	},
 	{
 		"phrase": "Zone capture",
@@ -284,40 +284,40 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Cattura faro",
-		"machine": true
+		"translation": "Cattura beacon",
+		"machine": false
 	},
 	{
 		"phrase": "Beacon destroyed",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Faro distrutto",
-		"machine": true
+		"translation": "Beacon distrutto",
+		"machine": false
 	},
 	{
 		"phrase": "Salvage",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Salvare",
-		"machine": true
+		"translation": "Salvage",
+		"machine": false
 	},
 	{
 		"phrase": "Round win",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Vittoria del round",
-		"machine": true
+		"translation": "Vittoria round",
+		"machine": false
 	},
 	{
 		"phrase": "Round survive",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Sopravvivere rotondo",
-		"machine": true
+		"translation": "Round sopravissuto",
+		"machine": false
 	},
 	{
 		"phrase": "Assist",
@@ -332,23 +332,23 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "L'assistenza conta come uccisione",
-		"machine": true
+		"translation": "Assistenza conta come uccisione",
+		"machine": false
 	},
 	{
 		"phrase": "Fortifying",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "fortificante",
-		"machine": true
+		"translation": "Fortificando",
+		"machine": false
 	},
 	{
 		"phrase": "Most Valuable Player",
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "Giocatore più prezioso",
+		"translation": "Gicatore più prezioso",
 		"machine": true
 	},
 	{
@@ -356,16 +356,16 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "annientatore",
-		"machine": true
+		"translation": "Anniettatore",
+		"machine": false
 	},
 	{
 		"phrase": "Marksman",
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "tiratore scelto",
-		"machine": true
+		"translation": "Tiratore scelto",
+		"machine": false
 	},
 	{
 		"phrase": "Creator",
@@ -388,8 +388,8 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "attaccante",
-		"machine": true
+		"translation": "Attaccante",
+		"machine": false
 	},
 	{
 		"phrase": "Defender",
@@ -436,8 +436,8 @@
 		"context": null,
 		"comment": "Medal name",
 		"locations": [],
-		"translation": "infiltrato",
-		"machine": true
+		"translation": "Infiltratore",
+		"machine": false
 	},
 	{
 		"phrase": "MVP",
@@ -460,8 +460,8 @@
 		"context": null,
 		"comment": "[Scoreboard] Player joining status",
 		"locations": [],
-		"translation": "Collegamento",
-		"machine": true
+		"translation": "Collegando",
+		"machine": false
 	},
 	{
 		"phrase": "Loading Map",
@@ -508,8 +508,8 @@
 		"context": null,
 		"comment": "[Scoreboard] Player joining status",
 		"locations": [],
-		"translation": "spettatore",
-		"machine": true
+		"translation": "Spettatore",
+		"machine": false
 	},
 	{
 		"phrase": "Left",
@@ -524,15 +524,15 @@
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Svolta",
-		"machine": true
+		"translation": "Breakthrough",
+		"machine": false
 	},
 	{
 		"phrase": "Control Shift",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Cambio di controllo",
+		"translation": "Control shift",
 		"machine": true
 	},
 	{
@@ -540,48 +540,48 @@
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Catturare la bandiera",
-		"machine": true
+		"translation": "Cattura della bandiera",
+		"machine": false
 	},
 	{
 		"phrase": "Escort",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Scorta",
-		"machine": true
+		"translation": "Escort",
+		"machine": false
 	},
 	{
 		"phrase": "Gun Game",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Gioco della pistola",
-		"machine": true
+		"translation": "Gun game",
+		"machine": false
 	},
 	{
 		"phrase": "Head Hunter",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Cacciatore di teste",
-		"machine": true
+		"translation": "Head hunter",
+		"machine": false
 	},
 	{
 		"phrase": "Spire",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Guglia",
-		"machine": true
+		"translation": "Spire",
+		"machine": false
 	},
 	{
 		"phrase": "Static",
 		"context": null,
 		"comment": "Game mode name",
 		"locations": [],
-		"translation": "Statico",
-		"machine": true
+		"translation": "Static",
+		"machine": false
 	},
 	{
 		"phrase": "All",
@@ -596,8 +596,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Cacciato da un moderatore",
-		"machine": true
+		"translation": "Espulso da un moderatore",
+		"machine": false
 	},
 	{
 		"phrase": "Already in game",
@@ -620,16 +620,16 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Vietato",
-		"machine": true
+		"translation": "Bannato",
+		"machine": false
 	},
 	{
 		"phrase": "Disconnected",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "disconnesso",
-		"machine": true
+		"translation": "Disconnesso",
+		"machine": false
 	},
 	{
 		"phrase": "EAC Violation",
@@ -644,8 +644,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Bocciato per inattività",
-		"machine": true
+		"translation": "Espulso per inattività",
+		"machine": false
 	},
 	{
 		"phrase": "Internal error",
@@ -660,8 +660,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "La mappa si sta ripristinando. riprova tra 10 secondi",
-		"machine": true
+		"translation": "La mappa si sta ripristinando. Riprova tra 10 secondi",
+		"machine": false
 	},
 	{
 		"phrase": "Network Error",
@@ -700,8 +700,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Temporaneamente bandito",
-		"machine": true
+		"translation": "Bannato temporaneamente",
+		"machine": false
 	},
 	{
 		"phrase": "Version mismatch",
@@ -716,24 +716,24 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Votekicked",
-		"machine": true
+		"translation": "Espulsione a votazione",
+		"machine": false
 	},
 	{
 		"phrase": "Votekick still in effect",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Votekick ancora in vigore",
-		"machine": true
+		"translation": "Esplusione a votazione ancora in vigore",
+		"machine": false
 	},
 	{
 		"phrase": "Incorrect password",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "password errata",
-		"machine": true
+		"translation": "Password errata",
+		"machine": false
 	},
 	{
 		"phrase": "Your level is too high",
@@ -756,8 +756,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Lobby già rivendicata",
-		"machine": true
+		"translation": "Lobby già richiesta",
+		"machine": false
 	},
 	{
 		"phrase": "Min level must be lower than your own",
@@ -804,8 +804,8 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Non può rivendicare. la lobby ha giocatori",
-		"machine": true
+		"translation": "Richiesta rifiutata. La lobby ha giocatori",
+		"machine": false
 	},
 	{
 		"phrase": "Reserved slot expired",
@@ -844,16 +844,16 @@
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "Divisore del raggio",
-		"machine": true
+		"translation": "Beam splitter",
+		"machine": false
 	},
 	{
 		"phrase": "Choke",
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "Soffocare",
-		"machine": true
+		"translation": "Choke",
+		"machine": false
 	},
 	{
 		"phrase": "Compressor",
@@ -884,8 +884,8 @@
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "più esteso",
-		"machine": true
+		"translation": "Più esteso",
+		"machine": false
 	},
 	{
 		"phrase": "Resonator",
@@ -908,8 +908,8 @@
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "medio",
-		"machine": true
+		"translation": "Medio",
+		"machine": false
 	},
 	{
 		"phrase": "Short",
@@ -924,16 +924,16 @@
 		"context": null,
 		"comment": "Foregrip attachment name",
 		"locations": [],
-		"translation": "ad angolo",
-		"machine": true
+		"translation": "Ad angolo",
+		"machine": false
 	},
 	{
 		"phrase": "Removed",
 		"context": null,
 		"comment": "Attachment name",
 		"locations": [],
-		"translation": "RIMOSSO",
-		"machine": true
+		"translation": "Rimosso",
+		"machine": false
 	},
 	{
 		"phrase": "Stubby",
@@ -996,8 +996,8 @@
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Rimbalzare",
-		"machine": true
+		"translation": "Ricochet",
+		"machine": false
 	},
 	{
 		"phrase": "Slug",
@@ -1012,32 +1012,32 @@
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Pallettoni",
-		"machine": true
+		"translation": "Buckshot",
+		"machine": false
 	},
 	{
 		"phrase": "Burst",
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Scoppiare",
-		"machine": true
+		"translation": "Burst",
+		"machine": false
 	},
 	{
 		"phrase": "Tow",
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Trainare",
-		"machine": true
+		"translation": "Tow",
+		"machine": false
 	},
 	{
 		"phrase": "Triple",
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "Triplicare",
-		"machine": true
+		"translation": "Triplo",
+		"machine": false
 	},
 	{
 		"phrase": "Lethal",
@@ -1076,8 +1076,8 @@
 		"context": null,
 		"comment": "Payload attachment name",
 		"locations": [],
-		"translation": "incendiario",
-		"machine": true
+		"translation": "Incendiario",
+		"machine": false
 	},
 	{
 		"phrase": "Base",
@@ -1116,16 +1116,16 @@
 		"context": null,
 		"comment": "Combat Shotgun choke attachment name",
 		"locations": [],
-		"translation": "Avanzate",
-		"machine": true
+		"translation": "Avanzato",
+		"machine": false
 	},
 	{
 		"phrase": "Welded",
 		"context": null,
 		"comment": "Combat Shotgun choke attachment name",
 		"locations": [],
-		"translation": "saldato",
-		"machine": true
+		"translation": "Saldato",
+		"machine": false
 	},
 	{
 		"phrase": "Pneumatic",
@@ -1140,8 +1140,8 @@
 		"context": null,
 		"comment": "Core attachment name, i.e. single shot vs automatic fire",
 		"locations": [],
-		"translation": "Separare",
-		"machine": true
+		"translation": "Singolo",
+		"machine": false
 	},
 	{
 		"phrase": "Automatic",
@@ -1156,8 +1156,8 @@
 		"context": null,
 		"comment": "Core attachment name",
 		"locations": [],
-		"translation": "Taglierina al plasma",
-		"machine": true
+		"translation": "Tagliatore Plasma",
+		"machine": false
 	},
 	{
 		"phrase": "Sniper",
@@ -1220,8 +1220,8 @@
 		"context": null,
 		"comment": "Sight attachment name",
 		"locations": [],
-		"translation": "mirini di ferro",
-		"machine": true
+		"translation": "Mirino a ferro",
+		"machine": false
 	},
 	{
 		"phrase": "Broken Circle",
@@ -1229,15 +1229,15 @@
 		"comment": "Crosshair name",
 		"locations": [],
 		"translation": "Cerchio spezzato",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Broken Square",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "quadrato rotto",
-		"machine": true
+		"translation": "Quadrato spezzato",
+		"machine": false
 	},
 	{
 		"phrase": "Chevron",
@@ -1252,31 +1252,31 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Cerchio croce",
-		"machine": true
+		"translation": "Mirino a cerchio",
+		"machine": false
 	},
 	{
 		"phrase": "Dot Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "punto croce",
-		"machine": true
+		"translation": "Mirino con punto",
+		"machine": false
 	},
 	{
 		"phrase": "Dotted Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Croce punteggiata",
-		"machine": true
+		"translation": "Mirino punteggiato",
+		"machine": false
 	},
 	{
 		"phrase": "Pointed Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "croce appuntita",
+		"translation": "Mirino puntato",
 		"machine": true
 	},
 	{
@@ -1284,95 +1284,95 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Croce punteggiata sparsa",
-		"machine": true
+		"translation": "Mirino sparso punteggiato",
+		"machine": false
 	},
 	{
 		"phrase": "Unbroken Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Croce ininterrotta",
-		"machine": true
+		"translation": "Mirino ininterrotto",
+		"machine": false
 	},
 	{
 		"phrase": "2px Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "2px punto",
-		"machine": true
+		"translation": "Mirino con punto a 2px",
+		"machine": false
 	},
 	{
 		"phrase": "4px Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Punto 4px",
-		"machine": true
+		"translation": "Mirino con punto a 4px",
+		"machine": false
 	},
 	{
 		"phrase": "6px Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "6px punto",
-		"machine": true
+		"translation": "Mirino con punto a 6px",
+		"machine": false
 	},
 	{
 		"phrase": "8px Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Punto 8px",
-		"machine": true
+		"translation": "Mirino con punto a 8px",
+		"machine": false
 	},
 	{
 		"phrase": "Flat Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "punto piatto",
-		"machine": true
+		"translation": "Mirino con punto piatto",
+		"machine": false
 	},
 	{
 		"phrase": "Dot Plus",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Punto più",
-		"machine": true
+		"translation": "Mirino a più",
+		"machine": false
 	},
 	{
 		"phrase": "Dot Plus Circle",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Punto più cerchio",
-		"machine": true
+		"translation": "Mirino con punto e cerchio",
+		"machine": false
 	},
 	{
 		"phrase": "Dot T",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "punto T",
-		"machine": true
+		"translation": "Mirino a punto con T",
+		"machine":false
 	},
 	{
 		"phrase": "Empty Plus",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Vuoto plus",
-		"machine": true
+		"translation": "Mirino vuoto a più",
+		"machine": false
 	},
 	{
 		"phrase": "Empty T",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Vuoto T",
+		"translation": "Mirino vuoto a T",
 		"machine": true
 	},
 	{
@@ -1380,7 +1380,7 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "punto T",
+		"translation": "Mirino a T",
 		"machine": true
 	},
 	{
@@ -1388,7 +1388,7 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "T punto tondo",
+		"translation": "Mirino a T tondo",
 		"machine": true
 	},
 	{
@@ -1396,8 +1396,8 @@
 		"context": null,
 		"comment": "Weapon skin category name",
 		"locations": [],
-		"translation": "Camoflague",
-		"machine": true
+		"translation": "Mimetico",
+		"machine": false
 	},
 	{
 		"phrase": "Metallic",
@@ -1436,24 +1436,24 @@
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "Poli",
-		"machine": true
+		"translation": "Poly",
+		"machine": false
 	},
 	{
 		"phrase": "Snakeskin",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "pelle di serpente",
-		"machine": true
+		"translation": "Pelle di serpente",
+		"machine": false
 	},
 	{
 		"phrase": "Woodland",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "bosco",
-		"machine": true
+		"translation": "Bosco",
+		"machine": false
 	},
 	{
 		"phrase": "Hot Metal",
@@ -1532,32 +1532,32 @@
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Lancia con il tasto sinistro e fai esplodere con il tasto destro. al respawn, i c4 sono disconnessi da te e devono essere colpiti per far esplodere.",
-		"machine": true
+		"translation": "Lancia con il tasto sinistro e fai esplodere con il tasto destro. Al respawn, i c4 sono disconnessi da te e devono essere colpiti per far esplodere.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Questo fucile a media gittata dà un pugno a lunghe distanze.\nDurante l'esplorazione, la sua diffusione del pellet si ridurrà del 70% in 3,0 secondi.",
-		"machine": true
+		"translation": "Questo fucile a media gittata dà un pugno a lunghe distanze.\nSe mirato, la sua diffusione del pellet si ridurrà del 70% in 3,0 secondi.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Deprecato] una testimonianza della tecnologia avanzata di aegis.",
-		"machine": true
+		"translation": "[Deprecato] Una testimonianza per la tecnologia avanzata di Aegis.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Deprecato] scavo midi più lento che rimuove un blocco 3x3x3 di blocchi.",
-		"machine": true
+		"translation": "[Deprecato] Scavo Midi più lento che rimuove un blocco 3x3x3 di blocchi.",
+		"machine": false
 	},
 	{
 		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
