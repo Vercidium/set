@@ -17,7 +17,7 @@ Each word in each JSON file follows this format:
 },
 ```
 - `phrase` - English keyword
-- `context` - A more specific keyword, which is sent to DeepL instead of `phrase`
+- `context` - A more specific keyword. If this field is present, please translate this rather than `phrase`
 - `comment` - An explanation of the phrase, or an example of the single word in a sentence. Some comments start with `[Settings] [Button]`, which are attributes you can use to search through the file faster
-- `translation` is the translated word
-- `machine` is true if this translation was done by DeepL. **Delete this line when you translate the phrase, so that DeepL doesn't overwrite it**
+- `translation` - The translation of `context`. If `context` is missing, this is the translation of `phrase`
+- `machine` - This is set to true if this translation was done by DeepL. **Delete this line when you translate the phrase, so that DeepL doesn't overwrite it**
