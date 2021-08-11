@@ -3676,48 +3676,48 @@
 		"context": null,
 		"comment": "[Setting] [Slider] This controls the cut-off distance for rendering the map. The unit for this setting is chunks (groups of 32x32x32 voxels)",
 		"locations": [],
-		"translation": "render mesafesi",
-		"machine": true
+		"translation": "Render mesafesi",
+		"machine": false
 	},
 	{
 		"phrase": "Chunks",
 		"context": null,
 		"comment": "[Unit] A group of 32x32x32 voxels",
 		"locations": [],
-		"translation": "parçalar",
-		"machine": true
+		"translation": "Chunk'lar",
+		"machine": false
 	},
 	{
 		"phrase": "Max Chunk Updates",
 		"context": null,
 		"comment": "[Setting] [Slider] CPU performance setting. This slider sets a limit for how many chunks can be meshed each frame",
 		"locations": [],
-		"translation": "Maksimum yığın güncellemeleri",
-		"machine": true
+		"translation": "Maksimum Chunk güncellemeleri",
+		"machine": false
 	},
 	{
 		"phrase": "Particle Amount",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls how many particles can be rendered at any one time",
 		"locations": [],
-		"translation": "parçacık miktarı",
-		"machine": true
+		"translation": "Parçacık miktarı",
+		"machine": false
 	},
 	{
 		"phrase": "Weather Particle Amount",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls how many weather particles (e.g. rain and snow) can be rendered at any one time",
 		"locations": [],
-		"translation": "Hava parçacık miktarı",
-		"machine": true
+		"translation": "Hava durumu parçacık miktarı",
+		"machine": false
 	},
 	{
 		"phrase": "Postprocessing",
 		"context": "Post processing",
 		"comment": "[Settings Section Header] Post processing encompasses effects that are applied once the world has been rendered, such as lights, shadows, ambient occlusion and bloom",
 		"locations": [],
-		"translation": "Rötuş",
-		"machine": true
+		"translation": "Postproccessing",
+		"machine": false
 	},
 	{
 		"phrase": "Max Lights",
@@ -3725,7 +3725,7 @@
 		"comment": "[Setting] [Slider] This controls how many lights can be rendered at any one time",
 		"locations": [],
 		"translation": "Maksimum ışıklar",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Lights",
@@ -3733,15 +3733,15 @@
 		"comment": "[Unit] The amount of in-game lights",
 		"locations": [],
 		"translation": "Işıklar",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Lighting Quality",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls the quality of lighting effects",
 		"locations": [],
-		"translation": "aydınlatma kalitesi",
-		"machine": true
+		"translation": "Aydınlatma kalitesi",
+		"machine": false
 	},
 	{
 		"phrase": "SSAO Samples",
@@ -3749,39 +3749,39 @@
 		"comment": "[Setting] [Slider] This controls the quality of ambient occlusion",
 		"locations": [],
 		"translation": "SSAO örnekleri",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Samples",
 		"context": null,
 		"comment": "[Unit] The amount of times a shader should gather information from a texture",
 		"locations": [],
-		"translation": "örnekler",
-		"machine": true
+		"translation": "Örnekler",
+		"machine": false
 	},
 	{
 		"phrase": "Bloom Strength",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls the intensity of bloom effects, e.g. Soltirum glows blue",
 		"locations": [],
-		"translation": "çiçek gücü",
-		"machine": true
+		"translation": "Bloom gücü",
+		"machine": false
 	},
 	{
 		"phrase": "Render Bloom On Optics",
 		"context": null,
 		"comment": "[Setting] [Checkbox] This controls whether bloom effects will be shown on ironsights and red dot scopes",
 		"locations": [],
-		"translation": "Optik üzerinde çiçek oluşturma",
-		"machine": true
+		"translation": "Optik üzerinde Bloom işleme",
+		"machine": false
 	},
 	{
 		"phrase": "Render Crepuscular Rays",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls whether sun beams \/ light shafts \/ crepuscular rays should be rendered",
 		"locations": [],
-		"translation": "alacakaranlık ışınları oluştur",
-		"machine": true
+		"translation": "Güneş ışınlarını işleme",
+		"machine": false
 	},
 	{
 		"phrase": "Enable Anti-Aliasing",
@@ -3789,39 +3789,39 @@
 		"comment": "[Setting] [Slider] Enable this to reduce the visible pixelation of the final game render",
 		"locations": [],
 		"translation": "Kenar yumuşatmayı etkinleştir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Outer Scope Blur",
 		"context": null,
 		"comment": "[Setting] [Slider] Bare Minimum setting. When scoping with a 2X or 4X sight, enable this to render the world out-of-focus around the gun",
 		"locations": [],
-		"translation": "Dış kapsam bulanıklığı",
-		"machine": true
+		"translation": "Dürbün dışı blur",
+		"machine": false
 	},
 	{
 		"phrase": "Compatibility",
 		"context": null,
 		"comment": "[Settings Section Header]",
 		"locations": [],
-		"translation": "uyumluluk",
-		"machine": true
+		"translation": "Uyumluluk",
+		"machine": false
 	},
 	{
 		"phrase": "Bare Minimum",
 		"context": "Lowest Quality",
 		"comment": "[Setting] [Checkbox] The Bare Minimum rendering setting renders the game at the lowest quality possible for maximum FPS",
 		"locations": [],
-		"translation": "Çıplak minimum",
-		"machine": true
+		"translation": "En düşük ayarlar",
+		"machine": false
 	},
 	{
 		"phrase": "Animated Block Skins",
 		"context": "Animated Cube Textures",
 		"comment": "[Setting] [Checkbox] This controls whether animated block skins should be rendered",
 		"locations": [],
-		"translation": "Hareketli blok görünümleri",
-		"machine": true
+		"translation": "Animasyonlu bloklar",
+		"machine": false
 	},
 	{
 		"phrase": "Experimental",
@@ -3829,7 +3829,7 @@
 		"comment": "[Setting] [Checkbox] This setting enables new, work-in-progress rendering features",
 		"locations": [],
 		"translation": "Deneysel",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Extensions",
@@ -3837,7 +3837,7 @@
 		"comment": "[Setting] [Checkbox] The full text for this string is NVIDIA OpenGL Extensions. This controls whether OpenGL features that are only available on NVIDIA cards should be used",
 		"locations": [],
 		"translation": "Uzantılar",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Source",
@@ -3845,7 +3845,7 @@
 		"comment": "[Setting] [Dropdown] Select the output source for the game audio, e.g. speakers or headphones",
 		"locations": [],
 		"translation": "Kaynak",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Volume",
@@ -3853,23 +3853,23 @@
 		"comment": "[Unit] How loud something is",
 		"locations": [],
 		"translation": "Ses",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sound Effect Volume",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls the volume of gun fire, explosions, hitmarkers, etc",
 		"locations": [],
-		"translation": "Ses efekti hacmi",
-		"machine": true
+		"translation": "Efekt sesleri",
+		"machine": false
 	},
 	{
 		"phrase": "Ambient Volume",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls the volume of wind and other background sound effects",
 		"locations": [],
-		"translation": "Ortam hacmi",
-		"machine": true
+		"translation": "Çevre sesleri",
+		"machine": false
 	},
 	{
 		"phrase": "Game Music Volume",
@@ -3877,23 +3877,23 @@
 		"comment": "[Setting] [Slider] This controls the volume of music in-game",
 		"locations": [],
 		"translation": "Oyun müziği ses seviyesi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Menu Music Volume",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls the volume of music while on the main menu",
 		"locations": [],
-		"translation": "Menü müzik ses seviyesi",
-		"machine": true
+		"translation": "Menü müziği ses seviyesi",
+		"machine": false
 	},
 	{
 		"phrase": "Personal Footsteps Volume",
 		"context": null,
 		"comment": "[Setting] [Slider] This controls the volume of your own footsteps",
 		"locations": [],
-		"translation": "Kişisel ayak sesleri hacmi",
-		"machine": true
+		"translation": "Kişisel ayak sesleri",
+		"machine": false
 	},
 	{
 		"phrase": "Movement",
@@ -3901,39 +3901,39 @@
 		"comment": "[Settings Section Header] This section contains keybinds for WASD, crouch, jump, etc",
 		"locations": [],
 		"translation": "Hareket",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Actions",
 		"context": null,
 		"comment": "[Settings Section Header] This section contains keybinds for picking up weapons and pinging",
 		"locations": [],
-		"translation": "Hareketler",
-		"machine": true
+		"translation": "Aksiyonlar",
+		"machine": false
 	},
 	{
 		"phrase": "Weaponry",
 		"context": null,
 		"comment": "[Settings Section Header] This section contains keybinds for shoot, scope, reload, melee and grenade throw",
 		"locations": [],
-		"translation": "silah",
-		"machine": true
+		"translation": "Silah",
+		"machine": false
 	},
 	{
 		"phrase": "Single Dig by Default",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Enable this to make left click dig a 1x1x1 section of blocks, and right click dig a 3x3x3 section of blocks",
 		"locations": [],
-		"translation": "Varsayılan olarak tek kazı",
-		"machine": true
+		"translation": "Varsayılan olarak tek blok kaz",
+		"machine": false
 	},
 	{
 		"phrase": "Tools",
 		"context": null,
 		"comment": "[Settings Section Header] This section contains keybinds for swapping to primary\/secondary weapons or equipment",
 		"locations": [],
-		"translation": "Araçlar",
-		"machine": true
+		"translation": "Alatler",
+		"machine": false
 	},
 	{
 		"phrase": "HUD",
@@ -3941,7 +3941,7 @@
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"locations": [],
 		"translation": "HUD",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Navigation",
@@ -3949,15 +3949,15 @@
 		"comment": "[Settings Section Header] This section contains keybinds for changing between news\/store\/ship screens",
 		"locations": [],
 		"translation": "Navigasyon",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Mapping",
 		"context": null,
 		"comment": "[Settings Section Header] This section contains keybinds for reloading and testing custom maps",
 		"locations": [],
-		"translation": "Haritalama",
-		"machine": true
+		"translation": "Harita yapma",
+		"machine": false
 	},
 	{
 		"phrase": "Team Colours",
@@ -3965,15 +3965,15 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Takım renkleri",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Friendly Colour",
 		"context": null,
 		"comment": "[Setting] [Colour Picker] This controls the colour of friendlies",
 		"locations": [],
-		"translation": "Dostu renk",
-		"machine": true
+		"translation": "Takım rengi",
+		"machine": false
 	},
 	{
 		"phrase": "Party Colour",
@@ -3981,31 +3981,31 @@
 		"comment": "[Setting] [Colour Picker] This controls the colour of party members",
 		"locations": [],
 		"translation": "Parti rengi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Enemy Colour",
 		"context": null,
 		"comment": "[Setting] [Colour Picker] This controls the colour of enemies",
 		"locations": [],
-		"translation": "düşman rengi",
-		"machine": true
+		"translation": "Düşman rengi",
+		"machine": false
 	},
 	{
 		"phrase": "Newbie Colour",
 		"context": "New Player Colour",
 		"comment": "[Setting] [Colour Picker] This controls the colour of new players",
 		"locations": [],
-		"translation": "acemi rengi",
-		"machine": true
+		"translation": "Acemi rengi",
+		"machine": false
 	},
 	{
 		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
 		"context": null,
 		"comment": "[Settings Header Title] This is a summary about how the points UI customisation works",
 		"locations": [],
-		"translation": "Burada oyun içinde kazandığınız puanların nasıl görüntüleneceğini özelleştirebilirsiniz. birincil noktalar nokta kümesinin en üstüne yerleştirilir ve ikincil noktalar nokta kümesinin altına yerleştirilir.",
-		"machine": true
+		"translation": "Burada oyun içinde kazandığınız puanların nasıl görüntüleneceğini özelleştirebilirsiniz. birincil puanlar puan kümesinin en üstüne yerleştirilir ve ikincil puanlar puan kümesinin altına yerleştirilir.",
+		"machine": false
 	},
 	{
 		"phrase": "High Quality Meshing",
@@ -4013,31 +4013,31 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Yüksek kaliteli ağ oluşturma",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "GPU üzerindeki baskıyı azaltan daha yüksek kaliteli dünya ağları üreten CPU'ya daha fazla zaman ayırın.",
-		"machine": true
+		"translation": "GPU üzerindeki baskıyı azaltarak CPU üzerindeki baskıyı arttırır.",
+		"machine": false
 	},
 	{
 		"phrase": "The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Oyun, FPS'yi yüksek tutmak için efektleri otomatik olarak devre dışı bırakır ve son işleme kalitesini düşürür. optimal işleme ayarlarını belirlemek bir dakika kadar sürebilir.",
-		"machine": true
+		"translation": "Oyun, FPS'i yüksek tutmak için efektleri otomatik olarak devre dışı bırakır ve son işleme kalitesini düşürür. Optimal işleme ayarlarını belirlemek bir dakika kadar sürebilir.",
+		"machine": false
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
 		"context": null,
 		"comment": "Peacekeeper description",
 		"locations": [],
-		"translation": "Düşmanlar, seviye 20 veya daha düşükse ve 1 veya daha az KDR'ye sahiplerse vurgulanacaktır..",
-		"machine": true
+		"translation": "20 seviye ve daha düşük olan düşmanlar ve KDR'ı 1'den düşük olan düşmanlar Acemi olarak işaretlenir.",
+		"machine": false
 	},
 	{
 		"phrase": "For the duration Peacekeeper is enabled, deal",
@@ -4045,7 +4045,7 @@
 		"comment": "[1\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
 		"translation": "Barış gücü etkin olduğu süre boyunca, anlaşma",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "damage to these players and earn",
@@ -4053,7 +4053,7 @@
 		"comment": "[2\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
 		"translation": "bu oyunculara zarar ver ve kazan",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "extra XP and Protons.",
@@ -4061,7 +4061,7 @@
 		"comment": "[3\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
 		"translation": "ekstra XP ve Protonlar.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Changes take effect on respawn. Peacekeeper has no effect in free for all game modes.",
@@ -4069,55 +4069,55 @@
 		"comment": "[4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
 		"locations": [],
 		"translation": "Değişiklikler yeniden doğuşta etkili olur. Peacekeeper'ın tüm oyun modları için ücretsiz olarak hiçbir etkisi yoktur.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Sunucudan oyuncu verilerini ne sıklıkta alacağınızı değiştirir. kararsız veya düşük bant genişliğine sahip internetteyseniz bu değeri düşürün.",
-		"machine": true
+		"translation": "Sunucudan oyuncu verilerini ne sıklıkta alacağınızı değiştirir. Kararsız veya düşük bant genişliğine sahip internetteyseniz bu değeri düşürün.",
+		"machine": false
 	},
 	{
 		"phrase": "Must keep enabled at all times",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Her zaman etkin durumda kalmalıdır",
-		"machine": true
+		"translation": "Her zaman etkin durumda kalmalıdır(şaka amaçlı)",
+		"machine": false
 	},
 	{
 		"phrase": "The size of the bottom-right minimap",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Sağ alt mini haritanın boyutu",
-		"machine": true
+		"translation": "Sağ alttaki mini haritanın boyutu",
+		"machine": false
 	},
 	{
 		"phrase": "The internal scale of the bottom-right minimap",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Sağ alt mini haritanın iç ölçeği",
-		"machine": true
+		"translation": "Sağ alttaki mini haritanın iç ölçeği",
+		"machine": false
 	},
 	{
 		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Sunucu adı puan tablosunda görüntülenmeyecek ve diğer oyuncu adları ve seviyeleri sizin için rastgele seçilecektir..",
-		"machine": true
+		"translation": "Sunucu adı puan tablosunda görüntülenmeyecek ve diğer oyuncu adları ve seviyeleri sizin için rastgele seçilecektir.",
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether the in-game HUD is rendered. Shortcut:",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Oyun içi HUD'nin oluşturulup oluşturulmayacağını kontrol eder. kısayol:",
-		"machine": true
+		"translation": "Oyun içi HUD'un oluşturulup oluşturulmayacağını kontrol eder. kısayol:",
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether the chat is rendered. Shortcut:",
@@ -4125,55 +4125,55 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Sohbetin oluşturulup oluşturulmayacağını kontrol eder. kısayol:",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Show Kill Feed",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Öldürme akışını göster",
-		"machine": true
+		"translation": "Killfeed'i göster",
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether the kill feed is rendered. Shortcut:",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Öldürme akışının oluşturulup oluşturulmayacağını kontrol eder. kısayol:",
-		"machine": true
+		"translation": "Killfeed'in gözüküp gözükmeyeceğini kontrol eder. kısayol:",
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether player names are rendered. Shortcut:",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Oyuncu adlarının oluşturulup oluşturulmayacağını kontrol eder. kısayol:",
-		"machine": true
+		"translation": "Oyuncu adlarının gözüküp gözükmeyeceğini kontrol eder. kısayol:",
+		"machine": false
 	},
 	{
 		"phrase": "This controls the scale of all UI and in-game HUD. Press",
 		"context": null,
 		"comment": "[1\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100",
 		"locations": [],
-		"translation": "Bu, tüm kullanıcı arayüzünün ve oyun içi HUD'nin ölçeğini kontrol eder. basmak",
-		"machine": true
+		"translation": "Bu, tüm kullanıcı arayüzünün ve oyun içi HUD'un ölçeğini kontrol eder. 100'e sıfırlamak için",
+		"machine": false
 	},
 	{
 		"phrase": "to reset it back to 100%",
 		"context": null,
 		"comment": "[2\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100%",
 		"locations": [],
-		"translation": "100'e geri döndürmek için%",
-		"machine": true
+		"translation": "bas",
+		"machine": false
 	},
 	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Parçacıklar, nesnelere çarpıldığında veya yok edildiğinde üretilir. bu yüzdeyi düşürmek FPS'yi artıracaktır",
-		"machine": true
+		"translation": "Parçacıklar, objeler parçalandığında ortaya çıkar. Bu yüzdeyi düşürmek FPS'i artıracaktır",
+		"machine": false
 	},
 	{
 		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS",
@@ -4181,23 +4181,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Harita, 32x32x32 bloklardan oluşan parçalara bölünmüştür. Bunu azaltmak FPS'yi artıracaktır.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Max Lights",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Maksimum ışıklar",
-		"machine": true
+		"translation": "Maksimum ışık miktarı",
+		"machine": false
 	},
 	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Dünya güneş ışıkları, blok ışıkları ve silahlardan gelen namlu flaşlarıyla aydınlatılıyor. oluşturulabilecek maksimum ışık miktarını azaltmak FPS'yi artıracaktır",
-		"machine": true
+		"translation": "Dünya güneş ışıkları, blok ışıkları ve silahlardan çıkan namlu ateşleriyle aydınlatılıyor. Oluşturulabilecek maksimum ışık miktarını azaltmak FPS'yi artıracaktır",
+		"machine": false
 	},
 	{
 		"phrase": "Max FPS",
@@ -4205,7 +4205,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Maksimum FPS",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage",
@@ -4213,7 +4213,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Saniyedeki kare sayısı (FPS), oyunun her saniye güncellenme sayısıdır. bu değeri düşürmek CPU ve GPU kullanımını azaltacaktır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Enable SSAO",
@@ -4221,23 +4221,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "SSAO'yu etkinleştir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ekran alanı ortam tıkanıklığı, nesneler arasındaki yarıkları koyulaştırır",
-		"machine": true
+		"translation": "SSAO, nesneler arasındaki yarıkları koyulaştırır",
+		"machine": false
 	},
 	{
 		"phrase": "Enable Bloom",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Çiçek açmayı etkinleştir",
-		"machine": true
+		"translation": "Bloom'u etkinleştir",
+		"machine": false
 	},
 	{
 		"phrase": "Bloom increases and blurs the brightness of emissive surfaces",
@@ -4245,31 +4245,31 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Bloom, yayılan yüzeylerin parlaklığını artırır ve bulanıklaştırır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Enable Bloom On Optics",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Optikte çiçeklenmeyi etkinleştir",
-		"machine": true
+		"translation": "Optikte Bloom'u etkinleştir",
+		"machine": false
 	},
 	{
 		"phrase": "Enable Crepuscular Rays",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "alacakaranlık ışınları etkinleştir",
-		"machine": true
+		"translation": "Güneş ışınlarını etkinleştir",
+		"machine": false
 	},
 	{
 		"phrase": "Crepuscular rays are shafts of lights that originate from a star",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Alacakaranlık ışınları, bir yıldızdan kaynaklanan ışık demetleridir.",
-		"machine": true
+		"translation": "Güneş ışınları, bir yıldızdan kaynaklanan ışık demetleridir.",
+		"machine": false
 	},
 	{
 		"phrase": "Enable Shadows",
@@ -4277,7 +4277,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Gölgeleri etkinleştir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Parts of the map will be darkened by the shadows cast from other objects",
@@ -4285,7 +4285,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Haritanın bazı bölümleri, diğer nesnelerden gelen gölgeler tarafından karartılacak",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether players from casting shadows",
@@ -4293,31 +4293,31 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Oyuncuların gölge yapıp yapmayacağını kontrol eder",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether Disruptors, C4, Scanners and Canisters cast shadows",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Bozucuların, c4, tarayıcıların ve kutuların gölge oluşturup oluşturmadığını kontrol eder",
-		"machine": true
+		"translation": "Disruptor'ların, C4'lerin, Scanner'ların ve Canister'lerin gölge oluşturup oluşturmadığını kontrol eder",
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether particles cast shadows",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Parçacıkların gölge oluşturup oluşturmayacağını kontrol eder",
-		"machine": true
+		"translation": "Parçacıkların gölgesinin olup olmayacağını kontrol eder",
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether leaf particles cast shadows",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Yaprak parçacıklarının gölge oluşturup oluşturmayacağını kontrol eder",
-		"machine": true
+		"translation": "Yaprakların gölgesinin olup olmayacağını kontrol eder",
+		"machine": false
 	},
 	{
 		"phrase": "Controls whether falling structures cast shadows",
@@ -4325,7 +4325,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Düşen yapıların gölge oluşturup oluşturmayacağını kontrol eder",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Enable Multisampling",
@@ -4333,7 +4333,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Çoklu örneklemeyi etkinleştir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Multisampling smooths the edges of objects",
@@ -4341,30 +4341,30 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Çoklu örnekleme, nesnelerin kenarlarını yumuşatır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Bare Minimum",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Çıplak minimum",
-		"machine": true
+		"translation": "En düşük ayarlar",
+		"machine": false
 	},
 	{
 		"phrase": "The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Çıplak minimum işleme modu, tüm son işlemeyi atlar ve nesneleri doğrudan ekrana işler. bunu devre dışı bırakmak biraz zaman alabilir",
-		"machine": true
+		"translation": "En düşük ayarlar modu, tüm son işlemeyi atlar ve nesneleri doğrudan ekrana işler. Bunu devre dışı bırakmak biraz zaman alabilir",
+		"machine": false
 	},
 	{
 		"phrase": "With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Minimum minimum etkinleştirildiğinde, bu, 2x ve 4x dürbünlerin etrafındaki bölgenin bulanık mı yoksa siyah mı olduğunu kontrol eder.",
+		"translation": "En düşük ayarlar modu etkinleştirildiğinde, bu, 2x ve 4x dürbünlerin etrafındaki bölgenin bulanık mı yoksa siyah mı olduğunu kontrol eder.",
 		"machine": true
 	},
 	{
