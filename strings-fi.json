@@ -1293,7 +1293,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "T kärki",
-		"machine": false
+		"machine": true
 	},
 	{
 		"phrase": "T Point Round",
@@ -1477,7 +1477,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Tässä kranaatissa on epävakaa soltriumydin ja se räjähtää 3 sekunnin kuluttua. Kaikilla pelaajilla on kaksi kranaattia, mutta tämän mahdollistaminen saa kranaatit tarttumaan seiniin.",
-		"machine": false
+    "machine": false
 	},
 	{
 		"phrase": "Agaman technology that cuts through blocks instantly.",
@@ -1564,64 +1564,64 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä kova iskevä lähietäisyysase sisältää voimakkaan soltriumytimen.",
-		"machine": true
+		"translation": "Tämä kovaa iskevä lähietäisyysase, sisältää voimakkaan soltriumytimen.",
+		"machine": false
 	},
 	{
 		"phrase": "Such a small gun. Such a massive boom.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Niin pieni ase. niin valtava nousu.",
-		"machine": true
+		"translation": "Niin pieni ase. Niin valtava räjähdys.",
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä pitkän kantaman ase käyttää soltrium -käyttövoimatekniikkaa räjähtävien ohjusten laukaisemiseen.",
-		"machine": true
+		"translation": "Tämä pitkän kantaman ase käyttää soltrium -käyttövoimateknologiaa räjähtävien ohjusten laukaisemiseen.",
+		"machine": false
 	},
 	{
 		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Käynnistää kelluvan skannauspallon, joka sykkii kahden sekunnin välein ja paljastaa viholliset seinien läpi.\nVihollisen pelaajat voivat ampua skanneripalloja.",
-		"machine": true
+		"translation": "Laukaisee leijuvan skannauspallon, joka sykkii kahden sekunnin välein ja paljastaa viholliset seinien läpi.\nVihollis pelaajat voivat ampua skanneripalloja.",
+		"machine": false
 	},
 	{
 		"phrase": "This close ranged weapon creates a blast of shrapnel.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä lähietäisyysase tuottaa räjähdyksen.",
-		"machine": true
+		"translation": "Tämä lähietäisyysase tuottaa sirpale räjähdyksen.",
+		"machine": false
 	},
 	{
 		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä lähellä keskialuetta oleva ase pakkaa iskun. varo takamusta.",
-		"machine": true
+		"translation": "Tämä lähi-keskietäisyyden ase pakkaa voimakkaan iskun. Valppaana rekyylin kanssa.",
+		"machine": false
 	},
 	{
 		"phrase": "Place block structures with this tool.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Aseta lohkorakenteet tällä työkalulla.",
-		"machine": true
+		"translation": "Aseta kuutiorakenne tällä työkalulla.",
+		"machine": false
 	},
 	{
 		"phrase": "Attaches to walls. Right click to pull the wall down.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Kiinnitetään seiniin. Vedä seinä alas napsauttamalla hiiren kakkospainiketta.",
-		"machine": true
+		"translation": "Kiinnittyy seiniin. Vedä seinä alas napsauttamalla hiiren oikeaa näppäintä.",
+		"machine": false
 	},
 	{
 		"phrase": "Building",
@@ -1636,24 +1636,24 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+100 korttelia\n+2 lohkoa rakentaa etäisyyttä\n+5 lohkon terveyttä",
-		"machine": true
+		"translation": "+100 kuutiota\n+2 rakentamis etäisyyttä\n+5 elämäpistettä kuutioihin",
+		"machine": false
 	},
 	{
 		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+100 korttelia\n+4 lohkoa rakentavat etäisyyden\n+9 estää terveyttä",
-		"machine": true
+		"translation": "+100 kuutiota\n+4 rakentamis etäisyyttä\n+9 elämäpistettä kuutioihin",
+		"machine": false
 	},
 	{
 		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+100 korttelia\n+6 korttelin rakentamisetäisyys\n+13 estää terveyttä",
-		"machine": true
+		"translation": "+100 kuutiota\n+6 rakentamis etäisyyttä\n+13 elämäpistettä kuutioihin",
+		"machine": false
 	},
 	{
 		"phrase": "Hydraulics",
@@ -1692,8 +1692,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Salaa",
-		"machine": true
+		"translation": "Vaivihkaus",
+		"machine": false
 	},
 	{
 		"phrase": "Kinetic",
@@ -1708,32 +1708,32 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Raadonsyöjä",
-		"machine": true
+		"translation": "Etsijä",
+		"machine": false
 	},
 	{
 		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+3 lohkoa turvallinen pudotusetäisyys\n-15% putoamisvaurioita",
-		"machine": true
+		"translation": "+3 kuutiota turvallista pudotusetäisyyttä\n-15% putoamisvaurioita",
+		"machine": false
 	},
 	{
 		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+400% itseräjähdys\n-10% itseräjähdysvahinkoja",
-		"machine": true
+		"translation": "+400% itseräjähdystyöntöä\n-10% itseräjähdysvahinkoja",
+		"machine": false
 	},
 	{
 		"phrase": "+20% health regeneration speed",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+20% terveyden uudistumisnopeutta",
-		"machine": true
+		"translation": "+20% elämäpisteiden uudistumisnopeutta",
+		"machine": false
 	},
 	{
 		"phrase": "+5% movement speed",
@@ -1748,15 +1748,15 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "-40% rakentaa ja kaivaa\n-15% askeleen äänenvoimakkuus\n-25% askeleen etäisyys",
-		"machine": true
+		"translation": "-40% rakentamis ja kaivamis kapasiteetti\n-15% askeleen äänenvoimakkuus\n-25% askeleen etäisyys",
+		"machine": false
 	},
 	{
 		"phrase": "+10% dig speed",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+10% kaivunopeus",
+		"translation": "+10% kaivamis nopeutta",
 		"machine": true
 	},
 	{
@@ -1764,24 +1764,24 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+6 korttelin turvapudotusetäisyys\n-30% putoamisvaurioita",
-		"machine": true
+		"translation": "+6 kuution turvapudotusetäisyys\n-30% putoamisvaurioita",
+		"machine": false
 	},
 	{
 		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+450% itseräjähdys\n-20% itseräjähdysvahinkoja",
-		"machine": true
+		"translation": "+450% itseräjähdystyöntöä\n-20% itseräjähdysvahinkoja",
+		"machine": false
 	},
 	{
 		"phrase": "+40% health regeneration speed",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+40% terveyden uudistumisnopeutta",
-		"machine": true
+		"translation": "+40% elämäpisteiden uudistumisnopeutta",
+		"machine": false
 	},
 	{
 		"phrase": "+10% movement speed",
@@ -1796,40 +1796,40 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "-60% rakentaa ja kaivaa\n-30% askeleen äänenvoimakkuus\n-50% askeleen etäisyys",
-		"machine": true
+		"translation": "-60% rakentamis ja kaivamis kapasiteetti\n-30% askeleen äänenvoimakkuus\n-50% askeleen etäisyys",
+		"machine": false
 	},
 	{
 		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+20% kaivunopeus\nSaa 2 lohkoa kaivettua lohkoa kohti\n+1 varustepistoolia jokaisella ammuksella",
-		"machine": true
+		"translation": "+20% kaivamis nopeutta\nSaa 2 kuutiota per kuutio kaivettu \n+1 varusteisiin ammuksia jokaisesta ammuksesta jonka nostat",
+		"machine": false
 	},
 	{
 		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+9 lohkoa turvallinen pudotusetäisyys\n-45% putoamisvaurioita\n+1 lohkon hyppykorkeus",
-		"machine": true
+		"translation": "+9 kuution turvapudotusetäisyys\n-45% putoamisvaurioita\n+1 kuutio hyppykorkeus",
+		"machine": false
 	},
 	{
 		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+500% itseräjähdys\n-30% itseräjähdysvahinkoja",
-		"machine": true
+		"translation": "+500% itseräjähdystyöntöä\n-30% itseräjähdysvahinkoja",
+		"machine": false
 	},
 	{
 		"phrase": "+60% health regeneration speed",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+60% terveyden uudistumisnopeutta",
-		"machine": true
+		"translation": "+60% elämäpisteiden uudistumisnopeutta",
+		"machine": false
 	},
 	{
 		"phrase": "+15% movement speed",
@@ -1844,16 +1844,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "-80% rakentaa ja kaivaa\n-45% askeleen äänenvoimakkuus\n-75% askeleen etäisyys",
-		"machine": true
+		"translation": "-80% rakentamis ja kaivamis kapasiteetti\n-45% askeleen äänenvoimakkuus\n-75% askeleen etäisyys",
+		"machine": false
 	},
 	{
 		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "+30% kaivunopeus\nSaa 3 lohkoa kaivettua lohkoa kohti\n+10 terveyttä ammuksia vastaan",
-		"machine": true
+		"translation": "+30% kaivamis nopeutta\nSaa 3 kuutiota per kuutio kaivettu\n+10 elämäpistettä per ammusta mitä olet nostanut",
+		"machine": false
 	},
 	{
 		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
@@ -1876,64 +1876,63 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tappava ampuja etäisyydellä ja nopea tappaja läheltä, he kykenevät pitämään itsensä missä tahansa kohtaamisessa.",
-		"machine": true
-	},
+		"translation": "Tappava tarkka ampuja kaukaa ja nopea tappaja läheltä, he kykenevät hoitamaan minkä tahansa tilanteen itsenäisesti.",
+		"machine": false
 	{
 		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä komentaja menetti kätensä soihdun aikana, mutta jatkaa taistelua rodun tulevaisuuden puolesta.",
-		"machine": true
+		"translation": "Tämä komentaja menetti kätensä roihussa, mutta jatkaa taistelua rodun tulevaisuuden puolesta.",
+		"machine": false
 	},
 	{
 		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lakimiehet, jotka vaeltelevat galaksin laitamilla ja hyökkäävät ketään vastaan, joka uskaltaa matkustaa yksin.",
-		"machine": true
+		"translation": "Lainsuojattomat, jotka vaeltelevat galaksin laitamilla ja hyökkäävät ketä tahansa vastaan, joka uskaltaa matkustaa yksin.",
+		"machine": false
 	},
 	{
 		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä agaman taisteli valppaasti etulinjassa todistaakseen arvonsa päästä soltrium -galaksiin.",
-		"machine": true
+		"translation": "Tämä Agaman taisteli valppaasti etulinjassa todistaakseen arvonsa päästäkseen soltrium -galaksiin.",
+		"machine": false
 	},
 	{
 		"phrase": "A curious one, aren't you?",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Utelias, eikö niin?",
-		"machine": true
+		"translation": "Utelias, etkös olekkin?",
+		"machine": false
 	},
 	{
 		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä agaman luopui kaikesta matkalle soltrium -galaksiin.",
-		"machine": true
+		"translation": "Tämä agaman luopui kaikesta suorittaakseen matkan soltrium -galaksiin.",
+		"machine": false
 	},
 	{
 		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä agaman highborn sai infuusion soltriumilla kokeessa tuottaakseen pysäyttämättömän sekoituksen lihasta ja koneesta.",
-		"machine": true
+		"translation": "Tämä puhdasverinen Agaman sai infuusion soltriumista tiede kokeiluissa tuottaakseen pysäyttämättömän sekoituksen lihasta ja koneesta.",
+		"machine": false
 	},
 	{
 		"phrase": "Click the Play tab when you are ready",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Napsauta Toista -välilehteä, kun olet valmis",
-		"machine": true
+		"translation": "Napsauta Pelaa -välilehteä, kun olet valmis",
+		"machine": false
 	},
 	{
 		"phrase": "Did you know",
@@ -2004,8 +2003,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Respawn",
-		"machine": true
+		"translation": "Uudelleensyntyminen",
+		"machine": false
 	},
 	{
 		"phrase": "Players",
@@ -2020,16 +2019,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ei uudelleenpalautuksia",
-		"machine": true
+		"translation": "Ei Uudelleensyntymistä",
+		"machine": false
 	},
 	{
 		"phrase": "First to 5 wins",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ensimmäinen 5 voittoon",
-		"machine": true
+		"translation": "Ensimmäinen jolla on 5 voittaa",
+		"machine": false
 	},
 	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
