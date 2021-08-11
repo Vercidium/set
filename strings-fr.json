@@ -228,7 +228,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Aide localisation",
+		"translation": "Aide à la localisation",
 		"machine": false
 	},
 	{
@@ -292,8 +292,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Récupération",
-		"machine": true
+		"translation": "Salvage",
+		"machine": false
 	},
 	{
 		"phrase": "Round win",
@@ -460,8 +460,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Rien",
-		"machine": true
+		"translation": "Aucun",
+		"machine": false	
 	},
 	{
 		"phrase": "Playing",
@@ -508,7 +508,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Capture de Zones",
+		"translation": "Breakthrough",
 		"machine": false
 	},
 	{
@@ -516,7 +516,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Zone Mobile",
+		"translation": "Control Shift",
 		"machine": false
 	},
 	{
@@ -549,7 +549,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "spire",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Static",
@@ -604,8 +604,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Débranché",
-		"machine": true
+		"translation": "déconnecté",
+		"machine": false
 	},
 	{
 		"phrase": "EAC Violation",
@@ -676,8 +676,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Interdit temporairement",
-		"machine": true
+		"translation": "Banni temporairement",
+		"machine": false
 	},
 	{
 		"phrase": "Version mismatch",
@@ -692,16 +692,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Expulsé des votes",
-		"machine": true
+		"translation": "Expulsé par votes",
+		"machine": false
 	},
 	{
 		"phrase": "Votekick still in effect",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Votekick toujours en vigueur",
-		"machine": true
+		"translation": "Votekick toujours en effet",
+		"machine": false
 	},
 	{
 		"phrase": "Incorrect password",
@@ -796,8 +796,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Remplacement de bot",
-		"machine": true
+		"translation": "Remplacement par un bot",
+		"machine": false
 	},
 	{
 		"phrase": "Accelerator",
@@ -812,16 +812,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Diviseur faisceau",
-		"machine": true
+		"translation": "Diviseur de faisceau",
+		"machine": false
 	},
 	{
 		"phrase": "Choke",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Étouffer",
-		"machine": true
+		"translation": "choke de précision",
+		"machine": false
 	},
 	{
 		"phrase": "Compressor",
@@ -844,8 +844,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Élargi",
-		"machine": true
+		"translation": "allongé",
+		"machine": false
+	},
+	{
+		"phrase": "Extendedest",
+		"context": null,
+		"comment": null,
+		"locations": [],
+		"translation": "Super allongé",
+		"machine": false
 	},
 	{
 		"phrase": "Resonator",
@@ -892,16 +900,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Supprimé",
-		"machine": true
+		"translation": "retiré",
+		"machine": false
 	},
 	{
 		"phrase": "Stubby",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Trapu",
-		"machine": true
+		"translation": "vertical",
+		"machine": false
 	},
 	{
 		"phrase": "Augmented",
@@ -924,8 +932,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Éclater",
-		"machine": true
+		"translation": "rafale",
+		"machine": false
 	},
 	{
 		"phrase": "Lethal",
@@ -972,16 +980,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Limace",
-		"machine": true
+		"translation": "Slug",
+		"machine": false
 	},
 	{
 		"phrase": "Tow",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Remorquer",
-		"machine": true
+		"translation": "Tow",
+		"machine": false
 	},
 	{
 		"phrase": "Corrosive",
@@ -1036,7 +1044,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Avancée",
+		"translation": "Avancé",
 		"machine": true
 	},
 	{
@@ -1076,8 +1084,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tireur d'élite",
-		"machine": true
+		"translation": "Sniper",
+		"machine": false
 	},
 	{
 		"phrase": "Rifle",
@@ -1276,7 +1284,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Vide plus",
+		"translation": "Plus vide",
 		"machine": true
 	},
 	{
@@ -1364,8 +1372,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Des bois",
-		"machine": true
+		"translation": "bois",
+		"machine": false
 	},
 	{
 		"phrase": "Hot Metal",
@@ -1448,12 +1456,12 @@
 		"machine": true
 	},
 	{
-		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
+		"phrase": "This mid-long ranged shotgun packs a punch at longer distances. Whilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce fusil de chasse à mi-longue a du punch à de plus longues distances.\nLors de la portée, sa propagation de granulés réduira de 70 % en 3,0 secondes.",
-		"machine": true
+		"translation": "Ce fusil à pompe à mi-longue portée a du punch à de plus longues distances. Pendant la visée, sa propagation de granulés réduira de 70 % en 3,0 secondes.",
+		"machine": false
 	},
 	{
 		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
@@ -1484,16 +1492,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Technologie Agaman qui coupe instantanément les blocs.",
-		"machine": true
+		"translation": "Technologie Agaman qui coupe instantanément à travers les blocs.",
+		"machine": false
 	},
 	{
-		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
+		"phrase": "This mid ranged weapon has a large clip for suppresive fire. Overheats after 50 continuous shots",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme de moyenne portée a un grand clip pour un tir de suppression.\nSurchauffe après 50 prises de vue en continu",
-		"machine": true
+		"translation": "Cette arme de moyenne portée a un grand chargeur pour un tir de suppression. Surchauffe après 50 tirs en continu",
+		"machine": false
 	},
 	{
 		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
@@ -1508,7 +1516,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Placer des blocs avec cet outil.",
+		"translation": "Place des blocs avec cet outil.",
 		"machine": true
 	},
 	{
@@ -1532,7 +1540,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme à courte portée et moyenne tire rapidement mais a un petit chargeur.",
+		"translation": "Cette arme à courte et moyenne portée tire rapidement mais a un petit chargeur.",
 		"machine": true
 	},
 	{
@@ -1540,7 +1548,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Technologie légère d'agaman. tir rapide, coup dur.",
+		"translation": "Technologie légère d'agaman. tir rapide, frappe dur.",
 		"machine": true
 	},
 	{
@@ -1548,7 +1556,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Technologie lourde d'agaman. tire une boule de plasma percutante.",
+		"translation": "Technologie lourde d'agaman. tire une boule de plasma puissante.",
 		"machine": true
 	},
 	{
@@ -1564,7 +1572,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme à courte portée percutante contient un puissant noyau de soltrium.",
+		"translation": "Cette arme à courte portée puissante contient un puissant noyau de soltrium.",
 		"machine": true
 	},
 	{
@@ -1572,7 +1580,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Une si petite arme. un tel boom.",
+		"translation": "Une si petite arme. un si grand boom.",
 		"machine": true
 	},
 	{
@@ -1584,19 +1592,19 @@
 		"machine": true
 	},
 	{
-		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
+		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls. Scanner orbs can be shot by enemy players.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lance un orbe de balayage flottant qui clignote toutes les deux secondes, révélant les ennemis à travers les murs.\nLes orbes du scanner peuvent être tirés par les joueurs ennemis.",
-		"machine": true
+		"translation": "Lance un orbe de scanner flottant qui clignote toutes les deux secondes, révélant les ennemis à travers les murs. Les orbes du scanner peuvent être detruites par les joueurs ennemis.",
+		"machine": false
 	},
 	{
 		"phrase": "This close ranged weapon creates a blast of shrapnel.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme à courte portée crée une explosion d'éclats d'obus.",
+		"translation": "Cette arme à courte portée crée une explosion d'éclats de shrapnel.",
 		"machine": true
 	},
 	{
@@ -1604,7 +1612,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme à courte portée moyenne a du punch. attention au recul.",
+		"translation": "Cette arme à courte et moyenne portée a du punch. attention au recul.",
 		"machine": true
 	},
 	{
@@ -1612,7 +1620,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Placer des structures de blocs avec cet outil.",
+		"translation": "Place des structures de blocs avec cet outil.",
 		"machine": true
 	},
 	{
@@ -1628,7 +1636,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Imeuble",
+		"translation": "construction",
 		"machine": true
 	},
 	{
