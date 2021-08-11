@@ -1301,7 +1301,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "T -kärki kierros",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Camoflague",
@@ -1309,7 +1309,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Naamiointi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Metallic",
@@ -1477,7 +1477,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Tässä kranaatissa on epävakaa soltriumydin ja se räjähtää 3 sekunnin kuluttua. Kaikilla pelaajilla on kaksi kranaattia, mutta tämän mahdollistaminen saa kranaatit tarttumaan seiniin.",
-		"machine": true
+    "machine": false
 	},
 	{
 		"phrase": "Agaman technology that cuts through blocks instantly.",
@@ -1709,7 +1709,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Etsijä",
-		"machine": False
+		"machine": false
 	},
 	{
 		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
