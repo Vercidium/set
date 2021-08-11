@@ -2564,16 +2564,16 @@
 		"context": null,
 		"comment": "[Connecting] [Loading Tip 2] [1\/2] The full phrase is: You can press [F1] to provide feedback",
 		"locations": [],
-		"translation": "basabilirsin",
-		"machine": true
+		"translation": "Geri bildirim sağlamak için",
+		"machine": false
 	},
 	{
 		"phrase": "To provide feedback",
 		"context": null,
 		"comment": "[Connecting] [Loading Tip 2] [2\/2] The full phrase is: You can press [F1] to provide feedback",
 		"locations": [],
-		"translation": "Geri bildirim sağlamak için",
-		"machine": true
+		"translation": "basabilirsin",
+		"machine": false
 	},
 	{
 		"phrase": "Local",
@@ -2581,7 +2581,7 @@
 		"comment": "[Mapping Screen] Maps that are saved locally",
 		"locations": [],
 		"translation": "Yerel",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Subscribed",
@@ -2589,23 +2589,23 @@
 		"comment": "[Mapping Screen] Maps that you have subscribed to on the Workshop",
 		"locations": [],
 		"translation": "Abone olundu",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Upload",
 		"context": null,
 		"comment": "[Mapping Screen] Upload a map to the Workshop",
 		"locations": [],
-		"translation": "Yüklemek",
-		"machine": true
+		"translation": "Yükle",
+		"machine": false
 	},
 	{
 		"phrase": "Private",
 		"context": null,
 		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
 		"locations": [],
-		"translation": "Özel",
-		"machine": true
+		"translation": "Gizli",
+		"machine": false
 	},
 	{
 		"phrase": "Friends only",
@@ -2613,7 +2613,7 @@
 		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
 		"locations": [],
 		"translation": "Sadece arkadaşlar",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Unlisted",
@@ -2621,15 +2621,15 @@
 		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
 		"locations": [],
 		"translation": "Liste dışı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Public",
 		"context": null,
 		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
 		"locations": [],
-		"translation": "Halk",
-		"machine": true
+		"translation": "Genel",
+		"machine": false
 	},
 	{
 		"phrase": "Map list",
@@ -2637,7 +2637,7 @@
 		"comment": "[Map List] Title",
 		"locations": [],
 		"translation": "Harita listesi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "No local maps found",
@@ -2645,7 +2645,7 @@
 		"comment": "[Map List] Text that shows when there are no local maps on this user's PC",
 		"locations": [],
 		"translation": "Yerel harita bulunamadı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "No subscribed maps",
@@ -2653,15 +2653,15 @@
 		"comment": "[Map List] Text that shows when the user hasn't subsribed to any maps on the Steam Workshop",
 		"locations": [],
 		"translation": "Abone olunan harita yok",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Before uploading maps to the Steam workshop, you must agree to the",
 		"context": null,
 		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
 		"locations": [],
-		"translation": "Steam atölyesine harita yüklemeden önce, aşağıdakileri kabul etmelisiniz:",
-		"machine": true
+		"translation": "Steam atölyesine harita yüklemeden önce aşağıdakileri kabul etmelisiniz:",
+		"machine": false
 	},
 	{
 		"phrase": "Terms of Service.",
@@ -2669,15 +2669,15 @@
 		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
 		"locations": [],
 		"translation": "Kullanım Şartları.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
 		"context": null,
 		"comment": "[Map List] Description text above the map list",
 		"locations": [],
-		"translation": "Atölyede abone olduğunuz haritalar burada görünecektir. listenin tamamen güncellenmesi için yeni bir haritaya abone olduktan sonra birden çok kez yenilemeniz gerekebilir.",
-		"machine": true
+		"translation": "Atölyede abone olduğunuz haritalar burada görünecektir. Listenin tamamen güncellenmesi için yeni bir haritaya abone olduktan sonra birden çok kez yenilemeniz gerekebilir.",
+		"machine": false
 	},
 	{
 		"phrase": "Loading map",
@@ -2685,23 +2685,23 @@
 		"comment": "[Map List] This text shows when loading a map from the Steam Workshop",
 		"locations": [],
 		"translation": "Harita yükleniyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Uploading map to the Steam Workshop",
 		"context": null,
 		"comment": "[Map List] This text shows when uploading a map to the Steam Workshop",
 		"locations": [],
-		"translation": "Steam atölyesine harita yükleme",
-		"machine": true
+		"translation": "Steam atölyesine harita yükleniyor",
+		"machine": false
 	},
 	{
 		"phrase": "Committing Changes",
 		"context": null,
 		"comment": "[Workshop] The status of the current map upload",
 		"locations": [],
-		"translation": "Değişiklikleri taahhüt etme",
-		"machine": true
+		"translation": "Değişiklikler kabul ediliyor",
+		"machine": false
 	},
 	{
 		"phrase": "Invalid",
@@ -2709,7 +2709,7 @@
 		"comment": "[Workshop] The map upload has failed due to invalid map settings",
 		"locations": [],
 		"translation": "Geçersiz",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Preparing Config",
@@ -2717,7 +2717,7 @@
 		"comment": "[Workshop] The status of the current map upload",
 		"locations": [],
 		"translation": "Yapılandırma hazırlanıyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Preparing Content",
@@ -2725,7 +2725,7 @@
 		"comment": "[Workshop] The status of the current map upload",
 		"locations": [],
 		"translation": "İçerik hazırlanıyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Uploading Content",
@@ -2733,7 +2733,7 @@
 		"comment": "[Workshop] The status of the current map upload",
 		"locations": [],
 		"translation": "içerik yükleniyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Uploading Preview Image",
@@ -2741,7 +2741,7 @@
 		"comment": "[Workshop] The status of the current map upload",
 		"locations": [],
 		"translation": "Önizleme resmi yükleniyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Upload summary",
@@ -2749,7 +2749,7 @@
 		"comment": "[Upload Summary] This is the title at the top of the screen when uploading a map to the Steam Workshop",
 		"locations": [],
 		"translation": "Özeti yükle",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Map name",
@@ -2757,15 +2757,15 @@
 		"comment": "[Upload Summary] This is a text label that is shown above the map name",
 		"locations": [],
 		"translation": "Harita adı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Description",
 		"context": null,
 		"comment": "[Upload Summary] This is a text label that is shown above the map description",
 		"locations": [],
-		"translation": "Tanım",
-		"machine": true
+		"translation": "Açıklama",
+		"machine": false
 	},
 	{
 		"phrase": "Supported game modes",
@@ -2773,39 +2773,39 @@
 		"comment": "[Upload Summary] This is a text label that is shown above the list of game modes that this map supports",
 		"locations": [],
 		"translation": "Desteklenen oyun modları",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Visibility",
 		"context": null,
 		"comment": "[Map List] This is a text label that is shown above the visibility setting for the map on the Steam Workshop",
 		"locations": [],
-		"translation": "görünürlük",
-		"machine": true
+		"translation": "Görünürlük",
+		"machine": false
 	},
 	{
 		"phrase": "N\/A",
 		"context": "Not Applicable",
 		"comment": "[Term] This is an abbreviation for Not Applicable",
 		"locations": [],
-		"translation": "Yok",
-		"machine": true
+		"translation": "N/A",
+		"machine": false
 	},
 	{
 		"phrase": "Changelog",
 		"context": null,
 		"comment": "[News] [Navigation] Changelog tab",
 		"locations": [],
-		"translation": "Değişiklik günlüğü",
-		"machine": true
+		"translation": "Güncelleme notları",
+		"machine": false
 	},
 	{
 		"phrase": "Double XP + Proton Weekend! Ends in",
 		"context": null,
 		"comment": "[Play Screen] The full phrase is: Double XP + Proton Weekend! Ends in 3 days, 1 hour and 12 minutes",
 		"locations": [],
-		"translation": "Double XP + proton hafta sonu! biter",
-		"machine": true
+		"translation": "2x XP + proton hafta sonu! biter",
+		"machine": false
 	},
 	{
 		"phrase": "day",
@@ -2813,7 +2813,7 @@
 		"comment": "[Unit] Time measurement",
 		"locations": [],
 		"translation": "gün",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "days",
@@ -2821,7 +2821,7 @@
 		"comment": "[Unit] Time measurement",
 		"locations": [],
 		"translation": "günler",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "hour",
@@ -2829,7 +2829,7 @@
 		"comment": "[Unit] Time measurement",
 		"locations": [],
 		"translation": "saat",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "hours",
@@ -2837,7 +2837,7 @@
 		"comment": "[Unit] Time measurement",
 		"locations": [],
 		"translation": "saatler",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "minute",
@@ -2845,7 +2845,7 @@
 		"comment": "[Unit] Time measurement",
 		"locations": [],
 		"translation": "dakika",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "minutes",
@@ -2853,7 +2853,7 @@
 		"comment": "[Unit] Time measurement",
 		"locations": [],
 		"translation": "dakika",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "and",
@@ -2861,15 +2861,15 @@
 		"comment": "[Conjunction] The full phrase is 1 hour and 12 minutes",
 		"locations": [],
 		"translation": "ve",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Trials",
 		"context": null,
 		"comment": "[Play Screen] [Navigation] Trials tab",
 		"locations": [],
-		"translation": "denemeler",
-		"machine": true
+		"translation": "Parkur",
+		"machine": false
 	},
 	{
 		"phrase": "Low level",
@@ -2877,7 +2877,7 @@
 		"comment": "[Play Screen] [Navigation] Low level tab",
 		"locations": [],
 		"translation": "Düşük seviye",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Open",
@@ -2885,15 +2885,15 @@
 		"comment": "[Play Screen] [Navigation] Open\/public lobbies tab",
 		"locations": [],
 		"translation": "Açık",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Custom",
 		"context": null,
 		"comment": "[Play Screen] [Navigation] Custom lobbies tab",
 		"locations": [],
-		"translation": "Gelenek",
-		"machine": true
+		"translation": "Özelleştirme",
+		"machine": false
 	},
 	{
 		"phrase": "Empty servers",
@@ -2901,7 +2901,7 @@
 		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
 		"locations": [],
 		"translation": "Boş sunucular",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Full servers",
@@ -2909,7 +2909,7 @@
 		"comment": "[Play Screen] [Filter Checkbox] Show servers that are full, i.e. 24\/24 players in a Breakthrough server",
 		"locations": [],
 		"translation": "Tam sunucular",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Ping",
@@ -2917,7 +2917,7 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers. In this case ping refers to latency",
 		"locations": [],
 		"translation": "Ping",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Region",
@@ -2925,7 +2925,7 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers",
 		"locations": [],
 		"translation": "Bölge",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Map",
@@ -2933,15 +2933,15 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers",
 		"locations": [],
 		"translation": "Harita",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Mode",
 		"context": null,
 		"comment": "[Play Screen] Server Column Header for sorting servers",
 		"locations": [],
-		"translation": "mod",
-		"machine": true
+		"translation": "Mod",
+		"machine": false
 	},
 	{
 		"phrase": "Time",
@@ -2949,7 +2949,7 @@
 		"comment": "[Play Screen] Server Column Header for sorting servers",
 		"locations": [],
 		"translation": "Zaman",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "General",
@@ -2957,23 +2957,23 @@
 		"comment": "Settings category title",
 		"locations": [],
 		"translation": "Genel",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sensitivity",
 		"context": null,
 		"comment": "Settings category title",
 		"locations": [],
-		"translation": "Duyarlılık",
-		"machine": true
+		"translation": "Hassasiyet",
+		"machine": false
 	},
 	{
 		"phrase": "UI",
 		"context": "User interface",
 		"comment": "Settings category title",
 		"locations": [],
-		"translation": "kullanıcı arayüzü",
-		"machine": true
+		"translation": "Kullanıcı arayüzü",
+		"machine": false
 	},
 	{
 		"phrase": "Video",
@@ -2981,7 +2981,7 @@
 		"comment": "Settings category title",
 		"locations": [],
 		"translation": "Video",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Audio",
@@ -2989,31 +2989,31 @@
 		"comment": "Settings category title",
 		"locations": [],
 		"translation": "Ses",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Keybinds",
 		"context": "Key bindings",
 		"comment": "Settings category title",
 		"locations": [],
-		"translation": "tuş bağlantıları",
-		"machine": true
+		"translation": "Tuş atamaları",
+		"machine": false
 	},
 	{
 		"phrase": "Accessibility",
 		"context": null,
 		"comment": "Settings category title",
 		"locations": [],
-		"translation": "Ulaşılabilirlik",
-		"machine": true
+		"translation": "Erişilebilirlik",
+		"machine": false
 	},
 	{
 		"phrase": "Points",
 		"context": null,
 		"comment": "Settings category title",
 		"locations": [],
-		"translation": "Puan",
-		"machine": true
+		"translation": "Puanlar",
+		"machine": false
 	},
 	{
 		"phrase": "Close",
@@ -3021,31 +3021,31 @@
 		"comment": "Close the settings window",
 		"locations": [],
 		"translation": "Kapat",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Peacekeeper",
 		"context": null,
 		"comment": "Setting name for the peacekeeper mechanic",
 		"locations": [],
-		"translation": "Barışçıl",
-		"machine": true
+		"translation": "Barışyanlısı",
+		"machine": false
 	},
 	{
 		"phrase": "Networking",
 		"context": null,
 		"comment": "Settings header",
 		"locations": [],
-		"translation": "ağ",
-		"machine": true
+		"translation": "Ağ",
+		"machine": false
 	},
 	{
 		"phrase": "Polling Rate",
 		"context": null,
 		"comment": "How often the server sends data to the client, e.g. 60 times a second",
 		"locations": [],
-		"translation": "yoklama oranı",
-		"machine": true
+		"translation": "Yoklama oranı",
+		"machine": false
 	},
 	{
 		"phrase": "FPS",
@@ -3053,23 +3053,23 @@
 		"comment": "Frames per second",
 		"locations": [],
 		"translation": "FPS",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Serious",
 		"context": null,
 		"comment": "Settings header for pew-pew mode",
 		"locations": [],
-		"translation": "Cidden",
-		"machine": true
+		"translation": "Ciddi",
+		"machine": false
 	},
 	{
 		"phrase": "Pew Pew Mode",
 		"context": null,
 		"comment": "Acapella mode",
 		"locations": [],
-		"translation": "sıra modu",
-		"machine": true
+		"translation": "Pew Pew Modu",
+		"machine": false
 	},
 	{
 		"phrase": "Control Preferences",
@@ -3077,22 +3077,22 @@
 		"comment": "Settings header",
 		"locations": [],
 		"translation": "Kontrol tercihleri",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Toggle Scope",
 		"context": null,
 		"comment": "Checkbox setting for whether the user should right click once to toggle scoping, rather than hold right click to stay scoped.",
 		"locations": [],
-		"translation": "Kapsamı değiştir",
-		"machine": true
+		"translation": "Nişangah basılı kalsın",
+		"machine": false
 	},
 	{
 		"phrase": "Toggle Crouch",
 		"context": null,
 		"comment": "Checkbox setting for whether the user should press ctrl once to toggle crouching, rather than hold ctrl to stay crouching.",
 		"locations": [],
-		"translation": "Çömelmeyi aç\/kapat",
+		"translation": "Çömelme basılı kalsın",
 		"machine": true
 	},
 	{
@@ -3100,8 +3100,8 @@
 		"context": null,
 		"comment": "Checkbox setting for whether the user should press shift once to toggle sprinting, rather than hold shift to stay sprinting.",
 		"locations": [],
-		"translation": "Sprint'i aç\/kapat",
-		"machine": true
+		"translation": "Koşma basılı kalsın",
+		"machine": false
 	},
 	{
 		"phrase": "Auto-Rotate Structures",
@@ -3109,7 +3109,7 @@
 		"comment": "Checkbox setting for whether the structure rotation should change automatically when the user looks around.",
 		"locations": [],
 		"translation": "Yapıları otomatik döndürme",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Counts As Weapon",
@@ -3117,87 +3117,87 @@
 		"comment": "[Midi] counts as weapon is the full checkbox setting name. When enabled, the user can change to the midi with the 'Last Tool\/Next Tool\/Previous Tool' keybinds",
 		"locations": [],
 		"translation": "Silah sayılır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Chat",
 		"context": null,
 		"comment": "[Settings Section Header]",
 		"locations": [],
-		"translation": "Sohbet etmek",
-		"machine": true
+		"translation": "Sohbet",
+		"machine": false
 	},
 	{
 		"phrase": "Streamer Mode",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Toggles Streamer Mode",
 		"locations": [],
-		"translation": "yayıncı modu",
-		"machine": true
+		"translation": "Yayıncı modu",
+		"machine": false
 	},
 	{
 		"phrase": "Profanity Filter",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Toggles the profanity filter, which replaces swear words with delicious food",
 		"locations": [],
-		"translation": "Küfür Filtresi",
-		"machine": true
+		"translation": "Küfür filtresi",
+		"machine": false
 	},
 	{
 		"phrase": "Chat Timeout",
 		"context": null,
 		"comment": "[Setting] [Slider] Controls how fast chat messages should disappear, from 1 second up to 10 seconds",
 		"locations": [],
-		"translation": "sohbet zaman aşımı",
-		"machine": true
+		"translation": "Sohbet zaman aşımı",
+		"machine": false
 	},
 	{
 		"phrase": "Seconds",
 		"context": null,
 		"comment": "[Unit] Measurement of time",
 		"locations": [],
-		"translation": "saniye",
-		"machine": true
+		"translation": "Saniye",
+		"machine": false
 	},
 	{
 		"phrase": "Rendering",
 		"context": null,
 		"comment": "[Settings Section Header]",
 		"locations": [],
-		"translation": "işleme",
-		"machine": true
+		"translation": "İşleme tercihleri",
+		"machine": false
 	},
 	{
 		"phrase": "Party Colour Outline for Party Members",
 		"context": null,
 		"comment": "[Setting] [Checkbox] When enabled, the outline around party members is party coloured (e.g. green), rather than the team coloured. (e.g. blue)",
 		"locations": [],
-		"translation": "Parti üyeleri için parti rengi anahattı",
-		"machine": true
+		"translation": "Parti üyelerini duvar arkasından göster",
+		"machine": false
 	},
 	{
 		"phrase": "Friendly Outline Through Walls",
 		"context": null,
 		"comment": "[Setting] [Checkbox] When enabled, friendly outlines render through walls",
 		"locations": [],
-		"translation": "Duvarlardan dostça anahat",
-		"machine": true
+		"translation": "Takım arkadaşlarını duvar arkasından göster",
+		"machine": false
 	},
 	{
 		"phrase": "Miscellaneous",
 		"context": null,
 		"comment": "[Settings Section Header]",
 		"locations": [],
-		"translation": "Çeşitli",
-		"machine": true
+		"translation": "Diğer",
+		"machine": false
 	},
 	{
 		"phrase": "Camera Sway",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Enable this to make the in-game camera sway from side to side when running",
 		"locations": [],
-		"translation": "kamera sallanması",
-		"machine": true
+		"translation": "Kamera sallanması",
+		"machine": false
 	},
 	{
 		"phrase": "Pause when Inactive",
@@ -3205,23 +3205,23 @@
 		"comment": "[Setting] [Checkbox] Enable this to make the escape menu appear when changing to a different window",
 		"locations": [],
 		"translation": "Etkin değilken duraklat",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Enable Debug Logging",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Debug logging writes events and errors to a log file",
 		"locations": [],
-		"translation": "Hata ayıklama günlüğünü etkinleştir",
-		"machine": true
+		"translation": "Hata ayıklama modunu etkinleştir",
+		"machine": false
 	},
 	{
 		"phrase": "Detailed Logging",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Enable this to increase the detail of debug logging",
 		"locations": [],
-		"translation": "Ayrıntılı günlük kaydı",
-		"machine": true
+		"translation": "Ayrıntılı log kaydı",
+		"machine": false
 	},
 	{
 		"phrase": "Input",
@@ -3229,7 +3229,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Giriş",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Raw Mouse Input",
@@ -3237,15 +3237,15 @@
 		"comment": "[Setting] [Checkbox]",
 		"locations": [],
 		"translation": "Ham fare girişi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sensitivity Multiplies",
 		"context": null,
 		"comment": "[Setting] [Checkbox] When enabled, all ADS scoped values are multiplied by your look sensitivity",
 		"locations": [],
-		"translation": "Hassasiyet çoğalır",
-		"machine": true
+		"translation": "Hassasiyet katlayıcı",
+		"machine": false
 	},
 	{
 		"phrase": "Invert Y Axis",
@@ -3253,7 +3253,7 @@
 		"comment": "[Setting] [Checkbox] Move your mouse up to look down, and vice versa.",
 		"locations": [],
 		"translation": "Y eksenini tersine çevir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sensitivity Values",
@@ -3261,55 +3261,55 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Hassasiyet değerleri",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Look Sensitivity",
 		"context": null,
 		"comment": "[Setting] [Slider]",
 		"locations": [],
-		"translation": "bak hassasiyet",
-		"machine": true
+		"translation": "Hassasiyet",
+		"machine": false
 	},
 	{
 		"phrase": "Ironsights Sensitivity",
 		"context": null,
 		"comment": "[Setting] [Slider]",
 		"locations": [],
-		"translation": "Demir görüş hassasiyeti",
-		"machine": true
+		"translation": "Nişangah hassasiyeti",
+		"machine": false
 	},
 	{
 		"phrase": "X2 Scope Sensitivity",
 		"context": null,
 		"comment": "[Setting] [Slider]",
 		"locations": [],
-		"translation": "X2 kapsam hassasiyeti",
-		"machine": true
+		"translation": "2x dürbün hassasiyeti",
+		"machine": false
 	},
 	{
 		"phrase": "X4 Scope Sensitivity",
 		"context": null,
 		"comment": "[Setting] [Slider]",
 		"locations": [],
-		"translation": "X4 kapsam hassasiyeti",
-		"machine": true
+		"translation": "4x dürbün hassasiyeti",
+		"machine": false
 	},
 	{
 		"phrase": "Spectator Sensitivity",
 		"context": null,
 		"comment": "[Setting] [Slider]",
 		"locations": [],
-		"translation": "seyirci duyarlılığı",
-		"machine": true
+		"translation": "Seyirci modu hassasiyeti",
+		"machine": false
 	},
 	{
 		"phrase": "Static Crosshairs",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Enable this to prevent the crosshairs from expanding when jumping\/running",
 		"locations": [],
-		"translation": "Statik artı işareti",
-		"machine": true
+		"translation": "Statik nişangah",
+		"machine": false
 	},
 	{
 		"phrase": "UI Scale",
@@ -3317,7 +3317,7 @@
 		"comment": "[Setting] [Slider] Controls the size of the user interface",
 		"locations": [],
 		"translation": "kullanıcı arayüzü ölçeği",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pings",
@@ -3325,23 +3325,23 @@
 		"comment": "[Settings Section Header] e.g. Enemy Spotted ping, Build Here ping",
 		"locations": [],
 		"translation": "Ping'ler",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Only Show Party Member Pings",
 		"context": null,
 		"comment": "[Setting] [Checkbox] When enabled, team mate pings are hidden and only party member pings are shown",
 		"locations": [],
-		"translation": "Yalnızca grup üyesi pinglerini göster",
-		"machine": true
+		"translation": "Yalnızca grup üyesi ping'lerini göster",
+		"machine": false
 	},
 	{
 		"phrase": "Show Ping Owner Name",
 		"context": null,
 		"comment": "[Setting] [Checkbox] When enabled, the name of the player who created this ping will show",
 		"locations": [],
-		"translation": "ping sahibinin adını göster",
-		"machine": true
+		"translation": "Ping sahibinin adını göster",
+		"machine": false
 	},
 	{
 		"phrase": "Max Ping Distance",
@@ -3349,7 +3349,7 @@
 		"comment": "[Setting] [Slider] Control the cut-off distance for showing pings",
 		"locations": [],
 		"translation": "Maksimum ping mesafesi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Blocks",
@@ -3357,7 +3357,7 @@
 		"comment": "[Unit] 3D voxels",
 		"locations": [],
 		"translation": "Bloklar",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Minimap",
@@ -3365,7 +3365,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Mini harita",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Minimap Size",
@@ -3373,39 +3373,39 @@
 		"comment": "[Setting] [Slider] Controls the size of the minimap circle",
 		"locations": [],
 		"translation": "Mini harita boyutu",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Minimap Zoom",
 		"context": null,
 		"comment": "[Setting] [Slider] Controls how zoomed in the minimap is",
 		"locations": [],
-		"translation": "Mini harita yakınlaştırma",
-		"machine": true
+		"translation": "Mini harita ölçeği",
+		"machine": false
 	},
 	{
 		"phrase": "Player Nameplates",
 		"context": null,
 		"comment": "[Settings Section Header] A player nameplate is the UI above a player that shows their name and health",
 		"locations": [],
-		"translation": "Oyuncu isim levhaları",
-		"machine": true
+		"translation": "Oyuncu isimleri",
+		"machine": false
 	},
 	{
 		"phrase": "Nameplate Distance",
 		"context": null,
 		"comment": "[Setting] [Slider] Controls the cut-off distance for drawing player nameplates",
 		"locations": [],
-		"translation": "isim plakası mesafesi",
-		"machine": true
+		"translation": "Oyuncu isim gözükme mesafesi",
+		"machine": false
 	},
 	{
 		"phrase": "Nameplate Scale",
 		"context": null,
 		"comment": "[Setting] [Slider] Controls the size of player nameplates",
 		"locations": [],
-		"translation": "isim plakası ölçeği",
-		"machine": true
+		"translation": "Oyuncu isim ölçeği",
+		"machine": false
 	},
 	{
 		"phrase": "Damage Numbers",
@@ -3413,7 +3413,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Hasar numaraları",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Show in the Shooting Range",
@@ -3421,7 +3421,7 @@
 		"comment": "[Setting] [Checkbox] Enable this to show the amount of damage you deal to targets in the shooting range in the ship",
 		"locations": [],
 		"translation": "Atış poligonunda göster",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Toggle UI",
@@ -3429,15 +3429,15 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Arayüzünü aç\/kapat",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Show HUD",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Controls whether to show the in-game HUD (ammo, minimap, etc)",
 		"locations": [],
-		"translation": "HUD'yi göster",
-		"machine": true
+		"translation": "HUD'u göster",
+		"machine": false
 	},
 	{
 		"phrase": "Show Chat",
@@ -3445,7 +3445,7 @@
 		"comment": "[Setting] [Checkbox] Controls whether to show chat messages",
 		"locations": [],
 		"translation": "Sohbeti göster",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Show Killfeed",
@@ -3453,23 +3453,23 @@
 		"comment": "[Setting] [Checkbox] Controls whether to show killfeed messages, e.g. Pegarex railgunned Satisfied Onion in the face",
 		"locations": [],
 		"translation": "Killfeed'i göster",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Show Player Names",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Controls whether player nameplates are shown",
 		"locations": [],
-		"translation": "Oyuncu adlarını göster",
-		"machine": true
+		"translation": "Oyuncu isimlerini göster",
+		"machine": false
 	},
 	{
 		"phrase": "Show Enemies on the Zone Bar",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Controls whether enemies are drawn in the zone UI at the top of the screen. This is only in Breakthrough",
 		"locations": [],
-		"translation": "Düşmanları bölge çubuğunda göster",
-		"machine": true
+		"translation": "Düşmanları bölge çubuğunda göster(breakthrough)",
+		"machine": false
 	},
 	{
 		"phrase": "Secret",
@@ -3477,15 +3477,15 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Gizli",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This Doesn't Do Anything",
 		"context": null,
 		"comment": "[Setting] [Checkbox] This setting doesn't do anything",
 		"locations": [],
-		"translation": "Bu hiçbir şey yapmaz",
-		"machine": true
+		"translation": "Bu seçenek hiçbir şey yapmaz",
+		"machine": false
 	},
 	{
 		"phrase": "Refresh Rate",
@@ -3493,7 +3493,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Yenileme hızı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Max FPS",
@@ -3501,7 +3501,7 @@
 		"comment": "[Setting] [Slider] Controls the max FPS that the game can run at",
 		"locations": [],
 		"translation": "Maksimum FPS",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Enable VSync",
@@ -3509,7 +3509,7 @@
 		"comment": "[Setting] [Checkbox] Enable this to prevent the game from running faster than your monitor can render",
 		"locations": [],
 		"translation": "VSync'i etkinleştir",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Resolution",
@@ -3517,7 +3517,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Çözünürlük",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Fullscreen",
@@ -3525,7 +3525,7 @@
 		"comment": "[Setting] [Checkbox]",
 		"locations": [],
 		"translation": "Tam ekran",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Override Screen Resolution",
@@ -3533,7 +3533,7 @@
 		"comment": "[Setting] [Checkbox] When enabling this, the user can specify a custom screen resolution that the game will render to",
 		"locations": [],
 		"translation": "Ekran çözünürlüğünü geçersiz kıl",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Game Resolution X",
@@ -3541,7 +3541,7 @@
 		"comment": "[Setting] [Number Field] The horizontal resolution of the game",
 		"locations": [],
 		"translation": "Oyun çözünürlüğü X",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Game Resolution Y",
@@ -3549,7 +3549,7 @@
 		"comment": "[Setting] [Number Field] The vertical resolution of the game",
 		"locations": [],
 		"translation": "Oyun çözünürlüğü Y",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Smooth Scaling",
@@ -3557,7 +3557,7 @@
 		"comment": "[Setting] [Checkbox] Performance setting that controls whether smaller game resolutions are upscaled smoothly (enabled) or pixelated (disabled)",
 		"locations": [],
 		"translation": "Pürüzsüz ölçekleme",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Camera",
@@ -3565,7 +3565,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Kamera",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Field of View",
@@ -3573,15 +3573,15 @@
 		"comment": "[Setting] [Slider] Controls the field of view that the game camera uses",
 		"locations": [],
 		"translation": "Görüş alanı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Degrees",
 		"context": null,
 		"comment": "[Unit] Angle measurement",
 		"locations": [],
-		"translation": "derece",
-		"machine": true
+		"translation": "Derece",
+		"machine": false
 	},
 	{
 		"phrase": "Brightness",
@@ -3589,7 +3589,7 @@
 		"comment": "[Term] How bright the game should be",
 		"locations": [],
 		"translation": "Parlaklık",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Dynamic Rendering Settings",
@@ -3597,7 +3597,7 @@
 		"comment": "[Settings Section Header]",
 		"locations": [],
 		"translation": "Dinamik oluşturma ayarları",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Texture Quality",
@@ -3605,15 +3605,15 @@
 		"comment": "[Setting] [Slider] Controls the resolution of textures",
 		"locations": [],
 		"translation": "Doku kalitesi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Shadows",
 		"context": null,
 		"comment": "[Settings Section Header]",
 		"locations": [],
-		"translation": "gölgeler",
-		"machine": true
+		"translation": "Gölgeler",
+		"machine": false
 	},
 	{
 		"phrase": "Shadow Quality",
@@ -3621,23 +3621,23 @@
 		"comment": "[Setting] [Slider] Controls the quality of shadows",
 		"locations": [],
 		"translation": "Gölge kalitesi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Render Player Shadows",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Enable this to make players cast shadows",
 		"locations": [],
-		"translation": "Oyuncu gölgeleri oluştur",
-		"machine": true
+		"translation": "Oyuncu gölgelerini oluştur",
+		"machine": false
 	},
 	{
 		"phrase": "Render Entity Shadows",
 		"context": null,
 		"comment": "[Setting] [Checkbox] Enable this to make entities (e.g. scanners, canisters, grenades) cast shadows",
 		"locations": [],
-		"translation": "Varlık gölgelerini oluştur",
-		"machine": true
+		"translation": "Teçhizat gölgelerini oluştur",
+		"machine": false
 	},
 	{
 		"phrase": "Render Particle Shadows",
@@ -3645,7 +3645,7 @@
 		"comment": "[Setting] [Checkbox] Enable this to make particles cast shadows",
 		"locations": [],
 		"translation": "Parçacık gölgeleri oluştur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Render Weather Particle Shadows",
@@ -3653,7 +3653,7 @@
 		"comment": "[Setting] [Checkbox] Enable this to make weather particles (e.g. rain and snow) cast shadows",
 		"locations": [],
 		"translation": "Hava durumu parçacık gölgelerini oluştur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Render Structure Shadows",
@@ -3661,15 +3661,15 @@
 		"comment": "[Setting] [Checkbox] Enable this to make falling structures (e.g. the tower that Noah was camping in) cast shadows",
 		"locations": [],
 		"translation": "Yapı gölgelerini oluştur",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Voxel Settings",
 		"context": null,
 		"comment": "[Settings Section Header]",
 		"locations": [],
-		"translation": "Voksel ayarları",
-		"machine": true
+		"translation": "Voxel ayarları",
+		"machine": false
 	},
 	{
 		"phrase": "Render Distance",
