@@ -1045,7 +1045,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Avancé",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Welded",
@@ -1285,7 +1285,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Plus vide",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Empty T",
@@ -1456,11 +1456,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "This mid-long ranged shotgun packs a punch at longer distances. Whilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
+		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ce fusil à pompe à mi-longue portée a du punch à de plus longues distances. Pendant la visée, sa propagation de granulés réduira de 70 % en 3,0 secondes.",
+		"translation": "Ce fusil à pompe à mi-longue portée a du punch à de plus longues distances.\nPendant la visée, sa propagation de granulés réduira de 70 % en 3,0 secondes.",
 		"machine": false
 	},
 	{
@@ -1496,11 +1496,11 @@
 		"machine": false
 	},
 	{
-		"phrase": "This mid ranged weapon has a large clip for suppresive fire. Overheats after 50 continuous shots",
+		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Cette arme de moyenne portée a un grand chargeur pour un tir de suppression. Surchauffe après 50 tirs en continu",
+		"translation": "Cette arme de moyenne portée a un grand chargeur pour un tir de suppression.\nSurchauffe après 50 tirs en continu",
 		"machine": false
 	},
 	{
@@ -1517,7 +1517,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Place des blocs avec cet outil.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
@@ -1541,7 +1541,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Cette arme à courte et moyenne portée tire rapidement mais a un petit chargeur.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
@@ -1549,7 +1549,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Technologie légère d'agaman. tir rapide, frappe dur.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
@@ -1557,7 +1557,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Technologie lourde d'agaman. tire une boule de plasma puissante.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
@@ -1573,7 +1573,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Cette arme à courte portée puissante contient un puissant noyau de soltrium.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Such a small gun. Such a massive boom.",
@@ -1581,7 +1581,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Une si petite arme. un si grand boom.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
@@ -1592,11 +1592,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls. Scanner orbs can be shot by enemy players.",
+		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Lance un orbe de scanner flottant qui clignote toutes les deux secondes, révélant les ennemis à travers les murs. Les orbes du scanner peuvent être detruites par les joueurs ennemis.",
+		"translation": "Lance un orbe de scanner flottant qui clignote toutes les deux secondes, révélant les ennemis à travers les murs.\nLes orbes du scanner peuvent être detruites par les joueurs ennemis.",
 		"machine": false
 	},
 	{
@@ -1605,7 +1605,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Cette arme à courte portée crée une explosion d'éclats de shrapnel.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
@@ -1613,7 +1613,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Cette arme à courte et moyenne portée a du punch. attention au recul.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Place block structures with this tool.",
@@ -1621,7 +1621,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Place des structures de blocs avec cet outil.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Attaches to walls. Right click to pull the wall down.",
@@ -1637,7 +1637,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "construction",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
