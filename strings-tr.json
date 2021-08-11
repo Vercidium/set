@@ -13,7 +13,7 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "Hasar",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Overkill",
@@ -45,7 +45,7 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "Kafadan vuruş",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Kill",
@@ -69,7 +69,7 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "VIP öldürme",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "VIP defend",
@@ -77,22 +77,22 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "VIP savunma",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Scanner destroyed",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Tarayıcı yok edildi",
-		"machine": true
+		"translation": "Scanner yok edildi",
+		"machine": false
 	},
 	{
 		"phrase": "Scanner assist",
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Tarayıcı asisti",
+		"translation": "Scanner asisti",
 		"machine": false
 	},
 	{
@@ -101,7 +101,7 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "C4 yok edildi",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Disruptor destroyed",
@@ -117,7 +117,7 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "İntikamcı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Flag capture",
@@ -125,7 +125,7 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "Bayrak yakalama",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Flag carry",
@@ -236,8 +236,8 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "İşaret etme asisti",
-		"machine": true
+		"translation": "İşaretleme asisti",
+		"machine": false
 	},
 	{
 		"phrase": "Attacking",
@@ -253,7 +253,7 @@
 		"comment": "In-game point text",
 		"locations": [],
 		"translation": "Savunma",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Contesting",
@@ -300,7 +300,7 @@
 		"context": null,
 		"comment": "In-game point text",
 		"locations": [],
-		"translation": "Malzeme toplama",
+		"translation": "Yağma",
 		"machine": false
 	},
 	{
@@ -349,7 +349,7 @@
 		"comment": "Medal name",
 		"locations": [],
 		"translation": "En değerli oyuncu",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Annihilator",
@@ -357,7 +357,7 @@
 		"comment": "Medal name",
 		"locations": [],
 		"translation": "Yok edici",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Marksman",
@@ -365,7 +365,7 @@
 		"comment": "Medal name",
 		"locations": [],
 		"translation": "Nişancı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Creator",
@@ -373,7 +373,7 @@
 		"comment": "Medal name",
 		"locations": [],
 		"translation": "İnşa edici",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Destroyer",
@@ -389,7 +389,7 @@
 		"comment": "Medal name",
 		"locations": [],
 		"translation": "Saldırgan",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Defender",
@@ -437,7 +437,7 @@
 		"comment": "Medal name",
 		"locations": [],
 		"translation": "Casus",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "MVP",
@@ -445,7 +445,7 @@
 		"comment": "Abbreviated medal name",
 		"locations": [],
 		"translation": "MVP",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Team placement",
@@ -461,7 +461,7 @@
 		"comment": "Player status on the scoreboard",
 		"locations": [],
 		"translation": "Bağlanıyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Loading Map",
@@ -469,7 +469,7 @@
 		"comment": "Player status on the scoreboard",
 		"locations": [],
 		"translation": "Harita yükleniyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "None",
@@ -477,7 +477,7 @@
 		"comment": "Player status on the scoreboard",
 		"locations": [],
 		"translation": "Hiçbiri",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Playing",
@@ -501,15 +501,15 @@
 		"comment": "Player status on the scoreboard",
 		"locations": [],
 		"translation": "Takım seçiyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Spectating",
 		"context": null,
 		"comment": "Player status on the scoreboard",
 		"locations": [],
-		"translation": "seyirci",
-		"machine": true
+		"translation": "Seyirci",
+		"machine": false
 	},
 	{
 		"phrase": "Left",
@@ -517,7 +517,7 @@
 		"comment": "Player status on the scoreboard",
 		"locations": [],
 		"translation": "Ayrıldı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Breakthrough",
@@ -588,8 +588,8 @@
 		"context": null,
 		"comment": "Game mode name, only found in Custom Maps",
 		"locations": [],
-		"translation": "Herşey",
-		"machine": true
+		"translation": "Tüm Oyun Modları",
+		"machine": false
 	},
 	{
 		"phrase": "Kicked by a moderator",
@@ -597,7 +597,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Bir moderatör tarafından atıldı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Already in game",
@@ -605,7 +605,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Zaten oyunda",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Authentication failed",
@@ -637,7 +637,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "EAC ihlali",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Kicked for inactivity",
@@ -653,7 +653,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "İç hata",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Map is restoring. Try again in 10 seconds",
@@ -661,7 +661,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Harita geri yükleniyor. 10 saniye sonra tekrar deneyin",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Network Error",
@@ -669,15 +669,15 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Ağ hatası",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "No Error",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "hata yok",
-		"machine": true
+		"translation": "Hata yok",
+		"machine": false
 	},
 	{
 		"phrase": "Reconnecting",
@@ -685,7 +685,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Yeniden bağlanılıyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Server is restarting",
@@ -693,7 +693,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Sunucu yeniden başlatılıyor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Temporarily Banned",
@@ -709,7 +709,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Sürüm uyuşmazlığı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Votekicked",
@@ -724,7 +724,7 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Oyla atılma hala yürürlükte",
+		"translation": "Atılma hala yürürlükte",
 		"machine": false
 	},
 	{
@@ -732,16 +732,16 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "yanlış parola",
-		"machine": true
+		"translation": "Yanlış parola",
+		"machine": false
 	},
 	{
 		"phrase": "Your level is too high",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "seviyen çok yüksek",
-		"machine": true
+		"translation": "Seviyen çok yüksek",
+		"machine": false
 	},
 	{
 		"phrase": "You can only claim 3 lobbies per day",
@@ -765,7 +765,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Minimum seviye kendi seviyenizden daha düşük olmalıdır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Max level must be greater than your own",
@@ -773,7 +773,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Maksimum seviye sizinkinden daha büyük olmalıdır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Min level can't be greater than max level",
@@ -788,23 +788,23 @@
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "sen çok güçlüsün",
-		"machine": true
+		"translation": "Sen çok güçlüsün",
+		"machine": false
 	},
 	{
 		"phrase": "Your level is too low",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "seviyen çok düşük",
-		"machine": true
+		"translation": "Seviyen çok düşük",
+		"machine": false
 	},
 	{
 		"phrase": "Cannot claim. Lobby has players",
 		"context": null,
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
-		"translation": "Lobi ele geçirilemiyor. lobide oyuncular var",
+		"translation": "Lobi ele geçirilemiyor. Lobide oyuncular var",
 		"machine": false
 	},
 	{
@@ -813,7 +813,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Ayrılmış yuvanın süresi doldu",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Min level must be less than max level",
@@ -821,7 +821,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Minimum seviye, maksimum seviyeden az olmalıdır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Bot Replacement",
@@ -829,7 +829,7 @@
 		"comment": "Reason for being disconnected from a server",
 		"locations": [],
 		"translation": "Bot değiştirme",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Accelerator",
@@ -845,7 +845,7 @@
 		"comment": "Barrel attachment name",
 		"locations": [],
 		"translation": "Işın ayırıcı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Choke",
@@ -869,7 +869,7 @@
 		"comment": "Barrel attachment name",
 		"locations": [],
 		"translation": "Varsayılan",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Extended",
@@ -877,23 +877,23 @@
 		"comment": "Barrel attachment name",
 		"locations": [],
 		"translation": "Genişletilmiş",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Extendest",
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "en geniş",
-		"machine": true
+		"translation": "En geniş",
+		"machine": false
 	},
 	{
 		"phrase": "Resonator",
 		"context": null,
 		"comment": "Barrel attachment name",
 		"locations": [],
-		"translation": "rezonatör",
-		"machine": true
+		"translation": "Rezonatör",
+		"machine": false
 	},
 	{
 		"phrase": "Silencer",
@@ -901,7 +901,7 @@
 		"comment": "Barrel attachment name",
 		"locations": [],
 		"translation": "Susturucu",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Medium",
@@ -909,7 +909,7 @@
 		"comment": "Barrel attachment name",
 		"locations": [],
 		"translation": "Orta",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Short",
@@ -925,7 +925,7 @@
 		"comment": "Foregrip attachment name",
 		"locations": [],
 		"translation": "Açılı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Removed",
@@ -949,7 +949,7 @@
 		"comment": "Foregrip attachment name",
 		"locations": [],
 		"translation": "Taraf",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Angled Half-Grip",
@@ -965,7 +965,7 @@
 		"comment": "Magazine attachment name",
 		"locations": [],
 		"translation": "Büyük",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Heavy",
@@ -973,7 +973,7 @@
 		"comment": "Ammo type name",
 		"locations": [],
 		"translation": "Ağır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Light",
@@ -988,8 +988,8 @@
 		"context": null,
 		"comment": "Ammo type name",
 		"locations": [],
-		"translation": "delici",
-		"machine": true
+		"translation": "Delici",
+		"machine": false
 	},
 	{
 		"phrase": "Ricochet",
@@ -1021,7 +1021,7 @@
 		"comment": "Ammo type name",
 		"locations": [],
 		"translation": "Saçılma",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Tow",
@@ -1029,7 +1029,7 @@
 		"comment": "Ammo type name",
 		"locations": [],
 		"translation": "Lazer güdümlü",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Triple",
@@ -1037,7 +1037,7 @@
 		"comment": "Ammo type name",
 		"locations": [],
 		"translation": "Üçlü",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Lethal",
@@ -1053,7 +1053,7 @@
 		"comment": "Ammo type name",
 		"locations": [],
 		"translation": "Artırılmış",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Corrosive",
@@ -1061,7 +1061,7 @@
 		"comment": "Payload attachment name",
 		"locations": [],
 		"translation": "Aşındırıcı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Explosive",
@@ -1069,7 +1069,7 @@
 		"comment": "Payload attachment name",
 		"locations": [],
 		"translation": "Patlayıcı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Incendiary",
@@ -1085,7 +1085,7 @@
 		"comment": "Stock attachment name",
 		"locations": [],
 		"translation": "Temel",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Tactical",
@@ -1101,7 +1101,7 @@
 		"comment": "Stock attachment name",
 		"locations": [],
 		"translation": "Sert",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Mechanical",
@@ -1117,7 +1117,7 @@
 		"comment": "Combat Shotgun choke attachment name",
 		"locations": [],
 		"translation": "Gelişmiş",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Welded",
@@ -1125,7 +1125,7 @@
 		"comment": "Combat Shotgun choke attachment name",
 		"locations": [],
 		"translation": "Kaynaklı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pneumatic",
@@ -1149,7 +1149,7 @@
 		"comment": "Core attachment name, i.e. single shot vs automatic fire",
 		"locations": [],
 		"translation": "Otomatik",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Plasma Cutter",
@@ -1157,7 +1157,7 @@
 		"comment": "Core attachment name",
 		"locations": [],
 		"translation": "Plazma kesici",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Sniper",
@@ -1165,7 +1165,7 @@
 		"comment": "Weapon category name",
 		"locations": [],
 		"translation": "Keskin nişanci",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Rifle",
@@ -1173,7 +1173,7 @@
 		"comment": "Weapon category name",
 		"locations": [],
 		"translation": "Tüfek",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "SMG",
@@ -1181,7 +1181,7 @@
 		"comment": "Weapon category name",
 		"locations": [],
 		"translation": "SMG",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Shotgun",
@@ -1189,7 +1189,7 @@
 		"comment": "Weapon category name",
 		"locations": [],
 		"translation": "Pompalı tüfek",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Pistol",
@@ -1197,7 +1197,7 @@
 		"comment": "Weapon category name",
 		"locations": [],
 		"translation": "Tabanca",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Equipment",
@@ -1205,7 +1205,7 @@
 		"comment": "Weapon category name",
 		"locations": [],
 		"translation": "Teçhizat",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Other",
@@ -1213,14 +1213,14 @@
 		"comment": "Weapon category name",
 		"locations": [],
 		"translation": "Diğer",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Ironsights",
 		"context": null,
 		"comment": "Sight attachment name",
 		"locations": [],
-		"translation": "Basit nişangah",
+		"translation": "Standart",
 		"machine": false
 	},
 	{
@@ -1228,8 +1228,8 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Kırık daire",
-		"machine": true
+		"translation": "Kırık çember",
+		"machine": false
 	},
 	{
 		"phrase": "Broken Square",
@@ -1237,22 +1237,22 @@
 		"comment": "Crosshair name",
 		"locations": [],
 		"translation": "Kırık kare",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Chevron",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Şerit",
-		"machine": true
+		"translation": "Şevron",
+		"machine": false
 	},
 	{
 		"phrase": "Circle Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Daire içinde artı",
+		"translation": "Çember",
 		"machine": false
 	},
 	{
@@ -1260,7 +1260,7 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Artı ortasında nokta",
+		"translation": "Nokta",
 		"machine": false
 	},
 	{
@@ -1268,152 +1268,152 @@
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "noktalı çarpı",
-		"machine": true
+		"translation": "Noktalı artı",
+		"machine": false
 	},
 	{
 		"phrase": "Pointed Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "sivri haç",
-		"machine": true
+		"translation": "İşaretli artı",
+		"machine": false
 	},
 	{
 		"phrase": "Sparse Dotted Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Seyrek noktalı çarpı",
-		"machine": true
+		"translation": "Seyrek noktalı artı",
+		"machine": false
 	},
 	{
 		"phrase": "Unbroken Cross",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "kesintisiz çapraz",
-		"machine": true
+		"translation": "Kesintisiz artı",
+		"machine": false
 	},
 	{
 		"phrase": "2px Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "2 piksel Nokta",
-		"machine": true
+		"translation": "2 piksel nokta",
+		"machine": false
 	},
 	{
 		"phrase": "4px Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "4 piksel Nokta",
-		"machine": true
+		"translation": "4 piksel nokta",
+		"machine": false
 	},
 	{
 		"phrase": "6px Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "6 piksel Nokta",
-		"machine": true
+		"translation": "6 piksel nokta",
+		"machine": false
 	},
 	{
 		"phrase": "8px Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "8 piksel Nokta",
-		"machine": true
+		"translation": "8 piksel nokta",
+		"machine": false
 	},
 	{
 		"phrase": "Flat Dot",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "düz nokta",
-		"machine": true
+		"translation": "Düz nokta",
+		"machine": false
 	},
 	{
 		"phrase": "Dot Plus",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "nokta artı",
-		"machine": true
+		"translation": "Nokta+",
+		"machine": false
 	},
 	{
 		"phrase": "Dot Plus Circle",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "Nokta artı daire",
-		"machine": true
+		"translation": "Nokta+ çember",
+		"machine": false
 	},
 	{
 		"phrase": "Dot T",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "nokta T",
-		"machine": true
+		"translation": "T nokta",
+		"machine": false
 	},
 	{
 		"phrase": "Empty Plus",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "boş artı",
-		"machine": true
+		"translation": "Boş artı",
+		"machine": false
 	},
 	{
 		"phrase": "Empty T",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "boş T",
-		"machine": true
+		"translation": "Boş T",
+		"machine": false
 	},
 	{
 		"phrase": "T Point",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "T noktası",
-		"machine": true
+		"translation": "T işareti",
+		"machine": false
 	},
 	{
 		"phrase": "T Point Round",
 		"context": null,
 		"comment": "Crosshair name",
 		"locations": [],
-		"translation": "T noktası yuvarlak",
-		"machine": true
+		"translation": "T yuvarlak işareti",
+		"machine": false
 	},
 	{
 		"phrase": "Camoflague",
 		"context": null,
 		"comment": "Weapon skin category name",
 		"locations": [],
-		"translation": "kamuflaj",
-		"machine": true
+		"translation": "Kamuflaj",
+		"machine": false
 	},
 	{
 		"phrase": "Metallic",
 		"context": null,
 		"comment": "Weapon skin category name",
 		"locations": [],
-		"translation": "metalik",
-		"machine": true
+		"translation": "Metalik",
+		"machine": false
 	},
 	{
 		"phrase": "Animated",
 		"context": null,
 		"comment": "Weapon skin category name",
 		"locations": [],
-		"translation": "animasyonlu",
-		"machine": true
+		"translation": "Animasyonlu",
+		"machine": false
 	},
 	{
 		"phrase": "Digital",
@@ -1421,15 +1421,15 @@
 		"comment": "Weapon skin name",
 		"locations": [],
 		"translation": "Dijital",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Tiger",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "kapla",
-		"machine": true
+		"translation": "Kaplan",
+		"machine": false
 	},
 	{
 		"phrase": "Poly",
@@ -1437,23 +1437,23 @@
 		"comment": "Weapon skin name",
 		"locations": [],
 		"translation": "Poli",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Snakeskin",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "yılan derisi",
-		"machine": true
+		"translation": "Yılan derisi",
+		"machine": false
 	},
 	{
 		"phrase": "Woodland",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "Ormanlık alan",
-		"machine": true
+		"translation": "Ormanlık",
+		"machine": false
 	},
 	{
 		"phrase": "Hot Metal",
@@ -1461,31 +1461,31 @@
 		"comment": "Weapon skin name",
 		"locations": [],
 		"translation": "Sıcak metal",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Cold Metal",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "soğuk metal",
-		"machine": true
+		"translation": "Soğuk metal",
+		"machine": false
 	},
 	{
 		"phrase": "Pearl",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "inci",
-		"machine": true
+		"translation": "İnci",
+		"machine": false
 	},
 	{
 		"phrase": "Tracer",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "izleyici",
-		"machine": true
+		"translation": "Çizgili",
+		"machine": false
 	},
 	{
 		"phrase": "Fluid",
@@ -1493,7 +1493,7 @@
 		"comment": "Weapon skin name",
 		"locations": [],
 		"translation": "Sıvı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Ember",
@@ -1501,15 +1501,15 @@
 		"comment": "Weapon skin name",
 		"locations": [],
 		"translation": "Kor",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Grid",
 		"context": null,
 		"comment": "Weapon skin name",
 		"locations": [],
-		"translation": "Kafes",
-		"machine": true
+		"translation": "Noktalı",
+		"machine": false
 	},
 	{
 		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
@@ -1517,7 +1517,7 @@
 		"comment": "Weapon description",
 		"locations": [],
 		"translation": "Bu orta-uzun menzilli silah, çoğu çatışma için dengelidir.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
@@ -1525,71 +1525,71 @@
 		"comment": "Weapon description",
 		"locations": [],
 		"translation": "Daha güçlü bir ışın üretmek için birden çok kez şarj edilebilen Mecharii teknolojisi.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Sol tıklama ile fırlatın ve sağ tıklama ile patlatın. yeniden doğduğunda, c4'ün senden bağlantısı kesilir ve patlatılması için vurulması gerekir.",
-		"machine": true
+		"translation": "Sol tık ile fırlatın ve sağ tık ile patlatın. Yeniden doğduğunda, C4'ün senden bağlantısı kesilir ve patlatılması için üzerine ateş edilmesi gerekir.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu orta uzun menzilli av tüfeği, daha uzun mesafelerde yumruk atıyor.\nKapsam belirleme sırasında, pelet yayılımı 3.0 saniyede %70 oranında azalacaktır..",
-		"machine": true
+		"translation": "Bu orta uzun menzilli av tüfeği, daha uzun mesafelerde etkilidir.\nNişan alırken, mermilerinin saçması 3.0 saniyede %70 oranında azalacaktır.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Kullanımdan kaldırıldı] aegis'in ileri teknolojisinin bir kanıtı.",
-		"machine": true
+		"translation": "[Kullanımdan kaldırıldı] Aegis'in ileri teknolojisinin bir kanıtı.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Kullanımdan kaldırıldı] 3x3x3 blok yığınını kaldıran daha yavaş midi kazma.",
-		"machine": true
+		"translation": "[Kullanımdan kaldırıldı] 3x3x3 blok kazabilen daha yavaş Midi güçlendirmesi.",
+		"machine": false
 	},
 	{
 		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Geçen düşmanları heyecanlandırmak için bir blok yüzeyine yerleştirin. sadece tek kullanımlık.",
-		"machine": true
+		"translation": "Geçen düşmanları şoklamak için bir blok yüzeyine yerleştirin. Sadece tek kullanımlık.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Allows one extra modification to be equipped.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Kullanımdan kaldırıldı], fazladan bir değişikliğin donatılmasına izin verir.",
-		"machine": true
+		"translation": "[Kullanımdan kaldırıldı], Fazladan bir modifikasyonun donatılmasına izin verir.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu orta menzilli silah, patlamadan önce sıçrayan kararsız soltrium çekirdeklerini fırlatır.",
-		"machine": true
+		"translation": "Bu orta menzilli silah, patlamadan önce sıçrayan kararsız Soltrium Çekirdekleri fırlatır.",
+		"machine": false
 	},
 	{
 		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu el bombası kararsız bir soltrium çekirdeğine sahiptir ve 3 saniye sonra patlar. tüm oyuncuların iki el bombası vardır, ancak bunu etkinleştirmek el bombalarınızın duvarlara yapışmasını sağlar.",
-		"machine": true
+		"translation": "Bu el bombası kararsız bir Soltrium Çekirdeğine sahiptir ve 3 saniye sonra patlar. Tüm oyuncuların iki el bombası vardır ve bu güçlendirmeyi etkinleştirmek el bombalarınızın duvarlara yapışmasını sağlar.",
+		"machine": false
 	},
 	{
 		"phrase": "Agaman technology that cuts through blocks instantly.",
@@ -1597,15 +1597,15 @@
 		"comment": "Weapon description",
 		"locations": [],
 		"translation": "Blokları anında kesen Agaman teknolojisi.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu orta menzilli silahın, baskılayıcı ateş için büyük bir klipsi var.\n50 sürekli çekimden sonra aşırı ısınma",
-		"machine": true
+		"translation": "Bu orta menzilli silahın, sürekli ateş için büyük bir şarjör kapasitesi vardır.\n50 atış sonrasında aşırı ısınır.",
+		"machine": false
 	},
 	{
 		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
@@ -1613,119 +1613,119 @@
 		"comment": "Weapon description",
 		"locations": [],
 		"translation": "Plazma toplarını hızlı bir şekilde art arda ateşleyen Agaman teknolojisi.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Place blocks with this tool.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu araçla blokları yerleştirin.",
-		"machine": true
+		"translation": "Bu aletle blokları yerleştirin.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid ranged weapon shoots Soltrium Tracer Rounds. Recharges over time and can overheat.",
 		"context": null,
 		"comment": "Weapon description for Aranet's Minigun",
 		"locations": [],
-		"translation": "Bu orta menzilli silah, soltrium izleyici mermileri atar. zamanla şarj olur ve aşırı ısınabilir.",
-		"machine": true
+		"translation": "Bu orta menzilli silah, Soltrium Tracer Mermileri ateşler. Zamanla şarj olur ve aşırı ısınabilir.",
+		"machine": false
 	},
 	{
 		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Soltriyum enerjisini patlayıcı bir plazma topuna dönüştüren yıkıcı agaman teknolojisi.",
-		"machine": true
+		"translation": "Soltrium enerjisini patlayıcı bir plazma topuna dönüştüren yıkıcı Agaman teknolojisi.",
+		"machine": false
 	},
 	{
 		"phrase": "Paint blocks with this tool.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu araçla blokları boyayın.",
-		"machine": true
+		"translation": "Bu aletle blokları boyayın.",
+		"machine": false
 	},
 	{
 		"phrase": "This close-mid ranged weapon shoots quickly but has a small magazine.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu yakın-orta menzilli silah hızlı ateş eder ancak küçük bir şarjöre sahiptir..",
-		"machine": true
+		"translation": "Bu yakın-orta menzilli silah hızlı ateş eder ancak küçük bir şarjöre sahiptir.",
+		"machine": false
 	},
 	{
 		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Hafif agaman teknolojisi. hızlı atış, sert vuruş.",
-		"machine": true
+		"translation": "Hafif Agaman teknolojisi. hızlı ateş eder, fazla hasar verir.",
+		"machine": false
 	},
 	{
 		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Ağır agaman teknolojisi. sert bir plazma topunu ateşler.",
-		"machine": true
+		"translation": "Ağır Agaman teknolojisi. Çok fazla hasar veren plazma topu ateşler.",
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu uzun menzilli silah, manyetik tahrik kullanır ve menzildeki müttefiklere destek sağlamak için 4x dürbünle donatılabilir..",
-		"machine": true
+		"translation": "Bu uzun menzilli silah, manyetik etkileşim kullanır ve uzak menzildeki müttefiklere destek sağlamak için 4x dürbünle donatılabilir.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Blocks placed have +100% health.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Kullanımdan kaldırılan] bloklar, +%100 sağlığa sahiptir.",
-		"machine": true
+		"translation": "[Kullanımdan kaldırılan] Yerleştirilen bloklar +%100 sağlığa sahiptir.",
+		"machine": false
 	},
 	{
 		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu sert vuruşlu yakın menzilli silah, güçlü bir soltrium çekirdeği içerir.",
-		"machine": true
+		"translation": "Bu fazla hasar veren yakın menzilli silah, güçlü bir Soltrium Çekirdeği içerir.",
+		"machine": false
 	},
 	{
 		"phrase": "Such a small gun. Such a massive boom.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Ne kadar küçük bir silah. böyle büyük bir patlama.",
-		"machine": true
+		"translation": "Küçük bir silah ama büyük bir patlamaya sebep olur.",
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu uzun menzilli silah, patlayıcı füzeler fırlatmak için soltrium tahrik teknolojisini kullanır..",
-		"machine": true
+		"translation": "Bu uzun menzilli silah, patlayıcı füzeler fırlatmak için Soltrium Etkileşim Teknolojisini kullanır.",
+		"machine": false
 	},
 	{
 		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Her iki saniyede bir titreşen ve duvarların ardındaki düşmanları ortaya çıkaran yüzen bir tarama küresi fırlatır.\nTarayıcı küreleri düşman oyuncular tarafından vurulabilir.",
-		"machine": true
+		"translation": "Her iki saniyede bir duvarların ardındaki düşmanları gösteren uçan bir Scanner fırlatır.\nScanner'lar düşman oyuncular tarafından vurulabilir.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Agaman technology. This close ranged weapon propels a spray of plasma",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Kullanımdan kaldırıldı] agaman teknolojisi. bu yakın menzilli silah bir plazma spreyi itiyor",
-		"machine": true
+		"translation": "[Kullanımdan kaldırıldı] Agaman teknolojisi. bu yakın menzilli silah bir plazma spreyi ateşliyor",
+		"machine": false
 	},
 	{
 		"phrase": "This close ranged weapon creates a blast of shrapnel.",
@@ -1733,79 +1733,79 @@
 		"comment": "Weapon description",
 		"locations": [],
 		"translation": "Bu yakın menzilli silah bir şarapnel patlaması yaratır.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu yakın-orta menzilli silah bir yumruk atıyor. geri tepmeye dikkat et.",
-		"machine": true
+		"translation": "Bu silah yakın-orta menzilde fazla hasar verir. Geri tepmesi fazladır.",
+		"machine": false
 	},
 	{
 		"phrase": "Place block structures with this tool.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Bu araçla blok yapıları yerleştirin.",
-		"machine": true
+		"translation": "Bu aletle blok yapıları yerleştirin.",
+		"machine": false
 	},
 	{
 		"phrase": "Attaches to walls. Right click to pull the wall down.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "Duvarlara takılır. duvarı aşağı çekmek için sağ tıklayın.",
-		"machine": true
+		"translation": "Duvarlara koyulabilir. Duvarı yıkmap için sağ tıklayın.",
+		"machine": false
 	},
 	{
 		"phrase": "[Deprecated] Cluster Agama technology. Not much about this weapon is known.",
 		"context": null,
 		"comment": "Weapon description",
 		"locations": [],
-		"translation": "[Kullanımdan kaldırıldı] küme agama teknolojisi. bu silah hakkında pek bir şey bilinmiyor.",
-		"machine": true
+		"translation": "[Kullanımdan kaldırıldı] Agaman teknolojisi. Bu silah hakkında pek bir şey bilinmiyor.",
+		"machine": false
 	},
 	{
 		"phrase": "Building",
 		"context": null,
 		"comment": "Armour modification name",
 		"locations": [],
-		"translation": "Bina",
-		"machine": true
+		"translation": "İnşa Etme",
+		"machine": false
 	},
 	{
 		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+100 blok\n+2 blok inşa mesafesi\n+5 blok sağlığı",
-		"machine": true
+		"translation": "+100 blok\n+2 Blok inşa etme mesafesi\n+5 Blok sağlığı",
+		"machine": false
 	},
 	{
 		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+100 blok\n+4 blok inşa mesafesi\n+9 blok sağlığı",
-		"machine": true
+		"translation": "+100 blok\n+4 Blok inşa etme mesafesi\n+9 Blok sağlığı",
+		"machine": false
 	},
 	{
 		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+100 blok\n+6 blok inşa mesafesi\n+13 blok sağlığı",
-		"machine": true
+		"translation": "+100 blok\n+6 Blok inşa etme mesafesi\n+13 Blok sağlığı",
+		"machine": false
 	},
 	{
 		"phrase": "Hydraulics",
 		"context": null,
 		"comment": "Armour modification name",
 		"locations": [],
-		"translation": "Hidrolik",
-		"machine": true
+		"translation": "Hidrolikler",
+		"machine": false
 	},
 	{
 		"phrase": "Leg servos",
@@ -1813,15 +1813,15 @@
 		"comment": "Armour modification name",
 		"locations": [],
 		"translation": "Bacak servoları",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Regeneration",
 		"context": null,
 		"comment": "Armour modification name",
 		"locations": [],
-		"translation": "rejenerasyon",
-		"machine": true
+		"translation": "Rejenerasyon",
+		"machine": false
 	},
 	{
 		"phrase": "Speed",
@@ -1829,15 +1829,15 @@
 		"comment": "Armour modification name",
 		"locations": [],
 		"translation": "Hız",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Stealth",
 		"context": null,
 		"comment": "Armour modification name",
 		"locations": [],
-		"translation": "gizli",
-		"machine": true
+		"translation": "Gizlilik",
+		"machine": false
 	},
 	{
 		"phrase": "Kinetic",
@@ -1845,15 +1845,15 @@
 		"comment": "Armour modification name",
 		"locations": [],
 		"translation": "Kinetik",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Scavenger",
 		"context": null,
 		"comment": "Armour modification name",
 		"locations": [],
-		"translation": "Çöpçü",
-		"machine": true
+		"translation": "Yağmacı",
+		"machine": false
 	},
 	{
 		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
@@ -1861,15 +1861,15 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+3 blok güvenli düşme mesafesi\n-%15 düşme hasarı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+400% kendi kendini patlatma geri tepmesi\n-%10 kendi kendine patlama hasarı",
-		"machine": true
+		"translation": "+400% kişisel patlayıcı geri tepmesi\n-%10 kişisel patlayıcı hasarı",
+		"machine": false
 	},
 	{
 		"phrase": "+20% health regeneration speed",
@@ -1877,7 +1877,7 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+%20 sağlık yenileme hızı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "+5% movement speed",
@@ -1885,15 +1885,15 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+%5 hareket hızı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "-%40 inşa ve kazma hacmi\n-%15 ayak sesi hacmi\n-%25 adım mesafesi",
-		"machine": true
+		"translation": "-%40 inşa etme ve kazma sesi\n-%15 ayak sesi\n-%25 adım sesi mesafesi",
+		"machine": false
 	},
 	{
 		"phrase": "+10% dig speed",
@@ -1901,7 +1901,7 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+%10 kazma hızı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
@@ -1909,15 +1909,15 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+6 blok güvenli düşme mesafesi\n-%30 düşme hasarı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+450% kendi kendine patlama geri tepmesi\n-%20 kendi kendine patlama hasarı",
-		"machine": true
+		"translation": "+450% kişisel patlayıcı geri tepmesi\n-%20 kişisel patlayıcı hasarı",
+		"machine": false
 	},
 	{
 		"phrase": "+40% health regeneration speed",
@@ -1925,7 +1925,7 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+%40 sağlık yenileme hızı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "+10% movement speed",
@@ -1933,39 +1933,39 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+%10 hareket hızı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "-%60 inşa ve kazma hacmi\n-%30 ayak sesi hacmi\n-%50 adım mesafesi",
-		"machine": true
+		"translation": "-%60 inşa etme ve kazma sesi\n-%30 ayak sesi\n-%50 adım sesi mesafesi",
+		"machine": false
 	},
 	{
 		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+%20 kazma hızı\nKazılan blok başına 2 blok kazanın\nHer cephane alımında +1 ekipman cephanesi",
-		"machine": true
+		"translation": "+%20 kazma hızı\nKazılan blok başına +2 blok kazanma\nHer cephane alımında +1 teçhizat cephanesi",
+		"machine": false
 	},
 	{
 		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+9 blok güvenli düşme mesafesi\n-%45 düşme hasarı\n+1 blok atlama yüksekliği",
-		"machine": true
+		"translation": "+9 blok güvenli düşme mesafesi\n-%45 düşme hasarı\n+1 blok zıplama yüksekliği",
+		"machine": false
 	},
 	{
 		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+500% kendi kendini patlatma geri tepmesi\n-%30 kendi kendine patlama hasarı",
-		"machine": true
+		"translation": "+500% kişisel patlayıcı geri tepmesi\n-%30 kişisel patlayıcı hasarı",
+		"machine": false
 	},
 	{
 		"phrase": "+60% health regeneration speed",
@@ -1973,7 +1973,7 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+%60 sağlık yenileme hızı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "+15% movement speed",
@@ -1981,31 +1981,31 @@
 		"comment": "Armour modification description",
 		"locations": [],
 		"translation": "+%15 hareket hızı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "-%80 inşa ve kazma hacmi\n-%45 ayak sesi hacmi\n-%75 adım mesafesi",
-		"machine": true
+		"translation": "-%80 inşa etme ve kazma sesi\n-%45 ayak sesi\n-%75 adım sesi mesafesi",
+		"machine": false
 	},
 	{
 		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
 		"context": null,
 		"comment": "Armour modification description",
 		"locations": [],
-		"translation": "+%30 kazma hızı\nKazılan blok başına 3 blok kazanın\nCephane alımı başına +10 sağlık",
-		"machine": true
+		"translation": "+%30 kazma hızı\nKazılan blok başına +3 blok kazanma\nCephane toplamak +10 can verir",
+		"machine": false
 	},
 	{
 		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
 		"context": null,
 		"comment": "Character description",
 		"locations": [],
-		"translation": "Deneyimsiz olmasına rağmen, bu paralı asker soltrium galaksisine yolculukta cesaret etti ve savaşta değerlerini kanıtlamaya çalışıyor..",
-		"machine": true
+		"translation": "Deneyimsiz olmasına rağmen, bu paralı asker Soltrium galaksisine yolculuğuna cesaret etti ve savaşta değerini kanıtlamaya çalışıyor.",
+		"machine": false
 	},
 	{
 		"phrase": "This solo operative seeks nothing but victory when it comes to saving their race from destruction.",
@@ -2013,39 +2013,39 @@
 		"comment": "Character description",
 		"locations": [],
 		"translation": "Bu solo ajan, konu ırklarını yıkımdan kurtarmak olduğunda zaferden başka bir şey istemiyor.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.",
 		"context": null,
 		"comment": "Character description",
 		"locations": [],
-		"translation": "Menzilde ölümcül bir keskin nişancı ve yakında hızlı bir katil, her türlü karşılaşmada kendilerini koruyabilirler..",
-		"machine": true
+		"translation": "Uzun menzilde ölümcül bir keskin nişancı ve yakında mesafede çevik bir yakın dövüş uzmanı, her türlü karşılaşmada kendisini koruyabilir.",
+		"machine": false
 	},
 	{
 		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
 		"context": null,
 		"comment": "Character description",
 		"locations": [],
-		"translation": "Bu komutan patlama sırasında kolunu kaybetti ama ırklarının geleceği için savaşmaya devam ediyor.",
-		"machine": true
+		"translation": "Bir patlama sonucu kolunu kaybetmiş olmasına rağmen ırkının geleceği için savaşmaya devam ediyor.",
+		"machine": false
 	},
 	{
 		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
 		"context": null,
 		"comment": "Character description",
 		"locations": [],
-		"translation": "Galaksinin kenar mahallelerinde dolaşan, tek başına seyahat etmeye cesaret eden herkese saldıran kanun kaçakları.",
-		"machine": true
+		"translation": "Galaksinde yalnız dolaşan, yoluna çıkan herkese saldıran kanun kaçakları.",
+		"machine": false
 	},
 	{
 		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
 		"context": null,
 		"comment": "Character description",
 		"locations": [],
-		"translation": "Bu agaman, soltrium galaksisine girmeye değer olduklarını kanıtlamak için ön saflarda ihtiyatlı bir şekilde savaştı..",
-		"machine": true
+		"translation": "Bu agaman, Soltrium galaksisine girmeye değer olduklarını kanıtlamak için ön saflarda yetenekli bir şekilde savaştı.",
+		"machine": false
 	},
 	{
 		"phrase": "A curious one, aren't you?",
@@ -2053,23 +2053,23 @@
 		"comment": "Character description",
 		"locations": [],
 		"translation": "Meraklısın değil mi?",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
 		"context": null,
 		"comment": "Character description",
 		"locations": [],
-		"translation": "Bu agaman, soltrium galaksisine yolculuk yapmak için her şeyden vazgeçti..",
-		"machine": true
+		"translation": "Bu agaman, Soltrium galaksisine yolculuk yapmak için her şeyden vazgeçti.",
+		"machine": false
 	},
 	{
 		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
 		"context": null,
 		"comment": "Character description",
 		"locations": [],
-		"translation": "Bu agaman soylusu, durdurulamaz bir et ve makine karışımı üretmek için bir deneyde soltrium ile aşılandı..",
-		"machine": true
+		"translation": "Bu Agaman, durdurulamaz bir et ve makine karışımına dönüştürülmek için bir deneyde Soltrium ile aşılandı.",
+		"machine": false
 	},
 	{
 		"phrase": "Cancel",
@@ -2077,31 +2077,31 @@
 		"comment": "[Store] [Button] Cancel buying from the store",
 		"locations": [],
 		"translation": "İptal",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Checkout",
 		"context": null,
 		"comment": "[Store] [Button] Confirm buying from the store",
 		"locations": [],
-		"translation": "Çıkış yapmak",
-		"machine": true
+		"translation": "Doğrula",
+		"machine": false
 	},
 	{
 		"phrase": "Continue",
 		"context": null,
 		"comment": "[Store] [Button] Continue with a purchase\/action",
 		"locations": [],
-		"translation": "Devam etmek",
-		"machine": true
+		"translation": "Devam et",
+		"machine": false
 	},
 	{
 		"phrase": "Confirm",
 		"context": null,
 		"comment": "[Store] [Button] Confirm a purchase\/action",
 		"locations": [],
-		"translation": "Onaylamak",
-		"machine": true
+		"translation": "Onayla",
+		"machine": false
 	},
 	{
 		"phrase": "Buy now",
@@ -2109,31 +2109,31 @@
 		"comment": "[Store] [Button] Cancel buying from the store",
 		"locations": [],
 		"translation": "Şimdi satın al",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Use token",
 		"context": null,
 		"comment": "[Store] [Button] Use a character token to unlock a character",
 		"locations": [],
-		"translation": "Jeton kullan",
-		"machine": true
+		"translation": "Token kullan",
+		"machine": false
 	},
 	{
 		"phrase": "This is a gift",
 		"context": null,
 		"comment": "[Store] [Checkbox] This purchase is a gift for another player",
 		"locations": [],
-		"translation": "bu bir hediye",
-		"machine": true
+		"translation": "Bu bir hediye",
+		"machine": false
 	},
 	{
 		"phrase": "Submit",
 		"context": null,
 		"comment": "[Popup] [Button] Submit feedback",
 		"locations": [],
-		"translation": "Göndermek",
-		"machine": true
+		"translation": "Gönder",
+		"machine": false
 	},
 	{
 		"phrase": "News",
@@ -2141,7 +2141,7 @@
 		"comment": "[Navigation] Change to the News screen",
 		"locations": [],
 		"translation": "Haberler",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Store",
@@ -2149,7 +2149,7 @@
 		"comment": "[Navigation] Change to the Store screen",
 		"locations": [],
 		"translation": "Mağaza",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Play",
@@ -2157,7 +2157,7 @@
 		"comment": "[Navigation] Change to the Play screen",
 		"locations": [],
 		"translation": "Oyna",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Career",
@@ -2165,23 +2165,23 @@
 		"comment": "[Navigation] Change to the Career screen",
 		"locations": [],
 		"translation": "Kariyer",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Clan",
 		"context": null,
 		"comment": "[Navigation] Change to the Clan screen",
 		"locations": [],
-		"translation": "klan",
-		"machine": true
+		"translation": "Klan",
+		"machine": false
 	},
 	{
 		"phrase": "Customise",
 		"context": null,
 		"comment": "[Navigation] Change to the Customise screen",
 		"locations": [],
-		"translation": "Özelleştirmek",
-		"machine": true
+		"translation": "Kişiselleştirme",
+		"machine": false
 	},
 	{
 		"phrase": "Exit game",
@@ -2189,7 +2189,7 @@
 		"comment": "[Navigation] Exit the game",
 		"locations": [],
 		"translation": "Oyundan çıkış",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Skip tutorial",
@@ -2197,7 +2197,7 @@
 		"comment": "[Navigation] Skip the tutorial",
 		"locations": [],
 		"translation": "Eğiticiyi atla",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "An update is available. Close the game and update the game through",
@@ -2205,7 +2205,7 @@
 		"comment": "[Popup] Banner at the top of the screen that tells the user to update the game through Steam. The word Steam is ommitted from the end of this phrase on purpose",
 		"locations": [],
 		"translation": "Bir güncelleme mevcut. oyunu kapat ve oyunu güncelle",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Connection to",
@@ -2213,23 +2213,23 @@
 		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam. The full phrase is: Connection to Steam failed. Online play is unavailable",
 		"locations": [],
 		"translation": "Bağlantı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "failed. Online play is unavailable",
 		"context": null,
 		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam. The full phrase is: Connection to Steam failed. Online play is unavailable",
 		"locations": [],
-		"translation": "başarısız oldu. Çevrimiçi oyun kullanılamıyor",
-		"machine": true
+		"translation": "Başarısız olundu. Çevrimiçi oyunama kullanılamıyor",
+		"machine": false
 	},
 	{
 		"phrase": "Click the Play tab when you are ready",
 		"context": null,
 		"comment": "[Popup] Tutorial popup prompt",
 		"locations": [],
-		"translation": "Hazır olduğunuzda oynat sekmesine tıklayın",
-		"machine": true
+		"translation": "Hazır olduğunuzda oyna sekmesine tıklayın",
+		"machine": false
 	},
 	{
 		"phrase": "Blocks",
@@ -2237,7 +2237,7 @@
 		"comment": "A 3d voxel",
 		"locations": [],
 		"translation": "Bloklar",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Settings",
@@ -2245,63 +2245,63 @@
 		"comment": "[Setting] [1\/3] This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
 		"locations": [],
 		"translation": "Ayarlar",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Performance",
 		"context": null,
 		"comment": "[Setting] [2\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
 		"locations": [],
-		"translation": "Verim",
-		"machine": true
+		"translation": "Performans",
+		"machine": false
 	},
 	{
 		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
 		"context": null,
 		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
 		"locations": [],
-		"translation": "Animasyonlu blok görünümlerinin doğru şekilde oluşturulabilmesi için animasyonlu blok görünümleri etkinleştirilmelidir",
-		"machine": true
+		"translation": "Animasyonlu blokların doğru şekilde görünmesi için Animasyonlu Bloklar etkinleştirilmelidir",
+		"machine": false
 	},
 	{
 		"phrase": "Drag to rotate",
 		"context": null,
 		"comment": "[Block Customisation] Click and drag with the mouse to rotate the block",
 		"locations": [],
-		"translation": "Döndürmek için sürükleyin",
-		"machine": true
+		"translation": "Döndürmek için sol tıka basılı tutun",
+		"machine": false
 	},
 	{
 		"phrase": "Scroll to zoom",
 		"context": null,
 		"comment": "[Block Customisation] Use the scroll wheel to move the camera closer to the block",
 		"locations": [],
-		"translation": "Yakınlaştırmak için kaydırın",
-		"machine": true
+		"translation": "Yakınlaştırmak için mouse scroll'unu kullanın",
+		"machine": false
 	},
 	{
 		"phrase": "Press space to auto rotate",
 		"context": null,
 		"comment": "[Block Customisation] Press space on your keyboard to make the block automatically rotate",
 		"locations": [],
-		"translation": "Otomatik döndürmek için boşluk tuşuna basın",
-		"machine": true
+		"translation": "Otomatik döndürmek için Space tuşuna basın",
+		"machine": false
 	},
 	{
 		"phrase": "Did you know",
 		"context": null,
 		"comment": "[Connecting] Title of the top-right tip box",
 		"locations": [],
-		"translation": "Biliyor musun",
-		"machine": true
+		"translation": "Biliyor muydun",
+		"machine": false
 	},
 	{
 		"phrase": "Press escape to cancel",
 		"context": null,
 		"comment": "[Connecting] Text that shows in the bottom-left of the screen when connecting to a server",
 		"locations": [],
-		"translation": "İptal etmek için kaçışa basın",
-		"machine": true
+		"translation": "İptal etmek için Escape tuşuna basın",
+		"machine": false
 	},
 	{
 		"phrase": "Warning",
@@ -2309,71 +2309,71 @@
 		"comment": "[Connecting] Text that shows on the left of the screen when connecting to a beta server",
 		"locations": [],
 		"translation": "Uyarı",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "This is an experimental server used for beta testing. The game may not function as intended",
 		"context": null,
 		"comment": "[Connecting] Text that shows on the left of the screen when connecting to a beta server",
 		"locations": [],
-		"translation": "Bu, beta testi için kullanılan deneysel bir sunucudur. oyun istendiği gibi çalışmayabilir",
-		"machine": true
+		"translation": "Bu, beta testi için kullanılan deneysel bir sunucudur. oyun normal sunuculardaki gibi olmayabilir",
+		"machine": false
 	},
 	{
 		"phrase": "Determining sector coordinates",
 		"context": null,
 		"comment": "[Connecting] Fancy loading text",
 		"locations": [],
-		"translation": "Sektör koordinatlarının belirlenmesi",
-		"machine": true
+		"translation": "Sektör koordinatları belirleniyor",
+		"machine": false
 	},
 	{
 		"phrase": "Calibrating thermal dampeners",
 		"context": null,
 		"comment": "[Connecting] Fancy loading text",
 		"locations": [],
-		"translation": "Termal sönümleyicileri kalibre etme",
-		"machine": true
+		"translation": "Termal sönümleyicileri kalibre ediliyor",
+		"machine": false
 	},
 	{
 		"phrase": "Entering planet atmosphere",
 		"context": null,
 		"comment": "[Connecting] Fancy loading text",
 		"locations": [],
-		"translation": "Gezegen atmosferine girmek",
-		"machine": true
+		"translation": "Gezegen atmosferine giriliyor",
+		"machine": false
 	},
 	{
 		"phrase": "Analysing environment",
 		"context": null,
 		"comment": "[Connecting] Fancy loading text",
 		"locations": [],
-		"translation": "Ortam analiz ediliyor",
-		"machine": true
+		"translation": "Çevre analiz ediliyor",
+		"machine": false
 	},
 	{
 		"phrase": "Commencing landing procedure",
 		"context": null,
 		"comment": "[Connecting] Fancy loading text",
 		"locations": [],
-		"translation": "İniş prosedürünün başlatılması",
-		"machine": true
+		"translation": "İniş prosedürü başlatılıyor",
+		"machine": false
 	},
 	{
 		"phrase": "Respawn",
 		"context": null,
 		"comment": "[Gamemode Info] Respawn time, e.g. 10s respawn",
 		"locations": [],
-		"translation": "yeniden doğma",
-		"machine": true
+		"translation": "Yeniden doğ",
+		"machine": false
 	},
 	{
 		"phrase": "Players",
 		"context": null,
 		"comment": "[Gamemode Info] Player count, e.g. 24 players",
 		"locations": [],
-		"translation": "oyuncular",
-		"machine": true
+		"translation": "Oyuncular",
+		"machine": false
 	},
 	{
 		"phrase": "No respawns",
@@ -2381,47 +2381,47 @@
 		"comment": "[Gamemode Info] Players dont respawn in this gamemode, e.g. Arena",
 		"locations": [],
 		"translation": "Yeniden doğma yok",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "First to 5 wins",
 		"context": null,
 		"comment": "[Gamemode Info] Win requirement, e.g. win 5 rounds in Arena to win",
 		"locations": [],
-		"translation": "İlk 5 galibiyet",
-		"machine": true
+		"translation": "İlk 5 rauntu kazanan galibiyeti alır",
+		"machine": false
 	},
 	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
 		"context": null,
 		"comment": "[Gamemode Info] Arena gamemode description",
 		"locations": [],
-		"translation": "Soltriyumun bahis oynadığı galaksinin eteklerinde bir gölge piyasası gelişti. yarışmacıların kar ve hayatta kalmak için savaştığı arenada ya hep ya hiç.",
-		"machine": true
+		"translation": "Soltriumun bahis oynadığı galaksinin ücra taraflarında bir kara market kuruldu. Yarışmacıların kâr ve hayatta kalmak için savaştığı arenada ya kazan ya da öl.",
+		"machine": false
 	},
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
 		"context": null,
 		"comment": "[Gamemode Info] Spire gamemode description",
 		"locations": [],
-		"translation": "Hiçbir şeyle başlayın ve düşman ekibini ortadan kaldırmak için silah toplayın.",
-		"machine": true
+		"translation": "Silahsız başlarsınız ve düşman ekibini ortadan kaldırmak için silah toplamanız gerekir.",
+		"machine": false
 	},
 	{
 		"phrase": "All players start with the same randomised loadout.",
 		"context": null,
 		"comment": "[Gamemode Info] Static gamemode description",
 		"locations": [],
-		"translation": "Tüm oyuncular aynı rastgele dizilimle başlar.",
-		"machine": true
+		"translation": "Tüm oyuncular aynı rastgele ekipmanla başlar.",
+		"machine": false
 	},
 	{
 		"phrase": "Soltrium is scattered throughout the outer sector. Various",
 		"context": null,
 		"comment": "[Salvage] [1\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
 		"locations": [],
-		"translation": "Soltrium dış sektör boyunca dağılmıştır. çeşitli",
-		"machine": true
+		"translation": "Soltrium dış sektör boyunca dağılmıştır. Çeşitli",
+		"machine": false
 	},
 	{
 		"phrase": "And",
@@ -2429,15 +2429,15 @@
 		"comment": "[Salvage] [2\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
 		"locations": [],
 		"translation": "Ve",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "battalions have been dispatched to search for and collect the precious resource.",
 		"context": null,
 		"comment": "[Salvage] [3\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
 		"locations": [],
-		"translation": "değerli kaynağı aramak ve toplamak için taburlar gönderildi.",
-		"machine": true
+		"translation": "değerli kaynağı aramak ve toplamak için paralı askerler gönderildi.",
+		"machine": false
 	},
 	{
 		"phrase": "The first team to",
@@ -2445,119 +2445,119 @@
 		"comment": "[Gamemode Info] [1\/2] Win requirement. The full phrase is: The first team to 500 points wins",
 		"locations": [],
 		"translation": "İlk takım",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "points wins",
 		"context": null,
 		"comment": "[Gamemode Info] [2\/2] Win requirement. The full phrase is: The first team to 500 points wins",
 		"locations": [],
-		"translation": "puan kazanır",
-		"machine": true
+		"translation": "kazanır",
+		"machine": false
 	},
 	{
 		"phrase": "Capture 5 zones to win",
 		"context": null,
 		"comment": "[Breakthrough] Win requirement. A team must capture 5 zones to win",
 		"locations": [],
-		"translation": "Kazanmak için 5 bölge ele geçir",
-		"machine": true
+		"translation": "Kazanmak için 5 bölgenin kontrolünü elinde tut",
+		"machine": false
 	},
 	{
 		"phrase": "Control the zone to win",
 		"context": null,
 		"comment": "[Control Shift] Win requirement. A team must control and push the zone back into the enemy spawn to win",
 		"locations": [],
-		"translation": "Kazanmak için bölgeyi kontrol edin",
-		"machine": true
+		"translation": "Kazanmak için bölgenin kontrolünü elinde tut",
+		"machine": false
 	},
 	{
 		"phrase": "Deliver the bomb",
 		"context": null,
 		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Deliver the bomb 3 times to win",
 		"locations": [],
-		"translation": "bombayı teslim et",
-		"machine": true
+		"translation": "Bombayı götür",
+		"machine": false
 	},
 	{
 		"phrase": "Capture the flag",
 		"context": null,
 		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
 		"locations": [],
-		"translation": "Bayrağı ele geçir",
-		"machine": true
+		"translation": "Bayrağı ",
+		"machine": false
 	},
 	{
 		"phrase": "Times to win",
 		"context": null,
 		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
 		"locations": [],
-		"translation": "Kazanma zamanları",
-		"machine": true
+		"translation": "kere ele geçir ve kazan",
+		"machine": false
 	},
 	{
 		"phrase": "Get two kills with every weapon, then melee to win",
 		"context": null,
 		"comment": "[Gun Game] Win requirement",
 		"locations": [],
-		"translation": "Her silahla iki öldürme yapın, ardından kazanmak için yakın dövüş yapın",
-		"machine": true
+		"translation": "Her silahla iki düşman öldürün ve en son olarak kazanmak için bir düşmanı bıçakla öldürün",
+		"machine": false
 	},
 	{
 		"phrase": "Hold the most Soltrium to win",
 		"context": null,
 		"comment": "[Head Hunter] Win requirement",
 		"locations": [],
-		"translation": "Kazanmak için en fazla soltriyumu tutun",
-		"machine": true
+		"translation": "Kazanmak için en fazla Soltriuma sahip olun",
+		"machine": false
 	},
 	{
 		"phrase": "Pick up",
 		"context": null,
 		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
 		"locations": [],
-		"translation": "Toplamak",
-		"machine": true
+		"translation": "Düşmandan",
+		"machine": false
 	},
 	{
 		"phrase": "From enemy corpses",
 		"context": null,
 		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
 		"locations": [],
-		"translation": "düşman cesetlerinden",
-		"machine": true
+		"translation": "topla",
+		"machine": false
 	},
 	{
 		"phrase": "Weapons and Mods spawn around the map",
 		"context": null,
 		"comment": "[Head Hunter] Gamemode description.",
 		"locations": [],
-		"translation": "Haritanın etrafında ortaya çıkan silahlar ve modlar",
-		"machine": true
+		"translation": "Silahlar ve modifikasyonlar haritanın içinde rastgele olarak bulunur",
+		"machine": false
 	},
 	{
 		"phrase": "Not bound",
 		"context": null,
 		"comment": "[Keybind] This is replacement text for an unbound keybind, e.g. Press [Not bound] to sprint",
 		"locations": [],
-		"translation": "bağlı değil",
-		"machine": true
+		"translation": "Atanmamış",
+		"machine": false
 	},
 	{
 		"phrase": "You can hold",
 		"context": null,
 		"comment": "[Connecting] [Loading Tip 1] [1\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
 		"locations": [],
-		"translation": "tutabilirsin",
-		"machine": true
+		"translation": "Düşman yerlerini takım arkadaşlarına işaretlemek için",
+		"machine": false
 	},
 	{
 		"phrase": "To reveal enemy positions to teammates",
 		"context": null,
 		"comment": "[Connecting] [Loading Tip 1] [2\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
 		"locations": [],
-		"translation": "Takım arkadaşlarına düşman pozisyonlarını göstermek için",
-		"machine": true
+		"translation": "basılı tutabilirsin",
+		"machine": false
 	},
 	{
 		"phrase": "You can press",
