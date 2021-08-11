@@ -980,8 +980,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Hinaus",
-		"machine": true
+		"translation": "Laaser ohjattava panos",
+		"machine": false
 	},
 	{
 		"phrase": "Corrosive",
@@ -1036,8 +1036,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Pitkälle kehittynyt",
-		"machine": true
+		"translation": "Kehittynyt",
+		"machine": false
 	},
 	{
 		"phrase": "Welded",
@@ -1076,24 +1076,24 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Sniper",
-		"machine": true
+		"translation": "Kivääri",
+		"machine": false
 	},
 	{
 		"phrase": "Rifle",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Kivääri",
-		"machine": true
+		"translation": "Rynnäkkökivääri",
+		"machine": false
 	},
 	{
 		"phrase": "SMG",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "SMG",
-		"machine": true
+		"translation": "Konepistooli",
+		"machine": false
 	},
 	{
 		"phrase": "Shotgun",
@@ -1132,8 +1132,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ironsights",
-		"machine": true
+		"translation": "Tähtäin",
+		"machine": false
 	},
 	{
 		"phrase": "Broken Circle",
@@ -1156,8 +1156,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Chevron",
-		"machine": true
+		"translation": "Väkänen",
+		"machine": false
 	},
 	{
 		"phrase": "Circle Cross",
@@ -1196,16 +1196,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Harva katkoviiva",
-		"machine": true
+		"translation": "Harvakseen pisteviivoitettu risti",
+		"machine": false
 	},
 	{
 		"phrase": "Unbroken Cross",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Murtumaton risti",
-		"machine": true
+		"translation": "Kiinteä risti",
+		"machine": false
 	},
 	{
 		"phrase": "2px Dot",
@@ -1292,7 +1292,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "T kohta",
+		"translation": "T kärki",
 		"machine": true
 	},
 	{
@@ -1300,7 +1300,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "T -pisteen kierros",
+		"translation": "T -kärki kierros",
 		"machine": true
 	},
 	{
@@ -1308,7 +1308,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Camoflague",
+		"translation": "Naamiointi",
 		"machine": true
 	},
 	{
@@ -1364,8 +1364,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Woodland",
-		"machine": true
+		"translation": "Puumaa",
+		"machine": false
 	},
 	{
 		"phrase": "Hot Metal",
@@ -1380,8 +1380,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Kylmää metallia",
-		"machine": true
+		"translation": "Kylmää metalli",
+		"machine": false
 	},
 	{
 		"phrase": "Pearl",
@@ -1396,8 +1396,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tracer",
-		"machine": true
+		"translation": "Valojuova",
+		"machine": false
 	},
 	{
 		"phrase": "Fluid",
@@ -1412,8 +1412,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Ember",
-		"machine": true
+		"translation": "Hehkuva hiili",
+		"machine": false
 	},
 	{
 		"phrase": "Grid",
@@ -1436,47 +1436,47 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Mecharii -tekniikka, joka voidaan ladata useita kertoja tehokkaamman säteen tuottamiseksi.",
-		"machine": true
+		"translation": "Mecharii -teknologia, joka voidaan ladata useita kertoja tehokkaamman säteen tuottamiseksi.",
+		"machine": false
 	},
 	{
 		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Heitä vasemmalla napsautuksella ja räjäytä oikealla napsautuksella. Respawnissa c4 on irrotettu sinusta ja ne on ammuttava räjähtämään.",
-		"machine": true
+		"translation": "Heitä vasemmalla napsautuksella ja räjäytä oikealla napsautuksella. Uudelleensyntyessä c4 on irrotettu sinusta ja ne on ammuttava räjähtääkseen.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä keskipitkän kantaman haulikko pakkaa lyönnin pidemmillä etäisyyksillä.\nRajauksen aikana sen pelletin leviäminen pienenee 70% 3,0 sekunnissa.",
-		"machine": true
+		"translation": "Tämä keskipitkän kantaman haulikko pakkaa paukun pidemmille etäisyyksille.\nTähtäessä sen ammuksen leviäminen pienenee 70% 3,0 sekunnissa.",
+		"machine": false
 	},
 	{
 		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Aseta lohkopinnalle sähköistämään ohi menevät viholliset. vain kertakäyttöinen.",
-		"machine": true
+		"translation": "Aseta kuution pinnalle sähköistämään ohi menevät viholliset. Vain kertakäyttöinen.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä keskitason ase laukaisee epävakaita soltriumytimiä, jotka pomppivat ennen räjähdystä.",
-		"machine": true
+		"translation": "Tämä keskimatkan ase laukaisee epävakaita soltriumytimiä, jotka pomppivat ennen räjähdystä.",
+		"machine": false
 	},
 	{
 		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tässä kranaatissa on epävakaa soltriumydin ja se räjähtää 3 sekunnin kuluttua. kaikilla pelaajilla on kaksi kranaattia, mutta tämän mahdollistaminen saa kranaatit tarttumaan seiniin.",
+		"translation": "Tässä kranaatissa on epävakaa soltriumydin ja se räjähtää 3 sekunnin kuluttua. Kaikilla pelaajilla on kaksi kranaattia, mutta tämän mahdollistaminen saa kranaatit tarttumaan seiniin.",
 		"machine": true
 	},
 	{
@@ -1484,48 +1484,48 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Agaman -tekniikka, joka katkaisee lohkot välittömästi.",
-		"machine": true
+		"translation": "Agaman -teknologia, joka katkaisee kuutiot välittömästi.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tässä keskitason aseessa on suuri pidike tukahduttavaa tulta varten.\nYlikuumenee 50 jatkuvan kuvan jälkeen",
-		"machine": true
+		"translation": "Tässä keskimatkan aseessa on suuri lipas taustatulta varten.\nYlikuumenee 50 jatkuvan ammuksen ampumisen jälkeen",
+		"machine": false
 	},
 	{
 		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Agaman -tekniikka, joka laukaisee plasmapallot nopeasti peräkkäin.",
-		"machine": true
+		"translation": "Agaman -teknologia, joka laukaisee plasmapallot nopeasti peräkkäin.",
+		"machine": false
 	},
 	{
 		"phrase": "Place blocks with this tool.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Aseta lohkot tällä työkalulla.",
-		"machine": true
+		"translation": "Aseta kuutiot tällä työkalulla.",
+		"machine": false
 	},
 	{
 		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tuhoisa agaman -tekniikka, joka muuttaa soltriumenergian räjähtäväksi plasmapalloksi.",
-		"machine": true
+		"translation": "Tuhoisa agaman -teknologia, joka muuttaa soltriumenergian räjähtäväksi plasmapalloksi.",
+		"machine": false
 	},
 	{
 		"phrase": "Paint blocks with this tool.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Maalaa lohkot tällä työkalulla.",
-		"machine": true
+		"translation": "Maalaa kuutiot tällä työkalulla.",
+		"machine": false
 	},
 	{
 		"phrase": "This close-mid ranged weapon shoots quickly but has a small magazine.",
@@ -1540,24 +1540,24 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Kevyt agaman -tekniikka. nopea laukaus, kova lyönti.",
-		"machine": true
+		"translation": "Kevyt agaman -teknologia. Nopea ampumanopeus, voimakkaasti osuva.",
+		"machine": false
 	},
 	{
 		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Raskas agaman -tekniikka. laukaisee voimakkaasti osuvan plasman.",
-		"machine": true
+		"translation": "Raskas agaman -teknologia. Laukaisee voimakkaasti osuvan plasman.",
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Tämä pitkän kantaman ase käyttää magneettimoottoria, ja se voidaan varustaa 4 -kertaisella ulottuvuudella, joka tarjoaa tukea liittolaisille kantaman sisällä.",
-		"machine": true
+		"translation": "Tämä pitkän kantaman ase käyttää magneettimoottoria, ja se voidaan varustaa 4 -kertaisella tähtäimellä, joka tarjoaa tukea liittolaisille kantaman sisällä.",
+		"machine": false
 	},
 	{
 		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
