@@ -4365,7 +4365,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "En düşük ayarlar modu etkinleştirildiğinde, bu, 2x ve 4x dürbünlerin etrafındaki bölgenin bulanık mı yoksa siyah mı olduğunu kontrol eder.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Compress Textures",
@@ -4373,7 +4373,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Dokuları sıkıştır",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Compressing textures will use less memory on the GPU but the game will take longer to start up",
@@ -4381,14 +4381,14 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Dokuları sıkıştırmak GPU'da daha az bellek kullanır ancak oyunun başlaması daha uzun sürer",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Hata ayıklama günlüğü, günlük dosyalarını appData\/roaming\/vercidium\/log klasöründe saklar, bu da geliştiricilerin hataları ve çökmeleri düzeltmesine yardımcı olur",
+		"translation": "Hata ayıklama modu, log dosyalarını appData\/roaming\/vercidium\/log klasöründe saklar, bu da geliştiricilerin hataları ve çökmeleri düzeltmesine yardımcı olur",
 		"machine": true
 	},
 	{
