@@ -349,7 +349,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Аннигилятор",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Marksman",
@@ -365,7 +365,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Создатель",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Destroyer",
@@ -516,7 +516,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Линия фронта",
+		"translation": "Фронт",
 		"machine": false
 	},
 	{
@@ -613,7 +613,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Нарушение EAC",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Kicked for inactivity",
@@ -629,7 +629,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Внутренняя ошибка",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Map is restoring. Try again in 10 seconds",
@@ -645,7 +645,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Сетевая ошибка",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "No Error",
@@ -653,7 +653,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Нет ошибок",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Reconnecting",
@@ -669,7 +669,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Сервер перезагружается",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Temporarily Banned",
@@ -685,7 +685,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Несоответствие версий",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Votekicked",
@@ -717,7 +717,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ваш уровень слишком высок",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Lobby already claimed",
@@ -733,7 +733,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Минимальный уровень должен быть ниже вашего собственного",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Max level must be greater than your own",
@@ -741,7 +741,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Максимальный уровень должен быть больше вашего собственного",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Min level can't be greater than max level",
@@ -749,7 +749,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Минимальный уровень не может быть больше максимального.",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "You are too powerful",
@@ -765,7 +765,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Ваш уровень слишком низкий",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Cannot claim. Lobby has players",
@@ -2812,16 +2812,16 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Подобрать первичный",
-		"machine": true
+		"translation": "Подобрать как основное",
+		"machine": false
 	},
 	{
 		"phrase": "Pick up secondary",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Подобрать вторичный",
-		"machine": true
+		"translation": "Подобрать как дополнительное",
+		"machine": false
 	},
 	{
 		"phrase": "Player ready",
@@ -2868,40 +2868,40 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Имеется в наличии",
-		"machine": true
+		"translation": "Доступно",
+		"machine": false
 	},
 	{
 		"phrase": "Leave killcam",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Покинуть killcam",
-		"machine": true
+		"translation": "Покинуть просмотр убийства",
+		"machine": false
 	},
 	{
 		"phrase": "Continue",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Продолжать",
-		"machine": true
+		"translation": "Продолжить",
+		"machine": false
 	},
 	{
 		"phrase": "Redeploy",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Повторно развернуть",
-		"machine": true
+		"translation": "Возродиться",
+		"machine": false
 	},
 	{
 		"phrase": "Confirm",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Подтверждать",
-		"machine": true
+		"translation": "Подтвердить",
+		"machine": false
 	},
 	{
 		"phrase": "Spectate",
@@ -2909,7 +2909,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Наблюдать",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Report player",
@@ -2917,7 +2917,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Пожаловаться на игрока",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Lobby panel",
@@ -2925,7 +2925,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Панель лобби",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Settings",
@@ -2933,7 +2933,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Настройки",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Submit feedback",
@@ -3012,8 +3012,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "стадия",
-		"machine": true
+		"translation": "этап",
+		"machine": false
 	},
 	{
 		"phrase": "Cooldown",
@@ -3036,7 +3036,7 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Экипировать как второстепенное",
+		"translation": "Экипировать как дополнительное",
 		"machine": false
 	},
 	{
@@ -3044,8 +3044,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Изменить снаряжение",
-		"machine": true
+		"translation": "Измените снаряжение",
+		"machine": false
 	},
 	{
 		"phrase": "Modify a structure to continue",
@@ -3053,7 +3053,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Измените структуру, чтобы продолжить",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Head over to the shooting range",
@@ -3061,7 +3061,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Отправляйтесь в тир",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Select a weapon from the gun rack",
@@ -3069,23 +3069,23 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Выберите оружие из оружейной стойки",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Shoot the targets and try different weapons. Press",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Стреляйте по мишеням и пробуйте различное оружие. нажимать",
-		"machine": true
+		"translation": "Стреляйте по мишеням и пробуйте различное оружие. Нажимите",
+		"machine": false
 	},
 	{
 		"phrase": "To set up a loadout",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Чтобы настроить загрузку",
-		"machine": true
+		"translation": "чтобы настроить экипировку",
+		"machine": false
 	},
 	{
 		"phrase": "Level",
@@ -3093,7 +3093,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Уровень",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Tag",
@@ -3109,7 +3109,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Теги",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Career",
@@ -3117,7 +3117,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Карьера",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Loadout",
@@ -3125,7 +3125,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Экипировка",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Killed by",
@@ -3133,7 +3133,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Убит",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Join the battle",
@@ -3189,15 +3189,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Загрузка ресурсов в фоновом режиме",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Magazine",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Журнал",
-		"machine": true
+		"translation": "Магазин",
+		"machine": false
 	},
 	{
 		"phrase": "Block",
@@ -3213,15 +3213,15 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Аккаунт",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Refreshing",
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Освежающий",
-		"machine": true
+		"translation": "Обновление",
+		"machine": false
 	},
 	{
 		"phrase": "Refresh statistics",
@@ -3229,7 +3229,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Обновить статистику",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Character token",
@@ -3237,7 +3237,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Жетон персонажа",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Character tokens",
@@ -3245,7 +3245,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Жетоны персонажей",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Player statistics",
@@ -3253,7 +3253,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Статистика игрока",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Transaction log",
@@ -3261,7 +3261,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Журнал транзакций",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Redeem key",
@@ -3276,8 +3276,8 @@
 		"context": null,
 		"comment": null,
 		"locations": [],
-		"translation": "Обеспечить обратную связь",
-		"machine": true
+		"translation": "Обратная связь",
+		"machine": false
 	},
 	{
 		"phrase": "View inventory",
@@ -3309,7 +3309,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Пароль",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Minimum level",
@@ -3317,7 +3317,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Минимальный уровень",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Maximum level",
@@ -3325,7 +3325,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Максимальный уровень",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "The match will not end",
@@ -3357,7 +3357,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "в чате, чтобы установить точку возрождения",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Weapon cooldowns removed. Players are invincible",
@@ -8285,7 +8285,7 @@
 		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
 		"locations": [],
 		"translation": "Уведомление",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Notifications",
@@ -8293,7 +8293,7 @@
 		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
 		"locations": [],
 		"translation": "Уведомления",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Party",
@@ -8308,8 +8308,8 @@
 		"context": null,
 		"comment": "[Social Sidebar] Online friends label. The full phrase is 'Party: 2 \/ 4'",
 		"locations": [],
-		"translation": "онлайн",
-		"machine": true
+		"translation": "Онлайн",
+		"machine": false
 	},
 	{
 		"phrase": "Click to edit",
@@ -8349,15 +8349,15 @@
 		"comment": "[Transaction Log] There are no transactions in this list",
 		"locations": [],
 		"translation": "Нет транзакций",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Token",
 		"context": null,
 		"comment": "[Transaction Log] This weapon skin was unlocked with a weapon skin token. The full phrase is: '1 Token'",
 		"locations": [],
-		"translation": "Токен",
-		"machine": true
+		"translation": "Жетон",
+		"machine": false
 	},
 	{
 		"phrase": "Tokens",
@@ -8365,15 +8365,15 @@
 		"comment": "[Transaction Log] This weapon skin was unlocked with multiple weapon skin tokens. The full phrase is: '2 Tokens'",
 		"locations": [],
 		"translation": "Жетоны",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Incomplete",
 		"context": null,
 		"comment": "[Trials] This text shows when you haven't completed this trial yet",
 		"locations": [],
-		"translation": "Неполный",
-		"machine": true
+		"translation": "Незавершен",
+		"machine": false
 	},
 	{
 		"phrase": "Leaderboard",
@@ -8381,15 +8381,15 @@
 		"comment": "[Trials] [Title]",
 		"locations": [],
 		"translation": "Таблица лидеров",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Restart",
 		"context": null,
 		"comment": "[Trials] [Button] Click this button to restart the trial",
 		"locations": [],
-		"translation": "Начать сначала",
-		"machine": true
+		"translation": "Перезапустить",
+		"machine": false
 	},
 	{
 		"phrase": "Trials list",
@@ -8397,15 +8397,15 @@
 		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
 		"locations": [],
 		"translation": "Список испытаний",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Trial",
 		"context": null,
 		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
 		"locations": [],
-		"translation": "Пробный",
-		"machine": true
+		"translation": "Испытание",
+		"machine": false
 	},
 	{
 		"phrase": "Medals",
@@ -8413,7 +8413,7 @@
 		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
 		"locations": [],
 		"translation": "Медали",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Platinum",
@@ -8421,7 +8421,7 @@
 		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Platinum: 4:750'",
 		"locations": [],
 		"translation": "Платина",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Gold",
@@ -8429,7 +8429,7 @@
 		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Gold: 4:750'",
 		"locations": [],
 		"translation": "Золото",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Silver",
@@ -8437,7 +8437,7 @@
 		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Silver: 4:750'",
 		"locations": [],
 		"translation": "Серебро",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Bronze",
@@ -8445,7 +8445,7 @@
 		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Bronze: 4:750'",
 		"locations": [],
 		"translation": "Бронза",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Last attempt",
@@ -8453,23 +8453,23 @@
 		"comment": "[Trial] [Title] The full phrase is: 'Last attempt: 5:223'",
 		"locations": [],
 		"translation": "Последняя попытка",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Saving time",
 		"context": "Storing time",
 		"comment": "[Trial] [Loading Text] This text shows when your trial time is being saved",
 		"locations": [],
-		"translation": "Экономия времени",
-		"machine": true
+		"translation": "Сохранение времени",
+		"machine": false
 	},
 	{
 		"phrase": "Time saved",
 		"context": "Time stored",
 		"comment": "[Trial] [Loading Text] This text shows when your trial time has been saved",
 		"locations": [],
-		"translation": "Время сэкономлено",
-		"machine": true
+		"translation": "Время сохранено",
+		"machine": false
 	},
 	{
 		"phrase": "Best time",
@@ -8477,7 +8477,7 @@
 		"comment": "[Trial] This text shows next to your best time for this trial, e.g. 'Best time: 4:873'",
 		"locations": [],
 		"translation": "Лучшее время",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Rewards",
@@ -8485,15 +8485,15 @@
 		"comment": "[Trial] [Title] This text shows above the rewards you earned for completing this trial",
 		"locations": [],
 		"translation": "Награды",
-		"machine": true
+		"machine": false
 	},
 	{
 		"phrase": "Refresh Leaderboards",
 		"context": "Refresh the Leaderboards",
 		"comment": "[Trials] [Button] Refresh the leaderboards by pressing this button",
 		"locations": [],
-		"translation": "Обновить списки лидеров",
-		"machine": true
+		"translation": "Обновить список лидеров",
+		"machine": false
 	},
 	{
 		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
