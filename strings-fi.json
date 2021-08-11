@@ -1477,7 +1477,7 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Tässä kranaatissa on epävakaa soltriumydin ja se räjähtää 3 sekunnin kuluttua. Kaikilla pelaajilla on kaksi kranaattia, mutta tämän mahdollistaminen saa kranaatit tarttumaan seiniin.",
-    "machine": false
+		"machine": false
 	},
 	{
 		"phrase": "Agaman technology that cuts through blocks instantly.",
@@ -1878,6 +1878,7 @@
 		"locations": [],
 		"translation": "Tappava tarkka ampuja kaukaa ja nopea tappaja läheltä, he kykenevät hoitamaan minkä tahansa tilanteen itsenäisesti.",
 		"machine": false
+	},
 	{
 		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
 		"context": null,
@@ -3079,38 +3080,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Play a Match",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Pelaa ottelu",
-		"machine": true
-	},
-	{
-		"phrase": "Enter Trials",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Anna kokeiluja",
-		"machine": true
-	},
-	{
-		"phrase": "Replay Tutorial",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Toista opetusohjelma",
-		"machine": true
-	},
-	{
-		"phrase": "Reset Ship",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Palauta alus",
-		"machine": true
-	},
-	{
 		"phrase": "Level",
 		"context": null,
 		"comment": null,
@@ -3495,14 +3464,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Password protected",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Salasana suojattu",
-		"machine": true
-	},
-	{
 		"phrase": "Note - claiming the lobby will restart the round",
 		"context": null,
 		"comment": null,
@@ -3580,14 +3541,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Perustilastot",
-		"machine": true
-	},
-	{
-		"phrase": "Best kill streak",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Paras tappoputki",
 		"machine": true
 	},
 	{
@@ -3735,30 +3688,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "An update is available. Close the game and update the game through",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Päivitys on saatavilla. sulje peli ja päivitä peli läpi",
-		"machine": true
-	},
-	{
-		"phrase": "Connection to",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Yhteys kohteeseen",
-		"machine": true
-	},
-	{
-		"phrase": "failed. Online play is unavailable",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "epäonnistui. Verkkopeli ei ole käytettävissä",
-		"machine": true
-	},
-	{
 		"phrase": "Blocks",
 		"context": null,
 		"comment": null,
@@ -3788,14 +3717,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Matala taso",
-		"machine": true
-	},
-	{
-		"phrase": "Open",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Avata",
 		"machine": true
 	},
 	{
@@ -4903,14 +4824,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Extra Logging",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ylimääräistä kirjaamista",
-		"machine": true
-	},
-	{
 		"phrase": "Input",
 		"context": null,
 		"comment": null,
@@ -5036,14 +4949,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Näytä HUD",
-		"machine": true
-	},
-	{
-		"phrase": "Show Kill Feed",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Näytä tappisyöte",
 		"machine": true
 	},
 	{
@@ -5471,14 +5376,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "High Quality Meshing",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Laadukas verkko",
-		"machine": true
-	},
-	{
 		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
 		"context": null,
 		"comment": null,
@@ -5615,27 +5512,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Max Lights",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Max valot",
-		"machine": true
-	},
-	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Maailmaa valaisevat auringonvalot, lohkovalot ja aseiden kuonovilkut. valojen enimmäismäärän pienentäminen lisää FPS: ää",
-		"machine": true
-	},
-	{
-		"phrase": "Max FPS",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Max FPS",
 		"machine": true
 	},
 	{
@@ -5647,27 +5528,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable SSAO",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ota SSAO käyttöön",
-		"machine": true
-	},
-	{
 		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Näyttötilan ympäristön tukkeutuminen tummentaa esineiden välisiä rakoja",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Bloom",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ota kukinta käyttöön",
 		"machine": true
 	},
 	{
@@ -5679,35 +5544,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Bloom On Optics",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ota kukinta käyttöön optiikassa",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Crepuscular Rays",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ota rypistyneet säteet käyttöön",
-		"machine": true
-	},
-	{
 		"phrase": "Crepuscular rays are shafts of lights that originate from a star",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Krepuskulaariset säteet ovat tähdestä peräisin olevia valoja",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Shadows",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ota varjot käyttöön",
 		"machine": true
 	},
 	{
@@ -5759,27 +5600,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Multisampling",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ota multisampling käyttöön",
-		"machine": true
-	},
-	{
 		"phrase": "Multisampling smooths the edges of objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Multisampling tasoittaa esineiden reunat",
-		"machine": true
-	},
-	{
-		"phrase": "Bare Minimum",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Vähimmäismäärä",
 		"machine": true
 	},
 	{
@@ -5799,14 +5624,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Compress Textures",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Pakkaa tekstuurit",
-		"machine": true
-	},
-	{
 		"phrase": "Compressing textures will use less memory on the GPU but the game will take longer to start up",
 		"context": null,
 		"comment": null,
@@ -5823,14 +5640,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Safe Mode",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ota vikasietotila käyttöön",
-		"machine": true
-	},
-	{
 		"phrase": "Safe Mode prevents crashes from closing the game, but may slow the game down slightly",
 		"context": null,
 		"comment": null,
@@ -5839,27 +5648,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable VSync",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ota VSync käyttöön",
-		"machine": true
-	},
-	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Pystysynkronointi vastaa pelin päivitystaajuutta näytön virkistystaajuuteen. Tämän käyttöönotto voi korjata näytön repeytymisen",
-		"machine": true
-	},
-	{
-		"phrase": "Dynamic Exposure",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Dynaaminen valotus",
 		"machine": true
 	},
 	{
@@ -5903,14 +5696,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Only Scroll Weapons",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Vain vieritysaseita",
-		"machine": true
-	},
-	{
 		"phrase": "If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools",
 		"context": null,
 		"comment": null,
@@ -5935,27 +5720,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Low Quality Textures",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Huonolaatuiset tekstuurit",
-		"machine": true
-	},
-	{
 		"phrase": "Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Tämän käyttöönotto vähentää tekstuurin resoluutiota ja lisää FPS: ää ja vähentää muistin käyttöä. Tämän poistaminen käytöstä edellyttää uudelleenkäynnistystä",
-		"machine": true
-	},
-	{
-		"phrase": "SSAO Samples",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "SSAO -näytteet",
 		"machine": true
 	},
 	{
@@ -5967,27 +5736,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Player Name Distance",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Pelaajan nimen etäisyys",
-		"machine": true
-	},
-	{
 		"phrase": "This controls how far away friendly names will show",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Tämä ohjaa kuinka kaukana ystävälliset nimet näytetään",
-		"machine": true
-	},
-	{
-		"phrase": "Midi Counts as Weapon",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Midi lasketaan aseena",
 		"machine": true
 	},
 	{
@@ -6015,27 +5768,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Game Resolution",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Pelin resoluutio",
-		"machine": true
-	},
-	{
 		"phrase": "Reducing this will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Tämän vähentäminen lisää FPS: ää",
-		"machine": true
-	},
-	{
-		"phrase": "Override Resolution",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ohita tarkkuus",
 		"machine": true
 	},
 	{
@@ -6047,14 +5784,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Smooth Scaling",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Sileä skaalaus",
-		"machine": true
-	},
-	{
 		"phrase": "Enabling this will reduce the pixelation of lower game resolutions",
 		"context": null,
 		"comment": null,
@@ -6063,27 +5792,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "NVIDIA OpenGL Extensions",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "NVIDIA openGL -laajennukset",
-		"machine": true
-	},
-	{
 		"phrase": "Experimental performance setting, may crash your game. Don't enable if you haven't been told to",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Kokeellinen suorituskykyasetus voi kaataa pelisi. älä ota käyttöön, jos sinulle ei ole kerrottu",
-		"machine": true
-	},
-	{
-		"phrase": "Beta Rendering",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Beta -renderointi",
 		"machine": true
 	},
 	{
@@ -6116,14 +5829,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "kaivaa 3x3x3 alue",
-		"machine": true
-	},
-	{
-		"phrase": "Show Enemies on Zone Bar",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Näytä viholliset vyöhykepalkissa",
 		"machine": true
 	},
 	{
@@ -7364,6 +7069,1574 @@
 		"comment": "[Point UI Customisation] Hidden point category",
 		"locations": [],
 		"translation": "Piilotettu",
+		"machine": true
+	},
+	{
+		"phrase": "Building 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Rakennus 1",
+		"machine": true
+	},
+	{
+		"phrase": "Building 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Rakennus 2",
+		"machine": true
+	},
+	{
+		"phrase": "Building 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Rakennus 3",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Kaivaminen 1",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Kaivaminen 2",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Kaivaminen 3",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Rakenna + kaivaa 1",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Rakenna + kaivaa 2",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Rakenna + kaivaa 3",
+		"machine": true
+	},
+	{
+		"phrase": "Purchases",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "Ostot",
+		"machine": true
+	},
+	{
+		"phrase": "CHARACTERS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "OMINAISUUDET",
+		"machine": true
+	},
+	{
+		"phrase": "CHARACTER SKINS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "OMINAISUUDET",
+		"machine": true
+	},
+	{
+		"phrase": "WEAPON SKINS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "ASEEN IHOT",
+		"machine": true
+	},
+	{
+		"phrase": "CROSSHAIRS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "RISTITUOTTEET",
+		"machine": true
+	},
+	{
+		"phrase": "Open",
+		"context": "Public",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"locations": [],
+		"translation": "Avata",
+		"machine": true
+	},
+	{
+		"phrase": "England",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Englanti",
+		"machine": true
+	},
+	{
+		"phrase": "France",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Ranska",
+		"machine": true
+	},
+	{
+		"phrase": "Germany",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Saksa",
+		"machine": true
+	},
+	{
+		"phrase": "Greece",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Kreikka",
+		"machine": true
+	},
+	{
+		"phrase": "Sweden",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Ruotsi",
+		"machine": true
+	},
+	{
+		"phrase": "Russia",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Venäjä",
+		"machine": true
+	},
+	{
+		"phrase": "Israel",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Israel",
+		"machine": true
+	},
+	{
+		"phrase": "USA West",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "USA länteen",
+		"machine": true
+	},
+	{
+		"phrase": "USA Central",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "USA: n keskus",
+		"machine": true
+	},
+	{
+		"phrase": "USA East",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "USA itään",
+		"machine": true
+	},
+	{
+		"phrase": "Canada",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Kanada",
+		"machine": true
+	},
+	{
+		"phrase": "Brazil",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Brasilia",
+		"machine": true
+	},
+	{
+		"phrase": "India",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Intia",
+		"machine": true
+	},
+	{
+		"phrase": "Japan",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Japani",
+		"machine": true
+	},
+	{
+		"phrase": "Singapore",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Singapore",
+		"machine": true
+	},
+	{
+		"phrase": "South Korea",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Etelä-Korea",
+		"machine": true
+	},
+	{
+		"phrase": "Australia",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Australia",
+		"machine": true
+	},
+	{
+		"phrase": "Close",
+		"context": "Shut",
+		"comment": "[Settings] [Button] Sidebar text. This closes the settings window",
+		"locations": [],
+		"translation": "kiinni",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Voxel",
+		"comment": "[Unit] 3D voxel",
+		"locations": [],
+		"translation": "Lohko",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": null,
+		"comment": "[Unit] Angle measurement",
+		"locations": [],
+		"translation": "Tutkinto",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": null,
+		"comment": "[Unit] A group of 32x32x32 voxels",
+		"locations": [],
+		"translation": "Kimpale",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": null,
+		"comment": "[Unit] The amount of times a shader should gather information from a texture",
+		"locations": [],
+		"translation": "Näyte",
+		"machine": true
+	},
+	{
+		"phrase": "%",
+		"context": null,
+		"comment": "[Unit] Percentage, e.g. '50% Bloom Strength'",
+		"locations": [],
+		"translation": "%",
+		"machine": true
+	},
+	{
+		"phrase": "x",
+		"context": null,
+		"comment": "[Unit] Multiplication, e.g. '2.0x Shadow Quality'",
+		"locations": [],
+		"translation": "x",
+		"machine": true
+	},
+	{
+		"phrase": "Show bloom effects on Holo and Red Dot optics",
+		"context": null,
+		"comment": "[Setting] [Tooltip]",
+		"locations": [],
+		"translation": "Näytä kukkivaikutukset holossa ja punaisessa pisteoptiikassa",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether enemies are also shown on the top zone bar in Breakthrough when they are shooting, or revealed by a Scanner",
+		"context": null,
+		"comment": "[Setting] [Tooltip]",
+		"locations": [],
+		"translation": "Määrittää, näytetäänkö viholliset myös ylimmällä vyöhykepalkilla läpimurtoa kuvattaessa tai paljastetaanko skannerilla",
+		"machine": true
+	},
+	{
+		"phrase": "Use Title Accent Colour",
+		"context": "Display Title Accent Colour",
+		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
+		"locations": [],
+		"translation": "Käytä otsikon aksenttiväriä",
+		"machine": true
+	},
+	{
+		"phrase": "Use Title Background",
+		"context": "Display Title Background",
+		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
+		"locations": [],
+		"translation": "Käytä otsikon taustaa",
+		"machine": true
+	},
+	{
+		"phrase": "ms",
+		"context": "milliseconds",
+		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
+		"locations": [],
+		"translation": "neiti",
+		"machine": true
+	},
+	{
+		"phrase": "Play a Match",
+		"context": "Play a Game",
+		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
+		"locations": [],
+		"translation": "Pelaa ottelu",
+		"machine": true
+	},
+	{
+		"phrase": "Enter Trials",
+		"context": "Enter the Trials",
+		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
+		"locations": [],
+		"translation": "Anna kokeiluja",
+		"machine": true
+	},
+	{
+		"phrase": "Replay Tutorial",
+		"context": "Replay the Tutorial",
+		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
+		"locations": [],
+		"translation": "Toista opetusohjelma",
+		"machine": true
+	},
+	{
+		"phrase": "Reset Ship",
+		"context": "Reset the Ship",
+		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
+		"locations": [],
+		"translation": "Palauta alus",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. apples",
+		"context": null,
+		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
+		"locations": [],
+		"translation": "esim omenoita",
+		"machine": true
+	},
+	{
+		"phrase": "An update is available. Close the game and update the game through Steam",
+		"context": null,
+		"comment": "[Popup] Banner at the top of the screen that tells the user to update the game through Steam. Do not translate 'Steam'",
+		"locations": [],
+		"translation": "Päivitys on saatavilla. sulje peli ja päivitä peli Steamin kautta",
+		"machine": true
+	},
+	{
+		"phrase": "Connection to Steam failed. Online play is unavailable",
+		"context": null,
+		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
+		"locations": [],
+		"translation": "Yhteys höyryyn epäonnistui. nettipeli ei ole käytettävissä",
+		"machine": true
+	},
+	{
+		"phrase": "Title unlocked",
+		"context": null,
+		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
+		"locations": [],
+		"translation": "Otsikko avattu",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Pronssimitali",
+		"machine": true
+	},
+	{
+		"phrase": "Silver medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Hopeamitali",
+		"machine": true
+	},
+	{
+		"phrase": "Gold medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Kultamitali",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Platina mitali",
+		"machine": true
+	},
+	{
+		"phrase": "To restart",
+		"context": null,
+		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
+		"locations": [],
+		"translation": "Käynnistää uudelleen",
+		"machine": true
+	},
+	{
+		"phrase": "To cancel",
+		"context": null,
+		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
+		"locations": [],
+		"translation": "Peruuttaa",
+		"machine": true
+	},
+	{
+		"phrase": "Best kill streak",
+		"context": "LOngest kill streak",
+		"comment": "[Victory Screen] Your longest kill streak, e.g. 'Best kill streak: 3'",
+		"locations": [],
+		"translation": "Paras tappoputki",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon Stats",
+		"context": null,
+		"comment": "[Victory Screen] Title above the table showing how many kills, shots\/throws, accuracy, etc you have for each weapon",
+		"locations": [],
+		"translation": "Aseiden tilastot",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'C4: 1 throw'",
+		"locations": [],
+		"translation": "Heittää",
+		"machine": true
+	},
+	{
+		"phrase": "Throws",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'C4: 3 throws'",
+		"locations": [],
+		"translation": "Heittää",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 1 swing'",
+		"locations": [],
+		"translation": "Keinu",
+		"machine": true
+	},
+	{
+		"phrase": "Swings",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 3 swings'",
+		"locations": [],
+		"translation": "Keinut",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 1 shot'",
+		"locations": [],
+		"translation": "Laukaus",
+		"machine": true
+	},
+	{
+		"phrase": "Shots",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 18 shots'",
+		"locations": [],
+		"translation": "Laukaukset",
+		"machine": true
+	},
+	{
+		"phrase": "Body",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 body damage'",
+		"locations": [],
+		"translation": "Runko",
+		"machine": true
+	},
+	{
+		"phrase": "Head",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 head damage'",
+		"locations": [],
+		"translation": "Pää",
+		"machine": true
+	},
+	{
+		"phrase": "Splash",
+		"context": "Area of effect",
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Grenade: 12 splash damage'",
+		"locations": [],
+		"translation": "Splash",
+		"machine": true
+	},
+	{
+		"phrase": "Accuracy",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
+		"locations": [],
+		"translation": "Tarkkuus",
+		"machine": true
+	},
+	{
+		"phrase": "Headshot hit",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Headshot hit: 50%'",
+		"locations": [],
+		"translation": "Pääosuma",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Utilisation",
+		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 1 use'",
+		"locations": [],
+		"translation": "Käyttää",
+		"machine": true
+	},
+	{
+		"phrase": "Uses",
+		"context": "Utilisations",
+		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 15 uses'",
+		"locations": [],
+		"translation": "Käyttää",
+		"machine": true
+	},
+	{
+		"phrase": "Accept",
+		"context": null,
+		"comment": "[UI] [Button] Accept an invitation",
+		"locations": [],
+		"translation": "Hyväksyä",
+		"machine": true
+	},
+	{
+		"phrase": "Decline",
+		"context": null,
+		"comment": "[UI] [Button] Decline an invitation",
+		"locations": [],
+		"translation": "Hylkää",
+		"machine": true
+	},
+	{
+		"phrase": "Melee kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Melee kills'",
+		"locations": [],
+		"translation": "Lähitaistelu tappaa",
+		"machine": true
+	},
+	{
+		"phrase": "Grenade kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Grenade kills'",
+		"locations": [],
+		"translation": "Kranaatti tappaa",
+		"machine": true
+	},
+	{
+		"phrase": "Spent",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] [1\/3] The full phrase is: 'Spent 3 hours defending'",
+		"locations": [],
+		"translation": "Käytetty",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": null,
+		"comment": "[Unit] Measurement of time'",
+		"locations": [],
+		"translation": "Tunnin",
+		"machine": true
+	},
+	{
+		"phrase": "Hours",
+		"context": null,
+		"comment": "[Unit] Measurement of time'",
+		"locations": [],
+		"translation": "Tunnit",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks placed",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '10000 Blocks placed'",
+		"locations": [],
+		"translation": "Lohkot sijoitettu",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assists",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Spot assists'",
+		"locations": [],
+		"translation": "Spottiapuja",
+		"machine": true
+	},
+	{
+		"phrase": "Direct explosive kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 direct explosive kills'",
+		"locations": [],
+		"translation": "Suora räjähtävä tappo",
+		"machine": true
+	},
+	{
+		"phrase": "Headshot kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 headshot kills'",
+		"locations": [],
+		"translation": "Pääisku tappaa",
+		"machine": true
+	},
+	{
+		"phrase": "Flag steals",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 flag steals'",
+		"locations": [],
+		"translation": "Lippu varastaa",
+		"machine": true
+	},
+	{
+		"phrase": "Friendlies saved",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] Saviour tag description. The full phrase is: '100 friendlies saved'",
+		"locations": [],
+		"translation": "Ystävyysottelut tallennettu",
+		"machine": true
+	},
+	{
+		"phrase": "Friendlies avenged",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] Avenger tag description. The full phrase is: '100 friendlies avenged'",
+		"locations": [],
+		"translation": "Ystävyysottelut kosti",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. spaghetti",
+		"context": null,
+		"comment": "[Password Window] [Text Field] [Placeholder]",
+		"locations": [],
+		"translation": "esim spagettia",
+		"machine": true
+	},
+	{
+		"phrase": "Enter password",
+		"context": null,
+		"comment": "[Password Window] [Title]",
+		"locations": [],
+		"translation": "Kirjoita salasana",
+		"machine": true
+	},
+	{
+		"phrase": "Quick play",
+		"context": null,
+		"comment": "[Button] This is the large button at the top of the server list",
+		"locations": [],
+		"translation": "Nopea peli",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. Space Master 4000",
+		"context": null,
+		"comment": "[Player Dropdown Selector] Placeholder text for the search field for this dropdown",
+		"locations": [],
+		"translation": "esim. Space Master 4000",
+		"machine": true
+	},
+	{
+		"phrase": "Please select a friend",
+		"context": null,
+		"comment": "[Player Dropdown Selector] This text shows when selecting a player from the dropdown",
+		"locations": [],
+		"translation": "Valitse ystävä",
+		"machine": true
+	},
+	{
+		"phrase": "Selecting a loadout",
+		"context": null,
+		"comment": "[Scoreboard] Player joining status",
+		"locations": [],
+		"translation": "Latauksen valitseminen",
+		"machine": true
+	},
+	{
+		"phrase": "Kick",
+		"context": null,
+		"comment": "[Lobby Panel] [Button] Kick a player",
+		"locations": [],
+		"translation": "Potkia",
+		"machine": true
+	},
+	{
+		"phrase": "Swap",
+		"context": null,
+		"comment": "[Lobby Panel] [Button] Move this player to the other team",
+		"locations": [],
+		"translation": "Vaihtaa",
+		"machine": true
+	},
+	{
+		"phrase": "Type here",
+		"context": null,
+		"comment": "[Text Field] Placeholder text",
+		"locations": [],
+		"translation": "Kirjoita tähän",
+		"machine": true
+	},
+	{
+		"phrase": "Reason",
+		"context": null,
+		"comment": "[Report Popup] Dropdown label",
+		"locations": [],
+		"translation": "Syy",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn",
+		"context": null,
+		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
+		"locations": [],
+		"translation": "Saada aikaan",
+		"machine": true
+	},
+	{
+		"phrase": "Pan with mouse",
+		"context": null,
+		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
+		"locations": [],
+		"translation": "Pannu hiirellä",
+		"machine": true
+	},
+	{
+		"phrase": "Scroll to zoom",
+		"context": "Scroll wheel to zoom",
+		"comment": "[Respawn] [Input Prompt] Use the scroll wheel to zoom into the map",
+		"locations": [],
+		"translation": "Vieritä zoomataksesi",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout overpowered",
+		"context": "Loadout is too powerful",
+		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
+		"locations": [],
+		"translation": "Kuormitus ylivoimainen",
+		"machine": true
+	},
+	{
+		"phrase": "s",
+		"context": "Seconds",
+		"comment": "[Unit] [Abbreviation] Abbreviation for seconds, e.g. 'Respawn in 13s'",
+		"locations": [],
+		"translation": "s",
+		"machine": true
+	},
+	{
+		"phrase": "Proton boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
+		"locations": [],
+		"translation": "Protonivahvistus aktiivinen",
+		"machine": true
+	},
+	{
+		"phrase": "No Proton boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
+		"locations": [],
+		"translation": "Ei protonin tehostusta",
+		"machine": true
+	},
+	{
+		"phrase": "XP boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you have a XP boost active",
+		"locations": [],
+		"translation": "XP -tehostus aktiivinen",
+		"machine": true
+	},
+	{
+		"phrase": "No XP boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you do not have a XP boost active",
+		"locations": [],
+		"translation": "Ei XP -tehostetta",
+		"machine": true
+	},
+	{
+		"phrase": "View Steam Profile",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Näytä höyryprofiili",
+		"machine": true
+	},
+	{
+		"phrase": "View Statistics",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Näytä tilastot",
+		"machine": true
+	},
+	{
+		"phrase": "Add Friend",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Lisää ystävä",
+		"machine": true
+	},
+	{
+		"phrase": "Remove Friend",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Poista ystävä",
+		"machine": true
+	},
+	{
+		"phrase": "Invite to Party",
+		"context": "Invite to Group",
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Kutsu juhliin",
+		"machine": true
+	},
+	{
+		"phrase": "Invite Votekick",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Kutsu votekick",
+		"machine": true
+	},
+	{
+		"phrase": "Report Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Ilmoita pelaaja",
+		"machine": true
+	},
+	{
+		"phrase": "Mute Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Mykistä soitin",
+		"machine": true
+	},
+	{
+		"phrase": "Unmute Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Poista soittimen mykistys",
+		"machine": true
+	},
+	{
+		"phrase": "Spectate",
+		"context": "Become a spectator",
+		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
+		"locations": [],
+		"translation": "Spectate",
+		"machine": true
+	},
+	{
+		"phrase": "Solt",
+		"context": null,
+		"comment": "[Scoreboard] [Column Header] Abbreviation for Soltrium, shows in Head Hunter",
+		"locations": [],
+		"translation": "Solt",
+		"machine": true
+	},
+	{
+		"phrase": "P",
+		"context": "Points",
+		"comment": "[Scoreboard] [Column Header] Player points, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "P",
+		"machine": true
+	},
+	{
+		"phrase": "K",
+		"context": "Kills",
+		"comment": "[Scoreboard] [Column Header] Player kills, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "K",
+		"machine": true
+	},
+	{
+		"phrase": "D",
+		"context": "Deaths",
+		"comment": "[Scoreboard] [Column Header] Player deaths, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "D",
+		"machine": true
+	},
+	{
+		"phrase": "A",
+		"context": "Assists",
+		"comment": "[Scoreboard] [Column Header] Player assists, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "A",
+		"machine": true
+	},
+	{
+		"phrase": "MS",
+		"context": "Latency",
+		"comment": "[Scoreboard] [Column Header] Latency (ping), measured in milliseconds. Please set to MS if it is the most appropriate measurement for latency",
+		"locations": [],
+		"translation": "NEITI",
+		"machine": true
+	},
+	{
+		"phrase": "Server Full",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is full",
+		"locations": [],
+		"translation": "Palvelin täynnä",
+		"machine": true
+	},
+	{
+		"phrase": "Lobby Claimed",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is claimed",
+		"locations": [],
+		"translation": "Aula väitti",
+		"machine": true
+	},
+	{
+		"phrase": "Player",
+		"context": null,
+		"comment": "[Scoreboard] This player count shows at the bottom of the scoreboard, i.e. '1 Player'",
+		"locations": [],
+		"translation": "Pelaaja",
+		"machine": true
+	},
+	{
+		"phrase": "Click outside or press escape to close",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom when the cursor has been unlocked",
+		"locations": [],
+		"translation": "Sulje napsauttamalla ulkopuolta tai painamalla Esc -näppäintä",
+		"machine": true
+	},
+	{
+		"phrase": "Hold",
+		"context": null,
+		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
+		"locations": [],
+		"translation": "Pidä",
+		"machine": true
+	},
+	{
+		"phrase": "To unlock the cursor",
+		"context": null,
+		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
+		"locations": [],
+		"translation": "Voit avata kohdistimen lukituksen",
+		"machine": true
+	},
+	{
+		"phrase": "Spectator",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
+		"locations": [],
+		"translation": "Katsoja",
+		"machine": true
+	},
+	{
+		"phrase": "Spectators",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Spectators'",
+		"locations": [],
+		"translation": "Katsojat",
+		"machine": true
+	},
+	{
+		"phrase": "Player joining",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Player joining'",
+		"locations": [],
+		"translation": "Pelaaja liittyy",
+		"machine": true
+	},
+	{
+		"phrase": "Players joining",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Players joining'",
+		"locations": [],
+		"translation": "Pelaajat mukaan",
+		"machine": true
+	},
+	{
+		"phrase": "Balance the teams",
+		"context": null,
+		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
+		"locations": [],
+		"translation": "Tasaa joukkueet",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Quarter",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Tekstuurin laatu: neljännes",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Half",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Tekstuurin laatu: puoli",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Full",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Tekstuurin laatu: täysi",
+		"machine": true
+	},
+	{
+		"phrase": "Minimap Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]'",
+		"locations": [],
+		"translation": "Minikartta poistettu käytöstä",
+		"machine": true
+	},
+	{
+		"phrase": "Player Names Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Pelaajien nimet poistettu käytöstä",
+		"machine": true
+	},
+	{
+		"phrase": "Peacekeeper Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Rauhanturvaaja vammainen",
+		"machine": true
+	},
+	{
+		"phrase": "Bloom Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Bloom poistettu käytöstä",
+		"machine": true
+	},
+	{
+		"phrase": "SSAO Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "SSAO poistettu käytöstä",
+		"machine": true
+	},
+	{
+		"phrase": "Chat Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Chat pois käytöstä",
+		"machine": true
+	},
+	{
+		"phrase": "Chat Timeout: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Chatin aikakatkaisu: ääretön",
+		"machine": true
+	},
+	{
+		"phrase": "Max Chunk Updates: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Suurin pala päivityksiä: ääretön",
+		"machine": true
+	},
+	{
+		"phrase": "Max Lights: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Maksimi valot: ääretön",
+		"machine": true
+	},
+	{
+		"phrase": "Max FPS: Uncapped",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Suurin FPS: rajaamaton",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplates Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Nimikilvet poistettu käytöstä",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplate Distance: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Tyyppikilven etäisyys: ääretön",
+		"machine": true
+	},
+	{
+		"phrase": "Pings Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Pingit poistettu käytöstä",
+		"machine": true
+	},
+	{
+		"phrase": "Max Ping Distance: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Suurin ping -etäisyys: ääretön",
+		"machine": true
+	},
+	{
+		"phrase": "You have left the party",
+		"context": null,
+		"comment": "[Social Sidebar] [Message] This message shows at the top of the social sidebar when you leave a party",
+		"locations": [],
+		"translation": "Olet eronnut puolueesta",
+		"machine": true
+	},
+	{
+		"phrase": "Notification",
+		"context": null,
+		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
+		"locations": [],
+		"translation": "Ilmoitus",
+		"machine": true
+	},
+	{
+		"phrase": "Notifications",
+		"context": null,
+		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
+		"locations": [],
+		"translation": "Ilmoitukset",
+		"machine": true
+	},
+	{
+		"phrase": "Party",
+		"context": null,
+		"comment": "[Social Sidebar] Party labe. The full phrase is 'Party: 2 \/ 4'",
+		"locations": [],
+		"translation": "Juhla",
+		"machine": true
+	},
+	{
+		"phrase": "Online",
+		"context": null,
+		"comment": "[Social Sidebar] Online friends label. The full phrase is 'Party: 2 \/ 4'",
+		"locations": [],
+		"translation": "Verkossa",
+		"machine": true
+	},
+	{
+		"phrase": "Click to edit",
+		"context": null,
+		"comment": "[Text Field] Placeholder text when editing a new loadout name",
+		"locations": [],
+		"translation": "Napsauta muokataksesi",
+		"machine": true
+	},
+	{
+		"phrase": "No title",
+		"context": null,
+		"comment": "[Killcam UI] [Button] Click this button to unequip your title",
+		"locations": [],
+		"translation": "Ei otsikkoa",
+		"machine": true
+	},
+	{
+		"phrase": "No tags",
+		"context": null,
+		"comment": "[Killcam UI] [Button] Click this button to unequip your tag",
+		"locations": [],
+		"translation": "Ei tunnisteita",
+		"machine": true
+	},
+	{
+		"phrase": "Retrieving transaction list",
+		"context": null,
+		"comment": "[Transaction Log] Loading text",
+		"locations": [],
+		"translation": "Haetaan tapahtumaluetteloa",
+		"machine": true
+	},
+	{
+		"phrase": "No transactions",
+		"context": null,
+		"comment": "[Transaction Log] There are no transactions in this list",
+		"locations": [],
+		"translation": "Ei tapahtumia",
+		"machine": true
+	},
+	{
+		"phrase": "Token",
+		"context": null,
+		"comment": "[Transaction Log] This weapon skin was unlocked with a weapon skin token. The full phrase is: '1 Token'",
+		"locations": [],
+		"translation": "Token",
+		"machine": true
+	},
+	{
+		"phrase": "Tokens",
+		"context": null,
+		"comment": "[Transaction Log] This weapon skin was unlocked with multiple weapon skin tokens. The full phrase is: '2 Tokens'",
+		"locations": [],
+		"translation": "Merkit",
+		"machine": true
+	},
+	{
+		"phrase": "Incomplete",
+		"context": null,
+		"comment": "[Trials] This text shows when you haven't completed this trial yet",
+		"locations": [],
+		"translation": "Epätäydellinen",
+		"machine": true
+	},
+	{
+		"phrase": "Leaderboard",
+		"context": null,
+		"comment": "[Trials] [Title]",
+		"locations": [],
+		"translation": "Tulostaulu",
+		"machine": true
+	},
+	{
+		"phrase": "Restart",
+		"context": null,
+		"comment": "[Trials] [Button] Click this button to restart the trial",
+		"locations": [],
+		"translation": "Uudelleenkäynnistää",
+		"machine": true
+	},
+	{
+		"phrase": "Trials list",
+		"context": null,
+		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
+		"locations": [],
+		"translation": "Kokeiluluettelo",
+		"machine": true
+	},
+	{
+		"phrase": "Trial",
+		"context": null,
+		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
+		"locations": [],
+		"translation": "Kokeilu",
+		"machine": true
+	},
+	{
+		"phrase": "Medals",
+		"context": null,
+		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
+		"locations": [],
+		"translation": "Mitalit",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Platinum: 4:750'",
+		"locations": [],
+		"translation": "Platina",
+		"machine": true
+	},
+	{
+		"phrase": "Gold",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Gold: 4:750'",
+		"locations": [],
+		"translation": "Kulta",
+		"machine": true
+	},
+	{
+		"phrase": "Silver",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Silver: 4:750'",
+		"locations": [],
+		"translation": "Hopea",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Bronze: 4:750'",
+		"locations": [],
+		"translation": "Pronssi",
+		"machine": true
+	},
+	{
+		"phrase": "Last attempt",
+		"context": "Previous attempt",
+		"comment": "[Trial] [Title] The full phrase is: 'Last attempt: 5:223'",
+		"locations": [],
+		"translation": "Viimeinen yritys",
+		"machine": true
+	},
+	{
+		"phrase": "Saving time",
+		"context": "Storing time",
+		"comment": "[Trial] [Loading Text] This text shows when your trial time is being saved",
+		"locations": [],
+		"translation": "Säästää aikaa",
+		"machine": true
+	},
+	{
+		"phrase": "Time saved",
+		"context": "Time stored",
+		"comment": "[Trial] [Loading Text] This text shows when your trial time has been saved",
+		"locations": [],
+		"translation": "Aikaa säästetty",
+		"machine": true
+	},
+	{
+		"phrase": "Best time",
+		"context": "Fastest time",
+		"comment": "[Trial] This text shows next to your best time for this trial, e.g. 'Best time: 4:873'",
+		"locations": [],
+		"translation": "Paras aika",
+		"machine": true
+	},
+	{
+		"phrase": "Rewards",
+		"context": null,
+		"comment": "[Trial] [Title] This text shows above the rewards you earned for completing this trial",
+		"locations": [],
+		"translation": "Palkinnot",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh Leaderboards",
+		"context": "Refresh the Leaderboards",
+		"comment": "[Trials] [Button] Refresh the leaderboards by pressing this button",
+		"locations": [],
+		"translation": "Päivitä tulostaulukot",
+		"machine": true
+	},
+	{
+		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
+		"context": null,
+		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Harjoittele rakennus- ja kaivaustaitojasi kokeissa!\nSuorita jokainen kokeilu määrätyn ajan kuluessa ansaitaksesi protoneja ja tappaa nokan otsikot.\nSaavuttaa ",
+		"machine": true
+	},
+	{
+		"phrase": "Yellow",
+		"context": null,
+		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Keltainen",
+		"machine": true
+	},
+	{
+		"phrase": "Platform to win, avoid touching the",
+		"context": null,
+		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Alusta voittaa, älä kosketa",
+		"machine": true
+	},
+	{
+		"phrase": "Red",
+		"context": null,
+		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Punainen",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks and build off the",
+		"context": null,
+		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Estää ja rakentaa pois",
+		"machine": true
+	},
+	{
+		"phrase": "Purple",
+		"context": null,
+		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Violetti",
+		"machine": true
+	},
+	{
+		"phrase": "Leaderboards are updated every 30 seconds.",
+		"context": null,
+		"comment": "[Trials] Leaderboard description",
+		"locations": [],
+		"translation": "Tulostaulukot päivitetään 30 sekunnin välein.",
+		"machine": true
+	},
+	{
+		"phrase": "\nLoading personal times and leaderboards",
+		"context": null,
+		"comment": "[Trials] Text that shows while loading the leaderboard",
+		"locations": [],
+		"translation": "\nLadataan henkilökohtaisia aikoja ja tulostaulukoita",
+		"machine": true
+	},
+	{
+		"phrase": "You have automatically voted no as you are the target",
+		"context": null,
+		"comment": "[Votekick] This text appears when you are being votekicked",
+		"locations": [],
+		"translation": "Olet automaattisesti äänestänyt ei, koska olet kohde",
+		"machine": true
+	},
+	{
+		"phrase": "Vote yes",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F1] Vote yes'",
+		"locations": [],
+		"translation": "Äänestä kyllä",
+		"machine": true
+	},
+	{
+		"phrase": "Vote no",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F2] Vote no'",
+		"locations": [],
+		"translation": "Äänestä nro",
+		"machine": true
+	},
+	{
+		"phrase": "Ignore",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F3] Ignore'",
+		"locations": [],
+		"translation": "Jättää huomiotta",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"context": null,
+		"comment": "[Unlock Button] This text shows when unlocking a weapon skin",
+		"locations": [],
+		"translation": "Lukituksen avaaminen",
+		"machine": true
+	},
+	{
+		"phrase": "Engineer Pack",
+		"context": null,
+		"comment": "[Unlock Button] If the user HASN'T purchased the Engineer Pack, this text is shown on the unlock button for the Agaman Engineer",
+		"locations": [],
+		"translation": "Insinööripaketti",
+		"machine": true
+	},
+	{
+		"phrase": "Supporter",
+		"context": null,
+		"comment": "[Unlock Button] If the user HASN'T purchased the Supporter Pack, this text is shown on the unlock button for the Human Renegade",
+		"locations": [],
+		"translation": "Tukija",
+		"machine": true
+	},
+	{
+		"phrase": "1 Token",
+		"context": null,
+		"comment": "[Unlock Button] If the user HAS a character token, this text is shown on the unlock button for the Human Renegade",
+		"locations": [],
+		"translation": "1 merkki",
+		"machine": true
+	},
+	{
+		"phrase": "1 Skin Token",
+		"context": null,
+		"comment": "[Unlock Button] This text shows on the unlock button for the Grid weapon skin",
+		"locations": [],
+		"translation": "1 ihomerkki",
+		"machine": true
+	},
+	{
+		"phrase": "Locked",
+		"context": null,
+		"comment": "[Unlock Button] This character can't be unlocked yet as the player isn't a high enough level",
+		"locations": [],
+		"translation": "Lukittu",
 		"machine": true
 	}
 ]

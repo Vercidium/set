@@ -3088,38 +3088,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Play a Match",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Jugar un partido",
-		"machine": true
-	},
-	{
-		"phrase": "Enter Trials",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ingresar pruebas",
-		"machine": true
-	},
-	{
-		"phrase": "Replay Tutorial",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Tutorial de repetición",
-		"machine": true
-	},
-	{
-		"phrase": "Reset Ship",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Restablecer barco",
-		"machine": true
-	},
-	{
 		"phrase": "Level",
 		"context": null,
 		"comment": null,
@@ -3504,14 +3472,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Password protected",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Contraseña protegida",
-		"machine": true
-	},
-	{
 		"phrase": "Note - claiming the lobby will restart the round",
 		"context": null,
 		"comment": null,
@@ -3589,14 +3549,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Estadisticas basicas",
-		"machine": true
-	},
-	{
-		"phrase": "Best kill streak",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Mejor racha de asesinatos",
 		"machine": true
 	},
 	{
@@ -3744,30 +3696,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "An update is available. Close the game and update the game through",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Hay disponible una actualización. cierra el juego y actualiza el juego a través de",
-		"machine": true
-	},
-	{
-		"phrase": "Connection to",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Conexión a",
-		"machine": true
-	},
-	{
-		"phrase": "failed. Online play is unavailable",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "fallido. El juego en línea no está disponible",
-		"machine": true
-	},
-	{
 		"phrase": "Blocks",
 		"context": null,
 		"comment": null,
@@ -3797,14 +3725,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Nivel bajo",
-		"machine": true
-	},
-	{
-		"phrase": "Open",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Abierto",
 		"machine": true
 	},
 	{
@@ -4912,14 +4832,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Extra Logging",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Registro adicional",
-		"machine": true
-	},
-	{
 		"phrase": "Input",
 		"context": null,
 		"comment": null,
@@ -5045,14 +4957,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Mostrar el HUD",
-		"machine": true
-	},
-	{
-		"phrase": "Show Kill Feed",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Mostrar feed de muertes",
 		"machine": true
 	},
 	{
@@ -5480,14 +5384,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "High Quality Meshing",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Malla de alta calidad",
-		"machine": true
-	},
-	{
 		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
 		"context": null,
 		"comment": null,
@@ -5624,27 +5520,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Max Lights",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Luces máximas",
-		"machine": true
-	},
-	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "El mundo está iluminado por luces solares, luces de bloque y destellos de boca de las armas. reducir la cantidad máxima de luces que se pueden renderizar aumentará los FPS",
-		"machine": true
-	},
-	{
-		"phrase": "Max FPS",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "FPS máx.",
 		"machine": true
 	},
 	{
@@ -5656,27 +5536,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable SSAO",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Habilitar SSAO",
-		"machine": true
-	},
-	{
 		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "La oclusión ambiental del espacio de la pantalla oscurece las grietas entre los objetos",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Bloom",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Habilitar floración",
 		"machine": true
 	},
 	{
@@ -5688,35 +5552,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Bloom On Optics",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Habilitar la floración en la óptica",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Crepuscular Rays",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Habilitar rayos crepusculares",
-		"machine": true
-	},
-	{
 		"phrase": "Crepuscular rays are shafts of lights that originate from a star",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Los rayos crepusculares son haces de luz que se originan en una estrella.",
-		"machine": true
-	},
-	{
-		"phrase": "Enable Shadows",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Habilitar sombras",
 		"machine": true
 	},
 	{
@@ -5768,27 +5608,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Multisampling",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Habilitar multimuestreo",
-		"machine": true
-	},
-	{
 		"phrase": "Multisampling smooths the edges of objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "El multimuestreo suaviza los bordes de los objetos",
-		"machine": true
-	},
-	{
-		"phrase": "Bare Minimum",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Mínimo",
 		"machine": true
 	},
 	{
@@ -5808,14 +5632,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Compress Textures",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Comprimir texturas",
-		"machine": true
-	},
-	{
 		"phrase": "Compressing textures will use less memory on the GPU but the game will take longer to start up",
 		"context": null,
 		"comment": null,
@@ -5832,14 +5648,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Safe Mode",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Habilitar el modo seguro",
-		"machine": true
-	},
-	{
 		"phrase": "Safe Mode prevents crashes from closing the game, but may slow the game down slightly",
 		"context": null,
 		"comment": null,
@@ -5848,27 +5656,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable VSync",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Habilitar VSync",
-		"machine": true
-	},
-	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "La sincronización vertical hace coincidir la frecuencia de actualización del juego con la frecuencia de actualización de su monitor. habilitar esto puede arreglar el desgarro de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Dynamic Exposure",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Exposición dinámica",
 		"machine": true
 	},
 	{
@@ -5912,14 +5704,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Only Scroll Weapons",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Solo armas de desplazamiento",
-		"machine": true
-	},
-	{
 		"phrase": "If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools",
 		"context": null,
 		"comment": null,
@@ -5944,27 +5728,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Low Quality Textures",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Texturas de baja calidad",
-		"machine": true
-	},
-	{
 		"phrase": "Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Habilitar esto reducirá la resolución de la textura para aumentar FPS y reducir el uso de memoria. deshabilitar esto requiere un reinicio para que surta efecto",
-		"machine": true
-	},
-	{
-		"phrase": "SSAO Samples",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Muestras de SSAO",
 		"machine": true
 	},
 	{
@@ -5976,27 +5744,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Player Name Distance",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Distancia del nombre del jugador",
-		"machine": true
-	},
-	{
 		"phrase": "This controls how far away friendly names will show",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Esto controla a qué distancia se mostrarán los nombres descriptivos.",
-		"machine": true
-	},
-	{
-		"phrase": "Midi Counts as Weapon",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Midi cuenta como arma",
 		"machine": true
 	},
 	{
@@ -6024,27 +5776,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Game Resolution",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Resolución del juego",
-		"machine": true
-	},
-	{
 		"phrase": "Reducing this will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Reducir esto aumentará los FPS",
-		"machine": true
-	},
-	{
-		"phrase": "Override Resolution",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Anular resolución",
 		"machine": true
 	},
 	{
@@ -6056,14 +5792,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Smooth Scaling",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Escalado suave",
-		"machine": true
-	},
-	{
 		"phrase": "Enabling this will reduce the pixelation of lower game resolutions",
 		"context": null,
 		"comment": null,
@@ -6072,27 +5800,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "NVIDIA OpenGL Extensions",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Extensiones de NVIDIA openGL",
-		"machine": true
-	},
-	{
 		"phrase": "Experimental performance setting, may crash your game. Don't enable if you haven't been told to",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "La configuración de rendimiento experimental puede bloquear su juego. no habilites si no te lo han dicho",
-		"machine": true
-	},
-	{
-		"phrase": "Beta Rendering",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Representación beta",
 		"machine": true
 	},
 	{
@@ -6125,14 +5837,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "cavar un área de 3x3x3",
-		"machine": true
-	},
-	{
-		"phrase": "Show Enemies on Zone Bar",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Mostrar enemigos en la barra de zona",
 		"machine": true
 	},
 	{
@@ -7365,6 +7069,1574 @@
 		"comment": "[Point UI Customisation] Hidden point category",
 		"locations": [],
 		"translation": "Oculto",
+		"machine": true
+	},
+	{
+		"phrase": "Building 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Edificio 1",
+		"machine": true
+	},
+	{
+		"phrase": "Building 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Edificio 2",
+		"machine": true
+	},
+	{
+		"phrase": "Building 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Edificio 3",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Excavación 1",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Excavación 2",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Cavando 3",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Construir + excavar 1",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Construir + excavar 2",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Construir + excavar 3",
+		"machine": true
+	},
+	{
+		"phrase": "Purchases",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "Compras",
+		"machine": true
+	},
+	{
+		"phrase": "CHARACTERS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "CARACTERES",
+		"machine": true
+	},
+	{
+		"phrase": "CHARACTER SKINS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "PIELES DE PERSONAJES",
+		"machine": true
+	},
+	{
+		"phrase": "WEAPON SKINS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "PIELES DE ARMAS",
+		"machine": true
+	},
+	{
+		"phrase": "CROSSHAIRS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "CRUCETAS",
+		"machine": true
+	},
+	{
+		"phrase": "Open",
+		"context": "Public",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"locations": [],
+		"translation": "Abierto",
+		"machine": true
+	},
+	{
+		"phrase": "England",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Inglaterra",
+		"machine": true
+	},
+	{
+		"phrase": "France",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Francia",
+		"machine": true
+	},
+	{
+		"phrase": "Germany",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Alemania",
+		"machine": true
+	},
+	{
+		"phrase": "Greece",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Grecia",
+		"machine": true
+	},
+	{
+		"phrase": "Sweden",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Suecia",
+		"machine": true
+	},
+	{
+		"phrase": "Russia",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Rusia",
+		"machine": true
+	},
+	{
+		"phrase": "Israel",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Israel",
+		"machine": true
+	},
+	{
+		"phrase": "USA West",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Oeste de EE. UU.",
+		"machine": true
+	},
+	{
+		"phrase": "USA Central",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Central de EE. UU.",
+		"machine": true
+	},
+	{
+		"phrase": "USA East",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Este de EE. UU.",
+		"machine": true
+	},
+	{
+		"phrase": "Canada",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Canadá",
+		"machine": true
+	},
+	{
+		"phrase": "Brazil",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Brasil",
+		"machine": true
+	},
+	{
+		"phrase": "India",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "India",
+		"machine": true
+	},
+	{
+		"phrase": "Japan",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Japón",
+		"machine": true
+	},
+	{
+		"phrase": "Singapore",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Singapur",
+		"machine": true
+	},
+	{
+		"phrase": "South Korea",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Corea del Sur",
+		"machine": true
+	},
+	{
+		"phrase": "Australia",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Australia",
+		"machine": true
+	},
+	{
+		"phrase": "Close",
+		"context": "Shut",
+		"comment": "[Settings] [Button] Sidebar text. This closes the settings window",
+		"locations": [],
+		"translation": "Cerrar",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Voxel",
+		"comment": "[Unit] 3D voxel",
+		"locations": [],
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": null,
+		"comment": "[Unit] Angle measurement",
+		"locations": [],
+		"translation": "Grado",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": null,
+		"comment": "[Unit] A group of 32x32x32 voxels",
+		"locations": [],
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": null,
+		"comment": "[Unit] The amount of times a shader should gather information from a texture",
+		"locations": [],
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "%",
+		"context": null,
+		"comment": "[Unit] Percentage, e.g. '50% Bloom Strength'",
+		"locations": [],
+		"translation": "%",
+		"machine": true
+	},
+	{
+		"phrase": "x",
+		"context": null,
+		"comment": "[Unit] Multiplication, e.g. '2.0x Shadow Quality'",
+		"locations": [],
+		"translation": "X",
+		"machine": true
+	},
+	{
+		"phrase": "Show bloom effects on Holo and Red Dot optics",
+		"context": null,
+		"comment": "[Setting] [Tooltip]",
+		"locations": [],
+		"translation": "Mostrar efectos de floración en ópticas holográficas y de puntos rojos",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether enemies are also shown on the top zone bar in Breakthrough when they are shooting, or revealed by a Scanner",
+		"context": null,
+		"comment": "[Setting] [Tooltip]",
+		"locations": [],
+		"translation": "Controla si los enemigos también se muestran en la barra de la zona superior en avance cuando están disparando o si son revelados por un escáner.",
+		"machine": true
+	},
+	{
+		"phrase": "Use Title Accent Colour",
+		"context": "Display Title Accent Colour",
+		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
+		"locations": [],
+		"translation": "Usar color de acento en el título",
+		"machine": true
+	},
+	{
+		"phrase": "Use Title Background",
+		"context": "Display Title Background",
+		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
+		"locations": [],
+		"translation": "Usar fondo de título",
+		"machine": true
+	},
+	{
+		"phrase": "ms",
+		"context": "milliseconds",
+		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
+		"locations": [],
+		"translation": "milisegundo",
+		"machine": true
+	},
+	{
+		"phrase": "Play a Match",
+		"context": "Play a Game",
+		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
+		"locations": [],
+		"translation": "Jugar un partido",
+		"machine": true
+	},
+	{
+		"phrase": "Enter Trials",
+		"context": "Enter the Trials",
+		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
+		"locations": [],
+		"translation": "Ingresar pruebas",
+		"machine": true
+	},
+	{
+		"phrase": "Replay Tutorial",
+		"context": "Replay the Tutorial",
+		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
+		"locations": [],
+		"translation": "Tutorial de repetición",
+		"machine": true
+	},
+	{
+		"phrase": "Reset Ship",
+		"context": "Reset the Ship",
+		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
+		"locations": [],
+		"translation": "Restablecer barco",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. apples",
+		"context": null,
+		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
+		"locations": [],
+		"translation": "por ejemplo, manzanas",
+		"machine": true
+	},
+	{
+		"phrase": "An update is available. Close the game and update the game through Steam",
+		"context": null,
+		"comment": "[Popup] Banner at the top of the screen that tells the user to update the game through Steam. Do not translate 'Steam'",
+		"locations": [],
+		"translation": "Hay disponible una actualización. cierra el juego y actualiza el juego a través de Steam",
+		"machine": true
+	},
+	{
+		"phrase": "Connection to Steam failed. Online play is unavailable",
+		"context": null,
+		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
+		"locations": [],
+		"translation": "Falló la conexión al vapor. el juego en línea no está disponible",
+		"machine": true
+	},
+	{
+		"phrase": "Title unlocked",
+		"context": null,
+		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
+		"locations": [],
+		"translation": "Título desbloqueado",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Medalla de bronce",
+		"machine": true
+	},
+	{
+		"phrase": "Silver medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Medalla de plata",
+		"machine": true
+	},
+	{
+		"phrase": "Gold medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Medalla de oro",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Medalla de platino",
+		"machine": true
+	},
+	{
+		"phrase": "To restart",
+		"context": null,
+		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
+		"locations": [],
+		"translation": "Para reiniciar",
+		"machine": true
+	},
+	{
+		"phrase": "To cancel",
+		"context": null,
+		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
+		"locations": [],
+		"translation": "Cancelar",
+		"machine": true
+	},
+	{
+		"phrase": "Best kill streak",
+		"context": "LOngest kill streak",
+		"comment": "[Victory Screen] Your longest kill streak, e.g. 'Best kill streak: 3'",
+		"locations": [],
+		"translation": "Mejor racha de asesinatos",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon Stats",
+		"context": null,
+		"comment": "[Victory Screen] Title above the table showing how many kills, shots\/throws, accuracy, etc you have for each weapon",
+		"locations": [],
+		"translation": "Estadísticas de armas",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'C4: 1 throw'",
+		"locations": [],
+		"translation": "Lanzar",
+		"machine": true
+	},
+	{
+		"phrase": "Throws",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'C4: 3 throws'",
+		"locations": [],
+		"translation": "Lanza",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 1 swing'",
+		"locations": [],
+		"translation": "Columpio",
+		"machine": true
+	},
+	{
+		"phrase": "Swings",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 3 swings'",
+		"locations": [],
+		"translation": "Columpios",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 1 shot'",
+		"locations": [],
+		"translation": "Disparo",
+		"machine": true
+	},
+	{
+		"phrase": "Shots",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 18 shots'",
+		"locations": [],
+		"translation": "Disparos",
+		"machine": true
+	},
+	{
+		"phrase": "Body",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 body damage'",
+		"locations": [],
+		"translation": "Cuerpo",
+		"machine": true
+	},
+	{
+		"phrase": "Head",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 head damage'",
+		"locations": [],
+		"translation": "Cabeza",
+		"machine": true
+	},
+	{
+		"phrase": "Splash",
+		"context": "Area of effect",
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Grenade: 12 splash damage'",
+		"locations": [],
+		"translation": "Chapoteo",
+		"machine": true
+	},
+	{
+		"phrase": "Accuracy",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
+		"locations": [],
+		"translation": "Exactitud",
+		"machine": true
+	},
+	{
+		"phrase": "Headshot hit",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Headshot hit: 50%'",
+		"locations": [],
+		"translation": "Golpe en la cabeza",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Utilisation",
+		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 1 use'",
+		"locations": [],
+		"translation": "Utilizar",
+		"machine": true
+	},
+	{
+		"phrase": "Uses",
+		"context": "Utilisations",
+		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 15 uses'",
+		"locations": [],
+		"translation": "Usos",
+		"machine": true
+	},
+	{
+		"phrase": "Accept",
+		"context": null,
+		"comment": "[UI] [Button] Accept an invitation",
+		"locations": [],
+		"translation": "Aceptar",
+		"machine": true
+	},
+	{
+		"phrase": "Decline",
+		"context": null,
+		"comment": "[UI] [Button] Decline an invitation",
+		"locations": [],
+		"translation": "Disminución",
+		"machine": true
+	},
+	{
+		"phrase": "Melee kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Melee kills'",
+		"locations": [],
+		"translation": "Muertes cuerpo a cuerpo",
+		"machine": true
+	},
+	{
+		"phrase": "Grenade kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Grenade kills'",
+		"locations": [],
+		"translation": "Granadas mata",
+		"machine": true
+	},
+	{
+		"phrase": "Spent",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] [1\/3] The full phrase is: 'Spent 3 hours defending'",
+		"locations": [],
+		"translation": "Gastado",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": null,
+		"comment": "[Unit] Measurement of time'",
+		"locations": [],
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hours",
+		"context": null,
+		"comment": "[Unit] Measurement of time'",
+		"locations": [],
+		"translation": "Horas",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks placed",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '10000 Blocks placed'",
+		"locations": [],
+		"translation": "Bloques colocados",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assists",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Spot assists'",
+		"locations": [],
+		"translation": "Asistencias puntuales",
+		"machine": true
+	},
+	{
+		"phrase": "Direct explosive kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 direct explosive kills'",
+		"locations": [],
+		"translation": "Muertes explosivas directas",
+		"machine": true
+	},
+	{
+		"phrase": "Headshot kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 headshot kills'",
+		"locations": [],
+		"translation": "Muertes por disparos en la cabeza",
+		"machine": true
+	},
+	{
+		"phrase": "Flag steals",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 flag steals'",
+		"locations": [],
+		"translation": "Robos de bandera",
+		"machine": true
+	},
+	{
+		"phrase": "Friendlies saved",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] Saviour tag description. The full phrase is: '100 friendlies saved'",
+		"locations": [],
+		"translation": "Amistosos salvados",
+		"machine": true
+	},
+	{
+		"phrase": "Friendlies avenged",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] Avenger tag description. The full phrase is: '100 friendlies avenged'",
+		"locations": [],
+		"translation": "Amistosos vengados",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. spaghetti",
+		"context": null,
+		"comment": "[Password Window] [Text Field] [Placeholder]",
+		"locations": [],
+		"translation": "por ejemplo, espaguetis",
+		"machine": true
+	},
+	{
+		"phrase": "Enter password",
+		"context": null,
+		"comment": "[Password Window] [Title]",
+		"locations": [],
+		"translation": "Introducir la contraseña",
+		"machine": true
+	},
+	{
+		"phrase": "Quick play",
+		"context": null,
+		"comment": "[Button] This is the large button at the top of the server list",
+		"locations": [],
+		"translation": "Juego rápido",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. Space Master 4000",
+		"context": null,
+		"comment": "[Player Dropdown Selector] Placeholder text for the search field for this dropdown",
+		"locations": [],
+		"translation": "por ejemplo, Space Master 4000",
+		"machine": true
+	},
+	{
+		"phrase": "Please select a friend",
+		"context": null,
+		"comment": "[Player Dropdown Selector] This text shows when selecting a player from the dropdown",
+		"locations": [],
+		"translation": "Por favor seleccione un amigo",
+		"machine": true
+	},
+	{
+		"phrase": "Selecting a loadout",
+		"context": null,
+		"comment": "[Scoreboard] Player joining status",
+		"locations": [],
+		"translation": "Seleccionar una carga",
+		"machine": true
+	},
+	{
+		"phrase": "Kick",
+		"context": null,
+		"comment": "[Lobby Panel] [Button] Kick a player",
+		"locations": [],
+		"translation": "Patear",
+		"machine": true
+	},
+	{
+		"phrase": "Swap",
+		"context": null,
+		"comment": "[Lobby Panel] [Button] Move this player to the other team",
+		"locations": [],
+		"translation": "Intercambio",
+		"machine": true
+	},
+	{
+		"phrase": "Type here",
+		"context": null,
+		"comment": "[Text Field] Placeholder text",
+		"locations": [],
+		"translation": "Escriba aquí",
+		"machine": true
+	},
+	{
+		"phrase": "Reason",
+		"context": null,
+		"comment": "[Report Popup] Dropdown label",
+		"locations": [],
+		"translation": "Razón",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn",
+		"context": null,
+		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
+		"locations": [],
+		"translation": "Aparecer",
+		"machine": true
+	},
+	{
+		"phrase": "Pan with mouse",
+		"context": null,
+		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
+		"locations": [],
+		"translation": "Desplazarse con el mouse",
+		"machine": true
+	},
+	{
+		"phrase": "Scroll to zoom",
+		"context": "Scroll wheel to zoom",
+		"comment": "[Respawn] [Input Prompt] Use the scroll wheel to zoom into the map",
+		"locations": [],
+		"translation": "Desplácese para hacer zoom",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout overpowered",
+		"context": "Loadout is too powerful",
+		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
+		"locations": [],
+		"translation": "Carga dominada",
+		"machine": true
+	},
+	{
+		"phrase": "s",
+		"context": "Seconds",
+		"comment": "[Unit] [Abbreviation] Abbreviation for seconds, e.g. 'Respawn in 13s'",
+		"locations": [],
+		"translation": "s",
+		"machine": true
+	},
+	{
+		"phrase": "Proton boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
+		"locations": [],
+		"translation": "Impulso de protones activo",
+		"machine": true
+	},
+	{
+		"phrase": "No Proton boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
+		"locations": [],
+		"translation": "Sin impulso de protones activo",
+		"machine": true
+	},
+	{
+		"phrase": "XP boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you have a XP boost active",
+		"locations": [],
+		"translation": "Aumento de XP activo",
+		"machine": true
+	},
+	{
+		"phrase": "No XP boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you do not have a XP boost active",
+		"locations": [],
+		"translation": "No hay impulso de XP activo",
+		"machine": true
+	},
+	{
+		"phrase": "View Steam Profile",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Ver perfil de Steam",
+		"machine": true
+	},
+	{
+		"phrase": "View Statistics",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Ver estadísticas",
+		"machine": true
+	},
+	{
+		"phrase": "Add Friend",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Añadir amigo",
+		"machine": true
+	},
+	{
+		"phrase": "Remove Friend",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Eliminar amigo",
+		"machine": true
+	},
+	{
+		"phrase": "Invite to Party",
+		"context": "Invite to Group",
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Invitar a una fiesta",
+		"machine": true
+	},
+	{
+		"phrase": "Invite Votekick",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Invitar a votekick",
+		"machine": true
+	},
+	{
+		"phrase": "Report Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Reportar jugador",
+		"machine": true
+	},
+	{
+		"phrase": "Mute Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Silenciar jugador",
+		"machine": true
+	},
+	{
+		"phrase": "Unmute Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Activar el sonido del jugador",
+		"machine": true
+	},
+	{
+		"phrase": "Spectate",
+		"context": "Become a spectator",
+		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
+		"locations": [],
+		"translation": "Espectate",
+		"machine": true
+	},
+	{
+		"phrase": "Solt",
+		"context": null,
+		"comment": "[Scoreboard] [Column Header] Abbreviation for Soltrium, shows in Head Hunter",
+		"locations": [],
+		"translation": "Solt",
+		"machine": true
+	},
+	{
+		"phrase": "P",
+		"context": "Points",
+		"comment": "[Scoreboard] [Column Header] Player points, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "PAG",
+		"machine": true
+	},
+	{
+		"phrase": "K",
+		"context": "Kills",
+		"comment": "[Scoreboard] [Column Header] Player kills, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "K",
+		"machine": true
+	},
+	{
+		"phrase": "D",
+		"context": "Deaths",
+		"comment": "[Scoreboard] [Column Header] Player deaths, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "D",
+		"machine": true
+	},
+	{
+		"phrase": "A",
+		"context": "Assists",
+		"comment": "[Scoreboard] [Column Header] Player assists, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "A",
+		"machine": true
+	},
+	{
+		"phrase": "MS",
+		"context": "Latency",
+		"comment": "[Scoreboard] [Column Header] Latency (ping), measured in milliseconds. Please set to MS if it is the most appropriate measurement for latency",
+		"locations": [],
+		"translation": "milisegundo",
+		"machine": true
+	},
+	{
+		"phrase": "Server Full",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is full",
+		"locations": [],
+		"translation": "Servidor lleno",
+		"machine": true
+	},
+	{
+		"phrase": "Lobby Claimed",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is claimed",
+		"locations": [],
+		"translation": "Lobby reclamado",
+		"machine": true
+	},
+	{
+		"phrase": "Player",
+		"context": null,
+		"comment": "[Scoreboard] This player count shows at the bottom of the scoreboard, i.e. '1 Player'",
+		"locations": [],
+		"translation": "Jugador",
+		"machine": true
+	},
+	{
+		"phrase": "Click outside or press escape to close",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom when the cursor has been unlocked",
+		"locations": [],
+		"translation": "Haga clic fuera o presione escape para cerrar",
+		"machine": true
+	},
+	{
+		"phrase": "Hold",
+		"context": null,
+		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
+		"locations": [],
+		"translation": "Retener",
+		"machine": true
+	},
+	{
+		"phrase": "To unlock the cursor",
+		"context": null,
+		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
+		"locations": [],
+		"translation": "Para desbloquear el cursor",
+		"machine": true
+	},
+	{
+		"phrase": "Spectator",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
+		"locations": [],
+		"translation": "Espectador",
+		"machine": true
+	},
+	{
+		"phrase": "Spectators",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Spectators'",
+		"locations": [],
+		"translation": "Público",
+		"machine": true
+	},
+	{
+		"phrase": "Player joining",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Player joining'",
+		"locations": [],
+		"translation": "Jugador que se une",
+		"machine": true
+	},
+	{
+		"phrase": "Players joining",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Players joining'",
+		"locations": [],
+		"translation": "Jugadores que se unen",
+		"machine": true
+	},
+	{
+		"phrase": "Balance the teams",
+		"context": null,
+		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
+		"locations": [],
+		"translation": "Equilibrar los equipos",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Quarter",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Calidad de textura: cuarto",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Half",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Calidad de textura: mitad",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Full",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Calidad de textura: completa",
+		"machine": true
+	},
+	{
+		"phrase": "Minimap Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]'",
+		"locations": [],
+		"translation": "Minimapa desactivado",
+		"machine": true
+	},
+	{
+		"phrase": "Player Names Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Nombres de jugadores deshabilitados",
+		"machine": true
+	},
+	{
+		"phrase": "Peacekeeper Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Pacificador discapacitado",
+		"machine": true
+	},
+	{
+		"phrase": "Bloom Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Bloom deshabilitado",
+		"machine": true
+	},
+	{
+		"phrase": "SSAO Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "SSAO deshabilitado",
+		"machine": true
+	},
+	{
+		"phrase": "Chat Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Chat deshabilitado",
+		"machine": true
+	},
+	{
+		"phrase": "Chat Timeout: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Tiempo de espera de chat: infinito",
+		"machine": true
+	},
+	{
+		"phrase": "Max Chunk Updates: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Actualizaciones de Max Chunk: infinito",
+		"machine": true
+	},
+	{
+		"phrase": "Max Lights: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Luces máximas: infinitas",
+		"machine": true
+	},
+	{
+		"phrase": "Max FPS: Uncapped",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Max FPS: sin límite",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplates Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Placas de identificación deshabilitadas",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplate Distance: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Distancia de la placa de identificación: infinita",
+		"machine": true
+	},
+	{
+		"phrase": "Pings Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Pings desactivados",
+		"machine": true
+	},
+	{
+		"phrase": "Max Ping Distance: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Distancia máxima de ping: infinita",
+		"machine": true
+	},
+	{
+		"phrase": "You have left the party",
+		"context": null,
+		"comment": "[Social Sidebar] [Message] This message shows at the top of the social sidebar when you leave a party",
+		"locations": [],
+		"translation": "Te has ido de la fiesta",
+		"machine": true
+	},
+	{
+		"phrase": "Notification",
+		"context": null,
+		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
+		"locations": [],
+		"translation": "Notificación",
+		"machine": true
+	},
+	{
+		"phrase": "Notifications",
+		"context": null,
+		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
+		"locations": [],
+		"translation": "Notificaciones",
+		"machine": true
+	},
+	{
+		"phrase": "Party",
+		"context": null,
+		"comment": "[Social Sidebar] Party labe. The full phrase is 'Party: 2 \/ 4'",
+		"locations": [],
+		"translation": "Fiesta",
+		"machine": true
+	},
+	{
+		"phrase": "Online",
+		"context": null,
+		"comment": "[Social Sidebar] Online friends label. The full phrase is 'Party: 2 \/ 4'",
+		"locations": [],
+		"translation": "En línea",
+		"machine": true
+	},
+	{
+		"phrase": "Click to edit",
+		"context": null,
+		"comment": "[Text Field] Placeholder text when editing a new loadout name",
+		"locations": [],
+		"translation": "Haz click para editar",
+		"machine": true
+	},
+	{
+		"phrase": "No title",
+		"context": null,
+		"comment": "[Killcam UI] [Button] Click this button to unequip your title",
+		"locations": [],
+		"translation": "Sin título",
+		"machine": true
+	},
+	{
+		"phrase": "No tags",
+		"context": null,
+		"comment": "[Killcam UI] [Button] Click this button to unequip your tag",
+		"locations": [],
+		"translation": "No etiquetas",
+		"machine": true
+	},
+	{
+		"phrase": "Retrieving transaction list",
+		"context": null,
+		"comment": "[Transaction Log] Loading text",
+		"locations": [],
+		"translation": "Recuperando la lista de transacciones",
+		"machine": true
+	},
+	{
+		"phrase": "No transactions",
+		"context": null,
+		"comment": "[Transaction Log] There are no transactions in this list",
+		"locations": [],
+		"translation": "Sin transacciones",
+		"machine": true
+	},
+	{
+		"phrase": "Token",
+		"context": null,
+		"comment": "[Transaction Log] This weapon skin was unlocked with a weapon skin token. The full phrase is: '1 Token'",
+		"locations": [],
+		"translation": "Simbólico",
+		"machine": true
+	},
+	{
+		"phrase": "Tokens",
+		"context": null,
+		"comment": "[Transaction Log] This weapon skin was unlocked with multiple weapon skin tokens. The full phrase is: '2 Tokens'",
+		"locations": [],
+		"translation": "Tokens",
+		"machine": true
+	},
+	{
+		"phrase": "Incomplete",
+		"context": null,
+		"comment": "[Trials] This text shows when you haven't completed this trial yet",
+		"locations": [],
+		"translation": "Incompleto",
+		"machine": true
+	},
+	{
+		"phrase": "Leaderboard",
+		"context": null,
+		"comment": "[Trials] [Title]",
+		"locations": [],
+		"translation": "Tabla de clasificación",
+		"machine": true
+	},
+	{
+		"phrase": "Restart",
+		"context": null,
+		"comment": "[Trials] [Button] Click this button to restart the trial",
+		"locations": [],
+		"translation": "Reanudar",
+		"machine": true
+	},
+	{
+		"phrase": "Trials list",
+		"context": null,
+		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
+		"locations": [],
+		"translation": "Lista de ensayos",
+		"machine": true
+	},
+	{
+		"phrase": "Trial",
+		"context": null,
+		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
+		"locations": [],
+		"translation": "Juicio",
+		"machine": true
+	},
+	{
+		"phrase": "Medals",
+		"context": null,
+		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
+		"locations": [],
+		"translation": "Medallas",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Platinum: 4:750'",
+		"locations": [],
+		"translation": "Platino",
+		"machine": true
+	},
+	{
+		"phrase": "Gold",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Gold: 4:750'",
+		"locations": [],
+		"translation": "Oro",
+		"machine": true
+	},
+	{
+		"phrase": "Silver",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Silver: 4:750'",
+		"locations": [],
+		"translation": "Plata",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Bronze: 4:750'",
+		"locations": [],
+		"translation": "Bronce",
+		"machine": true
+	},
+	{
+		"phrase": "Last attempt",
+		"context": "Previous attempt",
+		"comment": "[Trial] [Title] The full phrase is: 'Last attempt: 5:223'",
+		"locations": [],
+		"translation": "Último intento",
+		"machine": true
+	},
+	{
+		"phrase": "Saving time",
+		"context": "Storing time",
+		"comment": "[Trial] [Loading Text] This text shows when your trial time is being saved",
+		"locations": [],
+		"translation": "Ahorrando tiempo",
+		"machine": true
+	},
+	{
+		"phrase": "Time saved",
+		"context": "Time stored",
+		"comment": "[Trial] [Loading Text] This text shows when your trial time has been saved",
+		"locations": [],
+		"translation": "Tiempo ahorrado",
+		"machine": true
+	},
+	{
+		"phrase": "Best time",
+		"context": "Fastest time",
+		"comment": "[Trial] This text shows next to your best time for this trial, e.g. 'Best time: 4:873'",
+		"locations": [],
+		"translation": "Mejor época",
+		"machine": true
+	},
+	{
+		"phrase": "Rewards",
+		"context": null,
+		"comment": "[Trial] [Title] This text shows above the rewards you earned for completing this trial",
+		"locations": [],
+		"translation": "Recompensas",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh Leaderboards",
+		"context": "Refresh the Leaderboards",
+		"comment": "[Trials] [Button] Refresh the leaderboards by pressing this button",
+		"locations": [],
+		"translation": "Actualizar tablas de clasificación",
+		"machine": true
+	},
+	{
+		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
+		"context": null,
+		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Practica tus habilidades de construcción y excavación en las pruebas.!\nCompleta cada prueba dentro del tiempo especificado para ganar protones y matar títulos de cámaras..\nAlcanza la ",
+		"machine": true
+	},
+	{
+		"phrase": "Yellow",
+		"context": null,
+		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Amarillo",
+		"machine": true
+	},
+	{
+		"phrase": "Platform to win, avoid touching the",
+		"context": null,
+		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Plataforma para ganar, evita tocar el",
+		"machine": true
+	},
+	{
+		"phrase": "Red",
+		"context": null,
+		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "rojo",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks and build off the",
+		"context": null,
+		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Bloques y construir a partir de",
+		"machine": true
+	},
+	{
+		"phrase": "Purple",
+		"context": null,
+		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Púrpura",
+		"machine": true
+	},
+	{
+		"phrase": "Leaderboards are updated every 30 seconds.",
+		"context": null,
+		"comment": "[Trials] Leaderboard description",
+		"locations": [],
+		"translation": "Las tablas de clasificación se actualizan cada 30 segundos.",
+		"machine": true
+	},
+	{
+		"phrase": "\nLoading personal times and leaderboards",
+		"context": null,
+		"comment": "[Trials] Text that shows while loading the leaderboard",
+		"locations": [],
+		"translation": "\nCargando tiempos personales y tablas de clasificación",
+		"machine": true
+	},
+	{
+		"phrase": "You have automatically voted no as you are the target",
+		"context": null,
+		"comment": "[Votekick] This text appears when you are being votekicked",
+		"locations": [],
+		"translation": "Has votado no automáticamente porque eres el objetivo",
+		"machine": true
+	},
+	{
+		"phrase": "Vote yes",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F1] Vote yes'",
+		"locations": [],
+		"translation": "Vote sí",
+		"machine": true
+	},
+	{
+		"phrase": "Vote no",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F2] Vote no'",
+		"locations": [],
+		"translation": "Vote no",
+		"machine": true
+	},
+	{
+		"phrase": "Ignore",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F3] Ignore'",
+		"locations": [],
+		"translation": "Ignorar",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"context": null,
+		"comment": "[Unlock Button] This text shows when unlocking a weapon skin",
+		"locations": [],
+		"translation": "Desbloqueo",
+		"machine": true
+	},
+	{
+		"phrase": "Engineer Pack",
+		"context": null,
+		"comment": "[Unlock Button] If the user HASN'T purchased the Engineer Pack, this text is shown on the unlock button for the Agaman Engineer",
+		"locations": [],
+		"translation": "Paquete de ingeniero",
+		"machine": true
+	},
+	{
+		"phrase": "Supporter",
+		"context": null,
+		"comment": "[Unlock Button] If the user HASN'T purchased the Supporter Pack, this text is shown on the unlock button for the Human Renegade",
+		"locations": [],
+		"translation": "Seguidor",
+		"machine": true
+	},
+	{
+		"phrase": "1 Token",
+		"context": null,
+		"comment": "[Unlock Button] If the user HAS a character token, this text is shown on the unlock button for the Human Renegade",
+		"locations": [],
+		"translation": "1 ficha",
+		"machine": true
+	},
+	{
+		"phrase": "1 Skin Token",
+		"context": null,
+		"comment": "[Unlock Button] This text shows on the unlock button for the Grid weapon skin",
+		"locations": [],
+		"translation": "1 ficha de aspecto",
+		"machine": true
+	},
+	{
+		"phrase": "Locked",
+		"context": null,
+		"comment": "[Unlock Button] This character can't be unlocked yet as the player isn't a high enough level",
+		"locations": [],
+		"translation": "Bloqueado",
 		"machine": true
 	}
 ]

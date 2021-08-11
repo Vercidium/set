@@ -2200,30 +2200,6 @@
 		"machine": false
 	},
 	{
-		"phrase": "An update is available. Close the game and update the game through",
-		"context": null,
-		"comment": "[Popup] Banner at the top of the screen that tells the user to update the game through Steam. The word Steam is ommitted from the end of this phrase on purpose",
-		"locations": [],
-		"translation": "Bir güncelleme mevcut. oyunu kapat ve oyunu güncelle",
-		"machine": false
-	},
-	{
-		"phrase": "Connection to",
-		"context": null,
-		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam. The full phrase is: Connection to Steam failed. Online play is unavailable",
-		"locations": [],
-		"translation": "Bağlantı",
-		"machine": false
-	},
-	{
-		"phrase": "failed. Online play is unavailable",
-		"context": null,
-		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam. The full phrase is: Connection to Steam failed. Online play is unavailable",
-		"locations": [],
-		"translation": "Başarısız olundu. Çevrimiçi oyunama kullanılamıyor",
-		"machine": false
-	},
-	{
 		"phrase": "Click the Play tab when you are ready",
 		"context": null,
 		"comment": "[Popup] Tutorial popup prompt",
@@ -2788,7 +2764,7 @@
 		"context": "Not Applicable",
 		"comment": "[Term] This is an abbreviation for Not Applicable",
 		"locations": [],
-		"translation": "N/A",
+		"translation": "N\/A",
 		"machine": false
 	},
 	{
@@ -2877,14 +2853,6 @@
 		"comment": "[Play Screen] [Navigation] Low level tab",
 		"locations": [],
 		"translation": "Düşük seviye",
-		"machine": false
-	},
-	{
-		"phrase": "Open",
-		"context": null,
-		"comment": "[Play Screen] [Navigation] Open\/public lobbies tab",
-		"locations": [],
-		"translation": "Açık",
 		"machine": false
 	},
 	{
@@ -4008,14 +3976,6 @@
 		"machine": false
 	},
 	{
-		"phrase": "High Quality Meshing",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Yüksek kaliteli ağ oluşturma",
-		"machine": false
-	},
-	{
 		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
 		"context": null,
 		"comment": null,
@@ -4128,14 +4088,6 @@
 		"machine": false
 	},
 	{
-		"phrase": "Show Kill Feed",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Killfeed'i göster",
-		"machine": false
-	},
-	{
 		"phrase": "Controls whether the kill feed is rendered. Shortcut:",
 		"context": null,
 		"comment": null,
@@ -4184,27 +4136,11 @@
 		"machine": false
 	},
 	{
-		"phrase": "Max Lights",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Maksimum ışık miktarı",
-		"machine": false
-	},
-	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Dünya güneş ışıkları, blok ışıkları ve silahlardan çıkan namlu ateşleriyle aydınlatılıyor. Oluşturulabilecek maksimum ışık miktarını azaltmak FPS'yi artıracaktır",
-		"machine": false
-	},
-	{
-		"phrase": "Max FPS",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Maksimum FPS",
 		"machine": false
 	},
 	{
@@ -4216,27 +4152,11 @@
 		"machine": false
 	},
 	{
-		"phrase": "Enable SSAO",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "SSAO'yu etkinleştir",
-		"machine": false
-	},
-	{
 		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "SSAO, nesneler arasındaki yarıkları koyulaştırır",
-		"machine": false
-	},
-	{
-		"phrase": "Enable Bloom",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Bloom'u etkinleştir",
 		"machine": false
 	},
 	{
@@ -4248,35 +4168,11 @@
 		"machine": false
 	},
 	{
-		"phrase": "Enable Bloom On Optics",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Optikte Bloom'u etkinleştir",
-		"machine": false
-	},
-	{
-		"phrase": "Enable Crepuscular Rays",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Güneş ışınlarını etkinleştir",
-		"machine": false
-	},
-	{
 		"phrase": "Crepuscular rays are shafts of lights that originate from a star",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Güneş ışınları, bir yıldızdan kaynaklanan ışık demetleridir.",
-		"machine": false
-	},
-	{
-		"phrase": "Enable Shadows",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Gölgeleri etkinleştir",
 		"machine": false
 	},
 	{
@@ -4328,27 +4224,11 @@
 		"machine": false
 	},
 	{
-		"phrase": "Enable Multisampling",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Çoklu örneklemeyi etkinleştir",
-		"machine": false
-	},
-	{
 		"phrase": "Multisampling smooths the edges of objects",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Çoklu örnekleme, nesnelerin kenarlarını yumuşatır",
-		"machine": false
-	},
-	{
-		"phrase": "Bare Minimum",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "En düşük ayarlar",
 		"machine": false
 	},
 	{
@@ -4368,14 +4248,6 @@
 		"machine": false
 	},
 	{
-		"phrase": "Compress Textures",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Dokuları sıkıştır",
-		"machine": false
-	},
-	{
 		"phrase": "Compressing textures will use less memory on the GPU but the game will take longer to start up",
 		"context": null,
 		"comment": null,
@@ -4392,14 +4264,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable Safe Mode",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Güvenli modu etkinleştir",
-		"machine": true
-	},
-	{
 		"phrase": "Safe Mode prevents crashes from closing the game, but may slow the game down slightly",
 		"context": null,
 		"comment": null,
@@ -4408,27 +4272,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable VSync",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "VSync'i etkinleştir",
-		"machine": true
-	},
-	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Dikey senkronizasyon, oyunun güncelleme hızını monitörünüzün yenileme hızıyla eşleştirir. bunu etkinleştirmek ekran yırtılmasını düzeltebilir",
-		"machine": true
-	},
-	{
-		"phrase": "Dynamic Exposure",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Dinamik pozlama",
 		"machine": true
 	},
 	{
@@ -4464,27 +4312,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Extra Logging",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Ekstra günlük kaydı",
-		"machine": true
-	},
-	{
 		"phrase": "Enable this if you are having trouble connecting to servers",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Sunuculara bağlanmada sorun yaşıyorsanız bunu etkinleştirin",
-		"machine": true
-	},
-	{
-		"phrase": "Only Scroll Weapons",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Sadece kaydırma silahları",
 		"machine": true
 	},
 	{
@@ -4512,27 +4344,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Low Quality Textures",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Düşük kaliteli dokular",
-		"machine": true
-	},
-	{
 		"phrase": "Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Bunu etkinleştirmek, FPS'yi artırmak ve bellek kullanımını azaltmak için doku çözünürlüğünü azaltacaktır. bunu devre dışı bırakmak, etkili olması için yeniden başlatmayı gerektirir",
-		"machine": true
-	},
-	{
-		"phrase": "SSAO Samples",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "SSAO örnekleri",
 		"machine": true
 	},
 	{
@@ -4544,27 +4360,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Player Name Distance",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Oyuncu adı mesafesi",
-		"machine": true
-	},
-	{
 		"phrase": "This controls how far away friendly names will show",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Bu, kolay adların ne kadar uzakta gösterileceğini kontrol eder",
-		"machine": true
-	},
-	{
-		"phrase": "Midi Counts as Weapon",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Midi silah sayılır",
 		"machine": true
 	},
 	{
@@ -4592,27 +4392,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "Game Resolution",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "oyun çözünürlüğü",
-		"machine": true
-	},
-	{
 		"phrase": "Reducing this will increase FPS",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Bunu azaltmak FPS'yi artıracaktır.",
-		"machine": true
-	},
-	{
-		"phrase": "Override Resolution",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Çözünürlüğü geçersiz kıl",
 		"machine": true
 	},
 	{
@@ -4624,14 +4408,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Smooth Scaling",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Pürüzsüz ölçekleme",
-		"machine": true
-	},
-	{
 		"phrase": "Enabling this will reduce the pixelation of lower game resolutions",
 		"context": null,
 		"comment": null,
@@ -4640,27 +4416,11 @@
 		"machine": true
 	},
 	{
-		"phrase": "NVIDIA OpenGL Extensions",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "NVIDIA openGL uzantıları",
-		"machine": true
-	},
-	{
 		"phrase": "Experimental performance setting, may crash your game. Don't enable if you haven't been told to",
 		"context": null,
 		"comment": null,
 		"locations": [],
 		"translation": "Deneysel performans ayarı, oyununuzu çökertebilir. size söylenmediyse etkinleştirmeyin",
-		"machine": true
-	},
-	{
-		"phrase": "Beta Rendering",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Beta oluşturma",
 		"machine": true
 	},
 	{
@@ -4693,14 +4453,6 @@
 		"comment": "[3\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
 		"locations": [],
 		"translation": "3x3x3 alan kazmak",
-		"machine": true
-	},
-	{
-		"phrase": "Show Enemies on Zone Bar",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Düşmanları bölge çubuğunda göster",
 		"machine": true
 	},
 	{
@@ -5469,38 +5221,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Bir yükleme ayarlamak için",
-		"machine": true
-	},
-	{
-		"phrase": "Play a Match",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "maç oyna",
-		"machine": true
-	},
-	{
-		"phrase": "Enter Trials",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Denemelere girin",
-		"machine": true
-	},
-	{
-		"phrase": "Replay Tutorial",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Eğiticiyi tekrar oynat",
-		"machine": true
-	},
-	{
-		"phrase": "Reset Ship",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "gemiyi sıfırla",
 		"machine": true
 	},
 	{
@@ -7120,14 +6840,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Password protected",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "Şifre korumalı",
-		"machine": true
-	},
-	{
 		"phrase": "Note - claiming the lobby will restart the round",
 		"context": null,
 		"comment": null,
@@ -7237,14 +6949,6 @@
 		"comment": null,
 		"locations": [],
 		"translation": "Temel istatistikler",
-		"machine": true
-	},
-	{
-		"phrase": "Best kill streak",
-		"context": null,
-		"comment": null,
-		"locations": [],
-		"translation": "En iyi galibiyet serisi",
 		"machine": true
 	},
 	{
@@ -7365,6 +7069,1574 @@
 		"comment": "[Unlock Button] Unlock a weapon skin",
 		"locations": [],
 		"translation": "Kilidini aç",
+		"machine": true
+	},
+	{
+		"phrase": "Building 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Bina 1",
+		"machine": true
+	},
+	{
+		"phrase": "Building 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Bina 2",
+		"machine": true
+	},
+	{
+		"phrase": "Building 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "Bina 3",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "kazma 1",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "kazma 2",
+		"machine": true
+	},
+	{
+		"phrase": "Digging 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "kazma 3",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 1",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "İnşa et + kaz 1",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 2",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "İnşa + kazma 2",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig 3",
+		"context": null,
+		"comment": "[Trial Name]",
+		"locations": [],
+		"translation": "İnşa et + kaz 3",
+		"machine": true
+	},
+	{
+		"phrase": "Purchases",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "satın almalar",
+		"machine": true
+	},
+	{
+		"phrase": "CHARACTERS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "KARAKTERLER",
+		"machine": true
+	},
+	{
+		"phrase": "CHARACTER SKINS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "KARAKTER CİLTLERİ",
+		"machine": true
+	},
+	{
+		"phrase": "WEAPON SKINS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "SİLAH GÖRÜNÜMLERİ",
+		"machine": true
+	},
+	{
+		"phrase": "CROSSHAIRS",
+		"context": null,
+		"comment": "[Transaction Log] Category title",
+		"locations": [],
+		"translation": "ARKA PARÇALAR",
+		"machine": true
+	},
+	{
+		"phrase": "Open",
+		"context": "Public",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"locations": [],
+		"translation": "Açık",
+		"machine": true
+	},
+	{
+		"phrase": "England",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "İngiltere",
+		"machine": true
+	},
+	{
+		"phrase": "France",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Fransa",
+		"machine": true
+	},
+	{
+		"phrase": "Germany",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Almanya",
+		"machine": true
+	},
+	{
+		"phrase": "Greece",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Yunanistan",
+		"machine": true
+	},
+	{
+		"phrase": "Sweden",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "İsveç",
+		"machine": true
+	},
+	{
+		"phrase": "Russia",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Rusya",
+		"machine": true
+	},
+	{
+		"phrase": "Israel",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "İsrail",
+		"machine": true
+	},
+	{
+		"phrase": "USA West",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "ABD batı",
+		"machine": true
+	},
+	{
+		"phrase": "USA Central",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "ABD merkezi",
+		"machine": true
+	},
+	{
+		"phrase": "USA East",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "ABD doğu",
+		"machine": true
+	},
+	{
+		"phrase": "Canada",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Kanada",
+		"machine": true
+	},
+	{
+		"phrase": "Brazil",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Brezilya",
+		"machine": true
+	},
+	{
+		"phrase": "India",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Hindistan",
+		"machine": true
+	},
+	{
+		"phrase": "Japan",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Japonya",
+		"machine": true
+	},
+	{
+		"phrase": "Singapore",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Singapur",
+		"machine": true
+	},
+	{
+		"phrase": "South Korea",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Güney Kore",
+		"machine": true
+	},
+	{
+		"phrase": "Australia",
+		"context": null,
+		"comment": "[Server List] [Filter]",
+		"locations": [],
+		"translation": "Avustralya",
+		"machine": true
+	},
+	{
+		"phrase": "Close",
+		"context": "Shut",
+		"comment": "[Settings] [Button] Sidebar text. This closes the settings window",
+		"locations": [],
+		"translation": "Kapat",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Voxel",
+		"comment": "[Unit] 3D voxel",
+		"locations": [],
+		"translation": "Engellemek",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": null,
+		"comment": "[Unit] Angle measurement",
+		"locations": [],
+		"translation": "Derece",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": null,
+		"comment": "[Unit] A group of 32x32x32 voxels",
+		"locations": [],
+		"translation": "yığın",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": null,
+		"comment": "[Unit] The amount of times a shader should gather information from a texture",
+		"locations": [],
+		"translation": "Örnek",
+		"machine": true
+	},
+	{
+		"phrase": "%",
+		"context": null,
+		"comment": "[Unit] Percentage, e.g. '50% Bloom Strength'",
+		"locations": [],
+		"translation": "%",
+		"machine": true
+	},
+	{
+		"phrase": "x",
+		"context": null,
+		"comment": "[Unit] Multiplication, e.g. '2.0x Shadow Quality'",
+		"locations": [],
+		"translation": "x",
+		"machine": true
+	},
+	{
+		"phrase": "Show bloom effects on Holo and Red Dot optics",
+		"context": null,
+		"comment": "[Setting] [Tooltip]",
+		"locations": [],
+		"translation": "Holo ve kırmızı nokta optiklerinde çiçeklenme efektlerini göster",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether enemies are also shown on the top zone bar in Breakthrough when they are shooting, or revealed by a Scanner",
+		"context": null,
+		"comment": "[Setting] [Tooltip]",
+		"locations": [],
+		"translation": "Düşmanların ateş ettikleri sırada üst bölge çubuğunda da gösterilip gösterilmeyeceğini veya bir tarayıcı tarafından ortaya çıkıp çıkmayacağını kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Use Title Accent Colour",
+		"context": "Display Title Accent Colour",
+		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
+		"locations": [],
+		"translation": "Başlık vurgu rengini kullan",
+		"machine": true
+	},
+	{
+		"phrase": "Use Title Background",
+		"context": "Display Title Background",
+		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
+		"locations": [],
+		"translation": "Başlık arka planını kullan",
+		"machine": true
+	},
+	{
+		"phrase": "ms",
+		"context": "milliseconds",
+		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
+		"locations": [],
+		"translation": "Hanım",
+		"machine": true
+	},
+	{
+		"phrase": "Play a Match",
+		"context": "Play a Game",
+		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
+		"locations": [],
+		"translation": "maç oyna",
+		"machine": true
+	},
+	{
+		"phrase": "Enter Trials",
+		"context": "Enter the Trials",
+		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
+		"locations": [],
+		"translation": "Denemelere girin",
+		"machine": true
+	},
+	{
+		"phrase": "Replay Tutorial",
+		"context": "Replay the Tutorial",
+		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
+		"locations": [],
+		"translation": "Eğiticiyi tekrar oynat",
+		"machine": true
+	},
+	{
+		"phrase": "Reset Ship",
+		"context": "Reset the Ship",
+		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
+		"locations": [],
+		"translation": "gemiyi sıfırla",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. apples",
+		"context": null,
+		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
+		"locations": [],
+		"translation": "örneğin elmalar",
+		"machine": true
+	},
+	{
+		"phrase": "An update is available. Close the game and update the game through Steam",
+		"context": null,
+		"comment": "[Popup] Banner at the top of the screen that tells the user to update the game through Steam. Do not translate 'Steam'",
+		"locations": [],
+		"translation": "Bir güncelleme mevcut. oyunu kapat ve oyunu steam üzerinden güncelle",
+		"machine": true
+	},
+	{
+		"phrase": "Connection to Steam failed. Online play is unavailable",
+		"context": null,
+		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
+		"locations": [],
+		"translation": "Steam'e bağlantı başarısız oldu. çevrimiçi oyun kullanılamıyor",
+		"machine": true
+	},
+	{
+		"phrase": "Title unlocked",
+		"context": null,
+		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
+		"locations": [],
+		"translation": "Başlık kilidi açıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Bronz madalya",
+		"machine": true
+	},
+	{
+		"phrase": "Silver medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Gümüş madalya",
+		"machine": true
+	},
+	{
+		"phrase": "Gold medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "Altın madalya",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum medal",
+		"context": null,
+		"comment": "[Trial Reward]",
+		"locations": [],
+		"translation": "platin madalya",
+		"machine": true
+	},
+	{
+		"phrase": "To restart",
+		"context": null,
+		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
+		"locations": [],
+		"translation": "Yeniden başlatmak",
+		"machine": true
+	},
+	{
+		"phrase": "To cancel",
+		"context": null,
+		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
+		"locations": [],
+		"translation": "İptal etmek",
+		"machine": true
+	},
+	{
+		"phrase": "Best kill streak",
+		"context": "LOngest kill streak",
+		"comment": "[Victory Screen] Your longest kill streak, e.g. 'Best kill streak: 3'",
+		"locations": [],
+		"translation": "En iyi galibiyet serisi",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon Stats",
+		"context": null,
+		"comment": "[Victory Screen] Title above the table showing how many kills, shots\/throws, accuracy, etc you have for each weapon",
+		"locations": [],
+		"translation": "Silah istatistikleri",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'C4: 1 throw'",
+		"locations": [],
+		"translation": "Fırlatmak",
+		"machine": true
+	},
+	{
+		"phrase": "Throws",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'C4: 3 throws'",
+		"locations": [],
+		"translation": "atar",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 1 swing'",
+		"locations": [],
+		"translation": "Sallanmak",
+		"machine": true
+	},
+	{
+		"phrase": "Swings",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 3 swings'",
+		"locations": [],
+		"translation": "salıncaklar",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 1 shot'",
+		"locations": [],
+		"translation": "Atış",
+		"machine": true
+	},
+	{
+		"phrase": "Shots",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 18 shots'",
+		"locations": [],
+		"translation": "çekim",
+		"machine": true
+	},
+	{
+		"phrase": "Body",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 body damage'",
+		"locations": [],
+		"translation": "Vücut",
+		"machine": true
+	},
+	{
+		"phrase": "Head",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 head damage'",
+		"locations": [],
+		"translation": "Kafa",
+		"machine": true
+	},
+	{
+		"phrase": "Splash",
+		"context": "Area of effect",
+		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Grenade: 12 splash damage'",
+		"locations": [],
+		"translation": "Sıçrama",
+		"machine": true
+	},
+	{
+		"phrase": "Accuracy",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
+		"locations": [],
+		"translation": "Kesinlik",
+		"machine": true
+	},
+	{
+		"phrase": "Headshot hit",
+		"context": null,
+		"comment": "[Victory Screen] [Unit] e.g. 'Headshot hit: 50%'",
+		"locations": [],
+		"translation": "kafadan vuruş",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Utilisation",
+		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 1 use'",
+		"locations": [],
+		"translation": "Kullanmak",
+		"machine": true
+	},
+	{
+		"phrase": "Uses",
+		"context": "Utilisations",
+		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 15 uses'",
+		"locations": [],
+		"translation": "kullanır",
+		"machine": true
+	},
+	{
+		"phrase": "Accept",
+		"context": null,
+		"comment": "[UI] [Button] Accept an invitation",
+		"locations": [],
+		"translation": "Kabul etmek",
+		"machine": true
+	},
+	{
+		"phrase": "Decline",
+		"context": null,
+		"comment": "[UI] [Button] Decline an invitation",
+		"locations": [],
+		"translation": "Reddetmek",
+		"machine": true
+	},
+	{
+		"phrase": "Melee kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Melee kills'",
+		"locations": [],
+		"translation": "Yakın dövüş öldürür",
+		"machine": true
+	},
+	{
+		"phrase": "Grenade kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Grenade kills'",
+		"locations": [],
+		"translation": "el bombası öldürür",
+		"machine": true
+	},
+	{
+		"phrase": "Spent",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] [1\/3] The full phrase is: 'Spent 3 hours defending'",
+		"locations": [],
+		"translation": "harcanan",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": null,
+		"comment": "[Unit] Measurement of time'",
+		"locations": [],
+		"translation": "Saat",
+		"machine": true
+	},
+	{
+		"phrase": "Hours",
+		"context": null,
+		"comment": "[Unit] Measurement of time'",
+		"locations": [],
+		"translation": "Saatler",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks placed",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '10000 Blocks placed'",
+		"locations": [],
+		"translation": "Yerleştirilen bloklar",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assists",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Spot assists'",
+		"locations": [],
+		"translation": "Nokta asistleri",
+		"machine": true
+	},
+	{
+		"phrase": "Direct explosive kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 direct explosive kills'",
+		"locations": [],
+		"translation": "Doğrudan patlayıcı öldürür",
+		"machine": true
+	},
+	{
+		"phrase": "Headshot kills",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 headshot kills'",
+		"locations": [],
+		"translation": "kafadan vuruşlar",
+		"machine": true
+	},
+	{
+		"phrase": "Flag steals",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 flag steals'",
+		"locations": [],
+		"translation": "Bayrak çalma",
+		"machine": true
+	},
+	{
+		"phrase": "Friendlies saved",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] Saviour tag description. The full phrase is: '100 friendlies saved'",
+		"locations": [],
+		"translation": "dostluklar kaydedildi",
+		"machine": true
+	},
+	{
+		"phrase": "Friendlies avenged",
+		"context": null,
+		"comment": "[Killcam Tag] [Tag Description] Avenger tag description. The full phrase is: '100 friendlies avenged'",
+		"locations": [],
+		"translation": "Dostlukların intikamı alındı",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. spaghetti",
+		"context": null,
+		"comment": "[Password Window] [Text Field] [Placeholder]",
+		"locations": [],
+		"translation": "örneğin spagetti",
+		"machine": true
+	},
+	{
+		"phrase": "Enter password",
+		"context": null,
+		"comment": "[Password Window] [Title]",
+		"locations": [],
+		"translation": "Şifre girin",
+		"machine": true
+	},
+	{
+		"phrase": "Quick play",
+		"context": null,
+		"comment": "[Button] This is the large button at the top of the server list",
+		"locations": [],
+		"translation": "Hızlı Oynat",
+		"machine": true
+	},
+	{
+		"phrase": "e.g. Space Master 4000",
+		"context": null,
+		"comment": "[Player Dropdown Selector] Placeholder text for the search field for this dropdown",
+		"locations": [],
+		"translation": "örneğin Uzay Ustası 4000",
+		"machine": true
+	},
+	{
+		"phrase": "Please select a friend",
+		"context": null,
+		"comment": "[Player Dropdown Selector] This text shows when selecting a player from the dropdown",
+		"locations": [],
+		"translation": "Lütfen bir arkadaş seçin",
+		"machine": true
+	},
+	{
+		"phrase": "Selecting a loadout",
+		"context": null,
+		"comment": "[Scoreboard] Player joining status",
+		"locations": [],
+		"translation": "Bir yük seçme",
+		"machine": true
+	},
+	{
+		"phrase": "Kick",
+		"context": null,
+		"comment": "[Lobby Panel] [Button] Kick a player",
+		"locations": [],
+		"translation": "Tekme atmak",
+		"machine": true
+	},
+	{
+		"phrase": "Swap",
+		"context": null,
+		"comment": "[Lobby Panel] [Button] Move this player to the other team",
+		"locations": [],
+		"translation": "Takas",
+		"machine": true
+	},
+	{
+		"phrase": "Type here",
+		"context": null,
+		"comment": "[Text Field] Placeholder text",
+		"locations": [],
+		"translation": "Buraya yaz",
+		"machine": true
+	},
+	{
+		"phrase": "Reason",
+		"context": null,
+		"comment": "[Report Popup] Dropdown label",
+		"locations": [],
+		"translation": "Sebep",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn",
+		"context": null,
+		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
+		"locations": [],
+		"translation": "yumurtlama",
+		"machine": true
+	},
+	{
+		"phrase": "Pan with mouse",
+		"context": null,
+		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
+		"locations": [],
+		"translation": "Fare ile kaydırma",
+		"machine": true
+	},
+	{
+		"phrase": "Scroll to zoom",
+		"context": "Scroll wheel to zoom",
+		"comment": "[Respawn] [Input Prompt] Use the scroll wheel to zoom into the map",
+		"locations": [],
+		"translation": "Yakınlaştırmak için kaydırın",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout overpowered",
+		"context": "Loadout is too powerful",
+		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
+		"locations": [],
+		"translation": "Yükleme aşırı güçlendi",
+		"machine": true
+	},
+	{
+		"phrase": "s",
+		"context": "Seconds",
+		"comment": "[Unit] [Abbreviation] Abbreviation for seconds, e.g. 'Respawn in 13s'",
+		"locations": [],
+		"translation": "s",
+		"machine": true
+	},
+	{
+		"phrase": "Proton boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
+		"locations": [],
+		"translation": "Proton artırma aktif",
+		"machine": true
+	},
+	{
+		"phrase": "No Proton boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
+		"locations": [],
+		"translation": "Proton takviyesi aktif değil",
+		"machine": true
+	},
+	{
+		"phrase": "XP boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you have a XP boost active",
+		"locations": [],
+		"translation": "XP takviyesi aktif",
+		"machine": true
+	},
+	{
+		"phrase": "No XP boost active",
+		"context": null,
+		"comment": "[Respawn] This text shows when you do not have a XP boost active",
+		"locations": [],
+		"translation": "XP takviyesi etkin değil",
+		"machine": true
+	},
+	{
+		"phrase": "View Steam Profile",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Steam profilini görüntüle",
+		"machine": true
+	},
+	{
+		"phrase": "View Statistics",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "İstatistikleri görüntüle",
+		"machine": true
+	},
+	{
+		"phrase": "Add Friend",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Arkadaş Ekle",
+		"machine": true
+	},
+	{
+		"phrase": "Remove Friend",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Arkadaşı kaldır",
+		"machine": true
+	},
+	{
+		"phrase": "Invite to Party",
+		"context": "Invite to Group",
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Partiye davet",
+		"machine": true
+	},
+	{
+		"phrase": "Invite Votekick",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Oylamaya davet et",
+		"machine": true
+	},
+	{
+		"phrase": "Report Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Oyuncuyu raporla",
+		"machine": true
+	},
+	{
+		"phrase": "Mute Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Oyuncunun sesini kapat",
+		"machine": true
+	},
+	{
+		"phrase": "Unmute Player",
+		"context": null,
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"locations": [],
+		"translation": "Oyuncunun sesini aç",
+		"machine": true
+	},
+	{
+		"phrase": "Spectate",
+		"context": "Become a spectator",
+		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
+		"locations": [],
+		"translation": "seyirci",
+		"machine": true
+	},
+	{
+		"phrase": "Solt",
+		"context": null,
+		"comment": "[Scoreboard] [Column Header] Abbreviation for Soltrium, shows in Head Hunter",
+		"locations": [],
+		"translation": "solt",
+		"machine": true
+	},
+	{
+		"phrase": "P",
+		"context": "Points",
+		"comment": "[Scoreboard] [Column Header] Player points, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "P",
+		"machine": true
+	},
+	{
+		"phrase": "K",
+		"context": "Kills",
+		"comment": "[Scoreboard] [Column Header] Player kills, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "K",
+		"machine": true
+	},
+	{
+		"phrase": "D",
+		"context": "Deaths",
+		"comment": "[Scoreboard] [Column Header] Player deaths, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "NS",
+		"machine": true
+	},
+	{
+		"phrase": "A",
+		"context": "Assists",
+		"comment": "[Scoreboard] [Column Header] Player assists, please only include the first letter of the translation",
+		"locations": [],
+		"translation": "A",
+		"machine": true
+	},
+	{
+		"phrase": "MS",
+		"context": "Latency",
+		"comment": "[Scoreboard] [Column Header] Latency (ping), measured in milliseconds. Please set to MS if it is the most appropriate measurement for latency",
+		"locations": [],
+		"translation": "HANIM",
+		"machine": true
+	},
+	{
+		"phrase": "Server Full",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is full",
+		"locations": [],
+		"translation": "sunucu dolu",
+		"machine": true
+	},
+	{
+		"phrase": "Lobby Claimed",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is claimed",
+		"locations": [],
+		"translation": "Lobi talep edildi",
+		"machine": true
+	},
+	{
+		"phrase": "Player",
+		"context": null,
+		"comment": "[Scoreboard] This player count shows at the bottom of the scoreboard, i.e. '1 Player'",
+		"locations": [],
+		"translation": "oyuncu",
+		"machine": true
+	},
+	{
+		"phrase": "Click outside or press escape to close",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom when the cursor has been unlocked",
+		"locations": [],
+		"translation": "Kapatmak için dışarıyı tıklayın veya kaçış tuşuna basın",
+		"machine": true
+	},
+	{
+		"phrase": "Hold",
+		"context": null,
+		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
+		"locations": [],
+		"translation": "Tutmak",
+		"machine": true
+	},
+	{
+		"phrase": "To unlock the cursor",
+		"context": null,
+		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
+		"locations": [],
+		"translation": "İmlecin kilidini açmak için",
+		"machine": true
+	},
+	{
+		"phrase": "Spectator",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
+		"locations": [],
+		"translation": "seyirci",
+		"machine": true
+	},
+	{
+		"phrase": "Spectators",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Spectators'",
+		"locations": [],
+		"translation": "Seyirciler",
+		"machine": true
+	},
+	{
+		"phrase": "Player joining",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Player joining'",
+		"locations": [],
+		"translation": "Oyuncu katılıyor",
+		"machine": true
+	},
+	{
+		"phrase": "Players joining",
+		"context": null,
+		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Players joining'",
+		"locations": [],
+		"translation": "Katılan oyuncular",
+		"machine": true
+	},
+	{
+		"phrase": "Balance the teams",
+		"context": null,
+		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
+		"locations": [],
+		"translation": "Takımları dengeleyin",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Quarter",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Doku kalitesi: çeyrek",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Half",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Doku kalitesi: yarım",
+		"machine": true
+	},
+	{
+		"phrase": "Texture Quality: Full",
+		"context": null,
+		"comment": "[Setting] [Slider] Texture quality setting",
+		"locations": [],
+		"translation": "Doku kalitesi: tam",
+		"machine": true
+	},
+	{
+		"phrase": "Minimap Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]'",
+		"locations": [],
+		"translation": "Mini harita devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Player Names Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Oyuncu adları devre dışı bırakıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Peacekeeper Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Barış Muhafızı devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Bloom Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Bloom devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "SSAO Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "SSAO devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Chat Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Sohbet devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Chat Timeout: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Sohbet zaman aşımı: sonsuz",
+		"machine": true
+	},
+	{
+		"phrase": "Max Chunk Updates: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Maksimum yığın güncellemeleri: sonsuz",
+		"machine": true
+	},
+	{
+		"phrase": "Max Lights: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Maksimum ışıklar: sonsuz",
+		"machine": true
+	},
+	{
+		"phrase": "Max FPS: Uncapped",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Maksimum FPS: sınırsız",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplates Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "İsim levhaları devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Nameplate Distance: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "İsim plakası mesafesi: sonsuz",
+		"machine": true
+	},
+	{
+		"phrase": "Pings Disabled",
+		"context": null,
+		"comment": "[Setting] [Slider] [Minimum Value]",
+		"locations": [],
+		"translation": "Pingler devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Max Ping Distance: Infinite",
+		"context": null,
+		"comment": "[Setting] [Slider] [Maximum Value]",
+		"locations": [],
+		"translation": "Maksimum ping mesafesi: sonsuz",
+		"machine": true
+	},
+	{
+		"phrase": "You have left the party",
+		"context": null,
+		"comment": "[Social Sidebar] [Message] This message shows at the top of the social sidebar when you leave a party",
+		"locations": [],
+		"translation": "partiden ayrıldın",
+		"machine": true
+	},
+	{
+		"phrase": "Notification",
+		"context": null,
+		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
+		"locations": [],
+		"translation": "Bildiri",
+		"machine": true
+	},
+	{
+		"phrase": "Notifications",
+		"context": null,
+		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
+		"locations": [],
+		"translation": "Bildirimler",
+		"machine": true
+	},
+	{
+		"phrase": "Party",
+		"context": null,
+		"comment": "[Social Sidebar] Party labe. The full phrase is 'Party: 2 \/ 4'",
+		"locations": [],
+		"translation": "Parti",
+		"machine": true
+	},
+	{
+		"phrase": "Online",
+		"context": null,
+		"comment": "[Social Sidebar] Online friends label. The full phrase is 'Party: 2 \/ 4'",
+		"locations": [],
+		"translation": "İnternet üzerinden",
+		"machine": true
+	},
+	{
+		"phrase": "Click to edit",
+		"context": null,
+		"comment": "[Text Field] Placeholder text when editing a new loadout name",
+		"locations": [],
+		"translation": "Düzenlemek için tıkla",
+		"machine": true
+	},
+	{
+		"phrase": "No title",
+		"context": null,
+		"comment": "[Killcam UI] [Button] Click this button to unequip your title",
+		"locations": [],
+		"translation": "Başlık yok",
+		"machine": true
+	},
+	{
+		"phrase": "No tags",
+		"context": null,
+		"comment": "[Killcam UI] [Button] Click this button to unequip your tag",
+		"locations": [],
+		"translation": "Etiketsiz",
+		"machine": true
+	},
+	{
+		"phrase": "Retrieving transaction list",
+		"context": null,
+		"comment": "[Transaction Log] Loading text",
+		"locations": [],
+		"translation": "İşlem listesi alınıyor",
+		"machine": true
+	},
+	{
+		"phrase": "No transactions",
+		"context": null,
+		"comment": "[Transaction Log] There are no transactions in this list",
+		"locations": [],
+		"translation": "İşlem yok",
+		"machine": true
+	},
+	{
+		"phrase": "Token",
+		"context": null,
+		"comment": "[Transaction Log] This weapon skin was unlocked with a weapon skin token. The full phrase is: '1 Token'",
+		"locations": [],
+		"translation": "Jeton",
+		"machine": true
+	},
+	{
+		"phrase": "Tokens",
+		"context": null,
+		"comment": "[Transaction Log] This weapon skin was unlocked with multiple weapon skin tokens. The full phrase is: '2 Tokens'",
+		"locations": [],
+		"translation": "Jetonlar",
+		"machine": true
+	},
+	{
+		"phrase": "Incomplete",
+		"context": null,
+		"comment": "[Trials] This text shows when you haven't completed this trial yet",
+		"locations": [],
+		"translation": "eksik",
+		"machine": true
+	},
+	{
+		"phrase": "Leaderboard",
+		"context": null,
+		"comment": "[Trials] [Title]",
+		"locations": [],
+		"translation": "Liderler Sıralaması",
+		"machine": true
+	},
+	{
+		"phrase": "Restart",
+		"context": null,
+		"comment": "[Trials] [Button] Click this button to restart the trial",
+		"locations": [],
+		"translation": "Tekrar başlat",
+		"machine": true
+	},
+	{
+		"phrase": "Trials list",
+		"context": null,
+		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
+		"locations": [],
+		"translation": "deneme listesi",
+		"machine": true
+	},
+	{
+		"phrase": "Trial",
+		"context": null,
+		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
+		"locations": [],
+		"translation": "Duruşma",
+		"machine": true
+	},
+	{
+		"phrase": "Medals",
+		"context": null,
+		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
+		"locations": [],
+		"translation": "Madalyalar",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Platinum: 4:750'",
+		"locations": [],
+		"translation": "Platin",
+		"machine": true
+	},
+	{
+		"phrase": "Gold",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Gold: 4:750'",
+		"locations": [],
+		"translation": "Altın",
+		"machine": true
+	},
+	{
+		"phrase": "Silver",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial, e.g. 'Silver: 4:750'",
+		"locations": [],
+		"translation": "Gümüş",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze",
+		"context": null,
+		"comment": "[Trial] [Medal Name] This text is in the medal list for this trial,  e.g. 'Bronze: 4:750'",
+		"locations": [],
+		"translation": "Bronz",
+		"machine": true
+	},
+	{
+		"phrase": "Last attempt",
+		"context": "Previous attempt",
+		"comment": "[Trial] [Title] The full phrase is: 'Last attempt: 5:223'",
+		"locations": [],
+		"translation": "Son deneme",
+		"machine": true
+	},
+	{
+		"phrase": "Saving time",
+		"context": "Storing time",
+		"comment": "[Trial] [Loading Text] This text shows when your trial time is being saved",
+		"locations": [],
+		"translation": "Zaman kazanmak",
+		"machine": true
+	},
+	{
+		"phrase": "Time saved",
+		"context": "Time stored",
+		"comment": "[Trial] [Loading Text] This text shows when your trial time has been saved",
+		"locations": [],
+		"translation": "Kaydedilen zaman",
+		"machine": true
+	},
+	{
+		"phrase": "Best time",
+		"context": "Fastest time",
+		"comment": "[Trial] This text shows next to your best time for this trial, e.g. 'Best time: 4:873'",
+		"locations": [],
+		"translation": "En iyi zaman",
+		"machine": true
+	},
+	{
+		"phrase": "Rewards",
+		"context": null,
+		"comment": "[Trial] [Title] This text shows above the rewards you earned for completing this trial",
+		"locations": [],
+		"translation": "Ödüller",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh Leaderboards",
+		"context": "Refresh the Leaderboards",
+		"comment": "[Trials] [Button] Refresh the leaderboards by pressing this button",
+		"locations": [],
+		"translation": "Skor tablolarını yenile",
+		"machine": true
+	},
+	{
+		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
+		"context": null,
+		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Denemelerde bina ve kazma becerilerinizi geliştirin!\nProton kazanmak ve kamera unvanlarını öldürmek için her denemeyi belirtilen süre içinde tamamlayın.\nulaşmak ",
+		"machine": true
+	},
+	{
+		"phrase": "Yellow",
+		"context": null,
+		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Sarı",
+		"machine": true
+	},
+	{
+		"phrase": "Platform to win, avoid touching the",
+		"context": null,
+		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Kazanmak için platform, dokunmaktan kaçının",
+		"machine": true
+	},
+	{
+		"phrase": "Red",
+		"context": null,
+		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "kırmızı",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks and build off the",
+		"context": null,
+		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Bloklar ve inşa",
+		"machine": true
+	},
+	{
+		"phrase": "Purple",
+		"context": null,
+		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"locations": [],
+		"translation": "Mor",
+		"machine": true
+	},
+	{
+		"phrase": "Leaderboards are updated every 30 seconds.",
+		"context": null,
+		"comment": "[Trials] Leaderboard description",
+		"locations": [],
+		"translation": "Lider tabloları her 30 saniyede bir güncellenir.",
+		"machine": true
+	},
+	{
+		"phrase": "\nLoading personal times and leaderboards",
+		"context": null,
+		"comment": "[Trials] Text that shows while loading the leaderboard",
+		"locations": [],
+		"translation": "\nKişisel zamanlar ve skor tabloları yükleniyor",
+		"machine": true
+	},
+	{
+		"phrase": "You have automatically voted no as you are the target",
+		"context": null,
+		"comment": "[Votekick] This text appears when you are being votekicked",
+		"locations": [],
+		"translation": "Hedef siz olduğunuz için otomatik olarak hayır oyu verdiniz",
+		"machine": true
+	},
+	{
+		"phrase": "Vote yes",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F1] Vote yes'",
+		"locations": [],
+		"translation": "evet oyu",
+		"machine": true
+	},
+	{
+		"phrase": "Vote no",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F2] Vote no'",
+		"locations": [],
+		"translation": "Oy yok",
+		"machine": true
+	},
+	{
+		"phrase": "Ignore",
+		"context": null,
+		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F3] Ignore'",
+		"locations": [],
+		"translation": "Aldırmamak",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"context": null,
+		"comment": "[Unlock Button] This text shows when unlocking a weapon skin",
+		"locations": [],
+		"translation": "Kilit açma",
+		"machine": true
+	},
+	{
+		"phrase": "Engineer Pack",
+		"context": null,
+		"comment": "[Unlock Button] If the user HASN'T purchased the Engineer Pack, this text is shown on the unlock button for the Agaman Engineer",
+		"locations": [],
+		"translation": "mühendis paketi",
+		"machine": true
+	},
+	{
+		"phrase": "Supporter",
+		"context": null,
+		"comment": "[Unlock Button] If the user HASN'T purchased the Supporter Pack, this text is shown on the unlock button for the Human Renegade",
+		"locations": [],
+		"translation": "Destekçi",
+		"machine": true
+	},
+	{
+		"phrase": "1 Token",
+		"context": null,
+		"comment": "[Unlock Button] If the user HAS a character token, this text is shown on the unlock button for the Human Renegade",
+		"locations": [],
+		"translation": "1 Jeton",
+		"machine": true
+	},
+	{
+		"phrase": "1 Skin Token",
+		"context": null,
+		"comment": "[Unlock Button] This text shows on the unlock button for the Grid weapon skin",
+		"locations": [],
+		"translation": "1 Görünüm Simgesi",
+		"machine": true
+	},
+	{
+		"phrase": "Locked",
+		"context": null,
+		"comment": "[Unlock Button] This character can't be unlocked yet as the player isn't a high enough level",
+		"locations": [],
+		"translation": "Kilitli",
 		"machine": true
 	}
 ]
