@@ -7052,5 +7052,41 @@
 		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
 		"translation": "Все вехи достигнуты!",
 		"machine": true
+	},
+	{
+		"phrase": "Passworded",
+		"comment": "[Server Listing] [Claimed Lobby] This server is passworded",
+		"translation": "Пароль",
+		"machine": true
+	},
+	{
+		"phrase": "Level range",
+		"comment": "[Server Listing] [Claimed Lobby] The min and max level of this server, e.g. 'Level range: 30-60;",
+		"translation": "Диапазон уровней",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing",
+		"comment": "[Server Listing] [Claimed Lobby] Autobalancing is enabled in this lobby",
+		"translation": "Автобалансировка",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal",
+		"comment": "[Server Listing] [Claimed Lobby] Eternal mode is enabled in this lobby",
+		"translation": "Вечный",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer",
+		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
+		"translation": "Трейлер",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox",
+		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
+		"translation": "Песочница",
+		"machine": true
 	}
 ]

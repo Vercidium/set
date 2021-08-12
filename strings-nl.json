@@ -7301,5 +7301,41 @@
 		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
 		"translation": "Alle mijlpalen bereikt!",
 		"machine": true
+	},
+	{
+		"phrase": "Passworded",
+		"comment": "[Server Listing] [Claimed Lobby] This server is passworded",
+		"translation": "Met wachtwoord",
+		"machine": true
+	},
+	{
+		"phrase": "Level range",
+		"comment": "[Server Listing] [Claimed Lobby] The min and max level of this server, e.g. 'Level range: 30-60;",
+		"translation": "Niveaubereik",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing",
+		"comment": "[Server Listing] [Claimed Lobby] Autobalancing is enabled in this lobby",
+		"translation": "Automatisch balanceren",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal",
+		"comment": "[Server Listing] [Claimed Lobby] Eternal mode is enabled in this lobby",
+		"translation": "Eeuwig",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer",
+		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
+		"translation": "Aanhangwagen",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox",
+		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
+		"translation": "Zandbak",
+		"machine": true
 	}
 ]
