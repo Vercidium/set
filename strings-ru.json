@@ -78,7 +78,7 @@
 	},
 	{
 		"phrase": "Saviour",
-		"comment": "[Killcam Tag] [Saviour Points]",
+		"comment": "[Progression Name]",
 		"translation": "Спасение"
 	},
 	{
@@ -550,12 +550,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Compressor",
-		"comment": "Barrel attachment name",
-		"translation": "Компрессор",
-		"machine": true
-	},
-	{
 		"phrase": "Default",
 		"comment": "Barrel attachment name",
 		"translation": "Стандартный"
@@ -592,7 +586,7 @@
 	},
 	{
 		"phrase": "Angled",
-		"comment": "Foregrip attachment name",
+		"comment": "Attachment name",
 		"translation": "Угловой",
 		"machine": true
 	},
@@ -688,7 +682,7 @@
 	},
 	{
 		"phrase": "Base",
-		"comment": "Stock attachment name",
+		"comment": "Loader attachment name",
 		"translation": "Основание",
 		"machine": true
 	},
@@ -1798,13 +1792,13 @@
 	},
 	{
 		"phrase": "Assists",
-		"comment": "[Player Statistic] Amount of assists received in-game",
+		"comment": "[Progression Name]",
 		"translation": "Помогает",
 		"machine": true
 	},
 	{
 		"phrase": "Headshots",
-		"comment": "[Player Statistic] Amount of players killed with a headshot",
+		"comment": "[Progression Name]",
 		"translation": "Выстрелы в голову",
 		"machine": true
 	},
@@ -2259,7 +2253,7 @@
 	},
 	{
 		"phrase": "Magazine",
-		"comment": "e.g. +1 Magazine when picking up an ammo bonus",
+		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the ammo magazine, not a magazine you read",
 		"translation": "Магазин"
 	},
 	{
@@ -2338,12 +2332,12 @@
 	},
 	{
 		"phrase": "Minimum level",
-		"comment": "[Claim Window] [Number Field] Players below the Minimum Level cannot join this lobby",
+		"comment": "[Lobby Claim UI] [Number Field]",
 		"translation": "Минимальный уровень"
 	},
 	{
 		"phrase": "Maximum level",
-		"comment": "[Claim Window] [Number Field] Players above the Maximum Level cannot join this lobby",
+		"comment": "[Lobby Claim UI] [Number Field]",
 		"translation": "Максимальный уровень"
 	},
 	{
@@ -2444,7 +2438,7 @@
 	},
 	{
 		"phrase": "Password Protected",
-		"comment": "[Lobby Claim UI] [Info Text]",
+		"comment": "[Lobby Claim UI] Toggles whether this server is password protected",
 		"translation": "Пароль защищен",
 		"machine": true
 	},
@@ -2784,31 +2778,37 @@
 	},
 	{
 		"phrase": "Recoil",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Отдача",
 		"machine": true
 	},
 	{
 		"phrase": "Stationary recoil",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Стационарная отдача",
 		"machine": true
 	},
 	{
 		"phrase": "Holster time",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Время кобуры",
 		"machine": true
 	},
 	{
 		"phrase": "ADS time",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Время ADS",
 		"machine": true
 	},
 	{
 		"phrase": "Initial recoil",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Начальная отдача",
 		"machine": true
 	},
 	{
 		"phrase": "Shot recoil ramp",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Рампа отдачи при выстреле",
 		"machine": true
 	},
@@ -2824,6 +2824,7 @@
 	},
 	{
 		"phrase": "Projectile speed",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Скорость снаряда",
 		"machine": true
 	},
@@ -2835,17 +2836,19 @@
 	},
 	{
 		"phrase": "Minimap invisibility",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Невидимость на миникарте",
 		"machine": true
 	},
 	{
 		"phrase": "Pellets",
-		"comment": "[Loadout] [Unit] [Plural] Amount of projectiles created by a shotgun",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Пеллеты",
 		"machine": true
 	},
 	{
 		"phrase": "Pellet spread",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Пеллетный спред",
 		"machine": true
 	},
@@ -2857,73 +2860,85 @@
 	},
 	{
 		"phrase": "Rounds",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Раундов",
 		"machine": true
 	},
 	{
 		"phrase": "Player damage (body)",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Повреждение игрока (тело)",
 		"machine": true
 	},
 	{
 		"phrase": "Player damage (head)",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Урон игрока (голова)",
 		"machine": true
 	},
 	{
 		"phrase": "Block damage",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Блокировать урон",
 		"machine": true
 	},
 	{
 		"phrase": "RPM",
-		"comment": "[Unit] [Abbreviation] Abbreviation of 'Rounds Per Minute'. If an abbreviation is not available, please translate the full phrase",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Об \/ мин",
 		"machine": true
 	},
 	{
 		"phrase": "Pellet count",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Количество пеллет",
 		"machine": true
 	},
 	{
 		"phrase": "Damages through blocks and players",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Повреждения через блоки и игроков",
 		"machine": true
 	},
 	{
 		"phrase": "Bounces 3 times",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Отскакивает 3 раза",
 		"machine": true
 	},
 	{
 		"phrase": "Choke time",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Время дросселирования",
 		"machine": true
 	},
 	{
 		"phrase": "Choked spread",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Задушенный спред",
 		"machine": true
 	},
 	{
 		"phrase": "Choke resets when firing",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Дроссель сбрасывается при стрельбе",
 		"machine": true
 	},
 	{
 		"phrase": "Welded choke",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Сварной дроссель",
 		"machine": true
 	},
 	{
 		"phrase": "Automatic fire",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Автоматический огонь",
 		"machine": true
 	},
 	{
 		"phrase": "Stats",
-		"comment": "[Victory Screen] [Navigation] View your personal match statistics",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Статистика",
 		"machine": true
 	},
@@ -5601,7 +5616,7 @@
 	},
 	{
 		"phrase": "e.g. spaghetti",
-		"comment": "[Password Window] [Text Field] [Placeholder]",
+		"comment": "[Lobby Claim UI] [Text Field] [Placeholder] Please translate this delicious food",
 		"translation": "например, спагетти",
 		"machine": true
 	},
@@ -5730,7 +5745,7 @@
 	},
 	{
 		"phrase": "Add Friend",
-		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
 		"translation": "Добавить друга",
 		"machine": true
 	},
@@ -6011,7 +6026,7 @@
 	},
 	{
 		"phrase": "Online",
-		"comment": "[Social Sidebar] Online friends label. The full phrase is 'Party: 2 \/ 4'",
+		"comment": "[Social Sidebar] Placeholder friend status",
 		"translation": "Онлайн"
 	},
 	{
@@ -6200,7 +6215,7 @@
 	},
 	{
 		"phrase": "Unlocking",
-		"comment": "[Unlock Button] This text shows when unlocking a weapon skin",
+		"comment": "[Weapon Skin] [Button]",
 		"translation": "Разблокировка",
 		"machine": true
 	},
@@ -6458,7 +6473,7 @@
 	},
 	{
 		"phrase": "Dig speed",
-		"comment": "[Loadouts] Loadout characteristic",
+		"comment": "[Unit] How fast the Midi can dig blocks, e.g. '+15% Dig speed'",
 		"translation": "Скорость копания",
 		"machine": true
 	},
@@ -7087,6 +7102,1042 @@
 		"phrase": "Sandbox",
 		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
 		"translation": "Песочница",
+		"machine": true
+	},
+	{
+		"phrase": "Vertical",
+		"comment": "Loader attachment name",
+		"translation": "Вертикальный",
+		"machine": true
+	},
+	{
+		"phrase": "Multi-Orb",
+		"comment": "Core attachment name",
+		"translation": "Мульти-сфера",
+		"machine": true
+	},
+	{
+		"phrase": "Camo",
+		"context": "Camouflage",
+		"comment": "[Character Screen] [Colour Picker Label] [Abbreviation] Abbreviation of 'camouflage'",
+		"translation": "Камуфляж",
+		"machine": true
+	},
+	{
+		"phrase": "a friend",
+		"comment": "[Social Sidebar] Placeholder text, i.e. Invitation sent to a friend",
+		"translation": "друг",
+		"machine": true
+	},
+	{
+		"phrase": "Party invitation sent to",
+		"comment": "[Social Sidebar] Notification text. The full phrase is: 'Party invitation sent to Peygahreaux'",
+		"translation": "Приглашение на вечеринку отправлено на адрес",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to invite",
+		"comment": "[Social Sidebar] [1\/2] Notification text. The full phrase is: 'Failed to invite Peygahreaux to the party'",
+		"translation": "Не удалось пригласить",
+		"machine": true
+	},
+	{
+		"phrase": "To the party",
+		"comment": "[Social Sidebar] [2\/2] Notification text. The full phrase is: 'Failed to invite Peygahreaux to the party'",
+		"translation": "На вечеринку",
+		"machine": true
+	},
+	{
+		"phrase": "You have been kicked from the lobby",
+		"comment": "[Social Sidebar] Notification text",
+		"translation": "Вас выгнали из вестибюля",
+		"machine": true
+	},
+	{
+		"phrase": "Has been kicked from the lobby",
+		"comment": "[Social Sidebar] Notification text. The full phrase is: 'Vhauss has been kicked from the lobby'",
+		"translation": "Был выгнан из вестибюля",
+		"machine": true
+	},
+	{
+		"phrase": "Has joined the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has joined the party",
+		"translation": "Присоединился к партии",
+		"machine": true
+	},
+	{
+		"phrase": "Has left the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has left the party",
+		"translation": "Покинул вечеринку",
+		"machine": true
+	},
+	{
+		"phrase": "Has disconnected and left the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has disconnected and left the party",
+		"translation": "Отключился и покинул вечеринку",
+		"machine": true
+	},
+	{
+		"phrase": "Has been kicked from the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has been kicked the party",
+		"translation": "Исключен с вечеринки",
+		"machine": true
+	},
+	{
+		"phrase": "Has been banned from the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has been banned the party",
+		"translation": "Был забанен на вечеринке",
+		"machine": true
+	},
+	{
+		"phrase": "You have joined a party of",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: 'You have joined a party of 4'",
+		"translation": "Вы присоединились к группе",
+		"machine": true
+	},
+	{
+		"phrase": "The party no longer exists",
+		"comment": "[Social Sidebar] [Notification]",
+		"translation": "Партия больше не существует",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to join the party (full)",
+		"comment": "[Social Sidebar] [Notification]",
+		"translation": "Невозможно присоединиться к вечеринке (полная)",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to join the party",
+		"comment": "[Social Sidebar] [Notification]",
+		"translation": "Не удалось присоединиться к вечеринке",
+		"machine": true
+	},
+	{
+		"phrase": "Has invited you to their party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: 'Peygahreaux has invited you to their party'",
+		"translation": "Пригласил вас на свою вечеринку",
+		"machine": true
+	},
+	{
+		"phrase": "Fire rate",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Скорострельность",
+		"machine": true
+	},
+	{
+		"phrase": "SILICON-VALLEY",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СИЛИКОНОВАЯ ДОЛИНА",
+		"machine": true
+	},
+	{
+		"phrase": "FREMONT",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ФРЕМОНТ",
+		"machine": true
+	},
+	{
+		"phrase": "SEATTLE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "Сиэтл",
+		"machine": true
+	},
+	{
+		"phrase": "LOS-ANGELES",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ЛОС-АНДЖЕЛЕС",
+		"machine": true
+	},
+	{
+		"phrase": "VINT-HILL",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ВИНТ-ХИЛЛ",
+		"machine": true
+	},
+	{
+		"phrase": "HILLSBORO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ХИЛЛСБОРО",
+		"machine": true
+	},
+	{
+		"phrase": "CHICAGO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ЧИКАГО",
+		"machine": true
+	},
+	{
+		"phrase": "DALLAS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ДАЛЛАС",
+		"machine": true
+	},
+	{
+		"phrase": "NEWARK",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "NEWARK",
+		"machine": true
+	},
+	{
+		"phrase": "MIAMI",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "МАЙАМИ",
+		"machine": true
+	},
+	{
+		"phrase": "ATLANTA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "АТЛАНТА",
+		"machine": true
+	},
+	{
+		"phrase": "NEW-JERSEY",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "НЬЮ-ДЖЕРСИ",
+		"machine": true
+	},
+	{
+		"phrase": "SAN-FRANCISCO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "САН-ФРАНЦИСКО",
+		"machine": true
+	},
+	{
+		"phrase": "ASHBURN",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ЭШБЕРН",
+		"machine": true
+	},
+	{
+		"phrase": "TORONTO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ТОРОНТО",
+		"machine": true
+	},
+	{
+		"phrase": "BEAUHARNOIS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "БОАРНУА",
+		"machine": true
+	},
+	{
+		"phrase": "LONDON",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ЛОНДОН",
+		"machine": true
+	},
+	{
+		"phrase": "PARIS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ПАРИЖ",
+		"machine": true
+	},
+	{
+		"phrase": "GRAVELINES",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ГРАВИНЫ",
+		"machine": true
+	},
+	{
+		"phrase": "STRASBOURG",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СТРАСБУРГ",
+		"machine": true
+	},
+	{
+		"phrase": "AMSTERDAM",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "АМСТЕРДАМ",
+		"machine": true
+	},
+	{
+		"phrase": "FRANKFURT",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "Франкфурт",
+		"machine": true
+	},
+	{
+		"phrase": "ATHENS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "АФИНЫ",
+		"machine": true
+	},
+	{
+		"phrase": "STOCKHOLM",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СТОКГОЛЬМ",
+		"machine": true
+	},
+	{
+		"phrase": "HELSINKI",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ХЕЛЬСИНКИ",
+		"machine": true
+	},
+	{
+		"phrase": "SYDNEY",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СИДНЕЙ",
+		"machine": true
+	},
+	{
+		"phrase": "MELBOURNE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "МЕЛЬБУРН",
+		"machine": true
+	},
+	{
+		"phrase": "PERTH",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ПЕРТ",
+		"machine": true
+	},
+	{
+		"phrase": "SINGAPORE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СИНГАПУР",
+		"machine": true
+	},
+	{
+		"phrase": "MUMBAI",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ВАМБАЙ",
+		"machine": true
+	},
+	{
+		"phrase": "BANGALORE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "БАНГАЛОР",
+		"machine": true
+	},
+	{
+		"phrase": "TOKYO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ТОКИО",
+		"machine": true
+	},
+	{
+		"phrase": "SEOUL",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СЕУЛ",
+		"machine": true
+	},
+	{
+		"phrase": "WARSAW",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ВАРШАВА",
+		"machine": true
+	},
+	{
+		"phrase": "MOSCOW",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "МОСКВА",
+		"machine": true
+	},
+	{
+		"phrase": "YEKATERINBURG",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ЕКАТЕРИНБУРГ",
+		"machine": true
+	},
+	{
+		"phrase": "TEL-AVIV",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ТЕЛЬ-АВИВ",
+		"machine": true
+	},
+	{
+		"phrase": "SAO-PAULO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SAO-PAULO",
+		"machine": true
+	},
+	{
+		"phrase": "ADELAIDE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "АДЕЛАИДА",
+		"machine": true
+	},
+	{
+		"phrase": "BOGOTA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "БОГОТА",
+		"machine": true
+	},
+	{
+		"phrase": "BRISBANE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "БРИСБАН",
+		"machine": true
+	},
+	{
+		"phrase": "CALGARY",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "КАЛГАРИЯ",
+		"machine": true
+	},
+	{
+		"phrase": "CANBERRA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "КАНБЕРРА",
+		"machine": true
+	},
+	{
+		"phrase": "DENVER",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ДЕНВЕР",
+		"machine": true
+	},
+	{
+		"phrase": "DUBAI",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ДУБАЙ",
+		"machine": true
+	},
+	{
+		"phrase": "DUBLIN",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ДУБЛИН",
+		"machine": true
+	},
+	{
+		"phrase": "GENEVA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ЖЕНЕВА",
+		"machine": true
+	},
+	{
+		"phrase": "HONG-KONG",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ГОНКОНГ",
+		"machine": true
+	},
+	{
+		"phrase": "ISTANBUL",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СТАМБУЛ",
+		"machine": true
+	},
+	{
+		"phrase": "JAKARTA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ДЖАКАРТА",
+		"machine": true
+	},
+	{
+		"phrase": "KAMLOOPS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "КАМЛУПС",
+		"machine": true
+	},
+	{
+		"phrase": "MANCHESTER",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "МАНЧЕСТЕР",
+		"machine": true
+	},
+	{
+		"phrase": "MILAN",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "МИЛАН",
+		"machine": true
+	},
+	{
+		"phrase": "MONTREAL",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "МОНРЕАЛЬ",
+		"machine": true
+	},
+	{
+		"phrase": "MUNICH",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "МЮНХЕН",
+		"machine": true
+	},
+	{
+		"phrase": "MUSCAT",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MUSCAT",
+		"machine": true
+	},
+	{
+		"phrase": "OSAKA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ОСАКА",
+		"machine": true
+	},
+	{
+		"phrase": "RIO-DE-JANEIRO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "РИО ДЕ ЖАНЕЙРО",
+		"machine": true
+	},
+	{
+		"phrase": "SAINT-JOHN",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СЕНТ-ИОАНН",
+		"machine": true
+	},
+	{
+		"phrase": "SOFIA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "СОФИЯ",
+		"machine": true
+	},
+	{
+		"phrase": "WINNIPEG",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ВИННИПЕГ",
+		"machine": true
+	},
+	{
+		"phrase": "ZURICH",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ЦЮРИХ",
+		"machine": true
+	},
+	{
+		"phrase": "Server",
+		"comment": "[Server Listing] Placeholder server name",
+		"translation": "Сервер",
+		"machine": true
+	},
+	{
+		"phrase": "Slot 1",
+		"comment": "[Loadout] First weapon\/equipment slot",
+		"translation": "Слот 1",
+		"machine": true
+	},
+	{
+		"phrase": "Slot 2",
+		"comment": "[Loadout] Second weapon\/equipment slot",
+		"translation": "Слот 2",
+		"machine": true
+	},
+	{
+		"phrase": "Slot 3",
+		"comment": "[Loadout] Third weapon\/equipment slot",
+		"translation": "Слот 3",
+		"machine": true
+	},
+	{
+		"phrase": "Small canister",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Маленькая канистра",
+		"machine": true
+	},
+	{
+		"phrase": "Medium canister",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Средняя канистра",
+		"machine": true
+	},
+	{
+		"phrase": "Large canister",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Большая канистра",
+		"machine": true
+	},
+	{
+		"phrase": "Block strength",
+		"comment": "[Unit] How much health a block has, e.g. '20 Block strength'",
+		"translation": "Сила блока",
+		"machine": true
+	},
+	{
+		"phrase": "Basic core",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Базовое ядро",
+		"machine": true
+	},
+	{
+		"phrase": "Ion core",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Ионное ядро",
+		"machine": true
+	},
+	{
+		"phrase": "Proto core",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Proto core",
+		"machine": true
+	},
+	{
+		"phrase": "Block reach",
+		"comment": "[Unit] How far the midi can build\/dig, e.g. '14 Block reach'",
+		"translation": "Блокировать охват",
+		"machine": true
+	},
+	{
+		"phrase": "No amplifier",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Без усилителя",
+		"machine": true
+	},
+	{
+		"phrase": "Field amplifier",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Усилитель поля",
+		"machine": true
+	},
+	{
+		"phrase": "Extended amplifier",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Расширенный усилитель",
+		"machine": true
+	},
+	{
+		"phrase": "Build cooldown",
+		"comment": "[Unit] The amount of time between structure placements, e.g. '-40% Build cooldown'",
+		"translation": "Перезарядка сборки",
+		"machine": true
+	},
+	{
+		"phrase": "No cooling",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Без охлаждения",
+		"machine": true
+	},
+	{
+		"phrase": "Vented cooling",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Вентилируемое охлаждение",
+		"machine": true
+	},
+	{
+		"phrase": "Boosted cooling",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Усиленное охлаждение",
+		"machine": true
+	},
+	{
+		"phrase": "Basic servo",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Базовый сервопривод",
+		"machine": true
+	},
+	{
+		"phrase": "Power servo",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Сервопривод",
+		"machine": true
+	},
+	{
+		"phrase": "Turbo servo",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Турбо сервопривод",
+		"machine": true
+	},
+	{
+		"phrase": "Basic rail",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Базовый рельс",
+		"machine": true
+	},
+	{
+		"phrase": "Quad rail",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Квадратный рельс",
+		"machine": true
+	},
+	{
+		"phrase": "Warped rail",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Деформированный рельс",
+		"machine": true
+	},
+	{
+		"phrase": "X Gather rate",
+		"comment": "[Unit] How many blocks the Midi collects when digging. The full phase is: '3X Gather rate'",
+		"translation": "X скорость сбора",
+		"machine": true
+	},
+	{
+		"phrase": "Base collector",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Базовый коллектор",
+		"machine": true
+	},
+	{
+		"phrase": "Medium collector",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Средний коллекционер",
+		"machine": true
+	},
+	{
+		"phrase": "Efficient collector",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Эффективный коллектор",
+		"machine": true
+	},
+	{
+		"phrase": "Crosshair",
+		"comment": "[Sight UI] Crosshair colour picker",
+		"translation": "Перекрестие",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire",
+		"comment": "[Sight UI] Crosshair colour picker",
+		"translation": "Пожар",
+		"machine": true
+	},
+	{
+		"phrase": "Trim colour",
+		"comment": "[Skin UI] [Label] Colour picker label",
+		"translation": "Цвет отделки",
+		"machine": true
+	},
+	{
+		"phrase": "Skin colour",
+		"comment": "[Skin UI] [Label] Colour picker label",
+		"translation": "Цвет кожи",
+		"machine": true
+	},
+	{
+		"phrase": "Highlight colour",
+		"comment": "[Skin UI] [Label] Colour picker label",
+		"translation": "Цвет выделения",
+		"machine": true
+	},
+	{
+		"phrase": "Presets",
+		"comment": "[Weapon] [Button] Clicking this button takes the user to the preset list for this weapon",
+		"translation": "Предустановки",
+		"machine": true
+	},
+	{
+		"phrase": "Attachments",
+		"comment": "[Weapons] [Button] Customisation category button",
+		"translation": "Вложения",
+		"machine": true
+	},
+	{
+		"phrase": "Sights",
+		"comment": "[Weapons] [Button] Customisation category button",
+		"translation": "Достопримечательности",
+		"machine": true
+	},
+	{
+		"phrase": "Cosmetic",
+		"comment": "[Weapons] [Button] Customisation category button",
+		"translation": "Косметический",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon List",
+		"comment": "[Weapon UI] [Title] This text shows in the top left above the list of weapon categories",
+		"translation": "Список оружия",
+		"machine": true
+	},
+	{
+		"phrase": "Canister",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects block capacity",
+		"translation": "Канистра",
+		"machine": true
+	},
+	{
+		"phrase": "Core",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects block strength",
+		"translation": "Основной",
+		"machine": true
+	},
+	{
+		"phrase": "Generator",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects build and dig reach",
+		"translation": "Генератор",
+		"machine": true
+	},
+	{
+		"phrase": "Cooling",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects the structure placement cooldown",
+		"translation": "Охлаждение",
+		"machine": true
+	},
+	{
+		"phrase": "Servo",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects dig speed",
+		"translation": "Сервопривод",
+		"machine": true
+	},
+	{
+		"phrase": "Rail",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects dig power",
+		"translation": "Железнодорожный",
+		"machine": true
+	},
+	{
+		"phrase": "Collector",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects how many blocks are harvested when digging",
+		"translation": "Коллектор",
+		"machine": true
+	},
+	{
+		"phrase": "Loader",
+		"comment": "[Attachment UI] [Label] Attachment category name. This affects Combat Shotgun pump-action speed",
+		"translation": "Загрузчик",
+		"machine": true
+	},
+	{
+		"phrase": "Ammunition",
+		"comment": "[Attachment UI] [Label] Attachment category name. Ammunition types are buckshot, slug, ricochet, etc",
+		"translation": "Боеприпасы",
+		"machine": true
+	},
+	{
+		"phrase": "Payload",
+		"comment": "[Attachment UI] [Label] Attachment category name. Payload types are explosive, incendiary, etc",
+		"translation": "Полезная нагрузка",
+		"machine": true
+	},
+	{
+		"phrase": "Trigger",
+		"comment": "[Attachment UI] [Label] Attachment category name. This affects the Revolver firing speed",
+		"translation": "Спусковой крючок",
+		"machine": true
+	},
+	{
+		"phrase": "Click to unlock",
+		"comment": "[Weapon Skin] [Button]",
+		"translation": "Нажмите, чтобы разблокировать",
+		"machine": true
+	},
+	{
+		"phrase": "Enable autobalancing",
+		"comment": "[Lobby Claim UI] [Checkbox] Toggles whether autobalancing is enabled",
+		"translation": "Включить автобалансировку",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal match",
+		"comment": "[Lobby Claim UI] [Checkbox] Toggles whether the match will run forever",
+		"translation": "Вечный матч",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode",
+		"comment": "[Lobby Claim UI] [Checkbox] Toggles Trailer Mode, where players have instant respawns and infinite ammo",
+		"translation": "Режим прицепа",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode",
+		"comment": "[Lobby Claim UI] [Checkbox] Toggles Sandbox Mode, where players take no damage and weapons have no cooldown",
+		"translation": "Режим песочницы",
+		"machine": true
+	},
+	{
+		"phrase": "H",
+		"context": "Hue",
+		"comment": "[Colour Slider] [Abbreviation] First letter of 'Hue'. If the HSL colour space is a global term, please set translation to 'H'",
+		"translation": "ЧАС",
+		"machine": true
+	},
+	{
+		"phrase": "S",
+		"context": "Saturation",
+		"comment": "[Colour Slider] [Abbreviation] First letter of 'Saturation'. If the HSL colour space is a global term, please set translation to 'S'",
+		"translation": "S",
+		"machine": true
+	},
+	{
+		"phrase": "L",
+		"context": "Lightness",
+		"comment": "[Colour Slider] [Abbreviation] First letter of 'Lightness'. If the HSL colour space is a global term, please set translation to 'L'",
+		"translation": "L",
+		"machine": true
+	},
+	{
+		"phrase": "Invite to Party",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Пригласить на вечеринку",
+		"machine": true
+	},
+	{
+		"phrase": "Remove from Party",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Снять с вечеринки",
+		"machine": true
+	},
+	{
+		"phrase": "Join Match",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Присоединиться к матчу",
+		"machine": true
+	},
+	{
+		"phrase": "Invite to Match",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Пригласить на матч",
+		"machine": true
+	},
+	{
+		"phrase": "View Profile",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Просмотреть профиль",
+		"machine": true
+	},
+	{
+		"phrase": "Message",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Сообщение",
+		"machine": true
+	},
+	{
+		"phrase": "Match invitation sent to",
+		"comment": "[Social Sidebar] The full phrase is: 'Match invitation sent to Peygahreaux'",
+		"translation": "Приглашение на матч отправлено на адрес",
+		"machine": true
+	},
+	{
+		"phrase": "To the match",
+		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
+		"translation": "На матч",
+		"machine": true
+	},
+	{
+		"phrase": "Friend",
+		"comment": "[Social Sidebar] Placeholder friend name",
+		"translation": "Друг",
+		"machine": true
+	},
+	{
+		"phrase": "No Tag",
+		"comment": "[Killcam] [Button] The user clicks this button to unequip their killcam tag",
+		"translation": "Без тега",
+		"machine": true
+	},
+	{
+		"phrase": "No Title",
+		"comment": "[Killcam] [Button] The user clicks this button to unequip their killcam title",
+		"translation": "Без названия",
+		"machine": true
+	},
+	{
+		"phrase": "Joining",
+		"comment": "[Party Invite] This text shows when joining a party",
+		"translation": "Присоединение",
+		"machine": true
+	},
+	{
+		"phrase": "Slots left",
+		"comment": "[Party Invite] The full phrase is: '1\/4 Slots left'",
+		"translation": "Слотов осталось",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a",
+		"comment": "[Party Banner] [1\/2] The full phrase is: 'Your party has joined a Salvage match on UK-LONDON-1'",
+		"translation": "Ваша партия присоединилась к",
+		"machine": true
+	},
+	{
+		"phrase": "Match on",
+		"comment": "[Party Banner] [2\/2] The full phrase is: 'Your party has joined a Salvage match on UK-LONDON-1'",
+		"translation": "Матч на",
+		"machine": true
+	},
+	{
+		"phrase": "In-game now",
+		"comment": "[Party Banner] This text shows if you're in the same server as a friend",
+		"translation": "В игре сейчас",
+		"machine": true
+	},
+	{
+		"phrase": "Click to join",
+		"comment": "[Social Sidebar] [Button] Click this button to join your friends server",
+		"translation": "Нажмите, чтобы присоединиться",
+		"machine": true
+	},
+	{
+		"phrase": "Joining in",
+		"comment": "[Party Banner] The full phrase is: 'Joining in 10 seconds'",
+		"translation": "Присоединение к",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon",
+		"comment": "[Progression UI] Placeholder text",
+		"translation": "Оружие",
+		"machine": true
+	},
+	{
+		"phrase": "Directs",
+		"comment": "[Progression Name] Explosive direct kills",
+		"translation": "Направляет",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner Assists",
+		"comment": "[Progression Name]",
+		"translation": "Сканер помогает",
+		"machine": true
+	},
+	{
+		"phrase": "Defence",
+		"comment": "[Progression Name]",
+		"translation": "Оборона",
+		"machine": true
+	},
+	{
+		"phrase": "Offence",
+		"comment": "[Progression Name]",
+		"translation": "Нападение",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb Delivery",
+		"comment": "[Progression Name]",
+		"translation": "Доставка бомбы",
+		"machine": true
+	},
+	{
+		"phrase": "Spot Assists",
+		"comment": "[Progression Name]",
+		"translation": "Точечные передачи",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"comment": "[Unit]",
+		"translation": "Доставка",
+		"machine": true
+	},
+	{
+		"phrase": "Deliveries",
+		"comment": "[Unit] [Plural]",
+		"translation": "Доставка",
+		"machine": true
+	},
+	{
+		"phrase": "Spot Assist",
+		"comment": "[Unit]",
+		"translation": "Точечная помощь",
+		"machine": true
+	},
+	{
+		"phrase": "Saves",
+		"comment": "[Unit] [Plural] sUnit for the Saviour progression, e.g. '+5 Saves', or 'My friend saves lizards from being eaten by wolfs for a living'",
+		"translation": "Сохраняет",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"comment": "[Unit] Unit for the Avenger progression, e.g. '+1 Avenge', or 'I'm going to avenge my friend'",
+		"translation": "Avenge",
+		"machine": true
+	},
+	{
+		"phrase": "Avenges",
+		"comment": "[Unit] [Plural] Unit for the Avenger progression, e.g. '+12 Avenges', or 'He avenges his brother who was killed by Thanos'",
+		"translation": "Avenges",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner Assist",
+		"comment": "[Unit]",
+		"translation": "Сканер помощь",
 		"machine": true
 	}
 ]

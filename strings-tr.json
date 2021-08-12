@@ -537,11 +537,6 @@
 		"translation": "Namlu kısıcı"
 	},
 	{
-		"phrase": "Compressor",
-		"comment": "Barrel attachment name",
-		"translation": "Namlu sıkıştırıcı"
-	},
-	{
 		"phrase": "Default",
 		"comment": "Barrel attachment name",
 		"translation": "Varsayılan"
@@ -578,7 +573,7 @@
 	},
 	{
 		"phrase": "Angled",
-		"comment": "Foregrip attachment name",
+		"comment": "Attachment name",
 		"translation": "Açılı"
 	},
 	{
@@ -678,7 +673,7 @@
 	},
 	{
 		"phrase": "Base",
-		"comment": "Stock attachment name",
+		"comment": "Loader attachment name",
 		"translation": "Temel"
 	},
 	{
@@ -2896,7 +2891,7 @@
 	},
 	{
 		"phrase": "Assists",
-		"comment": "[Player Statistic] Amount of assists received in-game",
+		"comment": "[Progression Name]",
 		"translation": "asist",
 		"machine": true
 	},
@@ -2908,7 +2903,7 @@
 	},
 	{
 		"phrase": "Headshots",
-		"comment": "[Player Statistic] Amount of players killed with a headshot",
+		"comment": "[Progression Name]",
 		"translation": "Kafa vuruşları",
 		"machine": true
 	},
@@ -3478,7 +3473,7 @@
 	},
 	{
 		"phrase": "Magazine",
-		"comment": "e.g. +1 Magazine when picking up an ammo bonus",
+		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the ammo magazine, not a magazine you read",
 		"translation": "dergi",
 		"machine": true
 	},
@@ -3556,31 +3551,37 @@
 	},
 	{
 		"phrase": "Recoil",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "geri tepme",
 		"machine": true
 	},
 	{
 		"phrase": "Stationary recoil",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Sabit geri tepme",
 		"machine": true
 	},
 	{
 		"phrase": "Holster time",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "kılıf süresi",
 		"machine": true
 	},
 	{
 		"phrase": "ADS time",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "reklam zamanı",
 		"machine": true
 	},
 	{
 		"phrase": "Initial recoil",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "İlk geri tepme",
 		"machine": true
 	},
 	{
 		"phrase": "Shot recoil ramp",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "atış geri tepme rampası",
 		"machine": true
 	},
@@ -3596,22 +3597,25 @@
 	},
 	{
 		"phrase": "Projectile speed",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "mermi hızı",
 		"machine": true
 	},
 	{
 		"phrase": "Minimap invisibility",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Mini harita görünmezliği",
 		"machine": true
 	},
 	{
 		"phrase": "Pellets",
-		"comment": "[Loadout] [Unit] [Plural] Amount of projectiles created by a shotgun",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "peletler",
 		"machine": true
 	},
 	{
 		"phrase": "Pellet spread",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Pelet yayılması",
 		"machine": true
 	},
@@ -3623,73 +3627,85 @@
 	},
 	{
 		"phrase": "Rounds",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "mermi",
 		"machine": true
 	},
 	{
 		"phrase": "Player damage (body)",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Oyuncu hasarı (vücut)",
 		"machine": true
 	},
 	{
 		"phrase": "Player damage (head)",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Oyuncu hasarı (kafa)",
 		"machine": true
 	},
 	{
 		"phrase": "Block damage",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Hasarı engelle",
 		"machine": true
 	},
 	{
 		"phrase": "RPM",
-		"comment": "[Unit] [Abbreviation] Abbreviation of 'Rounds Per Minute'. If an abbreviation is not available, please translate the full phrase",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "devir",
 		"machine": true
 	},
 	{
 		"phrase": "Pellet count",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "pelet sayısı",
 		"machine": true
 	},
 	{
 		"phrase": "Damages through blocks and players",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Bloklar ve oyunculardan kaynaklanan hasarlar",
 		"machine": true
 	},
 	{
 		"phrase": "Bounces 3 times",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "3 kez zıplar",
 		"machine": true
 	},
 	{
 		"phrase": "Choke time",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "boğulma zamanı",
 		"machine": true
 	},
 	{
 		"phrase": "Choked spread",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "boğulmuş yayılma",
 		"machine": true
 	},
 	{
 		"phrase": "Choke resets when firing",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Ateş ederken jikle sıfırlanır",
 		"machine": true
 	},
 	{
 		"phrase": "Welded choke",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "kaynaklı jikle",
 		"machine": true
 	},
 	{
 		"phrase": "Automatic fire",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Otomatik ateş",
 		"machine": true
 	},
 	{
 		"phrase": "Stats",
-		"comment": "[Victory Screen] [Navigation] View your personal match statistics",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "İstatistikler",
 		"machine": true
 	},
@@ -4421,7 +4437,7 @@
 	},
 	{
 		"phrase": "Saviour",
-		"comment": "[Killcam Tag] [Saviour Points]",
+		"comment": "[Progression Name]",
 		"translation": "kurtarıcı",
 		"machine": true
 	},
@@ -4481,13 +4497,13 @@
 	},
 	{
 		"phrase": "Minimum level",
-		"comment": "[Claim Window] [Number Field] Players below the Minimum Level cannot join this lobby",
+		"comment": "[Lobby Claim UI] [Number Field]",
 		"translation": "Asgari seviye",
 		"machine": true
 	},
 	{
 		"phrase": "Maximum level",
-		"comment": "[Claim Window] [Number Field] Players above the Maximum Level cannot join this lobby",
+		"comment": "[Lobby Claim UI] [Number Field]",
 		"translation": "Maksimum seviye",
 		"machine": true
 	},
@@ -4595,7 +4611,7 @@
 	},
 	{
 		"phrase": "Password Protected",
-		"comment": "[Lobby Claim UI] [Info Text]",
+		"comment": "[Lobby Claim UI] Toggles whether this server is password protected",
 		"translation": "Şifre korumalı",
 		"machine": true
 	},
@@ -5287,7 +5303,7 @@
 	},
 	{
 		"phrase": "e.g. spaghetti",
-		"comment": "[Password Window] [Text Field] [Placeholder]",
+		"comment": "[Lobby Claim UI] [Text Field] [Placeholder] Please translate this delicious food",
 		"translation": "örneğin spagetti",
 		"machine": true
 	},
@@ -5416,7 +5432,7 @@
 	},
 	{
 		"phrase": "Add Friend",
-		"comment": "[Scoreboard] [Player Dropdown] [Button]",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
 		"translation": "Arkadaş Ekle",
 		"machine": true
 	},
@@ -5699,7 +5715,7 @@
 	},
 	{
 		"phrase": "Online",
-		"comment": "[Social Sidebar] Online friends label. The full phrase is 'Party: 2 \/ 4'",
+		"comment": "[Social Sidebar] Placeholder friend status",
 		"translation": "İnternet üzerinden",
 		"machine": true
 	},
@@ -5920,7 +5936,7 @@
 	},
 	{
 		"phrase": "Unlocking",
-		"comment": "[Unlock Button] This text shows when unlocking a weapon skin",
+		"comment": "[Weapon Skin] [Button]",
 		"translation": "Kilit açma",
 		"machine": true
 	},
@@ -6178,7 +6194,7 @@
 	},
 	{
 		"phrase": "Dig speed",
-		"comment": "[Loadouts] Loadout characteristic",
+		"comment": "[Unit] How fast the Midi can dig blocks, e.g. '+15% Dig speed'",
 		"translation": "kazma hızı",
 		"machine": true
 	},
@@ -6807,6 +6823,1042 @@
 		"phrase": "Sandbox",
 		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
 		"translation": "Kum havuzu",
+		"machine": true
+	},
+	{
+		"phrase": "Vertical",
+		"comment": "Loader attachment name",
+		"translation": "Dikey",
+		"machine": true
+	},
+	{
+		"phrase": "Multi-Orb",
+		"comment": "Core attachment name",
+		"translation": "çok küre",
+		"machine": true
+	},
+	{
+		"phrase": "Camo",
+		"context": "Camouflage",
+		"comment": "[Character Screen] [Colour Picker Label] [Abbreviation] Abbreviation of 'camouflage'",
+		"translation": "kamuflaj",
+		"machine": true
+	},
+	{
+		"phrase": "a friend",
+		"comment": "[Social Sidebar] Placeholder text, i.e. Invitation sent to a friend",
+		"translation": "bir arkadaş",
+		"machine": true
+	},
+	{
+		"phrase": "Party invitation sent to",
+		"comment": "[Social Sidebar] Notification text. The full phrase is: 'Party invitation sent to Peygahreaux'",
+		"translation": "Parti davetiyesi gönderildi",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to invite",
+		"comment": "[Social Sidebar] [1\/2] Notification text. The full phrase is: 'Failed to invite Peygahreaux to the party'",
+		"translation": "davet edilemedi",
+		"machine": true
+	},
+	{
+		"phrase": "To the party",
+		"comment": "[Social Sidebar] [2\/2] Notification text. The full phrase is: 'Failed to invite Peygahreaux to the party'",
+		"translation": "Partiye",
+		"machine": true
+	},
+	{
+		"phrase": "You have been kicked from the lobby",
+		"comment": "[Social Sidebar] Notification text",
+		"translation": "Lobiden atıldınız",
+		"machine": true
+	},
+	{
+		"phrase": "Has been kicked from the lobby",
+		"comment": "[Social Sidebar] Notification text. The full phrase is: 'Vhauss has been kicked from the lobby'",
+		"translation": "Lobiden atıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Has joined the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has joined the party",
+		"translation": "Partiye katıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Has left the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has left the party",
+		"translation": "partiden ayrıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Has disconnected and left the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has disconnected and left the party",
+		"translation": "Bağlantıyı kesti ve partiden ayrıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Has been kicked from the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has been kicked the party",
+		"translation": "Partiden atıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Has been banned from the party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has been banned the party",
+		"translation": "Partiden yasaklandı",
+		"machine": true
+	},
+	{
+		"phrase": "You have joined a party of",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: 'You have joined a party of 4'",
+		"translation": "bir partiye katıldınız",
+		"machine": true
+	},
+	{
+		"phrase": "The party no longer exists",
+		"comment": "[Social Sidebar] [Notification]",
+		"translation": "Parti artık yok",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to join the party (full)",
+		"comment": "[Social Sidebar] [Notification]",
+		"translation": "Partiye katılamıyor (tam)",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to join the party",
+		"comment": "[Social Sidebar] [Notification]",
+		"translation": "Partiye katılamadı",
+		"machine": true
+	},
+	{
+		"phrase": "Has invited you to their party",
+		"comment": "[Social Sidebar] [Notification] The full phrase is: 'Peygahreaux has invited you to their party'",
+		"translation": "Seni partisine davet etti",
+		"machine": true
+	},
+	{
+		"phrase": "Fire rate",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Yangın hızı",
+		"machine": true
+	},
+	{
+		"phrase": "SILICON-VALLEY",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SİLİKON VADİSİ",
+		"machine": true
+	},
+	{
+		"phrase": "FREMONT",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "FREMONT",
+		"machine": true
+	},
+	{
+		"phrase": "SEATTLE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SEATTLE",
+		"machine": true
+	},
+	{
+		"phrase": "LOS-ANGELES",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "LOS-ANGELES",
+		"machine": true
+	},
+	{
+		"phrase": "VINT-HILL",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "VINT-TEPE",
+		"machine": true
+	},
+	{
+		"phrase": "HILLSBORO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "HILLSBORO",
+		"machine": true
+	},
+	{
+		"phrase": "CHICAGO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "CHİCAGO",
+		"machine": true
+	},
+	{
+		"phrase": "DALLAS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "DALLAS",
+		"machine": true
+	},
+	{
+		"phrase": "NEWARK",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "YENİARK",
+		"machine": true
+	},
+	{
+		"phrase": "MIAMI",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "Miami",
+		"machine": true
+	},
+	{
+		"phrase": "ATLANTA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ATLANTA",
+		"machine": true
+	},
+	{
+		"phrase": "NEW-JERSEY",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "NEW JERSEY",
+		"machine": true
+	},
+	{
+		"phrase": "SAN-FRANCISCO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SAN FRANCİSCO",
+		"machine": true
+	},
+	{
+		"phrase": "ASHBURN",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ASHBURN",
+		"machine": true
+	},
+	{
+		"phrase": "TORONTO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "TORONTO",
+		"machine": true
+	},
+	{
+		"phrase": "BEAUHARNOIS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "BEAUHARNOIS",
+		"machine": true
+	},
+	{
+		"phrase": "LONDON",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "LONDRA",
+		"machine": true
+	},
+	{
+		"phrase": "PARIS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "PARİS",
+		"machine": true
+	},
+	{
+		"phrase": "GRAVELINES",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "TAŞLAR",
+		"machine": true
+	},
+	{
+		"phrase": "STRASBOURG",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "STRAZBURG",
+		"machine": true
+	},
+	{
+		"phrase": "AMSTERDAM",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "AMSTERDAM",
+		"machine": true
+	},
+	{
+		"phrase": "FRANKFURT",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "FRANKFURT",
+		"machine": true
+	},
+	{
+		"phrase": "ATHENS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ATİNA",
+		"machine": true
+	},
+	{
+		"phrase": "STOCKHOLM",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "Stockholm",
+		"machine": true
+	},
+	{
+		"phrase": "HELSINKI",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "helsinki",
+		"machine": true
+	},
+	{
+		"phrase": "SYDNEY",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SİDNEY",
+		"machine": true
+	},
+	{
+		"phrase": "MELBOURNE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MELBOURNE",
+		"machine": true
+	},
+	{
+		"phrase": "PERTH",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "PERTH",
+		"machine": true
+	},
+	{
+		"phrase": "SINGAPORE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SİNGAPUR",
+		"machine": true
+	},
+	{
+		"phrase": "MUMBAI",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MUMBAI",
+		"machine": true
+	},
+	{
+		"phrase": "BANGALORE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "bangalore",
+		"machine": true
+	},
+	{
+		"phrase": "TOKYO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "TOKYO",
+		"machine": true
+	},
+	{
+		"phrase": "SEOUL",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SEUL",
+		"machine": true
+	},
+	{
+		"phrase": "WARSAW",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "VARŞOVA",
+		"machine": true
+	},
+	{
+		"phrase": "MOSCOW",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MOSKOVA",
+		"machine": true
+	},
+	{
+		"phrase": "YEKATERINBURG",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "YEKATERİNBURG",
+		"machine": true
+	},
+	{
+		"phrase": "TEL-AVIV",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "TEL AVİV",
+		"machine": true
+	},
+	{
+		"phrase": "SAO-PAULO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SAO-PAULO",
+		"machine": true
+	},
+	{
+		"phrase": "ADELAIDE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ADELAİDE",
+		"machine": true
+	},
+	{
+		"phrase": "BOGOTA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "BOGOTA",
+		"machine": true
+	},
+	{
+		"phrase": "BRISBANE",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "brisbane",
+		"machine": true
+	},
+	{
+		"phrase": "CALGARY",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "KALGARİ",
+		"machine": true
+	},
+	{
+		"phrase": "CANBERRA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "CANBERRA",
+		"machine": true
+	},
+	{
+		"phrase": "DENVER",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "DENVER",
+		"machine": true
+	},
+	{
+		"phrase": "DUBAI",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "DUBAİ",
+		"machine": true
+	},
+	{
+		"phrase": "DUBLIN",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "DUBLİN",
+		"machine": true
+	},
+	{
+		"phrase": "GENEVA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "CENEVRE",
+		"machine": true
+	},
+	{
+		"phrase": "HONG-KONG",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "HONG-KONG",
+		"machine": true
+	},
+	{
+		"phrase": "ISTANBUL",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "İSTANBUL",
+		"machine": true
+	},
+	{
+		"phrase": "JAKARTA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "JAKARTA",
+		"machine": true
+	},
+	{
+		"phrase": "KAMLOOPS",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "KAMLOOPS",
+		"machine": true
+	},
+	{
+		"phrase": "MANCHESTER",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MANCHESTER",
+		"machine": true
+	},
+	{
+		"phrase": "MILAN",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MİLANO",
+		"machine": true
+	},
+	{
+		"phrase": "MONTREAL",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MONTREAL",
+		"machine": true
+	},
+	{
+		"phrase": "MUNICH",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MÜNİH",
+		"machine": true
+	},
+	{
+		"phrase": "MUSCAT",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "MUSCAT",
+		"machine": true
+	},
+	{
+		"phrase": "OSAKA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "OSAKA",
+		"machine": true
+	},
+	{
+		"phrase": "RIO-DE-JANEIRO",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "RIO-DE-JANEIRO",
+		"machine": true
+	},
+	{
+		"phrase": "SAINT-JOHN",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SAINT JOHN",
+		"machine": true
+	},
+	{
+		"phrase": "SOFIA",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "SOFYA",
+		"machine": true
+	},
+	{
+		"phrase": "WINNIPEG",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "WINNIPEG",
+		"machine": true
+	},
+	{
+		"phrase": "ZURICH",
+		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
+		"translation": "ZÜRİH",
+		"machine": true
+	},
+	{
+		"phrase": "Server",
+		"comment": "[Server Listing] Placeholder server name",
+		"translation": "sunucu",
+		"machine": true
+	},
+	{
+		"phrase": "Slot 1",
+		"comment": "[Loadout] First weapon\/equipment slot",
+		"translation": "1. Bölme",
+		"machine": true
+	},
+	{
+		"phrase": "Slot 2",
+		"comment": "[Loadout] Second weapon\/equipment slot",
+		"translation": "2. yuva",
+		"machine": true
+	},
+	{
+		"phrase": "Slot 3",
+		"comment": "[Loadout] Third weapon\/equipment slot",
+		"translation": "yuva 3",
+		"machine": true
+	},
+	{
+		"phrase": "Small canister",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Küçük teneke kutu",
+		"machine": true
+	},
+	{
+		"phrase": "Medium canister",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Orta boy kutu",
+		"machine": true
+	},
+	{
+		"phrase": "Large canister",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Büyük teneke kutu",
+		"machine": true
+	},
+	{
+		"phrase": "Block strength",
+		"comment": "[Unit] How much health a block has, e.g. '20 Block strength'",
+		"translation": "Blok gücü",
+		"machine": true
+	},
+	{
+		"phrase": "Basic core",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Temel çekirdek",
+		"machine": true
+	},
+	{
+		"phrase": "Ion core",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "iyon çekirdeği",
+		"machine": true
+	},
+	{
+		"phrase": "Proto core",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "ön çekirdek",
+		"machine": true
+	},
+	{
+		"phrase": "Block reach",
+		"comment": "[Unit] How far the midi can build\/dig, e.g. '14 Block reach'",
+		"translation": "Erişimi engelle",
+		"machine": true
+	},
+	{
+		"phrase": "No amplifier",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Amplifikatör yok",
+		"machine": true
+	},
+	{
+		"phrase": "Field amplifier",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "alan yükseltici",
+		"machine": true
+	},
+	{
+		"phrase": "Extended amplifier",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Genişletilmiş amplifikatör",
+		"machine": true
+	},
+	{
+		"phrase": "Build cooldown",
+		"comment": "[Unit] The amount of time between structure placements, e.g. '-40% Build cooldown'",
+		"translation": "Bekleme süresi oluşturun",
+		"machine": true
+	},
+	{
+		"phrase": "No cooling",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Soğutma yok",
+		"machine": true
+	},
+	{
+		"phrase": "Vented cooling",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "havalandırmalı soğutma",
+		"machine": true
+	},
+	{
+		"phrase": "Boosted cooling",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Artırılmış soğutma",
+		"machine": true
+	},
+	{
+		"phrase": "Basic servo",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Temel servo",
+		"machine": true
+	},
+	{
+		"phrase": "Power servo",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Güç servosu",
+		"machine": true
+	},
+	{
+		"phrase": "Turbo servo",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "turbo servo",
+		"machine": true
+	},
+	{
+		"phrase": "Basic rail",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Temel ray",
+		"machine": true
+	},
+	{
+		"phrase": "Quad rail",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Dört raylı",
+		"machine": true
+	},
+	{
+		"phrase": "Warped rail",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "çarpık ray",
+		"machine": true
+	},
+	{
+		"phrase": "X Gather rate",
+		"comment": "[Unit] How many blocks the Midi collects when digging. The full phase is: '3X Gather rate'",
+		"translation": "X toplama oranı",
+		"machine": true
+	},
+	{
+		"phrase": "Base collector",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Baz toplayıcı",
+		"machine": true
+	},
+	{
+		"phrase": "Medium collector",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "orta toplayıcı",
+		"machine": true
+	},
+	{
+		"phrase": "Efficient collector",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "verimli toplayıcı",
+		"machine": true
+	},
+	{
+		"phrase": "Crosshair",
+		"comment": "[Sight UI] Crosshair colour picker",
+		"translation": "artı işareti",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire",
+		"comment": "[Sight UI] Crosshair colour picker",
+		"translation": "hipfire",
+		"machine": true
+	},
+	{
+		"phrase": "Trim colour",
+		"comment": "[Skin UI] [Label] Colour picker label",
+		"translation": "kırpma rengi",
+		"machine": true
+	},
+	{
+		"phrase": "Skin colour",
+		"comment": "[Skin UI] [Label] Colour picker label",
+		"translation": "Ten rengi",
+		"machine": true
+	},
+	{
+		"phrase": "Highlight colour",
+		"comment": "[Skin UI] [Label] Colour picker label",
+		"translation": "Vurgu rengi",
+		"machine": true
+	},
+	{
+		"phrase": "Presets",
+		"comment": "[Weapon] [Button] Clicking this button takes the user to the preset list for this weapon",
+		"translation": "Ön ayarlar",
+		"machine": true
+	},
+	{
+		"phrase": "Attachments",
+		"comment": "[Weapons] [Button] Customisation category button",
+		"translation": "ekler",
+		"machine": true
+	},
+	{
+		"phrase": "Sights",
+		"comment": "[Weapons] [Button] Customisation category button",
+		"translation": "Görülecek yerler",
+		"machine": true
+	},
+	{
+		"phrase": "Cosmetic",
+		"comment": "[Weapons] [Button] Customisation category button",
+		"translation": "Kozmetik",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon List",
+		"comment": "[Weapon UI] [Title] This text shows in the top left above the list of weapon categories",
+		"translation": "silah listesi",
+		"machine": true
+	},
+	{
+		"phrase": "Canister",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects block capacity",
+		"translation": "teneke kutu",
+		"machine": true
+	},
+	{
+		"phrase": "Core",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects block strength",
+		"translation": "Çekirdek",
+		"machine": true
+	},
+	{
+		"phrase": "Generator",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects build and dig reach",
+		"translation": "Jeneratör",
+		"machine": true
+	},
+	{
+		"phrase": "Cooling",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects the structure placement cooldown",
+		"translation": "Soğutma",
+		"machine": true
+	},
+	{
+		"phrase": "Servo",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects dig speed",
+		"translation": "Servo",
+		"machine": true
+	},
+	{
+		"phrase": "Rail",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects dig power",
+		"translation": "Demiryolu",
+		"machine": true
+	},
+	{
+		"phrase": "Collector",
+		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects how many blocks are harvested when digging",
+		"translation": "Kolektör",
+		"machine": true
+	},
+	{
+		"phrase": "Loader",
+		"comment": "[Attachment UI] [Label] Attachment category name. This affects Combat Shotgun pump-action speed",
+		"translation": "yükleyici",
+		"machine": true
+	},
+	{
+		"phrase": "Ammunition",
+		"comment": "[Attachment UI] [Label] Attachment category name. Ammunition types are buckshot, slug, ricochet, etc",
+		"translation": "mühimmat",
+		"machine": true
+	},
+	{
+		"phrase": "Payload",
+		"comment": "[Attachment UI] [Label] Attachment category name. Payload types are explosive, incendiary, etc",
+		"translation": "yük",
+		"machine": true
+	},
+	{
+		"phrase": "Trigger",
+		"comment": "[Attachment UI] [Label] Attachment category name. This affects the Revolver firing speed",
+		"translation": "Tetiklemek",
+		"machine": true
+	},
+	{
+		"phrase": "Click to unlock",
+		"comment": "[Weapon Skin] [Button]",
+		"translation": "Kilidi açmak için tıklayın",
+		"machine": true
+	},
+	{
+		"phrase": "Enable autobalancing",
+		"comment": "[Lobby Claim UI] [Checkbox] Toggles whether autobalancing is enabled",
+		"translation": "Otomatik dengelemeyi etkinleştir",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal match",
+		"comment": "[Lobby Claim UI] [Checkbox] Toggles whether the match will run forever",
+		"translation": "sonsuz maç",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode",
+		"comment": "[Lobby Claim UI] [Checkbox] Toggles Trailer Mode, where players have instant respawns and infinite ammo",
+		"translation": "Fragman modu",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode",
+		"comment": "[Lobby Claim UI] [Checkbox] Toggles Sandbox Mode, where players take no damage and weapons have no cooldown",
+		"translation": "Korumalı alan modu",
+		"machine": true
+	},
+	{
+		"phrase": "H",
+		"context": "Hue",
+		"comment": "[Colour Slider] [Abbreviation] First letter of 'Hue'. If the HSL colour space is a global term, please set translation to 'H'",
+		"translation": "H",
+		"machine": true
+	},
+	{
+		"phrase": "S",
+		"context": "Saturation",
+		"comment": "[Colour Slider] [Abbreviation] First letter of 'Saturation'. If the HSL colour space is a global term, please set translation to 'S'",
+		"translation": "S",
+		"machine": true
+	},
+	{
+		"phrase": "L",
+		"context": "Lightness",
+		"comment": "[Colour Slider] [Abbreviation] First letter of 'Lightness'. If the HSL colour space is a global term, please set translation to 'L'",
+		"translation": "L",
+		"machine": true
+	},
+	{
+		"phrase": "Invite to Party",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Partiye davet",
+		"machine": true
+	},
+	{
+		"phrase": "Remove from Party",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Partiden kaldır",
+		"machine": true
+	},
+	{
+		"phrase": "Join Match",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Maça katıl",
+		"machine": true
+	},
+	{
+		"phrase": "Invite to Match",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Maça davet et",
+		"machine": true
+	},
+	{
+		"phrase": "View Profile",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "Profili Görüntüle",
+		"machine": true
+	},
+	{
+		"phrase": "Message",
+		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"translation": "İleti",
+		"machine": true
+	},
+	{
+		"phrase": "Match invitation sent to",
+		"comment": "[Social Sidebar] The full phrase is: 'Match invitation sent to Peygahreaux'",
+		"translation": "Maç davetiyesi gönderildi",
+		"machine": true
+	},
+	{
+		"phrase": "To the match",
+		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
+		"translation": "maça",
+		"machine": true
+	},
+	{
+		"phrase": "Friend",
+		"comment": "[Social Sidebar] Placeholder friend name",
+		"translation": "arkadaş",
+		"machine": true
+	},
+	{
+		"phrase": "No Tag",
+		"comment": "[Killcam] [Button] The user clicks this button to unequip their killcam tag",
+		"translation": "Etiket yok",
+		"machine": true
+	},
+	{
+		"phrase": "No Title",
+		"comment": "[Killcam] [Button] The user clicks this button to unequip their killcam title",
+		"translation": "Başlık yok",
+		"machine": true
+	},
+	{
+		"phrase": "Joining",
+		"comment": "[Party Invite] This text shows when joining a party",
+		"translation": "birleştirme",
+		"machine": true
+	},
+	{
+		"phrase": "Slots left",
+		"comment": "[Party Invite] The full phrase is: '1\/4 Slots left'",
+		"translation": "Soldaki yuvalar",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a",
+		"comment": "[Party Banner] [1\/2] The full phrase is: 'Your party has joined a Salvage match on UK-LONDON-1'",
+		"translation": "partiniz katıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Match on",
+		"comment": "[Party Banner] [2\/2] The full phrase is: 'Your party has joined a Salvage match on UK-LONDON-1'",
+		"translation": "Maç açık",
+		"machine": true
+	},
+	{
+		"phrase": "In-game now",
+		"comment": "[Party Banner] This text shows if you're in the same server as a friend",
+		"translation": "Şimdi oyun içi",
+		"machine": true
+	},
+	{
+		"phrase": "Click to join",
+		"comment": "[Social Sidebar] [Button] Click this button to join your friends server",
+		"translation": "Katılmak için tıklayın",
+		"machine": true
+	},
+	{
+		"phrase": "Joining in",
+		"comment": "[Party Banner] The full phrase is: 'Joining in 10 seconds'",
+		"translation": "Buna katılıyorum",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon",
+		"comment": "[Progression UI] Placeholder text",
+		"translation": "silah",
+		"machine": true
+	},
+	{
+		"phrase": "Directs",
+		"comment": "[Progression Name] Explosive direct kills",
+		"translation": "yönlendirir",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner Assists",
+		"comment": "[Progression Name]",
+		"translation": "Tarayıcı yardımcıları",
+		"machine": true
+	},
+	{
+		"phrase": "Defence",
+		"comment": "[Progression Name]",
+		"translation": "Savunma",
+		"machine": true
+	},
+	{
+		"phrase": "Offence",
+		"comment": "[Progression Name]",
+		"translation": "Suç",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb Delivery",
+		"comment": "[Progression Name]",
+		"translation": "Bomba teslimatı",
+		"machine": true
+	},
+	{
+		"phrase": "Spot Assists",
+		"comment": "[Progression Name]",
+		"translation": "Nokta asistleri",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"comment": "[Unit]",
+		"translation": "Teslimat",
+		"machine": true
+	},
+	{
+		"phrase": "Deliveries",
+		"comment": "[Unit] [Plural]",
+		"translation": "Teslimatlar",
+		"machine": true
+	},
+	{
+		"phrase": "Spot Assist",
+		"comment": "[Unit]",
+		"translation": "Nokta yardımı",
+		"machine": true
+	},
+	{
+		"phrase": "Saves",
+		"comment": "[Unit] [Plural] sUnit for the Saviour progression, e.g. '+5 Saves', or 'My friend saves lizards from being eaten by wolfs for a living'",
+		"translation": "kaydeder",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"comment": "[Unit] Unit for the Avenger progression, e.g. '+1 Avenge', or 'I'm going to avenge my friend'",
+		"translation": "intikam",
+		"machine": true
+	},
+	{
+		"phrase": "Avenges",
+		"comment": "[Unit] [Plural] Unit for the Avenger progression, e.g. '+12 Avenges', or 'He avenges his brother who was killed by Thanos'",
+		"translation": "intikamlar",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner Assist",
+		"comment": "[Unit]",
+		"translation": "Tarayıcı yardımı",
 		"machine": true
 	}
 ]
