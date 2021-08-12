@@ -185,7 +185,7 @@
 	{
 		"phrase": "Salvage",
 		"comment": "In-game point text",
-		"translation": "Подтверждение убийства"
+		"translation": "Спасение"
 	},
 	{
 		"phrase": "Round win",
@@ -626,14 +626,12 @@
 	{
 		"phrase": "Heavy",
 		"comment": "Ammo type name",
-		"translation": "Тяжелый",
-		"machine": true
+		"translation": "Тяжелое"
 	},
 	{
 		"phrase": "Light",
 		"comment": "Ammo type name",
-		"translation": "Свет",
-		"machine": true
+		"translation": "Световое"
 	},
 	{
 		"phrase": "Piercing",
@@ -728,32 +726,27 @@
 	{
 		"phrase": "Sniper",
 		"comment": "Weapon category name",
-		"translation": "Снайпер",
-		"machine": true
+		"translation": "Снайперские винтовки"
 	},
 	{
 		"phrase": "Rifle",
 		"comment": "Weapon category name",
-		"translation": "Винтовка",
-		"machine": true
+		"translation": "Винтовки"
 	},
 	{
 		"phrase": "SMG",
 		"comment": "Weapon category name",
-		"translation": "SMG",
-		"machine": true
+		"translation": "ПП"
 	},
 	{
 		"phrase": "Shotgun",
 		"comment": "Weapon category name",
-		"translation": "Дробовик",
-		"machine": true
+		"translation": "Дробовики"
 	},
 	{
 		"phrase": "Pistol",
 		"comment": "Weapon category name",
-		"translation": "Пистолет",
-		"machine": true
+		"translation": "Пистолеты"
 	},
 	{
 		"phrase": "Equipment",
@@ -1452,8 +1445,7 @@
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
 		"comment": "[Gamemode Info] Spire gamemode description",
-		"translation": "Начни с нуля и собирай оружие, чтобы уничтожить вражескую команду..",
-		"machine": true
+		"translation": "Начни с нуля и собирай оружие, чтобы уничтожить вражескую команду."
 	},
 	{
 		"phrase": "All players start with the same randomised loadout.",
@@ -2118,14 +2110,12 @@
 	{
 		"phrase": "To drop the flag",
 		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the flag'",
-		"translation": "Чтобы сбросить флаг",
-		"machine": true
+		"translation": "Чтобы бросить флаг"
 	},
 	{
 		"phrase": "To drop the bomb",
 		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the bomb'",
-		"translation": "Сбросить бомбу",
-		"machine": true
+		"translation": "Чтобы бросить бомбу"
 	},
 	{
 		"phrase": "Stage",
@@ -2135,8 +2125,7 @@
 	{
 		"phrase": "Cooldown",
 		"comment": "The time it takes for a structure to cooldown, e.g. '300ms Cooldown'. This text shows when looking at a structure in the ship",
-		"translation": "Остыть",
-		"machine": true
+		"translation": "Задержка"
 	},
 	{
 		"phrase": "Equip as primary",
@@ -2151,7 +2140,7 @@
 	{
 		"phrase": "Edit loadouts",
 		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Edit loadouts'",
-		"translation": "Измените снаряжение"
+		"translation": "Изменить снаряжение"
 	},
 	{
 		"phrase": "Modify a structure to continue",
@@ -2944,8 +2933,7 @@
 	{
 		"phrase": "Expert",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Expert",
-		"translation": "Эксперт",
-		"machine": true
+		"translation": "Эксперт"
 	},
 	{
 		"phrase": "Master",
@@ -2955,8 +2943,7 @@
 	{
 		"phrase": "Legend",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Legend",
-		"translation": "Легенда",
-		"machine": true
+		"translation": "Легенда"
 	},
 	{
 		"phrase": "Paragon",
@@ -3279,8 +3266,7 @@
 	{
 		"phrase": "Sensitivity",
 		"comment": "[Settings] [Button] Sidebar text",
-		"translation": "Чувствительность",
-		"machine": true
+		"translation": "Чувствительность"
 	},
 	{
 		"phrase": "Video",
@@ -3428,8 +3414,7 @@
 	{
 		"phrase": "Sensitivity Multiplies",
 		"comment": "[Setting] [Checkbox] When enabled, all ADS scoped values are multiplied by your look sensitivity",
-		"translation": "Чувствительность умножается",
-		"machine": true
+		"translation": "Множитель чувствительности"
 	},
 	{
 		"phrase": "Invert Y Axis",
@@ -5321,36 +5306,31 @@
 		"phrase": "ms",
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
-		"translation": "РС",
-		"machine": true
+		"translation": "мс"
 	},
 	{
 		"phrase": "Play a Match",
 		"context": "Play a Game",
 		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
-		"translation": "Сыграть матч",
-		"machine": true
+		"translation": "Сыграть матч"
 	},
 	{
 		"phrase": "Enter Trials",
 		"context": "Enter the Trials",
 		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
-		"translation": "Введите испытания",
-		"machine": true
+		"translation": "Выбор испытаний"
 	},
 	{
 		"phrase": "Replay Tutorial",
 		"context": "Replay the Tutorial",
 		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
-		"translation": "Воспроизвести руководство",
-		"machine": true
+		"translation": "Перезапустить обучение"
 	},
 	{
 		"phrase": "Reset Ship",
 		"context": "Reset the Ship",
 		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
-		"translation": "Сбросить корабль",
-		"machine": true
+		"translation": "Сбросить состояние корабля"
 	},
 	{
 		"phrase": "e.g. apples",
@@ -5373,32 +5353,27 @@
 	{
 		"phrase": "Title unlocked",
 		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
-		"translation": "Название разблокировано",
-		"machine": true
+		"translation": "Титул разблокировано"
 	},
 	{
 		"phrase": "Bronze medal",
 		"comment": "[Trial Reward]",
-		"translation": "Бронзовая медаль",
-		"machine": true
+		"translation": "Бронзовая медаль"
 	},
 	{
 		"phrase": "Silver medal",
 		"comment": "[Trial Reward]",
-		"translation": "Серебряная медаль",
-		"machine": true
+		"translation": "Серебряная медаль"
 	},
 	{
 		"phrase": "Gold medal",
 		"comment": "[Trial Reward]",
-		"translation": "Золотая медаль",
-		"machine": true
+		"translation": "Золотая медаль"
 	},
 	{
 		"phrase": "Platinum medal",
 		"comment": "[Trial Reward]",
-		"translation": "Платиновая медаль",
-		"machine": true
+		"translation": "Платиновая медаль"
 	},
 	{
 		"phrase": "To restart",
@@ -5735,8 +5710,7 @@
 		"phrase": "Invite to Party",
 		"context": "Invite to Group",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Пригласить на вечеринку",
-		"machine": true
+		"translation": "Пригласить в группу"
 	},
 	{
 		"phrase": "Invite Votekick",
@@ -5747,14 +5721,12 @@
 	{
 		"phrase": "Report Player",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Пожаловаться на игрока",
-		"machine": true
+		"translation": "Пожаловаться на игрока"
 	},
 	{
 		"phrase": "Mute Player",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Отключить проигрыватель",
-		"machine": true
+		"translation": "Отключить звук игрока"
 	},
 	{
 		"phrase": "Unmute Player",
@@ -5779,48 +5751,41 @@
 		"phrase": "P",
 		"context": "Points",
 		"comment": "[Scoreboard] [Column Header] Player points, please only include the first letter of the translation",
-		"translation": "п",
-		"machine": true
+		"translation": "P"
 	},
 	{
 		"phrase": "K",
 		"context": "Kills",
 		"comment": "[Scoreboard] [Column Header] Player kills, please only include the first letter of the translation",
-		"translation": "K",
-		"machine": true
+		"translation": "K"
 	},
 	{
 		"phrase": "D",
 		"context": "Deaths",
 		"comment": "[Scoreboard] [Column Header] Player deaths, please only include the first letter of the translation",
-		"translation": "D",
-		"machine": true
+		"translation": "D"
 	},
 	{
 		"phrase": "A",
 		"context": "Assists",
 		"comment": "[Scoreboard] [Column Header] Player assists, please only include the first letter of the translation",
-		"translation": "А",
-		"machine": true
+		"translation": "A"
 	},
 	{
 		"phrase": "MS",
 		"context": "Latency",
 		"comment": "[Scoreboard] [Column Header] Latency (ping), measured in milliseconds. Please set to MS if it is the most appropriate measurement for latency",
-		"translation": "РС",
-		"machine": true
+		"translation": "МС"
 	},
 	{
 		"phrase": "Server Full",
 		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is full",
-		"translation": "Сервер заполнен",
-		"machine": true
+		"translation": "Сервер заполнен"
 	},
 	{
 		"phrase": "Lobby Claimed",
 		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is claimed",
-		"translation": "Лобби заявлено",
-		"machine": true
+		"translation": "Лобби занято"
 	},
 	{
 		"phrase": "Player",
@@ -5849,14 +5814,12 @@
 	{
 		"phrase": "Spectator",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
-		"translation": "Зритель",
-		"machine": true
+		"translation": "Зритель"
 	},
 	{
 		"phrase": "Spectators",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Spectators'",
-		"translation": "Зрители",
-		"machine": true
+		"translation": "Зрителя"
 	},
 	{
 		"phrase": "Player joining",
@@ -5873,8 +5836,7 @@
 	{
 		"phrase": "Balance the teams",
 		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
-		"translation": "Сбалансируйте команды",
-		"machine": true
+		"translation": "Сбалансировать команды"
 	},
 	{
 		"phrase": "Texture Quality: Quarter",
@@ -6157,12 +6119,12 @@
 	{
 		"phrase": "Purple",
 		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "фиолетовых блоках"
+		"translation": "фиолетовых"
 	},
 	{
 		"phrase": "Leaderboards are updated every 30 seconds.",
 		"comment": "[Trials] Leaderboard description",
-		"translation": "Таблицы лидеров обновляются каждые 30 секунд.."
+		"translation": "Таблица лидеров обновляется каждые 30 секунд.."
 	},
 	{
 		"phrase": "\nLoading personal times and leaderboards",
@@ -6370,8 +6332,7 @@
 	{
 		"phrase": "Block capacity",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Емкость блока",
-		"machine": true
+		"translation": "Запас блоков"
 	},
 	{
 		"phrase": "Regeneration speed",
@@ -6656,8 +6617,7 @@
 	{
 		"phrase": "Sticky Grenades",
 		"comment": "[Loadout Summary] [Weapon Name]",
-		"translation": "Липкие гранаты",
-		"machine": true
+		"translation": "Липкие гранаты"
 	},
 	{
 		"phrase": "Player List",
@@ -6719,7 +6679,7 @@
 	{
 		"phrase": "Crashed Freighter",
 		"comment": "Map Name",
-		"translation": "Разбитое грузовое судно"
+		"translation": "Разбитый корабль"
 	},
 	{
 		"phrase": "Ice Station",
