@@ -2570,7 +2570,7 @@
 	},
 	{
 		"phrase": "Store",
-		"comment": "[Navigation] Change to the Store screen",
+		"comment": "[Store Screen] [Title]",
 		"translation": "Магазин"
 	},
 	{
@@ -5538,13 +5538,13 @@
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "Час",
 		"machine": true
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "Часы",
 		"machine": true
 	},
@@ -5604,7 +5604,7 @@
 	},
 	{
 		"phrase": "Quick play",
-		"comment": "[Button] This is the large button at the top of the server list",
+		"comment": "[Server List] [Button] Large quick play button at the top of the screen",
 		"translation": "Быстрая игра",
 		"machine": true
 	},
@@ -6768,6 +6768,234 @@
 		"phrase": "Weapons list",
 		"comment": "[Weapon Selector] [Title] When customising weapons, this is the title of the weapon selector on the left side of the screen",
 		"translation": "Список оружия",
+		"machine": true
+	},
+	{
+		"phrase": "Version",
+		"comment": "[Out of Date Banner] [1\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": "Версия",
+		"machine": true
+	},
+	{
+		"phrase": "has been released! Close the game and update through Steam",
+		"comment": "[Out of Date Banner] [2\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": "был выпущен! Закройте игру и обновите через Steam",
+		"machine": true
+	},
+	{
+		"phrase": "Player online",
+		"comment": "[Unit] The full phrase is: '1 Player online'",
+		"translation": "Игрок онлайн",
+		"machine": true
+	},
+	{
+		"phrase": "Players online",
+		"comment": "[Unit] The full phrase is: '99999 Players online'",
+		"translation": "Игроки онлайн",
+		"machine": true
+	},
+	{
+		"phrase": "Player in game",
+		"comment": "[Unit] The full phrase is: '1 Player in game'",
+		"translation": "Игрок в игре",
+		"machine": true
+	},
+	{
+		"phrase": "Players in game",
+		"comment": "[Unit] The full phrase is: '99999 Players in game'",
+		"translation": "Игроки в игре",
+		"machine": true
+	},
+	{
+		"phrase": "Matching server",
+		"comment": "[Unit] The full phrase is: '1 Matching server'",
+		"translation": "Соответствующий сервер",
+		"machine": true
+	},
+	{
+		"phrase": "Matching servers",
+		"comment": "[Unit] The full phrase is: '30 matching servers'",
+		"translation": "Соответствующие серверы",
+		"machine": true
+	},
+	{
+		"phrase": "Global stats",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": "Глобальная статистика",
+		"machine": true
+	},
+	{
+		"phrase": "Matchmaking results",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": "Результаты подбора игроков",
+		"machine": true
+	},
+	{
+		"phrase": "To join a Low Level Lobby, you must be < Level 20 or have < 0.5 KDR",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Чтобы присоединиться к низкоуровневому лобби, вы должны быть <20 уровня или иметь <0,5 KDR",
+		"machine": true
+	},
+	{
+		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Кто угодно может присоединиться к открытым лобби. щелкните правой кнопкой мыши пустое лобби, чтобы получить его.\nВы можете требовать только 3 вестибюля в день.",
+		"machine": true
+	},
+	{
+		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Чтобы создать собственное лобби, перейдите на вкладку открытого лобби и щелкните правой кнопкой мыши пустое лобби..",
+		"machine": true
+	},
+	{
+		"phrase": "Current version",
+		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
+		"translation": "Текущая версия",
+		"machine": true
+	},
+	{
+		"phrase": "Player capacity",
+		"comment": "[Server List] [Sidebar]. The full phrase is '300\/324 Player capacity'",
+		"translation": "Вместимость игрока",
+		"machine": true
+	},
+	{
+		"phrase": "Lowest ping",
+		"comment": "[Server List] [Sidebar]. The full phrase is '2ms Lowest ping'",
+		"translation": "Самый низкий пинг",
+		"machine": true
+	},
+	{
+		"phrase": "ms",
+		"comment": "[Unit] [Abbreviation] Abbreviation of milliseconds",
+		"translation": "РС",
+		"machine": true
+	},
+	{
+		"phrase": "Preferences",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
+		"translation": "Предпочтения",
+		"machine": true
+	},
+	{
+		"phrase": "Game Modes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"translation": "Режимы игры",
+		"machine": true
+	},
+	{
+		"phrase": "Regions",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"translation": "Регионы",
+		"machine": true
+	},
+	{
+		"phrase": "Open",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"translation": "Открыть",
+		"machine": true
+	},
+	{
+		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creato.\nClick here for more info!\nThis promotion ends in",
+		"comment": "[Store Screen]",
+		"translation": "Введите код создателя при оформлении заказа, чтобы сэкономить 10% и поддержать создание контента..\nНажмите здесь для дополнительной информации!\nЭта акция заканчивается через",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"comment": "[Unit] Measurement of time",
+		"translation": "День",
+		"machine": true
+	},
+	{
+		"phrase": "Days",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "Дни",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "Минуты",
+		"machine": true
+	},
+	{
+		"phrase": "Minutes",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "Минуты",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the base weapon skin colour",
+		"translation": "Цвет",
+		"machine": true
+	},
+	{
+		"phrase": "Highlight",
+		"comment": "[Colour Picker] [Title] This colour picker controls the accent colour of metallic skins",
+		"translation": "Выделять",
+		"machine": true
+	},
+	{
+		"phrase": "Trim",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of Soltrium on your weapon",
+		"translation": "Отделка",
+		"machine": true
+	},
+	{
+		"phrase": "Unlock the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": "Разблокируйте",
+		"machine": true
+	},
+	{
+		"phrase": "Tag at level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": "Тег на уровне",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": "Разблокировал",
+		"machine": true
+	},
+	{
+		"phrase": "Tag!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": "Ярлык!",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin",
+		"comment": "[Progression] [1\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": "Бесплатный скин для оружия",
+		"machine": true
+	},
+	{
+		"phrase": "At level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": "На уровне",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked a",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": "Разблокирован",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": "Бесплатный скин для оружия!",
+		"machine": true
+	},
+	{
+		"phrase": "All milestones reached!",
+		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
+		"translation": "Все вехи достигнуты!",
 		"machine": true
 	}
 ]

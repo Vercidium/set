@@ -4463,7 +4463,7 @@
 	},
 	{
 		"phrase": "Store",
-		"comment": "[Navigation] Change to the Store screen",
+		"comment": "[Store Screen] [Title]",
 		"translation": "Negozio",
 		"machine": true
 	},
@@ -5584,13 +5584,13 @@
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "Ora",
 		"machine": true
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "Ore",
 		"machine": true
 	},
@@ -5650,7 +5650,7 @@
 	},
 	{
 		"phrase": "Quick play",
-		"comment": "[Button] This is the large button at the top of the server list",
+		"comment": "[Server List] [Button] Large quick play button at the top of the screen",
 		"translation": "Partita veloce",
 		"machine": true
 	},
@@ -6978,6 +6978,234 @@
 		"phrase": "Weapons list",
 		"comment": "[Weapon Selector] [Title] When customising weapons, this is the title of the weapon selector on the left side of the screen",
 		"translation": "Elenco delle armi",
+		"machine": true
+	},
+	{
+		"phrase": "Version",
+		"comment": "[Out of Date Banner] [1\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": "Versione",
+		"machine": true
+	},
+	{
+		"phrase": "has been released! Close the game and update through Steam",
+		"comment": "[Out of Date Banner] [2\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": "è stato rilasciato! Chiudi il gioco e aggiorna tramite Steam",
+		"machine": true
+	},
+	{
+		"phrase": "Player online",
+		"comment": "[Unit] The full phrase is: '1 Player online'",
+		"translation": "Giocatore in linea",
+		"machine": true
+	},
+	{
+		"phrase": "Players online",
+		"comment": "[Unit] The full phrase is: '99999 Players online'",
+		"translation": "Giocatori in linea",
+		"machine": true
+	},
+	{
+		"phrase": "Player in game",
+		"comment": "[Unit] The full phrase is: '1 Player in game'",
+		"translation": "Giocatore in gioco",
+		"machine": true
+	},
+	{
+		"phrase": "Players in game",
+		"comment": "[Unit] The full phrase is: '99999 Players in game'",
+		"translation": "Giocatori in gioco",
+		"machine": true
+	},
+	{
+		"phrase": "Matching server",
+		"comment": "[Unit] The full phrase is: '1 Matching server'",
+		"translation": "Server corrispondente",
+		"machine": true
+	},
+	{
+		"phrase": "Matching servers",
+		"comment": "[Unit] The full phrase is: '30 matching servers'",
+		"translation": "Server corrispondenti",
+		"machine": true
+	},
+	{
+		"phrase": "Global stats",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": "Statistiche globali",
+		"machine": true
+	},
+	{
+		"phrase": "Matchmaking results",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": "Risultati del matchmaking",
+		"machine": true
+	},
+	{
+		"phrase": "To join a Low Level Lobby, you must be < Level 20 or have < 0.5 KDR",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Per entrare in una lobby di basso livello, devi essere < livello 20 o avere < 0,5 KDR",
+		"machine": true
+	},
+	{
+		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Chiunque può partecipare alle lobby aperte. fare clic con il tasto destro su una lobby vuota per richiederla.\nPuoi richiedere solo 3 lobby al giorno.",
+		"machine": true
+	},
+	{
+		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Per creare una lobby personalizzata, passa alla scheda della lobby aperta e fai clic con il pulsante destro del mouse su una lobby vuota.",
+		"machine": true
+	},
+	{
+		"phrase": "Current version",
+		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
+		"translation": "Versione corrente",
+		"machine": true
+	},
+	{
+		"phrase": "Player capacity",
+		"comment": "[Server List] [Sidebar]. The full phrase is '300\/324 Player capacity'",
+		"translation": "Capacità del giocatore",
+		"machine": true
+	},
+	{
+		"phrase": "Lowest ping",
+		"comment": "[Server List] [Sidebar]. The full phrase is '2ms Lowest ping'",
+		"translation": "Ping più basso",
+		"machine": true
+	},
+	{
+		"phrase": "ms",
+		"comment": "[Unit] [Abbreviation] Abbreviation of milliseconds",
+		"translation": "SM",
+		"machine": true
+	},
+	{
+		"phrase": "Preferences",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
+		"translation": "Preferenze",
+		"machine": true
+	},
+	{
+		"phrase": "Game Modes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"translation": "Modalità di gioco",
+		"machine": true
+	},
+	{
+		"phrase": "Regions",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"translation": "regioni",
+		"machine": true
+	},
+	{
+		"phrase": "Open",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"translation": "Aprire",
+		"machine": true
+	},
+	{
+		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creato.\nClick here for more info!\nThis promotion ends in",
+		"comment": "[Store Screen]",
+		"translation": "Inserisci un codice creatore al momento del pagamento per risparmiare il 10% e supportare un creatore di contenuti.\nClicca qui per maggiori informazioni!\nQuesta promozione termina tra",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"comment": "[Unit] Measurement of time",
+		"translation": "Giorno",
+		"machine": true
+	},
+	{
+		"phrase": "Days",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "giorni",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minutes",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "Minuti",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the base weapon skin colour",
+		"translation": "Colore",
+		"machine": true
+	},
+	{
+		"phrase": "Highlight",
+		"comment": "[Colour Picker] [Title] This colour picker controls the accent colour of metallic skins",
+		"translation": "Evidenziare",
+		"machine": true
+	},
+	{
+		"phrase": "Trim",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of Soltrium on your weapon",
+		"translation": "Ordinare",
+		"machine": true
+	},
+	{
+		"phrase": "Unlock the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": "Sblocca il",
+		"machine": true
+	},
+	{
+		"phrase": "Tag at level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": "Tagga a livello",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": "sbloccato il",
+		"machine": true
+	},
+	{
+		"phrase": "Tag!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": "Etichetta!",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin",
+		"comment": "[Progression] [1\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": "Skin arma gratuita",
+		"machine": true
+	},
+	{
+		"phrase": "At level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": "A livello",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked a",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": "sbloccato",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": "Skin arma gratuita!",
+		"machine": true
+	},
+	{
+		"phrase": "All milestones reached!",
+		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
+		"translation": "Tutti i traguardi raggiunti!",
 		"machine": true
 	}
 ]
