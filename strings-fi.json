@@ -6320,5 +6320,41 @@
 		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
 		"translation": "Kaikki virstanpylväät saavutettu!",
 		"machine": true
+	},
+	{
+		"phrase": "Passworded",
+		"comment": "[Server Listing] [Claimed Lobby] This server is passworded",
+		"translation": "Salasana",
+		"machine": true
+	},
+	{
+		"phrase": "Level range",
+		"comment": "[Server Listing] [Claimed Lobby] The min and max level of this server, e.g. 'Level range: 30-60;",
+		"translation": "Tasoalue",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing",
+		"comment": "[Server Listing] [Claimed Lobby] Autobalancing is enabled in this lobby",
+		"translation": "Automaattinen tasapainotus",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal",
+		"comment": "[Server Listing] [Claimed Lobby] Eternal mode is enabled in this lobby",
+		"translation": "Ikuinen",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer",
+		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
+		"translation": "Traileri",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox",
+		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
+		"translation": "Hiekkalaatikko",
+		"machine": true
 	}
 ]
