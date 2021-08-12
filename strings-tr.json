@@ -1343,7 +1343,7 @@
 	},
 	{
 		"phrase": "Store",
-		"comment": "[Navigation] Change to the Store screen",
+		"comment": "[Store Screen] [Title]",
 		"translation": "Mağaza"
 	},
 	{
@@ -5233,13 +5233,13 @@
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "Saat",
 		"machine": true
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "Saatler",
 		"machine": true
 	},
@@ -5299,7 +5299,7 @@
 	},
 	{
 		"phrase": "Quick play",
-		"comment": "[Button] This is the large button at the top of the server list",
+		"comment": "[Server List] [Button] Large quick play button at the top of the screen",
 		"translation": "Hızlı Oynat",
 		"machine": true
 	},
@@ -6543,6 +6543,234 @@
 		"phrase": "Weapons list",
 		"comment": "[Weapon Selector] [Title] When customising weapons, this is the title of the weapon selector on the left side of the screen",
 		"translation": "silah listesi",
+		"machine": true
+	},
+	{
+		"phrase": "Version",
+		"comment": "[Out of Date Banner] [1\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": "Sürüm",
+		"machine": true
+	},
+	{
+		"phrase": "has been released! Close the game and update through Steam",
+		"comment": "[Out of Date Banner] [2\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": "serbest bırakıldı! Oyunu kapatın ve Steam üzerinden güncelleyin",
+		"machine": true
+	},
+	{
+		"phrase": "Player online",
+		"comment": "[Unit] The full phrase is: '1 Player online'",
+		"translation": "oyuncu çevrimiçi",
+		"machine": true
+	},
+	{
+		"phrase": "Players online",
+		"comment": "[Unit] The full phrase is: '99999 Players online'",
+		"translation": "oyuncular çevrimiçi",
+		"machine": true
+	},
+	{
+		"phrase": "Player in game",
+		"comment": "[Unit] The full phrase is: '1 Player in game'",
+		"translation": "Oyundaki oyuncu",
+		"machine": true
+	},
+	{
+		"phrase": "Players in game",
+		"comment": "[Unit] The full phrase is: '99999 Players in game'",
+		"translation": "Oyundaki oyuncular",
+		"machine": true
+	},
+	{
+		"phrase": "Matching server",
+		"comment": "[Unit] The full phrase is: '1 Matching server'",
+		"translation": "eşleşen sunucu",
+		"machine": true
+	},
+	{
+		"phrase": "Matching servers",
+		"comment": "[Unit] The full phrase is: '30 matching servers'",
+		"translation": "Eşleşen sunucular",
+		"machine": true
+	},
+	{
+		"phrase": "Global stats",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": "Küresel istatistikler",
+		"machine": true
+	},
+	{
+		"phrase": "Matchmaking results",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": "çöpçatanlık sonuçları",
+		"machine": true
+	},
+	{
+		"phrase": "To join a Low Level Lobby, you must be < Level 20 or have < 0.5 KDR",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Düşük seviyeli bir lobiye katılmak için < seviye 20 veya < 0,5 KDR'ye sahip olmalısınız",
+		"machine": true
+	},
+	{
+		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Açık lobilere herkes katılabilir. hak talebinde bulunmak için boş bir lobiye sağ tıklayın.\nGünde sadece 3 lobi talep edebilirsiniz.",
+		"machine": true
+	},
+	{
+		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Özel bir lobi oluşturmak için açık lobi sekmesine geçin ve boş bir lobiye sağ tıklayın.",
+		"machine": true
+	},
+	{
+		"phrase": "Current version",
+		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
+		"translation": "Şimdiki versiyonu",
+		"machine": true
+	},
+	{
+		"phrase": "Player capacity",
+		"comment": "[Server List] [Sidebar]. The full phrase is '300\/324 Player capacity'",
+		"translation": "Oyuncu kapasitesi",
+		"machine": true
+	},
+	{
+		"phrase": "Lowest ping",
+		"comment": "[Server List] [Sidebar]. The full phrase is '2ms Lowest ping'",
+		"translation": "En düşük ping",
+		"machine": true
+	},
+	{
+		"phrase": "ms",
+		"comment": "[Unit] [Abbreviation] Abbreviation of milliseconds",
+		"translation": "Hanım",
+		"machine": true
+	},
+	{
+		"phrase": "Preferences",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
+		"translation": "Tercihler",
+		"machine": true
+	},
+	{
+		"phrase": "Game Modes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"translation": "Oyun modları",
+		"machine": true
+	},
+	{
+		"phrase": "Regions",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"translation": "Bölgeler",
+		"machine": true
+	},
+	{
+		"phrase": "Open",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"translation": "Açık",
+		"machine": true
+	},
+	{
+		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creato.\nClick here for more info!\nThis promotion ends in",
+		"comment": "[Store Screen]",
+		"translation": "%10 tasarruf etmek ve içerik oluşturmayı desteklemek için ödeme sırasında bir içerik oluşturucu kodu girin.\nDaha fazla bilgi için buraya tıklayın!\nBu promosyon şu tarihte sona erer:",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"comment": "[Unit] Measurement of time",
+		"translation": "Gün",
+		"machine": true
+	},
+	{
+		"phrase": "Days",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "Günler",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "Dakika",
+		"machine": true
+	},
+	{
+		"phrase": "Minutes",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "dakika",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the base weapon skin colour",
+		"translation": "Renk",
+		"machine": true
+	},
+	{
+		"phrase": "Highlight",
+		"comment": "[Colour Picker] [Title] This colour picker controls the accent colour of metallic skins",
+		"translation": "Vurgulamak",
+		"machine": true
+	},
+	{
+		"phrase": "Trim",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of Soltrium on your weapon",
+		"translation": "kırp",
+		"machine": true
+	},
+	{
+		"phrase": "Unlock the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": "kilidini aç",
+		"machine": true
+	},
+	{
+		"phrase": "Tag at level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": "Seviyede etiketle",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": "kilidi açıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Tag!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": "Etiket!",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin",
+		"comment": "[Progression] [1\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": "Ücretsiz silah görünümü",
+		"machine": true
+	},
+	{
+		"phrase": "At level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": "Seviyede",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked a",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": "kilidi açıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": "Ücretsiz silah görünümü!",
+		"machine": true
+	},
+	{
+		"phrase": "All milestones reached!",
+		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
+		"translation": "Tüm kilometre taşlarına ulaşıldı!",
 		"machine": true
 	}
 ]

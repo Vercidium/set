@@ -2737,7 +2737,7 @@
 	},
 	{
 		"phrase": "Store",
-		"comment": "[Navigation] Change to the Store screen",
+		"comment": "[Store Screen] [Title]",
 		"translation": "店",
 		"machine": true
 	},
@@ -5762,13 +5762,13 @@
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "時間",
 		"machine": true
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "時間",
 		"machine": true
 	},
@@ -5828,7 +5828,7 @@
 	},
 	{
 		"phrase": "Quick play",
-		"comment": "[Button] This is the large button at the top of the server list",
+		"comment": "[Server List] [Button] Large quick play button at the top of the screen",
 		"translation": "クイックプレイ",
 		"machine": true
 	},
@@ -7072,6 +7072,234 @@
 		"phrase": "Weapons list",
 		"comment": "[Weapon Selector] [Title] When customising weapons, this is the title of the weapon selector on the left side of the screen",
 		"translation": "武器リスト",
+		"machine": true
+	},
+	{
+		"phrase": "Version",
+		"comment": "[Out of Date Banner] [1\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": "バージョン",
+		"machine": true
+	},
+	{
+		"phrase": "has been released! Close the game and update through Steam",
+		"comment": "[Out of Date Banner] [2\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": "リリースされました！ゲームを閉じてSteamで更新する",
+		"machine": true
+	},
+	{
+		"phrase": "Player online",
+		"comment": "[Unit] The full phrase is: '1 Player online'",
+		"translation": "オンラインプレーヤー",
+		"machine": true
+	},
+	{
+		"phrase": "Players online",
+		"comment": "[Unit] The full phrase is: '99999 Players online'",
+		"translation": "オンラインプレイヤー",
+		"machine": true
+	},
+	{
+		"phrase": "Player in game",
+		"comment": "[Unit] The full phrase is: '1 Player in game'",
+		"translation": "ゲーム内のプレーヤー",
+		"machine": true
+	},
+	{
+		"phrase": "Players in game",
+		"comment": "[Unit] The full phrase is: '99999 Players in game'",
+		"translation": "ゲーム中のプレイヤー",
+		"machine": true
+	},
+	{
+		"phrase": "Matching server",
+		"comment": "[Unit] The full phrase is: '1 Matching server'",
+		"translation": "マッチングサーバー",
+		"machine": true
+	},
+	{
+		"phrase": "Matching servers",
+		"comment": "[Unit] The full phrase is: '30 matching servers'",
+		"translation": "マッチングサーバー",
+		"machine": true
+	},
+	{
+		"phrase": "Global stats",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": "グローバル統計",
+		"machine": true
+	},
+	{
+		"phrase": "Matchmaking results",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": "マッチメイキングの結果",
+		"machine": true
+	},
+	{
+		"phrase": "To join a Low Level Lobby, you must be < Level 20 or have < 0.5 KDR",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "低レベルのロビーに参加するには、レベル20未満であるか、KDRが0.5未満である必要があります。",
+		"machine": true
+	},
+	{
+		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "誰でもオープンロビーに参加できます。空のロビーを右クリックして請求します.\n1日あたり3つのロビーのみを請求できます.",
+		"machine": true
+	},
+	{
+		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "カスタムロビーを作成するには、開いているロビータブに変更し、空のロビーを右クリックします.",
+		"machine": true
+	},
+	{
+		"phrase": "Current version",
+		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
+		"translation": "現行版",
+		"machine": true
+	},
+	{
+		"phrase": "Player capacity",
+		"comment": "[Server List] [Sidebar]. The full phrase is '300\/324 Player capacity'",
+		"translation": "プレーヤーの容量",
+		"machine": true
+	},
+	{
+		"phrase": "Lowest ping",
+		"comment": "[Server List] [Sidebar]. The full phrase is '2ms Lowest ping'",
+		"translation": "最も低いping",
+		"machine": true
+	},
+	{
+		"phrase": "ms",
+		"comment": "[Unit] [Abbreviation] Abbreviation of milliseconds",
+		"translation": "MS",
+		"machine": true
+	},
+	{
+		"phrase": "Preferences",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
+		"translation": "環境設定",
+		"machine": true
+	},
+	{
+		"phrase": "Game Modes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"translation": "ゲームモード",
+		"machine": true
+	},
+	{
+		"phrase": "Regions",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"translation": "地域",
+		"machine": true
+	},
+	{
+		"phrase": "Open",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"translation": "開ける",
+		"machine": true
+	},
+	{
+		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creato.\nClick here for more info!\nThis promotion ends in",
+		"comment": "[Store Screen]",
+		"translation": "チェックアウト時にクリエイターコードを入力すると、10％節約され、コンテンツの作成をサポートします.\n詳細については、ここをクリックしてください!\nこのプロモーションはで終わります",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"comment": "[Unit] Measurement of time",
+		"translation": "日",
+		"machine": true
+	},
+	{
+		"phrase": "Days",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "日々",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "分",
+		"machine": true
+	},
+	{
+		"phrase": "Minutes",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": "分",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the base weapon skin colour",
+		"translation": "色",
+		"machine": true
+	},
+	{
+		"phrase": "Highlight",
+		"comment": "[Colour Picker] [Title] This colour picker controls the accent colour of metallic skins",
+		"translation": "ハイライト",
+		"machine": true
+	},
+	{
+		"phrase": "Trim",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of Soltrium on your weapon",
+		"translation": "トリム",
+		"machine": true
+	},
+	{
+		"phrase": "Unlock the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": "ロックを解除します",
+		"machine": true
+	},
+	{
+		"phrase": "Tag at level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": "レベルでタグを付ける",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": "ロックを解除しました",
+		"machine": true
+	},
+	{
+		"phrase": "Tag!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": "鬼ごっこ!",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin",
+		"comment": "[Progression] [1\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": "無料の武器スキン",
+		"machine": true
+	},
+	{
+		"phrase": "At level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": "レベルで",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked a",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": "ロックを解除しました",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": "無料の武器スキン!",
+		"machine": true
+	},
+	{
+		"phrase": "All milestones reached!",
+		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
+		"translation": "すべてのマイルストーンに到達!",
 		"machine": true
 	}
 ]

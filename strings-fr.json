@@ -1426,7 +1426,7 @@
 	},
 	{
 		"phrase": "Store",
-		"comment": "[Navigation] Change to the Store screen",
+		"comment": "[Store Screen] [Title]",
 		"translation": "Magasin",
 		"machine": true
 	},
@@ -5295,13 +5295,13 @@
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "Heure",
 		"machine": true
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] Measurement of time'",
+		"comment": "[Unit] [Plural] Measurement of time",
 		"translation": "Les heures",
 		"machine": true
 	},
@@ -5361,7 +5361,7 @@
 	},
 	{
 		"phrase": "Quick play",
-		"comment": "[Button] This is the large button at the top of the server list",
+		"comment": "[Server List] [Button] Large quick play button at the top of the screen",
 		"translation": "Jeu rapide",
 		"machine": true
 	},
@@ -6606,5 +6606,195 @@
 		"comment": "[Weapon Selector] [Title] When customising weapons, this is the title of the weapon selector on the left side of the screen",
 		"translation": "Liste des armes",
 		"machine": true
+	},
+	{
+		"phrase": "Version",
+		"comment": "[Out of Date Banner] [1\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": null
+	},
+	{
+		"phrase": "has been released! Close the game and update through Steam",
+		"comment": "[Out of Date Banner] [2\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
+		"translation": null
+	},
+	{
+		"phrase": "Player online",
+		"comment": "[Unit] The full phrase is: '1 Player online'",
+		"translation": null
+	},
+	{
+		"phrase": "Players online",
+		"comment": "[Unit] The full phrase is: '99999 Players online'",
+		"translation": null
+	},
+	{
+		"phrase": "Player in game",
+		"comment": "[Unit] The full phrase is: '1 Player in game'",
+		"translation": null
+	},
+	{
+		"phrase": "Players in game",
+		"comment": "[Unit] The full phrase is: '99999 Players in game'",
+		"translation": null
+	},
+	{
+		"phrase": "Matching server",
+		"comment": "[Unit] The full phrase is: '1 Matching server'",
+		"translation": null
+	},
+	{
+		"phrase": "Matching servers",
+		"comment": "[Unit] The full phrase is: '30 matching servers'",
+		"translation": null
+	},
+	{
+		"phrase": "Global stats",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": null
+	},
+	{
+		"phrase": "Matchmaking results",
+		"comment": "[Server List] [Sidebar] [Title]'",
+		"translation": null
+	},
+	{
+		"phrase": "To join a Low Level Lobby, you must be < Level 20 or have < 0.5 KDR",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": null
+	},
+	{
+		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": null
+	},
+	{
+		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": null
+	},
+	{
+		"phrase": "Current version",
+		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
+		"translation": null
+	},
+	{
+		"phrase": "Player capacity",
+		"comment": "[Server List] [Sidebar]. The full phrase is '300\/324 Player capacity'",
+		"translation": null
+	},
+	{
+		"phrase": "Lowest ping",
+		"comment": "[Server List] [Sidebar]. The full phrase is '2ms Lowest ping'",
+		"translation": null
+	},
+	{
+		"phrase": "ms",
+		"comment": "[Unit] [Abbreviation] Abbreviation of milliseconds",
+		"translation": null
+	},
+	{
+		"phrase": "Preferences",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
+		"translation": null
+	},
+	{
+		"phrase": "Game Modes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"translation": null
+	},
+	{
+		"phrase": "Regions",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"translation": null
+	},
+	{
+		"phrase": "Open",
+		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"translation": null
+	},
+	{
+		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creato.\nClick here for more info!\nThis promotion ends in",
+		"comment": "[Store Screen]",
+		"translation": null
+	},
+	{
+		"phrase": "Day",
+		"comment": "[Unit] Measurement of time",
+		"translation": null
+	},
+	{
+		"phrase": "Days",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": null
+	},
+	{
+		"phrase": "Minute",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": null
+	},
+	{
+		"phrase": "Minutes",
+		"comment": "[Unit] [Plural] Measurement of time",
+		"translation": null
+	},
+	{
+		"phrase": "Colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the base weapon skin colour",
+		"translation": null
+	},
+	{
+		"phrase": "Highlight",
+		"comment": "[Colour Picker] [Title] This colour picker controls the accent colour of metallic skins",
+		"translation": null
+	},
+	{
+		"phrase": "Trim",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of Soltrium on your weapon",
+		"translation": null
+	},
+	{
+		"phrase": "Unlock the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": null
+	},
+	{
+		"phrase": "Tag at level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
+		"translation": null
+	},
+	{
+		"phrase": "Unlocked the",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": null
+	},
+	{
+		"phrase": "Tag!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
+		"translation": null
+	},
+	{
+		"phrase": "Free weapon skin",
+		"comment": "[Progression] [1\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": null
+	},
+	{
+		"phrase": "At level",
+		"comment": "[Progression] [2\/2] The full phrase is 'Free weapon skin at level 10'",
+		"translation": null
+	},
+	{
+		"phrase": "Unlocked a",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": null
+	},
+	{
+		"phrase": "Free weapon skin!",
+		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
+		"translation": null
+	},
+	{
+		"phrase": "All milestones reached!",
+		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
+		"translation": null
 	}
 ]
