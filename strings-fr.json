@@ -2901,7 +2901,7 @@
 	},
 	{
 		"phrase": "Barrel",
-		"comment": "[Attachment Type]",
+		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the barrel of a gun, not a barrel of water",
 		"translation": "Baril"
 	},
 	{
@@ -4812,18 +4812,13 @@
 	},
 	{
 		"phrase": "Foregrip",
-		"comment": "[Attachment Type]",
+		"comment": "[Attachment UI] [Label] Attachment category name",
 		"translation": "poignée avant"
 	},
 	{
 		"phrase": "Stock",
-		"comment": "[Attachment Type]",
+		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the part of the gun that rests against your shoulder, e.g. 'Fora was the laughing stock of the classroom', or 'Satisfied Onion goes well with chicken stock'",
 		"translation": "Stock"
-	},
-	{
-		"phrase": "Ammo",
-		"comment": "[Attachment Type]",
-		"translation": "Munitions"
 	},
 	{
 		"phrase": "Equip",
@@ -5424,7 +5419,7 @@
 	},
 	{
 		"phrase": "Spawn",
-		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
+		"comment": "[Custom Maps] This is a label next to each team spawn regions, i.e. 'Aegis spawn'",
 		"translation": "Frayer",
 		"machine": true
 	},
@@ -6135,7 +6130,7 @@
 	},
 	{
 		"phrase": "Loading",
-		"comment": "[Inventory] This text shows when the inventory is being loaded from the server",
+		"comment": "Loading text in the character\/weapon screen",
 		"translation": "Chargement",
 		"machine": true
 	},
@@ -6746,12 +6741,6 @@
 		"phrase": "Open",
 		"comment": "[Play Screen] [Navigation] Public lobbies tab",
 		"translation": "Ouvert",
-		"machine": true
-	},
-	{
-		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creato.\nClick here for more info!\nThis promotion ends in",
-		"comment": "[Store Screen]",
-		"translation": "Entrez un code créateur à la caisse pour économiser 10 % et prendre en charge une création de contenu.\nCliquez ici pour plus d'informations!\nCette promotion se termine dans",
 		"machine": true
 	},
 	{
@@ -7464,12 +7453,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Extended amplifier",
-		"comment": "[Attachment] Midi attachment name",
-		"translation": "Amplificateur étendu",
-		"machine": true
-	},
-	{
 		"phrase": "Build cooldown",
 		"comment": "[Unit] The amount of time between structure placements, e.g. '-40% Build cooldown'",
 		"translation": "Temps de recharge de construction",
@@ -7926,6 +7909,718 @@
 		"phrase": "Shadows Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
 		"translation": "Ombres désactivées",
+		"machine": true
+	},
+	{
+		"phrase": "Build with your MiDi to create a tactical advantage against your opponents",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Construisez avec votre miDi pour créer un avantage tactique contre vos adversaires",
+		"machine": true
+	},
+	{
+		"phrase": "The MiDi can be a deadly weapon up close... with unlimited ammo",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Le miDi peut être une arme mortelle de près... avec des munitions illimitées",
+		"machine": true
+	},
+	{
+		"phrase": "Train your movement in the parkour room in the ship",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Entraînez votre mouvement dans la salle de parkour du navire",
+		"machine": true
+	},
+	{
+		"phrase": "Scanners reveal the position of nearby enemies",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Les scanners révèlent la position des ennemis proches",
+		"machine": true
+	},
+	{
+		"phrase": "Traversing lava can be dangerous",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Traverser la lave peut être dangereux",
+		"machine": true
+	},
+	{
+		"phrase": "Your melee can be useful in many situations",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Votre mêlée peut être utile dans de nombreuses situations",
+		"machine": true
+	},
+	{
+		"phrase": "Grenade launcher shells bounce over cover and around corners",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Les obus de lance-grenades rebondissent sur la couverture et dans les coins",
+		"machine": true
+	},
+	{
+		"phrase": "You can hide disrupters behind walls and under floors to give your opponents a shocking surprise",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Vous pouvez cacher les perturbateurs derrière les murs et sous les sols pour donner à vos adversaires une surprise choquante",
+		"machine": true
+	},
+	{
+		"phrase": "Moving underwater is a great way to sneak up on your enemies",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Se déplacer sous l'eau est un excellent moyen de se faufiler sur vos ennemis",
+		"machine": true
+	},
+	{
+		"phrase": "Sometimes breaching through the main entrance is not the wisest idea",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Parfois, franchir l'entrée principale n'est pas l'idée la plus sage",
+		"machine": true
+	},
+	{
+		"phrase": "The shooting range is a great place to test out the plethora of weaponry at your disposal",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Le stand de tir est un endroit idéal pour tester la pléthore d'armes à votre disposition",
+		"machine": true
+	},
+	{
+		"phrase": "Take alternate paths to get the jump on your enemy",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Empruntez des chemins alternatifs pour prendre le dessus sur votre ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "Falling into water negates fall damage",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Tomber dans l'eau annule les dégâts de chute",
+		"machine": true
+	},
+	{
+		"phrase": "The Arena is a great place to be exposed to new weapons and loadouts",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "L'arène est un endroit idéal pour être exposé à de nouvelles armes et chargements",
+		"machine": true
+	},
+	{
+		"phrase": "Be careful, Soltrium Canisters in the Crashed Freighter are explosive",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Attention, les cartouches de soltrium dans le cargo écrasé sont explosives",
+		"machine": true
+	},
+	{
+		"phrase": "Block health is indicated by colour. The darker the block, the closer it is to breaking",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "La santé du bloc est indiquée par une couleur. plus le bloc est sombre, plus il est proche de la rupture",
+		"machine": true
+	},
+	{
+		"phrase": "Watch out for heights, death is everywhere",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Attention aux hauteurs, la mort est partout",
+		"machine": true
+	},
+	{
+		"phrase": "If you are having a hard time getting kills, try changing your loadout",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Si vous avez du mal à tuer, essayez de changer votre chargement",
+		"machine": true
+	},
+	{
+		"phrase": "Use the Soltrium trail from the Rail Gun to locate enemy players",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Utilisez la piste du soltrium depuis le canon à rail pour localiser les joueurs ennemis",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the Kinetic modification in your loadout to launch yourself with explosives",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Équipez la modification cinétique de votre équipement pour vous lancer avec des explosifs",
+		"machine": true
+	},
+	{
+		"phrase": "Area",
+		"comment": "[Custom Maps] This refers to an area that a canister can spawn in during Salvage, i.e. 'Area 3'",
+		"translation": "Surface",
+		"machine": true
+	},
+	{
+		"phrase": "Zone",
+		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Zone B'",
+		"translation": "Zone",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough Zone",
+		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Breakthrough Zone D'",
+		"translation": "Zone de percée",
+		"machine": true
+	},
+	{
+		"phrase": "Flag",
+		"comment": "[Custom Maps] This refers to the flag you carry in Capture the Flag",
+		"translation": "Drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb",
+		"comment": "[Custom Maps] This refers to the bomb you carry in Escort",
+		"translation": "Bombe",
+		"machine": true
+	},
+	{
+		"phrase": "HH",
+		"comment": "[Custom Maps] [Abbreviation] The initials of 'Head Hunter'",
+		"translation": "HH",
+		"machine": true
+	},
+	{
+		"phrase": "FFA Spawn",
+		"comment": "[Custom Maps] This refers to an area that you can respawn in during a FFA match",
+		"translation": "FFA spawn",
+		"machine": true
+	},
+	{
+		"phrase": "No matching servers",
+		"comment": "[Server List] This text shows if no servers matched the user's filters",
+		"translation": "Aucun serveur correspondant",
+		"machine": true
+	},
+	{
+		"phrase": "Spain",
+		"comment": "[Server List] [Filter]",
+		"translation": "Espagne",
+		"machine": true
+	},
+	{
+		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creator.\nClick here for more info!\nThis promotion ends in",
+		"comment": "[Store Screen]",
+		"translation": "Entrez un code créateur à la caisse pour économiser 10 % et soutenir un créateur de contenu.\nCliquez ici pour plus d'informations!\nCette promotion se termine dans",
+		"machine": true
+	},
+	{
+		"phrase": "ADS colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of the crosshairs inside your gun scope. 'ADS' stands for 'Aiming Down the Sights'",
+		"translation": "Couleur de l'annonce",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of your hipfire crosshairs. 'ADS' stands for 'Aiming Down the Sights'",
+		"translation": "Couleur Hipfire",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin available!",
+		"comment": "[Weapons] This label shows when a free weapon skin is available for a weapon'",
+		"translation": "Skin d'arme gratuit disponible!",
+		"machine": true
+	},
+	{
+		"phrase": "A player",
+		"comment": "[Placeholder] Placeholder name for a player, e.g. 'A player has taken our flag'",
+		"translation": "Un joueur",
+		"machine": true
+	},
+	{
+		"phrase": "Has taken our flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken our flag'",
+		"translation": "A pris notre drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "Has taken the enemy flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken the enemy flag'",
+		"translation": "A pris le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "Has picked up the enemy bomb",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
+		"translation": "A ramassé la bombe ennemie",
+		"machine": true
+	},
+	{
+		"phrase": "Has picked up our bomb",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up our bomb'",
+		"translation": "A ramassé notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "You have picked up the enemy flag",
+		"comment": "[Announcement]'",
+		"translation": "Vous avez ramassé le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "You have picked up our bomb",
+		"comment": "[Announcement]'",
+		"translation": "Tu as ramassé notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy flag carrier has been killed",
+		"comment": "[Announcement]'",
+		"translation": "Le porte-drapeau ennemi a été tué",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy bomb carrier has been killed",
+		"comment": "[Announcement]'",
+		"translation": "Le porte-bombes ennemi a été tué",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy has dropped our flag",
+		"comment": "[Announcement]'",
+		"translation": "L'ennemi a lâché notre drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy has dropped their bomb",
+		"comment": "[Announcement]'",
+		"translation": "L'ennemi a largué sa bombe",
+		"machine": true
+	},
+	{
+		"phrase": "Our flag carrier has been killed",
+		"comment": "[Announcement]'",
+		"translation": "Notre porte-drapeau a été tué",
+		"machine": true
+	},
+	{
+		"phrase": "Our bomb carrier has been killed",
+		"comment": "[Announcement]'",
+		"translation": "Notre porteur de bombe a été tué",
+		"machine": true
+	},
+	{
+		"phrase": "You have dropped the enemy flag",
+		"comment": "[Announcement]'",
+		"translation": "Vous avez laissé tomber le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "You have dropped the bomb",
+		"comment": "[Announcement]'",
+		"translation": "Tu as largué la bombe",
+		"machine": true
+	},
+	{
+		"phrase": "Has dropped the enemy flag",
+		"comment": "[Announcement]'",
+		"translation": "A fait tomber le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "Has dropped the bomb",
+		"comment": "[Announcement]'",
+		"translation": "A largué la bombe",
+		"machine": true
+	},
+	{
+		"phrase": "Has captured our flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured our flag'",
+		"translation": "A capturé notre drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "Has delivered their bomb",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
+		"translation": "A livré leur bombe",
+		"machine": true
+	},
+	{
+		"phrase": "Has captured the enemy flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured the enemy flag'",
+		"translation": "A capturé le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "Has delivered our bomb",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
+		"translation": "A livré notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "has joined the chaos",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "a rejoint le chaos",
+		"machine": true
+	},
+	{
+		"phrase": "brings chaos and destruction",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "apporte le chaos et la destruction",
+		"machine": true
+	},
+	{
+		"phrase": "has just landed",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "vient d'atterrir",
+		"machine": true
+	},
+	{
+		"phrase": "has arrived for battle",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "est arrivé pour la bataille",
+		"machine": true
+	},
+	{
+		"phrase": "is ready to fight",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "est prêt à se battre",
+		"machine": true
+	},
+	{
+		"phrase": "is prepared for destruction",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "est prêt à être détruit",
+		"machine": true
+	},
+	{
+		"phrase": "will never give you up",
+		"comment": "This is a rare welcome message that appears when a player joins the",
+		"translation": "ne t'abandonnera jamais",
+		"machine": true
+	},
+	{
+		"phrase": "will never let you down",
+		"comment": "This is a rare welcome message that appears when a player joins the",
+		"translation": "ne te laissera jamais tomber",
+		"machine": true
+	},
+	{
+		"phrase": "Is now spectating",
+		"comment": "This text shows when a player abandons Helix and becomes a spectator",
+		"translation": "est maintenant spectateur",
+		"machine": true
+	},
+	{
+		"phrase": "Has left the planet",
+		"comment": "This text shows when a player leaves the server",
+		"translation": "A quitté la planète",
+		"machine": true
+	},
+	{
+		"phrase": "Scan initiated - new canister located",
+		"comment": "[Announcement] This text appears when one canister depletes and another appears",
+		"translation": "Scan lancé - nouvelle cartouche localisée",
+		"machine": true
+	},
+	{
+		"phrase": "The canister has been depleted!",
+		"comment": "[Announcement] This text appears when all Soltrium has been extracted from a canister",
+		"translation": "La cartouche est épuisée!",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode enabled",
+		"comment": "[Announcement]",
+		"translation": "Mode éternel activé",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode disabled",
+		"comment": "[Announcement]",
+		"translation": "Mode éternel désactivé",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode enabled",
+		"comment": "[Announcement]",
+		"translation": "Mode bac à sable activé",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode disabled",
+		"comment": "[Announcement]",
+		"translation": "Mode bac à sable désactivé",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode enabled",
+		"comment": "[Announcement]",
+		"translation": "Mode remorque activé",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode disabled",
+		"comment": "[Announcement]",
+		"translation": "Mode remorque désactivé",
+		"machine": true
+	},
+	{
+		"phrase": "Admin",
+		"comment": "[Chat] This is the name of the admin user, i.e. 'Admin: Inkhorror is the worst mod'",
+		"translation": "Administrateur",
+		"machine": true
+	},
+	{
+		"phrase": "Movement Speed",
+		"comment": "Spectator control",
+		"translation": "Vitesse de mouvement",
+		"machine": true
+	},
+	{
+		"phrase": "Clamp Y",
+		"context": "Clamp Y Axis",
+		"comment": "Spectator control",
+		"translation": "Pince Y",
+		"machine": true
+	},
+	{
+		"phrase": "X-Ray",
+		"comment": "Spectator control",
+		"translation": "radiographie",
+		"machine": true
+	},
+	{
+		"phrase": "Smooth",
+		"comment": "Spectator control. Smooth camera movement",
+		"translation": "Lisse",
+		"machine": true
+	},
+	{
+		"phrase": "Cycle Players",
+		"comment": "Spectator control. The full phrase is: 'Cycle Players [ Q \/ E ]'",
+		"translation": "Joueurs de vélo",
+		"machine": true
+	},
+	{
+		"phrase": "Third Person",
+		"comment": "Spectator control. Change to third person camera",
+		"translation": "À la troisième personne",
+		"machine": true
+	},
+	{
+		"phrase": "First Person",
+		"comment": "Spectator control. Change to first person camera",
+		"translation": "Première personne",
+		"machine": true
+	},
+	{
+		"phrase": "Fly camera",
+		"comment": "Spectator control. Change to free camera mode",
+		"translation": "Caméra volante",
+		"machine": true
+	},
+	{
+		"phrase": "Anchored",
+		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
+		"translation": "Ancré",
+		"machine": true
+	},
+	{
+		"phrase": "Select Player",
+		"comment": "Spectator control. Enter first-person spectate mode for the player you are looking",
+		"translation": "Sélectionner un joueur",
+		"machine": true
+	},
+	{
+		"phrase": "Show Paths",
+		"comment": "Spectator control. Show waypoint paths that you have created",
+		"translation": "Afficher les chemins",
+		"machine": true
+	},
+	{
+		"phrase": "Show Full Paths",
+		"context": "Show Detailed Paths",
+		"comment": "Spectator control. Show every position in waypoint paths",
+		"translation": "Afficher les chemins complets",
+		"machine": true
+	},
+	{
+		"phrase": "Play Path",
+		"comment": "Spectator control. Make the camera follow a path",
+		"translation": "Chemin de jeu",
+		"machine": true
+	},
+	{
+		"phrase": "Create Path",
+		"comment": "Spectator control. Start creating a new path",
+		"translation": "Créer un chemin",
+		"machine": true
+	},
+	{
+		"phrase": "Edit Path",
+		"comment": "Spectator control. Edit an existing path",
+		"translation": "Modifier le chemin",
+		"machine": true
+	},
+	{
+		"phrase": "Set Waypoint",
+		"comment": "Spectator control. Add a waypoint to the path you are currently editing",
+		"translation": "Définir le point de cheminement",
+		"machine": true
+	},
+	{
+		"phrase": "Delete Waypoint",
+		"comment": "Spectator control. Delete a waypoint from the path you are currently editing",
+		"translation": "Supprimer le point de cheminement",
+		"machine": true
+	},
+	{
+		"phrase": "Undo Changes",
+		"comment": "Spectator control. Stop editing a path and don't save changes",
+		"translation": "Annuler les changements",
+		"machine": true
+	},
+	{
+		"phrase": "Save Changes",
+		"comment": "Spectator control. Stop editing a path and save the changes you made",
+		"translation": "Sauvegarder les modifications",
+		"machine": true
+	},
+	{
+		"phrase": "Next Waypoint",
+		"comment": "Spectator control. When editing an existing path, advance to the next waypoint",
+		"translation": "Point de passage suivant",
+		"machine": true
+	},
+	{
+		"phrase": "Previous Waypoint",
+		"comment": "Spectator control. When editing an existing path, go back to the previous waypoint",
+		"translation": "Point de cheminement précédent",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Killfeed",
+		"context": "Toggle Kill Feed",
+		"comment": "Spectator control",
+		"translation": "Basculer le killfeed",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Help",
+		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
+		"translation": "Basculer l'aide",
+		"machine": true
+	},
+	{
+		"phrase": "Anchor Distance",
+		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
+		"translation": "Distance d'ancrage",
+		"machine": true
+	},
+	{
+		"phrase": "Select Aegis",
+		"comment": "Spectator control. Spectate an Aegis player so you can learn to play well",
+		"translation": "Sélectionnez l'égide",
+		"machine": true
+	},
+	{
+		"phrase": "Select Helix",
+		"comment": "Spectator control. Spectate an Helix player so you can watch them hide underground",
+		"translation": "Sélectionnez l'hélice",
+		"machine": true
+	},
+	{
+		"phrase": "Creating path",
+		"comment": "[Spectate UI] The full phrase is: 'Creating path 1'",
+		"translation": "Création d'un chemin",
+		"machine": true
+	},
+	{
+		"phrase": "Editing path",
+		"comment": "[Spectate UI] The full phrase is: 'Editing path 2'",
+		"translation": "Chemin d'édition",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoints",
+		"context": "Waypoint count",
+		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
+		"translation": "Points de cheminement",
+		"machine": true
+	},
+	{
+		"phrase": "Team",
+		"comment": "[Chat] This is the prefix for a team chat message, e.g. '[TEAM] Dirt Master: Im staying up past my bed time, dont tell anyone'",
+		"translation": "Équipe",
+		"machine": true
+	},
+	{
+		"phrase": "Creating shaders",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Création de shaders",
+		"machine": true
+	},
+	{
+		"phrase": "Loading audio",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Chargement du son",
+		"machine": true
+	},
+	{
+		"phrase": "Loading textures",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Chargement des textures",
+		"machine": true
+	},
+	{
+		"phrase": "Loading models",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Chargement des modèles",
+		"machine": true
+	},
+	{
+		"phrase": "There was an error initialising shaders. Please follow the instructions at",
+		"comment": "[Error] [Message Popup] [1\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
+		"translation": "Une erreur s'est produite lors de l'initialisation des shaders. veuillez suivre les instructions sur",
+		"machine": true
+	},
+	{
+		"phrase": "to submit your log files and help solve this issue",
+		"comment": "[Error] [Message Popup] [2\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
+		"translation": "pour soumettre vos fichiers journaux et aider à résoudre ce problème",
+		"machine": true
+	},
+	{
+		"phrase": "1st",
+		"comment": "[Abbreviation] Head Hunter text, abbreviation for first place",
+		"translation": "1er",
+		"machine": true
+	},
+	{
+		"phrase": "2nd",
+		"comment": "[Abbreviation] Head Hunter text, abbreviation for second place",
+		"translation": "2e",
+		"machine": true
+	},
+	{
+		"phrase": "Loading settings",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Chargement des paramètres",
+		"machine": true
+	},
+	{
+		"phrase": "Loading maps",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Chargement des cartes",
+		"machine": true
+	},
+	{
+		"phrase": "Creating scenes",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Création de scènes",
+		"machine": true
+	},
+	{
+		"phrase": "Meshing worlds",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up. 'Meshing worlds' refers to generating the 3D mesh for maps.",
+		"translation": "Des mondes maillés",
+		"machine": true
+	},
+	{
+		"phrase": "Cleaning up",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Nettoyer",
+		"machine": true
+	},
+	{
+		"phrase": "Ready",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Prêt",
+		"machine": true
+	},
+	{
+		"phrase": "Base amplifier",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Amplificateur de base",
 		"machine": true
 	}
 ]
