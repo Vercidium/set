@@ -84,8 +84,7 @@
 	{
 		"phrase": "Flag capture",
 		"comment": "In-game point text",
-		"translation": "Захват флага",
-		"machine": true
+		"translation": "Захват флага"
 	},
 	{
 		"phrase": "Flag carry",
@@ -130,8 +129,7 @@
 	{
 		"phrase": "Bomb defuse",
 		"comment": "In-game point text",
-		"translation": "Обезвреживание бомбы",
-		"machine": true
+		"translation": "Обезвреживание бомбы"
 	},
 	{
 		"phrase": "Bomb attack",
@@ -187,14 +185,12 @@
 	{
 		"phrase": "Salvage",
 		"comment": "In-game point text",
-		"translation": "Спасение",
-		"machine": true
+		"translation": "Спасение"
 	},
 	{
 		"phrase": "Round win",
 		"comment": "In-game point text",
-		"translation": "Победа в раунде",
-		"machine": true
+		"translation": "Победа в раунде"
 	},
 	{
 		"phrase": "Round survive",
@@ -204,8 +200,7 @@
 	{
 		"phrase": "Assist",
 		"comment": "In-game point text",
-		"translation": "Помощь",
-		"machine": true
+		"translation": "Помощь"
 	},
 	{
 		"phrase": "Assist counts as kill",
@@ -292,14 +287,12 @@
 	{
 		"phrase": "Connecting",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Подключение",
-		"machine": true
+		"translation": "Подключение"
 	},
 	{
 		"phrase": "Loading Map",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Загрузка карты",
-		"machine": true
+		"translation": "Загрузка карты"
 	},
 	{
 		"phrase": "None",
@@ -321,8 +314,7 @@
 	{
 		"phrase": "Selecting a team",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Выбор команды",
-		"machine": true
+		"translation": "Выбор команды"
 	},
 	{
 		"phrase": "Spectating",
@@ -349,8 +341,7 @@
 	{
 		"phrase": "Capture the Flag",
 		"comment": "Game mode name",
-		"translation": "Захват флага",
-		"machine": true
+		"translation": "Захват флага"
 	},
 	{
 		"phrase": "Gun Game",
@@ -550,6 +541,12 @@
 		"machine": true
 	},
 	{
+		"phrase": "Compressor",
+		"comment": "Barrel attachment name",
+		"translation": "Компрессор",
+		"machine": true
+	},
+	{
 		"phrase": "Default",
 		"comment": "Barrel attachment name",
 		"translation": "Стандартный"
@@ -586,7 +583,7 @@
 	},
 	{
 		"phrase": "Angled",
-		"comment": "Attachment name",
+		"comment": "Foregrip attachment name",
 		"translation": "Угловой",
 		"machine": true
 	},
@@ -629,14 +626,12 @@
 	{
 		"phrase": "Heavy",
 		"comment": "Ammo type name",
-		"translation": "Тяжелый",
-		"machine": true
+		"translation": "Тяжелое"
 	},
 	{
 		"phrase": "Light",
 		"comment": "Ammo type name",
-		"translation": "Свет",
-		"machine": true
+		"translation": "Световое"
 	},
 	{
 		"phrase": "Piercing",
@@ -671,8 +666,7 @@
 	{
 		"phrase": "Explosive",
 		"comment": "Payload attachment name",
-		"translation": "Взрывчатое вещество",
-		"machine": true
+		"translation": "Взрывное"
 	},
 	{
 		"phrase": "Incendiary",
@@ -682,7 +676,7 @@
 	},
 	{
 		"phrase": "Base",
-		"comment": "Loader attachment name",
+		"comment": "Stock attachment name",
 		"translation": "Основание",
 		"machine": true
 	},
@@ -731,32 +725,27 @@
 	{
 		"phrase": "Sniper",
 		"comment": "Weapon category name",
-		"translation": "Снайпер",
-		"machine": true
+		"translation": "Снайперские винтовки"
 	},
 	{
 		"phrase": "Rifle",
 		"comment": "Weapon category name",
-		"translation": "Винтовка",
-		"machine": true
+		"translation": "Винтовки"
 	},
 	{
 		"phrase": "SMG",
 		"comment": "Weapon category name",
-		"translation": "SMG",
-		"machine": true
+		"translation": "ПП"
 	},
 	{
 		"phrase": "Shotgun",
 		"comment": "Weapon category name",
-		"translation": "Дробовик",
-		"machine": true
+		"translation": "Дробовики"
 	},
 	{
 		"phrase": "Pistol",
 		"comment": "Weapon category name",
-		"translation": "Пистолет",
-		"machine": true
+		"translation": "Пистолеты"
 	},
 	{
 		"phrase": "Equipment",
@@ -1455,8 +1444,7 @@
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
 		"comment": "[Gamemode Info] Spire gamemode description",
-		"translation": "Начни с нуля и собирай оружие, чтобы уничтожить вражескую команду..",
-		"machine": true
+		"translation": "Начни с нуля и собирай оружие, чтобы уничтожить вражескую команду."
 	},
 	{
 		"phrase": "All players start with the same randomised loadout.",
@@ -1792,13 +1780,13 @@
 	},
 	{
 		"phrase": "Assists",
-		"comment": "[Progression Name]",
+		"comment": "[Player Statistic] Amount of assists received in-game",
 		"translation": "Помогает",
 		"machine": true
 	},
 	{
 		"phrase": "Headshots",
-		"comment": "[Progression Name]",
+		"comment": "[Player Statistic] Amount of players killed with a headshot",
 		"translation": "Выстрелы в голову",
 		"machine": true
 	},
@@ -2121,14 +2109,12 @@
 	{
 		"phrase": "To drop the flag",
 		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the flag'",
-		"translation": "Чтобы сбросить флаг",
-		"machine": true
+		"translation": "Чтобы бросить флаг"
 	},
 	{
 		"phrase": "To drop the bomb",
 		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the bomb'",
-		"translation": "Сбросить бомбу",
-		"machine": true
+		"translation": "Чтобы бросить бомбу"
 	},
 	{
 		"phrase": "Stage",
@@ -2138,8 +2124,7 @@
 	{
 		"phrase": "Cooldown",
 		"comment": "The time it takes for a structure to cooldown, e.g. '300ms Cooldown'. This text shows when looking at a structure in the ship",
-		"translation": "Остыть",
-		"machine": true
+		"translation": "Задержка"
 	},
 	{
 		"phrase": "Equip as primary",
@@ -2154,7 +2139,7 @@
 	{
 		"phrase": "Edit loadouts",
 		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Edit loadouts'",
-		"translation": "Измените снаряжение"
+		"translation": "Изменить снаряжение"
 	},
 	{
 		"phrase": "Modify a structure to continue",
@@ -2253,7 +2238,7 @@
 	},
 	{
 		"phrase": "Magazine",
-		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the ammo magazine, not a magazine you read",
+		"comment": "e.g. +1 Magazine when picking up an ammo bonus",
 		"translation": "Магазин"
 	},
 	{
@@ -2332,12 +2317,12 @@
 	},
 	{
 		"phrase": "Minimum level",
-		"comment": "[Lobby Claim UI] [Number Field]",
+		"comment": "[Claim Window] [Number Field] Players below the Minimum Level cannot join this lobby",
 		"translation": "Минимальный уровень"
 	},
 	{
 		"phrase": "Maximum level",
-		"comment": "[Lobby Claim UI] [Number Field]",
+		"comment": "[Claim Window] [Number Field] Players above the Maximum Level cannot join this lobby",
 		"translation": "Максимальный уровень"
 	},
 	{
@@ -2438,7 +2423,7 @@
 	},
 	{
 		"phrase": "Password Protected",
-		"comment": "[Lobby Claim UI] Toggles whether this server is password protected",
+		"comment": "[Lobby Claim UI] [Info Text]",
 		"translation": "Пароль защищен",
 		"machine": true
 	},
@@ -2761,8 +2746,7 @@
 	{
 		"phrase": "Report",
 		"comment": "[Report] [Button] Submit the report",
-		"translation": "Отчет",
-		"machine": true
+		"translation": "Пожаловаться"
 	},
 	{
 		"phrase": "Metal",
@@ -2778,37 +2762,30 @@
 	},
 	{
 		"phrase": "Recoil",
-		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Отдача",
-		"machine": true
+		"translation": "Отдача"
 	},
 	{
 		"phrase": "Stationary recoil",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Стационарная отдача",
 		"machine": true
 	},
 	{
 		"phrase": "Holster time",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Время кобуры",
 		"machine": true
 	},
 	{
 		"phrase": "ADS time",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Время ADS",
 		"machine": true
 	},
 	{
 		"phrase": "Initial recoil",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Начальная отдача",
 		"machine": true
 	},
 	{
 		"phrase": "Shot recoil ramp",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Рампа отдачи при выстреле",
 		"machine": true
 	},
@@ -2824,31 +2801,26 @@
 	},
 	{
 		"phrase": "Projectile speed",
-		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Скорость снаряда",
-		"machine": true
+		"translation": "Скорость снаряда"
 	},
 	{
 		"phrase": "Volume",
 		"comment": "[Unit] How loud something is",
-		"translation": "Объем",
-		"machine": true
+		"translation": "Громкость"
 	},
 	{
 		"phrase": "Minimap invisibility",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Невидимость на миникарте",
 		"machine": true
 	},
 	{
 		"phrase": "Pellets",
-		"comment": "[Attachment] Weapon characteristic",
+		"comment": "[Loadout] [Unit] [Plural] Amount of projectiles created by a shotgun",
 		"translation": "Пеллеты",
 		"machine": true
 	},
 	{
 		"phrase": "Pellet spread",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Пеллетный спред",
 		"machine": true
 	},
@@ -2860,105 +2832,88 @@
 	},
 	{
 		"phrase": "Rounds",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Раундов",
 		"machine": true
 	},
 	{
 		"phrase": "Player damage (body)",
-		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Повреждение игрока (тело)",
-		"machine": true
+		"translation": "Урон (тело)"
 	},
 	{
 		"phrase": "Player damage (head)",
-		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Урон игрока (голова)",
-		"machine": true
+		"translation": "Урон (голова)"
 	},
 	{
 		"phrase": "Block damage",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Блокировать урон",
 		"machine": true
 	},
 	{
 		"phrase": "RPM",
-		"comment": "[Attachment] Weapon characteristic",
+		"comment": "[Unit] [Abbreviation] Abbreviation of 'Rounds Per Minute'. If an abbreviation is not available, please translate the full phrase",
 		"translation": "Об \/ мин",
 		"machine": true
 	},
 	{
 		"phrase": "Pellet count",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Количество пеллет",
 		"machine": true
 	},
 	{
 		"phrase": "Damages through blocks and players",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Повреждения через блоки и игроков",
 		"machine": true
 	},
 	{
 		"phrase": "Bounces 3 times",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Отскакивает 3 раза",
 		"machine": true
 	},
 	{
 		"phrase": "Choke time",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Время дросселирования",
 		"machine": true
 	},
 	{
 		"phrase": "Choked spread",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Задушенный спред",
 		"machine": true
 	},
 	{
 		"phrase": "Choke resets when firing",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Дроссель сбрасывается при стрельбе",
 		"machine": true
 	},
 	{
 		"phrase": "Welded choke",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Сварной дроссель",
 		"machine": true
 	},
 	{
 		"phrase": "Automatic fire",
-		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Автоматический огонь",
 		"machine": true
 	},
 	{
 		"phrase": "Stats",
-		"comment": "[Attachment] Weapon characteristic",
+		"comment": "[Victory Screen] [Navigation] View your personal match statistics",
 		"translation": "Статистика",
 		"machine": true
 	},
 	{
 		"phrase": "Initiate",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Initiate",
-		"translation": "Положить начало",
-		"machine": true
+		"translation": "Начинающий"
 	},
 	{
 		"phrase": "Proficient",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Proficient",
-		"translation": "Опытный",
-		"machine": true
+		"translation": "Опытный"
 	},
 	{
 		"phrase": "Adept",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Adept",
-		"translation": "Адепт",
-		"machine": true
+		"translation": "Адепт"
 	},
 	{
 		"phrase": "Elite",
@@ -2968,8 +2923,7 @@
 	{
 		"phrase": "Expert",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Expert",
-		"translation": "Эксперт",
-		"machine": true
+		"translation": "Эксперт"
 	},
 	{
 		"phrase": "Master",
@@ -2979,8 +2933,7 @@
 	{
 		"phrase": "Legend",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Legend",
-		"translation": "Легенда",
-		"machine": true
+		"translation": "Легенда"
 	},
 	{
 		"phrase": "Paragon",
@@ -3018,8 +2971,7 @@
 	{
 		"phrase": "Executioner",
 		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Палач",
-		"machine": true
+		"translation": "Палач"
 	},
 	{
 		"phrase": "Grenadier",
@@ -3303,8 +3255,7 @@
 	{
 		"phrase": "Sensitivity",
 		"comment": "[Settings] [Button] Sidebar text",
-		"translation": "Чувствительность",
-		"machine": true
+		"translation": "Чувствительность"
 	},
 	{
 		"phrase": "Video",
@@ -3452,8 +3403,7 @@
 	{
 		"phrase": "Sensitivity Multiplies",
 		"comment": "[Setting] [Checkbox] When enabled, all ADS scoped values are multiplied by your look sensitivity",
-		"translation": "Чувствительность умножается",
-		"machine": true
+		"translation": "Множитель чувствительности"
 	},
 	{
 		"phrase": "Invert Y Axis",
@@ -3555,8 +3505,7 @@
 	{
 		"phrase": "Resolution",
 		"comment": "[Settings Section Header]",
-		"translation": "Разрешение",
-		"machine": true
+		"translation": "Разрешение"
 	},
 	{
 		"phrase": "Override Screen Resolution",
@@ -3597,8 +3546,7 @@
 	{
 		"phrase": "Brightness",
 		"comment": "[Term] How bright the game should be",
-		"translation": "Яркость",
-		"machine": true
+		"translation": "Яркость"
 	},
 	{
 		"phrase": "Dynamic Rendering Settings",
@@ -3615,14 +3563,12 @@
 	{
 		"phrase": "Shadows",
 		"comment": "[Settings Section Header]",
-		"translation": "Тени",
-		"machine": true
+		"translation": "Тени"
 	},
 	{
 		"phrase": "Shadow Quality",
 		"comment": "[Setting] [Slider] Controls the quality of shadows",
-		"translation": "Качество теней",
-		"machine": true
+		"translation": "Качество теней"
 	},
 	{
 		"phrase": "Render Player Shadows",
@@ -4568,32 +4514,27 @@
 	{
 		"phrase": "Flag escort",
 		"comment": "In-game point text",
-		"translation": "Пометить эскорт",
-		"machine": true
+		"translation": "Сопровождение флага"
 	},
 	{
 		"phrase": "Bomb escort",
 		"comment": "In-game point text",
-		"translation": "Сопровождение бомбы",
-		"machine": true
+		"translation": "Сопровождение бомбы"
 	},
 	{
 		"phrase": "Bomb carrier kill",
 		"comment": "In-game point text",
-		"translation": "Убийство авианосца",
-		"machine": true
+		"translation": "Убийство курьера"
 	},
 	{
 		"phrase": "MVP",
 		"comment": "Abbreviated medal name",
-		"translation": "MVP",
-		"machine": true
+		"translation": "MVP"
 	},
 	{
 		"phrase": "You can only claim 3 lobbies per day",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Вы можете требовать только 3 вестибюля в день",
-		"machine": true
+		"translation": "Вы можете занять только 3 лобби в день"
 	},
 	{
 		"phrase": "Extendest",
@@ -5345,36 +5286,31 @@
 		"phrase": "ms",
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
-		"translation": "РС",
-		"machine": true
+		"translation": "мс"
 	},
 	{
 		"phrase": "Play a Match",
 		"context": "Play a Game",
 		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
-		"translation": "Сыграть матч",
-		"machine": true
+		"translation": "Сыграть матч"
 	},
 	{
 		"phrase": "Enter Trials",
 		"context": "Enter the Trials",
 		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
-		"translation": "Введите испытания",
-		"machine": true
+		"translation": "Выбор испытаний"
 	},
 	{
 		"phrase": "Replay Tutorial",
 		"context": "Replay the Tutorial",
 		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
-		"translation": "Воспроизвести руководство",
-		"machine": true
+		"translation": "Перезапустить обучение"
 	},
 	{
 		"phrase": "Reset Ship",
 		"context": "Reset the Ship",
 		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
-		"translation": "Сбросить корабль",
-		"machine": true
+		"translation": "Сбросить состояние корабля"
 	},
 	{
 		"phrase": "e.g. apples",
@@ -5385,44 +5321,37 @@
 	{
 		"phrase": "An update is available. Close the game and update the game through Steam",
 		"comment": "[Popup] Banner at the top of the screen that tells the user to update the game through Steam. Do not translate 'Steam'",
-		"translation": "Доступно обновление. закройте игру и обновите игру через steam",
-		"machine": true
+		"translation": "Доступно обновление. Закройте игру и обновите через Steam."
 	},
 	{
 		"phrase": "Connection to Steam failed. Online play is unavailable",
 		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
-		"translation": "Не удалось подключиться к Steam. онлайн-игра недоступна",
-		"machine": true
+		"translation": "Не удалось подключиться к Steam. Онлайн-игра недоступна"
 	},
 	{
 		"phrase": "Title unlocked",
 		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
-		"translation": "Название разблокировано",
-		"machine": true
+		"translation": "Титул разблокировано"
 	},
 	{
 		"phrase": "Bronze medal",
 		"comment": "[Trial Reward]",
-		"translation": "Бронзовая медаль",
-		"machine": true
+		"translation": "Бронзовая медаль"
 	},
 	{
 		"phrase": "Silver medal",
 		"comment": "[Trial Reward]",
-		"translation": "Серебряная медаль",
-		"machine": true
+		"translation": "Серебряная медаль"
 	},
 	{
 		"phrase": "Gold medal",
 		"comment": "[Trial Reward]",
-		"translation": "Золотая медаль",
-		"machine": true
+		"translation": "Золотая медаль"
 	},
 	{
 		"phrase": "Platinum medal",
 		"comment": "[Trial Reward]",
-		"translation": "Платиновая медаль",
-		"machine": true
+		"translation": "Платиновая медаль"
 	},
 	{
 		"phrase": "To restart",
@@ -5616,7 +5545,7 @@
 	},
 	{
 		"phrase": "e.g. spaghetti",
-		"comment": "[Lobby Claim UI] [Text Field] [Placeholder] Please translate this delicious food",
+		"comment": "[Password Window] [Text Field] [Placeholder]",
 		"translation": "например, спагетти",
 		"machine": true
 	},
@@ -5745,7 +5674,7 @@
 	},
 	{
 		"phrase": "Add Friend",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
+		"comment": "[Scoreboard] [Player Dropdown] [Button]",
 		"translation": "Добавить друга",
 		"machine": true
 	},
@@ -5759,8 +5688,7 @@
 		"phrase": "Invite to Party",
 		"context": "Invite to Group",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Пригласить на вечеринку",
-		"machine": true
+		"translation": "Пригласить в группу"
 	},
 	{
 		"phrase": "Invite Votekick",
@@ -5771,14 +5699,12 @@
 	{
 		"phrase": "Report Player",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Пожаловаться на игрока",
-		"machine": true
+		"translation": "Пожаловаться на игрока"
 	},
 	{
 		"phrase": "Mute Player",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Отключить проигрыватель",
-		"machine": true
+		"translation": "Отключить звук игрока"
 	},
 	{
 		"phrase": "Unmute Player",
@@ -5803,48 +5729,41 @@
 		"phrase": "P",
 		"context": "Points",
 		"comment": "[Scoreboard] [Column Header] Player points, please only include the first letter of the translation",
-		"translation": "п",
-		"machine": true
+		"translation": "P"
 	},
 	{
 		"phrase": "K",
 		"context": "Kills",
 		"comment": "[Scoreboard] [Column Header] Player kills, please only include the first letter of the translation",
-		"translation": "K",
-		"machine": true
+		"translation": "K"
 	},
 	{
 		"phrase": "D",
 		"context": "Deaths",
 		"comment": "[Scoreboard] [Column Header] Player deaths, please only include the first letter of the translation",
-		"translation": "D",
-		"machine": true
+		"translation": "D"
 	},
 	{
 		"phrase": "A",
 		"context": "Assists",
 		"comment": "[Scoreboard] [Column Header] Player assists, please only include the first letter of the translation",
-		"translation": "А",
-		"machine": true
+		"translation": "A"
 	},
 	{
 		"phrase": "MS",
 		"context": "Latency",
 		"comment": "[Scoreboard] [Column Header] Latency (ping), measured in milliseconds. Please set to MS if it is the most appropriate measurement for latency",
-		"translation": "РС",
-		"machine": true
+		"translation": "МС"
 	},
 	{
 		"phrase": "Server Full",
 		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is full",
-		"translation": "Сервер заполнен",
-		"machine": true
+		"translation": "Сервер заполнен"
 	},
 	{
 		"phrase": "Lobby Claimed",
 		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is claimed",
-		"translation": "Лобби заявлено",
-		"machine": true
+		"translation": "Лобби занято"
 	},
 	{
 		"phrase": "Player",
@@ -5873,14 +5792,12 @@
 	{
 		"phrase": "Spectator",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
-		"translation": "Зритель",
-		"machine": true
+		"translation": "Зритель"
 	},
 	{
 		"phrase": "Spectators",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Spectators'",
-		"translation": "Зрители",
-		"machine": true
+		"translation": "Зрителя"
 	},
 	{
 		"phrase": "Player joining",
@@ -5897,8 +5814,7 @@
 	{
 		"phrase": "Balance the teams",
 		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
-		"translation": "Сбалансируйте команды",
-		"machine": true
+		"translation": "Сбалансировать команды"
 	},
 	{
 		"phrase": "Texture Quality: Quarter",
@@ -6026,7 +5942,7 @@
 	},
 	{
 		"phrase": "Online",
-		"comment": "[Social Sidebar] Placeholder friend status",
+		"comment": "[Social Sidebar] Online friends label. The full phrase is 'Party: 2 \/ 4'",
 		"translation": "Онлайн"
 	},
 	{
@@ -6181,12 +6097,12 @@
 	{
 		"phrase": "Purple",
 		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "фиолетовых блоках"
+		"translation": "фиолетовых"
 	},
 	{
 		"phrase": "Leaderboards are updated every 30 seconds.",
 		"comment": "[Trials] Leaderboard description",
-		"translation": "Таблицы лидеров обновляются каждые 30 секунд.."
+		"translation": "Таблица лидеров обновляется каждые 30 секунд.."
 	},
 	{
 		"phrase": "\nLoading personal times and leaderboards",
@@ -6215,7 +6131,7 @@
 	},
 	{
 		"phrase": "Unlocking",
-		"comment": "[Weapon Skin] [Button]",
+		"comment": "[Unlock Button] This text shows when unlocking a weapon skin",
 		"translation": "Разблокировка",
 		"machine": true
 	},
@@ -6330,8 +6246,7 @@
 	{
 		"phrase": "Finland",
 		"comment": "[Server List] [Filter]",
-		"translation": "Финляндия",
-		"machine": true
+		"translation": "Финляндия"
 	},
 	{
 		"phrase": "Copied",
@@ -6342,8 +6257,7 @@
 	{
 		"phrase": "Inventory",
 		"comment": "[Inventory] [Title]",
-		"translation": "Инвентарь",
-		"machine": true
+		"translation": "Инвентарь"
 	},
 	{
 		"phrase": "No items",
@@ -6354,8 +6268,7 @@
 	{
 		"phrase": "Loading",
 		"comment": "[Inventory] This text shows when the inventory is being loaded from the server",
-		"translation": "Загрузка",
-		"machine": true
+		"translation": "Загрузка"
 	},
 	{
 		"phrase": "Activating",
@@ -6366,20 +6279,17 @@
 	{
 		"phrase": "Delete",
 		"comment": "[Button] Delete a loadout",
-		"translation": "Удалить",
-		"machine": true
+		"translation": "Удалить"
 	},
 	{
 		"phrase": "Loadout Name",
 		"comment": "[Loadouts] [Text Field] [Placeholder] Placeholder text for when a new loadout is created",
-		"translation": "Название экипировки",
-		"machine": true
+		"translation": "Название экипировки"
 	},
 	{
 		"phrase": "Modifications",
 		"comment": "[Loadouts] [Title] This text shows above the mod selector",
-		"translation": "Модификации",
-		"machine": true
+		"translation": "Модификации"
 	},
 	{
 		"phrase": "Extra",
@@ -6390,50 +6300,42 @@
 	{
 		"phrase": "Loadout X",
 		"comment": "[Loadouts] This is the default name for a new loadout",
-		"translation": "Снаряжение X",
-		"machine": true
+		"translation": "Снаряжение X"
 	},
 	{
 		"phrase": "Power",
 		"comment": "[Loadouts] [Unit] Loadout power",
-		"translation": "Мощность",
-		"machine": true
+		"translation": "Мощность"
 	},
 	{
 		"phrase": "Block capacity",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Емкость блока",
-		"machine": true
+		"translation": "Запас блоков"
 	},
 	{
 		"phrase": "Regeneration speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость регенерации",
-		"machine": true
+		"translation": "Скорость регенерации"
 	},
 	{
 		"phrase": "Movement speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость передвижения",
-		"machine": true
+		"translation": "Скорость передвижения"
 	},
 	{
 		"phrase": "Jump velocity",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость прыжка",
-		"machine": true
+		"translation": "Скорость прыжка"
 	},
 	{
 		"phrase": "Fall damage",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Повреждение при падении",
-		"machine": true
+		"translation": "Урон от падения"
 	},
 	{
 		"phrase": "Safe fall distance",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Безопасное расстояние падения",
-		"machine": true
+		"translation": "Безопасная высота падения"
 	},
 	{
 		"phrase": "Building volume",
@@ -6444,20 +6346,17 @@
 	{
 		"phrase": "Footstep volume and distance",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Громкость и расстояние шагов",
-		"machine": true
+		"translation": "Громкость и расстояние шагов"
 	},
 	{
 		"phrase": "Build distance",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Построить расстояние",
-		"machine": true
+		"translation": "Дальность строительства"
 	},
 	{
 		"phrase": "Block health",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Заблокировать здоровье",
-		"machine": true
+		"translation": "Здоровье блоков"
 	},
 	{
 		"phrase": "Self explosion damage",
@@ -6473,22 +6372,19 @@
 	},
 	{
 		"phrase": "Dig speed",
-		"comment": "[Unit] How fast the Midi can dig blocks, e.g. '+15% Dig speed'",
-		"translation": "Скорость копания",
-		"machine": true
+		"comment": "[Loadouts] Loadout characteristic",
+		"translation": "Скорость копания"
 	},
 	{
 		"phrase": "Blocks per dig",
 		"context": "Blocks collected per dig",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Блоки на раскоп",
-		"machine": true
+		"translation": "Блоки за копание"
 	},
 	{
 		"phrase": "Build speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость сборки",
-		"machine": true
+		"translation": "Скорость строительства"
 	},
 	{
 		"phrase": "Melee speed",
@@ -6505,26 +6401,22 @@
 	{
 		"phrase": "Left click",
 		"comment": "[Loadout] [Input Prompt]",
-		"translation": "Щелчок левой кнопкой мыши",
-		"machine": true
+		"translation": "ЛКМ"
 	},
 	{
 		"phrase": "Ctrl",
 		"comment": "[Loadout] [Input Prompt] This refers to the control key on the keyboard",
-		"translation": "Ctrl",
-		"machine": true
+		"translation": "Ctrl"
 	},
 	{
 		"phrase": "Equip primary",
 		"comment": "[Loadout] [Input Prompt]. The full phrase is: 'Left Click: Equip Primary'",
-		"translation": "Оборудовать первичный",
-		"machine": true
+		"translation": "Экипировать как основное"
 	},
 	{
 		"phrase": "Equip secondary",
 		"comment": "[Loadout] [Input Prompt]. The full phrase is: 'Right Click: Equip Secondary'",
-		"translation": "Оборудовать вторичный",
-		"machine": true
+		"translation": "Экипировать как дополнительное"
 	},
 	{
 		"phrase": "Toggle weapon stats",
@@ -6584,15 +6476,13 @@
 		"phrase": "Mag Size",
 		"context": "Magazine Size",
 		"comment": "[Loadout] [Weapon Characteristic] The amount of bullets inside a magazine",
-		"translation": "Размер магазина",
-		"machine": true
+		"translation": "Размер магазина"
 	},
 	{
 		"phrase": "Extra Ammo",
 		"context": "Extra Ammunition",
 		"comment": "[Loadout] [Weapon Characteristic] The amount of extra ammunition this gun has",
-		"translation": "Дополнительные боеприпасы",
-		"machine": true
+		"translation": "Дополнительные боеприпасы"
 	},
 	{
 		"phrase": "Direct Damage",
@@ -6609,86 +6499,72 @@
 	{
 		"phrase": "Headshot Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The amount of damage this projectile deals when it smacks a player in the noggin",
-		"translation": "Урон от выстрела в голову",
-		"machine": true
+		"translation": "Урон от выстрела в голову"
 	},
 	{
 		"phrase": "Body Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The amount of damage this projectile deals when it hits a player in the body",
-		"translation": "Повреждение тела",
-		"machine": true
+		"translation": "Урон от выстрела в тело"
 	},
 	{
 		"phrase": "Block Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The amount of damage this projectile deals when it hits a block",
-		"translation": "Блокировать урон",
-		"machine": true
+		"translation": "Урон блокам"
 	},
 	{
 		"phrase": "Reload Time",
 		"comment": "[Loadout] [Weapon Characteristic] The time taken to reload this weapon",
-		"translation": "Время перезагрузки",
-		"machine": true
+		"translation": "Время перезарядки"
 	},
 	{
 		"phrase": "s",
 		"comment": "[Unit] [Abbreviation] Abbreviation of 'Seconds', the measurement of time",
-		"translation": "s",
-		"machine": true
+		"translation": "с"
 	},
 	{
 		"phrase": "Projectile Speed",
 		"comment": "[Loadout] [Projectile Characteristic] The speed that this projectile travels",
-		"translation": "Скорость снаряда",
-		"machine": true
+		"translation": "Скорость снаряда"
 	},
 	{
 		"phrase": "bps",
 		"comment": "[Unit] [Abbreviation] Abbreviation of 'Blocks Per Second', which is how many blocks a projectile travels every second. If an abbreviation is not available, please translate the full phrase",
-		"translation": "бит \/ с",
-		"machine": true
+		"translation": "блоков \/ с"
 	},
 	{
 		"phrase": "Detection Radius",
 		"comment": "[Loadout] [Scanner Characteristic] The radius (in blocks) that a Scanner reveals enemies through walls",
-		"translation": "Радиус обнаружения",
-		"machine": true
+		"translation": "Радиус обнаружения"
 	},
 	{
 		"phrase": "Lifetime",
 		"comment": "[Unit] The amount of seconds that this scanner stays alive for",
-		"translation": "Продолжительность жизни",
-		"machine": true
+		"translation": "Продолжительность жизни"
 	},
 	{
 		"phrase": "Health",
 		"comment": "[Unit] The amount of health points that a player, block, or entity has",
-		"translation": "Здоровье",
-		"machine": true
+		"translation": "Здоровье"
 	},
 	{
 		"phrase": "Level 1",
 		"comment": "[Loadouts] [Mod Level] This is a title above the statistics list for a level 1 mod",
-		"translation": "1-й уровень",
-		"machine": true
+		"translation": "Уровень 1"
 	},
 	{
 		"phrase": "Level 2",
 		"comment": "[Loadouts] [Mod Level] This is a title above the statistics list for a level 2 mod",
-		"translation": "Уровень 2",
-		"machine": true
+		"translation": "Уровень 2"
 	},
 	{
 		"phrase": "Level 3",
 		"comment": "[Loadouts] [Mod Level] This is a title above the statistics list for a level 3 mod",
-		"translation": "Уровень 3",
-		"machine": true
+		"translation": "Уровень 3"
 	},
 	{
 		"phrase": "Explosion Radius",
 		"comment": "[Projectile Characteristic] The radius of the explosion that this projectile causes",
-		"translation": "Радиус взрыва",
-		"machine": true
+		"translation": "Радиус взрыва"
 	},
 	{
 		"phrase": "Explosions",
@@ -6705,8 +6581,7 @@
 	{
 		"phrase": "Your loadout must be 15 points or less. Remove a weapon or mod to spawn.",
 		"comment": "We've all seen this text before",
-		"translation": "Ваша экипировка должна быть 15 очков или меньше. удалить оружие или мод для появления.",
-		"machine": true
+		"translation": "Мощность вашей экипировки должна быть 15 или меньше. Удалите оружие или модификацию для возрождения."
 	},
 	{
 		"phrase": "Click here to leave the cluster spawn and unlock your loadouts",
@@ -6717,8 +6592,7 @@
 	{
 		"phrase": "Sticky Grenades",
 		"comment": "[Loadout Summary] [Weapon Name]",
-		"translation": "Липкие гранаты",
-		"machine": true
+		"translation": "Липкие гранаты"
 	},
 	{
 		"phrase": "Player List",
@@ -6741,50 +6615,42 @@
 	{
 		"phrase": "Update",
 		"comment": "[Mapping] [Button] Update an existing Steam Workshop map",
-		"translation": "Обновлять",
-		"machine": true
+		"translation": "Обновить"
 	},
 	{
 		"phrase": "Downloading",
 		"comment": "[Mapping] Loading text to show that a workshop map is being downloaded",
-		"translation": "Скачивание",
-		"machine": true
+		"translation": "Скачивание"
 	},
 	{
 		"phrase": "No name",
 		"comment": "[Mapping] Placeholder text for a map that doesnt have a name",
-		"translation": "Без имени",
-		"machine": true
+		"translation": "Без имени"
 	},
 	{
 		"phrase": "No",
 		"comment": "[Mapping] Text that shows if a file is not provided, e.g. 'No VOX file found' or 'No JSON file found'",
-		"translation": "Нет",
-		"machine": true
+		"translation": "Нет"
 	},
 	{
 		"phrase": "Arena",
 		"comment": "Map Name",
-		"translation": "Арена",
-		"machine": true
+		"translation": "Арена"
 	},
 	{
 		"phrase": "Shrine",
 		"comment": "Map Name",
-		"translation": "Святыня",
-		"machine": true
+		"translation": "Святыня"
 	},
 	{
 		"phrase": "Aegis Desert",
 		"comment": "Map Name",
-		"translation": "Пустыня Эгида",
-		"machine": true
+		"translation": "Пустыня Aegis"
 	},
 	{
 		"phrase": "Crashed Freighter",
 		"comment": "Map Name",
-		"translation": "Разбитое грузовое судно",
-		"machine": true
+		"translation": "Разбитый корабль"
 	},
 	{
 		"phrase": "Ice Station",
@@ -6801,32 +6667,27 @@
 	{
 		"phrase": "Soltrium Temple",
 		"comment": "Map Name",
-		"translation": "Солтриум храм",
-		"machine": true
+		"translation": "Храм Солтриума"
 	},
 	{
 		"phrase": "Railway",
 		"comment": "Map Name",
-		"translation": "железная дорога",
-		"machine": true
+		"translation": "Железная дорога"
 	},
 	{
 		"phrase": "Laboratory",
 		"comment": "Map Name",
-		"translation": "Лаборатория",
-		"machine": true
+		"translation": "Лаборатория"
 	},
 	{
 		"phrase": "Canyon",
 		"comment": "[Map Name]",
-		"translation": "Каньон",
-		"machine": true
+		"translation": "Каньон"
 	},
 	{
 		"phrase": "Mining Facility",
 		"comment": "[Map Name]",
-		"translation": "Горнодобывающий комплекс",
-		"machine": true
+		"translation": "Горнодобывающий комплекс"
 	},
 	{
 		"phrase": "Sail City",
@@ -6843,38 +6704,32 @@
 	{
 		"phrase": "Version",
 		"comment": "[Out of Date Banner] [1\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
-		"translation": "Версия",
-		"machine": true
+		"translation": "Версия"
 	},
 	{
 		"phrase": "has been released! Close the game and update through Steam",
 		"comment": "[Out of Date Banner] [2\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
-		"translation": "был выпущен! Закройте игру и обновите через Steam",
-		"machine": true
+		"translation": "была выпущена! Закройте игру и обновите через Steam"
 	},
 	{
 		"phrase": "Player online",
 		"comment": "[Unit] The full phrase is: '1 Player online'",
-		"translation": "Игрок онлайн",
-		"machine": true
+		"translation": "Игрок онлайн"
 	},
 	{
 		"phrase": "Players online",
 		"comment": "[Unit] The full phrase is: '99999 Players online'",
-		"translation": "Игроки онлайн",
-		"machine": true
+		"translation": "Игроков онлайн"
 	},
 	{
 		"phrase": "Player in game",
 		"comment": "[Unit] The full phrase is: '1 Player in game'",
-		"translation": "Игрок в игре",
-		"machine": true
+		"translation": "Игрок в игре"
 	},
 	{
 		"phrase": "Players in game",
 		"comment": "[Unit] The full phrase is: '99999 Players in game'",
-		"translation": "Игроки в игре",
-		"machine": true
+		"translation": "Игроков в игре"
 	},
 	{
 		"phrase": "Matching server",
@@ -6891,8 +6746,7 @@
 	{
 		"phrase": "Global stats",
 		"comment": "[Server List] [Sidebar] [Title]'",
-		"translation": "Глобальная статистика",
-		"machine": true
+		"translation": "Глобальная статистика"
 	},
 	{
 		"phrase": "Matchmaking results",
@@ -6921,44 +6775,37 @@
 	{
 		"phrase": "Current version",
 		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
-		"translation": "Текущая версия",
-		"machine": true
+		"translation": "Текущая версия"
 	},
 	{
 		"phrase": "Player capacity",
 		"comment": "[Server List] [Sidebar]. The full phrase is '300\/324 Player capacity'",
-		"translation": "Вместимость игрока",
-		"machine": true
+		"translation": "Вместимость игроков"
 	},
 	{
 		"phrase": "Lowest ping",
 		"comment": "[Server List] [Sidebar]. The full phrase is '2ms Lowest ping'",
-		"translation": "Самый низкий пинг",
-		"machine": true
+		"translation": "Самый низкий пинг"
 	},
 	{
 		"phrase": "ms",
 		"comment": "[Unit] [Abbreviation] Abbreviation of milliseconds",
-		"translation": "РС",
-		"machine": true
+		"translation": "мс"
 	},
 	{
 		"phrase": "Preferences",
 		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
-		"translation": "Предпочтения",
-		"machine": true
+		"translation": "Предпочтения"
 	},
 	{
 		"phrase": "Game Modes",
 		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
-		"translation": "Режимы игры",
-		"machine": true
+		"translation": "Режимы игры"
 	},
 	{
 		"phrase": "Regions",
 		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
-		"translation": "Регионы",
-		"machine": true
+		"translation": "Регионы"
 	},
 	{
 		"phrase": "Open",
@@ -6975,32 +6822,27 @@
 	{
 		"phrase": "Day",
 		"comment": "[Unit] Measurement of time",
-		"translation": "День",
-		"machine": true
+		"translation": "День"
 	},
 	{
 		"phrase": "Days",
 		"comment": "[Unit] [Plural] Measurement of time",
-		"translation": "Дни",
-		"machine": true
+		"translation": "Дни"
 	},
 	{
 		"phrase": "Minute",
 		"comment": "[Unit] [Plural] Measurement of time",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минута"
 	},
 	{
 		"phrase": "Minutes",
 		"comment": "[Unit] [Plural] Measurement of time",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минуты"
 	},
 	{
 		"phrase": "Colour",
 		"comment": "[Colour Picker] [Title] This colour picker controls the base weapon skin colour",
-		"translation": "Цвет",
-		"machine": true
+		"translation": "Цвет"
 	},
 	{
 		"phrase": "Highlight",
@@ -7017,32 +6859,27 @@
 	{
 		"phrase": "Unlock the",
 		"comment": "[Progression] [1\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
-		"translation": "Разблокируйте",
-		"machine": true
+		"translation": "Разблокируйте"
 	},
 	{
 		"phrase": "Tag at level",
 		"comment": "[Progression] [2\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
-		"translation": "Тег на уровне",
-		"machine": true
+		"translation": "Тег на уровне"
 	},
 	{
 		"phrase": "Unlocked the",
 		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
-		"translation": "Разблокировал",
-		"machine": true
+		"translation": "Разблокирован"
 	},
 	{
 		"phrase": "Tag!",
 		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
-		"translation": "Ярлык!",
-		"machine": true
+		"translation": "Тег!"
 	},
 	{
 		"phrase": "Free weapon skin",
 		"comment": "[Progression] [1\/2] The full phrase is 'Free weapon skin at level 10'",
-		"translation": "Бесплатный скин для оружия",
-		"machine": true
+		"translation": "Бесплатный скин для оружия"
 	},
 	{
 		"phrase": "At level",
@@ -7077,8 +6914,7 @@
 	{
 		"phrase": "Level range",
 		"comment": "[Server Listing] [Claimed Lobby] The min and max level of this server, e.g. 'Level range: 30-60;",
-		"translation": "Диапазон уровней",
-		"machine": true
+		"translation": "Диапазон уровней"
 	},
 	{
 		"phrase": "Autobalancing",
