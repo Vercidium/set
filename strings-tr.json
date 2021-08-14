@@ -1403,12 +1403,12 @@
 	{
 		"phrase": "Drag to rotate",
 		"comment": "[Block Customisation] Click and drag with the mouse to rotate the block",
-		"translation": "Döndürmek için Mouse ile kaydırın"
+		"translation": "Döndürmek için fare ile kaydırın"
 	},
 	{
 		"phrase": "Scroll to zoom",
 		"comment": "[Block Customisation] Use the scroll wheel to move the camera closer to the block",
-		"translation": "Yakınlaştırmak için Mouse Scroll'unu kullanın"
+		"translation": "Yakınlaştırmak için fare Scroll'unu kullanın"
 	},
 	{
 		"phrase": "Press space to auto rotate",
@@ -2514,7 +2514,7 @@
 	{
 		"phrase": "The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyun, FPS'i yüksek tutmak için efektleri otomatik olarak devre dışı bırakır ve son işleme kalitesini düşürür. Optimal işleme ayarlarını belirlemek bir dakika kadar sürebilir."
+		"translation": "Oyun, FPS'yi yüksek tutmak için efektleri otomatik olarak devre dışı bırakır ve son işleme kalitesini düşürür. Optimal işleme ayarlarını belirlemek bir dakika kadar sürebilir."
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
@@ -2599,17 +2599,17 @@
 	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Parçacıklar, objeler parçalandığında ortaya çıkar. Bu yüzdeyi düşürmek FPS'i artıracaktır"
+		"translation": "Parçacıklar, objeler parçalandığında ortaya çıkar. Bu yüzdeyi düşürmek FPS'yi artıracaktır"
 	},
 	{
 		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Harita, 32x32x32 alanlardan oluşan parçalara bölünmüştür. Bunu azaltmak FPS'i artıracaktır."
+		"translation": "Harita, 32x32x32 alanlardan oluşan parçalara bölünmüştür. Bunu azaltmak FPS'yi artıracaktır."
 	},
 	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Dünya güneş ışıkları, blok ışıkları ve silahlardan çıkan namlu ateşleriyle aydınlanır. Oluşturulabilecek maksimum ışık miktarını azaltmak FPS'i artıracaktır."
+		"translation": "Dünya güneş ışıkları, blok ışıkları ve silahlardan çıkan namlu ateşleriyle aydınlanır. Oluşturulabilecek maksimum ışık miktarını azaltmak FPS'yi artıracaktır."
 	},
 	{
 		"phrase": "Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage",
@@ -2694,446 +2694,373 @@
 	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Dikey senkronizasyon, oyunun güncelleme hızını monitörünüzün yenileme hızıyla eşleştirir. bunu etkinleştirmek ekran yırtılmasını düzeltebilir",
-		"machine": true
+		"translation": "Dikey senkronizasyon, oyunun güncelleme hızını monitörünüzün yenileme hızıyla eşleştirir. Bunu etkinleştirmek ekran yırtılmalarını düzeltebilir.",
 	},
 	{
 		"phrase": "Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Dinamik pozlama, sahnenin parlaklığına göre pozlamayı ayarlayarak insan gözünü taklit eder",
-		"machine": true
+		"translation": "Dinamik Pozlama, sahnenin parlaklığına göre pozlamayı ayarlayarak insan gözünü taklit eder.",
 	},
 	{
 		"phrase": "Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Gölgelerin kalitesini düşürmek FPS'yi artıracak ancak yakın plandaki gölgelerin titremesine neden olacaktır.",
-		"machine": true
 	},
 	{
 		"phrase": "Reducing the quality of lighting will increase FPS but pixelate lighting",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Aydınlatma kalitesini düşürmek FPS'yi artıracak ancak aydınlatmayı pikselli hale getirecek",
-		"machine": true
+		"translation": "Aydınlatma kalitesini düşürmek FPS'yi artıracak ancak aydınlatmayı pikselli hale getirecek.",
 	},
 	{
 		"phrase": "Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu etkinleştirmek, eski donanımlarda potansiyel olarak yavaş olan işleme hattının parçalarını kaldıracaktır.",
-		"machine": true
+		"translation": "Bunu etkinleştirmek, eski donanımlara sahip bilgisayarlarda potansiyel olarak yavaş olan işleme hattının parçalarını kaldıracaktır.",
 	},
 	{
 		"phrase": "Enable this if you are having trouble connecting to servers",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Sunuculara bağlanmada sorun yaşıyorsanız bunu etkinleştirin",
-		"machine": true
+		"translation": "Sunuculara bağlanmada sorun yaşıyorsanız bunu etkinleştirin.",
 	},
 	{
 		"phrase": "If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Etkinleştirilirse, kaydırma tekerleği bina\/kaz aletleriniz arasında değil, yalnızca silahlarınız arasında dönecektir.",
-		"machine": true
+		"translation": "Etkinleştirilirse, fare Scroll'u Midi\/Kazıcı aletleriniz arasında değil, yalnızca silahlarınız arasında dönecektir.",
 	},
 	{
 		"phrase": "If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Etkinleştirilirse, her bir ironsight \/ 2x \/ 4x hassasiyet seçeneği, görünüm hassasiyetinize dayalı bir çarpandır.",
-		"machine": true
+		"translation": "Etkinleştirilirse, her bir Standart Nişangah \/ 2x Dürbün \/ 4x Dürbün Hassasiyet seçeneği, Görüş Hassasiyeti'nize dayalı olacaktır.",
 	},
 	{
 		"phrase": "The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Her karede güncellenen harita bölümlerinin miktarı. bunu düşürmek CPU kullanımını azaltacaktır",
-		"machine": true
 	},
 	{
 		"phrase": "Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu etkinleştirmek, FPS'yi artırmak ve bellek kullanımını azaltmak için doku çözünürlüğünü azaltacaktır. bunu devre dışı bırakmak, etkili olması için yeniden başlatmayı gerektirir",
-		"machine": true
+		"translation": "Bunu etkinleştirmek, FPS'yi artırmak ve bellek kullanımını azaltmak için doku çözünürlüğünü azaltacaktır. Bunu devre dışı bıraktıktan sonra etkili olması için oyunun yeniden başlatılması gerekir.",
 	},
 	{
 		"phrase": "Increasing this will improve the quality of Ambient Occlusion postprocessing",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu artırmak, ortam tıkanıklığı son işleme kalitesini artıracaktır.",
-		"machine": true
+		"translation": "Bunu artırmak, SSAO işleme kalitesini artıracaktır.",
 	},
 	{
 		"phrase": "This controls how far away friendly names will show",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bu, kolay adların ne kadar uzakta gösterileceğini kontrol eder",
-		"machine": true
+		"translation": "Bu takım arkadaşlarının adlarının ne kadar uzakta gösterileceğini kontrol eder.",
 	},
 	{
 		"phrase": "When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Devre dışı bırakıldığında, silahları kaydırırken midi\/kazıcı\/yapı atlanacak ve son araç tuş takımına basıldığında bunlar değiştirilmeyecek",
-		"machine": true
+		"translation": "Devre dışı bırakıldığında, silahları kaydırırken Midi\/Kazıcı\/Yapı atlanacak ve son araç tuş takımına basıldığında bunlar değiştirilmeyecek",
 	},
 	{
 		"phrase": "Automatically pause the game when you change to another window",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Başka bir pencereye geçtiğinizde oyunu otomatik olarak duraklatın",
-		"machine": true
+		"translation": "Başka bir pencereye geçtiğinizde oyunu otomatik olarak duraklatır.",
 	},
 	{
 		"phrase": "Replace swear words in chat messages with delicious food",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Sohbet mesajlarındaki küfürleri lezzetli yemeklerle değiştirin",
-		"machine": true
+		"translation": "Sohbet mesajlarındaki küfürleri lezzetli yemek isimleriyle değiştirir.",
 	},
 	{
 		"phrase": "Reducing this will increase FPS",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Bunu azaltmak FPS'yi artıracaktır.",
-		"machine": true
 	},
 	{
 		"phrase": "Enabling this will make the game render at the resolution specified below and stretch to the size of the window",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Bunu etkinleştirmek, oyunun aşağıda belirtilen çözünürlükte oluşturulmasını ve pencerenin boyutuna kadar uzamasını sağlar.",
-		"machine": true
 	},
 	{
 		"phrase": "Enabling this will reduce the pixelation of lower game resolutions",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Bunu etkinleştirmek, daha düşük oyun çözünürlüklerinin pikselleşmesini azaltacaktır.",
-		"machine": true
 	},
 	{
 		"phrase": "Experimental performance setting, may crash your game. Don't enable if you haven't been told to",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Deneysel performans ayarı, oyununuzu çökertebilir. size söylenmediyse etkinleştirmeyin",
-		"machine": true
+		"translation": "Deneysel performans ayarı, oyununuzu çökertebilir. Size söylenmediyse etkinleştirmeyin.",
 	},
 	{
 		"phrase": "New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Yeni işleme hattı. Bu etkinleştirildiğinde oyun daha hızlı\/yavaş çalışırsa lütfen vercidium'u discord'a bildirin",
-		"machine": true
+		"translation": "Yeni işleme hattı. Bu etkinleştirildiğinde oyun daha hızlı\/yavaş çalışırsa lütfen Discord'dan Vercidium'a bildirin",
 	},
 	{
 		"phrase": "Enable this to make",
 		"comment": "[Setting] [Tooltip] [1\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
 		"translation": "Bunu yapmak için etkinleştirin",
-		"machine": true
 	},
 	{
 		"phrase": "dig single blocks and",
 		"comment": "[Setting] [Tooltip] [2\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
 		"translation": "tek blokları kazmak ve",
-		"machine": true
 	},
 	{
 		"phrase": "dig a 3x3x3 area",
 		"comment": "[Setting] [Tooltip] [3\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
 		"translation": "3x3x3 alan kazmak",
-		"machine": true
 	},
 	{
 		"phrase": "Character",
 		"comment": "[Character Screen] [Navigation] Character tab (Human Soldier, Human Elite, etc)",
 		"translation": "Karakter",
-		"machine": true
 	},
 	{
 		"phrase": "Ship",
 		"comment": "[Customise] [Navigation] Ship tab",
 		"translation": "Gemi",
-		"machine": true
 	},
 	{
 		"phrase": "Loadouts",
 		"comment": "[Customise] [Navigation] Loadouts tab",
-		"translation": "Yüklemeler",
-		"machine": true
+		"translation": "Kitler",
 	},
 	{
 		"phrase": "Weapons",
 		"comment": "[Customise] [Navigation] Weapons tab",
 		"translation": "Silahlar",
-		"machine": true
 	},
 	{
 		"phrase": "Killcam",
 		"comment": "[Customise] [Navigation] Killcam tab",
-		"translation": "kamera",
-		"machine": true
+		"translation": "Killcam",
 	},
 	{
 		"phrase": "Blocks",
 		"comment": "[Customise] [Navigation] Blocks tab",
 		"translation": "Bloklar",
-		"machine": true
 	},
 	{
 		"phrase": "Playtime",
 		"comment": "[Player Statistic] Total time played",
-		"translation": "oyun zamanı",
-		"machine": true
+		"translation": "Oynanış Süresi",
 	},
 	{
 		"phrase": "Matches",
 		"comment": "[Player Statistic] Amount of matches played",
 		"translation": "Maçlar",
-		"machine": true
 	},
 	{
 		"phrase": "Kills",
 		"comment": "[Player Statistic] Amount of players killed",
-		"translation": "öldürür",
-		"machine": true
+		"translation": "Öldürmeler",
 	},
 	{
 		"phrase": "Deaths",
 		"comment": "[Player Statistic] Times this player has died",
 		"translation": "Ölümler",
-		"machine": true
 	},
 	{
 		"phrase": "Assists",
 		"comment": "[Progression Name]",
-		"translation": "asist",
-		"machine": true
+		"translation": "Asistler",
 	},
 	{
 		"phrase": "KDR",
 		"comment": "[Player Statistic] Kill to death ratio",
 		"translation": "KDR",
-		"machine": true
 	},
 	{
 		"phrase": "Headshots",
 		"comment": "[Progression Name]",
-		"translation": "Kafa vuruşları",
-		"machine": true
+		"translation": "Kafa Vuruşları",
 	},
 	{
 		"phrase": "Unavailable",
 		"comment": "[Sight] [Button] This weapon sight attachment is not available for this gun",
-		"translation": "Kullanım dışı",
-		"machine": true
+		"translation": "Kullanılamıyor",
 	},
 	{
 		"phrase": "Level",
 		"comment": "[Killcam] The level of the player",
 		"translation": "Seviye",
-		"machine": true
 	},
 	{
 		"phrase": "Equipped",
 		"comment": "[Sight] [Button] This weapon sight attachment is equipped",
-		"translation": "Donanımlı",
-		"machine": true
+		"translation": "Kuşanıldı",
 	},
 	{
 		"phrase": "Sight",
 		"comment": "[Weapons] Sight tab",
-		"translation": "Görme",
-		"machine": true
+		"translation": "Nişangah",
 	},
 	{
 		"phrase": "Skin",
 		"comment": "[Weapons] Skin tab",
-		"translation": "Deri",
-		"machine": true
+		"translation": "Görünüm",
 	},
 	{
 		"phrase": "Red dot",
 		"comment": "Sight attachment name",
-		"translation": "kırmızı nokta",
-		"machine": true
+		"translation": "Kırmızı Nokta",
 	},
 	{
 		"phrase": "2X",
 		"comment": "[Weapons] 2X scope tab",
-		"translation": "2 KERE",
-		"machine": true
+		"translation": "2X",
 	},
 	{
 		"phrase": "4X",
 		"comment": "[Weapons] 4X scope tab",
 		"translation": "4X",
-		"machine": true
 	},
 	{
 		"phrase": "Camo",
 		"comment": "[Weapons] Camoflague weapon skin tab",
-		"translation": "kamuflaj",
-		"machine": true
+		"translation": "Kamuflaj",
 	},
 	{
 		"phrase": "Metal",
 		"comment": "[Weapons] Metal weapon skin tab",
 		"translation": "Metal",
-		"machine": true
 	},
 	{
 		"phrase": "Barrel",
 		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the barrel of a gun, not a barrel of water",
-		"translation": "Varil",
-		"machine": true
+		"translation": "Namlu",
 	},
 	{
 		"phrase": "Foregrip",
 		"comment": "[Attachment UI] [Label] Attachment category name",
-		"translation": "ön tutuş",
-		"machine": true
+		"translation": "Kabza",
 	},
 	{
 		"phrase": "Stock",
 		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the part of the gun that rests against your shoulder, e.g. 'Fora was the laughing stock of the classroom', or 'Satisfied Onion goes well with chicken stock'",
-		"translation": "Stoklamak",
-		"machine": true
+		"translation": "Stok",
 	},
 	{
 		"phrase": "Equip",
 		"comment": "[Unlock Button] This character can be equipped",
-		"translation": "Donatmak",
-		"machine": true
+		"translation": "Kuşan",
 	},
 	{
 		"phrase": "Free",
 		"comment": "[Unlock Button] This weapon skin can be unlocked for free",
-		"translation": "Özgür",
-		"machine": true
+		"translation": "Bedava",
 	},
 	{
 		"phrase": "Join",
 		"comment": "[Spectate Text] This shows in the bottom left of the Arena. The full phrase is: '[B] Join Aegis'",
-		"translation": "Katılmak",
-		"machine": true
+		"translation": "Katıl",
 	},
 	{
 		"phrase": "This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun moduna kurtarma denir. iki takım, soltrium adı verilen değerli bir kaynak içeren bir kutuya karşı yarışır..",
-		"machine": true
+		"translation": "Bu oyun modunun adı Escort'tur. İki takım, Soltrium adı verilen değerli bir kaynak içeren bir Canister'i ele geçirmeye çalışır.",
 	},
 	{
 		"phrase": "The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Kutunun yakınında en çok oyuncuya sahip olan takım, soltrium çıkaracak ve takımı için puan kazanacaktır. bu ekranın üst kısmında görülebilir.",
-		"machine": true
+		"translation": "Canister'in yakınında en çok oyuncuya sahip olan takım, Soltrium çıkaracak ve takımı için puan kazanacaktır. Bu ekranın üst kısmında görülebilir.",
 	},
 	{
 		"phrase": "When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bir teneke kutu tükendiğinde, başka bir yerde yenisi ortaya çıkar. 500 puana ulaşan ilk takım kazanır!",
-		"machine": true
+		"translation": "Bir Canister tükendiğinde, başka bir yerde yenisi ortaya çıkar. 500 puana ulaşan ilk takım kazanır!",
 	},
 	{
 		"phrase": "Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bir oyuncu öldüğünde cephane bonusları düşer. silahlarınız için ekstra cephane almak için onları alın ve ekibiniz için 2 puan kazanın.",
-		"machine": true
+		"translation": "Bir oyuncu öldüğünde cephane paketleri düşürür. Silahlarınız için ekstra cephane almak ve ekibiniz için 2 puan kazandırmak için bu paketleri toplayın.",
 	},
 	{
 		"phrase": "This game mode is called Breakthrough. To win, your team must control all five zones.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun moduna atılım denir. kazanmak için ekibinizin beş bölgeyi de kontrol etmesi gerekir.",
-		"machine": true
+		"translation": "Bu oyun modunun adı Breakthrough'tur. Kazanmak için takımınızın beş bölgenin kontolünü elinde tutması gerekir.",
 	},
 	{
 		"phrase": "When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bir bölge ekibiniz tarafından ele geçirildiğinde, 20 saniyeye kadar dondurulur. donmuşken düşman onu geri alamaz, bu da takımınıza bir sonraki bölgeye ilerleme şansı verir.",
-		"machine": true
+		"translation": "Bir bölge ekibiniz tarafından ele geçirildiğinde, 20 saniyeye kadar dondurulur. Bölge dondurulmuşken düşman onu geri alamaz, bu da takımınıza bir sonraki bölgeye ilerleme şansı verir.",
 	},
 	{
 		"phrase": "Zones must be captured in order and cannot be back-capped.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bölgeler sırayla yakalanmalı ve geri kapatılamaz.",
-		"machine": true
+		"translation": "Bölgeler sırasıyla ele geçirilmelidir.",
+
 	},
 	{
 		"phrase": "This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun moduna kontrol kaydırma denir. bir bölge var ve amaç o bölgeyi düşman bölgesine geri itmek..",
-		"machine": true
+		"translation": "Bu oyun modunun adı Control Shift'tir. Bir bölge var ve amaç o bölgeyi düşman tarafına itmek.",
 	},
 	{
 		"phrase": "The zone will begin moving when one team has more players inside it than the other.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bölge, bir takımın içinde diğerinden daha fazla oyuncu olduğunda hareket etmeye başlar..",
-		"machine": true
+		"translation": "Bölge, bir takımın içinde diğerinden daha fazla oyuncu olduğunda hareket etmeye başlar.",
 	},
 	{
 		"phrase": "This game mode is called Escort. To win, your team must deliver 3 bombs.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun moduna eskort denir. kazanmak için takımınız 3 bomba atmalı.",
-		"machine": true
+		"translation": "Bu oyun modunun adı Escort'tur. Kazanmak için takımınız 3 kere bombayı düşman bölgesine götürmelidir.",
 	},
 	{
 		"phrase": "Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her takımın haritanın kendi tarafından alması ve düşman bomba alanına teslim etmesi gereken bir bombası vardır..",
-		"machine": true
+		"translation": "Her takımın haritanın kendi tarafından alması ve düşman bomba alanına teslim etmesi gereken bir bombası vardır.",
 	},
 	{
 		"phrase": "You can either escort your bomb carrier, or defend your bomb site from the enemy.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bomba taşıyıcınıza eşlik edebilir veya bomba sitenizi düşmandan koruyabilirsiniz..",
-		"machine": true
+		"translation": "Bomba taşıyıcınıza eşlik edebilir veya bomba alanınızı düşmandan koruyabilirsiniz.",
 	},
 	{
 		"phrase": "This game mode is called Capture the Flag. Each team has a flag that they must defend.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun moduna bayrağı yakala denir. her takımın savunması gereken bir bayrağı vardır.",
-		"machine": true
+		"translation": "Bu oyun modunun adı Capture the Flag'dır. Her takımın savunması gereken bir bayrağı vardır.",
 	},
 	{
 		"phrase": "To win your team must steal the enemy flag and take it back to your base 3 times.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Takımınız kazanmak için düşman bayrağını çalmalı ve 3 kez üssünüze geri götürmelidir..",
-		"machine": true
+		"translation": "Takımınız kazanmak için düşman bayrağını 3 kez çalmalı ve üssünüze geri götürmelidir.",
 	},
 	{
 		"phrase": "You can either infiltrate the enemy base, or defend your flag from the enemy.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Düşman üssüne sızabilir veya bayrağınızı düşmandan koruyabilirsiniz..",
-		"machine": true
+		"translation": "Bayrağı çalmaya çalışabilir veya bayrağınızı düşmandan koruyabilirsiniz.",
 	},
 	{
 		"phrase": "This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun moduna silah oyunu denir. her oyuncu aynı silahla başlar ve 2 kişiyi öldürdükten sonra bir sonraki silaha geçer.",
-		"machine": true
+		"translation": "Bu oyun modunun adı Gun Game'dir. Her oyuncu aynı silahla başlar ve 2 kişiyi öldürdükten sonra bir sonraki silaha geçer.",
 	},
 	{
 		"phrase": "The stage that each player is up to is shown at the top of the screen.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her oyuncunun bulunduğu aşama ekranın üst kısmında gösterilir..",
-		"machine": true
+		"translation": "Her oyuncunun bulunduğu aşama ekranın üst kısmında gösterilir.",
 	},
 	{
 		"phrase": "To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Kazanmak için 11. aşamaya geçmeniz ve ardından kazıcınızla veya bıçağınızla bir düşmanı öldürmeniz gerekir..",
-		"machine": true
+		"translation": "Kazanmak için 11. aşamaya geçmeniz ve ardından Kazıcınızla veya bıçağınızla bir düşmanı öldürmeniz gerekir.",
 	},
 	{
 		"phrase": "When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Hasar veya bir düşman kazıcı\/bıçaktan düşmek için ölürken, bir aşama geri gönderilirsiniz.",
-		"machine": true
+		"translation": "Düşerek ölür veya Kazıcı/bıçak ile öldürülürseniz, bir aşama geri gönderilirsiniz.",
 	},
 	{
 		"phrase": "This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu herkes için ücretsiz oyun moduna kafa avcısı denir. kazanmak için, zamanlayıcı bittiğinde en fazla soltriyumu tutmalısın.",
-		"machine": true
+		"translation": "Bu oyun modunun adı Head Hunter'dir. Kazanmak için, süre bittiğinde en fazla Soltrium'u elinde bulundurmalısın.",
 	},
 	{
 		"phrase": "Each player starts with nothing and collects weapons and mods from around the map.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her oyuncu sıfırdan başlar ve haritanın her yerinden silahlar ve modlar toplar..",
-		"machine": true
+		"translation": "Her oyuncu silahsız başlar ve haritanın rastgele bölgelerinden silahlar ve modifikasyonlar toplar.",
 	},
 	{
 		"phrase": "When a player dies, they will drop their weapons, half their Soltrium and half their mods.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bir oyuncu öldüğünde silahlarını, soltriyumlarının yarısını ve modlarının yarısını düşürür..",
-		"machine": true
+		"translation": "Bir oyuncu öldüğünde silahlarını, Soltriumlarının yarısını ve modifikasyonlarının yarısını düşürür.",
 	},
 	{
 		"phrase": "Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.",
@@ -7936,7 +7863,7 @@
 	{
 		"phrase": "Be careful, Soltrium Canisters in the Crashed Freighter are explosive",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Dikkatli olun, düşen yük gemisindeki soltrium kutuları patlayıcıdır.",
+		"translation": "Dikkatli olun, düşen yük gemisindeki Soltrium kutuları patlayıcıdır.",
 		"machine": true
 	},
 	{
@@ -7960,7 +7887,7 @@
 	{
 		"phrase": "Use the Soltrium trail from the Rail Gun to locate enemy players",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Düşman oyuncuları bulmak için raylı silahtan gelen soltrium izini kullanın",
+		"translation": "Düşman oyuncuları bulmak için raylı silahtan gelen Soltrium izini kullanın",
 		"machine": true
 	},
 	{
