@@ -3065,659 +3065,550 @@
 	{
 		"phrase": "Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Kazanmak için soltriyumu alın, ancak dikkatli olun, çünkü en çok soltriyuma sahip olan oyuncu herkese gösterilecektir..",
-		"machine": true
+		"translation": "Kazanmak için Soltriumu toplayın ancak dikkatli olun, çünkü en çok Soltriuma sahip olan oyuncu herkese trafaından görülebilir olacaktır.",
 	},
 	{
 		"phrase": "This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu arena oyun moduna spire denir. kazanmak için düşman takımı 5 kez ortadan kaldırmalısın.",
-		"machine": true
+		"translation": "Bu arena oyun modunun adı Spire'dir. Kazanmak için düşman takımını 5 kez ortadan kaldırmalısın.",
 	},
 	{
 		"phrase": "Each player starts with nothing and must build into the sky to pick up weapons.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her oyuncu hiçbir şeyle başlar ve silahları almak için gökyüzüne inşa edilmelidir..",
-		"machine": true
+		"translation": "Her oyuncu silahsız başlar ve silahları almak için kuleler inşa etmelilerdir.",
 	},
 	{
 		"phrase": "This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu arena oyun moduna statik denir. kazanmak için düşman takımı 5 kez ortadan kaldırmalısın.",
-		"machine": true
+		"translation": "Bu arena oyun modunun adı Static'tir. Kazanmak için düşman takımını 5 kez ortadan kaldırmalısın.",
 	},
 	{
 		"phrase": "Each player shares the same loadout, which is randomised each round.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her oyuncu, her turda rastgele dağıtılan aynı yükü paylaşır.",
-		"machine": true
+		"translation": "Her oyuncu, her turda rastgele dağıtılan aynı kiti kullanır.",
 	},
 	{
 		"phrase": "Press space to continue",
 		"comment": "[Gamemode Tutorial] User input prompt to complete the gamemode tutorial",
-		"translation": "devam etmek için boşluk tuşuna basın",
-		"machine": true
+		"translation": "Devam etmek için Space tuşuna basın",
 	},
 	{
 		"phrase": "Return to battle",
 		"comment": "This text shows when the player moves out of bounds in-game",
-		"translation": "savaşa dön",
-		"machine": true
+		"translation": "Savaşa alanına dön",
 	},
 	{
 		"phrase": "Round won!",
 		"comment": "Text that shows at the top of the screen when winning an arena round",
-		"translation": "Yuvarlak kazandı!",
-		"machine": true
+		"translation": "Raunt kazanıldı!",
 	},
 	{
 		"phrase": "Press",
 		"comment": "[1\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
 		"translation": "basmak",
-		"machine": true
 	},
 	{
 		"phrase": "Or",
 		"comment": "[2\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
 		"translation": "Veya",
-		"machine": true
 	},
 	{
 		"phrase": "to change team mates",
 		"comment": "[3\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
 		"translation": "takım arkadaşlarını değiştirmek",
-		"machine": true
 	},
 	{
 		"phrase": "Pick up equipment",
 		"comment": "[Input Prompt] This text shows in Spire when the player is standing next to C4. The full text is '[V] Pick up equipment'",
-		"translation": "alma ekipmanı",
-		"machine": true
+		"translation": "Ekipmanı al",
 	},
 	{
 		"phrase": "Pick up primary",
 		"comment": "[Input Prompt] This text shows in Spire or Head Hunter when the player is standing next to a weapon. The full text is '[V] Pick up primary'",
-		"translation": "Birincil al",
-		"machine": true
+		"translation": "Birincil silah al",
 	},
 	{
 		"phrase": "Pick up secondary",
 		"comment": "[Input Prompt] This text shows in Spire or Head Hunter when the player is standing next to a weapon. The full text is '[V] Pick up secondary'",
-		"translation": "İkincil al",
-		"machine": true
+		"translation": "İkincil silah al",
 	},
 	{
 		"phrase": "Player ready",
 		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '1 player ready'",
 		"translation": "Oyuncu hazır",
-		"machine": true
 	},
 	{
 		"phrase": "Players ready",
 		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '15 players ready'",
 		"translation": "Oyuncular hazır",
-		"machine": true
 	},
 	{
 		"phrase": "Starting in",
 		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is 'Starting in 30 seconds'",
-		"translation": "İçinde başlayan",
-		"machine": true
+		"translation": "İçinde başlıyor",
 	},
 	{
 		"phrase": "Second",
 		"comment": "[Unit] Measurement of time",
 		"translation": "Saniye",
-		"machine": true
 	},
 	{
 		"phrase": "Available",
 		"comment": "This text shows at the top of the screen in-game when customising weapons. The full text is '12000 Protons Available'",
 		"translation": "Mevcut",
-		"machine": true
 	},
 	{
 		"phrase": "Leave killcam",
 		"comment": "[Input Prompt] This text shows in-game when viewing the killcam. The full phrase is '[SPACE] Leave killcam'",
 		"translation": "Killcam'den ayrıl",
-		"machine": true
 	},
 	{
 		"phrase": "Redeploy",
 		"comment": "[In-Game Escape Menu]",
 		"translation": "Yeniden konuşlandır",
-		"machine": true
 	},
 	{
 		"phrase": "Spectate",
 		"comment": "[In-Game Escape Menu] Abandon Helix and become a spectator. A smart choice",
-		"translation": "seyirci",
-		"machine": true
+		"translation": "Seyret",
 	},
 	{
 		"phrase": "Report player",
 		"comment": "[In-Game Escape Menu] Report a player",
 		"translation": "Oyuncuyu raporla",
-		"machine": true
 	},
 	{
 		"phrase": "Lobby panel",
 		"comment": "[In-Game Escape Menu] Open the lobby panel",
-		"translation": "lobi paneli",
-		"machine": true
+		"translation": "Lobi paneli",
 	},
 	{
 		"phrase": "Submit feedback",
 		"comment": "[In-Game Escape Menu] Show the popup for submitting feedback",
 		"translation": "Geri bildirim gönder",
-		"machine": true
 	},
 	{
 		"phrase": "Disconnect",
 		"comment": "[In-Game Escape Menu] Disconnect from the server",
-		"translation": "bağlantıyı kes",
-		"machine": true
+		"translation": "Bağlantıyı kes",
 	},
 	{
 		"phrase": "Contest the canister",
 		"comment": "[Salvage] This text shows at the top of the screen when playing Salvage. It's a nicer way of saying 'Hey deWolf, play the objective'",
-		"translation": "Kutuyu yarışmak",
-		"machine": true
+		"translation": "Canister'i ele geçir",
 	},
 	{
 		"phrase": "Returning flag",
 		"comment": "[CTF] This text shows in the center of the screen when the player is returning their flag back to their base",
-		"translation": "dönen bayrak",
-		"machine": true
+		"translation": "Bayrak geri dödürülüyor",
 	},
 	{
 		"phrase": "Defusing bomb",
 		"comment": "[Escort] This text shows in the center of the screen when the player is defusing the enemy bomb",
-		"translation": "bombayı etkisiz hale getirmek",
-		"machine": true
+		"translation": "Bomba imha ediliyor",
 	},
 	{
 		"phrase": "You are carrying the flag",
 		"comment": "[CTF] This text shows at the top of the screen when the player is carrying the flag",
-		"translation": "bayrağı taşıyorsun",
-		"machine": true
+		"translation": "Bayrağı taşıyorsun",
 	},
 	{
 		"phrase": "You are carrying the bomb",
 		"comment": "[Escort] This text shows at the top of the screen when the player is carrying the bomb",
-		"translation": "bombayı taşıyorsun",
-		"machine": true
+		"translation": "Bombayı taşıyorsun",
 	},
 	{
 		"phrase": "To drop the flag",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the flag'",
+		"comment": "[Input Prompt] [1\/2] The full phrase is 'Press [C] to drop the flag'",
 		"translation": "Bayrağı düşürmek için",
-		"machine": true
 	},
 	{
 		"phrase": "To drop the bomb",
 		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the bomb'",
 		"translation": "Bombayı atmak için",
-		"machine": true
 	},
 	{
 		"phrase": "Stage",
 		"comment": "[Gun Game] [Match Info] i.e. a player is at 'Stage 3'",
-		"translation": "Sahne",
-		"machine": true
+		"translation": "Aşama",
 	},
 	{
 		"phrase": "Save",
 		"comment": "[Killcam] [Button] Save killcam customisation changes",
-		"translation": "Kayıt etmek",
-		"machine": true
+		"translation": "Kaydet",
 	},
 	{
 		"phrase": "Cooldown",
 		"comment": "The time it takes for a structure to cooldown, e.g. '300ms Cooldown'. This text shows when looking at a structure in the ship",
-		"translation": "Sakin ol",
-		"machine": true
+		"translation": "Bekleme süresi",
 	},
 	{
 		"phrase": "Equip as primary",
 		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as primary'",
-		"translation": "Birincil olarak donat",
-		"machine": true
+		"translation": "Birincil olarak kuşan",
 	},
 	{
 		"phrase": "Equip as secondary",
 		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as secondary'",
-		"translation": "İkincil olarak donat",
-		"machine": true
+		"translation": "İkincil olarak kuşan",
 	},
 	{
 		"phrase": "Edit loadouts",
 		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Edit loadouts'",
-		"translation": "Yüklemeleri düzenle",
-		"machine": true
+		"translation": "Kitleri düzenle",
 	},
 	{
 		"phrase": "Modify a structure to continue",
 		"comment": "[Tutorial] This text shows when the player needs to add or remove a block from a structure to continue",
 		"translation": "Devam etmek için bir yapıyı değiştirin",
-		"machine": true
 	},
 	{
 		"phrase": "Head over to the shooting range",
 		"comment": "[Tutorial]",
 		"translation": "Atış poligonuna gidin",
-		"machine": true
 	},
 	{
 		"phrase": "Select a weapon from the gun rack",
 		"comment": "[Tutorial] [Input Prompt]",
 		"translation": "Silah rafından bir silah seçin",
-		"machine": true
 	},
 	{
 		"phrase": "Shoot the targets and try different weapons. Press",
 		"comment": "[Tutorial] [1\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
 		"translation": "Hedefleri vur ve farklı silahlar dene. basmak",
-		"machine": true
 	},
 	{
 		"phrase": "To set up a loadout",
 		"comment": "[Tutorial] [2\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
 		"translation": "Bir yükleme ayarlamak için",
-		"machine": true
 	},
 	{
 		"phrase": "Tag",
 		"comment": "[Killcam] [Unit] The amount of tags this player has, e.g. '1 Tag'",
 		"translation": "Etiket",
-		"machine": true
 	},
 	{
 		"phrase": "Tags",
 		"comment": "[Killcam] [Unit] [Plural] The amount of tags this player has, e.g. '15 Tags'",
 		"translation": "Etiketler",
-		"machine": true
 	},
 	{
 		"phrase": "Loadout",
 		"comment": "[Killcam] [Label] This text shows below the loadout of the player that killed us",
-		"translation": "Yükleme",
-		"machine": true
+		"translation": "Kit",
 	},
 	{
 		"phrase": "Killed by",
 		"comment": "[Killcam] [Label] This text shows below the weapon that killed us",
 		"translation": "Tarafından öldürüldü",
-		"machine": true
 	},
 	{
 		"phrase": "Join the battle",
 		"comment": "[In-Game Escape Menu] This text shows instead of 'Redeploying' when the player is spectating",
-		"translation": "savaşa katıl",
-		"machine": true
+		"translation": "Savaşa katıl",
 	},
 	{
 		"phrase": "Linking your Twitch account",
 		"comment": "[Twitch Link Popup] This text shows when your Twitch account is in the process of being linked. Do not translate the word Twitch.",
-		"translation": "twitch hesabınızı bağlama",
-		"machine": true
+		"translation": "Twitch hesabınız bağlanıyor",
 	},
 	{
 		"phrase": "Summary",
 		"comment": "[Store Checkout Popup] [Title]",
 		"translation": "Özet",
-		"machine": true
 	},
 	{
 		"phrase": "Creator Code (Optional)",
 		"comment": "[Store Checkout Popup] [Text Field] Enter a creator code here",
-		"translation": "İçerik oluşturucu kodu (isteğe bağlı)",
-		"machine": true
+		"translation": "CC kodu (isteğe bağlı)",
 	},
 	{
 		"phrase": "Friend username",
 		"comment": "[Store Checkout Popup] [Text Field] Enter the username of the friend you are gifting this pack too",
-		"translation": "arkadaş kullanıcı adı",
-		"machine": true
+		"translation": "Arkadaş kullanıcı adı",
 	},
 	{
 		"phrase": "Resources loading in the background",
 		"comment": "Text in the bottom-right of the screen that shows when background resources are loading",
-		"translation": "Arka planda yüklenen kaynaklar",
-		"machine": true
+		"translation": "Arka planda kaynaklar yükleniyor",
 	},
 	{
 		"phrase": "Block",
 		"comment": "e.g. +1 Block when picking up an ammo bonus",
-		"translation": "Engellemek",
-		"machine": true
+		"translation": "Blok",
 	},
 	{
 		"phrase": "Magazine",
 		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the ammo magazine, not a magazine you read",
-		"translation": "dergi",
-		"machine": true
+		"translation": "Şarjör",
 	},
 	{
 		"phrase": "Magazines",
 		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
-		"translation": "dergiler",
-		"machine": true
+		"translation": "Şarjörler",
 	},
 	{
 		"phrase": "Account",
 		"comment": "[Button] Account button in the top-left",
 		"translation": "Hesap",
-		"machine": true
 	},
 	{
 		"phrase": "Refresh statistics",
 		"comment": "[Button] Refresh your player statistics",
 		"translation": "İstatistikleri yenile",
-		"machine": true
 	},
 	{
 		"phrase": "Refreshing",
 		"comment": "Loading text that replaces Refresh Statistics",
-		"translation": "ferahlatıcı",
-		"machine": true
+		"translation": "Yenileniyor",
 	},
 	{
 		"phrase": "Character token",
 		"comment": "[Unit] Character token",
-		"translation": "Karakter alınmış",
-		"machine": true
+		"translation": "Karakter Tokeni",
 	},
 	{
 		"phrase": "Character tokens",
 		"comment": "[Unit] Character tokens",
-		"translation": "Karakter belirteçleri",
-		"machine": true
+		"translation": "Karakter Tokenleri",
 	},
 	{
 		"phrase": "Player statistics",
 		"comment": "[Button] View your player statistics",
 		"translation": "Oyuncu istatistikleri",
-		"machine": true
 	},
 	{
 		"phrase": "Transaction log",
 		"comment": "[Button] View your transaction log",
-		"translation": "İşlem günlüğü",
-		"machine": true
+		"translation": "İşlem geçmişi",
 	},
 	{
 		"phrase": "Redeem key",
 		"comment": "[Button] Open the popup for redeeming a key",
 		"translation": "Anahtarı kullan",
-		"machine": true
 	},
 	{
 		"phrase": "Provide feedback",
 		"comment": "[Button] Open the popup for providing feedback",
-		"translation": "Geribildirim sağlamak",
-		"machine": true
+		"translation": "Geribildirim sağla",
 	},
 	{
 		"phrase": "View inventory",
 		"comment": "[Button] View your inventory",
 		"translation": "Envanteri görüntüle",
-		"machine": true
 	},
 	{
 		"phrase": "Link",
 		"comment": "[Button] Link your Twitch account. The full text is Link Twitch, but Twitch is not being translated",
-		"translation": "Bağlantı",
-		"machine": true
+		"translation": "Bağla",
 	},
 	{
 		"phrase": "Recoil",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "geri tepme",
-		"machine": true
+		"translation": "Geri tepme",
 	},
 	{
 		"phrase": "Stationary recoil",
 		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Sabit geri tepme",
-		"machine": true
 	},
 	{
 		"phrase": "Holster time",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "kılıf süresi",
-		"machine": true
+		"translation": "Kuşanma süresi",
 	},
 	{
 		"phrase": "ADS time",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "reklam zamanı",
-		"machine": true
+		"translation": "ADS süresi",
 	},
 	{
 		"phrase": "Initial recoil",
 		"comment": "[Attachment] Weapon characteristic",
 		"translation": "İlk geri tepme",
-		"machine": true
 	},
 	{
 		"phrase": "Shot recoil ramp",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "atış geri tepme rampası",
-		"machine": true
+		"translation": "Sürekli artan geri tepme",
 	},
 	{
 		"phrase": "Loadout power",
-		"translation": "Yükleme gücü",
-		"machine": true
+		"translation": "Kit gücü",
 	},
 	{
 		"phrase": "Damage range",
-		"translation": "Hasar aralığı",
-		"machine": true
+		"translation": "Hasar mesafesi",
 	},
 	{
 		"phrase": "Projectile speed",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "mermi hızı",
-		"machine": true
+		"translation": "Mermi hızı",
 	},
 	{
 		"phrase": "Minimap invisibility",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Mini harita görünmezliği",
-		"machine": true
+		"translation": "Mini haritada görünmezlik",
 	},
 	{
 		"phrase": "Pellets",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "peletler",
-		"machine": true
+		"translation": "Peletler",
 	},
 	{
 		"phrase": "Pellet spread",
 		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Pelet yayılması",
-		"machine": true
 	},
 	{
 		"phrase": "Reload",
 		"comment": "[Keybind]",
-		"translation": "Tekrar yükle",
-		"machine": true
+		"translation": "Şarjör değiştirme",
 	},
 	{
 		"phrase": "Rounds",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "mermi",
-		"machine": true
+		"translation": "Rounds",
 	},
 	{
 		"phrase": "Player damage (body)",
 		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Oyuncu hasarı (vücut)",
-		"machine": true
 	},
 	{
 		"phrase": "Player damage (head)",
 		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Oyuncu hasarı (kafa)",
-		"machine": true
 	},
 	{
 		"phrase": "Block damage",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Hasarı engelle",
-		"machine": true
+		"translation": "Blok hasarı",
 	},
 	{
 		"phrase": "RPM",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "devir",
-		"machine": true
+		"translation": "RPM",
 	},
 	{
 		"phrase": "Pellet count",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "pelet sayısı",
-		"machine": true
+		"translation": "Pelet sayısı",
 	},
 	{
 		"phrase": "Damages through blocks and players",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Bloklar ve oyunculardan kaynaklanan hasarlar",
-		"machine": true
+		"translation": "Blokların ardından oyunculara hasar verir",
 	},
 	{
 		"phrase": "Bounces 3 times",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "3 kez zıplar",
-		"machine": true
+		"translation": "3 kez seker",
 	},
 	{
 		"phrase": "Choke time",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "boğulma zamanı",
-		"machine": true
+		"translation": "Kısıcı zamanı",
 	},
 	{
 		"phrase": "Choked spread",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "boğulmuş yayılma",
-		"machine": true
+		"translation": "Kısılmış yayılma",
 	},
 	{
 		"phrase": "Choke resets when firing",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Ateş ederken jikle sıfırlanır",
-		"machine": true
+		"translation": "Ateş ederken Kısıcı sıfırlanır",
 	},
 	{
 		"phrase": "Welded choke",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "kaynaklı jikle",
-		"machine": true
+		"translation": "kaynaklı Kısıcı",
 	},
 	{
 		"phrase": "Automatic fire",
 		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Otomatik ateş",
-		"machine": true
 	},
 	{
 		"phrase": "Stats",
 		"comment": "[Attachment] Weapon characteristic",
 		"translation": "İstatistikler",
-		"machine": true
 	},
 	{
 		"phrase": "Forwards",
 		"comment": "[Keybind] Move forward",
-		"translation": "Forvet",
-		"machine": true
+		"translation": "İleri",
 	},
 	{
 		"phrase": "Right",
 		"comment": "[Keybind] Move right",
-		"translation": "Doğru",
-		"machine": true
+		"translation": "Sağ",
 	},
 	{
 		"phrase": "Backwards",
 		"comment": "[Keybind] Move backwards",
 		"translation": "Geriye doğru",
-		"machine": true
 	},
 	{
 		"phrase": "Crouch",
 		"comment": "[Keybind]",
-		"translation": "çömelmek",
-		"machine": true
+		"translation": "Eğilme",
 	},
 	{
 		"phrase": "Jump",
 		"comment": "[Keybind]",
-		"translation": "Zıplamak",
-		"machine": true
+		"translation": "Zıplama",
 	},
 	{
 		"phrase": "Sprint",
 		"comment": "[Keybind]",
-		"translation": "sürat koşusu",
-		"machine": true
+		"translation": "Koşma",
 	},
 	{
 		"phrase": "Slide",
 		"comment": "[Keybind]",
-		"translation": "Kaymak",
-		"machine": true
+		"translation": "Kayma",
 	},
 	{
 		"phrase": "Pick Up Primary",
 		"comment": "[Keybind]",
-		"translation": "Birincil al",
-		"machine": true
+		"translation": "Birincil silah al",
 	},
 	{
 		"phrase": "Pick Up Secondary",
 		"comment": "[Keybind]",
-		"translation": "İkincil al",
-		"machine": true
+		"translation": "İkincil silah al",
 	},
 	{
 		"phrase": "Ping",
 		"comment": "[Keybind]",
 		"translation": "Ping",
-		"machine": true
 	},
 	{
 		"phrase": "Ping (Enemy)",
 		"comment": "[Keybind]",
-		"translation": "Ping (düşman)",
-		"machine": true
+		"translation": "Ping (Düşman)",
 	},
 	{
 		"phrase": "Ping (Caution)",
 		"comment": "[Keybind]",
-		"translation": "Ping (dikkat)",
-		"machine": true
+		"translation": "Ping (Dikkat)",
 	},
 	{
 		"phrase": "Ping (Help)",
 		"comment": "[Keybind]",
-		"translation": "Ping (yardım)",
-		"machine": true
+		"translation": "Ping (Yardım)",
 	},
 	{
 		"phrase": "Ping (Reinforce)",
 		"comment": "[Keybind]",
-		"translation": "Ping (güçlendirmek)",
-		"machine": true
+		"translation": "Ping (Sağlamlaştır)",
 	},
 	{
 		"phrase": "Ping (Destroy)",
 		"comment": "[Keybind]",
-		"translation": "Ping (yok et)",
+		"translation": "Ping (Yok et)",
 		"machine": true
 	},
 	{
@@ -6443,7 +6334,7 @@
 	{
 		"phrase": "Soltrium Temple",
 		"comment": "Map Name",
-		"translation": "soltriyum tapınağı",
+		"translation": "Soltrium tapınağı",
 		"machine": true
 	},
 	{
