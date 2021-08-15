@@ -2830,8 +2830,7 @@
 	{
 		"phrase": "Reload",
 		"comment": "[Keybind]",
-		"translation": "Перезагрузить",
-		"machine": true
+		"translation": "Перезарядка"
 	},
 	{
 		"phrase": "Rounds",
@@ -2870,14 +2869,12 @@
 	{
 		"phrase": "Damages through blocks and players",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Повреждения через блоки и игроков",
-		"machine": true
+		"translation": "Урон через блоки и игроков"
 	},
 	{
 		"phrase": "Bounces 3 times",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Отскакивает 3 раза",
-		"machine": true
+		"translation": "Отскакивает 3 раза"
 	},
 	{
 		"phrase": "Choke time",
@@ -3009,8 +3006,7 @@
 	{
 		"phrase": "Catalyst",
 		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Катализатор",
-		"machine": true
+		"translation": "Катализатор"
 	},
 	{
 		"phrase": "Captor",
@@ -3027,8 +3023,7 @@
 	{
 		"phrase": "Thief",
 		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Вор",
-		"machine": true
+		"translation": "Вор"
 	},
 	{
 		"phrase": "Reinforcer",
@@ -3039,68 +3034,57 @@
 	{
 		"phrase": "Engineer",
 		"comment": "[Killcam Tag] [Building]",
-		"translation": "Инженер",
-		"machine": true
+		"translation": "Инженер"
 	},
 	{
 		"phrase": "Fabricator",
 		"comment": "[Killcam Tag] [Building]",
-		"translation": "Изготовитель",
-		"machine": true
+		"translation": "Изготовитель"
 	},
 	{
 		"phrase": "Architect",
 		"comment": "[Killcam Tag] [Building]",
-		"translation": "Архитектор",
-		"machine": true
+		"translation": "Архитектор"
 	},
 	{
 		"phrase": "Sentry",
 		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Часовой",
-		"machine": true
+		"translation": "Часовой"
 	},
 	{
 		"phrase": "Protector",
 		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Защитник",
-		"machine": true
+		"translation": "Защитник"
 	},
 	{
 		"phrase": "Sentinel",
 		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Страж",
-		"machine": true
+		"translation": "Страж"
 	},
 	{
 		"phrase": "Guardian",
 		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Хранитель",
-		"machine": true
+		"translation": "Хранитель"
 	},
 	{
 		"phrase": "Raider",
 		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Рейдер",
-		"machine": true
+		"translation": "Рейдер"
 	},
 	{
 		"phrase": "Marauder",
 		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Мародер",
-		"machine": true
+		"translation": "Мародер"
 	},
 	{
 		"phrase": "Vanquisher",
 		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Покоритель",
-		"machine": true
+		"translation": "Покоритель"
 	},
 	{
 		"phrase": "Conquerer",
 		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Завоеватель",
-		"machine": true
+		"translation": "Завоеватель"
 	},
 	{
 		"phrase": "Terminator",
@@ -3111,8 +3095,7 @@
 	{
 		"phrase": "Gunslinger",
 		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Стрелок",
-		"machine": true
+		"translation": "Стрелок"
 	},
 	{
 		"phrase": "Deadeye",
@@ -3122,14 +3105,12 @@
 	{
 		"phrase": "Sharpshooter",
 		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Снайпер",
-		"machine": true
+		"translation": "Снайпер"
 	},
 	{
 		"phrase": "Deathbringer",
 		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Несущий смерть",
-		"machine": true
+		"translation": "Несущий смерть"
 	},
 	{
 		"phrase": "Blaster",
@@ -3206,32 +3187,26 @@
 	{
 		"phrase": "Eagle Eye",
 		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Орлиный глаз",
-		"machine": true
+		"translation": "Орлиный глаз"
 	},
 	{
 		"phrase": "All Seeing",
 		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Всевидящий",
-		"machine": true
+		"translation": "Всевидящий"
 	},
 	{
 		"phrase": "Body Guard",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Телохранитель",
-		"machine": true
+		"comment": "[Killcam Tag] [Saviour Points]"
 	},
 	{
 		"phrase": "Slayer",
 		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Убийца",
-		"machine": true
+		"translation": "Убийца"
 	},
 	{
 		"phrase": "Punisher",
 		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Каратель",
-		"machine": true
+		"translation": "Каратель"
 	},
 	{
 		"phrase": "Midi Certified",
@@ -3242,8 +3217,7 @@
 	{
 		"phrase": "Maze Runner",
 		"comment": "[Killcam Tag] [Trials] Reached all Silver times in the trials",
-		"translation": "Бегущий по лабиринту",
-		"machine": true
+		"translation": "Бегущий по лабиринту"
 	},
 	{
 		"phrase": "Trial Master",
@@ -3258,8 +3232,7 @@
 	{
 		"phrase": "Podium",
 		"comment": "[Victory Screen] [Navigation] View the victory podium",
-		"translation": "Подиум",
-		"machine": true
+		"translation": "Подиум"
 	},
 	{
 		"phrase": "Scoreboard",
@@ -3297,14 +3270,12 @@
 	{
 		"phrase": "Close",
 		"comment": "Close the settings window",
-		"translation": "Закрывать",
-		"machine": true
+		"translation": "Закрыть"
 	},
 	{
 		"phrase": "Peacekeeper",
 		"comment": "Setting name for the peacekeeper mechanic",
-		"translation": "Миротворец",
-		"machine": true
+		"translation": "Миротворец"
 	},
 	{
 		"phrase": "Networking",
@@ -3347,20 +3318,17 @@
 	{
 		"phrase": "Chat",
 		"comment": "[Keybind]",
-		"translation": "Чат",
-		"machine": true
+		"translation": "Чат"
 	},
 	{
 		"phrase": "Streamer Mode",
 		"comment": "[Setting] [Checkbox] Toggles Streamer Mode",
-		"translation": "Режим стримера",
-		"machine": true
+		"translation": "Режим стримера"
 	},
 	{
 		"phrase": "Profanity Filter",
 		"comment": "[Setting] [Checkbox] Toggles the profanity filter, which replaces swear words with delicious food",
-		"translation": "Фильтр ненормативной лексики",
-		"machine": true
+		"translation": "Фильтр ненормативной лексики"
 	},
 	{
 		"phrase": "Chat Timeout",
@@ -3371,8 +3339,7 @@
 	{
 		"phrase": "Rendering",
 		"comment": "[Settings Section Header]",
-		"translation": "Рендеринг",
-		"machine": true
+		"translation": "Рендеринг"
 	},
 	{
 		"phrase": "Friendly Outline Through Walls",
@@ -3382,8 +3349,7 @@
 	{
 		"phrase": "Miscellaneous",
 		"comment": "[Settings Section Header]",
-		"translation": "Разнообразный",
-		"machine": true
+		"translation": "Другое"
 	},
 	{
 		"phrase": "Camera Sway",
@@ -3508,14 +3474,12 @@
 	{
 		"phrase": "Secret",
 		"comment": "[Settings Section Header]",
-		"translation": "Секрет",
-		"machine": true
+		"translation": "Секрет"
 	},
 	{
 		"phrase": "This Doesn't Do Anything",
 		"comment": "[Setting] [Checkbox] This setting doesn't do anything",
-		"translation": "Это ничего не делает",
-		"machine": true
+		"translation": "Ничего не делает"
 	},
 	{
 		"phrase": "Resolution",
@@ -3549,14 +3513,12 @@
 	{
 		"phrase": "Field of View",
 		"comment": "[Setting] [Slider] Controls the field of view that the game camera uses",
-		"translation": "Поле зрения",
-		"machine": true
+		"translation": "Поле зрения"
 	},
 	{
 		"phrase": "Degrees",
 		"comment": "[Unit] Angle measurement",
-		"translation": "Градусы",
-		"machine": true
+		"translation": "Градусы"
 	},
 	{
 		"phrase": "Brightness",
@@ -3572,8 +3534,7 @@
 	{
 		"phrase": "Texture Quality",
 		"comment": "[Setting] [Slider] Controls the resolution of textures",
-		"translation": "Качество текстуры",
-		"machine": true
+		"translation": "Качество текстуры"
 	},
 	{
 		"phrase": "Shadows",
@@ -3641,8 +3602,7 @@
 	{
 		"phrase": "Particle Amount",
 		"comment": "[Setting] [Slider] This controls how many particles can be rendered at any one time",
-		"translation": "Количество частиц",
-		"machine": true
+		"translation": "Количество частиц"
 	},
 	{
 		"phrase": "Weather Particle Amount",
@@ -3659,8 +3619,7 @@
 	{
 		"phrase": "Lighting Quality",
 		"comment": "[Setting] [Slider] This controls the quality of lighting effects",
-		"translation": "Качество освещения",
-		"machine": true
+		"translation": "Качество освещения"
 	},
 	{
 		"phrase": "Samples",
@@ -3699,8 +3658,7 @@
 	{
 		"phrase": "Compatibility",
 		"comment": "[Settings Section Header]",
-		"translation": "Совместимость",
-		"machine": true
+		"translation": "Совместимость"
 	},
 	{
 		"phrase": "Experimental",
@@ -3770,20 +3728,17 @@
 	{
 		"phrase": "Tools",
 		"comment": "[Settings Section Header] This section contains keybinds for swapping to primary\/secondary weapons or equipment",
-		"translation": "Инструменты",
-		"machine": true
+		"translation": "Инструменты"
 	},
 	{
 		"phrase": "Navigation",
 		"comment": "[Settings Section Header] This section contains keybinds for changing between news\/store\/ship screens",
-		"translation": "Навигация",
-		"machine": true
+		"translation": "Навигация"
 	},
 	{
 		"phrase": "Team Colours",
 		"comment": "[Settings Section Header]",
-		"translation": "Цвета команды",
-		"machine": true
+		"translation": "Цвета команды"
 	},
 	{
 		"phrase": "Friendly Colour",
@@ -3821,8 +3776,7 @@
 	{
 		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Изменяет частоту получения данных об игроках с сервера. уменьшите это значение, если у вас нестабильный Интернет или низкая пропускная способность..",
-		"machine": true
+		"translation": "Изменяет частоту получения данных об игроках с сервера. Уменьшите это значение, если у вас нестабильный интернет или низкая пропускная способность."
 	},
 	{
 		"phrase": "Pew Pew Mode",
@@ -3832,8 +3786,7 @@
 	{
 		"phrase": "Must keep enabled at all times",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Должен быть включен постоянно",
-		"machine": true
+		"translation": "Должен быть включен постоянно"
 	},
 	{
 		"phrase": "The size of the bottom-right minimap",
@@ -3886,8 +3839,7 @@
 	{
 		"phrase": "UI Scale",
 		"comment": "[Setting] [Slider] Controls the size of the user interface",
-		"translation": "Масштаб пользовательского интерфейса",
-		"machine": true
+		"translation": "Масштаб UI"
 	},
 	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
@@ -4165,8 +4117,7 @@
 	{
 		"phrase": "Jump",
 		"comment": "[Keybind]",
-		"translation": "Прыгать",
-		"machine": true
+		"translation": "Прыжок"
 	},
 	{
 		"phrase": "Sprint",
@@ -4227,19 +4178,17 @@
 	{
 		"phrase": "Shoot",
 		"comment": "[Keybind]",
-		"translation": "Стрелять",
-		"machine": true
+		"translation": "Стрелять"
 	},
 	{
 		"phrase": "Scope",
 		"comment": "[Keybind]",
-		"translation": "Прицел"
+		"translation": "Прцелиться"
 	},
 	{
 		"phrase": "Melee",
 		"comment": "[Keybind]",
-		"translation": "Рукопашный бой",
-		"machine": true
+		"translation": "Рукопашный бой"
 	},
 	{
 		"phrase": "Grenade",
@@ -4272,56 +4221,47 @@
 	{
 		"phrase": "Structure 1",
 		"comment": "[Keybind]",
-		"translation": "Структура 1",
-		"machine": true
+		"translation": "Структура 1"
 	},
 	{
 		"phrase": "Structure 2",
 		"comment": "[Keybind]",
-		"translation": "Структура 2",
-		"machine": true
+		"translation": "Структура 2"
 	},
 	{
 		"phrase": "Structure 3",
 		"comment": "[Keybind]",
-		"translation": "Структура 3",
-		"machine": true
+		"translation": "Структура 3"
 	},
 	{
 		"phrase": "Structure 4",
 		"comment": "[Keybind]",
-		"translation": "Структура 4",
-		"machine": true
+		"translation": "Структура 4"
 	},
 	{
 		"phrase": "Structure 5",
 		"comment": "[Keybind]",
-		"translation": "Структура 5",
-		"machine": true
+		"translation": "Структура 5"
 	},
 	{
 		"phrase": "Structure 6",
 		"comment": "[Keybind]",
-		"translation": "Структура 6",
-		"machine": true
+		"translation": "Структура 6"
 	},
 	{
 		"phrase": "Structure 7",
 		"comment": "[Keybind]",
-		"translation": "Структура 7",
-		"machine": true
+		"translation": "Структура 7"
 	},
 	{
 		"phrase": "Structure 8",
 		"comment": "[Keybind]",
-		"translation": "Структура 8",
-		"machine": true
+		"translation": "Структура 8"
 	},
 	{
 		"phrase": "Structure 9",
 		"comment": "[Keybind]",
-		"translation": "Структура 9",
-		"machine": true
+		"translation": "Структура 9"
 	},
 	{
 		"phrase": "Primary",
@@ -4338,26 +4278,22 @@
 	{
 		"phrase": "Switch To Last Tool",
 		"comment": "[Keybind]",
-		"translation": "Перейти к последнему инструменту",
-		"machine": true
+		"translation": "Перейти к последнему инструменту"
 	},
 	{
 		"phrase": "Next Tool",
 		"comment": "[Keybind]",
-		"translation": "Следующий инструмент",
-		"machine": true
+		"translation": "Следующий инструмент"
 	},
 	{
 		"phrase": "Previous Tool",
 		"comment": "[Keybind]",
-		"translation": "Предыдущий инструмент",
-		"machine": true
+		"translation": "Предыдущий инструмент"
 	},
 	{
 		"phrase": "Team Chat",
 		"comment": "[Keybind]",
-		"translation": "Командный чат",
-		"machine": true
+		"translation": "Командный чат"
 	},
 	{
 		"phrase": "View Scoreboard",
@@ -4639,8 +4575,7 @@
 		"phrase": "Blocks",
 		"context": "Cubes",
 		"comment": "A 3d voxel",
-		"translation": "Блоки",
-		"machine": true
+		"translation": "Блоки"
 	},
 	{
 		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
@@ -5055,197 +4990,165 @@
 	{
 		"phrase": "Building 1",
 		"comment": "[Trial Name]",
-		"translation": "Корпус 1",
-		"machine": true
+		"translation": "Строительство 1"
 	},
 	{
 		"phrase": "Building 2",
 		"comment": "[Trial Name]",
-		"translation": "Корпус 2",
-		"machine": true
+		"translation": "Строительство 2"
 	},
 	{
 		"phrase": "Building 3",
 		"comment": "[Trial Name]",
-		"translation": "Корпус 3",
-		"machine": true
+		"translation": "Строительство 3"
 	},
 	{
 		"phrase": "Digging 1",
 		"comment": "[Trial Name]",
-		"translation": "Копаем 1",
-		"machine": true
+		"translation": "Копание 1"
 	},
 	{
 		"phrase": "Digging 2",
 		"comment": "[Trial Name]",
-		"translation": "Копаем 2",
-		"machine": true
+		"translation": "Копание 2"
 	},
 	{
 		"phrase": "Digging 3",
 		"comment": "[Trial Name]",
-		"translation": "Копаем 3",
-		"machine": true
+		"translation": "Копание 3"
 	},
 	{
 		"phrase": "Build + Dig 1",
 		"comment": "[Trial Name]",
-		"translation": "Строить + копать 1",
-		"machine": true
+		"translation": "Строительство + копание 1"
 	},
 	{
 		"phrase": "Build + Dig 2",
 		"comment": "[Trial Name]",
-		"translation": "Строить + копать 2",
-		"machine": true
+		"translation": "Строительство + копание 2"
 	},
 	{
 		"phrase": "Build + Dig 3",
 		"comment": "[Trial Name]",
-		"translation": "Строить + копать 3",
-		"machine": true
+		"translation": "Строительство + копание 3"
 	},
 	{
 		"phrase": "Purchases",
 		"comment": "[Transaction Log] Category title",
-		"translation": "Покупки",
-		"machine": true
+		"translation": "Покупки"
 	},
 	{
 		"phrase": "Open",
 		"context": "Public",
 		"comment": "[Play Screen] [Navigation] Public lobbies tab",
-		"translation": "Открыть",
-		"machine": true
+		"translation": "Публичные"
 	},
 	{
 		"phrase": "England",
 		"comment": "[Server List] [Filter]",
-		"translation": "Англия",
-		"machine": true
+		"translation": "Англия"
 	},
 	{
 		"phrase": "France",
 		"comment": "[Server List] [Filter]",
-		"translation": "Франция",
-		"machine": true
+		"translation": "Франция"
 	},
 	{
 		"phrase": "Germany",
 		"comment": "[Server List] [Filter]",
-		"translation": "Германия",
-		"machine": true
+		"translation": "Германия"
 	},
 	{
 		"phrase": "Greece",
 		"comment": "[Server List] [Filter]",
-		"translation": "Греция",
-		"machine": true
+		"translation": "Греция"
 	},
 	{
 		"phrase": "Sweden",
 		"comment": "[Server List] [Filter]",
-		"translation": "Швеция",
-		"machine": true
+		"translation": "Швеция"
 	},
 	{
 		"phrase": "Russia",
 		"comment": "[Server List] [Filter]",
-		"translation": "Россия",
-		"machine": true
+		"translation": "Россия"
 	},
 	{
 		"phrase": "Israel",
 		"comment": "[Server List] [Filter]",
-		"translation": "Израиль",
-		"machine": true
+		"translation": "Израиль"
 	},
 	{
 		"phrase": "USA West",
 		"comment": "[Server List] [Filter]",
-		"translation": "Запад США",
-		"machine": true
+		"translation": "Запад США"
 	},
 	{
 		"phrase": "USA Central",
 		"comment": "[Server List] [Filter]",
-		"translation": "Центральная часть США",
-		"machine": true
+		"translation": "Центральная часть США"
 	},
 	{
 		"phrase": "USA East",
 		"comment": "[Server List] [Filter]",
-		"translation": "Восток США",
-		"machine": true
+		"translation": "Восток США"
 	},
 	{
 		"phrase": "Canada",
 		"comment": "[Server List] [Filter]",
-		"translation": "Канада",
-		"machine": true
+		"translation": "Канада"
 	},
 	{
 		"phrase": "Brazil",
 		"comment": "[Server List] [Filter]",
-		"translation": "Бразилия",
-		"machine": true
+		"translation": "Бразилия"
 	},
 	{
 		"phrase": "India",
 		"comment": "[Server List] [Filter]",
-		"translation": "Индия",
-		"machine": true
+		"translation": "Индия"
 	},
 	{
 		"phrase": "Japan",
 		"comment": "[Server List] [Filter]",
-		"translation": "Япония",
-		"machine": true
+		"translation": "Япония"
 	},
 	{
 		"phrase": "Singapore",
 		"comment": "[Server List] [Filter]",
-		"translation": "Сингапур",
-		"machine": true
+		"translation": "Сингапур"
 	},
 	{
 		"phrase": "South Korea",
 		"comment": "[Server List] [Filter]",
-		"translation": "Южная Корея",
-		"machine": true
+		"translation": "Южная Корея"
 	},
 	{
 		"phrase": "Australia",
 		"comment": "[Server List] [Filter]",
-		"translation": "Австралия",
-		"machine": true
+		"translation": "Австралия"
 	},
 	{
 		"phrase": "Close",
 		"context": "Shut",
 		"comment": "[Settings] [Button] Sidebar text. This closes the settings window",
-		"translation": "Закрывать",
-		"machine": true
+		"translation": "Закрыть"
 	},
 	{
 		"phrase": "Block",
 		"context": "Voxel",
 		"comment": "[Unit] 3D voxel",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блок"
 	},
 	{
 		"phrase": "Degree",
 		"comment": "[Unit] Angle measurement",
-		"translation": "Степень",
-		"machine": true
+		"translation": "Градус"
 	},
 	{
 		"phrase": "Chunk",
 		"comment": "[Unit] A group of 32x32x32 voxels",
-		"translation": "Кусок",
-		"machine": true
+		"translation": "Чанк"
 	},
 	{
 		"phrase": "Sample",
@@ -5256,14 +5159,12 @@
 	{
 		"phrase": "%",
 		"comment": "[Unit] Percentage, e.g. '50% Bloom Strength'",
-		"translation": "%",
-		"machine": true
+		"translation": "%"
 	},
 	{
 		"phrase": "x",
 		"comment": "[Unit] Multiplication, e.g. '2.0x Shadow Quality'",
-		"translation": "Икс",
-		"machine": true
+		"translation": "x"
 	},
 	{
 		"phrase": "Show bloom effects on Holo and Red Dot optics",
@@ -5378,14 +5279,12 @@
 		"phrase": "Best kill streak",
 		"context": "LOngest kill streak",
 		"comment": "[Victory Screen] Your longest kill streak, e.g. 'Best kill streak: 3'",
-		"translation": "Лучшая серия убийств",
-		"machine": true
+		"translation": "Лучшая серия убийств"
 	},
 	{
 		"phrase": "Weapon Stats",
 		"comment": "[Victory Screen] Title above the table showing how many kills, shots\/throws, accuracy, etc you have for each weapon",
-		"translation": "Статистика оружия",
-		"machine": true
+		"translation": "Статистика оружия"
 	},
 	{
 		"phrase": "Throw",
@@ -5445,8 +5344,7 @@
 	{
 		"phrase": "Accuracy",
 		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
-		"translation": "Точность",
-		"machine": true
+		"translation": "Точность"
 	},
 	{
 		"phrase": "Headshot hit",
@@ -5471,14 +5369,12 @@
 	{
 		"phrase": "Accept",
 		"comment": "[UI] [Button] Accept an invitation",
-		"translation": "Принимать",
-		"machine": true
+		"translation": "Принять"
 	},
 	{
 		"phrase": "Decline",
 		"comment": "[UI] [Button] Decline an invitation",
-		"translation": "Отклонить",
-		"machine": true
+		"translation": "Отклонить"
 	},
 	{
 		"phrase": "Melee kills",
@@ -8414,14 +8310,12 @@
 	{
 		"phrase": "Admin",
 		"comment": "[Chat] This is the name of the admin user, i.e. 'Admin: Inkhorror is the worst mod'",
-		"translation": "Админ",
-		"machine": true
+		"translation": "Админ"
 	},
 	{
 		"phrase": "Movement Speed",
 		"comment": "Spectator control",
-		"translation": "Скорость передвижения",
-		"machine": true
+		"translation": "Скорость передвижения"
 	},
 	{
 		"phrase": "Clamp Y",
@@ -8567,14 +8461,12 @@
 	{
 		"phrase": "Select Aegis",
 		"comment": "Spectator control. Spectate an Aegis player so you can learn to play well",
-		"translation": "Выберите эгиду",
-		"machine": true
+		"translation": "Выберите Aegis"
 	},
 	{
 		"phrase": "Select Helix",
 		"comment": "Spectator control. Spectate an Helix player so you can watch them hide underground",
-		"translation": "Выбрать спираль",
-		"machine": true
+		"translation": "Выбрать Helix"
 	},
 	{
 		"phrase": "Creating path",
@@ -8652,20 +8544,17 @@
 	{
 		"phrase": "Loading settings",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Загрузка настроек",
-		"machine": true
+		"translation": "Загрузка настроек"
 	},
 	{
 		"phrase": "Loading maps",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Загрузка карт",
-		"machine": true
+		"translation": "Загрузка карт"
 	},
 	{
 		"phrase": "Creating scenes",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Создание сцен",
-		"machine": true
+		"translation": "Создание сцен"
 	},
 	{
 		"phrase": "Meshing worlds",
@@ -8676,14 +8565,12 @@
 	{
 		"phrase": "Cleaning up",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Убираться",
-		"machine": true
+		"translation": "Очистка"
 	},
 	{
 		"phrase": "Ready",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Готовый",
-		"machine": true
+		"translation": "Готово"
 	},
 	{
 		"phrase": "Base amplifier",
