@@ -22,8 +22,7 @@
 	{
 		"phrase": "Disruptor assist",
 		"comment": "In-game point text",
-		"translation": "Ассистент дезинтегратора",
-		"machine": true
+		"translation": "Помощь электроминой"
 	},
 	{
 		"phrase": "Headshot",
@@ -68,8 +67,7 @@
 	{
 		"phrase": "Disruptor destroyed",
 		"comment": "In-game point text",
-		"translation": "Дисраптор уничтожен",
-		"machine": true
+		"translation": "Уничтожение электромины"
 	},
 	{
 		"phrase": "Avenger",
@@ -3892,32 +3890,27 @@
 	{
 		"phrase": "Controls whether players from casting shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Контролирует, могут ли игроки отбрасывать тени",
-		"machine": true
+		"translation": "Определяет, могут ли игроки отбрасывать тени"
 	},
 	{
 		"phrase": "Controls whether Disruptors, C4, Scanners and Canisters cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Контролирует, отбрасывают ли дезрапторы, c4, сканеры и канистры тени",
-		"machine": true
+		"translation": "Определяет, отбрасывают ли электромины, C4, сканеры и канистры тени"
 	},
 	{
 		"phrase": "Controls whether particles cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Определяет, отбрасывают ли частицы тени",
-		"machine": true
+		"translation": "Определяет, отбрасывают ли частицы тени"
 	},
 	{
 		"phrase": "Controls whether leaf particles cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Определяет, отбрасывают ли частицы листьев тени",
-		"machine": true
+		"translation": "Определяет, отбрасывают ли частицы листьев тени"
 	},
 	{
 		"phrase": "Controls whether falling structures cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Контролирует, отбрасывают ли падающие конструкции тени",
-		"machine": true
+		"translation": "Определяет, отбрасывают ли падающие конструкции тени"
 	},
 	{
 		"phrase": "Multisampling smooths the edges of objects",
