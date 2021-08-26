@@ -74,7 +74,7 @@
 	{
 		"phrase": "Disruptor destroyed",
 		"comment": "In-game point text",
-		"translation": "perturbateur détruit"
+		"translation": "Disruptor détruit"
 	},
 	{
 		"phrase": "Avenger",
@@ -343,7 +343,7 @@
 	{
 		"phrase": "Left",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "gauche"
+		"translation": "à quitté"
 	},
 	{
 		"phrase": "Breakthrough",
@@ -419,8 +419,7 @@
 	{
 		"phrase": "EAC Violation",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Violation du CAE",
-		"machine": true
+		"translation": "Violation de EAC"
 	},
 	{
 		"phrase": "Kicked for inactivity",
@@ -736,7 +735,7 @@
 	{
 		"phrase": "Single",
 		"comment": "Core attachment name, i.e. single shot vs automatic fire",
-		"translation": "Seul",
+		"translation": "unique",
 		"machine": true
 	},
 	{
@@ -813,7 +812,7 @@
 	{
 		"phrase": "Circle Cross",
 		"comment": "Crosshair name",
-		"translation": "Croix de cercle",
+		"translation": "Croix et cercle",
 		"machine": true
 	},
 	{
@@ -1140,8 +1139,7 @@
 	{
 		"phrase": "Attaches to walls. Right click to pull the wall down.",
 		"comment": "Weapon description",
-		"translation": "Se fixe aux murs. clic droit pour abaisser le mur.",
-		"machine": true
+		"translation": "Se fixe aux murs. clic droit pour detruire le mur.",
 	},
 	{
 		"phrase": "Building",
@@ -1151,20 +1149,17 @@
 	{
 		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 blocs\n+2 blocs de distance de construction\n+5 bloc de santé",
-		"machine": true
+		"translation": "+100 blocs\n+2 blocs de distance de construction\n+5 Santé pour les blocs",
 	},
 	{
 		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 blocs\n+4 blocs de distance de construction\n+9 bloc de santé",
-		"machine": true
+		"translation": "+100 blocs\n+4 blocs de distance de construction\n+9 santé pour les blocs",
 	},
 	{
 		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 blocs\n+6 blocs de distance de construction\n+13 bloc de santé",
-		"machine": true
+		"translation": "+100 blocs\n+6 blocs de distance de construction\n+13 santé pour les blocs",
 	},
 	{
 		"phrase": "Hydraulics",
@@ -1187,14 +1182,12 @@
 	{
 		"phrase": "Speed",
 		"comment": "Armour modification name",
-		"translation": "La vitesse",
-		"machine": true
+		"translation": "Vitesse",
 	},
 	{
 		"phrase": "Stealth",
 		"comment": "Armour modification name",
-		"translation": "Furtif",
-		"machine": true
+		"translation": "Furtivité",
 	},
 	{
 		"phrase": "Kinetic",
@@ -1355,8 +1348,7 @@
 	{
 		"phrase": "A curious one, aren't you?",
 		"comment": "Character description",
-		"translation": "Un curieux, n'est-ce pas?",
-		"machine": true
+		"translation": "T'es un curieux toi",
 	},
 	{
 		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
@@ -1469,7 +1461,7 @@
 	{
 		"phrase": "Click the Play tab when you are ready",
 		"comment": "[Popup] Tutorial popup prompt",
-		"translation": "Cliquez sur l'onglet lecture lorsque vous êtes prêt",
+		"translation": "Cliquez sur l'onglet jouer lorsque vous êtes prêt",
 		"machine": true
 	},
 	{
@@ -1511,8 +1503,7 @@
 	{
 		"phrase": "Analysing environment",
 		"comment": "[Connecting] Fancy loading text",
-		"translation": "Environnement d'analyse",
-		"machine": true
+		"translation": "Analyse de l'environnement",
 	},
 	{
 		"phrase": "Commencing landing procedure",
@@ -1559,14 +1550,12 @@
 	{
 		"phrase": "All players start with the same randomised loadout.",
 		"comment": "[Gamemode Info] Static gamemode description",
-		"translation": "Tous les joueurs commencent avec le même chargement aléatoire.",
-		"machine": true
+		"translation": "Tous les joueurs commencent avec le même equipement aléatoire.",
 	},
 	{
 		"phrase": "Times to win",
 		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Temps à gagner",
-		"machine": true
+		"translation": "fois pour gagner",
 	},
 	{
 		"phrase": "Soltrium is scattered throughout the outer sector. Various",
@@ -1733,7 +1722,7 @@
 	{
 		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
 		"comment": "[Map List] Description text above the map list",
-		"translation": "Les cartes auxquelles vous vous êtes abonné dans l'atelier apparaîtront ici. vous devrez peut-être actualiser plusieurs fois après vous être abonné à une nouvelle carte pour que la liste se mette à jour complètement.",
+		"translation": "Les cartes auxquelles vous vous êtes abonné dans le Workshop apparaîtront ici. vous devrez peut-être actualiser plusieurs fois après vous être abonné à une nouvelle carte pour que la liste se mette à jour complètement.",
 		"machine": true
 	},
 	{
@@ -1745,14 +1734,12 @@
 	{
 		"phrase": "Uploading map to the Steam Workshop",
 		"comment": "[Map List] This text shows when uploading a map to the Steam Workshop",
-		"translation": "Téléchargement de la carte vers l'atelier vapeur",
-		"machine": true
+		"translation": "Téléchargement de la carte vers le Steam Workshop",
 	},
 	{
 		"phrase": "Committing Changes",
 		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Engager des changements",
-		"machine": true
+		"translation": "Application des changements",
 	},
 	{
 		"phrase": "Invalid",
@@ -1787,8 +1774,7 @@
 	{
 		"phrase": "Upload summary",
 		"comment": "[Upload Summary] This is the title at the top of the screen when uploading a map to the Steam Workshop",
-		"translation": "Télécharger le résumé",
-		"machine": true
+		"translation": "Téléchargement du résumé",
 	},
 	{
 		"phrase": "Map name",
@@ -1829,14 +1815,12 @@
 	{
 		"phrase": "day",
 		"comment": "[Unit] Time measurement",
-		"translation": "journée",
-		"machine": true
+		"translation": "journ",
 	},
 	{
 		"phrase": "days",
 		"comment": "[Unit] Time measurement",
-		"translation": "journées",
-		"machine": true
+		"translation": "jours",
 	},
 	{
 		"phrase": "hour",
@@ -1847,8 +1831,7 @@
 	{
 		"phrase": "hours",
 		"comment": "[Unit] Time measurement",
-		"translation": "les heures",
-		"machine": true
+		"translation": "heures",
 	},
 	{
 		"phrase": "minute",
@@ -1919,8 +1902,7 @@
 	{
 		"phrase": "Audio",
 		"comment": "[Settings] [Button] Sidebar text",
-		"translation": "l'audio",
-		"machine": true
+		"translation": "audio",
 	},
 	{
 		"phrase": "Accessibility",
@@ -1961,8 +1943,7 @@
 	{
 		"phrase": "Toggle Scope",
 		"comment": "Checkbox setting for whether the user should right click once to toggle scoping, rather than hold right click to stay scoped.",
-		"translation": "Basculer la portée",
-		"machine": true
+		"translation": "Basculer la visée",
 	},
 	{
 		"phrase": "Toggle Crouch",
