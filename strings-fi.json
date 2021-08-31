@@ -1,8 +1,9 @@
+  
 [
 	{
 		"phrase": "Cluster spawn",
 		"comment": "In-game point text",
-		"translation": "Klusterin kutua"
+		"joukkolaskeutuminen"
 	},
 	{
 		"phrase": "Damage",
@@ -106,23 +107,23 @@
 	{
 		"phrase": "Flag defend",
 		"comment": "In-game point text",
-		"translation": "Lippu puolustaa"
+		"translation": "Lipun puolustaja"
 	},
 	{
 		"phrase": "Escort",
 		"comment": "Game mode name",
-		"translation": "Saattaja"
+		"translation": "Saatto"
 	},
 	{
 		"phrase": "Flag carrier kill",
 		"comment": "In-game point text",
-		"translation": "Lippukantaja tappo",
+		"translation": "Lipunkantaja tappo",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb deliver",
 		"comment": "In-game point text",
-		"translation": "Pommi toimittaa"
+		"translation": "Pommin toimitus"
 	},
 	{
 		"phrase": "Bomb carry",
@@ -132,17 +133,17 @@
 	{
 		"phrase": "Bomb defuse",
 		"comment": "In-game point text",
-		"translation": "Pommin purkaminen"
+		"translation": "Pommin purku"
 	},
 	{
 		"phrase": "Bomb attack",
 		"comment": "In-game point text",
-		"translation": "Pommi -isku"
+		"translation": "Pommi"
 	},
 	{
 		"phrase": "Bomb defend",
 		"comment": "In-game point text",
-		"translation": "Pommi puolustaa"
+		"translation": "Pommi -puolustus"
 	},
 	{
 		"phrase": "Spot assist",
@@ -152,7 +153,7 @@
 	{
 		"phrase": "Attacking",
 		"comment": "In-game point text",
-		"translation": "Hyökkää"
+		"translation": "Hyökkääminen"
 	},
 	{
 		"phrase": "Defending",
@@ -173,12 +174,11 @@
 		"phrase": "Zone capture",
 		"comment": "In-game point text",
 		"translation": "Alueen kaappaus",
-		"machine": true
 	},
 	{
 		"phrase": "Beacon capture",
 		"comment": "In-game point text",
-		"translation": "Majakkien sieppaus"
+		"translation": "Majakan sieppaus"
 	},
 	{
 		"phrase": "Beacon destroyed",
@@ -188,26 +188,22 @@
 	{
 		"phrase": "Salvage",
 		"comment": "In-game point text",
-		"translation": "Pelastus",
-		"machine": true
+		"translation": "Lastin talteenotto"
 	},
 	{
 		"phrase": "Round win",
 		"comment": "In-game point text",
-		"translation": "Kierros voitto",
-		"machine": true
+		"translation": "Kierroksen voitto"
 	},
 	{
 		"phrase": "Round survive",
 		"comment": "In-game point text",
-		"translation": "Kierros selvitty",
-		"machine": true
+		"translation": "Kierros selvitty"
 	},
 	{
 		"phrase": "Assist",
 		"comment": "In-game point text",
-		"translation": "Avustus",
-		"machine": true
+		"translation": "Avustus"
 	},
 	{
 		"phrase": "Assist counts as kill",
@@ -217,7 +213,7 @@
 	{
 		"phrase": "Fortifying",
 		"comment": "In-game point text",
-		"translation": "Vahvistava"
+		"translation": "Linnoittautuminen"
 	},
 	{
 		"phrase": "Most Valuable Player",
@@ -232,18 +228,17 @@
 	{
 		"phrase": "Marksman",
 		"comment": "Medal name",
-		"translation": "Marksman"
+		"translation": "Tarkka-ampuja"
 	},
 	{
 		"phrase": "Creator",
 		"comment": "Medal name",
-		"translation": "Luoja"
+		"translation": "Arkkitehti"
 	},
 	{
 		"phrase": "Destroyer",
 		"comment": "Medal name",
-		"translation": "Tuhoaja",
-		"machine": true
+		"translation": "Tuhoaja"
 	},
 	{
 		"phrase": "Attacker",
@@ -264,17 +259,17 @@
 	{
 		"phrase": "Resilient",
 		"comment": "Medal name",
-		"translation": "Kestävä"
+		"translation": "Sitkein pelaaja"
 	},
 	{
 		"phrase": "Assistance",
 		"comment": "Medal name",
-		"translation": "Apua"
+		"translation": "Avustaja"
 	},
 	{
 		"phrase": "Impacter",
 		"comment": "Medal name",
-		"translation": "Iskulaite"
+		"translation": "vaikutusvaltainen"
 	},
 	{
 		"phrase": "Infiltrator",
@@ -304,7 +299,7 @@
 	{
 		"phrase": "Playing",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Toistetaan"
+		"translation": "Pelaamassa"
 	},
 	{
 		"phrase": "Reserved (party)",
@@ -315,7 +310,7 @@
 	{
 		"phrase": "Selecting a team",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Joukkueen valitseminen"
+		"translation": "Valitsemassa joukkuetta"
 	},
 	{
 		"phrase": "Spectating",
@@ -326,7 +321,7 @@
 	{
 		"phrase": "Left",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Vasen"
+		"translation": "Lähti"
 	},
 	{
 		"phrase": "Breakthrough",
@@ -336,8 +331,7 @@
 	{
 		"phrase": "Control Shift",
 		"comment": "Game mode name",
-		"translation": "Hallinan vaihto",
-		"machine": true
+		"translation": "Hallinan vaihdos"
 	},
 	{
 		"phrase": "Capture the Flag",
@@ -347,23 +341,22 @@
 	{
 		"phrase": "Gun Game",
 		"comment": "Game mode name",
-		"translation": "Ase peli"
+		"translation": "Ase-peli"
 	},
 	{
 		"phrase": "Head Hunter",
 		"comment": "Game mode name",
-		"translation": "Pään metsästäjä",
-		"machine": true
+		"translation": "Päänmetsästäjä"
 	},
 	{
 		"phrase": "Spire",
 		"comment": "Game mode name",
-		"translation": "Torni"
+		"translation": "Tornit"
 	},
 	{
 		"phrase": "Static",
 		"comment": "Game mode name",
-		"translation": "Staattinen"
+		"translation": "Taisteluareena"
 	},
 	{
 		"phrase": "All",
@@ -373,8 +366,7 @@
 	{
 		"phrase": "Kicked by a moderator",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Moderaattori potki ulos",
-		"machine": true
+		"translation": "Moderaattorin ulos potkima"
 	},
 	{
 		"phrase": "Already in game",
@@ -471,8 +463,7 @@
 	{
 		"phrase": "Lobby already claimed",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Aula on jo käytössä",
-		"machine": true
+		"translation": "palvelin on jo otettu käyttöön"
 	},
 	{
 		"phrase": "Min level must be lower than your own",
@@ -503,7 +494,7 @@
 	{
 		"phrase": "Cannot claim. Lobby has players",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Ei voi vaatia. aulassa on pelaajia"
+		"translation": "Ei voi ottaa käyttöön. Palvelimella on pelaajia"
 	},
 	{
 		"phrase": "Reserved slot expired",
@@ -518,7 +509,7 @@
 	{
 		"phrase": "Bot Replacement",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Botin vaihto"
+		"translation": "Bottien vaihto"
 	},
 	{
 		"phrase": "Accelerator",
@@ -533,7 +524,7 @@
 	{
 		"phrase": "Choke",
 		"comment": "Barrel attachment name",
-		"translation": "Tukehtua"
+		"translation": "Rikastin"
 	},
 	{
 		"phrase": "Default",
@@ -628,14 +619,12 @@
 	{
 		"phrase": "Slug",
 		"comment": "Ammo type name",
-		"translation": "Jykevä",
-		"machine": true
+		"translation": "Täyteinen"
 	},
 	{
 		"phrase": "Tow",
 		"comment": "Ammo type name",
-		"translation": "Laaser ohjattava panos",
-		"machine": true
+		"translation": "Laser-ohjautuva panos"
 	},
 	{
 		"phrase": "Corrosive",
@@ -708,8 +697,7 @@
 	{
 		"phrase": "SMG",
 		"comment": "Weapon category name",
-		"translation": "Konepistooli",
-		"machine": true
+		"translation": "Konepistooli"
 	},
 	{
 		"phrase": "Shotgun",
@@ -740,12 +728,12 @@
 	{
 		"phrase": "Broken Circle",
 		"comment": "Crosshair name",
-		"translation": "Rikkoutunut ympyrä"
+		"translation": "Halkeutunut ympyrä"
 	},
 	{
 		"phrase": "Broken Square",
 		"comment": "Crosshair name",
-		"translation": "Rikki neliö"
+		"translation": "Halkeutunut neliö"
 	},
 	{
 		"phrase": "Chevron",
@@ -896,7 +884,7 @@
 	{
 		"phrase": "Cold Metal",
 		"comment": "Weapon skin name",
-		"translation": "Kylmää metalli",
+		"translation": "Kylmä metalli",
 		"machine": true
 	},
 	{
@@ -929,7 +917,7 @@
 	{
 		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
 		"comment": "Weapon description",
-		"translation": "Tämä keskipitkän kantaman ase on tasapainossa useimpiin konflikteihin."
+		"translation": "Tämä keskipitkän kantaman ase on tasapainoitettu useimpiin konflikteihin."
 	},
 	{
 		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
@@ -946,8 +934,7 @@
 	{
 		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
 		"comment": "Weapon description",
-		"translation": "Tämä keskipitkän kantaman haulikko pakkaa paukun pidemmille etäisyyksille.\nTähtäessä sen ammuksen leviäminen pienenee 70% 3,0 sekunnissa.",
-		"machine": true
+		"translation": "Tämä keskipitkän kantaman haulikko aiheuttaa todellista vahinkoa pidemmilläkin etäisyyksillä.\nTähtäessä sen ammuksen leviäminen pienenee 70% 3,0 sekunnissa."
 	},
 	{
 		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
@@ -982,15 +969,12 @@
 	{
 		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
 		"comment": "Weapon description",
-		"translation": "Agaman -teknologia, joka laukaisee plasmapallot nopeasti peräkkäin.",
-		"machine": true
+		"translation": "Agaman -teknologia, joka laukaisee plasmapalloja nopeasti peräkkäin."
 	},
 	{
 		"phrase": "Place blocks with this tool.",
 		"comment": "Weapon description",
-		"translation": "Aseta kuutiot tällä työkalulla.",
-		"machine": true
-	},
+		"translation": "Aseta kuutioita tällä työkalulla."
 	{
 		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
 		"comment": "Weapon description",
@@ -1017,8 +1001,7 @@
 	{
 		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
 		"comment": "Weapon description",
-		"translation": "Raskas agaman -teknologia. Laukaisee voimakkaasti osuvan plasman.",
-		"machine": true
+		"translation": "Raskas agaman -teknologia. Laukaisee voimakkaasti osuvan plasmapallon."
 	},
 	{
 		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
@@ -1047,8 +1030,7 @@
 	{
 		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
 		"comment": "Weapon description",
-		"translation": "Laukaisee leijuvan skannauspallon, joka sykkii kahden sekunnin välein ja paljastaa viholliset seinien läpi.\nVihollis pelaajat voivat ampua skanneripalloja.",
-		"machine": true
+		"translation": "Laukaisee leijuvan skannauspallon, joka sykkii kahden sekunnin välein ja paljastaa viholliset seinien läpi.\nVihollispelaajat voivat ampua skanneripalloja."
 	},
 	{
 		"phrase": "This close ranged weapon creates a blast of shrapnel.",
@@ -8052,62 +8034,4 @@
 	},
 	{
 		"phrase": "to submit your log files and help solve this issue",
-		"comment": "[Error] [Message Popup] [2\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "lähettääksesi lokitiedostosi ja auttaaksesi ratkaisemaan tämän ongelman",
-		"machine": true
-	},
-	{
-		"phrase": "1st",
-		"comment": "[Abbreviation] Head Hunter text, abbreviation for first place",
-		"translation": "1",
-		"machine": true
-	},
-	{
-		"phrase": "2nd",
-		"comment": "[Abbreviation] Head Hunter text, abbreviation for second place",
-		"translation": "2",
-		"machine": true
-	},
-	{
-		"phrase": "Loading settings",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Ladataan asetuksia",
-		"machine": true
-	},
-	{
-		"phrase": "Loading maps",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Ladataan karttoja",
-		"machine": true
-	},
-	{
-		"phrase": "Creating scenes",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Kohtausten luominen",
-		"machine": true
-	},
-	{
-		"phrase": "Meshing worlds",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up. 'Meshing worlds' refers to generating the 3D mesh for maps.",
-		"translation": "Yhdistäviä maailmoja",
-		"machine": true
-	},
-	{
-		"phrase": "Cleaning up",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Puhdistaa",
-		"machine": true
-	},
-	{
-		"phrase": "Ready",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Valmis",
-		"machine": true
-	},
-	{
-		"phrase": "Base amplifier",
-		"comment": "[Attachment] Midi attachment name",
-		"translation": "Pohjavahvistin",
-		"machine": true
-	}
-]
+		"comment": "[Error] [Message Popup] [2\/2] The full ph
