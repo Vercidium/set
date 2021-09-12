@@ -47,14 +47,14 @@
 	{
 		"phrase": "VIP kill",
 		"comment": "In-game point text",
-		"translation": "VIP-Kill",
-		"machine": true
+		"translation": "VIP Kill",
+		"machine": false
 	},
 	{
 		"phrase": "VIP defend",
 		"comment": "In-game point text",
-		"translation": "VIP-Verteidigung",
-		"machine": true
+		"translation": "VIP Verteidigung",
+		"machine": false
 	},
 	{
 		"phrase": "Scanner destroyed",
@@ -290,8 +290,8 @@
 	{
 		"phrase": "Assistance",
 		"comment": "Medal name",
-		"translation": "Hilfe",
-		"machine": true
+		"translation": "Unterstützung",
+		"machine": false
 	},
 	{
 		"phrase": "Impacter",
@@ -897,14 +897,14 @@
 	{
 		"phrase": "Dot Plus",
 		"comment": "Crosshair name",
-		"translation": "Punkt plus",
-		"machine": true
+		"translation": "Punkt Plus",
+		"machine": false
 	},
 	{
 		"phrase": "Dot Plus Circle",
 		"comment": "Crosshair name",
-		"translation": "Punkt plus Kreis",
-		"machine": true
+		"translation": "Punkt Plus Kreis",
+		"machine": false
 	},
 	{
 		"phrase": "Dot T",
@@ -927,13 +927,13 @@
 	{
 		"phrase": "T Point",
 		"comment": "Crosshair name",
-		"translation": "T-Punkt",
-		"machine": true
+		"translation": "T Punkt",
+		"machine": false
 	},
 	{
 		"phrase": "T Point Round",
 		"comment": "Crosshair name",
-		"translation": "T-Punkt Rund"
+		"translation": "T Punkt Rund"
 	},
 	{
 		"phrase": "Camoflague",
@@ -1034,8 +1034,8 @@
 	{
 		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
 		"comment": "Weapon description",
-		"translation": "Mecharii-Technologie, die mehrmals aufgeladen werden kann, um einen stärkeren Strahl zu erzeugen.",
-		"machine": true
+		"translation": "Mecharii Technologie, die mehrmals aufgeladen werden kann, um einen stärkeren Strahl zu erzeugen.",
+		"machine": false
 	},
 	{
 		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
@@ -1051,8 +1051,8 @@
 	{
 		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
 		"comment": "Weapon description",
-		"translation": "Auf einer Blockoberfläche platzieren, um vorbeiziehende Feinde zu elektrisieren. Nur zur einmaligen Verwendung.",
-		"machine": true
+		"translation": "Auf einer Blockoberfläche platzieren, um vorbeilaufende Feinde zu elektrisieren. Nur zur einmaligen Verwendung.",
+		"machine": false
 	},
 	{
 		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
@@ -1074,8 +1074,8 @@
 	{
 		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
 		"comment": "Weapon description",
-		"translation": "Diese Mittelstreckenwaffe hat einen großen Clip für Unterdrückungsfeuer.\nÜberhitzt nach 50 Serienaufnahmen",
-		"machine": true
+		"translation": "Diese Waffe mit mittlerer Reichweite hat einen großen Clip für Unterdrückungsfeuer.\nÜberhitzt nach 50 folgenden Schüssen",
+		"machine": false
 	},
 	{
 		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
@@ -1132,8 +1132,8 @@
 	{
 		"phrase": "Such a small gun. Such a massive boom.",
 		"comment": "Weapon description",
-		"translation": "So eine kleine Waffe. so ein Riesenboom.",
-		"machine": true
+		"translation": "So eine kleine Waffe. So ein Riesenboom.",
+		"machine": false
 	},
 	{
 		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
@@ -1156,8 +1156,8 @@
 	{
 		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
 		"comment": "Weapon description",
-		"translation": "Diese Nahkampfwaffe hat es in sich. achte auf den Rückstoß.",
-		"machine": true
+		"translation": "Diese Nahkampfwaffe hat es in sich. Achte auf den Rückstoß.",
+		"machine": false
 	},
 	{
 		"phrase": "Place block structures with this tool.",
@@ -1174,25 +1174,25 @@
 	{
 		"phrase": "Building",
 		"comment": "Armour modification name",
-		"translation": "Gebäude",
-		"machine": true
+		"translation": "Bauen",
+		"machine": false
 	},
 	{
 		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 Blöcke\n+2 Blöcke Bauabstand\n+5 Gesundheit blockieren",
+		"translation": "+100 Blöcke\n+2 Blöcke Baureichweite\n+5 Blockstärke",
 		"machine": true
 	},
 	{
 		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 Blöcke\n+4 Blöcke Bauabstand\n+9 Gesundheit blockieren",
+		"translation": "+100 Blöcke\n+4 Blöcke Baureichweite\n+9 Blockstärke",
 		"machine": true
 	},
 	{
 		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 Blöcke\n+6 Blöcke Bauabstand\n+13 Blockgesundheit",
+		"translation": "+100 Blöcke\n+6 Blöcke Baureichweite\n+13 Blockstärke",
 		"machine": true
 	},
 	{
@@ -1264,8 +1264,8 @@
 	{
 		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
 		"comment": "Armour modification description",
-		"translation": "-40% Bau- und Grabvolumen\n-15% Schrittvolumen\n-25% Schrittweite",
-		"machine": true
+		"translation": "-40% Bau und Grab Lautstärke\n-15% Schritt Lautstärke\n-25% Schrittweite",
+		"machine": false
 	},
 	{
 		"phrase": "+10% dig speed",
@@ -1276,7 +1276,7 @@
 	{
 		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
 		"comment": "Armour modification description",
-		"translation": "+6 blockiert die sichere Fallstrecke\n-30% Sturzschaden",
+		"translation": "+6 Blöcke sichere Fallstrecke\n-30% Sturzschaden",
 		"machine": true
 	},
 	{
@@ -1300,8 +1300,8 @@
 	{
 		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
 		"comment": "Armour modification description",
-		"translation": "-60% Bau- und Grabvolumen\n-30% Schrittvolumen\n-50% Schrittweite",
-		"machine": true
+		"translation": "-60% Bau und Grab Lautstärke\n-30% Schritt Lautstärke\n-50% Schrittweite",
+		"machine": false
 	},
 	{
 		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
@@ -1336,8 +1336,8 @@
 	{
 		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
 		"comment": "Armour modification description",
-		"translation": "-80% Bau- und Grabvolumen\n-45% Schrittvolumen\n-75% Schrittweite",
-		"machine": true
+		"translation": "-80% Bau und Grab Lautstärke\n-45% Schritt Lautstärke\n-75% Schrittweite",
+		"machine": false
 	},
 	{
 		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
@@ -1402,8 +1402,8 @@
 	{
 		"phrase": "Click the Play tab when you are ready",
 		"comment": "[Popup] Tutorial popup prompt",
-		"translation": "Klicken Sie auf den Wiedergabe-Tab, wenn Sie bereit sind",
-		"machine": true
+		"translation": "Klicken Sie auf den Spielen Tab, wenn Sie bereit sind",
+		"machine": false
 	},
 	{
 		"phrase": "Did you know",
@@ -1498,14 +1498,14 @@
 	{
 		"phrase": "Times to win",
 		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Zeiten zu gewinnen",
-		"machine": true
+		"translation": "Mal um zu gewinnen",
+		"machine": false
 	},
 	{
 		"phrase": "Soltrium is scattered throughout the outer sector. Various",
 		"comment": "[Salvage] [1\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "Soltrium ist im gesamten äußeren Sektor verstreut. verschieden",
-		"machine": true
+		"translation": "Soltrium ist im gesamten äußeren Sektor verstreut. Mehrere",
+		"machine": false
 	},
 	{
 		"phrase": "And",
@@ -1558,8 +1558,8 @@
 	{
 		"phrase": "Pick up",
 		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "Aufsammeln",
-		"machine": true
+		"translation": "Sammel",
+		"machine": false
 	},
 	{
 		"phrase": "From enemy corpses",
@@ -1582,26 +1582,26 @@
 	{
 		"phrase": "You can hold",
 		"comment": "[Connecting] [Loading Tip 1] [1\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Du kannst halten",
-		"machine": true
+		"translation": "Du kannst",
+		"machine": false
 	},
 	{
 		"phrase": "To reveal enemy positions to teammates",
 		"comment": "[Connecting] [Loading Tip 1] [2\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Um Teamkollegen feindliche Positionen zu offenbaren",
-		"machine": true
+		"translation": "halten um Teamkollegen feindliche Positionen zu offenbaren",
+		"machine": false
 	},
 	{
 		"phrase": "You can press",
 		"comment": "[Connecting] [Loading Tip 2] [1\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "Sie können drücken",
-		"machine": true
+		"translation": "Sie können",
+		"machine": false
 	},
 	{
 		"phrase": "To provide feedback",
 		"comment": "[Connecting] [Loading Tip 2] [2\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "Um Feedback zu geben",
-		"machine": true
+		"translation": "drücken um Feedback zu geben",
+		"machine": false
 	},
 	{
 		"phrase": "Local",
@@ -1612,14 +1612,14 @@
 	{
 		"phrase": "Subscribed",
 		"comment": "[Mapping Screen] Maps that you have subscribed to on the Workshop",
-		"translation": "Gezeichnet",
-		"machine": true
+		"translation": "Abonniert",
+		"machine": false
 	},
 	{
 		"phrase": "Cancel",
 		"comment": "[Mapping Screen] Cancel uploading a map to the Workshop",
-		"translation": "Stornieren",
-		"machine": true
+		"translation": "Abbrechen",
+		"machine": false
 	},
 	{
 		"phrase": "Upload",
@@ -1672,8 +1672,8 @@
 	{
 		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
 		"comment": "[Map List] Description text above the map list",
-		"translation": "Karten, die Sie im Workshop abonniert haben, werden hier angezeigt. Möglicherweise müssen Sie nach dem Abonnieren einer neuen Karte mehrmals aktualisieren, damit die Liste vollständig aktualisiert wird..",
-		"machine": true
+		"translation": "Karten, die Sie im Workshop abonniert haben, werden hier angezeigt. Möglicherweise müssen Sie nach dem Abonnieren einer neuen Karte mehrmals aktualisieren, damit die Liste vollständig aktualisiert wird.",
+		"machine": false
 	},
 	{
 		"phrase": "Loading map",
@@ -1684,14 +1684,14 @@
 	{
 		"phrase": "Uploading map to the Steam Workshop",
 		"comment": "[Map List] This text shows when uploading a map to the Steam Workshop",
-		"translation": "Hochladen der Karte in die Dampfwerkstatt",
-		"machine": true
+		"translation": "Hochladen der Karte in den Steam Workshop",
+		"machine": false
 	},
 	{
 		"phrase": "Committing Changes",
 		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Änderungen vornehmen",
-		"machine": true
+		"translation": "Änderungen übernehmen",
+		"machine": false
 	},
 	{
 		"phrase": "Invalid",
@@ -1750,8 +1750,8 @@
 	{
 		"phrase": "Visibility",
 		"comment": "[Map List] This is a text label that is shown above the visibility setting for the map on the Steam Workshop",
-		"translation": "Sichtweite",
-		"machine": true
+		"translation": "Sichtbarkeit",
+		"machine": false
 	},
 	{
 		"phrase": "Double XP + Proton Weekend! Ends in",
@@ -1780,8 +1780,8 @@
 	{
 		"phrase": "hours",
 		"comment": "[Unit] Time measurement",
-		"translation": "Std",
-		"machine": true
+		"translation": "Stunden",
+		"machine": false
 	},
 	{
 		"phrase": "minute",
@@ -1792,8 +1792,8 @@
 	{
 		"phrase": "minutes",
 		"comment": "[Unit] Time measurement",
-		"translation": "Protokoll",
-		"machine": true
+		"translation": "Minuten",
+		"machine": false
 	},
 	{
 		"phrase": "and",
@@ -1810,26 +1810,26 @@
 	{
 		"phrase": "Matches",
 		"comment": "[Player Statistic] Amount of matches played",
-		"translation": "Streichhölzer",
-		"machine": true
+		"translation": "Spiele",
+		"machine": false
 	},
 	{
 		"phrase": "Kills",
 		"comment": "[Player Statistic] Amount of players killed",
-		"translation": "Tötet",
-		"machine": true
+		"translation": "Getötet",
+		"machine": false
 	},
 	{
 		"phrase": "Deaths",
 		"comment": "[Player Statistic] Times this player has died",
-		"translation": "Todesfälle",
-		"machine": true
+		"translation": "Tode",
+		"machine": false
 	},
 	{
 		"phrase": "Assists",
 		"comment": "[Progression Name]",
-		"translation": "Unterstützt",
-		"machine": true
+		"translation": "Assists",
+		"machine": false
 	},
 	{
 		"phrase": "Headshots",
@@ -1840,8 +1840,8 @@
 	{
 		"phrase": "Barrel",
 		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the barrel of a gun, not a barrel of water",
-		"translation": "Fass",
-		"machine": true
+		"translation": "Lauf",
+		"machine": false
 	},
 	{
 		"phrase": "Sight",
@@ -1876,8 +1876,8 @@
 	{
 		"phrase": "When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Wenn ein Kanister aufgebraucht ist, wird woanders ein neuer gespawnt. das erste Team, das 500 Punkte erreicht, gewinnt!",
-		"machine": true
+		"translation": "Wenn ein Kanister aufgebraucht ist, wird woanders ein neuer gespawnt. Das erste Team, das 500 Punkte erreicht, gewinnt!",
+		"machine": false
 	},
 	{
 		"phrase": "Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.",
@@ -1894,8 +1894,8 @@
 	{
 		"phrase": "When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Wenn eine Zone von Ihrem Team erobert wird, wird sie für bis zu 20 Sekunden eingefroren. Während er eingefroren ist, kann der Feind es nicht zurückerobern, was Ihrem Team die Chance gibt, in die nächste Zone vorzudringen.",
-		"machine": true
+		"translation": "Wenn eine Zone von Ihrem Team erobert wird, wird sie für bis zu 20 Sekunden eingefroren. Während sie eingefroren ist, kann der Feind es nicht zurückerobern, was Ihrem Team die Chance gibt, in die nächste Zone vorzudringen.",
+		"machine": false
 	},
 	{
 		"phrase": "Zones must be captured in order and cannot be back-capped.",
@@ -1918,8 +1918,8 @@
 	{
 		"phrase": "This game mode is called Escort. To win, your team must deliver 3 bombs.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Dieser Spielmodus wird Eskorte genannt. Um zu gewinnen, muss dein Team 3 Bomben abfeuern.",
-		"machine": true
+		"translation": "Dieser Spielmodus wird Eskorte genannt. Um zu gewinnen, muss dein Team 3 Bomben liefern.",
+		"machine": false
 	},
 	{
 		"phrase": "Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.",
