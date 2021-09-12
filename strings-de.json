@@ -25,8 +25,7 @@
 	{
 		"phrase": "Disruptor assist",
 		"comment": "In-game point text",
-		"translation": "Disruptor-Assistent",
-		"machine": true
+		"translation": "Disruptor-Assist"
 	},
 	{
 		"phrase": "Headshot",
@@ -37,8 +36,7 @@
 	{
 		"phrase": "Kill",
 		"comment": "In-game point text",
-		"translation": "Töten",
-		"machine": true
+		"translation": "Kill"
 	},
 	{
 		"phrase": "Kill streak",
@@ -67,8 +65,7 @@
 	{
 		"phrase": "Scanner assist",
 		"comment": "In-game point text",
-		"translation": "Scanner-Assistent",
-		"machine": true
+		"translation": "Scanner-Assist"
 	},
 	{
 		"phrase": "C4 destroyed",
@@ -109,8 +106,7 @@
 	{
 		"phrase": "Flag return",
 		"comment": "In-game point text",
-		"translation": "Flag-Rückkehr",
-		"machine": true
+		"translation": "Flagge zurückgebracht"
 	},
 	{
 		"phrase": "Flag attack",
@@ -121,20 +117,17 @@
 	{
 		"phrase": "Flag defend",
 		"comment": "In-game point text",
-		"translation": "Flagge verteidigen",
-		"machine": true
+		"translation": "Flaggenverteidigung"
 	},
 	{
 		"phrase": "Escort",
 		"comment": "Game mode name",
-		"translation": "Begleiten",
-		"machine": true
+		"translation": "Eskorte"
 	},
 	{
 		"phrase": "Flag carrier kill",
 		"comment": "In-game point text",
-		"translation": "Flaggenträger töten",
-		"machine": true
+		"translation": "Flaggenträger kill"
 	},
 	{
 		"phrase": "Bomb deliver",
@@ -151,8 +144,7 @@
 	{
 		"phrase": "Bomb defuse",
 		"comment": "In-game point text",
-		"translation": "Bomben entschärfen",
-		"machine": true
+		"translation": "Bombe entschärft"
 	},
 	{
 		"phrase": "Bomb attack",
@@ -169,8 +161,7 @@
 	{
 		"phrase": "Spot assist",
 		"comment": "In-game point text",
-		"translation": "Spot-Assistent",
-		"machine": true
+		"translation": "Spot-Assist"
 	},
 	{
 		"phrase": "Attacking",
@@ -181,8 +172,7 @@
 	{
 		"phrase": "Defending",
 		"comment": "In-game point text",
-		"translation": "Verteidigen",
-		"machine": true
+		"translation": "Verteidigend"
 	},
 	{
 		"phrase": "Contesting",
@@ -199,19 +189,17 @@
 	{
 		"phrase": "Zone capture",
 		"comment": "In-game point text",
-		"translation": "Zonenerfassung",
-		"machine": true
+		"translation": "Zone Erfasst",
 	},
 	{
 		"phrase": "Beacon capture",
 		"comment": "In-game point text",
-		"translation": "Leuchtfeuer Erfassung"
+		"translation": "Beacon Erfasst"
 	},
 	{
 		"phrase": "Beacon destroyed",
 		"comment": "In-game point text",
-		"translation": "Leuchtfeuer zerstört",
-		"machine": true
+		"translation": "Beacon zerstört"
 	},
 	{
 		"phrase": "Salvage",
@@ -232,8 +220,7 @@
 	{
 		"phrase": "Assist",
 		"comment": "In-game point text",
-		"translation": "Helfen",
-		"machine": true
+		"translation": "Assist"
 	},
 	{
 		"phrase": "Assist counts as kill",
@@ -292,8 +279,7 @@
 	{
 		"phrase": "Impaler",
 		"comment": "Medal name",
-		"translation": "Pfähler",
-		"machine": true
+		"translation": "Durchstecher"
 	},
 	{
 		"phrase": "Resilient",
@@ -369,8 +355,7 @@
 	{
 		"phrase": "Left",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Links",
-		"machine": true
+		"translation": "Verlassen"
 	},
 	{
 		"phrase": "Breakthrough",
@@ -446,8 +431,7 @@
 	{
 		"phrase": "Disconnected",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Getrennt",
-		"machine": true
+		"translation": "Verbindung getrennt"
 	},
 	{
 		"phrase": "EAC Violation",
@@ -500,8 +484,7 @@
 	{
 		"phrase": "Temporarily Banned",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Vorübergehend gesperrt",
-		"machine": true
+		"translation": "Vorübergehend gebannt"
 	},
 	{
 		"phrase": "Version mismatch",
@@ -512,8 +495,7 @@
 	{
 		"phrase": "Votekicked",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Abgestimmt",
-		"machine": true
+		"translation": "Votekick"
 	},
 	{
 		"phrase": "Votekick still in effect",
@@ -536,7 +518,7 @@
 	{
 		"phrase": "Lobby already claimed",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Lobby bereits beansprucht",
+		"translation": "Lobby bereits geclaimed",
 		"machine": true
 	},
 	{
@@ -571,7 +553,7 @@
 	{
 		"phrase": "Cannot claim. Lobby has players",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Kann nicht beanspruchen. Lobby hat Spieler"
+		"translation": "Kann nicht beansprucht werden. Lobby hat Spieler"
 	},
 	{
 		"phrase": "Reserved slot expired",
@@ -704,8 +686,7 @@
 	{
 		"phrase": "Ricochet",
 		"comment": "Ammo type name",
-		"translation": "Abprallen",
-		"machine": true
+		"translation": "Abprallend"
 	},
 	{
 		"phrase": "Slug",
@@ -734,8 +715,7 @@
 	{
 		"phrase": "Incendiary",
 		"comment": "Payload attachment name",
-		"translation": "Brandstifter",
-		"machine": true
+		"translation": "Brandstiftend"
 	},
 	{
 		"phrase": "Base",
@@ -757,8 +737,7 @@
 	{
 		"phrase": "Advanced",
 		"comment": "Combat Shotgun choke attachment name",
-		"translation": "Fortschrittlich",
-		"machine": true
+		"translation": "Fortgeschritten"
 	},
 	{
 		"phrase": "Welded",
@@ -877,8 +856,7 @@
 	{
 		"phrase": "Sparse Dotted Cross",
 		"comment": "Crosshair name",
-		"translation": "Sparsames gepunktetes Kreuz",
-		"machine": true
+		"translation": "Leicht gepunktetes Kreuz"
 	},
 	{
 		"phrase": "Unbroken Cross",
