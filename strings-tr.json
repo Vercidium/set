@@ -2,7 +2,7 @@
 	{
 		"phrase": "Cluster spawn",
 		"comment": "In-game point text",
-		"translation": "Çoklu canlanma"
+		"translation": "Grup spawnlanması"
 	},
 	{
 		"phrase": "Damage",
@@ -12,7 +12,7 @@
 	{
 		"phrase": "Overkill",
 		"comment": "In-game point text",
-		"translation": "Overkill"
+		"translation": "Üst üste hasar"
 	},
 	{
 		"phrase": "Direct",
@@ -72,7 +72,7 @@
 	{
 		"phrase": "Avenger",
 		"comment": "In-game point text",
-		"translation": "İntikam"
+		"translation": "İntikamcı"
 	},
 	{
 		"phrase": "Flag capture",
@@ -147,7 +147,7 @@
 	{
 		"phrase": "Spot assist",
 		"comment": "In-game point text",
-		"translation": "Spot asisti"
+		"translation": "İşaretleme asisti"
 	},
 	{
 		"phrase": "Attacking",
@@ -167,7 +167,7 @@
 	{
 		"phrase": "Canister capture",
 		"comment": "In-game point text",
-		"translation": "Canister'ı ele geçirme"
+		"translation": "Objeyi ele geçirme"
 	},
 	{
 		"phrase": "Zone capture",
@@ -177,7 +177,7 @@
 	{
 		"phrase": "Beacon capture",
 		"comment": "In-game point text",
-		"translation": "Feneri ele geçirme"
+		"translation": "Fener yakalama"
 	},
 	{
 		"phrase": "Beacon destroyed",
@@ -207,7 +207,7 @@
 	{
 		"phrase": "Assist counts as kill",
 		"comment": "In-game point text",
-		"translation": "Öldürme sayılan asist"
+		"translation": "Öldürme olarak sayılan asist"
 	},
 	{
 		"phrase": "Fortifying",
@@ -217,12 +217,12 @@
 	{
 		"phrase": "Most Valuable Player",
 		"comment": "Medal name",
-		"translation": "En Değerli Oyuncu"
+		"translation": "En değerli oyuncu"
 	},
 	{
 		"phrase": "Annihilator",
 		"comment": "Medal name",
-		"translation": "Yok edici"
+		"translation": "Yok Edici"
 	},
 	{
 		"phrase": "Marksman",
@@ -232,7 +232,7 @@
 	{
 		"phrase": "Creator",
 		"comment": "Medal name",
-		"translation": "İnşa edici"
+		"translation": "Oluşturucu"
 	},
 	{
 		"phrase": "Destroyer",
@@ -242,7 +242,7 @@
 	{
 		"phrase": "Attacker",
 		"comment": "Medal name",
-		"translation": "Saldırıcı"
+		"translation": "Saldırgan"
 	},
 	{
 		"phrase": "Defender",
@@ -252,12 +252,12 @@
 	{
 		"phrase": "Impaler",
 		"comment": "Medal name",
-		"translation": "Bıçak Ustası"
+		"translation": "Şişleyici"
 	},
 	{
 		"phrase": "Resilient",
 		"comment": "Medal name",
-		"translation": "Esnek"
+		"translation": "Dayanıklı"
 	},
 	{
 		"phrase": "Assistance",
@@ -267,7 +267,7 @@
 	{
 		"phrase": "Impacter",
 		"comment": "Medal name",
-		"translation": "Patlatıcı"
+		"translation": "Darbeci"
 	},
 	{
 		"phrase": "Infiltrator",
@@ -282,7 +282,7 @@
 	{
 		"phrase": "Team placement",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Takıma yerleşiyor"
+		"translation": "Takıma Yerleştiriliyor"
 	},
 	{
 		"phrase": "Connecting",
@@ -292,7 +292,7 @@
 	{
 		"phrase": "Loading Map",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Harita yükleniyor"
+		"translation": "Harita Yükleniyor"
 	},
 	{
 		"phrase": "None",
@@ -307,12 +307,12 @@
 	{
 		"phrase": "Reserved (party)",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Ayrılmış (parti)",
+		"translation": "Rezerve (parti)",
 	},
 	{
 		"phrase": "Selecting a team",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Takım seçiyor"
+		"translation": "Takım Seçiyor"
 	},
 	{
 		"phrase": "Spectating",
@@ -332,12 +332,12 @@
 	{
 		"phrase": "Control Shift",
 		"comment": "Game mode name",
-		"translation": "Kontrol Kayması"
+		"translation": "Kontrol Değişimi"
 	},
 	{
 		"phrase": "Capture the Flag",
 		"comment": "Game mode name",
-		"translation": "Bayrak Kapmaca"
+		"translation": "Bayrağı Ele Geçir"
 	},
 	{
 		"phrase": "Escort",
@@ -352,32 +352,32 @@
 	{
 		"phrase": "Head Hunter",
 		"comment": "Game mode name",
-		"translation": "Kafa Avcısı"
+		"translation": "Kelle Avcısı"
 	},
 	{
 		"phrase": "Spire",
 		"comment": "Game mode name",
-		"translation": "Kule"
+		"translation": "Spiral"
 	},
 	{
 		"phrase": "Static",
 		"comment": "Game mode name",
-		"translation": "Statik"
+		"translation": "Sabit"
 	},
 	{
 		"phrase": "All",
 		"comment": "Game mode name, only found in Custom Maps",
-		"translation": "Tüm Oyun Modları"
+		"translation": "Hepsi"
 	},
 	{
 		"phrase": "Kicked by a moderator",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Bir moderatör tarafından atıldı"
+		"translation": "Bir moderatör tarafından atıldın"
 	},
 	{
 		"phrase": "Already in game",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Zaten oyunda"
+		"translation": "Zaten oyundasın"
 	},
 	{
 		"phrase": "Authentication failed",
@@ -387,12 +387,12 @@
 	{
 		"phrase": "Banned",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Banlandı"
+		"translation": "Banlandın"
 	},
 	{
 		"phrase": "Disconnected",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Bağlantısını kesti"
+		"translation": "Bağlantın koptu"
 	},
 	{
 		"phrase": "EAC Violation",
@@ -402,12 +402,12 @@
 	{
 		"phrase": "Kicked for inactivity",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Hareketsizlik nedeniyle atıldı"
+		"translation": "Hareketsizlik nedeniyle atıldın"
 	},
 	{
 		"phrase": "Internal error",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "İç hata"
+		"translation": "Sunucu hatası"
 	},
 	{
 		"phrase": "Map is restoring. Try again in 10 seconds",
@@ -437,7 +437,7 @@
 	{
 		"phrase": "Temporarily Banned",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Geçici olarak banlandı"
+		"translation": "Geçici olarak banlandın"
 	},
 	{
 		"phrase": "Version mismatch",
@@ -447,12 +447,12 @@
 	{
 		"phrase": "Votekicked",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Oyla atıldı"
+		"translation": "Oyla atıldın"
 	},
 	{
 		"phrase": "Votekick still in effect",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Atılma hala yürürlükte"
+		"translation": "Atılman hala oylanıyor"
 	},
 	{
 		"phrase": "Incorrect password",
@@ -462,17 +462,17 @@
 	{
 		"phrase": "Your level is too high",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Seviyen çok yüksek"
+		"translation": "Seviyen fazla yüksek"
 	},
 	{
 		"phrase": "You can only claim 3 lobbies per day",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Günde sadece 3 lobi sahiplenebilirsiniz"
+		"translation": "Günde sadece 3 lobi ele geçirebilirsiniz"
 	},
 	{
 		"phrase": "Lobby already claimed",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Lobi zaten sahiplenildi"
+		"translation": "Lobi zaten ele geçirildi"
 	},
 	{
 		"phrase": "Min level must be lower than your own",
@@ -482,32 +482,32 @@
 	{
 		"phrase": "Max level must be greater than your own",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Maksimum seviye kendi seviyenizden daha büyük olmalıdır"
+		"translation": "Maksimum seviye sizinkinden daha yüksek olmalıdır"
 	},
 	{
 		"phrase": "Min level can't be greater than max level",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Minimum seviye, maksimum seviyeden büyük olamaz",
+		"translation": "Minimum seviye, maksimum seviyeden yüksek olamaz",
 	},
 	{
 		"phrase": "You are too powerful",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Sen çok güçlüsün"
+		"translation": "Fazla güçlüsün"
 	},
 	{
 		"phrase": "Your level is too low",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Seviyen çok düşük"
+		"translation": "Seviyen fazla düşük"
 	},
 	{
 		"phrase": "Cannot claim. Lobby has players",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Lobi sahiplenilemiyor. Lobide oyuncular var"
+		"translation": "Lobi ele geçirilemiyor. Lobide oyuncular var"
 	},
 	{
 		"phrase": "Reserved slot expired",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Ayrılmış sıranın süresi doldu"
+		"translation": "Rezerve yuvanın süresi doldu"
 	},
 	{
 		"phrase": "Min level must be less than max level",
@@ -517,7 +517,7 @@
 	{
 		"phrase": "Bot Replacement",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Botla değiştirildi"
+		"translation": "Bot Değiştirme"
 	},
 	{
 		"phrase": "Accelerator",
@@ -532,12 +532,7 @@
 	{
 		"phrase": "Choke",
 		"comment": "Barrel attachment name",
-		"translation": "Kısıcı"
-	},
-	{
-		"phrase": "Compressor",
-		"comment": "Barrel attachment name",
-		"translation": "Sıkıştırıcı"
+		"translation": "Jikle"
 	},
 	{
 		"phrase": "Default",
@@ -552,7 +547,7 @@
 	{
 		"phrase": "Extendest",
 		"comment": "Barrel attachment name",
-		"translation": "En uzun"
+		"translation": "En geniş"
 	},
 	{
 		"phrase": "Resonator",
@@ -587,17 +582,17 @@
 	{
 		"phrase": "Stubby",
 		"comment": "Foregrip attachment name",
-		"translation": "Anızlı Kabza"
+		"translation": "Yatay tutacak"
 	},
 	{
 		"phrase": "Side",
 		"comment": "Foregrip attachment name",
-		"translation": "Taraflı Kabza"
+		"translation": "Taraf"
 	},
 	{
 		"phrase": "Angled Half-Grip",
 		"comment": "Foregrip attachment name",
-		"translation": "Açılı Yarım Kabza"
+		"translation": "Açılı yarım tutacak"
 	},
 	{
 		"phrase": "Large",
@@ -627,12 +622,12 @@
 	{
 		"phrase": "Slug",
 		"comment": "Ammo type name",
-		"translation": "Tek Kurşun"
+		"translation": "Domuz Kurşunu"
 	},
 	{
 		"phrase": "Buckshot",
 		"comment": "Ammo type name",
-		"translation": "Şevrotin"
+		"translation": "Saçma"
 	},
 	{
 		"phrase": "Burst",
@@ -657,7 +652,7 @@
 	{
 		"phrase": "Augmented",
 		"comment": "Ammo type name",
-		"translation": "Artırılmış"
+		"translation": "Arttırılmış"
 	},
 	{
 		"phrase": "Corrosive",
@@ -692,7 +687,7 @@
 	{
 		"phrase": "Mechanical",
 		"comment": "Revolver trigger attachment name",
-		"translation": "Mekaniksel"
+		"translation": "Mekanik"
 	},
 	{
 		"phrase": "Advanced",
@@ -727,7 +722,7 @@
 	{
 		"phrase": "Sniper",
 		"comment": "Weapon category name",
-		"translation": "Keskin Nişanci"
+		"translation": "Keskin Nişancı"
 	},
 	{
 		"phrase": "Rifle",
@@ -762,7 +757,7 @@
 	{
 		"phrase": "Ironsights",
 		"comment": "Sight attachment name",
-		"translation": "Standart Nişan"
+		"translation": "Standart"
 	},
 	{
 		"phrase": "Broken Circle",
@@ -777,82 +772,82 @@
 	{
 		"phrase": "Chevron",
 		"comment": "Crosshair name",
-		"translation": "Şerit"
+		"translation": "Şevron"
 	},
 	{
 		"phrase": "Circle Cross",
 		"comment": "Crosshair name",
-		"translation": "Çemberli Artı"
+		"translation": "Çember"
 	},
 	{
 		"phrase": "Dot Cross",
 		"comment": "Crosshair name",
-		"translation": "Noktalı Artı"
+		"translation": "Nokta"
 	},
 	{
 		"phrase": "Dotted Cross",
 		"comment": "Crosshair name",
-		"translation": "Kesik Noktalı Artı"
+		"translation": "Noktalı artı"
 	},
 	{
 		"phrase": "Pointed Cross",
 		"comment": "Crosshair name",
-		"translation": "Standart Artı"
+		"translation": "İşaretli artı"
 	},
 	{
 		"phrase": "Sparse Dotted Cross",
 		"comment": "Crosshair name",
-		"translation": "Seyrek Noktalı Artı"
+		"translation": "Seyrek noktalı artı"
 	},
 	{
 		"phrase": "Unbroken Cross",
 		"comment": "Crosshair name",
-		"translation": "Kesintisiz Artı"
+		"translation": "Kesintisiz artı"
 	},
 	{
 		"phrase": "2px Dot",
 		"comment": "Crosshair name",
-		"translation": "2 Piksel Nokta"
+		"translation": "2 piksel nokta"
 	},
 	{
 		"phrase": "4px Dot",
 		"comment": "Crosshair name",
-		"translation": "4 Piksel Nokta"
+		"translation": "4 piksel nokta"
 	},
 	{
 		"phrase": "6px Dot",
 		"comment": "Crosshair name",
-		"translation": "6 Piksel Nokta"
+		"translation": "6 piksel nokta"
 	},
 	{
 		"phrase": "8px Dot",
 		"comment": "Crosshair name",
-		"translation": "8 Piksel Nokta"
+		"translation": "8 piksel nokta"
 	},
 	{
 		"phrase": "Flat Dot",
 		"comment": "Crosshair name",
-		"translation": "Çizgili Nokta"
+		"translation": "Düz nokta"
 	},
 	{
 		"phrase": "Dot Plus",
 		"comment": "Crosshair name",
-		"translation": "Artılı Nokta"
+		"translation": "Nokta+"
 	},
 	{
 		"phrase": "Dot Plus Circle",
 		"comment": "Crosshair name",
-		"translation": "Artılı Çember Nokta"
+		"translation": "Nokta+ çember"
 	},
 	{
 		"phrase": "Dot T",
 		"comment": "Crosshair name",
-		"translation": "T Nokta"
+		"translation": "T nokta"
 	},
 	{
 		"phrase": "Empty Plus",
 		"comment": "Crosshair name",
-		"translation": "Boş Artı"
+		"translation": "Boş artı"
 	},
 	{
 		"phrase": "Empty T",
@@ -862,12 +857,12 @@
 	{
 		"phrase": "T Point",
 		"comment": "Crosshair name",
-		"translation": "T"
+		"translation": "T işareti"
 	},
 	{
 		"phrase": "T Point Round",
 		"comment": "Crosshair name",
-		"translation": "Noktalı Çember T"
+		"translation": "T yuvarlak işareti"
 	},
 	{
 		"phrase": "Camoflague",
@@ -907,7 +902,7 @@
 	{
 		"phrase": "Woodland",
 		"comment": "Weapon skin name",
-		"translation": "Ormanlık"
+		"translation": "Yeşil Kamuflaj"
 	},
 	{
 		"phrase": "Hot Metal",
@@ -942,27 +937,27 @@
 	{
 		"phrase": "Grid",
 		"comment": "Weapon skin name",
-		"translation": "Izgara"
+		"translation": "Noktalı"
 	},
 	{
 		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
 		"comment": "Weapon description",
-		"translation": "Bu orta-uzun menzilli silah, çoğu çatışma için dengelidir."
+		"translation": "Bu orta-uzun menzilli silah çoğu çatışma için dengelidir."
 	},
 	{
 		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
 		"comment": "Weapon description",
-		"translation": "Daha güçlü bir ışın üretmek için birden çok kez şarj edilebilen Mecharii teknolojisi."
+		"translation": "Daha güçlü bir ışın üretmek için birden fazla şarj edilebilen Mekarii teknolojisi."
 	},
 	{
 		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
 		"comment": "Weapon description",
-		"translation": "Sol tık ile fırlatın ve sağ tık ile patlatın. Önceden koyduğunuz C4'lerin bağlantısı yeniden doğduğunuzda kesilir ve patlatılmaları için üzerine ateş etmeniz gerekir."
+		"translation": "Sol tık ile fırlatın ve sağ tık ile patlatın. Yeniden doğduğunuzda, C4'ün sizinle olan bağlantısı kesilir ve patlatılması için üzerine ateş edilmesi gerekir."
 	},
 	{
 		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
 		"comment": "Weapon description",
-		"translation": "Bu orta uzun menzilli av tüfeği, daha uzun mesafelerde etkilidir.\nNişan alırken, mermilerinin saçması 3.0 saniyede %70 oranında azalacaktır."
+		"translation": "Bu orta uzun menzilli av tüfeği, daha uzun mesafelerde etkilidir.\nNişan alırken, mermilerin saçılması 3 saniyede %70 oranında azalacaktır."
 	},
 	{
 		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
@@ -972,7 +967,7 @@
 	{
 		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
 		"comment": "Weapon description",
-		"translation": "[Kullanımdan kaldırıldı] 3x3x3 blok kazabilen ama daha yavaş çalışan Midi güçlendirmesi."
+		"translation": "[Kullanımdan kaldırıldı] 3x3x3 boyutlarında bir alanı kazabilen ama daha yavaş çalışan bir Midi güçlendirmesi."
 	},
 	{
 		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
@@ -982,17 +977,17 @@
 	{
 		"phrase": "[Deprecated] Allows one extra modification to be equipped.",
 		"comment": "Weapon description",
-		"translation": "[Kullanımdan kaldırıldı] Fazladan bir modifikasyonun donatılmasına izin verir."
+		"translation": "[Kullanımdan kaldırıldı], Fazladan bir modifikasyona izin verir."
 	},
 	{
 		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
 		"comment": "Weapon description",
-		"translation": "Bu orta menzilli silah, patlamadan önce sıçrayan kararsız Soltrium çekirdekleri fırlatır."
+		"translation": "Bu orta menzilli silah, patlamadan önce zıplayan Kararsız Soltrium Çekirdekleri fırlatır."
 	},
 	{
 		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
 		"comment": "Weapon description",
-		"translation": "Bu el bombası kararsız bir Soltrium çekirdeğine sahiptir ve 3 saniye sonra patlar. Tüm oyuncuların iki el bombası vardır ve bu güçlendirmeyi etkinleştirmek el bombalarınızın duvarlara yapışmasını sağlar."
+		"translation": "Bu el bombası Kararsız bir Soltrium Çekirdeğine sahiptir ve 3 saniye sonra patlar. Her oyuncunun iki el bombası vardır, ama bu açmak bombalarınızın duvarlara yapışmasını sağlar."
 	},
 	{
 		"phrase": "Agaman technology that cuts through blocks instantly.",
@@ -1042,42 +1037,42 @@
 	{
 		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
 		"comment": "Weapon description",
-		"translation": "Ağır Agaman teknolojisi. Çok fazla hasar veren plazma topları ateşler."
+		"translation": "Ağır Agaman teknolojisi. Sert bir darbe vuran bir plazma topu ateşler."
 	},
 	{
 		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
 		"comment": "Weapon description",
-		"translation": "Bu uzun menzilli silah, uzak menzildeki müttefiklere destek sağlamak için 4x dürbünle donatılabilir."
+		"translation": "Bu uzun menzilli silah, manyetik itme kullanır ve uzaktaki müttefiklere destek sağlamak için 4x dürbünle donatılabilir."
 	},
 	{
 		"phrase": "[Deprecated] Blocks placed have +100% health.",
 		"comment": "Weapon description",
-		"translation": "[Kullanımdan kaldırılan] Yerleştirilen bloklar +%100 sağlığa sahiptir."
+		"translation": "[Kullanımdan kaldırılan] Yerleştirilen bloklar %100 daha fazla sağlığa sahiptir."
 	},
 	{
 		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
 		"comment": "Weapon description",
-		"translation": "Bu fazla hasar veren yakın menzilli silah, güçlü bir Soltrium çekirdeği içerir."
+		"translation": "Bu fazla hasar veren yakın menzilli silah, güçlü bir Soltrium Çekirdeği içerir."
 	},
 	{
 		"phrase": "Such a small gun. Such a massive boom.",
 		"comment": "Weapon description",
-		"translation": "Küçük bir silah ama büyük bir patlamaya sebep olur."
+		"translation": "Ne kadar küçük bir silah. Ne kadar koca bir patlama."
 	},
 	{
 		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
 		"comment": "Weapon description",
-		"translation": "Bu uzun menzilli silah, patlayıcı füzeler fırlatır."
+		"translation": "Bu uzun menzilli silah, patlayıcı füzeler fırlatmak için Soltrium İtme teknolojisini kullanır."
 	},
 	{
 		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
 		"comment": "Weapon description",
-		"translation": "Her iki saniyede bir duvarların ardındaki düşmanları gösteren uçan bir Scanner fırlatır.\nScanner'lar düşman oyuncular tarafından yok edilebilir."
+		"translation": "Her iki saniyede bir duvarların ardındaki düşmanları gösteren uçan bir Tarayıcı fırlatır.\nTarayıcılar düşman oyuncular tarafından vurulabilir."
 	},
 	{
 		"phrase": "[Deprecated] Agaman technology. This close ranged weapon propels a spray of plasma",
 		"comment": "Weapon description",
-		"translation": "[Kullanımdan kaldırıldı] Agaman teknolojisi. bu yakın menzilli silah bir plazma spreyi ateşler."
+		"translation": "[Kullanımdan kaldırıldı] Agaman teknolojisi. Bu yakın menzilli silah plazma parçacıkları ateşler."
 	},
 	{
 		"phrase": "This close ranged weapon creates a blast of shrapnel.",
@@ -1087,17 +1082,17 @@
 	{
 		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
 		"comment": "Weapon description",
-		"translation": "Bu silah yakın-orta menzilde fazla hasar verir. Geri tepmesi fazladır."
+		"translation": "Bu silah yakın-orta menzilde fazla hasar verir. Geri tepmeye dikkat et."
 	},
 	{
 		"phrase": "Place block structures with this tool.",
 		"comment": "Weapon description",
-		"translation": "Bu aletle blok yapıları yerleştirin."
+		"translation": "Bu aletle blokları yerleştirin."
 	},
 	{
 		"phrase": "Attaches to walls. Right click to pull the wall down.",
 		"comment": "Weapon description",
-		"translation": "Duvarlara koyulabilir. Duvarı yıkmak için sağ tıklayın."
+		"translation": "Duvarlara tutunur. Duvarı yıkmak için sağ tıklayın."
 	},
 	{
 		"phrase": "[Deprecated] Cluster Agama technology. Not much about this weapon is known.",
@@ -1112,22 +1107,22 @@
 	{
 		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 blok\n+2 Blok koyma mesafesi\n+5 Blok sağlığı"
+		"translation": "+100 blok\n+2 Blok inşa etme mesafesi\n+5 Blok canı"
 	},
 	{
 		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 blok\n+4 Blok koyma mesafesi\n+9 Blok sağlığı"
+		"translation": "+100 blok\n+4 Blok inşa etme mesafesi\n+9 Blok canı"
 	},
 	{
 		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
 		"comment": "Armour modification description",
-		"translation": "+100 blok\n+6 Blok koyma mesafesi\n+13 Blok sağlığı"
+		"translation": "+100 blok\n+6 Blok inşa etme mesafesi\n+13 Blok canı"
 	},
 	{
 		"phrase": "Hydraulics",
 		"comment": "Armour modification name",
-		"translation": "Hidrolik"
+		"translation": "Hidrolikler"
 	},
 	{
 		"phrase": "Leg servos",
@@ -1162,7 +1157,7 @@
 	{
 		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
 		"comment": "Armour modification description",
-		"translation": "+3 blok güvenli düşüş mesafesi\n-%15 düşüş hasarı"
+		"translation": "+3 blok güvenli düşme mesafesi\n-%15 düşme hasarı"
 	},
 	{
 		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
@@ -1182,7 +1177,7 @@
 	{
 		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
 		"comment": "Armour modification description",
-		"translation": "-%40 inşa etme ve kazma sesi\n-%15 ayak sesi\n-%25 adım sesi duyulabilirlik mesafesi"
+		"translation": "-%40 inşa etme ve kazma sesi\n-%15 ayak sesi\n-%25 adım sesi mesafesi"
 	},
 	{
 		"phrase": "+10% dig speed",
@@ -1192,17 +1187,17 @@
 	{
 		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
 		"comment": "Armour modification description",
-		"translation": "+6 blok güvenli düşüş mesafesi\n-%30 düşüş hasarı"
+		"translation": "+6 blok güvenli düşme mesafesi\n-%30 düşme hasarı"
 	},
 	{
 		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
 		"comment": "Armour modification description",
-		"translation": "+450% kişisel patlayıcı geri tepmesi\n-%20 kişisel patlayıcı hasarı"
+		"translation": "+450% patlayıcı geri tepmesi\n-%20 patlayıcı hasarı"
 	},
 	{
 		"phrase": "+40% health regeneration speed",
 		"comment": "Armour modification description",
-		"translation": "+%40 sağlık yenileme hızı"
+		"translation": "+%40 can yenileme hızı"
 	},
 	{
 		"phrase": "+10% movement speed",
@@ -1212,17 +1207,17 @@
 	{
 		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
 		"comment": "Armour modification description",
-		"translation": "-%60 inşa etme ve kazma sesi\n-%30 ayak sesi\n-%50 adım sesi duyulabilirlik mesafesi"
+		"translation": "-%60 inşa etme ve kazma sesi\n-%30 ayak sesi\n-%50 adım sesi mesafesi"
 	},
 	{
 		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
 		"comment": "Armour modification description",
-		"translation": "+%20 kazma hızı\nKazdığın her blok +2 blok verir\nHer cephane alımında +1 ekipman cephanesi verir"
+		"translation": "+%20 kazma hızı\nKazılan blok başına +2 blok kazanma\nHer cephane alımında +1 teçhizat cephanesi"
 	},
 	{
 		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
 		"comment": "Armour modification description",
-		"translation": "+9 blok güvenli düşüş mesafesi\n-%45 düşüş hasarı\n+1 blok zıplama yüksekliği"
+		"translation": "+9 blok güvenli düşme mesafesi\n-%45 düşme hasarı\n+1 blok zıplama yüksekliği"
 	},
 	{
 		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
@@ -1242,22 +1237,22 @@
 	{
 		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
 		"comment": "Armour modification description",
-		"translation": "-%80 inşa etme ve kazma sesi\n-%45 ayak sesi\n-%75 adım sesi duyulabilirlik mesafesi"
+		"translation": "-%80 inşa etme ve kazma sesi\n-%45 ayak sesi\n-%75 adım sesi mesafesi"
 	},
 	{
 		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
 		"comment": "Armour modification description",
-		"translation": "+%30 kazma hızı\nKazdığın her blok +3 blok verir\nCephane toplamak +10 can verir"
+		"translation": "+%30 kazma hızı\nKazılan blok başına fazladan +3 blok kazanma\nCephane toplamak +10 can verir"
 	},
 	{
 		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
 		"comment": "Character description",
-		"translation": "Deneyimsiz olmasına rağmen bu paralı asker, Soltrium galaksisine yolculuğuna cesaret etti ve savaşta değerini kanıtlamaya çalışıyor."
+		"translation": "Deneyimsiz olmasına rağmen, bu paralı asker Soltrium galaksisine yolculuğuna cesaret etti ve savaşta değerini kanıtlamaya çalışıyor."
 	},
 	{
 		"phrase": "This solo operative seeks nothing but victory when it comes to saving their race from destruction.",
 		"comment": "Character description",
-		"translation": "Bu solo ajan, konu ırklarını yıkımdan kurtarmak olduğunda zaferden başka bir şey istemiyor."
+		"translation": "Bu yalnız ajan, konu kendi ırkını yıkımdan kurtarmak olduğunda zaferden başka bir şeyle yetinmez."
 	},
 	{
 		"phrase": "A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.",
@@ -1267,17 +1262,17 @@
 	{
 		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
 		"comment": "Character description",
-		"translation": "Bir patlama sonucu kolunu kaybetmiş olmasına rağmen ırkının geleceği için savaşmaya devam ediyor."
+		"translation": "Bu komutan Güneş Patlaması sırasında kolunu kaybetmiş olmasına rağmen ırkının geleceği için savaşmaya devam ediyor."
 	},
 	{
 		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
 		"comment": "Character description",
-		"translation": "Galaksinde yalnız dolaşan, yoluna çıkan herkese saldıran kanun kaçakları."
+		"translation": "Galaksinin dış kısımlarında yalnız dolaşan, yoluna çıkan herkese saldıran kanun kaçakları."
 	},
 	{
 		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
 		"comment": "Character description",
-		"translation": "Bu Agaman, Soltrium galaksisine girmeye değer olduklarını kanıtlamak için ön saflarda yetenekli bir şekilde savaştı."
+		"translation": "Bu agaman, Soltrium galaksisine girmeye değer olduklarını kanıtlamak için ön saflarda yetenekli bir şekilde savaştı."
 	},
 	{
 		"phrase": "A curious one, aren't you?",
@@ -1287,7 +1282,7 @@
 	{
 		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
 		"comment": "Character description",
-		"translation": "Bu agaman, Soltrium galaksisine yolculuk yapmak için her şeyden vazgeçti."
+		"translation": "Bu Agaman, Soltrium galaksisine yolculuk yapmak için her şeyden vazgeçti."
 	},
 	{
 		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
@@ -1297,12 +1292,12 @@
 	{
 		"phrase": "Cancel",
 		"comment": "[Mapping Screen] Cancel uploading a map to the Workshop",
-		"translation": "İptal"
+		"translation": "İptal Et"
 	},
 	{
 		"phrase": "Checkout",
 		"comment": "[Store] [Button] Confirm buying from the store",
-		"translation": "Doğrula"
+		"translation": "Satın Al"
 	},
 	{
 		"phrase": "Continue",
@@ -1322,7 +1317,7 @@
 	{
 		"phrase": "Use token",
 		"comment": "[Store] [Button] Use a character token to unlock a character",
-		"translation": "Token kullan"
+		"translation": "Jeton kullan"
 	},
 	{
 		"phrase": "This is a gift",
@@ -1367,7 +1362,7 @@
 	{
 		"phrase": "Exit game",
 		"comment": "[Navigation] Exit the game",
-		"translation": "Oyundan çıkış"
+		"translation": "Oyundan çık"
 	},
 	{
 		"phrase": "Skip tutorial",
@@ -1381,7 +1376,7 @@
 	},
 	{
 		"phrase": "Blocks",
-		"context": "Cubes",
+		"context": "Cubes",i
 		"comment": "A 3d voxel",
 		"translation": "Bloklar"
 	},
@@ -1398,22 +1393,22 @@
 	{
 		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
 		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
-		"translation": "Animasyonlu blokların doğru şekilde işlenmesi için Animasyonlu Bloklar etkinleştirilmelidir"
+		"translation": "Animasyonlu blokların doğru şekilde görünmesi için Animasyonlu Bloklar etkinleştirilmelidir"
 	},
 	{
 		"phrase": "Drag to rotate",
 		"comment": "[Block Customisation] Click and drag with the mouse to rotate the block",
-		"translation": "Döndürmek için fare ile kaydırın"
+		"translation": "Döndürmek için sol tıka basılı tutun"
 	},
 	{
 		"phrase": "Scroll to zoom",
 		"comment": "[Block Customisation] Use the scroll wheel to move the camera closer to the block",
-		"translation": "Yakınlaştırmak için fare Scroll'unu kullanın"
+		"translation": "Yakınlaştırmak için mouse tekerleğini kullanın"
 	},
 	{
 		"phrase": "Press space to auto rotate",
 		"comment": "[Block Customisation] Press space on your keyboard to make the block automatically rotate",
-		"translation": "Otomatik döndürmeyi aktifleştirmek için Space tuşuna basın"
+		"translation": "Otomatik döndürmek için Space tuşuna basın"
 	},
 	{
 		"phrase": "Did you know",
@@ -1433,17 +1428,17 @@
 	{
 		"phrase": "This is an experimental server used for beta testing. The game may not function as intended",
 		"comment": "[Connecting] Text that shows on the left of the screen when connecting to a beta server",
-		"translation": "Bu, beta testi için kullanılan deneysel bir sunucudur. Oyun normal sunuculardaki gibi olmayabilir"
+		"translation": "Bu, beta testi için kullanılan deneysel bir sunucudur. oyun normal sunuculardaki gibi olmayabilir"
 	},
 	{
 		"phrase": "Determining sector coordinates",
 		"comment": "[Connecting] Fancy loading text",
-		"translation": "Sektör koordinatları alınıyor"
+		"translation": "Sektör koordinatları belirleniyor"
 	},
 	{
 		"phrase": "Calibrating thermal dampeners",
 		"comment": "[Connecting] Fancy loading text",
-		"translation": "Sönümleyiciler kalibre ediliyor"
+		"translation": "Termal sönümleyiciler kalibre ediliyor"
 	},
 	{
 		"phrase": "Entering planet atmosphere",
@@ -1463,12 +1458,12 @@
 	{
 		"phrase": "Respawn",
 		"comment": "[Gamemode Info] Respawn time, e.g. 10s respawn",
-		"translation": "Yeniden doğ"
+		"translation": "Yeniden doğma süresi"
 	},
 	{
 		"phrase": "Players",
 		"comment": "[Gamemode Info] Player count, e.g. 24 players",
-		"translation": "Oyunda"
+		"translation": "Oyuncu"
 	},
 	{
 		"phrase": "No respawns",
@@ -1478,12 +1473,12 @@
 	{
 		"phrase": "First to 5 wins",
 		"comment": "[Gamemode Info] Win requirement, e.g. win 5 rounds in Arena to win",
-		"translation": "5 rauntu ilk kazanan takım galibiyeti alır"
+		"translation": "İlk 5 rauntu kazanan galibiyeti alır"
 	},
 	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
 		"comment": "[Gamemode Info] Arena gamemode description",
-		"translation": "Soltriumun bahis oynadığı galaksinin ücra taraflarında bir kara market kuruldu. Yarışmacıların kâr ve hayatta kalmak için savaştığı arenada ya kazan ya da öl."
+		"translation": "Soltriumun bahis olarak oynandığı galaksinin ücra taraflarında bir kara market kuruldu. Yarışmacıların kâr ve hayatta kalmak için savaştığı arenada ya kazan ya da öl."
 	},
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
@@ -1508,47 +1503,47 @@
 	{
 		"phrase": "battalions have been dispatched to search for and collect the precious resource.",
 		"comment": "[Salvage] [3\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "değerli kaynağı aramak ve toplamak için paralı askerler gönderildi."
+		"translation": "tümenleri değerli kaynağı aramak ve toplamak için gönderildi."
 	},
 	{
 		"phrase": "The first team to",
 		"comment": "[Gamemode Info] [1\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "İlk takım"
+		"translation": ""
 	},
 	{
 		"phrase": "points wins",
 		"comment": "[Gamemode Info] [2\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "kazanır"
+		"translation": "sahibi ilk takım kazanır"
 	},
 	{
 		"phrase": "Capture 5 zones to win",
 		"comment": "[Breakthrough] Win requirement. A team must capture 5 zones to win",
-		"translation": "Kazanmak için takımınız 5 bölgenin kontrolünü elinde tutmalıdır"
+		"translation": "Kazanmak için 5 bölgenin de kontrolünü elinde tut"
 	},
 	{
 		"phrase": "Control the zone to win",
 		"comment": "[Control Shift] Win requirement. A team must control and push the zone back into the enemy spawn to win",
-		"translation": "Kazanmak için takımınız bölgenin kontolünü elinde tutmalıdır"
+		"translation": "Kazanmak için bölgenin kontrolünü elinde tut ve düşmanın üssüne doğru götür"
 	},
 	{
 		"phrase": "Deliver the bomb",
 		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Deliver the bomb 3 times to win",
-		"translation": "Bombayı teslim et"
+		"translation": "Bombayı teslim etmeyi"
 	},
 	{
 		"phrase": "Capture the flag",
 		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Bayrağı ele geçir"
+		"translation": "Bayrağı ele geçirmeyi"
 	},
 	{
 		"phrase": "Times to win",
 		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "kere kazan"
+		"translation": "defa yap ve kazan"
 	},
 	{
 		"phrase": "Get two kills with every weapon, then melee to win",
 		"comment": "[Gun Game] Win requirement",
-		"translation": "Her silahla iki düşman öldürün ve en son aşamada kazanmak için bir düşmanı bıçakla öldürün"
+		"translation": "Her silahla iki düşman öldürün ve son olarak kazanmak için bir düşmanı yakın dövüşte öldürün"
 	},
 	{
 		"phrase": "Hold the most Soltrium to win",
@@ -1558,17 +1553,17 @@
 	{
 		"phrase": "Pick up",
 		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "Düşmandan"
+		"translation": "Düşman cesetlerinden"
 	},
 	{
 		"phrase": "From enemy corpses",
-		"comment": "[Head Hunter] [2\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
+		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
 		"translation": "topla"
 	},
 	{
 		"phrase": "Weapons and Mods spawn around the map",
 		"comment": "[Head Hunter] Gamemode description.",
-		"translation": "Silahlar ve modifikasyonlar haritanın içinde rastgele olarak bulunur"
+		"translation": "Silahlar ve modifikasyonlar haritanın içinde rastgele olarak spawnlanır"
 	},
 	{
 		"phrase": "Not bound",
@@ -1578,12 +1573,12 @@
 	{
 		"phrase": "You can hold",
 		"comment": "[Connecting] [Loading Tip 1] [1\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Düşman yerlerini takım arkadaşlarına işaretlemek için"
+		"translation": "Düşman yerlerini takım arkadaşlarına göstermek için"
 	},
 	{
 		"phrase": "To reveal enemy positions to teammates",
 		"comment": "[Connecting] [Loading Tip 1] [2\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "basılı tutabilirsin"
+		"translation": "tuşuna basılı tutabilirsin"
 	},
 	{
 		"phrase": "You can press",
@@ -1593,7 +1588,7 @@
 	{
 		"phrase": "To provide feedback",
 		"comment": "[Connecting] [Loading Tip 2] [2\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "basabilirsin"
+		"translation": "tuşuna basabilirsin"
 	},
 	{
 		"phrase": "Local",
@@ -1603,7 +1598,7 @@
 	{
 		"phrase": "Subscribed",
 		"comment": "[Mapping Screen] Maps that you have subscribed to on the Workshop",
-		"translation": "Abone olundu"
+		"translation": "Abone olunan"
 	},
 	{
 		"phrase": "Upload",
@@ -1668,12 +1663,12 @@
 	{
 		"phrase": "Uploading map to the Steam Workshop",
 		"comment": "[Map List] This text shows when uploading a map to the Steam Workshop",
-		"translation": "Harita Steam Atölyesi'ne yükleniyor"
+		"translation": "Steam atölyesine harita yükleniyor"
 	},
 	{
 		"phrase": "Committing Changes",
 		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Değişiklikler İşleniyor"
+		"translation": "Değişiklikler kabul ediliyor"
 	},
 	{
 		"phrase": "Invalid",
@@ -1683,22 +1678,22 @@
 	{
 		"phrase": "Preparing Config",
 		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Yapılandırmaya Hazırlanıyor"
+		"translation": "Yapılandırma hazırlanıyor"
 	},
 	{
 		"phrase": "Preparing Content",
 		"comment": "[Workshop] The status of the current map upload",
-		"translation": "İçerik Hazırlanıyor"
+		"translation": "İçerik hazırlanıyor"
 	},
 	{
 		"phrase": "Uploading Content",
 		"comment": "[Workshop] The status of the current map upload",
-		"translation": "içerik Yükleniyor"
+		"translation": "İçerik yükleniyor"
 	},
 	{
 		"phrase": "Uploading Preview Image",
 		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Önizleme Resmi Yükleniyor"
+		"translation": "Önizleme resmi yükleniyor"
 	},
 	{
 		"phrase": "Upload summary",
@@ -1739,7 +1734,7 @@
 	{
 		"phrase": "Double XP + Proton Weekend! Ends in",
 		"comment": "[Play Screen] The full phrase is: Double XP + Proton Weekend! Ends in 3 days, 1 hour and 12 minutes",
-		"translation": "2x XP + proton hafta sonu! Bitecek"
+		"translation": "2x XP + Proton Hafta Sonu! Kalan süre"
 	},
 	{
 		"phrase": "day",
@@ -1749,7 +1744,7 @@
 	{
 		"phrase": "days",
 		"comment": "[Unit] Time measurement",
-		"translation": "günler"
+		"translation": "gün"
 	},
 	{
 		"phrase": "hour",
@@ -1759,7 +1754,7 @@
 	{
 		"phrase": "hours",
 		"comment": "[Unit] Time measurement",
-		"translation": "saatler"
+		"translation": "saat"
 	},
 	{
 		"phrase": "minute",
@@ -1769,17 +1764,17 @@
 	{
 		"phrase": "minutes",
 		"comment": "[Unit] Time measurement",
-		"translation": "dakikalar"
+		"translation": "dakika"
 	},
 	{
 		"phrase": "and",
 		"comment": "[Conjunction] The full phrase is 1 hour and 12 minutes",
-		"translation": "ve"
+		"translation": ""
 	},
 	{
 		"phrase": "Trials",
 		"comment": "[Play Screen] [Navigation] Trials tab",
-		"translation": "Denemeler"
+		"translation": "Parkur"
 	},
 	{
 		"phrase": "Low level",
@@ -1789,7 +1784,7 @@
 	{
 		"phrase": "Custom",
 		"comment": "[Play Screen] [Navigation] Custom lobbies tab",
-		"translation": "Özel"
+		"translation": "Özelleştirme"
 	},
 	{
 		"phrase": "Empty servers",
@@ -1842,7 +1837,7 @@
 		"phrase": "UI",
 		"context": "User interface",
 		"comment": "[Settings] [Button] Sidebar text",
-		"translation": "Arayüz"
+		"translation": "Kullanıcı arayüzü"
 	},
 	{
 		"phrase": "Video",
@@ -1858,7 +1853,7 @@
 		"phrase": "Keybinds",
 		"context": "Key bindings",
 		"comment": "[Settings] [Button] Sidebar text",
-		"translation": "Tuş atamaları"
+		"translation": "Tuş Atamaları"
 	},
 	{
 		"phrase": "Accessibility",
@@ -1878,7 +1873,7 @@
 	{
 		"phrase": "Peacekeeper",
 		"comment": "Setting name for the peacekeeper mechanic",
-		"translation": "Barışyanlısı"
+		"translation": "Peacekeeper"
 	},
 	{
 		"phrase": "Networking",
@@ -1903,7 +1898,7 @@
 	{
 		"phrase": "Pew Pew Mode",
 		"comment": "Acapella mode",
-		"translation": "Pew Pew Modu"
+		"translation": "Piyuv Piyuv Modu"
 	},
 	{
 		"phrase": "Control Preferences",
@@ -1918,7 +1913,7 @@
 	{
 		"phrase": "Toggle Crouch",
 		"comment": "Checkbox setting for whether the user should press ctrl once to toggle crouching, rather than hold ctrl to stay crouching.",
-		"translation": "Eğilme Basılı Kalsın",
+		"translation": "Çömelme Basılı Kalsın",
 	},
 	{
 		"phrase": "Toggle Sprint",
@@ -1928,12 +1923,12 @@
 	{
 		"phrase": "Auto-Rotate Structures",
 		"comment": "Checkbox setting for whether the structure rotation should change automatically when the user looks around.",
-		"translation": "Yapıları Otomatik Döndürme"
+		"translation": "Yapıları Otomatik döndür"
 	},
 	{
 		"phrase": "Counts As Weapon",
 		"comment": "[Midi] counts as weapon is the full checkbox setting name. When enabled, the user can change to the midi with the 'Last Tool\/Next Tool\/Previous Tool' keybinds",
-		"translation": "Midi'yi Silah Olarak Say"
+		"translation": "Silah Olarak Sayılır"
 	},
 	{
 		"phrase": "Chat",
@@ -1963,7 +1958,7 @@
 	{
 		"phrase": "Rendering",
 		"comment": "[Settings Section Header]",
-		"translation": "İşleme Tercihleri"
+		"translation": "Render Tercihleri"
 	},
 	{
 		"phrase": "Party Colour Outline for Party Members",
@@ -2003,12 +1998,12 @@
 	{
 		"phrase": "Input",
 		"comment": "[Settings Section Header]",
-		"translation": "Giriş"
+		"translation": "Girdi"
 	},
 	{
 		"phrase": "Raw Mouse Input",
 		"comment": "[Setting] [Checkbox]",
-		"translation": "Ham Fare Girişi"
+		"translation": "Ham Fare Girdisi"
 	},
 	{
 		"phrase": "Sensitivity Multiplies",
@@ -2028,7 +2023,7 @@
 	{
 		"phrase": "Look Sensitivity",
 		"comment": "[Setting] [Slider]",
-		"translation": "Görüş Hassasiyet"
+		"translation": "Hassasiyet"
 	},
 	{
 		"phrase": "Ironsights Sensitivity",
@@ -2038,12 +2033,12 @@
 	{
 		"phrase": "X2 Scope Sensitivity",
 		"comment": "[Setting] [Slider]",
-		"translation": "2x Dürbün Hassasiyeti"
+		"translation": "2X Dürbün Hassasiyeti"
 	},
 	{
 		"phrase": "X4 Scope Sensitivity",
 		"comment": "[Setting] [Slider]",
-		"translation": "4x Dürbün Hassasiyeti"
+		"translation": "4X Dürbün Hassasiyeti"
 	},
 	{
 		"phrase": "Spectator Sensitivity",
@@ -2058,7 +2053,7 @@
 	{
 		"phrase": "UI Scale",
 		"comment": "[Setting] [Slider] Controls the size of the user interface",
-		"translation": "Arayüz Ölçeği"
+		"translation": "kullanıcı arayüzü ölçeği"
 	},
 	{
 		"phrase": "Pings",
@@ -2068,17 +2063,17 @@
 	{
 		"phrase": "Only Show Party Member Pings",
 		"comment": "[Setting] [Checkbox] When enabled, team mate pings are hidden and only party member pings are shown",
-		"translation": "Yalnızca Grup Üyesi Ping'lerini Göster"
+		"translation": "Yalnızca grup üyesi ping'lerini göster"
 	},
 	{
 		"phrase": "Show Ping Owner Name",
 		"comment": "[Setting] [Checkbox] When enabled, the name of the player who created this ping will show",
-		"translation": "Ping Sahibinin Adını Göster"
+		"translation": "Ping sahibinin adını göster"
 	},
 	{
 		"phrase": "Max Ping Distance",
 		"comment": "[Setting] [Slider] Control the cut-off distance for showing pings",
-		"translation": "Maksimum Ping Mesafesi"
+		"translation": "Maksimum ping mesafesi"
 	},
 	{
 		"phrase": "Blocks",
@@ -2099,43 +2094,43 @@
 	{
 		"phrase": "Minimap Zoom",
 		"comment": "[Setting] [Slider] Controls how zoomed in the minimap is",
-		"translation": "Mini Harita Ölçeği"
+		"translation": "Mini Harita Zoomu"
 	},
 	{
 		"phrase": "Player Nameplates",
 		"comment": "[Settings Section Header] A player nameplate is the UI above a player that shows their name and health",
-		"translation": "Oyuncu İsim Plakaları"
+		"translation": "Oyuncu İsimleri"
 	},
 	{
 		"phrase": "Nameplate Distance",
 		"comment": "[Setting] [Slider] Controls the cut-off distance for drawing player nameplates",
-		"translation": "Oyuncu İsim Gözükme Mesafesi"
+		"translation": "Oyuncu İsmi Gözükme Mesafesi"
 	},
 	{
 		"phrase": "Nameplate Scale",
 		"comment": "[Setting] [Slider] Controls the size of player nameplates",
-		"translation": "Oyuncu İsim Ölçeği"
+		"translation": "Oyuncu İsmi Ölçeği"
 	},
 	{
 		"phrase": "Damage Numbers",
 		"comment": "[Settings Section Header]",
-		"translation": "Hasar Sayıları"
+		"translation": "Hasar numaraları"
 	},
 	{
 		"phrase": "Show in the Shooting Range",
 		"comment": "[Setting] [Checkbox] Enable this to show the amount of damage you deal to targets in the shooting range in the ship",
-		"translation": "Atış Poligonunda Göster"
+		"translation": "Atış poligonunda göster"
 	},
 	{
 		"phrase": "Toggle UI",
 		"context": "Toggle User Interface",
 		"comment": "[Settings Section Header]",
-		"translation": "Arayüzünü Aç\/Kapat"
+		"translation": "Arayüzünü aç\/kapat"
 	},
 	{
 		"phrase": "Show HUD",
 		"comment": "[Setting] [Checkbox] Controls whether to show the in-game HUD (ammo, minimap, etc)",
-		"translation": "HUD'u Göster"
+		"translation": "HUD'ı Göster"
 	},
 	{
 		"phrase": "Show Chat",
@@ -2156,7 +2151,7 @@
 	{
 		"phrase": "Show Enemies on the Zone Bar",
 		"comment": "[Setting] [Checkbox] Controls whether enemies are drawn in the zone UI at the top of the screen. This is only in Breakthrough",
-		"translation": "Düşmanları Bölge Çubuğunda Göster"
+		"translation": "Düşmanları bölge çubuğunda göster (Atılım)"
 	},
 	{
 		"phrase": "Secret",
@@ -2184,7 +2179,7 @@
 		"phrase": "Enable VSync",
 		"context": "Enable Vertical Sync",
 		"comment": "[Setting] [Checkbox] Enable this to prevent the game from running faster than your monitor can render",
-		"translation": "VSync'i Etkinleştir"
+		"translation": "VSync'ı Etkinleştir"
 	},
 	{
 		"phrase": "Resolution",
@@ -2216,7 +2211,7 @@
 		"phrase": "Smooth Scaling",
 		"context": "Smooth Upscale",
 		"comment": "[Setting] [Checkbox] Performance setting that controls whether smaller game resolutions are upscaled smoothly (enabled) or pixelated (disabled)",
-		"translation": "Pürüzsüz Ölçeklendirme"
+		"translation": "Pürüzsüz Ölçekleme"
 	},
 	{
 		"phrase": "Camera",
@@ -2226,7 +2221,7 @@
 	{
 		"phrase": "Field of View",
 		"comment": "[Setting] [Slider] Controls the field of view that the game camera uses",
-		"translation": "Görüş Alanı"
+		"translation": "Bakış Açısı"
 	},
 	{
 		"phrase": "Degrees",
@@ -2241,7 +2236,7 @@
 	{
 		"phrase": "Dynamic Rendering Settings",
 		"comment": "[Settings Section Header]",
-		"translation": "Dinamik İşleme Ayarları"
+		"translation": "Dinamik Render Ayarları"
 	},
 	{
 		"phrase": "Texture Quality",
@@ -2261,27 +2256,27 @@
 	{
 		"phrase": "Render Player Shadows",
 		"comment": "[Setting] [Checkbox] Enable this to make players cast shadows",
-		"translation": "Oyuncu Gölgelerini Göster"
+		"translation": "Oyuncu Gölgeleri"
 	},
 	{
 		"phrase": "Render Entity Shadows",
 		"comment": "[Setting] [Checkbox] Enable this to make entities (e.g. scanners, canisters, grenades) cast shadows",
-		"translation": "Teçhizat Gölgelerini Göster"
+		"translation": "Nesne Gölgeleri"
 	},
 	{
 		"phrase": "Render Particle Shadows",
 		"comment": "[Setting] [Checkbox] Enable this to make particles cast shadows",
-		"translation": "Parçacık gölgeleri Göster"
+		"translation": "Parçacık Gölgeleri"
 	},
 	{
 		"phrase": "Render Weather Particle Shadows",
 		"comment": "[Setting] [Checkbox] Enable this to make weather particles (e.g. rain and snow) cast shadows",
-		"translation": "Hava Durumu Parçacık Gölgelerini Göster"
+		"translation": "Hava Durumu Parçacık Gölgeleri"
 	},
 	{
 		"phrase": "Render Structure Shadows",
 		"comment": "[Setting] [Checkbox] Enable this to make falling structures (e.g. the tower that Noah was camping in) cast shadows",
-		"translation": "Yapı Gölgelerini Göster"
+		"translation": "Yapı Gölgeleri"
 	},
 	{
 		"phrase": "Voxel Settings",
@@ -2291,7 +2286,7 @@
 	{
 		"phrase": "Render Distance",
 		"comment": "[Setting] [Slider] This controls the cut-off distance for rendering the map. The unit for this setting is chunks (groups of 32x32x32 voxels)",
-		"translation": "İşleme Mesafesi"
+		"translation": "Render Mesafesi"
 	},
 	{
 		"phrase": "Chunks",
@@ -2301,7 +2296,7 @@
 	{
 		"phrase": "Max Chunk Updates",
 		"comment": "[Setting] [Slider] CPU performance setting. This slider sets a limit for how many chunks can be meshed each frame",
-		"translation": "Maksimum Chunk Güncellemeleri"
+		"translation": "Maksimum Chunk Güncellemesi"
 	},
 	{
 		"phrase": "Particle Amount",
@@ -2323,7 +2318,7 @@
 		"phrase": "Max Lights",
 		"context": "Maximum Lights",
 		"comment": "[Setting] [Slider] This controls how many lights can be rendered at any one time",
-		"translation": "Maksimum Işıklar"
+		"translation": "Maksimum Işık Adedi"
 	},
 	{
 		"phrase": "Lights",
@@ -2339,7 +2334,7 @@
 		"phrase": "SSAO Samples",
 		"context": "Crevice Shading Quality",
 		"comment": "[Setting] [Slider] This controls the quality of ambient occlusion",
-		"translation": "SSAO Örnekleri"
+		"translation": "SSAO Örnek Sayısı"
 	},
 	{
 		"phrase": "Samples",
@@ -2354,17 +2349,17 @@
 	{
 		"phrase": "Render Bloom On Optics",
 		"comment": "[Setting] [Checkbox] This controls whether bloom effects will be shown on ironsights and red dot scopes",
-		"translation": "Optik Üzerinde Bloom işleme"
+		"translation": "Optik Üzerinde Bloom"
 	},
 	{
 		"phrase": "Render Crepuscular Rays",
 		"comment": "[Setting] [Slider] This controls whether sun beams \/ light shafts \/ crepuscular rays should be rendered",
-		"translation": "Güneş Işınlarını İşleme"
+		"translation": "Güneş Işınları"
 	},
 	{
 		"phrase": "Enable Anti-Aliasing",
 		"comment": "[Setting] [Slider] Enable this to reduce the visible pixelation of the final game render",
-		"translation": "Kenar Yumuşatmayı Etkinleştir"
+		"translation": "Anti-Aliasing"
 	},
 	{
 		"phrase": "Outer Scope Blur",
@@ -2380,7 +2375,7 @@
 		"phrase": "Bare Minimum",
 		"context": "Lowest Quality",
 		"comment": "[Setting] [Checkbox] The Bare Minimum rendering setting renders the game at the lowest quality possible for maximum FPS",
-		"translation": "En Düşük Ayarlar Modu"
+		"translation": "En Düşük"
 	},
 	{
 		"phrase": "Animated Block Skins",
@@ -2422,17 +2417,17 @@
 	{
 		"phrase": "Game Music Volume",
 		"comment": "[Setting] [Slider] This controls the volume of music in-game",
-		"translation": "Oyun Müziği"
+		"translation": "Oyun Müziği Ses Seviyesi"
 	},
 	{
 		"phrase": "Menu Music Volume",
 		"comment": "[Setting] [Slider] This controls the volume of music while on the main menu",
-		"translation": "Menü Müziği"
+		"translation": "Menü Müziği Ses Seviyesi"
 	},
 	{
 		"phrase": "Personal Footsteps Volume",
 		"comment": "[Setting] [Slider] This controls the volume of your own footsteps",
-		"translation": "Kişisel Ayak Sesleri"
+		"translation": "Ayak Sesleri"
 	},
 	{
 		"phrase": "Movement",
@@ -2442,7 +2437,7 @@
 	{
 		"phrase": "Actions",
 		"comment": "[Settings Section Header] This section contains keybinds for picking up weapons and pinging",
-		"translation": "Aksiyonlar"
+		"translation": "Eylemler"
 	},
 	{
 		"phrase": "Weaponry",
@@ -2457,7 +2452,7 @@
 	{
 		"phrase": "Tools",
 		"comment": "[Settings Section Header] This section contains keybinds for swapping to primary\/secondary weapons or equipment",
-		"translation": "Ekipmanlar"
+		"translation": "Aletler"
 	},
 	{
 		"phrase": "HUD",
@@ -2473,7 +2468,7 @@
 	{
 		"phrase": "Mapping",
 		"comment": "[Settings Section Header] This section contains keybinds for reloading and testing custom maps",
-		"translation": "Harita Yapma"
+		"translation": "Harita Oluşturma"
 	},
 	{
 		"phrase": "Team Colours",
@@ -2483,7 +2478,7 @@
 	{
 		"phrase": "Friendly Colour",
 		"comment": "[Setting] [Colour Picker] This controls the colour of friendlies",
-		"translation": "Takım Rengi"
+		"translation": "Dost Rengi"
 	},
 	{
 		"phrase": "Party Colour",
@@ -2504,7 +2499,7 @@
 	{
 		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
 		"comment": "[Settings Header Title] This is a summary about how the points UI customisation works",
-		"translation": "Burada oyun içinde kazandığınız puanların nasıl görüntüleneceğini özelleştirebilirsiniz. birincil puanlar puan kümesinin en üstüne yerleştirilir ve ikincil puanlar puan kümesinin altına yerleştirilir."
+		"translation": "Burada oyun içinde kazandığınız puanların nasıl görüntüleneceğini özelleştirebilirsiniz. Birincil puanlar puan kümesinin en üstüne yerleştirilir ve ikincil puanlar puan kümesinin altına yerleştirilir."
 	},
 	{
 		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
@@ -2514,42 +2509,42 @@
 	{
 		"phrase": "The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyun, FPS'yi yüksek tutmak için efektleri otomatik olarak devre dışı bırakır ve son işleme kalitesini düşürür. Optimal işleme ayarlarını belirlemek bir dakika kadar sürebilir."
+		"translation": "Oyun, FPS'i yüksek tutmak için efektleri otomatik olarak devre dışı bırakır ve postprocessing kalitesini düşürür. Optimal postprocessing ayarlarını belirlemek bir dakika kadar sürebilir."
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
 		"comment": "[Setting Tooltip] Peacekeeper description",
-		"translation": "20. seviye ve daha düşük olan düşmanlar ve KDR'ı 1'den düşük olan düşmanlar Acemi olarak işaretlenir."
+		"translation": "20 seviye ve daha düşük olan düşmanlar ve KDR'ı 1'den düşük olan düşmanlar Acemi olarak işaretlenir."
 	},
 	{
 		"phrase": "For the duration Peacekeeper is enabled, deal",
 		"comment": "[Setting Tooltip] [1\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "Barış gücü etkin olduğu süre boyunca, anlaşma"
+		"translation": "Peacekeeper etkin olduğu süre boyunca o oyunculara"
 	},
 	{
 		"phrase": "damage to these players and earn",
 		"comment": "[Setting Tooltip] [2\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "bu oyunculara zarar ver ve kazan"
+		"translation": "daha az hasar verip"
 	},
 	{
 		"phrase": "extra XP and Protons.",
 		"comment": "[Setting Tooltip] [3\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "ekstra XP ve Protonlar."
+		"translation": "daha fazla XP ve Proton kazan."
 	},
 	{
 		"phrase": "Changes take effect on respawn. Peacekeeper has no effect in free for all game modes.",
 		"comment": "[Setting Tooltip] [4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "Değişiklikler yeniden doğuşta etkili olur. Peacekeeper'ın tüm oyun modları için ücretsiz olarak hiçbir etkisi yoktur."
+		"translation": "Değişikler yeniden doğulduğunda etkili olur. Peacekeeper herkes tek oyun modlarında geçerli değildir.."
 	},
 	{
 		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Sunucudan oyuncu verilerini ne sıklıkta alacağınızı değiştirir. Dengesiz veya düşük bant genişliğine sahip internetteyseniz bu değeri düşürün."
+		"translation": "Sunucudan oyuncu verilerini ne sıklıkta alacağınızı değiştirir. Kararsız veya düşük bant genişliğine sahip internetteyseniz bu değeri düşürün."
 	},
 	{
 		"phrase": "Must keep enabled at all times",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Her zaman etkin durumda kalmalıdır"
+		"translation": "Her zaman etkin durumda kalmalıdır (şaka amaçlı)"
 	},
 	{
 		"phrase": "The size of the bottom-right minimap",
@@ -2564,12 +2559,12 @@
 	{
 		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Sunucu adı skor tablosunda görüntülenmeyecek ve diğer oyuncu adları ve seviyeleri sizin için rastgele görünecektir."
+		"translation": "Sunucu adı puan tablosunda görüntülenmeyecek ve diğer oyuncu adları ve seviyeleri sizin için rastgele seçilecektir."
 	},
 	{
 		"phrase": "Controls whether the in-game HUD is rendered. Shortcut:",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyun içi HUD'un oluşturulup oluşturulmayacağını kontrol eder. Kısayol:"
+		"translation": "Oyun içi HUD'un oluşturulup oluşturulmayacağını kontrol eder. kısayol:"
 	},
 	{
 		"phrase": "Controls whether the chat is rendered. Shortcut:",
@@ -2589,42 +2584,42 @@
 	{
 		"phrase": "This controls the scale of all UI and in-game HUD. Press",
 		"comment": "[Setting] [Tooltip] [1\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100",
-		"translation": "Bu, tüm kullanıcı arayüzünün ve oyun içi HUD'un ölçeğini kontrol eder. 100'e sıfırlamak için"
+		"translation": "Bu, tüm kullanıcı arayüzünün ve oyun içi HUD'ın ölçeğini kontrol eder. 100'e sıfırlamak için"
 	},
 	{
 		"phrase": "to reset it back to 100%",
 		"comment": "[Setting] [Tooltip] [2\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100%",
-		"translation": "bas"
+		"translation": "tuşuna bas"
 	},
 	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Parçacıklar, objeler parçalandığında ortaya çıkar. Bu yüzdeyi düşürmek FPS'yi artıracaktır"
+		"translation": "Parçacıklar, objeler parçalandığında ortaya çıkar. Bu yüzdeyi düşürmek FPS'i arttıracaktır"
 	},
 	{
 		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Harita, 32x32x32 alanlardan oluşan parçalara bölünmüştür. Bunu azaltmak FPS'yi artıracaktır."
+		"translation": "Harita, 32x32x32 bloklardan oluşan parçalara bölünmüştür. Bunu azaltmak FPS'yi arttıracaktır."
 	},
 	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Dünya güneş ışıkları, blok ışıkları ve silahlardan çıkan namlu ateşleriyle aydınlanır. Oluşturulabilecek maksimum ışık miktarını azaltmak FPS'yi artıracaktır."
+		"translation": "Dünya güneş ışıkları, blok ışıkları ve silahlardan çıkan namlu ateşleriyle aydınlatılır. Renderlanabilecek maksimum ışık adedini azaltmak FPS'i arttıracaktır"
 	},
 	{
 		"phrase": "Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Saniyedeki kare sayısı (FPS), oyunun her saniye güncellenme sayısıdır. Bu değeri düşürmek CPU ve GPU kullanımını azaltacaktır."
+		"translation": "Saniyedeki kare sayısı (FPS), oyunun her saniye güncellenme sayısıdır. bu değeri düşürmek CPU ve GPU kullanımını azaltacaktır"
 	},
 	{
 		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "SSAO, nesneler arasındaki gölgelendirmeyi iyileştirir."
+		"translation": "SSAO, nesneler arasındaki yarıkları koyulaştırır"
 	},
 	{
 		"phrase": "Bloom increases and blurs the brightness of emissive surfaces",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bloom, yayılan yüzeylerin parlaklığını artırır ve bulanıklaştırır."
+		"translation": "Bloom, yayılan yüzeylerin parlaklığını artırır ve bulanıklaştırır"
 	},
 	{
 		"phrase": "Crepuscular rays are shafts of lights that originate from a star",
@@ -2634,47 +2629,47 @@
 	{
 		"phrase": "Parts of the map will be darkened by the shadows cast from other objects",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Haritanın bazı bölümleri, diğer nesnelerden gelen gölgeler tarafından karartılacak."
+		"translation": "Haritanın bazı bölümleri, diğer nesnelerden gelen gölgeler tarafından karartılacak"
 	},
 	{
 		"phrase": "Controls whether players from casting shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyuncuların gölgesinin gösterilip gösterilmeyeceğini kontrol eder."
+		"translation": "Oyuncuların gölge yapıp yapmayacağını kontrol eder"
 	},
 	{
 		"phrase": "Controls whether Disruptors, C4, Scanners and Canisters cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Disruptor'ların, C4'lerin, Scanner'ların ve Canister'lerin gölgesinin gözüküp gözükmeyeceğini kontrol eder."
+		"translation": "Disruptor'ların, C4'lerin, Scanner'ların ve Kutuların gölge oluşturup oluşturmadığını kontrol eder"
 	},
 	{
 		"phrase": "Controls whether particles cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Parçacıkların gölgesinin gözüküp gözükmeyeceğini kontrol eder."
+		"translation": "Parçacıkların gölgesinin olup olmayacağını kontrol eder"
 	},
 	{
 		"phrase": "Controls whether leaf particles cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Yaprakların gölgesinin gözüküp gözükmeyeceğini kontrol eder."
+		"translation": "Yaprakların gölgesinin olup olmayacağını kontrol eder"
 	},
 	{
 		"phrase": "Controls whether falling structures cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Düşen yapıların gölgesinin gözüküp gözükmeyeceğini kontrol eder."
+		"translation": "Düşen yapıların gölge oluşturup oluşturmayacağını kontrol eder"
 	},
 	{
 		"phrase": "Multisampling smooths the edges of objects",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Çoklu Örneklendirme, nesnelerin kenarlarını yumuşatır."
+		"translation": "Çoklu örnekleme, nesnelerin kenarlarını yumuşatır"
 	},
 	{
 		"phrase": "The Bare Minimum rendering mode skips all postprocessing and renders objects directly to the screen. Disabling this may take some time",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "En Düşük Ayarlar Modu, tüm son işlemeyi atlar ve nesneleri doğrudan ekrana işler. Bunu devre dışı bırakmak biraz zaman alabilir."
+		"translation": "En düşük ayarlar modu, tüm postprocessingi atlar ve nesneleri doğrudan ekrana renderlar. Bunu devre dışı bırakmak biraz zaman alabilir"
 	},
 	{
 		"phrase": "With Bare Minimum enabled, this controls whether the region around 2X and 4X scopes is blurred or black",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bu ayar, En Düşük Ayarlar Modu etkinleştirildiğinde 2x ve 4x dürbünlerin etrafındaki bölgenin bulanık mı yoksa siyah mı olduğunu kontrol eder."
+		"translation": "En düşük ayarlar modu etkinleştirildiğinde, bu, 2X ve 4X dürbünlerin etrafındaki bölgenin bulanık mı yoksa siyah mı olduğunu kontrol eder."
 	},
 	{
 		"phrase": "Compressing textures will use less memory on the GPU but the game will take longer to start up",
@@ -2684,92 +2679,92 @@
 	{
 		"phrase": "Debug logging stores log files in the AppData\/Roaming\/Vercidium\/log folder, which helps the developers fix bugs and crashes",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Hata ayıklama modu, log dosyalarını AppData\/Roaming\/vercidium\/log klasöründe saklar, bu da geliştiricilerin hataları ve çökmeleri düzeltmesine yardımcı olur.",
+		"translation": "Hata ayıklama modu, log dosyalarını appData\/roaming\/vercidium\/log klasöründe saklar, bu da geliştiricilerin hataları ve çökmeleri düzeltmesine yardımcı olur",
 	},
 	{
 		"phrase": "Safe Mode prevents crashes from closing the game, but may slow the game down slightly",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Güvenli mod, çökmelerin oyunu kapatmasını önler, ancak oyunu biraz yavaşlatabilir",
+		"translation": "Güvenli Mod, çökmelerin oyunu kapatmasını önler, ancak oyunu biraz yavaşlatabilir",
 	},
 	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Dikey senkronizasyon, oyunun güncelleme hızını monitörünüzün yenileme hızıyla eşleştirir. Bunu etkinleştirmek ekran yırtılmalarını düzeltebilir.",
+		"translation": "Dikey senkronizasyon (VSync), oyunun güncelleme hızını monitörünüzün yenileme hızıyla eşleştirir. bunu etkinleştirmek ekran yırtılmasını düzeltebilir",
 	},
 	{
 		"phrase": "Dynamic Exposure mimics the human eye by adjusting exposure based on the brightness of the scene",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Dinamik Pozlama, sahnenin parlaklığına göre pozlamayı ayarlayarak insan gözünü taklit eder.",
+		"translation": "Dinamik pozlama, sahnenin parlaklığına göre pozlamayı ayarlayarak insan gözünü taklit eder",
 	},
 	{
 		"phrase": "Reducing the quality of shadows will increase FPS but cause close-up shadows to flicker",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Gölgelerin kalitesini düşürmek FPS'yi artıracak ancak yakın plandaki gölgelerin titremesine neden olacaktır.",
+		"translation": "Gölgelerin kalitesini düşürmek FPS'yi arttıracak ancak yakın plandaki gölgelerin titremesine neden olacaktır.",
 	},
 	{
 		"phrase": "Reducing the quality of lighting will increase FPS but pixelate lighting",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Aydınlatma kalitesini düşürmek FPS'yi artıracak ancak aydınlatmayı pikselli hale getirecek.",
+		"translation": "Aydınlatma kalitesini düşürmek FPS'yi arttıracak ancak aydınlatmayı pikselli hale getirecek",
 	},
 	{
 		"phrase": "Enabling this will remove parts of the rendering pipeline that are potentially slow on older hardware",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu etkinleştirmek, eski donanımlara sahip bilgisayarlarda potansiyel olarak yavaş olan işleme hattının parçalarını kaldıracaktır.",
+		"translation": "Bunu etkinleştirmek, eski donanımlarda yavaşlama potansiyeli olan render hattının bazı kısımlarını devre dışı bırakacaktır.",
 	},
 	{
 		"phrase": "Enable this if you are having trouble connecting to servers",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Sunuculara bağlanmada sorun yaşıyorsanız bunu etkinleştirin.",
+		"translation": "Sunuculara bağlanmada sorun yaşıyorsanız bunu etkinleştirin",
 	},
 	{
 		"phrase": "If enabled, the scroll wheel will only rotate between your weapons and not your building\/digging tools",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Etkinleştirilirse, fare Scroll'u Midi\/Kazıcı aletleriniz arasında değil, yalnızca silahlarınız arasında dönecektir.",
+		"translation": "Etkinleştirilirse, kaydırma tekerleği İnşa\/Kaz aletleri arasında değil, yalnızca silahlar arasında gezinecektir.",
 	},
 	{
 		"phrase": "If enabled, each Ironsight \/ 2X \/ 4X Sensitivity option is a multiplier based on your Look Sensitivity",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Etkinleştirilirse, her bir Standart Nişangah \/ 2x Dürbün \/ 4x Dürbün Hassasiyet seçeneği, Görüş Hassasiyeti'nize dayalı olacaktır.",
+		"translation": "Etkinleştirilirse, her bir Nişangah \/ 2X \/ 4X Hassasiyet seçeneği, görünüm hassasiyetinize dayalı bir çarpandır.",
 	},
 	{
 		"phrase": "The amount of sections of the map that are updated each frame. Lowering this will reduce CPU usage",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Her karede güncellenen harita bölümlerinin miktarı. bunu düşürmek CPU kullanımını azaltacaktır",
+		"translation": "Her karede güncellenen harita bölümlerinin miktarı. Bunu azaltmak CPU kullanımını düşürecektir",
 	},
 	{
 		"phrase": "Enabling this will reduce texture resolution to increase FPS and reduce memory usage. Disabling this requires a restart to take effect",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu etkinleştirmek, FPS'yi artırmak ve bellek kullanımını azaltmak için doku çözünürlüğünü azaltacaktır. Bunu devre dışı bıraktıktan sonra etkili olması için oyunun yeniden başlatılması gerekir.",
+		"translation": "Bunu etkinleştirmek, FPS'i artırmak ve bellek kullanımını azaltmak için doku çözünürlüğünü azaltacaktır. Bunun devre dışı bırakılması durumunda etkili olması için oyunu yeniden başlatmak gerekir.",
 	},
 	{
 		"phrase": "Increasing this will improve the quality of Ambient Occlusion postprocessing",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu artırmak, SSAO işleme kalitesini artıracaktır.",
+		"translation": "Bunu arttırmak, Ambient Occlusion kalitesini arttıracaktır.",
 	},
 	{
 		"phrase": "This controls how far away friendly names will show",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bu takım arkadaşlarının adlarının ne kadar uzakta gösterileceğini kontrol eder.",
+		"translation": "Bu, dost adlarının ne kadar mesafeden itibaren gösterileceğini kontrol eder",
 	},
 	{
 		"phrase": "When disabled, the Midi\/Digger\/Structure will be skipped when scrolling weapons and pressing the Last Tool keybind will not swap to them",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Devre dışı bırakıldığında, silahları kaydırırken Midi\/Kazıcı\/Yapı atlanacak ve son araç tuş takımına basıldığında bunlar değiştirilmeyecek",
+		"translation": "Devre dışı bırakıldığında, silahları kaydırırken Midi\/Kazıcı\/İnşa atlanacak ve son araç tuş takımına basıldığında bunlara geçilmeyecek",
 	},
 	{
 		"phrase": "Automatically pause the game when you change to another window",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Başka bir pencereye geçtiğinizde oyunu otomatik olarak duraklatır.",
+		"translation": "Başka bir pencereye geçtiğinizde oyunu otomatik olarak duraklatın",
 	},
 	{
 		"phrase": "Replace swear words in chat messages with delicious food",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Sohbet mesajlarındaki küfürleri lezzetli yemek isimleriyle değiştirir.",
+		"translation": "Sohbet mesajlarındaki küfürleri lezzetli yemeklerle değiştirin",
 	},
 	{
 		"phrase": "Reducing this will increase FPS",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu azaltmak FPS'yi artıracaktır.",
+		"translation": "Bunu azaltmak FPS'i artıracaktır.",
 	},
 	{
 		"phrase": "Enabling this will make the game render at the resolution specified below and stretch to the size of the window",
@@ -2779,32 +2774,32 @@
 	{
 		"phrase": "Enabling this will reduce the pixelation of lower game resolutions",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu etkinleştirmek, daha düşük oyun çözünürlüklerinin pikselleşmesini azaltacaktır.",
+		"translation": "Bunu etkinleştirmek, daha düşük oyun çözünürlüklerinde pikselleşmeyi azaltacaktır.",
 	},
 	{
 		"phrase": "Experimental performance setting, may crash your game. Don't enable if you haven't been told to",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Deneysel performans ayarı, oyununuzu çökertebilir. Size söylenmediyse etkinleştirmeyin.",
+		"translation": "Deneysel performans ayarı, oyununuzu çökertebilir. size söylenmediyse etkinleştirmeyin",
 	},
 	{
 		"phrase": "New rendering pipeline. Please let Vercidium know in Discord if the game runs faster\/slower with this enabled",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Yeni işleme hattı. Bu etkinleştirildiğinde oyun daha hızlı\/yavaş çalışırsa lütfen Discord'dan Vercidium'a bildirin",
+		"translation": "Yeni işleme hattı. Bu etkinleştirildiğinde oyun daha hızlı\/yavaş çalışırsa lütfen Discord'da Vercidium'a bildirin",
 	},
 	{
 		"phrase": "Enable this to make",
 		"comment": "[Setting] [Tooltip] [1\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "Bunu yapmak için etkinleştirin",
+		"translation": "",
 	},
 	{
 		"phrase": "dig single blocks and",
 		"comment": "[Setting] [Tooltip] [2\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "tek blokları kazmak ve",
+		"translation": "tuşunun blokları tek tek",
 	},
 	{
 		"phrase": "dig a 3x3x3 area",
 		"comment": "[Setting] [Tooltip] [3\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "3x3x3 alan kazmak",
+		"translation": "tuşunun 3x3x3 bir alanı kazması için bunu etkinleştirin",
 	},
 	{
 		"phrase": "Character",
@@ -2819,7 +2814,7 @@
 	{
 		"phrase": "Loadouts",
 		"comment": "[Customise] [Navigation] Loadouts tab",
-		"translation": "Kitler",
+		"translation": "Ekipmanlar",
 	},
 	{
 		"phrase": "Weapons",
@@ -2829,7 +2824,7 @@
 	{
 		"phrase": "Killcam",
 		"comment": "[Customise] [Navigation] Killcam tab",
-		"translation": "Killcam",
+		"translation": "Ölüm Kamerası",
 	},
 	{
 		"phrase": "Blocks",
@@ -2849,17 +2844,17 @@
 	{
 		"phrase": "Kills",
 		"comment": "[Player Statistic] Amount of players killed",
-		"translation": "Öldürmeler",
+		"translation": "Öldürme",
 	},
 	{
 		"phrase": "Deaths",
 		"comment": "[Player Statistic] Times this player has died",
-		"translation": "Ölümler",
+		"translation": "Ölüm",
 	},
 	{
 		"phrase": "Assists",
 		"comment": "[Progression Name]",
-		"translation": "Asistler",
+		"translation": "Asist",
 	},
 	{
 		"phrase": "KDR",
@@ -2869,12 +2864,12 @@
 	{
 		"phrase": "Headshots",
 		"comment": "[Progression Name]",
-		"translation": "Kafa Vuruşları",
+		"translation": "Kafadan Vuruş",
 	},
 	{
 		"phrase": "Unavailable",
 		"comment": "[Sight] [Button] This weapon sight attachment is not available for this gun",
-		"translation": "Kullanılamıyor",
+		"translation": "Kullanılamaz",
 	},
 	{
 		"phrase": "Level",
@@ -2884,12 +2879,12 @@
 	{
 		"phrase": "Equipped",
 		"comment": "[Sight] [Button] This weapon sight attachment is equipped",
-		"translation": "Kuşanıldı",
+		"translation": "Kullanılıyor",
 	},
 	{
 		"phrase": "Sight",
 		"comment": "[Weapons] Sight tab",
-		"translation": "Nişangah",
+		"translation": "Görüş",
 	},
 	{
 		"phrase": "Skin",
@@ -2929,68 +2924,67 @@
 	{
 		"phrase": "Foregrip",
 		"comment": "[Attachment UI] [Label] Attachment category name",
-		"translation": "Kabza",
+		"translation": "Tutacak",
 	},
 	{
 		"phrase": "Stock",
 		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the part of the gun that rests against your shoulder, e.g. 'Fora was the laughing stock of the classroom', or 'Satisfied Onion goes well with chicken stock'",
-		"translation": "Stok",
+		"translation": "Dipçik",
 	},
 	{
 		"phrase": "Equip",
 		"comment": "[Unlock Button] This character can be equipped",
-		"translation": "Kuşan",
+		"translation": "Kullan",
 	},
 	{
 		"phrase": "Free",
 		"comment": "[Unlock Button] This weapon skin can be unlocked for free",
-		"translation": "Bedava",
+		"translation": "Ücretsiz",
 	},
 	{
 		"phrase": "Join",
 		"comment": "[Spectate Text] This shows in the bottom left of the Arena. The full phrase is: '[B] Join Aegis'",
-		"translation": "Katıl",
+		"translation": "Katılınacak Takım",
 	},
 	{
 		"phrase": "This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun modunun adı Escort'tur. İki takım, Soltrium adı verilen değerli bir kaynak içeren bir Canister'i ele geçirmeye çalışır.",
+		"translation": "Bu oyun moduna Kurtarma denir. İki takım, Soltrium adı verilen değerli bir kaynak içeren bir kutuyu almak için kapışır.",
 	},
 	{
 		"phrase": "The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Canister'in yakınında en çok oyuncuya sahip olan takım, Soltrium çıkaracak ve takımı için puan kazanacaktır. Bu ekranın üst kısmında görülebilir.",
+		"translation": "Kutunun yakınında en çok oyuncuya sahip olan takım, Soltrium çıkaracak ve takımı için puan kazanacaktır. Bu ekranın üst kısmında görülebilir.",
 	},
 	{
 		"phrase": "When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bir Canister tükendiğinde, başka bir yerde yenisi ortaya çıkar. 500 puana ulaşan ilk takım kazanır!",
+		"translation": "Bir kutu tükendiğinde, başka bir yerde yenisi ortaya çıkar. 500 puana ulaşan ilk takım kazanır!",
 	},
 	{
 		"phrase": "Ammo Bonuses drop when a player dies. Pick them up to get extra ammo for your weapons and earn 2 points for your team.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bir oyuncu öldüğünde cephane paketleri düşürür. Silahlarınız için ekstra cephane almak ve ekibiniz için 2 puan kazandırmak için bu paketleri toplayın.",
+		"translation": "Bir oyuncu öldüğünde cephane bonusları düşer. Silahlarınız için ekstra cephane almak için o bonusları alın ve ekibiniz için 2 puan kazanın.",
 	},
 	{
 		"phrase": "This game mode is called Breakthrough. To win, your team must control all five zones.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun modunun adı Breakthrough'tur. Kazanmak için takımınızın beş bölgenin kontolünü elinde tutması gerekir.",
+		"translation": "Bu oyun moduna Atılım denir. Kazanmak için ekibinizin beş bölgeyi de kontrol etmesi gerekir.",
 	},
 	{
 		"phrase": "When a zone is captured by your team, it will be frozen for up to 20 seconds. While frozen the enemy cannot retake it, which gives your team the chance to push forward into the next zone.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bir bölge ekibiniz tarafından ele geçirildiğinde, 20 saniyeye kadar dondurulur. Bölge dondurulmuşken düşman onu geri alamaz, bu da takımınıza bir sonraki bölgeye ilerleme şansı verir.",
+		"translation": "Bir bölge ekibiniz tarafından ele geçirildiğinde, 20 saniyeye kadar dondurulur. Bir bölge donmuşken düşman o bölgeyi geri alamaz, bu da takımınıza bir sonraki bölgeye ilerleme şansını tanır.",
 	},
 	{
 		"phrase": "Zones must be captured in order and cannot be back-capped.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bölgeler sırasıyla ele geçirilmelidir.",
-
+		"translation": "Bölgeler sırayla yakalanmalıdır ve back-caplenemez.",
 	},
 	{
 		"phrase": "This game mode is called Control Shift. There is one zone and the objective is to push that zone all the way back into enemy territory.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun modunun adı Control Shift'tir. Bir bölge var ve amaç o bölgeyi düşman tarafına itmek.",
+		"translation": "Bu oyun moduna Kontrol Değişimi denir. Bir bölge vardır ve amaç o bölgeyi düşman tarafının içine itmektir.",
 	},
 	{
 		"phrase": "The zone will begin moving when one team has more players inside it than the other.",
@@ -3000,12 +2994,12 @@
 	{
 		"phrase": "This game mode is called Escort. To win, your team must deliver 3 bombs.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun modunun adı Escort'tur. Kazanmak için takımınız 3 kere bombayı düşman bölgesine götürmelidir.",
+		"translation": "Bu oyun moduna Eskort denir. Kazanmak için takımınız 3 bomba teslim etmelidir.",
 	},
 	{
 		"phrase": "Each team has a bomb that they must pick up from their side of the map and deliver to the enemy bomb site.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her takımın haritanın kendi tarafından alması ve düşman bomba alanına teslim etmesi gereken bir bombası vardır.",
+		"translation": "Her takımın haritanın kendi tarafından alması ve düşmanın bomba alanına teslim etmesi gereken bir bombası vardır.",
 	},
 	{
 		"phrase": "You can either escort your bomb carrier, or defend your bomb site from the enemy.",
@@ -3015,22 +3009,22 @@
 	{
 		"phrase": "This game mode is called Capture the Flag. Each team has a flag that they must defend.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun modunun adı Capture the Flag'dır. Her takımın savunması gereken bir bayrağı vardır.",
+		"translation": "Bu oyun moduna Bayrağı Ele Geçir denir. Her takımın savunması gereken bir bayrağı vardır.",
 	},
 	{
 		"phrase": "To win your team must steal the enemy flag and take it back to your base 3 times.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Takımınız kazanmak için düşman bayrağını 3 kez çalmalı ve üssünüze geri götürmelidir.",
+		"translation": "Takımınız kazanmak için düşman bayrağını çalmalı ve 3 kez üssünüze geri götürmelidir.",
 	},
 	{
 		"phrase": "You can either infiltrate the enemy base, or defend your flag from the enemy.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bayrağı çalmaya çalışabilir veya bayrağınızı düşmandan koruyabilirsiniz.",
+		"translation": "Düşman üssüne sızabilir veya bayrağınızı düşmandan koruyabilirsiniz.",
 	},
 	{
 		"phrase": "This game mode is called Gun Game. Each player starts with the same weapon and progresses to the next weapon after getting 2 kills.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun modunun adı Gun Game'dir. Her oyuncu aynı silahla başlar ve 2 kişiyi öldürdükten sonra bir sonraki silaha geçer.",
+		"translation": "Bu oyun moduna Silah Oyunu denir. Her oyuncu aynı silahla başlar ve 2 kişiyi öldürdükten sonra bir sonraki silaha geçer.",
 	},
 	{
 		"phrase": "The stage that each player is up to is shown at the top of the screen.",
@@ -3040,62 +3034,62 @@
 	{
 		"phrase": "To win you must advance to Stage 11 and then kill an enemy with either your digger or your knife.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Kazanmak için 11. aşamaya geçmeniz ve ardından Kazıcınızla veya bıçağınızla bir düşmanı öldürmeniz gerekir.",
+		"translation": "Kazanmak için 11. aşamaya geçmeniz ve ardından kazıcınızla veya bıçağınızla bir düşmanı öldürmeniz gerekir.",
 	},
 	{
 		"phrase": "When dying to fall damage or an enemy digger\/knife, you will be sent back one stage.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Düşerek ölür veya Kazıcı/bıçak ile öldürülürseniz, bir aşama geri gönderilirsiniz.",
+		"translation": "Bir düşman kazıcısına\/bıçağına veya düşerek ölürseniz bir aşama geri gönderilirsiniz.",
 	},
 	{
 		"phrase": "This free-for-all game mode is called Head Hunter. To win, you must hold the most Soltrium when the timer runs out.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu oyun modunun adı Head Hunter'dir. Kazanmak için, süre bittiğinde en fazla Soltrium'u elinde bulundurmalısın.",
+		"translation": "Bu herkes tek oyun moduna Kelle Avcısı denir. Kazanman için, süre bittiğinde en fazla Soltriyum sende olmalı.",
 	},
 	{
 		"phrase": "Each player starts with nothing and collects weapons and mods from around the map.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her oyuncu silahsız başlar ve haritanın rastgele bölgelerinden silahlar ve modifikasyonlar toplar.",
+		"translation": "Her oyuncu eli boş başlar ve haritanın her yerinden silahlar ve modifikasyonlar toplar.",
 	},
 	{
 		"phrase": "When a player dies, they will drop their weapons, half their Soltrium and half their mods.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bir oyuncu öldüğünde silahlarını, Soltriumlarının yarısını ve modifikasyonlarının yarısını düşürür.",
+		"translation": "Bir oyuncu öldüğünde silahlarını, Soltriyumlarının yarısını ve modifikasyonlarının yarısını düşürür.",
 	},
 	{
 		"phrase": "Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Kazanmak için Soltriumu toplayın ancak dikkatli olun, çünkü en çok Soltriuma sahip olan oyuncu herkese trafaından görülebilir olacaktır.",
+		"translation": "Kazanmak için Soltriyumu alın, ancak dikkatli olun, çünkü en çok Soltriyuma sahip olan oyuncu herkese gösterilecektir.",
 	},
 	{
 		"phrase": "This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu arena oyun modunun adı Spire'dir. Kazanmak için düşman takımını 5 kez ortadan kaldırmalısın.",
+		"translation": "Bu arena oyun moduna Spiral denir. Kazanmak için düşman takımı 5 kez ortadan kaldırmalısın.",
 	},
 	{
 		"phrase": "Each player starts with nothing and must build into the sky to pick up weapons.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her oyuncu silahsız başlar ve silahları almak için kuleler inşa etmelilerdir.",
+		"translation": "Her oyuncu eli boş başlar ve silah almak için gökyüzüne doğru inşa etmelidir.",
 	},
 	{
 		"phrase": "This arena game mode is called Static. To win, you must eliminate the enemy team 5 times.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Bu arena oyun modunun adı Static'tir. Kazanmak için düşman takımını 5 kez ortadan kaldırmalısın.",
+		"translation": "Bu arena oyun moduna statik denir. kazanmak için düşman takımı 5 kez ortadan kaldırmalısın.",
 	},
 	{
 		"phrase": "Each player shares the same loadout, which is randomised each round.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Her oyuncu, her turda rastgele dağıtılan aynı kiti kullanır.",
+		"translation": "Her oyuncu, her turda rastgele dağıtılan aynı yükü paylaşır.",
 	},
 	{
 		"phrase": "Press space to continue",
 		"comment": "[Gamemode Tutorial] User input prompt to complete the gamemode tutorial",
-		"translation": "Devam etmek için Space tuşuna basın",
+		"translation": "devam etmek için boşluk tuşuna basın",
 	},
 	{
 		"phrase": "Return to battle",
 		"comment": "This text shows when the player moves out of bounds in-game",
-		"translation": "Savaşa alanına dön",
+		"translation": "savaşa dön",
 	},
 	{
 		"phrase": "Round won!",
@@ -3105,17 +3099,17 @@
 	{
 		"phrase": "Press",
 		"comment": "[1\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "basmak",
+		"translation": "",
 	},
 	{
 		"phrase": "Or",
 		"comment": "[2\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "Veya",
+		"translation": "veya",
 	},
 	{
 		"phrase": "to change team mates",
 		"comment": "[3\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "takım arkadaşlarını değiştirmek",
+		"translation": "tuşuna basarak takım arkadaşların arasında dolaş",
 	},
 	{
 		"phrase": "Pick up equipment",
@@ -3125,12 +3119,12 @@
 	{
 		"phrase": "Pick up primary",
 		"comment": "[Input Prompt] This text shows in Spire or Head Hunter when the player is standing next to a weapon. The full text is '[V] Pick up primary'",
-		"translation": "Birincil silah al",
+		"translation": "Birincil olarak al",
 	},
 	{
 		"phrase": "Pick up secondary",
 		"comment": "[Input Prompt] This text shows in Spire or Head Hunter when the player is standing next to a weapon. The full text is '[V] Pick up secondary'",
-		"translation": "İkincil silah al",
+		"translation": "İkincil olarak al",
 	},
 	{
 		"phrase": "Player ready",
@@ -3140,12 +3134,12 @@
 	{
 		"phrase": "Players ready",
 		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '15 players ready'",
-		"translation": "Oyuncular hazır",
+		"translation": "Oyuncu hazır",
 	},
 	{
 		"phrase": "Starting in",
 		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is 'Starting in 30 seconds'",
-		"translation": "İçinde başlıyor",
+		"translation": "Başlamaya",
 	},
 	{
 		"phrase": "Second",
@@ -3155,7 +3149,7 @@
 	{
 		"phrase": "Available",
 		"comment": "This text shows at the top of the screen in-game when customising weapons. The full text is '12000 Protons Available'",
-		"translation": "Mevcut",
+		"translation": "Var",
 	},
 	{
 		"phrase": "Leave killcam",
@@ -3170,7 +3164,7 @@
 	{
 		"phrase": "Spectate",
 		"comment": "[In-Game Escape Menu] Abandon Helix and become a spectator. A smart choice",
-		"translation": "Seyret",
+		"translation": "seyirci",
 	},
 	{
 		"phrase": "Report player",
@@ -3185,52 +3179,52 @@
 	{
 		"phrase": "Submit feedback",
 		"comment": "[In-Game Escape Menu] Show the popup for submitting feedback",
-		"translation": "Geri bildirim gönder",
+		"translation": "Geri bildirim bönder",
 	},
 	{
 		"phrase": "Disconnect",
 		"comment": "[In-Game Escape Menu] Disconnect from the server",
-		"translation": "Bağlantıyı kes",
+		"translation": "Sunucudan ayrıl",
 	},
 	{
 		"phrase": "Contest the canister",
 		"comment": "[Salvage] This text shows at the top of the screen when playing Salvage. It's a nicer way of saying 'Hey deWolf, play the objective'",
-		"translation": "Canister'i ele geçir",
+		"translation": "Kutuyu hallet",
 	},
 	{
 		"phrase": "Returning flag",
 		"comment": "[CTF] This text shows in the center of the screen when the player is returning their flag back to their base",
-		"translation": "Bayrak geri dödürülüyor",
+		"translation": "Bayrak geri götürülüyor",
 	},
 	{
 		"phrase": "Defusing bomb",
 		"comment": "[Escort] This text shows in the center of the screen when the player is defusing the enemy bomb",
-		"translation": "Bomba imha ediliyor",
+		"translation": "Bomba etkisiz hale getiriliyor",
 	},
 	{
 		"phrase": "You are carrying the flag",
 		"comment": "[CTF] This text shows at the top of the screen when the player is carrying the flag",
-		"translation": "Bayrağı taşıyorsun",
+		"translation": "Bayrak sende",
 	},
 	{
 		"phrase": "You are carrying the bomb",
 		"comment": "[Escort] This text shows at the top of the screen when the player is carrying the bomb",
-		"translation": "Bombayı taşıyorsun",
+		"translation": "Bomba sende",
 	},
 	{
 		"phrase": "To drop the flag",
-		"comment": "[Input Prompt] [1\/2] The full phrase is 'Press [C] to drop the flag'",
-		"translation": "Bayrağı düşürmek için",
+		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the flag'",
+		"translation": "tuşuna basarak bayrağı bırak.",
 	},
 	{
 		"phrase": "To drop the bomb",
 		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the bomb'",
-		"translation": "Bombayı atmak için",
+		"translation": "tuşuna basarak bombayı bırak.",
 	},
 	{
 		"phrase": "Stage",
 		"comment": "[Gun Game] [Match Info] i.e. a player is at 'Stage 3'",
-		"translation": "Aşama",
+		"translation": "Bölüm",
 	},
 	{
 		"phrase": "Save",
@@ -3240,22 +3234,22 @@
 	{
 		"phrase": "Cooldown",
 		"comment": "The time it takes for a structure to cooldown, e.g. '300ms Cooldown'. This text shows when looking at a structure in the ship",
-		"translation": "Bekleme süresi",
+		"translation": "Bekleme Süresi",
 	},
 	{
 		"phrase": "Equip as primary",
 		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as primary'",
-		"translation": "Birincil olarak kuşan",
+		"translation": "Birincil olarak al",
 	},
 	{
 		"phrase": "Equip as secondary",
 		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as secondary'",
-		"translation": "İkincil olarak kuşan",
+		"translation": "İkincil olarak al",
 	},
 	{
 		"phrase": "Edit loadouts",
 		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Edit loadouts'",
-		"translation": "Kitleri düzenle",
+		"translation": "Ekipman setlerini düzenle",
 	},
 	{
 		"phrase": "Modify a structure to continue",
@@ -3275,12 +3269,12 @@
 	{
 		"phrase": "Shoot the targets and try different weapons. Press",
 		"comment": "[Tutorial] [1\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "Hedefleri vur ve farklı silahlar dene. basmak",
+		"translation": "Hedefleri vur ve farklı silahlar dene.",
 	},
 	{
 		"phrase": "To set up a loadout",
 		"comment": "[Tutorial] [2\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "Bir yükleme ayarlamak için",
+		"translation": "tuşuna basarak ekipman seç",
 	},
 	{
 		"phrase": "Tag",
@@ -3290,17 +3284,17 @@
 	{
 		"phrase": "Tags",
 		"comment": "[Killcam] [Unit] [Plural] The amount of tags this player has, e.g. '15 Tags'",
-		"translation": "Etiketler",
+		"translation": "Etiket",
 	},
 	{
 		"phrase": "Loadout",
 		"comment": "[Killcam] [Label] This text shows below the loadout of the player that killed us",
-		"translation": "Kit",
+		"translation": "Ekipman",
 	},
 	{
 		"phrase": "Killed by",
 		"comment": "[Killcam] [Label] This text shows below the weapon that killed us",
-		"translation": "Tarafından öldürüldü",
+		"translation": "oyuncusunu öldüren oyuncu",
 	},
 	{
 		"phrase": "Join the battle",
@@ -3310,7 +3304,7 @@
 	{
 		"phrase": "Linking your Twitch account",
 		"comment": "[Twitch Link Popup] This text shows when your Twitch account is in the process of being linked. Do not translate the word Twitch.",
-		"translation": "Twitch hesabınız bağlanıyor",
+		"translation": "hesabınız bağlanıyor",
 	},
 	{
 		"phrase": "Summary",
@@ -3320,17 +3314,17 @@
 	{
 		"phrase": "Creator Code (Optional)",
 		"comment": "[Store Checkout Popup] [Text Field] Enter a creator code here",
-		"translation": "CC kodu (isteğe bağlı)",
+		"translation": "İçerik Üreticisi Kodu (isteğe bağlı)",
 	},
 	{
 		"phrase": "Friend username",
 		"comment": "[Store Checkout Popup] [Text Field] Enter the username of the friend you are gifting this pack too",
-		"translation": "Arkadaş kullanıcı adı",
+		"translation": "Arkadaşın kullanıcı adı",
 	},
 	{
 		"phrase": "Resources loading in the background",
 		"comment": "Text in the bottom-right of the screen that shows when background resources are loading",
-		"translation": "Arka planda kaynaklar yükleniyor",
+		"translation": "Arka planda yüklenen kaynaklar",
 	},
 	{
 		"phrase": "Block",
@@ -3345,7 +3339,7 @@
 	{
 		"phrase": "Magazines",
 		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
-		"translation": "Şarjörler",
+		"translation": "Şarjör",
 	},
 	{
 		"phrase": "Account",
@@ -3365,12 +3359,12 @@
 	{
 		"phrase": "Character token",
 		"comment": "[Unit] Character token",
-		"translation": "Karakter Tokeni",
+		"translation": "Karakter jetonu",
 	},
 	{
 		"phrase": "Character tokens",
 		"comment": "[Unit] Character tokens",
-		"translation": "Karakter Tokenleri",
+		"translation": "Karakter jetonları",
 	},
 	{
 		"phrase": "Player statistics",
@@ -3380,7 +3374,7 @@
 	{
 		"phrase": "Transaction log",
 		"comment": "[Button] View your transaction log",
-		"translation": "İşlem geçmişi",
+		"translation": "İşlem günlüğü",
 	},
 	{
 		"phrase": "Redeem key",
@@ -3415,12 +3409,12 @@
 	{
 		"phrase": "Holster time",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Kuşanma süresi",
+		"translation": "Silah kılıfına koyma süresi",
 	},
 	{
 		"phrase": "ADS time",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "ADS süresi",
+		"translation": "Nişan süresi",
 	},
 	{
 		"phrase": "Initial recoil",
@@ -3430,15 +3424,15 @@
 	{
 		"phrase": "Shot recoil ramp",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Sürekli artan geri tepme",
+		"translation": "Atış geri tepme rampası",
 	},
 	{
 		"phrase": "Loadout power",
-		"translation": "Kit gücü",
+		"translation": "Ekipman gücü",
 	},
 	{
 		"phrase": "Damage range",
-		"translation": "Hasar mesafesi",
+		"translation": "Hasar aralığı",
 	},
 	{
 		"phrase": "Projectile speed",
@@ -3448,27 +3442,27 @@
 	{
 		"phrase": "Minimap invisibility",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Mini haritada görünmezlik",
+		"translation": "Mini harita görünmezliği",
 	},
 	{
 		"phrase": "Pellets",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Peletler",
+		"translation": "Saçma",
 	},
 	{
 		"phrase": "Pellet spread",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Pelet yayılması",
+		"translation": "Saçma yayılması",
 	},
 	{
 		"phrase": "Reload",
 		"comment": "[Keybind]",
-		"translation": "Şarjör değiştirme",
+		"translation": "Silahı Doldur",
 	},
 	{
 		"phrase": "Rounds",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Rounds",
+		"translation": "Mermi",
 	},
 	{
 		"phrase": "Player damage (body)",
@@ -3488,42 +3482,42 @@
 	{
 		"phrase": "RPM",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "RPM",
+		"translation": "Devir",
 	},
 	{
 		"phrase": "Pellet count",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Pelet sayısı",
+		"translation": "Saçma adedi",
 	},
 	{
 		"phrase": "Damages through blocks and players",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Blokların ardından oyunculara hasar verir",
+		"translation": "Hasar bloklar ve oyunculardan geçer",
 	},
 	{
 		"phrase": "Bounces 3 times",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "3 kez seker",
+		"translation": "3 kez zıplar",
 	},
 	{
 		"phrase": "Choke time",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Kısıcı zamanı",
+		"translation": "Jikle süresi",
 	},
 	{
 		"phrase": "Choked spread",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Kısılmış yayılma",
+		"translation": "Jikleli yayılma",
 	},
 	{
 		"phrase": "Choke resets when firing",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Ateş ederken Kısıcı sıfırlanır",
+		"translation": "Ateş ederken jikle sıfırlanır",
 	},
 	{
 		"phrase": "Welded choke",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "kaynaklı Kısıcı",
+		"translation": "Kaynaklı jikle",
 	},
 	{
 		"phrase": "Automatic fire",
@@ -3538,47 +3532,47 @@
 	{
 		"phrase": "Forwards",
 		"comment": "[Keybind] Move forward",
-		"translation": "İleri",
+		"translation": "İleri Git",
 	},
 	{
 		"phrase": "Right",
 		"comment": "[Keybind] Move right",
-		"translation": "Sağ",
+		"translation": "Sağa Git",
 	},
 	{
 		"phrase": "Backwards",
 		"comment": "[Keybind] Move backwards",
-		"translation": "Geriye doğru",
+		"translation": "Geri Git",
 	},
 	{
 		"phrase": "Crouch",
 		"comment": "[Keybind]",
-		"translation": "Eğilme",
+		"translation": "Çömel",
 	},
 	{
 		"phrase": "Jump",
 		"comment": "[Keybind]",
-		"translation": "Zıplama",
+		"translation": "Zıpla",
 	},
 	{
 		"phrase": "Sprint",
 		"comment": "[Keybind]",
-		"translation": "Koşma",
+		"translation": "Koş",
 	},
 	{
 		"phrase": "Slide",
 		"comment": "[Keybind]",
-		"translation": "Kayma",
+		"translation": "Kay",
 	},
 	{
 		"phrase": "Pick Up Primary",
 		"comment": "[Keybind]",
-		"translation": "Birincil silah al",
+		"translation": "Birincil Olarak Al",
 	},
 	{
 		"phrase": "Pick Up Secondary",
 		"comment": "[Keybind]",
-		"translation": "İkincil silah al",
+		"translation": "İkincil Olarak Al",
 	},
 	{
 		"phrase": "Ping",
@@ -3603,17 +3597,17 @@
 	{
 		"phrase": "Ping (Reinforce)",
 		"comment": "[Keybind]",
-		"translation": "Ping (Sağlamlaştır)",
+		"translation": "Ping (Güçlendirme)",
 	},
 	{
 		"phrase": "Ping (Destroy)",
 		"comment": "[Keybind]",
-		"translation": "Ping (Yok et)",
+		"translation": "Ping (Yok Et)",
 	},
 	{
 		"phrase": "Shoot",
 		"comment": "[Keybind]",
-		"translation": "Ateş etme",
+		"translation": "Ateş Et",
 	},
 	{
 		"phrase": "Scope",
@@ -3623,12 +3617,12 @@
 	{
 		"phrase": "Melee",
 		"comment": "[Keybind]",
-		"translation": "Yakın saldırı",
+		"translation": "Yakın Dövüş",
 	},
 	{
 		"phrase": "Grenade",
 		"comment": "[Keybind]",
-		"translation": "El bombası",
+		"translation": "Bomba",
 	},
 	{
 		"phrase": "Midi",
@@ -3643,12 +3637,12 @@
 	{
 		"phrase": "Structure (Radial)",
 		"comment": "[Keybind]",
-		"translation": "Yapı (Tekerlek)",
+		"translation": "Yapı (Yuvarlak Seçim)",
 	},
 	{
 		"phrase": "Structure (Toggle)",
 		"comment": "[Keybind]",
-		"translation": "Yapı (Atla)",
+		"translation": "Yapı (Aç/Kapa)",
 	},
 	{
 		"phrase": "Structure 1",
@@ -3678,7 +3672,7 @@
 	{
 		"phrase": "Structure 6",
 		"comment": "[Keybind]",
-		"translation": "Yapı 6",
+		"translation": "yapı 6",
 	},
 	{
 		"phrase": "Structure 7",
@@ -3708,37 +3702,37 @@
 	{
 		"phrase": "Switch To Last Tool",
 		"comment": "[Keybind]",
-		"translation": "Son kullanılan ekipmana geç",
+		"translation": "Son Alete Geç",
 	},
 	{
 		"phrase": "Next Tool",
 		"comment": "[Keybind]",
-		"translation": "Sonraki ekipman",
+		"translation": "Sonraki Alet",
 	},
 	{
 		"phrase": "Previous Tool",
 		"comment": "[Keybind]",
-		"translation": "Önceki ekipman",
+		"translation": "Önceki Alet",
 	},
 	{
 		"phrase": "Team Chat",
 		"comment": "[Keybind]",
-		"translation": "Takım Sohbeti",
+		"translation": "Takım Sobheti",
 	},
 	{
 		"phrase": "View Scoreboard",
 		"comment": "[Keybind]",
-		"translation": "Skor Tablosunu Görüntüle",
+		"translation": "Sıralamaları Görüntüle",
 	},
 	{
 		"phrase": "Unlock Scoreboard",
 		"comment": "[Keybind] Allow cursor interaction with the scoreboard",
-		"translation": "Skor Tablosunun Kilidini Aç",
+		"translation": "Sıralamalarla Etkileşime Geç",
 	},
 	{
 		"phrase": "View Map",
 		"comment": "[Keybind] Show the map in game",
-		"translation": "Haritayı Göster",
+		"translation": "Harita",
 	},
 	{
 		"phrase": "Menu",
@@ -3748,18 +3742,17 @@
 	{
 		"phrase": "Toggle Fullscreen",
 		"comment": "[Keybind]",
-		"translation": "Tam Ekrana Geç",
+		"translation": "Tam ekranı Aç\/Kapat",
 	},
 	{
 		"phrase": "Toggle UI",
 		"comment": "[Keybind]",
-		"translation": "Arayüzünü Aç\/Kapat",
+		"translation": "Arayüzü Aç\/Kapat",
 	},
 	{
 		"phrase": "Toggle Chat",
 		"comment": "[Keybind]",
 		"translation": "Sohbeti Aç\/Kapat",
-
 	},
 	{
 		"phrase": "Toggle Killfeed",
@@ -3774,7 +3767,7 @@
 	{
 		"phrase": "Toggle Info Overlay",
 		"comment": "[Keybind]",
-		"translation": "Bilgi Panelini Aç\/Kapat",
+		"translation": "Bilgi Arayüzünü Aç\/Kapat",
 	},
 	{
 		"phrase": "Custom Map - Reload",
@@ -3784,17 +3777,17 @@
 	{
 		"phrase": "Custom Map - Full Reload",
 		"comment": "[Keybind]",
-		"translation": "Özel Harita - Tam Yeniden Yükleme",
+		"translation": "Özel Harita - Tamamen Yeniden Yükle",
 	},
 	{
 		"phrase": "Custom Map - Toggle Fall Damage",
 		"comment": "[Keybind]",
-		"translation": "Özel Harita - Düşme Hasarını Aç\/Kapat",
+		"translation": "Özel Harita - Düşme Hasarını Aç \/ Kapat",
 	},
 	{
 		"phrase": "Custom Map - Toggle Fly Camera",
 		"comment": "[Keybind]",
-		"translation": "Özel Harita - Uçan Kamerayı Aç\/Kapat",
+		"translation": "Özel Harita - Uçuş Kamerasını Aç\/Kapat",
 	},
 	{
 		"phrase": "Reset UI Scale",
@@ -3804,7 +3797,7 @@
 	{
 		"phrase": "Provide Feedback",
 		"comment": "[Keybind]",
-		"translation": "Geribildirim Sağla",
+		"translation": "Geribildirim Sun",
 	},
 	{
 		"phrase": "News Tab",
@@ -3824,7 +3817,7 @@
 	{
 		"phrase": "Play Tab",
 		"comment": "[Keybind] Change to the Play screen",
-		"translation": "Oyna Sekmesi",
+		"translation": "Oyun Sekmesi",
 	},
 	{
 		"phrase": "Clan Tab",
@@ -3844,7 +3837,7 @@
 	{
 		"phrase": "Loadouts Tab",
 		"comment": "[Keybind] Change to the Loadouts screen",
-		"translation": "Kitler Sekmesi",
+		"translation": "Ekipman Sekmesi",
 	},
 	{
 		"phrase": "Ship Tab",
@@ -3859,7 +3852,7 @@
 	{
 		"phrase": "Mapping Tab",
 		"comment": "[Keybind] Change to the Mapping screen",
-		"translation": "Eşleme Sekmesi",
+		"translation": "Tuş Sekmesi",
 	},
 	{
 		"phrase": "Open Trial Window",
@@ -3879,47 +3872,47 @@
 	{
 		"phrase": "Initiate",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Initiate",
-		"translation": "Eri",
+		"translation": "Çaylak",
 	},
 	{
 		"phrase": "Proficient",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Proficient",
-		"translation": "Yeteneklisi",
+		"translation": "Yetkin",
 	},
 	{
 		"phrase": "Adept",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Adept",
-		"translation": "Adaptesi",
+		"translation": "Becerikli",
 	},
 	{
 		"phrase": "Elite",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Elite",
-		"translation": "Seçkini",
+		"translation": "Seçkin",
 	},
 	{
 		"phrase": "Expert",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Expert",
-		"translation": "Uzmanı",
+		"translation": "Uzman",
 	},
 	{
 		"phrase": "Master",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Master",
-		"translation": "Ustası",
+		"translation": "Usta",
 	},
 	{
 		"phrase": "Legend",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Legend",
-		"translation": "Efsanesi",
+		"translation": "Efsane",
 	},
 	{
 		"phrase": "Paragon",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Paragon",
-		"translation": "Mükemmeli",
+		"translation": "Mükemmel",
 	},
 	{
 		"phrase": "Incarnate",
 		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Incarnate",
-		"translation": "Bağımlısı",
+		"translation": "Somutlaşmış",
 	},
 	{
 		"phrase": "Butcher",
@@ -3949,7 +3942,7 @@
 	{
 		"phrase": "Grenadier",
 		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "El Bombası",
+		"translation": "Bombacı",
 	},
 	{
 		"phrase": "Detonator",
@@ -3959,7 +3952,7 @@
 	{
 		"phrase": "Volatile",
 		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Uçurucu",
+		"translation": "Uçucu",
 	},
 	{
 		"phrase": "Catalyst",
@@ -3969,7 +3962,7 @@
 	{
 		"phrase": "Captor",
 		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Yakalayıcı",
+		"translation": "Esirci",
 	},
 	{
 		"phrase": "Invader",
@@ -3984,7 +3977,7 @@
 	{
 		"phrase": "Reinforcer",
 		"comment": "[Killcam Tag] [Building]",
-		"translation": "Sağlamlaştırıcı",
+		"translation": "Güçlendirici",
 	},
 	{
 		"phrase": "Engineer",
@@ -4014,7 +4007,7 @@
 	{
 		"phrase": "Sentinel",
 		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Sentinel",
+		"translation": "Nöbetçi",
 	},
 	{
 		"phrase": "Guardian",
@@ -4024,12 +4017,12 @@
 	{
 		"phrase": "Raider",
 		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Çapulcu",
+		"translation": "Baskıncı",
 	},
 	{
 		"phrase": "Marauder",
 		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Baskıncı",
+		"translation": "Çapulcu",
 	},
 	{
 		"phrase": "Vanquisher",
@@ -4044,7 +4037,7 @@
 	{
 		"phrase": "Terminator",
 		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Sonlandırıcı",
+		"translation": "Terminatör",
 	},
 	{
 		"phrase": "Gunslinger",
@@ -4054,7 +4047,7 @@
 	{
 		"phrase": "Deadeye",
 		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Ölü Göz",
+		"translation": "Ölügöz",
 	},
 	{
 		"phrase": "Sharpshooter",
@@ -4069,7 +4062,7 @@
 	{
 		"phrase": "Blaster",
 		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Hafif Patlatıcı",
+		"translation": "Patlatıcı",
 	},
 	{
 		"phrase": "Collider",
@@ -4084,7 +4077,7 @@
 	{
 		"phrase": "Disintegrator",
 		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Parçalayıcı",
+		"translation": "Parçalayan",
 	},
 	{
 		"phrase": "Alleviator",
@@ -4104,7 +4097,7 @@
 	{
 		"phrase": "Recon",
 		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Gösterici",
+		"translation": "Kaşif",
 	},
 	{
 		"phrase": "Luminator",
@@ -4114,7 +4107,7 @@
 	{
 		"phrase": "Coruscator",
 		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Parlatıcı",
+		"translation": "Koruskatör",
 	},
 	{
 		"phrase": "Spotter",
@@ -4129,7 +4122,7 @@
 	{
 		"phrase": "Eagle Eye",
 		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Şahin Göz",
+		"translation": "Kartal Görüşü",
 	},
 	{
 		"phrase": "All Seeing",
@@ -4139,7 +4132,7 @@
 	{
 		"phrase": "Body Guard",
 		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Koruma",
+		"translation": "Vücut Koruması",
 	},
 	{
 		"phrase": "Saviour",
@@ -4149,7 +4142,7 @@
 	{
 		"phrase": "Slayer",
 		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Katledici",
+		"translation": "Avcı",
 	},
 	{
 		"phrase": "Punisher",
@@ -4174,17 +4167,17 @@
 	{
 		"phrase": "Trial Hard",
 		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials. This one is a word play on 'Try Hard', feel free to translate this into something more serious or keep it as a meme",
-		"translation": "Sıkı Denemeci",
+		"translation": "Zorlu Deneme",
 	},
 	{
 		"phrase": "Custom lobby",
 		"comment": "[Claim Window] Title",
-		"translation": "Özel Lobi",
+		"translation": "Özel lobi",
 	},
 	{
 		"phrase": "Lobby settings",
 		"comment": "[Claim Window] Title",
-		"translation": "Lobi Ayarları",
+		"translation": "Lobi ayarları",
 	},
 	{
 		"phrase": "Password",
@@ -4194,7 +4187,7 @@
 	{
 		"phrase": "Minimum level",
 		"comment": "[Lobby Claim UI] [Number Field]",
-		"translation": "Minmimum seviye",
+		"translation": "Minimum seviye",
 	},
 	{
 		"phrase": "Maximum level",
@@ -4204,32 +4197,32 @@
 	{
 		"phrase": "The match will not end",
 		"comment": "[Claim Window] When enabling Eternal Mode, the match will continue forever",
-		"translation": "Maç bitmeyecek",
+		"translation": "maç bitmeyecek",
 	},
 	{
 		"phrase": "Protons, XP and stats will not be tracked",
 		"comment": "[Claim Window] When enabling Eternal, Trailer or Sandbox Mode, player statistics will not be tracked and protons and XP will not be rewarded",
-		"translation": "Protonlar, XP ve istatistikler kaydedilmeyecek",
+		"translation": "istatistikler kaydedilmeyecek, Proton ve XP verilmeyecek",
 	},
 	{
 		"phrase": "Infinite ammo. Type",
 		"comment": "[Claim Window] [1\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "Sonsuz cephane. tip",
+		"translation": "Sonsuz cephane. Chatte",
 	},
 	{
 		"phrase": "in chat to set your spawn point",
 		"comment": "[Claim Window] [2\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "yumurtlama noktanızı belirlemek için sohbette",
+		"translation": "yazarak spawn noktanızı belirleyin",
 	},
 	{
 		"phrase": "Weapon cooldowns removed. Players are invincible",
 		"comment": "[Claim Window] When Sandbox Mode is enabled, weapon cooldowns are removed and players are invincible",
-		"translation": "Silah bekleme süreleri kaldırıldı. Oyuncular ölümsüz",
+		"translation": "Silah gecikme süreleri kaldırıldı ve oyuncular ölümsüz",
 	},
 	{
 		"phrase": "Claim",
 		"comment": "[Claim Lobby UI] [Button] Confirm claiming a lobby",
-		"translation": "Sahiplenme",
+		"translation": "Talep Et",
 	},
 	{
 		"phrase": "Current lobby settings",
@@ -4239,52 +4232,52 @@
 	{
 		"phrase": "Next lobby settings",
 		"comment": "[Claim Lobby UI] [Title] When the user has changed some lobby settings, there are two columns: Current Lobby Settings and Next Lobby Settings",
-		"translation": "Sonraki lobi ayarları",
+		"translation": "Yeni lobi ayarları",
 	},
 	{
 		"phrase": "Lobby not claimed",
 		"comment": "[Lobby Claim UI] [Info Text] This lobby is not claimed",
-		"translation": "Lobi sahiplenilmedi",
+		"translation": "Lobi talep edilmedi",
 	},
 	{
 		"phrase": "Autobalancing Enabled",
 		"comment": "[Lobby Claim UI] [Info Text]",
-		"translation": "Otomatik Takım Dengeleme Etkin",
+		"translation": "Otodengeleme Etkin",
 	},
 	{
 		"phrase": "Autobalancing Disabled",
 		"comment": "[Lobby Claim UI] [Info Text]",
-		"translation": "Otomatik Takım Dengeleme Devre Dışı",
+		"translation": "Otodengeleme Devre Dışı",
 	},
 	{
 		"phrase": "Eternal Mode Enabled",
 		"comment": "[Lobby Claim UI] [Info Text]",
-		"translation": "Sonsuz Mod Etkin",
+		"translation": "Ebedi Mod Etkin",
 	},
 	{
 		"phrase": "Eternal Mode Disabled",
 		"comment": "[Lobby Claim UI] [Info Text]",
-		"translation": "Sonsuz Mod Devre Dışı",
+		"translation": "Ebedi Mod Devre Dışı",
 	},
 	{
 		"phrase": "Trailer Mode Enabled",
 		"comment": "[Lobby Claim UI] [Info Text]",
-		"translation": "Trailer Mod Etkinleştirildi",
+		"translation": "Fragman Modu Etkinleştirildi",
 	},
 	{
 		"phrase": "Trailer Mode Disabled",
 		"comment": "[Lobby Claim UI] [Info Text]",
-		"translation": "Trailer Mod Devre Dışı",
+		"translation": "Fragman Modu Devre Dışı",
 	},
 	{
 		"phrase": "Sandbox Mode Enabled",
 		"comment": "[Lobby Claim UI] [Info Text]",
-		"translation": "Sandbox Mod Etkinleştirildi",
+		"translation": "Sandbox Modu Etkinleştirildi",
 	},
 	{
 		"phrase": "Sandbox Mode Disabled",
 		"comment": "[Lobby Claim UI] [Info Text]",
-		"translation": "Sandbox Mod Devre Dışı",
+		"translation": "Sandbox Modu Devre Dışı",
 	},
 	{
 		"phrase": "Password Protected",
@@ -4294,12 +4287,12 @@
 	{
 		"phrase": "Note - claiming the lobby will restart the round",
 		"comment": "[Lobby Claim UI] [Warning]",
-		"translation": "Not - lobinin sahiplenilmesi, turu yeniden başlatacaktır",
+		"translation": "Not - lobiyi talep etmek turu yeniden başlatacaktır",
 	},
 	{
 		"phrase": "Note - changing these settings will restart the round",
 		"comment": "[Lobby Claim UI] [Warning]",
-		"translation": "Not - bu ayarların değiştirilmesi turu yeniden başlatır",
+		"translation": "Not - bu ayarları değiştirmek turu yeniden başlatır",
 	},
 	{
 		"phrase": "Leave",
@@ -4344,17 +4337,17 @@
 	{
 		"phrase": "Offensive time",
 		"comment": "[Victory Screen] Time spent attacking the objective, e.g. 'Offensive time: 50 seconds'",
-		"translation": "Saldırma zamanı",
+		"translation": "Saldırı süresi",
 	},
 	{
 		"phrase": "Defensive time",
 		"comment": "[Victory Screen] Time spent defending the objective, e.g. 'Defensive time: 50 seconds'",
-		"translation": "Savunma zamanı",
+		"translation": "Savunma süresi",
 	},
 	{
 		"phrase": "Ammo pickups",
 		"comment": "[Victory Screen] Amount of ammo bonuses you picked up, e.g. 'Ammo pickups: 18'",
-		"translation": "Toplanan cephaneler",
+		"translation": "Alınan cephane sayısı:",
 	},
 	{
 		"phrase": "Basic statistics",
@@ -4364,17 +4357,17 @@
 	{
 		"phrase": "Blocks built",
 		"comment": "[Victory Screen] Amount of blocks you placed, e.g. 'Blocks built: 800'",
-		"translation": "Bloklar inşa edildi",
+		"translation": "İnşa edilen blok sayısı:",
 	},
 	{
 		"phrase": "Blocks destroyed",
 		"comment": "[Victory Screen] Amount of blocks you destroyed, e.g. 'Blocks built: 1400'",
-		"translation": "Bloklar yok edildi",
+		"translation": "Yok edilen blok sayısı:",
 	},
 	{
 		"phrase": "Proton breakdown",
 		"comment": "[Victory Screen] The title above the table showing how many Protons you earned from player points, Proton boost, peacekeeper bonus, etc",
-		"translation": "Proton dağılımı",
+		"translation": "Proton dökümü",
 	},
 	{
 		"phrase": "Player points",
@@ -4384,37 +4377,37 @@
 	{
 		"phrase": "Proton boost",
 		"comment": "[Victory Screen] Amount of protons you earned from using a Proton boost, e.g. 'Proton boost: 30'",
-		"translation": "Proton arttırıcı",
+		"translation": "Proton takviyesi",
 	},
 	{
 		"phrase": "Peacekeeper bonus",
 		"comment": "[Victory Screen] Amount of protons you earned from using Peacekeeper, e.g. 'Peacekeeper bonus: 50'",
-		"translation": "Barışyanlısı bonusu",
+		"translation": "Peacekeeper bonusu",
 	},
 	{
 		"phrase": "Cheating",
 		"comment": "[Report] [Dropdown] Report a player for Cheating",
-		"translation": "Hile",
+		"translation": "Hile Yapmak",
 	},
 	{
 		"phrase": "Exploiting",
 		"comment": "[Report] [Dropdown] Report a player for Exploiting",
-		"translation": "Hataları kötü amaçlı kullanma",
+		"translation": "Kötü Niyetle Kullanmak",
 	},
 	{
 		"phrase": "Offensive profile",
 		"comment": "[Report] [Dropdown] Report a player for having an Offensive Profile",
-		"translation": "Ofansif profil",
+		"translation": "Saldırgan Profil",
 	},
 	{
 		"phrase": "Verbal abuse",
 		"comment": "[Report] [Dropdown] Report a player for Verbal Abuse",
-		"translation": "Sözlü taciz",
+		"translation": "Sözlü Taciz",
 	},
 	{
 		"phrase": "Scamming",
 		"comment": "[Report] [Dropdown] Report a player for Scamming",
-		"translation": "Kandırma",
+		"translation": "Dolandırıcılık",
 	},
 	{
 		"phrase": "Spamming",
@@ -4429,69 +4422,68 @@
 	{
 		"phrase": "Report",
 		"comment": "[Report] [Button] Submit the report",
-		"translation": "Rapor",
+		"translation": "Bildir",
 	},
 	{
 		"phrase": "Unlock",
 		"comment": "[Unlock Button] Unlock a weapon skin",
-		"translation": "Kilidini aç",
+		"translation": "Kilidini Aç",
 	},
 	{
 		"phrase": "Building 1",
 		"comment": "[Trial Name]",
-		"translation": "İnşa Etme 1",
+		"translation": "İnşa 1",
 	},
 	{
 		"phrase": "Building 2",
 		"comment": "[Trial Name]",
-		"translation": "İnşa Etme 2",
+		"translation": "İnşa 2",
 	},
 	{
 		"phrase": "Building 3",
 		"comment": "[Trial Name]",
-		"translation": "İnşa Etme 3",
+		"translation": "İnşa 3",
 	},
 	{
 		"phrase": "Digging 1",
 		"comment": "[Trial Name]",
-		"translation": "Kazma 1",
+		"translation": "Kazı 1",
 	},
 	{
 		"phrase": "Digging 2",
 		"comment": "[Trial Name]",
-		"translation": "Kazma 2",
+		"translation": "Kazı 2",
 	},
 	{
 		"phrase": "Digging 3",
 		"comment": "[Trial Name]",
-		"translation": "Kazma 3",
-
+		"translation": "Kazı 3",
 	},
 	{
 		"phrase": "Build + Dig 1",
 		"comment": "[Trial Name]",
-		"translation": "İnşa Etme + Kazma 1",
+		"translation": "İnşa Et ve Kaz [1]",
 	},
 	{
 		"phrase": "Build + Dig 2",
 		"comment": "[Trial Name]",
-		"translation": "İnşa Etme + Kazma 2",
+		"translation": "İnşa Et ve Kaz [2]",
 	},
 	{
 		"phrase": "Build + Dig 3",
 		"comment": "[Trial Name]",
-		"translation": "İnşa Etme + Kazma 3",
+		"translation": "İnşa Et ve Kaz [3]",
 	},
 	{
 		"phrase": "Purchases",
 		"comment": "[Transaction Log] Category title",
-		"translation": "Satın Alımlar",
+		"translation": "Satın Almalar",
 	},
 	{
 		"phrase": "Open",
 		"context": "Public",
 		"comment": "[Play Screen] [Navigation] Public lobbies tab",
-		"translation": "Genel",
+		"translation": "Açık",
 	},
 	{
 		"phrase": "England",
@@ -4536,7 +4528,7 @@
 	{
 		"phrase": "USA Central",
 		"comment": "[Server List] [Filter]",
-		"translation": "Merkez ABD",
+		"translation": "Orta ABD",
 	},
 	{
 		"phrase": "USA East",
@@ -4588,7 +4580,7 @@
 		"phrase": "Block",
 		"context": "Voxel",
 		"comment": "[Unit] 3D voxel",
-		"translation": "Block",
+		"translation": "Blok",
 	},
 	{
 		"phrase": "Degree",
@@ -4618,24 +4610,24 @@
 	{
 		"phrase": "Show bloom effects on Holo and Red Dot optics",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Holo ve kırmızı nokta optiklerinde Bloom efektlerini göster",
+		"translation": "Holo ve kırmızı nokta optiklerinde parlama efektlerini göster",
 	},
 	{
 		"phrase": "Controls whether enemies are also shown on the top zone bar in Breakthrough when they are shooting, or revealed by a Scanner",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Düşmanların ateş ettikleri sırada üst bölge çubuğunda da gösterilip gösterilmeyeceğini veya bir Scanner tarafından ortaya çıkıp çıkmayacağını kontrol eder",
+		"translation": "Atılım modunda ateş ettikleri veya bir Tarayıcı tarafından bulundukları zaman düşmanların üst bölge barında gösterilip gösterilmeyeceğini ayarlar",
 	},
 	{
 		"phrase": "Use Title Accent Colour",
 		"context": "Display Title Accent Colour",
 		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
-		"translation": "Başlık Vurgu Rengini Kullan",
+		"translation": "Başlık vurgu rengini kullan",
 	},
 	{
 		"phrase": "Use Title Background",
 		"context": "Display Title Background",
 		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
-		"translation": "Başlık Arka Planını Kullan",
+		"translation": "Başlık arka planını kullan",
 	},
 	{
 		"phrase": "ms",
@@ -4647,45 +4639,45 @@
 		"phrase": "Play a Match",
 		"context": "Play a Game",
 		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
-		"translation": "Bir Maç Oyna",
+		"translation": "Maç Oyna",
 	},
 	{
 		"phrase": "Enter Trials",
 		"context": "Enter the Trials",
 		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
-		"translation": "Denemelere Girin",
+		"translation": "Denemelere girin",
 	},
 	{
 		"phrase": "Replay Tutorial",
 		"context": "Replay the Tutorial",
 		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
-		"translation": "Eğiticiyi Tekrar Oynat",
+		"translation": "Eğitime tekrar gir",
 	},
 	{
 		"phrase": "Reset Ship",
 		"context": "Reset the Ship",
 		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
-		"translation": "Gemiyi Temizle",
+		"translation": "Gemiyi Sıfırla",
 	},
 	{
 		"phrase": "e.g. apples",
 		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
-		"translation": "örn. elmalar",
+		"translation": "örneğin elmalar",
 	},
 	{
 		"phrase": "An update is available. Close the game and update the game through Steam",
 		"comment": "[Popup] Banner at the top of the screen that tells the user to update the game through Steam. Do not translate 'Steam'",
-		"translation": "Bir güncelleme mevcut. Oyunu kapat ve oyunu Steam üzerinden güncelle",
+		"translation": "Yeni bir güncelleme var. Oyunu kapatın ve Steam üzerinden güncelleyin",
 	},
 	{
 		"phrase": "Connection to Steam failed. Online play is unavailable",
 		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
-		"translation": "Steam'e bağlantı başarısız oldu. çevrimiçi oyun kullanılamıyor",
+		"translation": "Steam'e bağlantı başarısız oldu. Çevrimiçi oyun kullanılamıyor",
 	},
 	{
 		"phrase": "Title unlocked",
 		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
-		"translation": "Başlık kilidi açıldı",
+		"translation": "Unvan açıldı",
 	},
 	{
 		"phrase": "Bronze medal",
@@ -4710,12 +4702,12 @@
 	{
 		"phrase": "To restart",
 		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
-		"translation": "Yeniden başlatmak",
+		"translation": "tuşuna basarak yeniden başlat",
 	},
 	{
 		"phrase": "To cancel",
 		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
-		"translation": "İptal etmek",
+		"translation": "tuşuna basarak iptal et",
 	},
 	{
 		"phrase": "Best kill streak",
@@ -4726,58 +4718,58 @@
 	{
 		"phrase": "Weapon Stats",
 		"comment": "[Victory Screen] Title above the table showing how many kills, shots\/throws, accuracy, etc you have for each weapon",
-		"translation": "Silah İstatistikleri",
+		"translation": "Silah istatistikleri",
 	},
 	{
 		"phrase": "Throw",
 		"comment": "[Loadout] [Weapon Characteristic] This weapon is thrown, e.g. C4",
-		"translation": "Fırlatılır",
+		"translation": "Fırlat",
 	},
 	{
 		"phrase": "Throws",
 		"comment": "[Victory Screen] [Unit] e.g. 'C4: 3 throws'",
-		"translation": "Fırlatma",
+		"translation": "fırlatım",
 	},
 	{
 		"phrase": "Swing",
 		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 1 swing'",
-		"translation": "Savurma",
+		"translation": "savurma",
 	},
 	{
 		"phrase": "Swings",
 		"comment": "[Victory Screen] [Unit] e.g. 'Knife: 3 swings'",
-		"translation": "Savurmalar",
+		"translation": "savurma",
 	},
 	{
 		"phrase": "Shot",
 		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 1 shot'",
-		"translation": "Atış",
+		"translation": "atım",
 	},
 	{
 		"phrase": "Shots",
 		"comment": "[Victory Screen] [Unit] e.g. 'Rail gun: 18 shots'",
-		"translation": "Atışlar",
+		"translation": "atım",
 	},
 	{
 		"phrase": "Body",
 		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 body damage'",
-		"translation": "Vücut",
+		"translation": "vücut",
 	},
 	{
 		"phrase": "Head",
 		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Pistol: 12 head damage'",
-		"translation": "Kafa",
+		"translation": "kafa",
 	},
 	{
 		"phrase": "Splash",
 		"context": "Area of effect",
 		"comment": "[Victory Screen] [Unit] [Damage Type] e.g. 'Grenade: 12 splash damage'",
-		"translation": "Sıçrama",
+		"translation": "alan",
 	},
 	{
 		"phrase": "Accuracy",
 		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
-		"translation": "İsabetlilik",
+		"translation": "İsabet",
 	},
 	{
 		"phrase": "Headshot hit",
@@ -4788,18 +4780,18 @@
 		"phrase": "Use",
 		"context": "Utilisation",
 		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 1 use'",
-		"translation": "Kullanma",
+		"translation": "kullanım",
 	},
 	{
 		"phrase": "Uses",
 		"context": "Utilisations",
 		"comment": "[Victory Screen] [Unit] e.g. 'Structure tool: 15 uses'",
-		"translation": "Kullanmalar",
+		"translation": "kullanım",
 	},
 	{
 		"phrase": "Accept",
 		"comment": "[UI] [Button] Accept an invitation",
-		"translation": "Kabul Et",
+		"translation": "Kabul et",
 	},
 	{
 		"phrase": "Decline",
@@ -4809,17 +4801,17 @@
 	{
 		"phrase": "Melee kills",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Melee kills'",
-		"translation": "Yakın dövüş öldürmeleri",
+		"translation": "yakın dövüş öldürmesi",
 	},
 	{
 		"phrase": "Grenade kills",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Grenade kills'",
-		"translation": "El bombası öldürmeleri",
+		"translation": "bomba öldürmesi",
 	},
 	{
 		"phrase": "Spent",
 		"comment": "[Killcam Tag] [Tag Description] [1\/3] The full phrase is: 'Spent 3 hours defending'",
-		"translation": "harcanan",
+		"translation": "",
 	},
 	{
 		"phrase": "Hour",
@@ -4829,47 +4821,47 @@
 	{
 		"phrase": "Hours",
 		"comment": "[Unit] [Plural] Measurement of time",
-		"translation": "Saatler",
+		"translation": "Saat",
 	},
 	{
 		"phrase": "Blocks placed",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '10000 Blocks placed'",
-		"translation": "Yerleştirilen bloklar",
+		"translation": "yerleştirilen blok",
 	},
 	{
 		"phrase": "Spot assists",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Spot assists'",
-		"translation": "İşaretleme asistleri",
+		"translation": "Nokta asisti",
 	},
 	{
 		"phrase": "Direct explosive kills",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 direct explosive kills'",
-		"translation": "Direkt patlayıcı öldürmeleri",
+		"translation": "patlayıcı öldürmesi",
 	},
 	{
 		"phrase": "Headshot kills",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 headshot kills'",
-		"translation": "Kafadan vuruşlar",
+		"translation": "kafadan vuruş",
 	},
 	{
 		"phrase": "Flag steals",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 flag steals'",
-		"translation": "Bayrak çalmalar",
+		"translation": "bayrak çalındı",
 	},
 	{
 		"phrase": "Friendlies saved",
 		"comment": "[Killcam Tag] [Tag Description] Saviour tag description. The full phrase is: '100 friendlies saved'",
-		"translation": "Kurtarılan takım arkadaşları",
+		"translation": "dost kurtarıldı.",
 	},
 	{
 		"phrase": "Friendlies avenged",
 		"comment": "[Killcam Tag] [Tag Description] Avenger tag description. The full phrase is: '100 friendlies avenged'",
-		"translation": "İntikamı alınan takım arkadaşları",
+		"translation": "dostun intikamı alındı",
 	},
 	{
 		"phrase": "e.g. spaghetti",
 		"comment": "[Lobby Claim UI] [Text Field] [Placeholder] Please translate this delicious food",
-		"translation": "örn. spagetti",
+		"translation": "örneğin spagetti",
 	},
 	{
 		"phrase": "Enter password",
@@ -4879,12 +4871,12 @@
 	{
 		"phrase": "Quick play",
 		"comment": "[Server List] [Button] Large quick play button at the top of the screen",
-		"translation": "Hızlı oyna",
+		"translation": "Hemen Oyna",
 	},
 	{
 		"phrase": "e.g. Space Master 4000",
 		"comment": "[Player Dropdown Selector] Placeholder text for the search field for this dropdown",
-		"translation": "örn. Uzay Ustası 4000",
+		"translation": "örneğin Uzay Ustası 4000",
 	},
 	{
 		"phrase": "Please select a friend",
@@ -4894,7 +4886,7 @@
 	{
 		"phrase": "Selecting a loadout",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Kit seçiyor",
+		"translation": "Ekipman seçiyor",
 	},
 	{
 		"phrase": "Kick",
@@ -4904,7 +4896,7 @@
 	{
 		"phrase": "Swap",
 		"comment": "[Lobby Panel] [Button] Move this player to the other team",
-		"translation": "Değiştir",
+		"translation": "Takas",
 	},
 	{
 		"phrase": "Type here",
@@ -4919,12 +4911,12 @@
 	{
 		"phrase": "Spawn",
 		"comment": "[Custom Maps] This is a label next to each team spawn regions, i.e. 'Aegis spawn'",
-		"translation": "Doğma alanı",
+		"translation": "Spawnı",
 	},
 	{
 		"phrase": "Pan with mouse",
 		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
-		"translation": "Fare ile kaydı",
+		"translation": "Fare ile gezin",
 	},
 	{
 		"phrase": "Scroll to zoom",
@@ -4936,7 +4928,7 @@
 		"phrase": "Loadout overpowered",
 		"context": "Loadout is too powerful",
 		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
-		"translation": "Kit aşırı güçlü",
+		"translation": "Ekipman fazla güçlü",
 	},
 	{
 		"phrase": "s",
@@ -4947,74 +4939,74 @@
 	{
 		"phrase": "Proton boost active",
 		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
-		"translation": "Proton arttırıcı aktif",
+		"translation": "Proton takviyesi aktif",
 	},
 	{
 		"phrase": "No Proton boost active",
 		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
-		"translation": "Proton arttırıcı aktif değil",
+		"translation": "Proton takviyesi aktif değil",
 	},
 	{
 		"phrase": "XP boost active",
 		"comment": "[Respawn] This text shows when you have a XP boost active",
-		"translation": "XP arttırıcı aktif",
+		"translation": "XP takviyesi aktif",
 	},
 	{
 		"phrase": "No XP boost active",
 		"comment": "[Respawn] This text shows when you do not have a XP boost active",
-		"translation": "XP arttırıcı etkin değil",
+		"translation": "XP takviyesi etkin değil",
 	},
 	{
 		"phrase": "View Steam Profile",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Steam Profilini Görüntüle",
+		"translation": "Steam profilini görüntüle",
 	},
 	{
 		"phrase": "View Statistics",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "İstatistikleri Görüntüle",
+		"translation": "İstatistikleri görüntüle",
 	},
 	{
 		"phrase": "Add Friend",
 		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Arkadaş Ekle",
+		"translation": "Arkadaş Olarak Ekle",
 	},
 	{
 		"phrase": "Remove Friend",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Arkadaşı Kaldır",
+		"translation": "Arkadaşı kaldır",
 	},
 	{
 		"phrase": "Invite to Party",
 		"context": "Invite to Group",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Partiye Davet Et",
+		"translation": "Partiye davet et",
 	},
 	{
 		"phrase": "Invite Votekick",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Oylamaya Davet Et",
+		"translation": "Oylamaya davet et",
 	},
 	{
 		"phrase": "Report Player",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Oyuncuyu Raporla",
+		"translation": "Oyuncuyu raporla",
 	},
 	{
 		"phrase": "Mute Player",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Oyuncuyla sohbeti engelle",
+		"translation": "Oyuncunun sesini kapat",
 	},
 	{
 		"phrase": "Unmute Player",
 		"comment": "[Scoreboard] [Player Dropdown] [Button]",
-		"translation": "Oyuncuyla sohbeti aç",
+		"translation": "Oyuncunun sesini aç",
 	},
 	{
 		"phrase": "Spectate",
 		"context": "Become a spectator",
 		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
-		"translation": "Seyret",
+		"translation": "seyirci",
 	},
 	{
 		"phrase": "Solt",
@@ -5037,7 +5029,7 @@
 		"phrase": "D",
 		"context": "Deaths",
 		"comment": "[Scoreboard] [Column Header] Player deaths, please only include the first letter of the translation",
-		"translation": "D",
+		"translation": "Ö",
 	},
 	{
 		"phrase": "A",
@@ -5059,137 +5051,137 @@
 	{
 		"phrase": "Lobby Claimed",
 		"comment": "[Scoreboard] This text shows at the bottom of the scoreboard when the server is claimed",
-		"translation": "Lobi Sahiplenildi",
+		"translation": "Lobi Talep Edildi",
 	},
 	{
 		"phrase": "Player",
 		"comment": "[Scoreboard] This player count shows at the bottom of the scoreboard, i.e. '1 Player'",
-		"translation": "Oyuncu",
+		"translation": "oyuncu",
 	},
 	{
 		"phrase": "Click outside or press escape to close",
 		"comment": "[Scoreboard] This text shows at the bottom when the cursor has been unlocked",
-		"translation": "Kapatmak için skor tablosunun dışına tıklayın veya Escape tuşuna basın",
+		"translation": "Kapatmak için dışarıda bir yere tıklayın veya esc tuşuna basın",
 	},
 	{
 		"phrase": "Hold",
 		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "Tutmak",
+		"translation": "",
 	},
 	{
 		"phrase": "To unlock the cursor",
 		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "İmlecin kilidini açmak için",
+		"translation": "basılı tutarak imleci serbest bırak",
 	},
 	{
 		"phrase": "Spectator",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
-		"translation": "Seyirci",
+		"translation": "seyirci",
 	},
 	{
 		"phrase": "Spectators",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Spectators'",
-		"translation": "Seyirciler",
+		"translation": "seyirci",
 	},
 	{
 		"phrase": "Player joining",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Player joining'",
-		"translation": "Oyuncu katılıyor",
+		"translation": "oyuncu katılıyor",
 	},
 	{
 		"phrase": "Players joining",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '3 Players joining'",
-		"translation": "Oyuncular katılıyor",
+		"translation": "oyuncu katılıyor",
 	},
 	{
 		"phrase": "Balance the teams",
 		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
-		"translation": "Takımları dengeleyin",
+		"translation": "Takımları dengele",
 	},
 	{
 		"phrase": "Texture Quality: Quarter",
 		"comment": "[Setting] [Slider] Texture quality setting",
-		"translation": "Doku Kalitesi: Çeyrek",
+		"translation": "Doku kalitesi: Çeyrek",
 	},
 	{
 		"phrase": "Texture Quality: Half",
 		"comment": "[Setting] [Slider] Texture quality setting",
-		"translation": "Doku Kalitesi: Yarım",
+		"translation": "Doku kalitesi: Yarım",
 	},
 	{
 		"phrase": "Texture Quality: Full",
 		"comment": "[Setting] [Slider] Texture quality setting",
-		"translation": "Doku Kalitesi: Tam",
+		"translation": "Doku kalitesi: Tam",
 	},
 	{
 		"phrase": "Minimap Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]'",
-		"translation": "Mini Harita Devre Dışı",
+		"translation": "Mini harita devre dışı",
 	},
 	{
 		"phrase": "Player Names Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
-		"translation": "Oyuncu Adları Devre Dışı",
+		"translation": "Oyuncu adları devre dışı bırakıldı",
 	},
 	{
 		"phrase": "Peacekeeper Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
-		"translation": "Barışyanlısı Devre Dışı",
+		"translation": "Peacekeeper devre dışı",
 	},
 	{
 		"phrase": "Bloom Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
-		"translation": "Bloom Devre Dışı",
+		"translation": "Bloom devre dışı",
 	},
 	{
 		"phrase": "SSAO Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
-		"translation": "SSAO Devre Dışı",
+		"translation": "SSAO devre dışı",
 	},
 	{
 		"phrase": "Chat Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
-		"translation": "Sohbet Devre Dışı",
+		"translation": "Sohbet devre dışı",
 	},
 	{
 		"phrase": "Chat Timeout: Infinite",
 		"comment": "[Setting] [Slider] [Maximum Value]",
-		"translation": "Sohbet Zaman Aşımı: Sonsuz",
+		"translation": "Sohbet zaman aşımı: sonsuz",
 	},
 	{
 		"phrase": "Max Chunk Updates: Infinite",
 		"comment": "[Setting] [Slider] [Maximum Value]",
-		"translation": "Maksimum Chunk Güncellemeleri: Sonsuz",
+		"translation": "Maksimum Chunk güncellemeleri: sonsuz",
 	},
 	{
 		"phrase": "Max Lights: Infinite",
 		"comment": "[Setting] [Slider] [Maximum Value]",
-		"translation": "Maksimum Işıklar: Sonsuz",
+		"translation": "Maksimum ışıklar: sonsuz",
 	},
 	{
 		"phrase": "Max FPS: Uncapped",
 		"comment": "[Setting] [Slider] [Maximum Value]",
-		"translation": "Maksimum FPS: Sınırsız",
+		"translation": "Maksimum FPS: sınırsız",
 	},
 	{
 		"phrase": "Nameplates Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
-		"translation": "İsim Plakaları Devre Dışı",
+		"translation": "İsim levhaları devre dışı",
 	},
 	{
 		"phrase": "Nameplate Distance: Infinite",
 		"comment": "[Setting] [Slider] [Maximum Value]",
-		"translation": "İsim Plakası Mesafesi: Sonsuz",
+		"translation": "İsim plakası mesafesi: sonsuz",
 	},
 	{
 		"phrase": "Pings Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
-		"translation": "Pingler Devre Dışı",
+		"translation": "Pingler devre dışı",
 	},
 	{
 		"phrase": "Max Ping Distance: Infinite",
 		"comment": "[Setting] [Slider] [Maximum Value]",
-		"translation": "Maksimum Ping Mesafesi: Sonsuz",
+		"translation": "Maksimum ping mesafesi: sonsuz",
 	},
 	{
 		"phrase": "You have left the party",
@@ -5224,12 +5216,12 @@
 	{
 		"phrase": "No title",
 		"comment": "[Killcam UI] [Button] Click this button to unequip your title",
-		"translation": "Başlık yok",
+		"translation": "Unvansız",
 	},
 	{
 		"phrase": "No tags",
 		"comment": "[Killcam UI] [Button] Click this button to unequip your tag",
-		"translation": "Etiket yok",
+		"translation": "Etiketsiz",
 	},
 	{
 		"phrase": "Retrieving transaction list",
@@ -5244,22 +5236,22 @@
 	{
 		"phrase": "Token",
 		"comment": "[Transaction Log] This weapon skin was unlocked with a weapon skin token. The full phrase is: '1 Token'",
-		"translation": "Token",
+		"translation": "Jeton",
 	},
 	{
 		"phrase": "Tokens",
 		"comment": "[Transaction Log] This weapon skin was unlocked with multiple weapon skin tokens. The full phrase is: '2 Tokens'",
-		"translation": "Tokenler",
+		"translation": "Jetonlar",
 	},
 	{
 		"phrase": "Incomplete",
 		"comment": "[Trials] This text shows when you haven't completed this trial yet",
-		"translation": "Eksik",
+		"translation": "Tamamlanmamış",
 	},
 	{
 		"phrase": "Leaderboard",
 		"comment": "[Trials] [Title]",
-		"translation": "Sıralama",
+		"translation": "Sıralamalar",
 	},
 	{
 		"phrase": "Restart",
@@ -5269,12 +5261,12 @@
 	{
 		"phrase": "Trials list",
 		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
-		"translation": "Deneme Listesi",
+		"translation": "Deneme listesi",
 	},
 	{
 		"phrase": "Trial",
 		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
-		"translation": "Deneme",
+		"translation": "Denemesi",
 	},
 	{
 		"phrase": "Medals",
@@ -5305,7 +5297,7 @@
 		"phrase": "Last attempt",
 		"context": "Previous attempt",
 		"comment": "[Trial] [Title] The full phrase is: 'Last attempt: 5:223'",
-		"translation": "Son tekrar",
+		"translation": "Son deneme",
 	},
 	{
 		"phrase": "Saving time",
@@ -5334,12 +5326,12 @@
 		"phrase": "Refresh Leaderboards",
 		"context": "Refresh the Leaderboards",
 		"comment": "[Trials] [Button] Refresh the leaderboards by pressing this button",
-		"translation": "Sıralamaları Yenile",
+		"translation": "Sıralamaları yenile",
 	},
 	{
 		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
 		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Denemelerde bina ve kazma becerilerinizi geliştirin!\nProton kazanmak ve kamera unvanlarını öldürmek için her denemeyi belirtilen süre içinde tamamlayın.\nulaşmak ",
+		"translation": "Denemelerde inşa ve kazı becerilerinizi geliştirin!\nProton kazanmak ve killcam unvanları elde etmek için her denemeyi belirtilen süre içinde tamamlayın.\n",
 	},
 	{
 		"phrase": "Yellow",
@@ -5349,7 +5341,7 @@
 	{
 		"phrase": "Platform to win, avoid touching the",
 		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Kazanmak için platform, dokunmaktan kaçının",
+		"translation": "platforma ulaşarak kazanın",
 	},
 	{
 		"phrase": "Red",
@@ -5359,17 +5351,17 @@
 	{
 		"phrase": "Blocks and build off the",
 		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Bloklar ve inşa",
+		"translation": "bloklardan uzak durun ve",
 	},
 	{
 		"phrase": "Purple",
 		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Mor",
+		"translation": "mor bloklar üzerine inşa edin.",
 	},
 	{
 		"phrase": "Leaderboards are updated every 30 seconds.",
 		"comment": "[Trials] Leaderboard description",
-		"translation": "Lider tabloları her 30 saniyede bir güncellenir.",
+		"translation": "Sıralamalar her 30 saniyede bir güncellenir.",
 	},
 	{
 		"phrase": "\nLoading personal times and leaderboards",
@@ -5384,22 +5376,22 @@
 	{
 		"phrase": "Vote yes",
 		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F1] Vote yes'",
-		"translation": "Evet oyla",
+		"translation": "Evet oyu",
 	},
 	{
 		"phrase": "Vote no",
 		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F2] Vote no'",
-		"translation": "Hayır oyla",
+		"translation": "Hayır oyu",
 	},
 	{
 		"phrase": "Ignore",
 		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F3] Ignore'",
-		"translation": "Oylama",
+		"translation": "Geç",
 	},
 	{
 		"phrase": "Unlocking",
 		"comment": "[Weapon Skin] [Button]",
-		"translation": "Kilidi açılıyor",
+		"translation": "Açılıyor",
 	},
 	{
 		"phrase": "Engineer Pack",
@@ -5414,12 +5406,12 @@
 	{
 		"phrase": "1 Token",
 		"comment": "[Unlock Button] If the user HAS a character token, this text is shown on the unlock button for the Human Renegade",
-		"translation": "1 Token",
+		"translation": "1 Jeton",
 	},
 	{
 		"phrase": "1 Skin Token",
 		"comment": "[Unlock Button] This text shows on the unlock button for the Grid weapon skin",
-		"translation": "1 Görünüm Simgesi",
+		"translation": "1 Görünüm Jetonu",
 	},
 	{
 		"phrase": "Locked",
@@ -5449,7 +5441,7 @@
 	{
 		"phrase": "Crosshairs",
 		"comment": "[Transaction Log] Category title",
-		"translation": "Nişangahlar",
+		"translation": "Nişan İşaretleri",
 	},
 	{
 		"phrase": "+50% Protons. Lasts 1 hour",
@@ -5484,12 +5476,12 @@
 	{
 		"phrase": "Weapon Skin Token. Use this to unlock weapon skins on the Weapons screen",
 		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Silah Görünümü Tokeni. Silahlar sekmesindeki silah görünümlerinin kilidini açmak için bunu kullanın",
+		"translation": "Silah Görünümü Jetonu. Silah ekranındaki silah görünümlerinin kilidini açmak için bunu kullanın",
 	},
 	{
 		"phrase": "Weapon Skin Token",
 		"comment": "[Inventory] Weapon skin token display name",
-		"translation": "Silah Görünümü Tokeni",
+		"translation": "Silah Görünümü Jetonu",
 	},
 	{
 		"phrase": "Finland",
@@ -5509,7 +5501,7 @@
 	{
 		"phrase": "No items",
 		"comment": "[Inventory] This text shows when the player has no items in their inventory",
-		"translation": "Öğe yok",
+		"translation": "Eşya yok",
 	},
 	{
 		"phrase": "Loading",
@@ -5529,7 +5521,7 @@
 	{
 		"phrase": "Loadout Name",
 		"comment": "[Loadouts] [Text Field] [Placeholder] Placeholder text for when a new loadout is created",
-		"translation": "Kit Adı",
+		"translation": "Ekipman Adı",
 	},
 	{
 		"phrase": "Modifications",
@@ -5544,7 +5536,7 @@
 	{
 		"phrase": "Loadout X",
 		"comment": "[Loadouts] This is the default name for a new loadout",
-		"translation": "Kit X",
+		"translation": "Ekipman X",
 	},
 	{
 		"phrase": "Power",
@@ -5559,7 +5551,7 @@
 	{
 		"phrase": "Regeneration speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Sağlık yenileme hızı",
+		"translation": "Can yenileme hızı",
 	},
 	{
 		"phrase": "Movement speed",
@@ -5569,7 +5561,7 @@
 	{
 		"phrase": "Jump velocity",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Zıplama ivmesi",
+		"translation": "Zıplama hızı",
 	},
 	{
 		"phrase": "Fall damage",
@@ -5584,53 +5576,53 @@
 	{
 		"phrase": "Building volume",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "İnşa etme sesi",
+		"translation": "İnşa boyutu",
 	},
 	{
 		"phrase": "Footstep volume and distance",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Ayak sesi mesafesi",
+		"translation": "Ayak sesi boyutu ve mesafesi",
 	},
 	{
 		"phrase": "Build distance",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "inşa etme mesafesi",
+		"translation": "İnşa mesafesi",
 	},
 	{
 		"phrase": "Block health",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Blok sağlığı",
+		"translation": "Blok canı",
 	},
 	{
 		"phrase": "Self explosion damage",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Kendi kendine patlama hasarı",
+		"translation": "Patlama hasarı",
 	},
 	{
 		"phrase": "Self explosion knockback",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Kendi kendine patlama geri tepmesi",
+		"translation": "Patlama geri tepmesi",
 	},
 	{
 		"phrase": "Dig speed",
 		"comment": "[Unit] How fast the Midi can dig blocks, e.g. '+15% Dig speed'",
-		"translation": "Kazma hızı",
+		"translation": "Kazı hızı",
 	},
 	{
 		"phrase": "Blocks per dig",
 		"context": "Blocks collected per dig",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Kazılan blok başına fazladan blok",
+		"translation": "Kazı başına blok",
 	},
 	{
 		"phrase": "Build speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "İnşa etme hızı",
+		"translation": "İnşa hızı",
 	},
 	{
 		"phrase": "Melee speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Yakın dövüş saldırı hızı",
+		"translation": "Yakın dövüş ızı",
 	},
 	{
 		"phrase": "Landing power",
@@ -5650,47 +5642,47 @@
 	{
 		"phrase": "Equip primary",
 		"comment": "[Loadout] [Input Prompt]. The full phrase is: 'Left Click: Equip Primary'",
-		"translation": "Birincil kuşan",
+		"translation": "Birincil olarak al",
 	},
 	{
 		"phrase": "Equip secondary",
 		"comment": "[Loadout] [Input Prompt]. The full phrase is: 'Right Click: Equip Secondary'",
-		"translation": "İkincil kuşan",
+		"translation": "İkincil olarak al",
 	},
 	{
 		"phrase": "Toggle weapon stats",
 		"comment": "[Loadout] [Input Prompt]. The full phrase is: 'Ctrl: Toggle Weapon Stats'",
-		"translation": "İstatistikleri aç\/kapat",
+		"translation": "Silah istatistiklerini aç\/kapat",
 	},
 	{
 		"phrase": "Hitscan",
 		"comment": "[Loadout] [Weapon Characteristic] This gun fires hitscan bullets",
-		"translation": "Hitscan",
+		"translation": "Tarayıcı",
 	},
 	{
 		"phrase": "Projectile",
 		"comment": "[Loadout] [Weapon Characteristic] This gun fires slow projectiles",
-		"translation": "Yavaş mermi",
+		"translation": "Mermi",
 	},
 	{
 		"phrase": "Single shot",
 		"comment": "[Loadout] [Weapon Characteristic] This weapon fires once per click, e.g. Plasma Rifle",
-		"translation": "Tekli",
+		"translation": "Tekli atış",
 	},
 	{
 		"phrase": "Burst fire",
 		"comment": "[Loadout] [Weapon Characteristic] This weapon fires multiple times per click, e.g. <redacted>",
-		"translation": "Çoklu atış",
+		"translation": "Darbeli atış",
 	},
 	{
 		"phrase": "Pump action",
 		"comment": "[Loadout] [Weapon Characteristic] This weapon requires a sliding action between shots to load the next round into the chamber",
-		"translation": "Mermi sürmeli",
+		"translation": "Pompalı",
 	},
 	{
 		"phrase": "Pellet",
 		"comment": "[Loadout] [Unit] Amount of projectiles created by a shotgun",
-		"translation": "Pelet",
+		"translation": "Saçma",
 	},
 	{
 		"phrase": "Area of Effect",
@@ -5700,7 +5692,7 @@
 	{
 		"phrase": "Grenades",
 		"comment": "[Unit] Amount of grenades, e.g. I have 2 grenades",
-		"translation": "El Bombaları",
+		"translation": "Bombalar",
 	},
 	{
 		"phrase": "Mag Size",
@@ -5717,12 +5709,12 @@
 	{
 		"phrase": "Direct Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The amount of damage this explosive projectile deals when impacting a player directly",
-		"translation": "Direkt Hasar",
+		"translation": "Doğrudan Hasar",
 	},
 	{
 		"phrase": "Splash Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The maximum amount of splash damage this explosive projectile deals when exploding near a player",
-		"translation": "Sıçrama Hasarı",
+		"translation": "Patlama Hasarı",
 	},
 	{
 		"phrase": "Headshot Damage",
@@ -5732,7 +5724,7 @@
 	{
 		"phrase": "Body Damage",
 		"comment": "[Loadout] [Projectile Characteristic] The amount of damage this projectile deals when it hits a player in the body",
-		"translation": "Vücut Hasarı",
+		"translation": "Oyuncu Hasarı",
 	},
 	{
 		"phrase": "Block Damage",
@@ -5742,12 +5734,12 @@
 	{
 		"phrase": "Reload Time",
 		"comment": "[Loadout] [Weapon Characteristic] The time taken to reload this weapon",
-		"translation": "Şarjör Değiştirme Süresi",
+		"translation": "Dolum Süresi",
 	},
 	{
 		"phrase": "s",
 		"comment": "[Unit] [Abbreviation] Abbreviation of 'Seconds', the measurement of time",
-		"translation": "s",
+		"translation": "sn",
 	},
 	{
 		"phrase": "Projectile Speed",
@@ -5757,7 +5749,7 @@
 	{
 		"phrase": "bps",
 		"comment": "[Unit] [Abbreviation] Abbreviation of 'Blocks Per Second', which is how many blocks a projectile travels every second. If an abbreviation is not available, please translate the full phrase",
-		"translation": "bps",
+		"translation": "Saniye Başı Blok",
 	},
 	{
 		"phrase": "Detection Radius",
@@ -5767,7 +5759,7 @@
 	{
 		"phrase": "Lifetime",
 		"comment": "[Unit] The amount of seconds that this scanner stays alive for",
-		"translation": "Çalışma Süresi",
+		"translation": "Ömür",
 	},
 	{
 		"phrase": "Health",
@@ -5797,7 +5789,7 @@
 	{
 		"phrase": "Explosions",
 		"comment": "[Projectile Characteristic] The amount of explosions this projectile creates before it dies, e.g. 'Orberator creates 7 explosions'",
-		"translation": "Patlamalar",
+		"translation": "patlama oluşturur",
 	},
 	{
 		"phrase": "Infinite",
@@ -5807,17 +5799,17 @@
 	{
 		"phrase": "Your loadout must be 15 points or less. Remove a weapon or mod to spawn.",
 		"comment": "We've all seen this text before",
-		"translation": "Kitinizin gücü 15 puan veya daha az olmalıdır. Canlanmak için bir silahı veya modu kaldırın.",
+		"translation": "Ekipmanınız 15 puan veya daha az olmalıdır. Spawnlanmak için bir silahı veya modu kaldırın.",
 	},
 	{
 		"phrase": "Click here to leave the cluster spawn and unlock your loadouts",
 		"comment": "[Respawn UI] This text shows as the bottom of the screen when you're waiting to spawn in a cluster spawn",
-		"translation": "Çoklu canlanmadan çıkıp kitinizi değiştirmek için buraya tıklayın",
+		"translation": "Toplu spawndan çıkmak ve ekipmanınızı düzenlemek için buraya tıklayın",
 	},
 	{
 		"phrase": "Sticky Grenades",
 		"comment": "[Loadout Summary] [Weapon Name]",
-		"translation": "Yapışkan El Bombaları",
+		"translation": "Yapışkan Bombalar",
 	},
 	{
 		"phrase": "Player List",
@@ -5837,12 +5829,12 @@
 	{
 		"phrase": "Update",
 		"comment": "[Mapping] [Button] Update an existing Steam Workshop map",
-		"translation": "Güncelleme",
+		"translation": "Güncelle",
 	},
 	{
 		"phrase": "Downloading",
 		"comment": "[Mapping] Loading text to show that a workshop map is being downloaded",
-		"translation": "indiriliyor",
+		"translation": "İndiriliyor",
 	},
 	{
 		"phrase": "No name",
@@ -5852,7 +5844,7 @@
 	{
 		"phrase": "No",
 		"comment": "[Mapping] Text that shows if a file is not provided, e.g. 'No VOX file found' or 'No JSON file found'",
-		"translation": "Hiç",
+		"translation": "Bulunamayan:",
 	},
 	{
 		"phrase": "Arena",
@@ -5862,62 +5854,62 @@
 	{
 		"phrase": "Shrine",
 		"comment": "Map Name",
-		"translation": "Shrine",
+		"translation": "Tapınak",
 	},
 	{
 		"phrase": "Aegis Desert",
 		"comment": "Map Name",
-		"translation": "Aegis Desert",
+		"translation": "Aegis Çölü",
 	},
 	{
 		"phrase": "Crashed Freighter",
 		"comment": "Map Name",
-		"translation": "Crashed Freighter",
+		"translation": "Gemi Kazası",
 	},
 	{
 		"phrase": "Ice Station",
 		"comment": "Map Name",
-		"translation": "Ice Station",
+		"translation": "Buz İstasyonu",
 	},
 	{
 		"phrase": "Magma Chamber",
 		"comment": "Map Name",
-		"translation": "Magma Chamber",
+		"translation": "Magma Odası",
 	},
 	{
 		"phrase": "Soltrium Temple",
 		"comment": "Map Name",
-		"translation": "Soltrium Temple",
+		"translation": "Soltriyum Tapınağı",
 	},
 	{
 		"phrase": "Railway",
 		"comment": "Map Name",
-		"translation": "Railway",
+		"translation": "Demiryolu",
 	},
 	{
 		"phrase": "Laboratory",
 		"comment": "Map Name",
-		"translation": "Laboratory",
+		"translation": "Laboratuvar",
 	},
 	{
 		"phrase": "Canyon",
 		"comment": "[Map Name]",
-		"translation": "Canyon",
+		"translation": "Kanyon",
 	},
 	{
 		"phrase": "Mining Facility",
 		"comment": "[Map Name]",
-		"translation": "Mining Facility",
+		"translation": "Maden Tesisi",
 	},
 	{
 		"phrase": "Sail City",
 		"comment": "[Map Name]",
-		"translation": "Sail City",
+		"translation": "Yelkenşehir",
 	},
 	{
 		"phrase": "Weapons list",
 		"comment": "[Weapon Selector] [Title] When customising weapons, this is the title of the weapon selector on the left side of the screen",
-		"translation": "Silah listesi",
+		"translation": "silah listesi",
 	},
 	{
 		"phrase": "Version",
@@ -5927,37 +5919,37 @@
 	{
 		"phrase": "has been released! Close the game and update through Steam",
 		"comment": "[Out of Date Banner] [2\/2] The full phrase is: 'Version 1.3.8 has been released! Close the game and update through Steam",
-		"translation": "serbest bırakıldı! Oyunu kapatın ve Steam üzerinden güncelleyin",
+		"translation": "Yayınlandı! Oyunu kapatın ve Steam üzerinden güncelleyin",
 	},
 	{
 		"phrase": "Player online",
 		"comment": "[Unit] The full phrase is: '1 Player online'",
-		"translation": "Oyuncu Çevrimiçi",
+		"translation": "oyuncu çevrimiçi",
 	},
 	{
 		"phrase": "Players online",
 		"comment": "[Unit] The full phrase is: '99999 Players online'",
-		"translation": "Oyuncular Çevrimiçi",
+		"translation": "oyuncu çevrimiçi",
 	},
 	{
 		"phrase": "Player in game",
 		"comment": "[Unit] The full phrase is: '1 Player in game'",
-		"translation": "Maçtaki oyuncu",
+		"translation": "oyuncu oyunda",
 	},
 	{
 		"phrase": "Players in game",
 		"comment": "[Unit] The full phrase is: '99999 Players in game'",
-		"translation": "Maçtaki oyuncular",
+		"translation": "oyuncu oyunda",
 	},
 	{
 		"phrase": "Matching server",
 		"comment": "[Unit] The full phrase is: '1 Matching server'",
-		"translation": "Eşleşen sunucu",
+		"translation": "tane eşleşen sunucu",
 	},
 	{
 		"phrase": "Matching servers",
 		"comment": "[Unit] The full phrase is: '30 matching servers'",
-		"translation": "Eşleşen sunucular",
+		"translation": "tane eşleşen sunucu",
 	},
 	{
 		"phrase": "Global stats",
@@ -5967,37 +5959,37 @@
 	{
 		"phrase": "Matchmaking results",
 		"comment": "[Server List] [Sidebar] [Title]'",
-		"translation": "Karşılaşma sonuçları",
+		"translation": "Eşleştirme sonuçları",
 	},
 	{
 		"phrase": "To join a Low Level Lobby, you must be < Level 20 or have < 0.5 KDR",
 		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Düşük seviyeli bir lobiye katılmak için 20 seviyeden düşük veya 0,5'den düşük KDR'ye sahip olmalısınız",
+		"translation": "Düşük seviyeli bir lobiye katılmak için < seviye 20 veya < 0,5 KDR'ye sahip olmalısınız",
 	},
 	{
 		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
 		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Açık lobilere herkes katılabilir. Bir lobiyi sahiplenmek için sağ tıklayın.\nGünde sadece 3 lobi sahiplenebilirsiniz.",
+		"translation": "Açık lobilere herkes katılabilir. Boş bir lobiyi almak için üstüne sağ tıklayın.\nGünde sadece 3 lobi alabilirsiniz.",
 	},
 	{
 		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
 		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Özel bir lobi oluşturmak için açık lobi sekmesine geçin ve boş bir lobiye sağ tıklayın.",
+		"translation": "Özel bir lobi oluşturmak için Açık Lobi sekmesine geçin ve boş bir lobiye sağ tıklayın.",
 	},
 	{
 		"phrase": "Current version",
 		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
-		"translation": "Şimdiki versiyon",
+		"translation": "şimdiki versiyon",
 	},
 	{
 		"phrase": "Player capacity",
 		"comment": "[Server List] [Sidebar]. The full phrase is '300\/324 Player capacity'",
-		"translation": "Oyuncu kapasitesi",
+		"translation": "oyuncu kapasitesi",
 	},
 	{
 		"phrase": "Lowest ping",
 		"comment": "[Server List] [Sidebar]. The full phrase is '2ms Lowest ping'",
-		"translation": "En düşük ping",
+		"translation": "en düşük ping",
 	},
 	{
 		"phrase": "ms",
@@ -6032,7 +6024,7 @@
 	{
 		"phrase": "Days",
 		"comment": "[Unit] [Plural] Measurement of time",
-		"translation": "Günler",
+		"translation": "Gün",
 	},
 	{
 		"phrase": "Minute",
@@ -6042,7 +6034,7 @@
 	{
 		"phrase": "Minutes",
 		"comment": "[Unit] [Plural] Measurement of time",
-		"translation": "Dakikalar",
+		"translation": "Dakika",
 	},
 	{
 		"phrase": "Colour",
@@ -6057,52 +6049,52 @@
 	{
 		"phrase": "Trim",
 		"comment": "[Colour Picker] [Title] This colour picker controls the colour of Soltrium on your weapon",
-		"translation": "Detay",
+		"translation": "Kırpma",
 	},
 	{
 		"phrase": "Unlock the",
 		"comment": "[Progression] [1\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
-		"translation": "kilidini aç",
+		"translation": "",
 	},
 	{
 		"phrase": "Tag at level",
 		"comment": "[Progression] [2\/2] The full phrase is 'Unlock the Awesome tag at level 10'",
-		"translation": "Seviyede etiketle",
+		"translation": "etiketinin seviyesi",
 	},
 	{
 		"phrase": "Unlocked the",
 		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
-		"translation": "kilidi açıldı",
+		"translation": "Kilidi açılan etiket",
 	},
 	{
 		"phrase": "Tag!",
 		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked the Awesome tag!'",
-		"translation": "Etiket!",
+		"translation": "!",
 	},
 	{
 		"phrase": "Free weapon skin",
 		"comment": "[Progression] [1\/2] The full phrase is 'Free weapon skin at level 10'",
-		"translation": "Ücretsiz silah görünümü",
+		"translation": "Ücretsiz silah Görünümünün",
 	},
 	{
 		"phrase": "At level",
 		"comment": "[Progression] [2\/2] The full phrase is 'Free weapon skin at level 10'",
-		"translation": "Seviyede",
+		"translation": "seviyesi",
 	},
 	{
 		"phrase": "Unlocked a",
 		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
-		"translation": "kilidi açıldı",
+		"translation": "Kilidi açılan şey",
 	},
 	{
 		"phrase": "Free weapon skin!",
 		"comment": "[Progression] [1\/2] The full phrase is 'Unlocked a free weapon skin!'",
-		"translation": "Ücretsiz silah görünümü!",
+		"translation": "ücretsiz bir silah görünümü!",
 	},
 	{
 		"phrase": "All milestones reached!",
 		"comment": "[Progression] This shows when a player has reached every milestone in a progression",
-		"translation": "Tüm seviye sınırlarına ulaşıldı!",
+		"translation": "Tüm kilometre taşlarına ulaşıldı!",
 	},
 	{
 		"phrase": "Passworded",
@@ -6117,7 +6109,7 @@
 	{
 		"phrase": "Autobalancing",
 		"comment": "[Server Listing] [Claimed Lobby] Autobalancing is enabled in this lobby",
-		"translation": "Otomatik takım dengeleme",
+		"translation": "Otodengeleme",
 	},
 	{
 		"phrase": "Eternal",
@@ -6127,7 +6119,7 @@
 	{
 		"phrase": "Trailer",
 		"comment": "[Server Listing] [Claimed Lobby] Trailer mode is enabled in this lobby",
-		"translation": "Trailer",
+		"translation": "Fragman",
 	},
 	{
 		"phrase": "Sandbox",
@@ -6142,7 +6134,7 @@
 	{
 		"phrase": "Multi-Orb",
 		"comment": "Core attachment name",
-		"translation": "Çoklu Küre",
+		"translation": "ÇokluKüre",
 	},
 	{
 		"phrase": "Camo",
@@ -6158,17 +6150,17 @@
 	{
 		"phrase": "Party invitation sent to",
 		"comment": "[Social Sidebar] Notification text. The full phrase is: 'Party invitation sent to Peygahreaux'",
-		"translation": "Parti davetiyesi gönderildi",
+		"translation": "Parti davetiyesi gönderilen kişi",
 	},
 	{
 		"phrase": "Failed to invite",
 		"comment": "[Social Sidebar] [1\/2] Notification text. The full phrase is: 'Failed to invite Peygahreaux to the party'",
-		"translation": "Davet edilemedi",
+		"translation": "",
 	},
 	{
 		"phrase": "To the party",
 		"comment": "[Social Sidebar] [2\/2] Notification text. The full phrase is: 'Failed to invite Peygahreaux to the party'",
-		"translation": "Partiye",
+		"translation": "davet edilemedi",
 	},
 	{
 		"phrase": "You have been kicked from the lobby",
@@ -6178,37 +6170,37 @@
 	{
 		"phrase": "Has been kicked from the lobby",
 		"comment": "[Social Sidebar] Notification text. The full phrase is: 'Vhauss has been kicked from the lobby'",
-		"translation": "Lobiden atıldı",
+		"translation": "lobiden atıldı",
 	},
 	{
 		"phrase": "Has joined the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has joined the party",
-		"translation": "Partiye katıldı",
+		"translation": "partiye katıldı",
 	},
 	{
 		"phrase": "Has left the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has left the party",
-		"translation": "Partiden ayrıldı",
+		"translation": "partiden ayrıldı",
 	},
 	{
 		"phrase": "Has disconnected and left the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has disconnected and left the party",
-		"translation": "Bağlantıyı kesti ve partiden ayrıldı",
+		"translation": "kişisinin bağlantısı koptu ve partiden ayrıldı",
 	},
 	{
 		"phrase": "Has been kicked from the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has been kicked the party",
-		"translation": "Partiden atıldı",
+		"translation": "partiden atıldı",
 	},
 	{
 		"phrase": "Has been banned from the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has been banned the party",
-		"translation": "Partiden banlandı",
+		"translation": "partiden banlandı",
 	},
 	{
 		"phrase": "You have joined a party of",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: 'You have joined a party of 4'",
-		"translation": "Bir partiye katıldınız",
+		"translation": "Katıldığınız partideki kişi sayısı",
 	},
 	{
 		"phrase": "The party no longer exists",
@@ -6218,27 +6210,27 @@
 	{
 		"phrase": "Unable to join the party (full)",
 		"comment": "[Social Sidebar] [Notification]",
-		"translation": "Partiye katılınamıyor (dolu)",
+		"translation": "partine katılamıyor (dolu)",
 	},
 	{
 		"phrase": "Failed to join the party",
 		"comment": "[Social Sidebar] [Notification]",
-		"translation": "Partiye katılamadı",
+		"translation": "partine katılamadı",
 	},
 	{
 		"phrase": "Has invited you to their party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: 'Peygahreaux has invited you to their party'",
-		"translation": "Seni partisine davet etti",
+		"translation": "seni partisine davet etti",
 	},
 	{
 		"phrase": "Fire rate",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Ateş hızı",
+		"translation": "Atış hızı",
 	},
 	{
 		"phrase": "SILICON-VALLEY",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "SİLİKON-VADİSİ",
+		"translation": "SİLİKON VADİSİ",
 	},
 	{
 		"phrase": "FREMONT",
@@ -6293,12 +6285,12 @@
 	{
 		"phrase": "NEW-JERSEY",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "NEW-JERSEY",
+		"translation": "NEW JERSEY",
 	},
 	{
 		"phrase": "SAN-FRANCISCO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "SAN FRANCİSCO",
+		"translation": "SAN FRANCISCO",
 	},
 	{
 		"phrase": "ASHBURN",
@@ -6353,7 +6345,7 @@
 	{
 		"phrase": "STOCKHOLM",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "STOCKHOLM",
+		"translation": "STOKHOLM",
 	},
 	{
 		"phrase": "HELSINKI",
@@ -6418,7 +6410,7 @@
 	{
 		"phrase": "TEL-AVIV",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "TELAVİV",
+		"translation": "TEL AVİV",
 	},
 	{
 		"phrase": "SAO-PAULO",
@@ -6513,7 +6505,7 @@
 	{
 		"phrase": "MUSCAT",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "MUSCAT",
+		"translation": "MUSKAT",
 	},
 	{
 		"phrase": "OSAKA",
@@ -6523,12 +6515,12 @@
 	{
 		"phrase": "RIO-DE-JANEIRO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "RIO-DE-JANEIRO",
+		"translation": "RİO-DE-JANEİRO",
 	},
 	{
 		"phrase": "SAINT-JOHN",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "SAINT-JOHN",
+		"translation": "SAİNT JOHN",
 	},
 	{
 		"phrase": "SOFIA",
@@ -6538,7 +6530,7 @@
 	{
 		"phrase": "WINNIPEG",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "WINNIPEG",
+		"translation": "WİNNİPEG",
 	},
 	{
 		"phrase": "ZURICH",
@@ -6553,17 +6545,17 @@
 	{
 		"phrase": "Slot 1",
 		"comment": "[Loadout] First weapon\/equipment slot",
-		"translation": "1. Bölme",
+		"translation": "1. Yuva",
 	},
 	{
 		"phrase": "Slot 2",
 		"comment": "[Loadout] Second weapon\/equipment slot",
-		"translation": "2. Bölme",
+		"translation": "2. Yuva",
 	},
 	{
 		"phrase": "Slot 3",
 		"comment": "[Loadout] Third weapon\/equipment slot",
-		"translation": "3. Bölme",
+		"translation": "3. Yuva",
 	},
 	{
 		"phrase": "Small canister",
@@ -6593,7 +6585,7 @@
 	{
 		"phrase": "Ion core",
 		"comment": "[Attachment] Midi attachment name",
-		"translation": "iyon çekirdeği",
+		"translation": "İyon çekirdeği",
 	},
 	{
 		"phrase": "Proto core",
@@ -6603,7 +6595,7 @@
 	{
 		"phrase": "Block reach",
 		"comment": "[Unit] How far the midi can build\/dig, e.g. '14 Block reach'",
-		"translation": "Blok koyma mesafesi",
+		"translation": "Erişilebilen mesafe",
 	},
 	{
 		"phrase": "No amplifier",
@@ -6618,7 +6610,7 @@
 	{
 		"phrase": "Build cooldown",
 		"comment": "[Unit] The amount of time between structure placements, e.g. '-40% Build cooldown'",
-		"translation": "İnşa etme bekleme süresi",
+		"translation": "İnşa arası gecikmesi",
 	},
 	{
 		"phrase": "No cooling",
@@ -6633,7 +6625,7 @@
 	{
 		"phrase": "Boosted cooling",
 		"comment": "[Attachment] Midi attachment name",
-		"translation": "Artırılmış soğutma",
+		"translation": "Arttırılmış soğutma",
 	},
 	{
 		"phrase": "Basic servo",
@@ -6643,7 +6635,7 @@
 	{
 		"phrase": "Power servo",
 		"comment": "[Attachment] Midi attachment name",
-		"translation": "Güç servosu",
+		"translation": "Güçlü servo",
 	},
 	{
 		"phrase": "Turbo servo",
@@ -6663,7 +6655,7 @@
 	{
 		"phrase": "Warped rail",
 		"comment": "[Attachment] Midi attachment name",
-		"translation": "Çarpık ray",
+		"translation": "Yamuk ray",
 	},
 	{
 		"phrase": "X Gather rate",
@@ -6688,17 +6680,17 @@
 	{
 		"phrase": "Crosshair",
 		"comment": "[Sight UI] Crosshair colour picker",
-		"translation": "Nişangah",
+		"translation": "Nişan",
 	},
 	{
 		"phrase": "Hipfire",
 		"comment": "[Sight UI] Crosshair colour picker",
-		"translation": "Hipfire",
+		"translation": "Belden Ateş",
 	},
 	{
 		"phrase": "Trim colour",
 		"comment": "[Skin UI] [Label] Colour picker label",
-		"translation": "Detay rengi",
+		"translation": "Kırpma rengi",
 	},
 	{
 		"phrase": "Skin colour",
@@ -6718,12 +6710,12 @@
 	{
 		"phrase": "Attachments",
 		"comment": "[Weapons] [Button] Customisation category button",
-		"translation": "Eklentiler",
+		"translation": "Ekler",
 	},
 	{
 		"phrase": "Sights",
 		"comment": "[Weapons] [Button] Customisation category button",
-		"translation": "Nişangahlar",
+		"translation": "Nişanlar",
 	},
 	{
 		"phrase": "Cosmetic",
@@ -6733,7 +6725,7 @@
 	{
 		"phrase": "Weapon List",
 		"comment": "[Weapon UI] [Title] This text shows in the top left above the list of weapon categories",
-		"translation": "Silah listesi",
+		"translation": "Silah Listesi",
 	},
 	{
 		"phrase": "Canister",
@@ -6768,7 +6760,7 @@
 	{
 		"phrase": "Collector",
 		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects how many blocks are harvested when digging",
-		"translation": "Kolektör",
+		"translation": "Toplayıcı",
 	},
 	{
 		"phrase": "Loader",
@@ -6778,7 +6770,7 @@
 	{
 		"phrase": "Ammunition",
 		"comment": "[Attachment UI] [Label] Attachment category name. Ammunition types are buckshot, slug, ricochet, etc",
-		"translation": "Mühimmat",
+		"translation": "Mermi",
 	},
 	{
 		"phrase": "Payload",
@@ -6798,7 +6790,7 @@
 	{
 		"phrase": "Enable autobalancing",
 		"comment": "[Lobby Claim UI] [Checkbox] Toggles whether autobalancing is enabled",
-		"translation": "Otomatik takım dengelemeyi etkinleştir",
+		"translation": "Otomatik dengelemeyi etkinleştir",
 	},
 	{
 		"phrase": "Eternal match",
@@ -6808,12 +6800,12 @@
 	{
 		"phrase": "Trailer mode",
 		"comment": "[Lobby Claim UI] [Checkbox] Toggles Trailer Mode, where players have instant respawns and infinite ammo",
-		"translation": "Trailer modu",
+		"translation": "Fragman modu",
 	},
 	{
 		"phrase": "Sandbox mode",
 		"comment": "[Lobby Claim UI] [Checkbox] Toggles Sandbox Mode, where players take no damage and weapons have no cooldown",
-		"translation": "Sanbox modu",
+		"translation": "Sandbox modu",
 	},
 	{
 		"phrase": "H",
@@ -6836,22 +6828,22 @@
 	{
 		"phrase": "Invite to Party",
 		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Partiye Davet Et",
+		"translation": "Partiye davet et",
 	},
 	{
 		"phrase": "Remove from Party",
 		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Partiden Çıkar",
+		"translation": "Partiden çıkar",
 	},
 	{
 		"phrase": "Join Match",
 		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Maça Katıl",
+		"translation": "Maça katıl",
 	},
 	{
 		"phrase": "Invite to Match",
 		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Maça Davet Et",
+		"translation": "Maça davet et",
 	},
 	{
 		"phrase": "View Profile",
@@ -6866,27 +6858,27 @@
 	{
 		"phrase": "Match invitation sent to",
 		"comment": "[Social Sidebar] The full phrase is: 'Match invitation sent to Peygahreaux'",
-		"translation": "Maç davetiyesi gönderildi",
+		"translation": "Maç davetiyesi gönderilen kişi:",
 	},
 	{
 		"phrase": "To the match",
 		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": "maça",
+		"translation": "maça davet edilemedi",
 	},
 	{
 		"phrase": "Friend",
 		"comment": "[Social Sidebar] Placeholder friend name",
-		"translation": "arkadaş",
+		"translation": "Arkadaş",
 	},
 	{
 		"phrase": "No Tag",
 		"comment": "[Killcam] [Button] The user clicks this button to unequip their killcam tag",
-		"translation": "Etiket yok",
+		"translation": "Etiket Yok",
 	},
 	{
 		"phrase": "No Title",
 		"comment": "[Killcam] [Button] The user clicks this button to unequip their killcam title",
-		"translation": "Başlık yok",
+		"translation": "Başlık Yok",
 	},
 	{
 		"phrase": "Joining",
@@ -6896,12 +6888,12 @@
 	{
 		"phrase": "Slots left",
 		"comment": "[Party Invite] The full phrase is: '1\/4 Slots left'",
-		"translation": "Kalan slotlar",
+		"translation": "Kalan yuva sayısı:",
 	},
 	{
 		"phrase": "Your party has joined a",
 		"comment": "[Party Banner] [1\/2] The full phrase is: 'Your party has joined a Salvage match on UK-LONDON-1'",
-		"translation": "partiniz katıldı",
+		"translation": "Partinizin katıldığı:",
 	},
 	{
 		"phrase": "Match on",
@@ -6911,7 +6903,7 @@
 	{
 		"phrase": "In-game now",
 		"comment": "[Party Banner] This text shows if you're in the same server as a friend",
-		"translation": "Şu un oyunda",
+		"translation": "Şimdi oyunda",
 	},
 	{
 		"phrase": "Click to join",
@@ -6921,22 +6913,22 @@
 	{
 		"phrase": "Joining in",
 		"comment": "[Party Banner] The full phrase is: 'Joining in 10 seconds'",
-		"translation": "Katılınıyor",
+		"translation": "Katılmaya kalan süre:",
 	},
 	{
 		"phrase": "Weapon",
 		"comment": "[Progression UI] Placeholder text",
-		"translation": "silah",
+		"translation": "Silah",
 	},
 	{
 		"phrase": "Directs",
 		"comment": "[Progression Name] Explosive direct kills",
-		"translation": "Direkt Vuruşlar",
+		"translation": "Doğrudan",
 	},
 	{
 		"phrase": "Scanner Assists",
 		"comment": "[Progression Name]",
-		"translation": "Scanner Asistleri",
+		"translation": "Tarayıcı Yardımları",
 	},
 	{
 		"phrase": "Defence",
@@ -6946,17 +6938,17 @@
 	{
 		"phrase": "Offence",
 		"comment": "[Progression Name]",
-		"translation": "Saldırma",
+		"translation": "Saldırı",
 	},
 	{
 		"phrase": "Bomb Delivery",
 		"comment": "[Progression Name]",
-		"translation": "Bomba Teslim Etme",
+		"translation": "Bomba Teslimatı",
 	},
 	{
 		"phrase": "Spot Assists",
 		"comment": "[Progression Name]",
-		"translation": "İşaretleme Asistleri",
+		"translation": "Nokta Asisti",
 	},
 	{
 		"phrase": "Delivery",
@@ -6966,33 +6958,32 @@
 	{
 		"phrase": "Deliveries",
 		"comment": "[Unit] [Plural]",
-		"translation": "Teslimatlar",
+		"translation": "Teslimat",
 	},
 	{
 		"phrase": "Spot Assist",
 		"comment": "[Unit]",
-		"translation": "İşaret Asisti",
+		"translation": "Görme Yardımı",
 	},
 	{
 		"phrase": "Saves",
 		"comment": "[Unit] [Plural] sUnit for the Saviour progression, e.g. '+5 Saves', or 'My friend saves lizards from being eaten by wolfs for a living'",
-		"translation": "Kurtarmalar",
+		"translation": "Kurtuluş",
 	},
 	{
 		"phrase": "Avenge",
 		"comment": "[Unit] Unit for the Avenger progression, e.g. '+1 Avenge', or 'I'm going to avenge my friend'",
 		"translation": "İntikam",
-
 	},
 	{
 		"phrase": "Avenges",
 		"comment": "[Unit] [Plural] Unit for the Avenger progression, e.g. '+12 Avenges', or 'He avenges his brother who was killed by Thanos'",
-		"translation": "İntikamlar",
+		"translation": "İntikam",
 	},
 	{
 		"phrase": "Scanner Assist",
 		"comment": "[Unit]",
-		"translation": "Scanner Asisti",
+		"translation": "Tarayıcı Yardımı",
 	},
 	{
 		"phrase": "Shadows Disabled",
@@ -7002,102 +6993,102 @@
 	{
 		"phrase": "Build with your MiDi to create a tactical advantage against your opponents",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Rakiplerinize karşı taktiksel bir avantaj yaratmak için Midi'nizle inşa edin",
+		"translation": "Rakiplerinize karşı taktiksel avantaj oluşturmak için MiDi'nizle bir şeyler inşa edin",
 	},
 	{
 		"phrase": "The MiDi can be a deadly weapon up close... with unlimited ammo",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "MiDi sınırsız cephaneye sahiptir ve yakın mesafede ölümcül bir silah olabilir",
+		"translation": "MiDi yakından ölümcül bir silah olabilir... sınırsız cephanesiyle",
 	},
 	{
 		"phrase": "Train your movement in the parkour room in the ship",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Parkur yeteneğinizi gemideki parkur odasında eğitin",
+		"translation": "Gemideki parkur odasında hareket antrenmanı yapın",
 	},
 	{
 		"phrase": "Scanners reveal the position of nearby enemies",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Scannerlar yakındaki düşmanların konumunu ortaya çıkarır",
+		"translation": "Tarayıcılar yakındaki düşmanların konumunu ortaya çıkarır",
 	},
 	{
 		"phrase": "Traversing lava can be dangerous",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Lavın içinden geçmek tehlikeli olabilir",
+		"translation": "Lavdan gitmek tehlikeli olabilir",
 	},
 	{
 		"phrase": "Your melee can be useful in many situations",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Yakın dövüş saldırınız birçok durumda faydalı olabilir",
+		"translation": "Yakın dövüş birçok durumda faydalı olabilir",
 	},
 	{
 		"phrase": "Grenade launcher shells bounce over cover and around corners",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Bomba Atar mermileri duvarlardan seker",
+		"translation": "Bomba fırlatıcının mermileri köşelerden seker",
 	},
 	{
 		"phrase": "You can hide disrupters behind walls and under floors to give your opponents a shocking surprise",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Rakiplerinize şok edici bir sürpriz vermek için Disruptorları duvarların arkasına ve zeminlerin altına saklayabilirsiniz.",
+		"translation": "Rakiplerinize şok edici bir sürpriz vermek için bozucuları duvarların arkasına ve zeminin altına saklayabilirsiniz.",
 	},
 	{
 		"phrase": "Moving underwater is a great way to sneak up on your enemies",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Su altında hareket etmek, düşmanlarınıza gizlice yaklaşmanın harika bir yoludur",
+		"translation": "Su altından ilerlemek, düşmanlarınıza gizlice yaklaşmanın harika bir yoludur",
 	},
 	{
 		"phrase": "Sometimes breaching through the main entrance is not the wisest idea",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Bazen ana girişten geçmek en akıllıca fikir değildir",
+		"translation": "Bazen ana girişi kullanmak en iyi fikir değildir",
 	},
 	{
 		"phrase": "The shooting range is a great place to test out the plethora of weaponry at your disposal",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Atış poligonu, silahları denemek için harika bir yerdir",
+		"translation": "Atış poligonu, kullanabileceğiniz çok sayıda silahı test etmek için harika bir yerdir.",
 	},
 	{
 		"phrase": "Take alternate paths to get the jump on your enemy",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Düşmanınızın üzerine atlamak için alternatif yollar kullanın",
+		"translation": "Düşmanınıza karşı üstünlüğü elde etmek için farklı yollar deneyin",
 	},
 	{
 		"phrase": "Falling into water negates fall damage",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Suya düşmek düşme hasarını ortadan kaldırır",
+		"translation": "Suya düşersen düşme hasarı almazsın",
 	},
 	{
 		"phrase": "The Arena is a great place to be exposed to new weapons and loadouts",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Arena, yeni silahları ve kitleri öğrenmek için harika bir yerdir",
+		"translation": "Arena, yeni silahları ve ekipmanları görmek için harika bir yerdir.",
 	},
 	{
 		"phrase": "Be careful, Soltrium Canisters in the Crashed Freighter are explosive",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Dikkatli olun, Crashed Freighter haritasındaki Soltrium tankerleri patlayıcıdır",
+		"translation": "Dikkatli olun, Gemi Kazasındaki Soltrium kutuları patlayıcıdır.",
 	},
 	{
 		"phrase": "Block health is indicated by colour. The darker the block, the closer it is to breaking",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Blok sağlığı renkle gösterilir. blok ne kadar koyu olursa, kırılmaya o kadar yakın olur",
+		"translation": "Blok canı renkle gösterilir. Blok ne kadar koyu olursa, kırılmaya o kadar yakın demektir",
 	},
 	{
 		"phrase": "Watch out for heights, death is everywhere",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Yükseklere dikkat et, ölüm her yerde",
+		"translation": "Yüksek yerlerde dikkatli olun, ölüm her yerdedir",
 	},
 	{
 		"phrase": "If you are having a hard time getting kills, try changing your loadout",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Öldürmekte zorlanıyorsanız, kitinizi değiştirmeyi deneyin.",
+		"translation": "Düşmanı öldürmekte zorlanıyorsanız ekipmanınızı değiştirmeyi deneyin.",
 	},
 	{
 		"phrase": "Use the Soltrium trail from the Rail Gun to locate enemy players",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Düşman oyuncuları bulmak için Railgun'dan gelen Soltrium izini kullanın",
+		"translation": "Ray Silahının Soltrium izini kullanarak düşman oyuncuları bulabilirsiniz",
 	},
 	{
 		"phrase": "Equip the Kinetic modification in your loadout to launch yourself with explosives",
 		"comment": "Advice text that shows while the game is starting up",
-		"translation": "Kendinizi patlayıcılarla fırlatmak için kitinize kinetik modifikasyonunu alın",
+		"translation": "Ekipmanınıza Kinetik modifikasyonunu ekleyerek kendinizi patlayıcılarla fırlatabilirsiniz",
 	},
 	{
 		"phrase": "Area",
@@ -7107,12 +7098,12 @@
 	{
 		"phrase": "Zone",
 		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Zone B'",
-		"translation": "Bölge",
+		"translation": "Alan",
 	},
 	{
 		"phrase": "Breakthrough Zone",
 		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Breakthrough Zone D'",
-		"translation": "Breakthrough Bölgesi",
+		"translation": "Atılım Bölgesi",
 	},
 	{
 		"phrase": "Flag",
@@ -7127,37 +7118,37 @@
 	{
 		"phrase": "HH",
 		"comment": "[Custom Maps] [Abbreviation] The initials of 'Head Hunter'",
-		"translation": "HH",
+		"translation": "KA",
 	},
 	{
 		"phrase": "FFA Spawn",
 		"comment": "[Custom Maps] This refers to an area that you can respawn in during a FFA match",
-		"translation": "FFA Canlanması",
+		"translation": "FFA Spawnı",
 	},
 	{
 		"phrase": "No matching servers",
 		"comment": "[Server List] This text shows if no servers matched the user's filters",
-		"translation": "Eşleşen sunucu yok",
+		"translation": "Filtrelerle eşleşen sunucu yok",
 	},
 	{
 		"phrase": "Spain",
 		"comment": "[Server List] [Filter]",
-		"translation": "ispanya",
+		"translation": "İspanya",
 	},
 	{
 		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creator.\nClick here for more info!\nThis promotion ends in",
 		"comment": "[Store Screen]",
-		"translation": "%10 indirim kazanmak ve içerik oluşturucuyu desteklemek için ödeme sırasında bir CC kodu girin.\nDaha fazla bilgi için buraya tıklayın!\nBu promosyon şu tarihte sona erer:",
+		"translation": "%10 tasarruf etmek ve bir içerik üreticisini desteklemek için ödeme sırasında bir içerik üreticisi kodu girin.\nDaha fazla bilgi için buraya tıklayın!\nBu promosyon şu tarihte sona erer:",
 	},
 	{
 		"phrase": "ADS colour",
 		"comment": "[Colour Picker] [Title] This colour picker controls the colour of the crosshairs inside your gun scope. 'ADS' stands for 'Aiming Down the Sights'",
-		"translation": "ADS Rengi",
+		"translation": "Nişan rengi",
 	},
 	{
 		"phrase": "Hipfire colour",
 		"comment": "[Colour Picker] [Title] This colour picker controls the colour of your hipfire crosshairs. 'ADS' stands for 'Aiming Down the Sights'",
-		"translation": "Nişangah rengi",
+		"translation": "Belden atış rengi",
 	},
 	{
 		"phrase": "Free weapon skin available!",
@@ -7167,47 +7158,47 @@
 	{
 		"phrase": "A player",
 		"comment": "[Placeholder] Placeholder name for a player, e.g. 'A player has taken our flag'",
-		"translation": "Oyuncu",
+		"translation": "Bir oyuncu",
 	},
 	{
 		"phrase": "Has taken our flag",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken our flag'",
-		"translation": "Bayrağımızı aldı",
+		"translation": "bizim bayrağımızı aldı",
 	},
 	{
 		"phrase": "Has taken the enemy flag",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken the enemy flag'",
-		"translation": "Düşman bayrağını aldı",
+		"translation": "düşmanın bayrağını aldı",
 	},
 	{
 		"phrase": "Has picked up the enemy bomb",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
-		"translation": "Düşman bombasını aldı",
+		"translation": "düşmanın bombasını aldı",
 	},
 	{
 		"phrase": "Has picked up our bomb",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up our bomb'",
-		"translation": "Bombamızı aldı",
+		"translation": "bizim bombamızı aldı",
 	},
 	{
 		"phrase": "You have picked up the enemy flag",
 		"comment": "[Announcement]'",
-		"translation": "Düşman bayrağını aldın",
+		"translation": "Düşmanın bayrağını aldın",
 	},
 	{
 		"phrase": "You have picked up our bomb",
 		"comment": "[Announcement]'",
-		"translation": "Bombamızı aldın",
+		"translation": "Bizim bombamızı aldın",
 	},
 	{
 		"phrase": "The enemy flag carrier has been killed",
 		"comment": "[Announcement]'",
-		"translation": "Düşman bayrak taşıyıcısı öldürüldü",
+		"translation": "Düşmanın bayrak gemisi öldürüldü",
 	},
 	{
 		"phrase": "The enemy bomb carrier has been killed",
 		"comment": "[Announcement]'",
-		"translation": "Düşman bomba taşıyıcısı öldürüldü",
+		"translation": "Düşmanın bomba taşıyıcısı öldürüldü",
 	},
 	{
 		"phrase": "The enemy has dropped our flag",
@@ -7217,7 +7208,7 @@
 	{
 		"phrase": "The enemy has dropped their bomb",
 		"comment": "[Announcement]'",
-		"translation": "Düşman bombasını düşürdü",
+		"translation": "Düşman bombasını attı",
 	},
 	{
 		"phrase": "Our flag carrier has been killed",
@@ -7277,7 +7268,7 @@
 	{
 		"phrase": "brings chaos and destruction",
 		"comment": "This is a random welcome message that appears when a player joins the",
-		"translation": "kaos ve yıkım getiriyor",
+		"translation": "kaos ve yıkım getirdi",
 	},
 	{
 		"phrase": "has just landed",
@@ -7312,7 +7303,7 @@
 	{
 		"phrase": "Is now spectating",
 		"comment": "This text shows when a player abandons Helix and becomes a spectator",
-		"translation": "seyirci moduna geçti",
+		"translation": "şimdi izliyor",
 	},
 	{
 		"phrase": "Has left the planet",
@@ -7322,22 +7313,22 @@
 	{
 		"phrase": "Scan initiated - new canister located",
 		"comment": "[Announcement] This text appears when one canister depletes and another appears",
-		"translation": "Tarama başlatıldı - yeni Canister bulundu",
+		"translation": "Tarama başlatıldı - yeni kutu bulundu",
 	},
 	{
 		"phrase": "The canister has been depleted!",
 		"comment": "[Announcement] This text appears when all Soltrium has been extracted from a canister",
-		"translation": "Canister tükendi!",
+		"translation": "Kutu boşaldı!",
 	},
 	{
 		"phrase": "Eternal mode enabled",
 		"comment": "[Announcement]",
-		"translation": "Sonsuz mod etkin",
+		"translation": "Ebedi mod etkin",
 	},
 	{
 		"phrase": "Eternal mode disabled",
 		"comment": "[Announcement]",
-		"translation": "Sonsuz mod devre dışı",
+		"translation": "Ebedi mod devre dışı",
 	},
 	{
 		"phrase": "Sandbox mode enabled",
@@ -7347,17 +7338,17 @@
 	{
 		"phrase": "Sandbox mode disabled",
 		"comment": "[Announcement]",
-		"translation": "Sandbox devre dışı",
+		"translation": "Sandbox modu devre dışı",
 	},
 	{
 		"phrase": "Trailer mode enabled",
 		"comment": "[Announcement]",
-		"translation": "Trailer mod etkinleştirildi",
+		"translation": "Fragman modu etkinleştirildi",
 	},
 	{
 		"phrase": "Trailer mode disabled",
 		"comment": "[Announcement]",
-		"translation": "Trailer mod devre dışı",
+		"translation": "Fragman modu devre dışı",
 	},
 	{
 		"phrase": "Admin",
@@ -7373,42 +7364,42 @@
 		"phrase": "Clamp Y",
 		"context": "Clamp Y Axis",
 		"comment": "Spectator control",
-		"translation": "Y Eksenini Kenetle",
+		"translation": "Y Eksenini Kısıtla",
 	},
 	{
 		"phrase": "X-Ray",
 		"comment": "Spectator control",
-		"translation": "X-Ray",
+		"translation": "Röntgen",
 	},
 	{
 		"phrase": "Smooth",
 		"comment": "Spectator control. Smooth camera movement",
-		"translation": "Düz",
+		"translation": "Yumuşak",
 	},
 	{
 		"phrase": "Cycle Players",
 		"comment": "Spectator control. The full phrase is: 'Cycle Players [ Q \/ E ]'",
-		"translation": "Oyuncu Değiştir",
+		"translation": "Oyuncuları Dolaş",
 	},
 	{
 		"phrase": "Third Person",
 		"comment": "Spectator control. Change to third person camera",
-		"translation": "Üçüncü Kişi",
+		"translation": "Üçüncü Şahıs",
 	},
 	{
 		"phrase": "First Person",
 		"comment": "Spectator control. Change to first person camera",
-		"translation": "Birinci Kişi",
+		"translation": "Birinci Şahıs",
 	},
 	{
 		"phrase": "Fly camera",
 		"comment": "Spectator control. Change to free camera mode",
-		"translation": "Uçan kamera",
+		"translation": "Uçan Kamera",
 	},
 	{
 		"phrase": "Anchored",
 		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-		"translation": "Çapalanmış",
+		"translation": "Sabitlenmiş",
 	},
 	{
 		"phrase": "Select Player",
@@ -7444,12 +7435,12 @@
 	{
 		"phrase": "Set Waypoint",
 		"comment": "Spectator control. Add a waypoint to the path you are currently editing",
-		"translation": "Ara Noktayı Ayarla",
+		"translation": "Nokta Oluştur",
 	},
 	{
 		"phrase": "Delete Waypoint",
 		"comment": "Spectator control. Delete a waypoint from the path you are currently editing",
-		"translation": "Ara noktayı Sil",
+		"translation": "Nokta Sil",
 	},
 	{
 		"phrase": "Undo Changes",
@@ -7464,12 +7455,12 @@
 	{
 		"phrase": "Next Waypoint",
 		"comment": "Spectator control. When editing an existing path, advance to the next waypoint",
-		"translation": "Sonraki Yol Noktası",
+		"translation": "Sonraki Nokta",
 	},
 	{
 		"phrase": "Previous Waypoint",
 		"comment": "Spectator control. When editing an existing path, go back to the previous waypoint",
-		"translation": "Önceki Yol Noktası",
+		"translation": "Önceki Nokta",
 	},
 	{
 		"phrase": "Toggle Killfeed",
@@ -7480,38 +7471,38 @@
 	{
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
-		"translation": "Yardım Sekmesini Aç\/Kapat",
+		"translation": "Yardımı Aç\/Kapat",
 	},
 	{
 		"phrase": "Anchor Distance",
 		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
-		"translation": "Çapa Mesafesi",
+		"translation": "Kamera Mesafesi",
 	},
 	{
 		"phrase": "Select Aegis",
 		"comment": "Spectator control. Spectate an Aegis player so you can learn to play well",
-		"translation": "Aegis'i Seç",
+		"translation": "Aegis Seçin",
 	},
 	{
 		"phrase": "Select Helix",
 		"comment": "Spectator control. Spectate an Helix player so you can watch them hide underground",
-		"translation": "Helix'i Seç",
+		"translation": "Helix Seçin",
 	},
 	{
 		"phrase": "Creating path",
 		"comment": "[Spectate UI] The full phrase is: 'Creating path 1'",
-		"translation": "Yol oluşturma",
+		"translation": "Oluşturulan yol:",
 	},
 	{
 		"phrase": "Editing path",
 		"comment": "[Spectate UI] The full phrase is: 'Editing path 2'",
-		"translation": "Düzenleme yolu",
+		"translation": "Düzenlenen yol:",
 	},
 	{
 		"phrase": "Waypoints",
 		"context": "Waypoint count",
 		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
-		"translation": "Ara noktalar",
+		"translation": "Noktalar:",
 	},
 	{
 		"phrase": "Team",
@@ -7521,7 +7512,7 @@
 	{
 		"phrase": "Creating shaders",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Işıklandırmalar oluşturuluyor",
+		"translation": "Shaderlar oluşturuluyor",
 	},
 	{
 		"phrase": "Loading audio",
@@ -7541,12 +7532,12 @@
 	{
 		"phrase": "There was an error initialising shaders. Please follow the instructions at",
 		"comment": "[Error] [Message Popup] [1\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "Gölgelendiriciler başlatılırken bir hata oluştu. lütfen adresindeki talimatları izleyin",
+		"translation": "Shaderlar oluşturulurken bir sorun oluştu. Lütfen https:\/\/sectorsedge.com\/support sitesindeki talimatlara uyarak",
 	},
 	{
 		"phrase": "to submit your log files and help solve this issue",
 		"comment": "[Error] [Message Popup] [2\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "günlük dosyalarınızı göndermek ve bu sorunun çözülmesine yardımcı olmak için",
+		"translation": "log dosyalarını gönderin ve bu sorunu çözmemize yardımcı olun",
 	},
 	{
 		"phrase": "1st",
@@ -7576,7 +7567,7 @@
 	{
 		"phrase": "Meshing worlds",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up. 'Meshing worlds' refers to generating the 3D mesh for maps.",
-		"translation": "3B örgü oluşturuluyor",
+		"translation": "Dünyalar kaplanıyor",
 	},
 	{
 		"phrase": "Cleaning up",
