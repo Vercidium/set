@@ -9022,11 +9022,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Would you like to enable Dynamic Rendering Settings?",
-		"translation": "Θέλετε να ενεργοποιήσετε τις δυναμικές ρυθμίσεις απόδοσης?",
-		"machine": true
-	},
-	{
 		"phrase": "Map is still syncing. Retry in {0} seconds",
 		"comment": "[Admin chat message] The player is still loading the map and cant spawn yet. Parameter 0: '10'",
 		"translation": "Ο χάρτης εξακολουθεί να συγχρονίζεται. δοκιμάστε ξανά σε {0} δευτερόλεπτα",
@@ -9352,6 +9347,11 @@
 		"phrase": "Your party has joined a {0} match on {1}. Joining in {2} {3}...",
 		"comment": "[Party Banner] Parameter 0: 'Salvage', parameter 1: 'SYDNEY-3', parameter 2: '7', parameter 3: 'seconds'",
 		"translation": "Το κόμμα σας συμμετείχε σε έναν αγώνα {0} στο {1}. συμμετοχή στο {2} {3}...",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to enable Dynamic Rendering?",
+		"translation": "Θέλετε να ενεργοποιήσετε τη δυναμική απόδοση?",
 		"machine": true
 	}
 ]

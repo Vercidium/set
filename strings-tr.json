@@ -7277,11 +7277,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Would you like to enable Dynamic Rendering Settings?",
-		"translation": "Dinamik oluşturma ayarlarını etkinleştirmek ister misiniz??",
-		"machine": true
-	},
-	{
 		"phrase": "Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
 		"comment": "[Server List] Description text on the left sidebar",
 		"translation": "Hak talebinde bulunmak için boş bir lobiye sağ tıklayın.\nGünde sadece 3 lobi talep edebilirsiniz.",
@@ -7994,6 +7989,11 @@
 		"phrase": "Your party has joined a {0} match on {1}. Joining in {2} {3}...",
 		"comment": "[Party Banner] Parameter 0: 'Salvage', parameter 1: 'SYDNEY-3', parameter 2: '7', parameter 3: 'seconds'",
 		"translation": "Partiniz {1}'de bir {0} maçına katıldı. {2} {3}'e katılma...",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to enable Dynamic Rendering?",
+		"translation": "Dinamik oluşturmayı etkinleştirmek ister misiniz??",
 		"machine": true
 	}
 ]

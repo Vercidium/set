@@ -9022,11 +9022,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Would you like to enable Dynamic Rendering Settings?",
-		"translation": "Wilt u dynamische weergave-instellingen inschakelen?",
-		"machine": true
-	},
-	{
 		"phrase": "Map is still syncing. Retry in {0} seconds",
 		"comment": "[Admin chat message] The player is still loading the map and cant spawn yet. Parameter 0: '10'",
 		"translation": "Kaart wordt nog steeds gesynchroniseerd. probeer het opnieuw in {0} seconden",
@@ -9352,6 +9347,11 @@
 		"phrase": "Your party has joined a {0} match on {1}. Joining in {2} {3}...",
 		"comment": "[Party Banner] Parameter 0: 'Salvage', parameter 1: 'SYDNEY-3', parameter 2: '7', parameter 3: 'seconds'",
 		"translation": "Uw partij heeft deelgenomen aan een {0}-wedstrijd op {1}. meedoen in {2} {3}...",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to enable Dynamic Rendering?",
+		"translation": "Wilt u dynamische weergave inschakelen??",
 		"machine": true
 	}
 ]
