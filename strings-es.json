@@ -37,7 +37,7 @@
 	{
 		"phrase": "Kill streak",
 		"comment": "In-game point text",
-		"translation": "Racha de asesinatos",
+		"translation": "Racha de asesinatos"
 	},
 	{
 		"phrase": "VIP kill",
@@ -393,11 +393,6 @@
 		"phrase": "Internal error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Error interno"
-	},
-	{
-		"phrase": "Map is restoring. Try again in 10 seconds",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "El mapa se está restaurando. Inténtalo de nuevo en 10 segundos"
 	},
 	{
 		"phrase": "Network Error",
@@ -885,149 +880,9 @@
 		"translation": "Red"
 	},
 	{
-		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
-		"comment": "Weapon description",
-		"translation": "Esta arma de mediano alcance está balanceada para la mayoría de los combates."
-	},
-	{
-		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
-		"comment": "Weapon description",
-		"translation": "Tecnología Mecharii que se puede cargar varias veces para crear un rayo más potente."
-	},
-	{
-		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
-		"comment": "Weapon description",
-		"translation": "Lanzar con clic izquierdo y detonar con clic derecho. Al reaparecer, C4 se desconecta de ti y debe ser disparara para detonar."
-	},
-	{
-		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
-		"comment": "Weapon description",
-		"translation": "Esta escopeta de mediano a largo alcance tiene un gran impacto en distancias más largas.\nMientras se apunta, su dispersión de balines se reducirá en un 70% en 3.0 segundos."
-	},
-	{
-		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
-		"comment": "Weapon description",
-		"translation": "Colócalo sobre una superficie de bloques para electrificar a los enemigos que pasan. De un solo uso."
-	},
-	{
-		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
-		"comment": "Weapon description",
-		"translation": "Esta arma de rango medio lanza Núcleos de Soltrium Inestables que rebotan antes de explotar."
-	},
-	{
-		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
-		"comment": "Weapon description",
-		"translation": "Esta granada tiene un Núcleo de Soltrium Inestable y detona después de 3 segundos. Todos los jugadores tienen dos granadas, pero habilitar esto hará que las granadas se peguen a las paredes."
-	},
-	{
-		"phrase": "Agaman technology that cuts through blocks instantly.",
-		"comment": "Weapon description",
-		"translation": "Tecnología Agaman que corta bloques instantáneamente."
-	},
-	{
-		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
-		"comment": "Weapon description",
-		"translation": "Esta arma de rango medio tiene una magazine grande para fuego de supresión.\nSe sobrecalienta después de 50 disparos continuos"
-	},
-	{
-		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
-		"comment": "Weapon description",
-		"translation": "Tecnología Agaman que dispara bolas de plasma en rápida sucesión."
-	},
-	{
-		"phrase": "Place blocks with this tool.",
-		"comment": "Weapon description",
-		"translation": "Coloca bloques con esta herramienta."
-	},
-	{
-		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
-		"comment": "Weapon description",
-		"translation": "Tecnología Destructiva de Agaman que convierte la energía del Soltrium en una bola explosiva de plasma."
-	},
-	{
-		"phrase": "Paint blocks with this tool.",
-		"comment": "Weapon description",
-		"translation": "Pinta bloques con esta herramienta."
-	},
-	{
-		"phrase": "This close-mid ranged weapon shoots quickly but has a small magazine.",
-		"comment": "Weapon description",
-		"translation": "Esta arma de corto alcance dispara rápidamente pero tiene un magazine pequeño."
-	},
-	{
-		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
-		"comment": "Weapon description",
-		"translation": "Tecnología Agaman Ligera. Dispara rápido, golpea fuerte."
-	},
-	{
-		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
-		"comment": "Weapon description",
-		"translation": "Tecnología Agaman Pesada. Dispara una fuerte bola de plasma."
-	},
-	{
-		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
-		"comment": "Weapon description",
-		"translation": "Esta arma de largo alcance utiliza propulsión magnética y puede equiparse con una mira 4x para brindar apoyo a los aliados a distancia."
-	},
-	{
-		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
-		"comment": "Weapon description",
-		"translation": "Esta potente arma de corto alcance contiene un poderoso Núcleo de Soltrium."
-	},
-	{
-		"phrase": "Such a small gun. Such a massive boom.",
-		"comment": "Weapon description",
-		"translation": "Un arma tan pequeña. Un boom tan masivo."
-	},
-	{
-		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
-		"comment": "Weapon description",
-		"translation": "Esta arma de largo alcance utiliza Tecnología de Propulsión de Soltrium para lanzar misiles explosivos."
-	},
-	{
-		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
-		"comment": "Weapon description",
-		"translation": "Lanza un orbe de escaneo flotante que pulsa cada dos segundos, revelando enemigos a través de las paredes.\nLos jugadores enemigos pueden destruir los orbes de escáner."
-	},
-	{
-		"phrase": "This close ranged weapon creates a blast of shrapnel.",
-		"comment": "Weapon description",
-		"translation": "Esta arma de corto alcance crea una ráfaga de metralla."
-	},
-	{
-		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
-		"comment": "Weapon description",
-		"translation": "Esta arma de corto alcance tiene un gran impacto. Cuidado con el culatazo."
-	},
-	{
-		"phrase": "Place block structures with this tool.",
-		"comment": "Weapon description",
-		"translation": "Coloca estructuras de bloques con esta herramienta."
-	},
-	{
-		"phrase": "Attaches to walls. Right click to pull the wall down.",
-		"comment": "Weapon description",
-		"translation": "Se adhiere a las paredes. Clic derecho para derribar la pared."
-	},
-	{
 		"phrase": "Building",
 		"comment": "Armour modification name",
 		"translation": "Construyendo"
-	},
-	{
-		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 bloques\n+2 bloques de distancia de construcción\n+5 salud de bloque"
-	},
-	{
-		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 bloques\n+4 bloques de distancia de construcción\n+9 salud de bloque"
-	},
-	{
-		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 bloques\n+6 bloques de distancia de construcción\n+13 salud de bloque"
 	},
 	{
 		"phrase": "Hydraulics",
@@ -1056,148 +911,13 @@
 	},
 	{
 		"phrase": "Kinetic",
-		"comment": "Armour modification name",
+		"comment": "Payload attachment name",
 		"translation": "Cinético"
 	},
 	{
 		"phrase": "Scavenger",
 		"comment": "Armour modification name",
 		"translation": "Carroñero"
-	},
-	{
-		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
-		"comment": "Armour modification description",
-		"translation": "+3 bloques de distancia de caída segura\n-15% de daño por caída"
-	},
-	{
-		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+400% de retroceso de autoexplosión\n-10% de daño por autoexplosión"
-	},
-	{
-		"phrase": "+20% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+20% de velocidad de regeneración de salud"
-	},
-	{
-		"phrase": "+5% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+5% de velocidad de movimiento"
-	},
-	{
-		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-40% de volumen de construcción y excavación\n-15% de volumen de pisadas\n-25% de distancia entre pasos"
-	},
-	{
-		"phrase": "+10% dig speed",
-		"comment": "Armour modification description",
-		"translation": "+10% de velocidad de excavación"
-	},
-	{
-		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
-		"comment": "Armour modification description",
-		"translation": "+6 bloques de distancia de caída segura\n-30% de daño por caída"
-	},
-	{
-		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+450% de retroceso de autoexplosión\n-20% de daño por autoexplosión"
-	},
-	{
-		"phrase": "+40% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+40% de velocidad de regeneración de salud"
-	},
-	{
-		"phrase": "+10% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+10% de velocidad de movimiento"
-	},
-	{
-		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-60% de volumen de construcción y excavación\n-30% de volumen de pisadas\n-50% de distancia de pisada"
-	},
-	{
-		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
-		"comment": "Armour modification description",
-		"translation": "+20% de velocidad de excavación\nGana 2 bloques por bloque excavado\n+1 munición de equipo en cada recogida de munición"
-	},
-	{
-		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
-		"comment": "Armour modification description",
-		"translation": "+9 bloques de distancia de caída segura\n-45% de daño por caída\n+1 altura de salto de bloque"
-	},
-	{
-		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+500% de retroceso de autoexplosión\n-30% de daño por autoexplosión"
-	},
-	{
-		"phrase": "+60% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+60% de velocidad de regeneración de salud"
-	},
-	{
-		"phrase": "+15% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+15% de velocidad de movimiento"
-	},
-	{
-		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-80% de volumen de construcción y excavación\n-45% de volumen de pisadas\n-75% de distancia de pisada"
-	},
-	{
-		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
-		"comment": "Armour modification description",
-		"translation": "+30% de velocidad de excavación\nGana 3 bloques por bloque excavado\n+10 de salud por cada recogida de munición"
-	},
-	{
-		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
-		"comment": "Character description",
-		"translation": "Aunque no tenía experiencia, este mercenario desafió el viaje a la Galaxia Soltrium y busca demostrar su valor en las batallas."
-	},
-	{
-		"phrase": "This solo operative seeks nothing but victory when it comes to saving their race from destruction.",
-		"comment": "Character description",
-		"translation": "Este operativo solitario no busca más que la victoria cuando se trata de salvar a su raza de la destrucción."
-	},
-	{
-		"phrase": "A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.",
-		"comment": "Character description",
-		"translation": "Una arma francotiradora mortal a distancia y un asesino rápido de cerca, son capaces de defenderse en cualquier encuentro."
-	},
-	{
-		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
-		"comment": "Character description",
-		"translation": "Este comandante perdió su brazo durante la Bengala, pero continúa luchando por el futuro de su raza."
-	},
-	{
-		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
-		"comment": "Character description",
-		"translation": "Forajidos que deambulan por las afueras de la galaxia, atacando a cualquiera que se atreva a viajar solo."
-	},
-	{
-		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
-		"comment": "Character description",
-		"translation": "Este Agaman luchó atentamente en el frente militar para demostrar su valía al entrar en la Galaxia Soltrium."
-	},
-	{
-		"phrase": "A curious one, aren't you?",
-		"comment": "Character description",
-		"translation": "Eres curioso, ¿no?"
-	},
-	{
-		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
-		"comment": "Character description",
-		"translation": "Este Agaman renunció a todo para emprender el viaje a la Galaxia Soltrium."
-	},
-	{
-		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
-		"comment": "Character description",
-		"translation": "Este noble Agaman fue infundido con Soltrium en un experimento para producir una mezcla imparable de carne y máquina."
 	},
 	{
 		"phrase": "Click the Play tab when you are ready",
@@ -1260,114 +980,49 @@
 		"translation": "Sin reapariciones"
 	},
 	{
-		"phrase": "First to 5 wins",
-		"comment": "[Gamemode Info] Win requirement, e.g. win 5 rounds in Arena to win",
-		"translation": "Primero a 5 victorias"
-	},
-	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
 		"comment": "[Gamemode Info] Arena gamemode description",
 		"translation": "Se ha desarrollado un mercado en la sombra en las afueras de la galaxia donde se apuesta el Soltrium. Es todo o nada en la arena donde los concursantes luchan por una ganancia y supervivencia."
 	},
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
-		"comment": "[Gamemode Info] Spire gamemode description",
+		"comment": "[Gamemode Info] [Description] [Spire]",
 		"translation": "Empieza sin nada y recoge armas para eliminar al equipo enemigo."
 	},
 	{
 		"phrase": "All players start with the same randomised loadout.",
-		"comment": "[Gamemode Info] Static gamemode description",
+		"comment": "[Gamemode Info] [Description] [Static]",
 		"translation": "Todos los jugadores comienzan con el mismo equipamiento aleatorio."
 	},
 	{
-		"phrase": "Times to win",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Veces para ganar"
-	},
-	{
-		"phrase": "Soltrium is scattered throughout the outer sector. Various",
-		"comment": "[Salvage] [1\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "El Soltrium se encuentra disperso por todo el sector exterior. Varios"
-	},
-	{
 		"phrase": "And",
-		"comment": "[Salvage] [2\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
+		"comment": "[Conjunction]",
 		"translation": "Y"
 	},
 	{
-		"phrase": "battalions have been dispatched to search for and collect the precious resource.",
-		"comment": "[Salvage] [3\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "Se han enviado batallones para buscar y recolectar el preciado recurso."
-	},
-	{
-		"phrase": "Capture 5 zones to win",
-		"comment": "[Breakthrough] Win requirement. A team must capture 5 zones to win",
-		"translation": "Captura 5 zonas para ganar"
-	},
-	{
 		"phrase": "Control the zone to win",
-		"comment": "[Control Shift] Win requirement. A team must control and push the zone back into the enemy spawn to win",
+		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
 		"translation": "Controla la zona para ganar"
 	},
 	{
-		"phrase": "Deliver the bomb",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Deliver the bomb 3 times to win",
-		"translation": "Entrega la bomba"
-	},
-	{
-		"phrase": "Capture the flag",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Captura la bandera"
-	},
-	{
 		"phrase": "Get two kills with every weapon, then melee to win",
-		"comment": "[Gun Game] Win requirement",
+		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
 		"translation": "Consigue dos muertes con cada arma, luego una cuerpo a cuerpo para ganar."
 	},
 	{
 		"phrase": "Hold the most Soltrium to win",
-		"comment": "[Head Hunter] Win requirement",
+		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
 		"translation": "Manten el mayor número de Soltrium para ganar"
 	},
 	{
-		"phrase": "Pick up",
-		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "Recoger"
-	},
-	{
-		"phrase": "From enemy corpses",
-		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "De los cadáveres enemigos"
-	},
-	{
 		"phrase": "Weapons and Mods spawn around the map",
-		"comment": "[Head Hunter] Gamemode description.",
+		"comment": "[Gamemode Info] [Description] [Head Hunter]",
 		"translation": "Aparecen armas y modificaciones en el mapa."
 	},
 	{
 		"phrase": "Not bound",
 		"comment": "[Keybind] This is replacement text for an unbound keybind, e.g. Press [Not bound] to sprint",
 		"translation": "No ligado"
-	},
-	{
-		"phrase": "You can hold",
-		"comment": "[Connecting] [Loading Tip 1] [1\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Puedes mantener"
-	},
-	{
-		"phrase": "To reveal enemy positions to teammates",
-		"comment": "[Connecting] [Loading Tip 1] [2\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Para revelar las posiciones enemigas a los compañeros de equipo."
-	},
-	{
-		"phrase": "You can press",
-		"comment": "[Connecting] [Loading Tip 2] [1\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "Puedes presionar"
-	},
-	{
-		"phrase": "To provide feedback",
-		"comment": "[Connecting] [Loading Tip 2] [2\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "Para proporcionar retroalimentación"
 	},
 	{
 		"phrase": "Local",
@@ -1500,39 +1155,9 @@
 		"translation": "¡Fin de semana de doble XP + protones! termina en"
 	},
 	{
-		"phrase": "day",
-		"comment": "[Unit] Time measurement",
-		"translation": "día"
-	},
-	{
-		"phrase": "days",
-		"comment": "[Unit] Time measurement",
-		"translation": "dias"
-	},
-	{
-		"phrase": "hour",
-		"comment": "[Unit] Time measurement",
-		"translation": "hora"
-	},
-	{
-		"phrase": "hours",
-		"comment": "[Unit] Time measurement",
-		"translation": "horas"
-	},
-	{
-		"phrase": "minute",
-		"comment": "[Unit] Time measurement",
-		"translation": "minuto"
-	},
-	{
-		"phrase": "minutes",
-		"comment": "[Unit] Time measurement",
-		"translation": "minutos"
-	},
-	{
 		"phrase": "and",
 		"comment": "[Conjunction] The full phrase is 1 hour and 12 minutes",
-		"translation": "y",
+		"translation": "y"
 	},
 	{
 		"phrase": "Playtime",
@@ -1566,7 +1191,7 @@
 	},
 	{
 		"phrase": "Barrel",
-		"comment": "[Attachment Type]",
+		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the barrel of a gun, not a barrel of water",
 		"translation": "Barril"
 	},
 	{
@@ -1735,16 +1360,6 @@
 		"translation": "¡Ronda victoriosa!"
 	},
 	{
-		"phrase": "Press",
-		"comment": "[1\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "Presiona"
-	},
-	{
-		"phrase": "Or",
-		"comment": "[2\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "O"
-	},
-	{
 		"phrase": "Pick up equipment",
 		"comment": "[Input Prompt] This text shows in Spire when the player is standing next to C4. The full text is '[V] Pick up equipment'",
 		"translation": "Recoger equipamiento"
@@ -1788,7 +1403,7 @@
 		"phrase": "Available",
 		"comment": "This text shows at the top of the screen in-game when customising weapons. The full text is '12000 Protons Available'",
 		"translation": "Disponibles"
-	},	
+	},
 	{
 		"phrase": "Leave killcam",
 		"comment": "[Input Prompt] This text shows in-game when viewing the killcam. The full phrase is '[SPACE] Leave killcam'",
@@ -1826,7 +1441,7 @@
 	},
 	{
 		"phrase": "Settings",
-		"comment": "[Setting] [1\/3] This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"comment": "[In-Game Escape Menu] View the settings window",
 		"translation": "Ajustes"
 	},
 	{
@@ -1863,16 +1478,6 @@
 		"phrase": "You are carrying the bomb",
 		"comment": "[Escort] This text shows at the top of the screen when the player is carrying the bomb",
 		"translation": "Llevas la bomba"
-	},
-	{
-		"phrase": "To drop the flag",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the flag'",
-		"translation": "Para soltar la bandera"
-	},
-	{
-		"phrase": "To drop the bomb",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the bomb'",
-		"translation": "Para soltar la bomba"
 	},
 	{
 		"phrase": "Stage",
@@ -1915,23 +1520,13 @@
 		"translation": "Selecciona un arma del estante de armas"
 	},
 	{
-		"phrase": "Shoot the targets and try different weapons. Press",
-		"comment": "[Tutorial] [1\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "Dispara a los objetivos e intentalo con diferentes armas. Presiona"
-	},
-	{
-		"phrase": "To set up a loadout",
-		"comment": "[Tutorial] [2\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "Para configurar una carga"
-	},
-	{
 		"phrase": "Level",
 		"comment": "[Killcam] The level of the player",
 		"translation": "Nivel"
 	},
 	{
 		"phrase": "Tag",
-		"comment": "[Killcam] [Unit] The amount of tags this player has, e.g. '1 Tag'",
+		"comment": "[Career Path] [Prefix] i.e. ''Assassin' tag'",
 		"translation": "Etiqueta"
 	},
 	{
@@ -1996,7 +1591,7 @@
 	},
 	{
 		"phrase": "Block",
-		"comment": "e.g. +1 Block when picking up an ammo bonus",
+		"comment": "[Attachment] [Unit] Distance measurement unit",
 		"translation": "Bloque"
 	},
 	{
@@ -2083,16 +1678,6 @@
 		"phrase": "Protons, XP and stats will not be tracked",
 		"comment": "[Claim Window] When enabling Eternal, Trailer or Sandbox Mode, player statistics will not be tracked and protons and XP will not be rewarded",
 		"translation": "Los protones, XP y estadísticas no serán contados"
-	},
-	{
-		"phrase": "Infinite ammo. Type",
-		"comment": "[Claim Window] [1\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "Munición infinita. Escribe"
-	},
-	{
-		"phrase": "in chat to set your spawn point",
-		"comment": "[Claim Window] [2\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "en el chat para establecer tu punto de reaparición"
 	},
 	{
 		"phrase": "Weapon cooldowns removed. Players are invincible",
@@ -2321,23 +1906,13 @@
 	},
 	{
 		"phrase": "Low level",
-		"comment": "[Play Screen] [Navigation] Low level tab",
+		"comment": "[Play Screen] [Navigation] Low level filter",
 		"translation": "Nivel bajo"
 	},
 	{
 		"phrase": "Custom",
-		"comment": "[Play Screen] [Navigation] Custom lobbies tab",
+		"comment": "[Play Screen] [Navigation] Custom lobbies filter",
 		"translation": "Personalizadas"
-	},
-	{
-		"phrase": "Empty servers",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
-		"translation": "Servidores vacíos"
-	},
-	{
-		"phrase": "Full servers",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that have full capacity",
-		"translation": "Servidores llenos"
 	},
 	{
 		"phrase": "Character",
@@ -2481,11 +2056,8 @@
 	},
 	{
 		"phrase": "Loadout power",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Poder del equipamiento"
-	},
-	{
-		"phrase": "Damage range",
-		"translation": "Rango de daño"
 	},
 	{
 		"phrase": "Projectile speed",
@@ -2519,7 +2091,7 @@
 	},
 	{
 		"phrase": "Rounds",
-		"comment": "[Attachment] Weapon characteristic",
+		"comment": "[Attachment] [Unit] Weapon characteristic",
 		"translation": "Rondas"
 	},
 	{
@@ -2715,7 +2287,7 @@
 	{
 		"phrase": "Sentry",
 		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Defensor",
+		"translation": "Defensor"
 	},
 	{
 		"phrase": "Protector",
@@ -2904,7 +2476,7 @@
 	},
 	{
 		"phrase": "Performance",
-		"comment": "[Setting] [2\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"comment": "[Settings] [Button] Sidebar text",
 		"translation": "Rendimiento"
 	},
 	{
@@ -2916,11 +2488,6 @@
 		"phrase": "Accessibility",
 		"comment": "[Settings] [Button] Sidebar text",
 		"translation": "Accesibilidad"
-	},
-	{
-		"phrase": "Close",
-		"comment": "Close the settings window",
-		"translation": "Cerrar"
 	},
 	{
 		"phrase": "Peacekeeper",
@@ -3628,21 +3195,6 @@
 		"translation": "Nueva canalización de renderizado. Por favor, avísa en el Discord de Vercidium si el juego corre más rápido\/más lento con esto habilitado"
 	},
 	{
-		"phrase": "Enable this to make",
-		"comment": "[Setting] [Tooltip] [1\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "Habilite esto para hacer que"
-	},
-	{
-		"phrase": "dig single blocks and",
-		"comment": "[Setting] [Tooltip] [2\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "excave bloques individuales y"
-	},
-	{
-		"phrase": "dig a 3x3x3 area",
-		"comment": "[Setting] [Tooltip] [3\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "para excavar un área de 3x3x3"
-	},
-	{
 		"phrase": "Forwards",
 		"comment": "[Keybind] Move forward",
 		"translation": "Hacía adelante"
@@ -3969,12 +3521,12 @@
 	},
 	{
 		"phrase": "Open Trial Window",
-		"comment": "[Keybind]",
+		"comment": "[Keybind] Open the Trial window",
 		"translation": "Abrir ventana de Pruebas"
 	},
 	{
 		"phrase": "Restart Trial",
-		"comment": "[Keybind]",
+		"comment": "[Keybind] Restart the current Trial",
 		"translation": "Reiniciar la Prueba"
 	},
 	{
@@ -3996,11 +3548,6 @@
 		"phrase": "MVP",
 		"comment": "Abbreviated medal name",
 		"translation": "MVP"
-	},
-	{
-		"phrase": "You can only claim 3 lobbies per day",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Solo puedes reclamar 3 lobbies por día"
 	},
 	{
 		"phrase": "Extendest",
@@ -4038,50 +3585,10 @@
 		"translation": "Cortador de plasma"
 	},
 	{
-		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
-		"comment": "Weapon description",
-		"translation": "[Obsoleto] Un testimonio de la tecnología avanzada de Aegis."
-	},
-	{
-		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
-		"comment": "Weapon description",
-		"translation": "[Obsoleto] Una excavación Midi lenta que remueve un trozo de bloques de 3x3x3."
-	},
-	{
-		"phrase": "[Deprecated] Allows one extra modification to be equipped.",
-		"comment": "Weapon description",
-		"translation": "[Obsoleto] Permite equipar una modificación adicional."
-	},
-	{
-		"phrase": "This mid ranged weapon shoots Soltrium Tracer Rounds. Recharges over time and can overheat.",
-		"comment": "Weapon description for Aranet's Minigun",
-		"translation": "Esta arma de rango medio dispara Rondas Trazadoras de Soltrium. Se recarga con el tiempo y puede sobrecalentarse."
-	},
-	{
-		"phrase": "[Deprecated] Blocks placed have +100% health.",
-		"comment": "Weapon description",
-		"translation": "[Obsoleto] Los bloques colocados tienen +100% de salud."
-	},
-	{
-		"phrase": "[Deprecated] Agaman technology. This close ranged weapon propels a spray of plasma",
-		"comment": "Weapon description",
-		"translation": "[Obsoleto] Tecnología Agaman. Esta arma de corto alcance propulsa un rocío de plasma"
-	},
-	{
-		"phrase": "[Deprecated] Cluster Agama technology. Not much about this weapon is known.",
-		"comment": "Weapon description",
-		"translation": "[Obsoleto] Tecnología de Clúster Agama. No se sabe mucho sobre esta arma."
-	},
-	{
 		"phrase": "Blocks",
 		"context": "Cubes",
 		"comment": "A 3d voxel",
 		"translation": "Bloques"
-	},
-	{
-		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
-		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
-		"translation": "Los aspectos de bloques animados deben estar habilitadas para que los aspectos de bloques animados sean renderizados correctamente"
 	},
 	{
 		"phrase": "Scroll to zoom",
@@ -4097,26 +3604,6 @@
 		"phrase": "This is an experimental server used for beta testing. The game may not function as intended",
 		"comment": "[Connecting] Text that shows on the left of the screen when connecting to a beta server",
 		"translation": "Este es un servidor experimental utilizado para pruebas beta. Es posible que el juego no funcione según lo planeado"
-	},
-	{
-		"phrase": "The first team to",
-		"comment": "[Gamemode Info] [1\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "El primer equipo en alcanzar"
-	},
-	{
-		"phrase": "points wins",
-		"comment": "[Gamemode Info] [2\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "puntos gana"
-	},
-	{
-		"phrase": "Before uploading maps to the Steam workshop, you must agree to the",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
-		"translation": "Antes de subir mapas en Steam Workshop, debes de aceptar los Términos de servicio de"
-	},
-	{
-		"phrase": "Terms of Service.",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
-		"translation": "."
 	},
 	{
 		"phrase": "N\/A",
@@ -4335,41 +3822,6 @@
 		"translation": "Aquí puedes personalizar cómo se mostrarán los puntos que ganes en el juego. Los puntos primarios se colocan en la parte superior de la pila de puntos y los puntos secundarios se colocan en la parte inferior de la pila de puntos."
 	},
 	{
-		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
-		"comment": "[Setting Tooltip] Peacekeeper description",
-		"translation": "Los enemigos se resaltarán si tienen un nivel 20 o menos y un KDR de 1 o menor."
-	},
-	{
-		"phrase": "For the duration Peacekeeper is enabled, deal",
-		"comment": "[Setting Tooltip] [1\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "Durante el tiempo que el Pacificador esté habilitado, haces"
-	},
-	{
-		"phrase": "damage to these players and earn",
-		"comment": "[Setting Tooltip] [2\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "de daño a esos jugadores y obtienes"
-	},
-	{
-		"phrase": "extra XP and Protons.",
-		"comment": "[Setting Tooltip] [3\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "XP y protones adicionales."
-	},
-	{
-		"phrase": "Changes take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "[Setting Tooltip] [4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "Los cambios surgen efecto en la reaparición. El Pacificador no tiene ningún efecto en partidas de Todos contra Todos."
-	},
-	{
-		"phrase": "This controls the scale of all UI and in-game HUD. Press",
-		"comment": "[Setting] [Tooltip] [1\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100",
-		"translation": "Esto controla la escala de toda la interfaz de usuario y el HUD del juego. Presiona"
-	},
-	{
-		"phrase": "to reset it back to 100%",
-		"comment": "[Setting] [Tooltip] [2\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100%",
-		"translation": "para restablecerlo de nuevo al 100%"
-	},
-	{
 		"phrase": "KDR",
 		"comment": "[Player Statistic] Kill to death ratio",
 		"translation": "KDR"
@@ -4396,18 +3848,13 @@
 	},
 	{
 		"phrase": "Foregrip",
-		"comment": "[Attachment Type]",
+		"comment": "[Attachment UI] [Label] Attachment category name",
 		"translation": "Agarre"
 	},
 	{
 		"phrase": "Stock",
-		"comment": "[Attachment Type]",
+		"comment": "[Attachment UI] [Label] Attachment category name. This refers to the part of the gun that rests against your shoulder, e.g. 'Fora was the laughing stock of the classroom', or 'Satisfied Onion goes well with chicken stock'",
 		"translation": "Stock"
-	},
-	{
-		"phrase": "Ammo",
-		"comment": "[Attachment Type]",
-		"translation": "Munición"
 	},
 	{
 		"phrase": "Equip",
@@ -4420,64 +3867,14 @@
 		"translation": "Gratis"
 	},
 	{
-		"phrase": "to change team mates",
-		"comment": "[3\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "para cambiar compañeros de equipo"
-	},
-	{
 		"phrase": "Magazines",
-		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
+		"comment": "[Unit] e.g. '+2 Magazines' when picking up an ammo bonus",
 		"translation": "Magazines"
 	},
 	{
 		"phrase": "Hidden",
 		"comment": "[Point UI Customisation] Hidden point category",
 		"translation": "Oculto"
-	},
-	{
-		"phrase": "Building 1",
-		"comment": "[Trial Name]",
-		"translation": "Construyendo 1"
-	},
-	{
-		"phrase": "Building 2",
-		"comment": "[Trial Name]",
-		"translation": "Construyendo 2"
-	},
-	{
-		"phrase": "Building 3",
-		"comment": "[Trial Name]",
-		"translation": "Construyendo 3"
-	},
-	{
-		"phrase": "Digging 1",
-		"comment": "[Trial Name]",
-		"translation": "Cavando 1"
-	},
-	{
-		"phrase": "Digging 2",
-		"comment": "[Trial Name]",
-		"translation": "Cavando 2"
-	},
-	{
-		"phrase": "Digging 3",
-		"comment": "[Trial Name]",
-		"translation": "Cavando 3"
-	},
-	{
-		"phrase": "Build + Dig 1",
-		"comment": "[Trial Name]",
-		"translation": "Construir + excavar 1"
-	},
-	{
-		"phrase": "Build + Dig 2",
-		"comment": "[Trial Name]",
-		"translation": "Construir + excavar 2"
-	},
-	{
-		"phrase": "Build + Dig 3",
-		"comment": "[Trial Name]",
-		"translation": "Construir + excavar 3"
 	},
 	{
 		"phrase": "Purchases",
@@ -4487,7 +3884,7 @@
 	{
 		"phrase": "Open",
 		"context": "Public",
-		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"comment": "[Play Screen] [Navigation] Public lobbies filter",
 		"translation": "Abierto"
 	},
 	{
@@ -4641,30 +4038,6 @@
 		"translation": "ms"
 	},
 	{
-		"phrase": "Play a Match",
-		"context": "Play a Game",
-		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
-		"translation": "Jugar un Partido"
-	},
-	{
-		"phrase": "Enter Trials",
-		"context": "Enter the Trials",
-		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
-		"translation": "Ingresar a las Pruebas"
-	},
-	{
-		"phrase": "Replay Tutorial",
-		"context": "Replay the Tutorial",
-		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
-		"translation": "Jugar el tutorial"
-	},
-	{
-		"phrase": "Reset Ship",
-		"context": "Reset the Ship",
-		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
-		"translation": "Restablecer Nave"
-	},
-	{
 		"phrase": "e.g. apples",
 		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
 		"translation": "por ejemplo, manzanas"
@@ -4676,7 +4049,7 @@
 	},
 	{
 		"phrase": "Connection to Steam failed. Online play is unavailable",
-		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
+		"comment": "[Popup] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
 		"translation": "Falló la conexión a Steam. El juego en línea no está disponible"
 	},
 	{
@@ -4703,16 +4076,6 @@
 		"phrase": "Platinum medal",
 		"comment": "[Trial Reward]",
 		"translation": "Medalla de platino"
-	},
-	{
-		"phrase": "To restart",
-		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
-		"translation": "Para reiniciar"
-	},
-	{
-		"phrase": "To cancel",
-		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
-		"translation": "Para Cancelar"
 	},
 	{
 		"phrase": "Best kill streak",
@@ -4773,7 +4136,7 @@
 	},
 	{
 		"phrase": "Accuracy",
-		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
+		"comment": "[Career name] This career is progressed through headshots and explosive directs",
 		"translation": "Precisión"
 	},
 	{
@@ -4820,12 +4183,12 @@
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Hora"
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Horas"
 	},
 	{
@@ -4915,7 +4278,7 @@
 	},
 	{
 		"phrase": "Spawn",
-		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
+		"comment": "[Custom Maps] This is a label next to each team spawn regions, i.e. 'Aegis spawn'",
 		"translation": "Aparecer"
 	},
 	{
@@ -5010,7 +4373,7 @@
 	{
 		"phrase": "Spectate",
 		"context": "Become a spectator",
-		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
+		"comment": "[Scoreboard] [Button]",
 		"translation": "Espectar"
 	},
 	{
@@ -5069,16 +4432,6 @@
 		"translation": "Haga clic fuera o presione escape para cerrar"
 	},
 	{
-		"phrase": "Hold",
-		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "Manten"
-	},
-	{
-		"phrase": "To unlock the cursor",
-		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "Para desbloquear el cursor"
-	},
-	{
 		"phrase": "Spectator",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
 		"translation": "Espectador"
@@ -5100,7 +4453,7 @@
 	},
 	{
 		"phrase": "Balance the teams",
-		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
+		"comment": "[Scoreboard] [Button]",
 		"translation": "Balancear los equipos"
 	},
 	{
@@ -5210,7 +4563,7 @@
 	},
 	{
 		"phrase": "Online",
-		"comment": "[Social Sidebar] Placeholder friend status",
+		"comment": "[Play Screen] [Navigation] Online tab",
 		"translation": "En línea"
 	},
 	{
@@ -5449,41 +4802,6 @@
 		"translation": "Retícula"
 	},
 	{
-		"phrase": "+50% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+50% Protones. Dura 1 hora"
-	},
-	{
-		"phrase": "+100% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+100% Protones. Dura 1 hora"
-	},
-	{
-		"phrase": "+200% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+200% Protones. Dura 1 hora"
-	},
-	{
-		"phrase": "+50% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+50% de XP. Dura 1 hora"
-	},
-	{
-		"phrase": "+100% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+100% de XP. Dura 1 hora"
-	},
-	{
-		"phrase": "+200% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+200% de EXP. Dura 1 hora"
-	},
-	{
-		"phrase": "Weapon Skin Token. Use this to unlock weapon skins on the Weapons screen",
-		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Ficha para aspecto de arma. Usa esto para desbloquear aspectos de armas en la pantalla de armas"
-	},
-	{
 		"phrase": "Weapon Skin Token",
 		"comment": "[Inventory] Weapon skin token display name",
 		"translation": "Ficha para aspecto de arma"
@@ -5510,7 +4828,7 @@
 	},
 	{
 		"phrase": "Loading",
-		"comment": "[Inventory] This text shows when the inventory is being loaded from the server",
+		"comment": "Loading text in the character\/weapon screen",
 		"translation": "Cargando"
 	},
 	{
@@ -5636,7 +4954,7 @@
 	},
 	{
 		"phrase": "Left click",
-		"comment": "[Loadout] [Input Prompt]",
+		"comment": "Left mouse button",
 		"translation": "Click izquierdo"
 	},
 	{
@@ -5696,7 +5014,7 @@
 	},
 	{
 		"phrase": "Grenades",
-		"comment": "[Unit] Amount of grenades, e.g. I have 2 grenades",
+		"comment": "[Loadout Summary] Grenade label",
 		"translation": "Granadas"
 	},
 	{
@@ -5848,7 +5166,7 @@
 	},
 	{
 		"phrase": "No",
-		"comment": "[Mapping] Text that shows if a file is not provided, e.g. 'No VOX file found' or 'No JSON file found'",
+		"comment": "No thank you I'm fine",
 		"translation": "No"
 	},
 	{
@@ -5860,7 +5178,7 @@
 		"phrase": "Shrine",
 		"comment": "Map Name",
 		"translation": "Santuario"
-	},	
+	},
 	{
 		"phrase": "Aegis Desert",
 		"comment": "Map Name",
@@ -5972,16 +5290,6 @@
 		"translation": "Para unirse a un lobby de bajo nivel, debes ser < Nivel 20 o tener <0.5 KDR"
 	},
 	{
-		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
-		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Cualquiera puede unirse a los Lobbies Abiertos. Haz clic con el botón derecho en un lobby vacío para reclamarlo.\nSolo puedes reclamar 3 lobbies por día."
-	},
-	{
-		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
-		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Para crear un lobby personalizado, cambie a la pestaña de Lobby Abierto y haz clic con el botón derecho en un lobby vacío."
-	},
-	{
 		"phrase": "Current version",
 		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
 		"translation": "Versión actual"
@@ -6002,48 +5310,38 @@
 		"translation": "ms"
 	},
 	{
-		"phrase": "Preferences",
-		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
-		"translation": "Preferencias"
-	},
-	{
 		"phrase": "Game Modes",
-		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter check boxes",
 		"translation": "Modos de juego"
 	},
 	{
 		"phrase": "Regions",
-		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter check boxes",
 		"translation": "Regiones"
 	},
 	{
 		"phrase": "Open",
-		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"comment": "[Play Screen] [Navigation] Public lobbies filter",
 		"translation": "Abierto"
 	},
 	{
-		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creato.\nClick here for more info!\nThis promotion ends in",
-		"comment": "[Store Screen]",
-		"translation": "Ingrese un código de creador al finalizar la compra para ahorrar un 10% y apoyar a la creación de contenido.\n¡Haz clic aquí para más información!\nEsta promoción termina en"
-	},
-	{
 		"phrase": "Day",
-		"comment": "[Unit] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Día"
 	},
 	{
 		"phrase": "Days",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Dias"
 	},
 	{
 		"phrase": "Minute",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Minuto"
 	},
 	{
 		"phrase": "Minutes",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Minutos"
 	},
 	{
@@ -6085,7 +5383,7 @@
 		"phrase": "Free weapon skin",
 		"comment": "[Progression] [1\/2] The full phrase is 'Free weapon skin at level 10'",
 		"translation": "Aspecto de arma gratis"
-	},	
+	},
 	{
 		"phrase": "At level",
 		"comment": "[Progression] [2\/2] The full phrase is 'Free weapon skin at level 10'",
@@ -6226,7 +5524,7 @@
 		"phrase": "Failed to join the party",
 		"comment": "[Social Sidebar] [Notification]",
 		"translation": "No se pudo unir al grupo"
-	},	
+	},
 	{
 		"phrase": "Has invited you to their party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: 'Peygahreaux has invited you to their party'",
@@ -6296,7 +5594,7 @@
 		"phrase": "NEW-JERSEY",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
 		"translation": "NUEVA JERSEY"
-	},	
+	},
 	{
 		"phrase": "SAN-FRANCISCO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
@@ -6441,7 +5739,7 @@
 		"phrase": "BRISBANE",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
 		"translation": "BRISBANE"
-	},	
+	},
 	{
 		"phrase": "CALGARY",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
@@ -6546,7 +5844,7 @@
 		"phrase": "ZURICH",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
 		"translation": "ZURICH"
-	},	
+	},
 	{
 		"phrase": "Server",
 		"comment": "[Server Listing] Placeholder server name",
@@ -6566,7 +5864,7 @@
 		"phrase": "Slot 3",
 		"comment": "[Loadout] Third weapon\/equipment slot",
 		"translation": "Ranura 3"
-	},	
+	},
 	{
 		"phrase": "Small canister",
 		"comment": "[Attachment] Midi attachment name",
@@ -6616,11 +5914,6 @@
 		"phrase": "Field amplifier",
 		"comment": "[Attachment] Midi attachment name",
 		"translation": "Amplificador de campo"
-	},
-	{
-		"phrase": "Extended amplifier",
-		"comment": "[Attachment] Midi attachment name",
-		"translation": "Amplificador extendido"
 	},
 	{
 		"phrase": "Build cooldown",
@@ -6926,11 +6219,6 @@
 		"translation": "Haz clic para unirse"
 	},
 	{
-		"phrase": "Joining in",
-		"comment": "[Party Banner] The full phrase is: 'Joining in 10 seconds'",
-		"translation": "Uniendose en"
-	},
-	{
 		"phrase": "Weapon",
 		"comment": "[Progression UI] Placeholder text",
 		"translation": "Arma"
@@ -7004,5 +6292,1818 @@
 		"phrase": "Shadows Disabled",
 		"comment": "[Setting] [Slider] [Minimum Value]",
 		"translation": "Sombras deshabilitadas"
+	},
+	{
+		"phrase": "Unable to redeploy while spawning",
+		"comment": "[Admin chat message]",
+		"translation": "No se puede volver a desplegar mientras se genera",
+		"machine": true
+	},
+	{
+		"phrase": "You may only run commands in a custom lobby that you claimed",
+		"comment": "[Admin chat message]",
+		"translation": "Solo puede ejecutar comandos en un lobby personalizado que haya reclamado",
+		"machine": true
+	},
+	{
+		"phrase": "Your party cannot fit on one team and may be split up",
+		"comment": "[Admin chat message]",
+		"translation": "Tu grupo no puede caber en un equipo y puede dividirse",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot claim this lobby as a tournament is running",
+		"comment": "[Admin chat message]",
+		"translation": "No puedes reclamar este lobby mientras se está ejecutando un torneo.",
+		"machine": true
+	},
+	{
+		"phrase": "You may only claim empty lobbies",
+		"comment": "[Admin chat message]",
+		"translation": "Solo puede reclamar vestíbulos vacíos",
+		"machine": true
+	},
+	{
+		"phrase": "Max level must not be less than min level",
+		"comment": "[Admin chat message]",
+		"translation": "El nivel máximo no debe ser inferior al nivel mínimo",
+		"machine": true
+	},
+	{
+		"phrase": "This lobby has already been claimed",
+		"comment": "[Admin chat message]",
+		"translation": "Este lobby ya ha sido reclamado",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn position set",
+		"comment": "[Admin chat message]",
+		"translation": "Conjunto de posiciones de aparición",
+		"machine": true
+	},
+	{
+		"phrase": "Creating teams. Spawn when the pre-match timer has finished",
+		"comment": "[Admin chat message]",
+		"translation": "Creando equipos. Aparece cuando el temporizador previo al partido ha terminado.",
+		"machine": true
+	},
+	{
+		"phrase": "You must join a team before you can respawn",
+		"comment": "[Admin chat message]",
+		"translation": "Debes unirte a un equipo antes de poder reaparecer.",
+		"machine": true
+	},
+	{
+		"phrase": "You must wait for the tournament to commence before respawning",
+		"comment": "[Admin chat message]",
+		"translation": "Debes esperar a que comience el torneo antes de reaparecer.",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams before the match has started",
+		"comment": "[Admin chat message]",
+		"translation": "No se puede cambiar de equipo antes de que comience el partido",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams during the tournament",
+		"comment": "[Admin chat message]",
+		"translation": "No se puede cambiar de equipo durante el torneo.",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while spawning",
+		"comment": "[Admin chat message]",
+		"translation": "No se puede cambiar de equipo mientras se genera",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while the round is running",
+		"comment": "[Admin chat message] This shows during Arena matches",
+		"translation": "No se puede cambiar de equipo mientras se ejecuta la ronda.",
+		"machine": true
+	},
+	{
+		"phrase": "Your votekick permissions have been revoked",
+		"comment": "[Admin chat message]",
+		"translation": "Se revocaron sus permisos de kickkick",
+		"machine": true
+	},
+	{
+		"phrase": "You're meant to get along with the other mods",
+		"comment": "[Admin chat message] This shows when a mod tries to votekick another mod",
+		"translation": "Estás destinado a llevarte bien con los otros mods",
+		"machine": true
+	},
+	{
+		"phrase": "A tournament is currently running",
+		"comment": "[Admin chat message]",
+		"translation": "Actualmente se está celebrando un torneo",
+		"machine": true
+	},
+	{
+		"phrase": "A tournament is currently running and you are now spectating",
+		"comment": "[Admin chat message]",
+		"translation": "Actualmente se está celebrando un torneo y ahora estás viendo",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full",
+		"comment": "[Admin chat message]",
+		"translation": "El servidor está lleno",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full and you are now spectating",
+		"comment": "[Admin chat message]",
+		"translation": "El servidor está lleno y ahora estás mirando",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has been disbanded due to team imbalance",
+		"comment": "[Admin chat message]",
+		"translation": "Tu grupo se ha disuelto debido al desequilibrio del equipo.",
+		"machine": true
+	},
+	{
+		"phrase": "This server requires a system restart and will restart at the end of the round. Thank you for playing! - Verc",
+		"comment": "[Admin chat message]",
+		"translation": "Este servidor requiere un reinicio del sistema y se reiniciará al final de la ronda. ¡gracias por jugar! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "This server will quickly patch at the end of this round. You do NOT need to update your client and you can remain in this lobby. Thank you for playing! - Verc",
+		"comment": "[Admin chat message]",
+		"translation": "Este servidor corregirá rápidamente al final de esta ronda. NO necesita actualizar a su cliente y puede permanecer en este lobby. ¡gracias por jugar! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalance complete",
+		"comment": "[Admin chat message]",
+		"translation": "Autobalance completo",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalance paused",
+		"comment": "[Admin chat message]",
+		"translation": "Autobalance en pausa",
+		"machine": true
+	},
+	{
+		"phrase": "Wave Defence",
+		"comment": "Game mode name",
+		"translation": "Defensa de olas",
+		"machine": true
+	},
+	{
+		"phrase": "Compensator",
+		"comment": "Barrel attachment name",
+		"translation": "Compensador",
+		"machine": true
+	},
+	{
+		"phrase": "Sticky",
+		"comment": "Ammo type name - an explosive projectile sticks to the wall on impact before exploding",
+		"translation": "Pegajoso",
+		"machine": true
+	},
+	{
+		"phrase": "Cluster",
+		"comment": "Ammo type name - an explosive projectile explodes into a cluster of 3 explosives",
+		"translation": "Grupo",
+		"machine": true
+	},
+	{
+		"phrase": "Fragmentation",
+		"comment": "Payload attachment name",
+		"translation": "Fragmentación",
+		"machine": true
+	},
+	{
+		"phrase": "Bounce",
+		"comment": "[Grenade Type]",
+		"translation": "Bote",
+		"machine": true
+	},
+	{
+		"phrase": "High Block Damage",
+		"comment": "[Grenade Payload] Deals high block damage and low player damage",
+		"translation": "Alto daño de bloque",
+		"machine": true
+	},
+	{
+		"phrase": "High Player Damage",
+		"comment": "[Grenade Payload] Deals high player damage and low block damage",
+		"translation": "Alto daño al jugador",
+		"machine": true
+	},
+	{
+		"phrase": "Move around",
+		"comment": "[Tutorial UI]",
+		"translation": "Moverse",
+		"machine": true
+	},
+	{
+		"phrase": "Sprint along the path",
+		"comment": "[Tutorial UI]",
+		"translation": "Sprint a lo largo del camino",
+		"machine": true
+	},
+	{
+		"phrase": "Crouch through the tunnel",
+		"comment": "[Tutorial UI]",
+		"translation": "Agáchate por el túnel",
+		"machine": true
+	},
+	{
+		"phrase": "Crouch while sprinting to slide",
+		"comment": "[Tutorial UI]",
+		"translation": "Agáchate mientras corres para deslizarte",
+		"machine": true
+	},
+	{
+		"phrase": "Jump over the gap",
+		"comment": "[Tutorial UI]",
+		"translation": "Salta por encima de la brecha",
+		"machine": true
+	},
+	{
+		"phrase": "Dig through the wall",
+		"comment": "[Tutorial UI]",
+		"translation": "Cavar a través de la pared",
+		"machine": true
+	},
+	{
+		"phrase": "Click, hold and drag between the cubes to build over the wall",
+		"comment": "[Tutorial UI]",
+		"translation": "Haga clic, mantenga presionado y arrastre entre los cubos para construir sobre la pared",
+		"machine": true
+	},
+	{
+		"phrase": "Look for a weapon",
+		"comment": "[Tutorial UI]",
+		"translation": "Busca un arma",
+		"machine": true
+	},
+	{
+		"phrase": "Bridge the gap",
+		"comment": "[Tutorial UI]",
+		"translation": "Cubre la brecha",
+		"machine": true
+	},
+	{
+		"phrase": "Inspect the crate",
+		"comment": "[Tutorial UI]",
+		"translation": "Inspecciona la caja",
+		"machine": true
+	},
+	{
+		"phrase": "Build defences",
+		"comment": "[Tutorial UI]",
+		"translation": "Construye defensas",
+		"machine": true
+	},
+	{
+		"phrase": "Take out the Renegades",
+		"comment": "[Tutorial UI]",
+		"translation": "Saca a los renegados",
+		"machine": true
+	},
+	{
+		"phrase": "Advance to the end of the walkway",
+		"comment": "[Tutorial UI]",
+		"translation": "Avanza hasta el final de la pasarela",
+		"machine": true
+	},
+	{
+		"phrase": "Take out the remaining Renegades",
+		"comment": "[Tutorial UI]",
+		"translation": "Elimina a los renegados restantes",
+		"machine": true
+	},
+	{
+		"phrase": "Secure the canister",
+		"comment": "[Tutorial UI]",
+		"translation": "Asegure el recipiente",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment Point",
+		"comment": "[Career Path] [Unit] i.e. '1 Attachment Point'",
+		"translation": "Punto de fijación",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment Points",
+		"comment": "[Career Path] [Unit] [Plural] i.e. '2 Attachment Points'",
+		"translation": "Puntos de sujeción",
+		"machine": true
+	},
+	{
+		"phrase": "Boost",
+		"comment": "[Career Path] i.e. '50% Proton Boost'",
+		"translation": "Aumentar",
+		"machine": true
+	},
+	{
+		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
+		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
+		"translation": "[Configuración> rendimiento> máscaras de bloques animados] deben estar habilitadas para que las máscaras de bloques animados se representen correctamente",
+		"machine": true
+	},
+	{
+		"phrase": "Progressions will appear here after playing your first match",
+		"comment": "This text shows on the Career tab when the player has not played their first match yet",
+		"translation": "Las progresiones aparecerán aquí después de jugar tu primer partido",
+		"machine": true
+	},
+	{
+		"phrase": "Build with your MiDi to create a tactical advantage against your opponents",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Construye con tu miDi para crear una ventaja táctica contra tus oponentes",
+		"machine": true
+	},
+	{
+		"phrase": "The MiDi can be a deadly weapon up close... with unlimited ammo",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "El miDi puede ser un arma mortal de cerca... con munición ilimitada",
+		"machine": true
+	},
+	{
+		"phrase": "Train your movement in the parkour room in the ship",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Entrena tu movimiento en la sala de parkour del barco.",
+		"machine": true
+	},
+	{
+		"phrase": "Scanners reveal the position of nearby enemies",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Los escáneres revelan la posición de los enemigos cercanos.",
+		"machine": true
+	},
+	{
+		"phrase": "Traversing lava can be dangerous",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Atravesar la lava puede ser peligroso",
+		"machine": true
+	},
+	{
+		"phrase": "Your melee can be useful in many situations",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Tu cuerpo a cuerpo puede ser útil en muchas situaciones.",
+		"machine": true
+	},
+	{
+		"phrase": "Grenade launcher shells bounce over cover and around corners",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Los proyectiles del lanzagranadas rebotan sobre la cubierta y alrededor de las esquinas",
+		"machine": true
+	},
+	{
+		"phrase": "You can hide disrupters behind walls and under floors to give your opponents a shocking surprise",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Puedes esconder disruptores detrás de las paredes y debajo del piso para darles a tus oponentes una sorpresa impactante.",
+		"machine": true
+	},
+	{
+		"phrase": "Moving underwater is a great way to sneak up on your enemies",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Moverse bajo el agua es una excelente manera de acercarse sigilosamente a sus enemigos",
+		"machine": true
+	},
+	{
+		"phrase": "Sometimes breaching through the main entrance is not the wisest idea",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "A veces, atravesar la entrada principal no es la idea más inteligente.",
+		"machine": true
+	},
+	{
+		"phrase": "The shooting range is a great place to test out the plethora of weaponry at your disposal",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "El campo de tiro es un gran lugar para probar la gran cantidad de armamento a su disposición.",
+		"machine": true
+	},
+	{
+		"phrase": "Take alternate paths to get the jump on your enemy",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Toma caminos alternativos para saltar sobre tu enemigo",
+		"machine": true
+	},
+	{
+		"phrase": "Falling into water negates fall damage",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Caer al agua niega el daño por caída",
+		"machine": true
+	},
+	{
+		"phrase": "The Arena is a great place to be exposed to new weapons and loadouts",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "La arena es un gran lugar para estar expuesto a nuevas armas y equipamientos.",
+		"machine": true
+	},
+	{
+		"phrase": "Be careful, Soltrium Canisters in the Crashed Freighter are explosive",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Tenga cuidado, los botes de soltrio en el carguero estrellado son explosivos",
+		"machine": true
+	},
+	{
+		"phrase": "Block health is indicated by colour. The darker the block, the closer it is to breaking",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "La salud del bloque está indicada por el color. Cuanto más oscuro es el bloque, más cerca está de romperse",
+		"machine": true
+	},
+	{
+		"phrase": "Watch out for heights, death is everywhere",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Cuidado con las alturas, la muerte está en todas partes",
+		"machine": true
+	},
+	{
+		"phrase": "If you are having a hard time getting kills, try changing your loadout",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Si tiene dificultades para matar, intente cambiar su equipamiento",
+		"machine": true
+	},
+	{
+		"phrase": "Use the Soltrium trail from the Rail Gun to locate enemy players",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Usa el rastro del soltrio del cañón de riel para localizar a los jugadores enemigos",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the Kinetic modification in your loadout to launch yourself with explosives",
+		"comment": "Advice text that shows while the game is starting up",
+		"translation": "Equipa la modificación cinética en tu equipamiento para lanzarte con explosivos",
+		"machine": true
+	},
+	{
+		"phrase": "First team to win {0} rounds",
+		"comment": "[Gamemode Info] [Win requirement] [Arena] Parameter 0: '5'",
+		"translation": "Primer equipo en ganar rondas {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
+		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
+		"translation": "El soltrio se encuentra esparcido por todo el sector exterior. Se han enviado varios batallones {0} y {1} para buscar y recolectar el preciado recurso..",
+		"machine": true
+	},
+	{
+		"phrase": "The first team to {0} points wins",
+		"comment": "[Gamemode Info] [Win Requirement] [Salvage] Parameter 0: '500'",
+		"translation": "El primer equipo en {0} puntos gana",
+		"machine": true
+	},
+	{
+		"phrase": "Capture all zones to win",
+		"comment": "[Gamemode Info] [Win Requirement] [Breakthrough]",
+		"translation": "Captura todas las zonas para ganar",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver the flag {0} times to win",
+		"comment": "[Gamemode Info] [Win requirement] [Escort] Parameter 0: '3'",
+		"translation": "Entrega la bandera {0} veces para ganar",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver the bomb {0} times to win",
+		"comment": "[Gamemode Info] [Win requirement] [CTF] Parameter 0: '3'",
+		"translation": "Entrega la bomba {0} veces para ganar",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up {0} from enemy corpses",
+		"comment": "[Gamemode Info] [Description] [Head Hunter] Parameter 0: 'Soltrium'",
+		"translation": "Recoge {0} de los cadáveres enemigos.",
+		"machine": true
+	},
+	{
+		"phrase": "You can hold {0} to reveal enemy positions to teammates",
+		"comment": "[Connecting] [Loading Tip 1] Parameter 0: '[ Q ]'",
+		"translation": "Puedes mantener presionada la tecla {0} para revelar las posiciones enemigas a tus compañeros de equipo.",
+		"machine": true
+	},
+	{
+		"phrase": "You can press {0} to provide feedback",
+		"comment": "[Connecting] [Loading Tip 2] Parameter 0: '[ F1 ]'",
+		"translation": "Puede presionar {0} para proporcionar comentarios",
+		"machine": true
+	},
+	{
+		"phrase": "Before uploading maps to the {0}, you must agree to the",
+		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
+		"translation": "Antes de cargar mapas en el {0}, debe aceptar las",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Terms of Service",
+		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
+		"translation": "Condiciones de servicio de {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Area",
+		"comment": "[Custom Maps] This refers to an area that a canister can spawn in during Salvage, i.e. 'Area 3'",
+		"translation": "Zona",
+		"machine": true
+	},
+	{
+		"phrase": "Zone",
+		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Zone B'",
+		"translation": "Zona",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough Zone",
+		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Breakthrough Zone D'",
+		"translation": "Zona de avance",
+		"machine": true
+	},
+	{
+		"phrase": "Flag",
+		"comment": "[Custom Maps] This refers to the flag you carry in Capture the Flag",
+		"translation": "Bandera",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb",
+		"comment": "[Custom Maps] This refers to the bomb you carry in Escort",
+		"translation": "Bomba",
+		"machine": true
+	},
+	{
+		"phrase": "HH",
+		"comment": "[Custom Maps] [Abbreviation] The initials of 'Head Hunter'",
+		"translation": "S.S",
+		"machine": true
+	},
+	{
+		"phrase": "FFA Spawn",
+		"comment": "[Custom Maps] This refers to an area that you can respawn in during a FFA match",
+		"translation": "Engendro FFA",
+		"machine": true
+	},
+	{
+		"phrase": "High",
+		"context": "High quality",
+		"comment": "Graphics preset",
+		"translation": "Elevado",
+		"machine": true
+	},
+	{
+		"phrase": "Medium",
+		"context": "Medium quality",
+		"comment": "Graphics preset",
+		"translation": "Medio",
+		"machine": true
+	},
+	{
+		"phrase": "Low",
+		"context": "Low quality",
+		"comment": "Graphics preset",
+		"translation": "Bajo",
+		"machine": true
+	},
+	{
+		"phrase": "Toaster",
+		"comment": "Graphics preset",
+		"translation": "Tostadora",
+		"machine": true
+	},
+	{
+		"phrase": "Potato",
+		"context": "Garbage",
+		"comment": "Graphics preset",
+		"translation": "Patata",
+		"machine": true
+	},
+	{
+		"phrase": "No matching servers",
+		"comment": "[Server List] This text shows if no servers matched the user's filters",
+		"translation": "No hay servidores coincidentes",
+		"machine": true
+	},
+	{
+		"phrase": "Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Haz clic derecho en un lobby vacío para reclamarlo.\nSolo puede reclamar 3 lobbies por día.",
+		"machine": true
+	},
+	{
+		"phrase": "Servers",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty \/ full \/ low level \/ etc check boxes",
+		"translation": "Servidores",
+		"machine": true
+	},
+	{
+		"phrase": "Empty",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
+		"translation": "Vacío",
+		"machine": true
+	},
+	{
+		"phrase": "Full",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that have full capacity",
+		"translation": "Lleno",
+		"machine": true
+	},
+	{
+		"phrase": "Bots",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that only have bots in them",
+		"translation": "Bots",
+		"machine": true
+	},
+	{
+		"phrase": "Spain",
+		"comment": "[Server List] [Filter]",
+		"translation": "España",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "[Setting Tooltip] Peacekeeper description. Parameter 0: '20', Parameter 1: '1', Parameter 2: '-35%', Parameter 3: '+35%'",
+		"translation": "Los enemigos se resaltarán si tienen un nivel {0} o menos y un KDR de {1} o menos..\n\nMientras el mantenimiento de la paz esté habilitado, inflige daño {2} a estos jugadores y gana {3} XP y protones adicionales.\n\nLos cambios surten efecto en la reaparición. pacificador no tiene ningún efecto en gratis para todos los modos de juego.",
+		"machine": true
+	},
+	{
+		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
+		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
+		"translation": "Esto controla la escala de toda la interfaz de usuario y el HUD del juego. presione {0} para restablecerlo de nuevo a 100%",
+		"machine": true
+	},
+	{
+		"phrase": "Enable this to make {0} dig single blocks and {1} dig a 3x3x3 area",
+		"translation": "Habilite esto para hacer que {0} excave bloques individuales y {1} excave un área de 3x3x3",
+		"machine": true
+	},
+	{
+		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creator.\nClick here for more info!\nThis promotion ends in",
+		"comment": "[Store Screen]",
+		"translation": "Ingrese un código de creador al finalizar la compra para ahorrar un 10% y apoyar a un creador de contenido.\nHaga clic aquí para más información!\nEsta promoción termina en",
+		"machine": true
+	},
+	{
+		"phrase": "ADS colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of the crosshairs inside your gun scope. 'ADS' stands for 'Aiming Down the Sights'",
+		"translation": "Color de los anuncios",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire colour",
+		"comment": "[Colour Picker] [Title] This colour picker controls the colour of your hipfire crosshairs. 'ADS' stands for 'Aiming Down the Sights'",
+		"translation": "Color de fuego de cadera",
+		"machine": true
+	},
+	{
+		"phrase": "Free weapon skin available!",
+		"comment": "[Weapons] This label shows when a free weapon skin is available for a weapon'",
+		"translation": "Piel de arma gratis disponible!",
+		"machine": true
+	},
+	{
+		"phrase": "A player",
+		"comment": "[Placeholder] Placeholder name for a player, e.g. 'A player has taken our flag'",
+		"translation": "Un jugador",
+		"machine": true
+	},
+	{
+		"phrase": "Has stolen our flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen our flag'",
+		"translation": "Ha robado nuestra bandera",
+		"machine": true
+	},
+	{
+		"phrase": "Has stolen the enemy flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen the enemy flag'",
+		"translation": "Ha robado la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "Has picked up the enemy bomb",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
+		"translation": "Ha recogido la bomba enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "Has picked up our bomb",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up our bomb'",
+		"translation": "Ha recogido nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "You have picked up the enemy flag",
+		"comment": "[Announcement]'",
+		"translation": "Has recogido la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "You have picked up our bomb",
+		"comment": "[Announcement]'",
+		"translation": "Has recogido nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy flag carrier has been killed",
+		"comment": "[Announcement]'",
+		"translation": "El portaaviones de bandera enemigo ha sido asesinado.",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy bomb carrier has been killed",
+		"comment": "[Announcement]'",
+		"translation": "El portador de bombas enemigo ha muerto.",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy has dropped our flag",
+		"comment": "[Announcement]'",
+		"translation": "El enemigo ha bajado nuestra bandera",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy has dropped their bomb",
+		"comment": "[Announcement]'",
+		"translation": "El enemigo ha lanzado su bomba",
+		"machine": true
+	},
+	{
+		"phrase": "Our flag carrier has been killed",
+		"comment": "[Announcement]'",
+		"translation": "Nuestro portaaviones ha sido asesinado",
+		"machine": true
+	},
+	{
+		"phrase": "Our bomb carrier has been killed",
+		"comment": "[Announcement]'",
+		"translation": "Nuestro portabombas ha sido asesinado",
+		"machine": true
+	},
+	{
+		"phrase": "You have dropped the enemy flag",
+		"comment": "[Announcement]'",
+		"translation": "Has soltado la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "You have dropped our bomb",
+		"comment": "[Announcement]'",
+		"translation": "Has tirado nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "Has dropped the enemy flag",
+		"comment": "[Announcement]'",
+		"translation": "Ha dejado caer la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "Has dropped our bomb",
+		"comment": "[Announcement]'",
+		"translation": "Ha dejado caer nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "Has captured our flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured our flag'",
+		"translation": "Ha capturado nuestra bandera",
+		"machine": true
+	},
+	{
+		"phrase": "Has delivered their bomb",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
+		"translation": "Ha entregado su bomba",
+		"machine": true
+	},
+	{
+		"phrase": "Has captured the enemy flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured the enemy flag'",
+		"translation": "Ha capturado la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "Has delivered our bomb",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
+		"translation": "Ha entregado nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "has joined the chaos",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "se ha unido al caos",
+		"machine": true
+	},
+	{
+		"phrase": "brings chaos and destruction",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "trae caos y destrucción",
+		"machine": true
+	},
+	{
+		"phrase": "has just landed",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "acaba de aterrizar",
+		"machine": true
+	},
+	{
+		"phrase": "has arrived for battle",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "ha llegado para la batalla",
+		"machine": true
+	},
+	{
+		"phrase": "is ready to fight",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "está listo para pelear",
+		"machine": true
+	},
+	{
+		"phrase": "is prepared for destruction",
+		"comment": "This is a random welcome message that appears when a player joins the",
+		"translation": "está preparado para la destrucción",
+		"machine": true
+	},
+	{
+		"phrase": "will never give you up",
+		"comment": "This is a rare welcome message that appears when a player joins the",
+		"translation": "nunca te rendiré",
+		"machine": true
+	},
+	{
+		"phrase": "will never let you down",
+		"comment": "This is a rare welcome message that appears when a player joins the",
+		"translation": "nunca te defraudará",
+		"machine": true
+	},
+	{
+		"phrase": "Is now spectating",
+		"comment": "This text shows when a player abandons Helix and becomes a spectator",
+		"translation": "Ahora es espectador",
+		"machine": true
+	},
+	{
+		"phrase": "Has left the planet",
+		"comment": "This text shows when a player leaves the server",
+		"translation": "Ha dejado el planeta",
+		"machine": true
+	},
+	{
+		"phrase": "Scan initiated - new canister located",
+		"comment": "[Announcement] This text appears when one canister depletes and another appears",
+		"translation": "Escaneo iniciado: nuevo recipiente localizado",
+		"machine": true
+	},
+	{
+		"phrase": "The canister has been depleted!",
+		"comment": "[Announcement] This text appears when all Soltrium has been extracted from a canister",
+		"translation": "El recipiente se ha agotado!",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode enabled",
+		"comment": "[Announcement]",
+		"translation": "Modo eterno habilitado",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode disabled",
+		"comment": "[Announcement]",
+		"translation": "Modo eterno desactivado",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode enabled",
+		"comment": "[Announcement]",
+		"translation": "Modo de zona de pruebas habilitado",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode disabled",
+		"comment": "[Announcement]",
+		"translation": "Modo de zona de pruebas deshabilitado",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode enabled",
+		"comment": "[Announcement]",
+		"translation": "Modo de remolque habilitado",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode disabled",
+		"comment": "[Announcement]",
+		"translation": "Modo de remolque deshabilitado",
+		"machine": true
+	},
+	{
+		"phrase": "Admin",
+		"comment": "[Chat] This is the name of the admin user, i.e. 'Admin: Inkhorror is the worst mod'",
+		"translation": "Administración",
+		"machine": true
+	},
+	{
+		"phrase": "Movement Speed",
+		"comment": "Spectator control",
+		"translation": "Velocidad de movimiento",
+		"machine": true
+	},
+	{
+		"phrase": "Clamp Y",
+		"context": "Clamp Y Axis",
+		"comment": "Spectator control",
+		"translation": "Abrazadera Y",
+		"machine": true
+	},
+	{
+		"phrase": "X-Ray",
+		"comment": "Spectator control",
+		"translation": "radiografía",
+		"machine": true
+	},
+	{
+		"phrase": "Smooth",
+		"comment": "Spectator control. Smooth camera movement",
+		"translation": "Liso",
+		"machine": true
+	},
+	{
+		"phrase": "Cycle Players",
+		"comment": "Spectator control. The full phrase is: 'Cycle Players [ Q \/ E ]'",
+		"translation": "Jugadores de ciclo",
+		"machine": true
+	},
+	{
+		"phrase": "Third Person",
+		"comment": "Spectator control. Change to third person camera",
+		"translation": "Tercera persona",
+		"machine": true
+	},
+	{
+		"phrase": "First Person",
+		"comment": "Spectator control. Change to first person camera",
+		"translation": "Primera persona",
+		"machine": true
+	},
+	{
+		"phrase": "Fly camera",
+		"comment": "Spectator control. Change to free camera mode",
+		"translation": "Cámara de vuelo",
+		"machine": true
+	},
+	{
+		"phrase": "Anchored",
+		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
+		"translation": "Anclado",
+		"machine": true
+	},
+	{
+		"phrase": "Select Player",
+		"comment": "Spectator control. Enter first-person spectate mode for the player you are looking",
+		"translation": "Seleccionar jugador",
+		"machine": true
+	},
+	{
+		"phrase": "Show Paths",
+		"comment": "Spectator control. Show waypoint paths that you have created",
+		"translation": "Mostrar caminos",
+		"machine": true
+	},
+	{
+		"phrase": "Show Full Paths",
+		"context": "Show Detailed Paths",
+		"comment": "Spectator control. Show every position in waypoint paths",
+		"translation": "Mostrar rutas completas",
+		"machine": true
+	},
+	{
+		"phrase": "Play Path",
+		"comment": "Spectator control. Make the camera follow a path",
+		"translation": "Ruta de juego",
+		"machine": true
+	},
+	{
+		"phrase": "Create Path",
+		"comment": "Spectator control. Start creating a new path",
+		"translation": "Crear ruta",
+		"machine": true
+	},
+	{
+		"phrase": "Edit Path",
+		"comment": "Spectator control. Edit an existing path",
+		"translation": "Editar trayectoria",
+		"machine": true
+	},
+	{
+		"phrase": "Set Waypoint",
+		"comment": "Spectator control. Add a waypoint to the path you are currently editing",
+		"translation": "Establecer punto de ruta",
+		"machine": true
+	},
+	{
+		"phrase": "Delete Waypoint",
+		"comment": "Spectator control. Delete a waypoint from the path you are currently editing",
+		"translation": "Eliminar waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Undo Changes",
+		"comment": "Spectator control. Stop editing a path and don't save changes",
+		"translation": "Deshacer cambios",
+		"machine": true
+	},
+	{
+		"phrase": "Save Changes",
+		"comment": "Spectator control. Stop editing a path and save the changes you made",
+		"translation": "Guardar cambios",
+		"machine": true
+	},
+	{
+		"phrase": "Next Waypoint",
+		"comment": "Spectator control. When editing an existing path, advance to the next waypoint",
+		"translation": "Siguiente punto de ruta",
+		"machine": true
+	},
+	{
+		"phrase": "Previous Waypoint",
+		"comment": "Spectator control. When editing an existing path, go back to the previous waypoint",
+		"translation": "Punto de ruta anterior",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Killfeed",
+		"context": "Toggle Kill Feed",
+		"comment": "Spectator control",
+		"translation": "Alternar killfeed",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Help",
+		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
+		"translation": "Alternar ayuda",
+		"machine": true
+	},
+	{
+		"phrase": "Anchor Distance",
+		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
+		"translation": "Distancia de anclaje",
+		"machine": true
+	},
+	{
+		"phrase": "Select Aegis",
+		"comment": "Spectator control. Spectate an Aegis player so you can learn to play well",
+		"translation": "Seleccionar una égida",
+		"machine": true
+	},
+	{
+		"phrase": "Select Helix",
+		"comment": "Spectator control. Spectate an Helix player so you can watch them hide underground",
+		"translation": "Seleccionar hélice",
+		"machine": true
+	},
+	{
+		"phrase": "Creating path",
+		"comment": "[Spectate UI] The full phrase is: 'Creating path 1'",
+		"translation": "Creando camino",
+		"machine": true
+	},
+	{
+		"phrase": "Editing path",
+		"comment": "[Spectate UI] The full phrase is: 'Editing path 2'",
+		"translation": "Editar ruta",
+		"machine": true
+	},
+	{
+		"phrase": "Team",
+		"comment": "[Chat] This is the prefix for a team chat message, e.g. '[TEAM] Dirt Master: Im staying up past my bed time, dont tell anyone'",
+		"translation": "Equipo",
+		"machine": true
+	},
+	{
+		"phrase": "Loading audio",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Cargando audio",
+		"machine": true
+	},
+	{
+		"phrase": "Loading textures",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Cargando texturas",
+		"machine": true
+	},
+	{
+		"phrase": "Loading models",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Carga de modelos",
+		"machine": true
+	},
+	{
+		"phrase": "There was an error initialising shaders. Please follow the instructions at {0} to submit your log files and help solve this issue",
+		"comment": "[Error] [Message Popup] Parameter 0: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Se produjo un error al inicializar los sombreadores. siga las instrucciones en {0} para enviar sus archivos de registro y ayudar a resolver este problema",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} or {1} to change team mates",
+		"comment": "Arena spectator text. Parameter 0: '[ Q ]', Parameter 1: '[ E ]'",
+		"translation": "Pulsa {0} o {1} para cambiar de compañero.",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to drop the flag",
+		"comment": "[Input Prompt] Parameter 0: '[ C ]'",
+		"translation": "Presione {0} para dejar caer la bandera",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to drop the bomb",
+		"comment": "[Input Prompt] Parameter 0: '[ C ]'",
+		"translation": "Pulsa {0} para soltar la bomba.",
+		"machine": true
+	},
+	{
+		"phrase": "1st",
+		"comment": "[Abbreviation] Head Hunter text, abbreviation for first place",
+		"translation": "1er",
+		"machine": true
+	},
+	{
+		"phrase": "2nd",
+		"comment": "[Abbreviation] Head Hunter text, abbreviation for second place",
+		"translation": "2do",
+		"machine": true
+	},
+	{
+		"phrase": "Respawning in {0}s",
+		"comment": "Respawn text in the ship.",
+		"translation": "Reapareciendo en {0}s",
+		"machine": true
+	},
+	{
+		"phrase": "Shoot the targets and try different weapons. Press {0} to set up a loadout",
+		"comment": "[Tutorial] Parameter 0: '[ F2 ]'",
+		"translation": "Dispara a los objetivos y prueba diferentes armas. presione {0} para configurar una carga",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Play a Match",
+		"context": "{0} Play a Game",
+		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. Parameter 0: '[ M ]'",
+		"translation": "{0} jugar un partido",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Enter Trials",
+		"context": "{0} Enter the Trials",
+		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. Parameter 0: '[ T ]'",
+		"translation": "{0} Entrar en pruebas",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Replay Tutorial",
+		"context": "{0} Replay the Tutorial",
+		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. Parameter 0: '[ T ]'",
+		"translation": "Tutorial de repetición de {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Reset Ship",
+		"context": "{0} Reset the Ship",
+		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. Parameter 0: '[ F ]'",
+		"translation": "{0} Reiniciar nave",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to restart",
+		"comment": "[Trial] [Input Prompt] Parameter 0: '[ R ]'",
+		"translation": "Presione {0} para reiniciar",
+		"machine": true
+	},
+	{
+		"phrase": "Loading settings",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Cargando configuración",
+		"machine": true
+	},
+	{
+		"phrase": "Loading maps",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Cargando mapas",
+		"machine": true
+	},
+	{
+		"phrase": "Creating scenes",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Creando escenas",
+		"machine": true
+	},
+	{
+		"phrase": "Meshing worlds",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up. 'Meshing worlds' refers to generating the 3D mesh for maps.",
+		"translation": "Mundos de malla",
+		"machine": true
+	},
+	{
+		"phrase": "Cleaning up",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Limpiar",
+		"machine": true
+	},
+	{
+		"phrase": "Ready",
+		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
+		"translation": "Listo",
+		"machine": true
+	},
+	{
+		"phrase": "Waiting for players",
+		"comment": "[Rich Presence]",
+		"translation": "Esperando jugadores",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their character",
+		"comment": "[Rich Presence]",
+		"translation": "Personalizando su carácter",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their weapons",
+		"comment": "[Rich Presence]",
+		"translation": "Personalizando sus armas",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their blocks",
+		"comment": "[Rich Presence]",
+		"translation": "Personalizando sus bloques",
+		"machine": true
+	},
+	{
+		"phrase": "Modifying their loadouts",
+		"comment": "[Rich Presence]",
+		"translation": "Modificando sus equipamientos",
+		"machine": true
+	},
+	{
+		"phrase": "Reading the news",
+		"comment": "[Rich Presence]",
+		"translation": "Leyendo las noticias",
+		"machine": true
+	},
+	{
+		"phrase": "Browsing the store",
+		"comment": "[Rich Presence]",
+		"translation": "Navegando por la tienda",
+		"machine": true
+	},
+	{
+		"phrase": "Wishing clans were implemented",
+		"comment": "[Rich Presence]",
+		"translation": "Deseando que los clanes fueran implementados",
+		"machine": true
+	},
+	{
+		"phrase": "Competing in the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Competir en las pruebas",
+		"machine": true
+	},
+	{
+		"phrase": "Completing the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Completando las pruebas",
+		"machine": true
+	},
+	{
+		"phrase": "Trialing out a few things",
+		"comment": "[Rich Presence]",
+		"translation": "Probar algunas cosas",
+		"machine": true
+	},
+	{
+		"phrase": "Mastering the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Dominando las pruebas",
+		"machine": true
+	},
+	{
+		"phrase": "Speedrunning the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Acelerando las pruebas",
+		"machine": true
+	},
+	{
+		"phrase": "Giving the ship a trial",
+		"comment": "[Rich Presence]",
+		"translation": "Dando una prueba al barco",
+		"machine": true
+	},
+	{
+		"phrase": "Completing the tutorial",
+		"comment": "[Rich Presence]",
+		"translation": "Completando el tutorial",
+		"machine": true
+	},
+	{
+		"phrase": "Modifying their structures",
+		"comment": "[Rich Presence]",
+		"translation": "Modificando sus estructuras",
+		"machine": true
+	},
+	{
+		"phrase": "Shooting range",
+		"comment": "[Rich Presence]",
+		"translation": "Rango de disparo",
+		"machine": true
+	},
+	{
+		"phrase": "In the parkour room",
+		"comment": "[Rich Presence]",
+		"translation": "En la sala de parkour",
+		"machine": true
+	},
+	{
+		"phrase": "Relaxing in their ship",
+		"comment": "[Rich Presence]",
+		"translation": "Relajándose en su barco",
+		"machine": true
+	},
+	{
+		"phrase": "Designing a custom map",
+		"comment": "[Rich Presence]",
+		"translation": "Diseñar un mapa personalizado",
+		"machine": true
+	},
+	{
+		"phrase": "Browsing the server list",
+		"comment": "[Rich Presence]",
+		"translation": "Navegando por la lista de servidores",
+		"machine": true
+	},
+	{
+		"phrase": "Title screen",
+		"comment": "[Rich Presence]",
+		"translation": "Pantalla de título",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to cancel",
+		"comment": "Parameter 0: '[ Escape ]'",
+		"translation": "Presione {0} para cancelar",
+		"machine": true
+	},
+	{
+		"phrase": "Full damage distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Distancia de daño total",
+		"machine": true
+	},
+	{
+		"phrase": "Least damage distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Distancia mínima de daño",
+		"machine": true
+	},
+	{
+		"phrase": "Lowest damage at distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Mínimo daño a distancia",
+		"machine": true
+	},
+	{
+		"phrase": "Round",
+		"comment": "[Attachment] [Unit] Weapon characteristic",
+		"translation": "Ronda",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks per second",
+		"comment": "[Weapon Statistics] [Unit] How many blocks a projectile travels per second",
+		"translation": "Bloques por segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Fires three times per barrel rotation",
+		"comment": "Triple ammo description",
+		"translation": "Dispara tres veces por rotación de barril",
+		"machine": true
+	},
+	{
+		"phrase": "Shoot with plasma to increase its power",
+		"comment": "Augmented ammo description",
+		"translation": "Dispara con plasma para aumentar su poder.",
+		"machine": true
+	},
+	{
+		"phrase": "Explodes into 3 clusters",
+		"comment": "Cluster ammo description",
+		"translation": "Explota en 3 grupos",
+		"machine": true
+	},
+	{
+		"phrase": "Deals more damage further away from the explosion",
+		"comment": "Fragmentation payload description",
+		"translation": "Inflige más daño más lejos de la explosión.",
+		"machine": true
+	},
+	{
+		"phrase": "Gains damage over distance",
+		"comment": "Rocket Rifle Kinetic ammo description",
+		"translation": "Obtiene daño a distancia",
+		"machine": true
+	},
+	{
+		"phrase": "Generates 5 mini orbs",
+		"comment": "Multi orb weapon description",
+		"translation": "Genera 5 mini orbes",
+		"machine": true
+	},
+	{
+		"phrase": "Generates a short plasma beam",
+		"comment": "Plasma cutter weapon description",
+		"translation": "Genera un haz de plasma corto",
+		"machine": true
+	},
+	{
+		"phrase": "Sticky grenades",
+		"comment": "[Loadout Summary] Grenade label",
+		"translation": "Granadas pegajosas",
+		"machine": true
+	},
+	{
+		"phrase": "Base amplifier",
+		"comment": "[Attachment] Midi attachment name",
+		"translation": "Amplificador base",
+		"machine": true
+	},
+	{
+		"phrase": "Points left",
+		"comment": "[Career Timeline] e.g. '1000 points left'",
+		"translation": "Puntos a la izquierda",
+		"machine": true
+	},
+	{
+		"phrase": "Infinite ammo. Type {0} in chat to set your spawn point",
+		"comment": "[Claim Window] Parameter 0: '\/setspawn'",
+		"translation": "Munición infinita. escriba {0} en el chat para establecer su punto de generación",
+		"machine": true
+	},
+	{
+		"phrase": "Next",
+		"comment": "[Victory Screen] [Navigation] Show the next career progression",
+		"translation": "próximo",
+		"machine": true
+	},
+	{
+		"phrase": "Skip",
+		"comment": "[Victory Screen] [Navigation] Skip the career progression showcase at the end of a match",
+		"translation": "Saltar",
+		"machine": true
+	},
+	{
+		"phrase": "Hold {0} to unlock the cursor",
+		"comment": "[Scoreboard] This text shows at the bottom. Parameter 0: '[ Right Click ]'",
+		"translation": "Mantenga presionado {0} para desbloquear el cursor",
+		"machine": true
+	},
+	{
+		"phrase": "Yes",
+		"comment": "Yes I would like to play Sector's Edge",
+		"translation": "sí",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to enable Dynamic Rendering Settings?",
+		"translation": "¿Le gustaría habilitar la configuración de renderizado dinámico??",
+		"machine": true
+	},
+	{
+		"phrase": "Map is still syncing. Retry in {0} seconds",
+		"comment": "[Admin chat message] The player is still loading the map and cant spawn yet. Parameter 0: '10'",
+		"translation": "El mapa aún se está sincronizando. reintentar en {0} segundos",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to respawn while the map is restoring. Retry in {0} seconds",
+		"comment": "[Admin chat message] This shows during trailer mode while the map is being restored to a previous state. Parameter 0: '10'",
+		"translation": "No se puede reaparecer mientras se restaura el mapa. reintentar en {0} segundos",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
+		"comment": "[Admin chat message] Parameter 0: '10'",
+		"translation": "No se puede cambiar de equipo mientras se restaura el mapa. reintentar en {0} segundos",
+		"machine": true
+	},
+	{
+		"phrase": "To balance the teams, {0} has moved themselves to the weaker team and will get an extra {1} Protons at the end of the round.",
+		"comment": "[Admin chat message] Parameter 0: 'Pegarex', parameter 1: '100'",
+		"translation": "Para equilibrar los equipos, {0} se ha movido al equipo más débil y obtendrá protones {1} adicionales al final de la ronda..",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers. Thank you for playing! - Verc",
+		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"translation": "Este servidor se actualizará a {0} al final del partido. DEBE actualizar su cliente a través de Steam para volver a unirse a los servidores. ¡gracias por jugar! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "The workshop map does not support the gamemode {0}",
+		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"translation": "El mapa del taller no es compatible con el modo de juego {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing in {0} seconds. [Aegis Power: {1}] [Helix Power: {2}]",
+		"comment": "[Admin chat message] Parameter 0: '10'",
+		"translation": "Equilibrio automático en {0} segundos. [potencia de la égida: {1}] [potencia de la hélice: {2}]",
+		"machine": true
+	},
+	{
+		"phrase": "Moved {0} [{1}] from {2} [Power: {3}] to {4} [Power: {5}]",
+		"comment": "[Admin chat message] Parameter 0: 'Fora', parameter 1: '18', parameter 2: 'Helix', parameter 3: '73', parameter 4: 'Aegis', parameter 5: '55'",
+		"translation": "Se movió {0} [{1}] de {2} [potencia: {3}] a {4} [potencia: {5}]",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will shut down for a system update. You will have to join another server to keep playing.",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "En {0} segundos, este servidor se apagará para una actualización del sistema. tendrás que unirte a otro servidor para seguir jugando.",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will update to {1}. You must update your client through Steam to rejoin servers.",
+		"comment": "[Admin chat message] Parameter 0: '30', parameter 1: 'Version 1.4.0'",
+		"translation": "En {0} segundos, este servidor se actualizará a {1}. debes actualizar tu cliente a través de Steam para volver a unirte a los servidores.",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will quickly patch for maintenance. You do NOT need to update your client and you can remain in this lobby.",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "En {0} segundos, este servidor se parcheará rápidamente para mantenimiento. NO necesita actualizar a su cliente y puede permanecer en este lobby.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been kicked ({1} - {2})",
+		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
+		"translation": "{0} ha sido pateado ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been kicked ({1} - {2})",
+		"comment": "[Admin chat message] Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
+		"translation": "{0} no ha sido pateado ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing in {0} seconds",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "Equilibrio automático en {0} segundos",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing now. The next player on {0} to die will be autobalanced.",
+		"comment": "[Admin chat message] Parameter 0: 'Aegis'",
+		"translation": "Equilibrio automático ahora. el próximo jugador en {0} en morir será autobalanceado.",
+		"machine": true
+	},
+	{
+		"phrase": "The map is restoring. Try again in {0} seconds",
+		"comment": "Reason for being disconnected from a server. Parameter 0: '10'",
+		"translation": "El mapa se está restaurando. inténtalo de nuevo en {0} segundos",
+		"machine": true
+	},
+	{
+		"phrase": "You can only claim {0} lobbies per day",
+		"comment": "Reason for being disconnected from a server. Parameter 0: '3'",
+		"translation": "Solo puede reclamar lobbies {0} por día",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks\n{1} blocks build distance\n{2} block health",
+		"comment": "Armour modification description. Parameter 0: '+100', parameter 1: '+2', parameter 2: '+5'",
+		"translation": "Bloques {0}\nDistancia de construcción de bloques {1}\nSalud del bloque {2}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks safe fall distance\n{1} fall damage",
+		"comment": "Armour modification description. Parameter 0: '+3', parameter 1: '-15%'",
+		"translation": "{0} bloquea la distancia de caída segura\nDaño por caída {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} self explosion knockback\n{1} self explosion damage",
+		"comment": "Armour modification description. Parameter 0: '+400%', parameter 1: '-10%'",
+		"translation": "Retroceso de autoexplosión {0}\nDaño por autoexplosión {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} health regeneration speed",
+		"comment": "Armour modification description. Parameter 0: '+20%'",
+		"translation": "Velocidad de regeneración de salud {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} movement speed",
+		"comment": "Armour modification description. Parameter 0: '+5%'",
+		"translation": "Velocidad de movimiento {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} build and dig volume\n{1} footstep volume\n{2} footstep distance",
+		"comment": "Armour modification description. Parameter 0: '-40%', parameter 1: '-15%', parameter 2: '-25%'",
+		"translation": "Volumen de construcción y excavación de {0}\nVolumen de la pisada {1}\nDistancia de pisada {2}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed",
+		"comment": "Armour modification description. Parameter 0: '+10%'",
+		"translation": "Velocidad de excavación {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} equipment ammo on every ammo pickup",
+		"comment": "Armour modification description. Parameter 0: '+20%', parameter 1: '2', parameter 2: '+1'",
+		"translation": "Velocidad de excavación {0}\nGana {1} bloques por bloque excavado\nMunición de equipo {2} en cada recogida de munición",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks safe fall distance\n{1} fall damage\n{2} block jump height",
+		"comment": "Armour modification description. Parameter 0: '+9', parameter 1: '-45%', parameter 2: '+1'",
+		"translation": "{0} bloquea la distancia de caída segura\nDaño por caída {1}\nAltura de salto del bloque {2}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} self explosion knockback\n{1}self explosion damage",
+		"comment": "Armour modification description. Parameter 0: '+500%', parameter 1: '-30%'",
+		"translation": "Retroceso de autoexplosión {0}\nDaño por explosión {1}self",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} health per ammo pickup",
+		"comment": "Armour modification description. Parameter 0: '+30%', parameter 1: '3', parameter 2: '+10%'",
+		"translation": "Velocidad de excavación {0}\nGana {1} bloques por bloque excavado\nSalud {2} por recogida de munición",
+		"machine": true
+	},
+	{
+		"phrase": "Building {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Edificio {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Digging {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Excavación {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Construir + excavar {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Protons. Lasts for {1} hour",
+		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
+		"translation": "Protones {0}. Dura {1} hora",
+		"machine": true
+	},
+	{
+		"phrase": "{0} XP. Lasts for {1} hour",
+		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
+		"translation": "{0} XP. Dura {1} hora",
+		"machine": true
+	},
+	{
+		"phrase": "Use this to unlock weapon skins on the Weapons screen",
+		"comment": "[Inventory] Weapon skin token description",
+		"translation": "Úselo para desbloquear máscaras de armas en la pantalla de armas",
+		"machine": true
+	},
+	{
+		"phrase": "This will automatically adjust your settings while you play to keep your frames-per-second stable.",
+		"translation": "Esto ajustará automáticamente tu configuración mientras juegas para mantener estables tus cuadros por segundo.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a graphics preset to continue",
+		"translation": "Seleccione un ajuste preestablecido de gráficos para continuar",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoints",
+		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
+		"translation": "Waypoints",
+		"machine": true
+	},
+	{
+		"phrase": "This is your list of loadouts. Each loadout is comprised of weapons, equipment and modifications.",
+		"comment": "Loadout tutorial description",
+		"translation": "Esta es tu lista de equipamientos. cada carga se compone de armas, equipo y modificaciones.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a loadout to continue",
+		"comment": "Tutorial prompt to click a loadout",
+		"translation": "Seleccione un equipamiento para continuar",
+		"machine": true
+	},
+	{
+		"phrase": "Each weapon, equipment and modification has a power value.",
+		"comment": "Loadout tutorial description",
+		"translation": "Cada arma, equipo y modificación tiene un valor de potencia..",
+		"machine": true
+	},
+	{
+		"phrase": "The total power value for a loadout must be {0} or less",
+		"comment": "Loadout tutorial description. Parameter 0: '15'",
+		"translation": "El valor de potencia total para una carga debe ser {0} o menos",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to continue",
+		"comment": "Loadout tutorial description. Parameter 0: 'space'",
+		"translation": "Presione {0} para continuar",
+		"machine": true
+	},
+	{
+		"phrase": "Each loadout can have up to {0} weapons.",
+		"comment": "Loadout tutorial description. Parameter 0: '2'",
+		"translation": "Cada equipamiento puede tener hasta {0} armas.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select a primary",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} para seleccionar un primario",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select a secondary",
+		"comment": "Loadout tutorial description. Parameter 0: '2'",
+		"translation": "{0} para seleccionar un secundario",
+		"machine": true
+	},
+	{
+		"phrase": "Right click",
+		"comment": "Right mouse button",
+		"translation": "Botón derecho del ratón",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"comment": "[Unit] e.g. '1 equipment slot'",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slots",
+		"comment": "[Unit] [Plural] e.g. '2 equipment slots'",
+		"translation": "Ranuras",
+		"machine": true
+	},
+	{
+		"phrase": "Each loadout also has {0} equipment {1}.",
+		"comment": "Loadout tutorial description. Parameter 0: '1', parameter 1: 'slot'",
+		"translation": "Cada equipamiento también tiene equipo {0} {1}.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select an equipment",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} para seleccionar un equipo",
+		"machine": true
+	},
+	{
+		"phrase": "Loadouts also have modifications (perks). These affect things like movement speed, fall damage, etc.",
+		"comment": "Loadout tutorial description",
+		"translation": "Los equipamientos también tienen modificaciones (ventajas). Estos afectan cosas como la velocidad de movimiento, el daño por caída, etc..",
+		"machine": true
+	},
+	{
+		"phrase": "{0} a modification to continue",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} una modificación para continuar",
+		"machine": true
+	},
+	{
+		"phrase": "You can create as many loadouts as you like.",
+		"comment": "Loadout tutorial description",
+		"translation": "Puedes crear tantas cargas como quieras.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to create a new loadout",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} para crear una nueva carga",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Joining in {2} {3}...",
+		"comment": "[Party Banner] Parameter 0: 'Salvage', parameter 1: 'SYDNEY-3', parameter 2: '7', parameter 3: 'seconds'",
+		"translation": "Tu grupo se ha unido a una partida {0} en {1}. unirse a {2} {3}...",
+		"machine": true
 	}
 ]

@@ -352,8 +352,7 @@
 	{
 		"phrase": "Head Hunter",
 		"comment": "Game mode name",
-		"translation": "Pään metsästäjä",
-		
+		"translation": "Pään metsästäjä"
 	},
 	{
 		"phrase": "Spire",
@@ -411,12 +410,6 @@
 		"phrase": "Internal error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Sisäinen virhe"
-	},
-	{
-		"phrase": "Map is restoring. Try again in 10 seconds",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Kartta palautuu. Yritä uudelleen 10 sekunnin kuluttua",
-		"machine": true
 	},
 	{
 		"phrase": "Network Error",
@@ -927,175 +920,9 @@
 		"translation": "Ruudukko"
 	},
 	{
-		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
-		"comment": "Weapon description",
-		"translation": "Tämä keskipitkän kantaman ase on tasapainossa useimpiin konflikteihin."
-	},
-	{
-		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
-		"comment": "Weapon description",
-		"translation": "Mecharii -teknologia, joka voidaan ladata useita kertoja tehokkaamman säteen tuottamiseksi.",
-		"machine": true
-	},
-	{
-		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
-		"comment": "Weapon description",
-		"translation": "Heitä vasemmalla napsautuksella ja räjäytä oikealla napsautuksella. Uudelleensyntyessä c4 on irrotettu sinusta ja ne on ammuttava räjähtääkseen.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
-		"comment": "Weapon description",
-		"translation": "Tämä keskipitkän kantaman haulikko pakkaa paukun pidemmille etäisyyksille.\nTähtäessä sen ammuksen leviäminen pienenee 70% 3,0 sekunnissa.",
-		"machine": true
-	},
-	{
-		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
-		"comment": "Weapon description",
-		"translation": "Aseta kuution pinnalle sähköistämään ohi menevät viholliset. Vain kertakäyttöinen.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
-		"comment": "Weapon description",
-		"translation": "Tämä keskimatkan ase laukaisee epävakaita soltriumytimiä, jotka pomppivat ennen räjähdystä.",
-		"machine": true
-	},
-	{
-		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
-		"comment": "Weapon description",
-		"translation": "Tässä kranaatissa on epävakaa soltriumydin ja se räjähtää 3 sekunnin kuluttua. Kaikilla pelaajilla on kaksi kranaattia, mutta tämän mahdollistaminen saa kranaatit tarttumaan seiniin.",
-		"machine": true
-	},
-	{
-		"phrase": "Agaman technology that cuts through blocks instantly.",
-		"comment": "Weapon description",
-		"translation": "Agaman -teknologia, joka katkaisee kuutiot välittömästi.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
-		"comment": "Weapon description",
-		"translation": "Tässä keskimatkan aseessa on suuri lipas taustatulta varten.\nYlikuumenee 50 jatkuvan ammuksen ampumisen jälkeen",
-		"machine": true
-	},
-	{
-		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
-		"comment": "Weapon description",
-		"translation": "Agaman -teknologia, joka laukaisee plasmapallot nopeasti peräkkäin.",
-		"machine": true
-	},
-	{
-		"phrase": "Place blocks with this tool.",
-		"comment": "Weapon description",
-		"translation": "Aseta kuutiot tällä työkalulla.",
-		"machine": true
-	},
-	{
-		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
-		"comment": "Weapon description",
-		"translation": "Tuhoisa agaman -teknologia, joka muuttaa soltriumenergian räjähtäväksi plasmapalloksi.",
-		"machine": true
-	},
-	{
-		"phrase": "Paint blocks with this tool.",
-		"comment": "Weapon description",
-		"translation": "Maalaa kuutiot tällä työkalulla.",
-		"machine": true
-	},
-	{
-		"phrase": "This close-mid ranged weapon shoots quickly but has a small magazine.",
-		"comment": "Weapon description",
-		"translation": "Tämä lähiympäristön ase ampuu nopeasti, mutta siinä on pieni lipas."
-	},
-	{
-		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
-		"comment": "Weapon description",
-		"translation": "Kevyt agaman -teknologia. Nopea ampumanopeus, voimakkaasti osuva.",
-		"machine": true
-	},
-	{
-		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
-		"comment": "Weapon description",
-		"translation": "Raskas agaman -teknologia. Laukaisee voimakkaasti osuvan plasman.",
-		"machine": true
-	},
-	{
-		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
-		"comment": "Weapon description",
-		"translation": "Tämä pitkän kantaman ase käyttää magneettimoottoria, ja se voidaan varustaa 4 -kertaisella tähtäimellä, joka tarjoaa tukea liittolaisille kantaman sisällä.",
-		"machine": true
-	},
-	{
-		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
-		"comment": "Weapon description",
-		"translation": "Tämä kovaa iskevä lähietäisyysase, sisältää voimakkaan soltriumytimen.",
-		"machine": true
-	},
-	{
-		"phrase": "Such a small gun. Such a massive boom.",
-		"comment": "Weapon description",
-		"translation": "Niin pieni ase. Niin valtava räjähdys.",
-		"machine": true
-	},
-	{
-		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
-		"comment": "Weapon description",
-		"translation": "Tämä pitkän kantaman ase käyttää soltrium -käyttövoimateknologiaa räjähtävien ohjusten laukaisemiseen.",
-		"machine": true
-	},
-	{
-		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
-		"comment": "Weapon description",
-		"translation": "Laukaisee leijuvan skannauspallon, joka sykkii kahden sekunnin välein ja paljastaa viholliset seinien läpi.\nVihollis pelaajat voivat ampua skanneripalloja.",
-		"machine": true
-	},
-	{
-		"phrase": "This close ranged weapon creates a blast of shrapnel.",
-		"comment": "Weapon description",
-		"translation": "Tämä lähietäisyysase tuottaa sirpale räjähdyksen.",
-		"machine": true
-	},
-	{
-		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
-		"comment": "Weapon description",
-		"translation": "Tämä lähi-keskietäisyyden ase pakkaa voimakkaan iskun. Valppaana rekyylin kanssa.",
-		"machine": true
-	},
-	{
-		"phrase": "Place block structures with this tool.",
-		"comment": "Weapon description",
-		"translation": "Aseta kuutiorakenne tällä työkalulla.",
-		"machine": true
-	},
-	{
-		"phrase": "Attaches to walls. Right click to pull the wall down.",
-		"comment": "Weapon description",
-		"translation": "Kiinnittyy seiniin. Vedä seinä alas napsauttamalla hiiren oikeaa näppäintä.",
-		"machine": true
-	},
-	{
 		"phrase": "Building",
 		"comment": "Armour modification name",
 		"translation": "Rakennus"
-	},
-	{
-		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 kuutiota\n+2 rakentamis etäisyyttä\n+5 elämäpistettä kuutioihin",
-		"machine": true
-	},
-	{
-		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 kuutiota\n+4 rakentamis etäisyyttä\n+9 elämäpistettä kuutioihin",
-		"machine": true
-	},
-	{
-		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 kuutiota\n+6 rakentamis etäisyyttä\n+13 elämäpistettä kuutioihin",
-		"machine": true
 	},
 	{
 		"phrase": "Hydraulics",
@@ -1125,169 +952,13 @@
 	},
 	{
 		"phrase": "Kinetic",
-		"comment": "Armour modification name",
+		"comment": "Payload attachment name",
 		"translation": "Kineettinen"
 	},
 	{
 		"phrase": "Scavenger",
 		"comment": "Armour modification name",
 		"translation": "Etsijä",
-		"machine": true
-	},
-	{
-		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
-		"comment": "Armour modification description",
-		"translation": "+3 kuutiota turvallista pudotusetäisyyttä\n-15% putoamisvaurioita",
-		"machine": true
-	},
-	{
-		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+400% itseräjähdystyöntöä\n-10% itseräjähdysvahinkoja",
-		"machine": true
-	},
-	{
-		"phrase": "+20% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+20% elämäpisteiden uudistumisnopeutta",
-		"machine": true
-	},
-	{
-		"phrase": "+5% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+5% liikenopeutta"
-	},
-	{
-		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-40% rakentamis ja kaivamis kapasiteetti\n-15% askeleen äänenvoimakkuus\n-25% askeleen etäisyys",
-		"machine": true
-	},
-	{
-		"phrase": "+10% dig speed",
-		"comment": "Armour modification description",
-		"translation": "+10% kaivamis nopeutta"
-	},
-	{
-		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
-		"comment": "Armour modification description",
-		"translation": "+6 kuution turvapudotusetäisyys\n-30% putoamisvaurioita",
-		"machine": true
-	},
-	{
-		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+450% itseräjähdystyöntöä\n-20% itseräjähdysvahinkoja",
-		"machine": true
-	},
-	{
-		"phrase": "+40% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+40% elämäpisteiden uudistumisnopeutta",
-		"machine": true
-	},
-	{
-		"phrase": "+10% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+10% liikenopeutta"
-	},
-	{
-		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-60% rakentamis ja kaivamis kapasiteetti\n-30% askeleen äänenvoimakkuus\n-50% askeleen etäisyys",
-		"machine": true
-	},
-	{
-		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
-		"comment": "Armour modification description",
-		"translation": "+20% kaivamis nopeutta\nSaa 2 kuutiota per kuutio kaivettu \n+1 varusteisiin ammuksia jokaisesta ammuksesta jonka nostat",
-		"machine": true
-	},
-	{
-		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
-		"comment": "Armour modification description",
-		"translation": "+9 kuution turvapudotusetäisyys\n-45% putoamisvaurioita\n+1 kuutio hyppykorkeus",
-		"machine": true
-	},
-	{
-		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+500% itseräjähdystyöntöä\n-30% itseräjähdysvahinkoja",
-		"machine": true
-	},
-	{
-		"phrase": "+60% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+60% elämäpisteiden uudistumisnopeutta",
-		"machine": true
-	},
-	{
-		"phrase": "+15% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+15% liikenopeus"
-	},
-	{
-		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-80% rakentamis ja kaivamis kapasiteetti\n-45% askeleen äänenvoimakkuus\n-75% askeleen etäisyys",
-		"machine": true
-	},
-	{
-		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
-		"comment": "Armour modification description",
-		"translation": "+30% kaivamis nopeutta\nSaa 3 kuutiota per kuutio kaivettu\n+10 elämäpistettä per ammusta mitä olet nostanut",
-		"machine": true
-	},
-	{
-		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
-		"comment": "Character description",
-		"translation": "Kokematon, tämä palkkasoturi rohkeasti matkasi soltrium -galaksiin ja yrittää todistaa arvonsa taistelussa."
-	},
-	{
-		"phrase": "This solo operative seeks nothing but victory when it comes to saving their race from destruction.",
-		"comment": "Character description",
-		"translation": "Tämä yksinoperaattori ei tavoittele muuta kuin voittoa pelastaakseen rodunsa tuholta."
-	},
-	{
-		"phrase": "A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.",
-		"comment": "Character description",
-		"translation": "Tappava tarkka ampuja kaukaa ja nopea tappaja läheltä, he kykenevät hoitamaan minkä tahansa tilanteen itsenäisesti.",
-		"machine": true
-	},
-	{
-		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
-		"comment": "Character description",
-		"translation": "Tämä komentaja menetti kätensä roihussa, mutta jatkaa taistelua rodun tulevaisuuden puolesta.",
-		"machine": true
-	},
-	{
-		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
-		"comment": "Character description",
-		"translation": "Lainsuojattomat, jotka vaeltelevat galaksin laitamilla ja hyökkäävät ketä tahansa vastaan, joka uskaltaa matkustaa yksin.",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
-		"comment": "Character description",
-		"translation": "Tämä Agaman taisteli valppaasti etulinjassa todistaakseen arvonsa päästäkseen soltrium -galaksiin.",
-		"machine": true
-	},
-	{
-		"phrase": "A curious one, aren't you?",
-		"comment": "Character description",
-		"translation": "Utelias, etkös olekkin?",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
-		"comment": "Character description",
-		"translation": "Tämä agaman luopui kaikesta suorittaakseen matkan soltrium -galaksiin.",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
-		"comment": "Character description",
-		"translation": "Tämä puhdasverinen Agaman sai infuusion soltriumista tiede kokeiluissa tuottaakseen pysäyttämättömän sekoituksen lihasta ja koneesta.",
 		"machine": true
 	},
 	{
@@ -1354,115 +1025,49 @@
 		"machine": true
 	},
 	{
-		"phrase": "First to 5 wins",
-		"comment": "[Gamemode Info] Win requirement, e.g. win 5 rounds in Arena to win",
-		"translation": "Ensimmäinen jolla on 5 voittaa",
-		"machine": true
-	},
-	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
 		"comment": "[Gamemode Info] Arena gamemode description",
 		"translation": "Galaksin laitamille on kehittynyt varjomarkkinat, joissa soltrium panostetaan. se on kaikki tai ei mitään areenalla, jossa kilpailijat taistelevat voitosta ja selviytymisestä."
 	},
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
-		"comment": "[Gamemode Info] Spire gamemode description",
+		"comment": "[Gamemode Info] [Description] [Spire]",
 		"translation": "Aloita tyhjästä ja kerää aseita vihollisjoukon poistamiseksi."
 	},
 	{
 		"phrase": "All players start with the same randomised loadout.",
-		"comment": "[Gamemode Info] Static gamemode description",
+		"comment": "[Gamemode Info] [Description] [Static]",
 		"translation": "Kaikki pelaajat aloittavat samalla satunnaisella latauksella."
 	},
 	{
-		"phrase": "Times to win",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Ajat voittaa"
-	},
-	{
-		"phrase": "Soltrium is scattered throughout the outer sector. Various",
-		"comment": "[Salvage] [1\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "Soltrium on hajallaan koko ulkosektorilla. eri"
-	},
-	{
 		"phrase": "And",
-		"comment": "[Salvage] [2\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
+		"comment": "[Conjunction]",
 		"translation": "Ja"
 	},
 	{
-		"phrase": "battalions have been dispatched to search for and collect the precious resource.",
-		"comment": "[Salvage] [3\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "pataljoonaa on lähetetty etsimään ja keräämään arvokasta resurssia."
-	},
-	{
-		"phrase": "Capture 5 zones to win",
-		"comment": "[Breakthrough] Win requirement. A team must capture 5 zones to win",
-		"translation": "Ota 5 aluetta voittaaksesi"
-	},
-	{
 		"phrase": "Control the zone to win",
-		"comment": "[Control Shift] Win requirement. A team must control and push the zone back into the enemy spawn to win",
+		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
 		"translation": "Hallitse aluetta voittaaksesi"
 	},
 	{
-		"phrase": "Deliver the bomb",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Deliver the bomb 3 times to win",
-		"translation": "Toimita pommi"
-	},
-	{
-		"phrase": "Capture the flag",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Lipunryöstö"
-	},
-	{
 		"phrase": "Get two kills with every weapon, then melee to win",
-		"comment": "[Gun Game] Win requirement",
+		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
 		"translation": "Hanki kaksi tappoa jokaisella aseella ja sitten lähitaistelu voittaaksesi"
 	},
 	{
 		"phrase": "Hold the most Soltrium to win",
-		"comment": "[Head Hunter] Win requirement",
+		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
 		"translation": "Pidä eniten soltriumia voittaaksesi"
 	},
 	{
-		"phrase": "Pick up",
-		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "Noukkia"
-	},
-	{
-		"phrase": "From enemy corpses",
-		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "Vihollisen ruumiilta"
-	},
-	{
 		"phrase": "Weapons and Mods spawn around the map",
-		"comment": "[Head Hunter] Gamemode description.",
+		"comment": "[Gamemode Info] [Description] [Head Hunter]",
 		"translation": "Aseet ja modit kutevat kartan ympärille"
 	},
 	{
 		"phrase": "Not bound",
 		"comment": "[Keybind] This is replacement text for an unbound keybind, e.g. Press [Not bound] to sprint",
 		"translation": "Ei sidottu"
-	},
-	{
-		"phrase": "You can hold",
-		"comment": "[Connecting] [Loading Tip 1] [1\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Voit pitää"
-	},
-	{
-		"phrase": "To reveal enemy positions to teammates",
-		"comment": "[Connecting] [Loading Tip 1] [2\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Paljastaa vihollisen asemat joukkuetovereilleen"
-	},
-	{
-		"phrase": "You can press",
-		"comment": "[Connecting] [Loading Tip 2] [1\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "Voit painaa"
-	},
-	{
-		"phrase": "To provide feedback",
-		"comment": "[Connecting] [Loading Tip 2] [2\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "Palautteen antamiseksi"
 	},
 	{
 		"phrase": "Local",
@@ -1593,36 +1198,6 @@
 		"phrase": "Double XP + Proton Weekend! Ends in",
 		"comment": "[Play Screen] The full phrase is: Double XP + Proton Weekend! Ends in 3 days, 1 hour and 12 minutes",
 		"translation": "Double XP + protoniviikonloppu! päättyy"
-	},
-	{
-		"phrase": "day",
-		"comment": "[Unit] Time measurement",
-		"translation": "päivä"
-	},
-	{
-		"phrase": "days",
-		"comment": "[Unit] Time measurement",
-		"translation": "päivää"
-	},
-	{
-		"phrase": "hour",
-		"comment": "[Unit] Time measurement",
-		"translation": "tunnin"
-	},
-	{
-		"phrase": "hours",
-		"comment": "[Unit] Time measurement",
-		"translation": "tuntia"
-	},
-	{
-		"phrase": "minute",
-		"comment": "[Unit] Time measurement",
-		"translation": "minuutti"
-	},
-	{
-		"phrase": "minutes",
-		"comment": "[Unit] Time measurement",
-		"translation": "pöytäkirja"
 	},
 	{
 		"phrase": "and",
@@ -1830,16 +1405,6 @@
 		"translation": "Kierros voitettu!"
 	},
 	{
-		"phrase": "Press",
-		"comment": "[1\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "Lehdistö"
-	},
-	{
-		"phrase": "Or",
-		"comment": "[2\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "Tai"
-	},
-	{
 		"phrase": "Pick up equipment",
 		"comment": "[Input Prompt] This text shows in Spire when the player is standing next to C4. The full text is '[V] Pick up equipment'",
 		"translation": "Nosta laitteet"
@@ -1921,7 +1486,7 @@
 	},
 	{
 		"phrase": "Settings",
-		"comment": "[Setting] [1\/3] This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"comment": "[In-Game Escape Menu] View the settings window",
 		"translation": "asetukset"
 	},
 	{
@@ -1953,16 +1518,6 @@
 		"phrase": "You are carrying the flag",
 		"comment": "[CTF] This text shows at the top of the screen when the player is carrying the flag",
 		"translation": "Sinulla on lippu"
-	},
-	{
-		"phrase": "To drop the flag",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the flag'",
-		"translation": "Lipun pudottaminen"
-	},
-	{
-		"phrase": "To drop the bomb",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the bomb'",
-		"translation": "Pommin pudottamiseksi"
 	},
 	{
 		"phrase": "Stage",
@@ -2005,23 +1560,13 @@
 		"translation": "Valitse ase ase telineestä"
 	},
 	{
-		"phrase": "Shoot the targets and try different weapons. Press",
-		"comment": "[Tutorial] [1\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "Ammu kohteita ja kokeile erilaisia aseita. Lehdistö"
-	},
-	{
-		"phrase": "To set up a loadout",
-		"comment": "[Tutorial] [2\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "Latauksen määrittäminen"
-	},
-	{
 		"phrase": "Level",
 		"comment": "[Killcam] The level of the player",
 		"translation": "Taso"
 	},
 	{
 		"phrase": "Tag",
-		"comment": "[Killcam] [Unit] The amount of tags this player has, e.g. '1 Tag'",
+		"comment": "[Career Path] [Prefix] i.e. ''Assassin' tag'",
 		"translation": "Tag"
 	},
 	{
@@ -2086,7 +1631,7 @@
 	},
 	{
 		"phrase": "Block",
-		"comment": "e.g. +1 Block when picking up an ammo bonus",
+		"comment": "[Attachment] [Unit] Distance measurement unit",
 		"translation": "Lohko"
 	},
 	{
@@ -2173,16 +1718,6 @@
 		"phrase": "Protons, XP and stats will not be tracked",
 		"comment": "[Claim Window] When enabling Eternal, Trailer or Sandbox Mode, player statistics will not be tracked and protons and XP will not be rewarded",
 		"translation": "Protoneja, XP: tä ja tilastoja ei seurata"
-	},
-	{
-		"phrase": "Infinite ammo. Type",
-		"comment": "[Claim Window] [1\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "Loppumattomat ammukset. tyyppi"
-	},
-	{
-		"phrase": "in chat to set your spawn point",
-		"comment": "[Claim Window] [2\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "chatissa asettaaksesi kuteesi pisteen"
 	},
 	{
 		"phrase": "Weapon cooldowns removed. Players are invincible",
@@ -2411,23 +1946,13 @@
 	},
 	{
 		"phrase": "Low level",
-		"comment": "[Play Screen] [Navigation] Low level tab",
+		"comment": "[Play Screen] [Navigation] Low level filter",
 		"translation": "Matala taso"
 	},
 	{
 		"phrase": "Custom",
-		"comment": "[Play Screen] [Navigation] Custom lobbies tab",
+		"comment": "[Play Screen] [Navigation] Custom lobbies filter",
 		"translation": "Muokatut aulat"
-	},
-	{
-		"phrase": "Empty servers",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
-		"translation": "Tyhjät palvelimet"
-	},
-	{
-		"phrase": "Full servers",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that have full capacity",
-		"translation": "Täydet palvelimet"
 	},
 	{
 		"phrase": "Character",
@@ -2571,11 +2096,8 @@
 	},
 	{
 		"phrase": "Loadout power",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Latausteho"
-	},
-	{
-		"phrase": "Damage range",
-		"translation": "Vaurioalue"
 	},
 	{
 		"phrase": "Projectile speed",
@@ -2609,7 +2131,7 @@
 	},
 	{
 		"phrase": "Rounds",
-		"comment": "[Attachment] Weapon characteristic",
+		"comment": "[Attachment] [Unit] Weapon characteristic",
 		"translation": "Kierroksia"
 	},
 	{
@@ -2994,7 +2516,7 @@
 	},
 	{
 		"phrase": "Performance",
-		"comment": "[Setting] [2\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"comment": "[Settings] [Button] Sidebar text",
 		"translation": "Esitys"
 	},
 	{
@@ -3006,11 +2528,6 @@
 		"phrase": "Accessibility",
 		"comment": "[Settings] [Button] Sidebar text",
 		"translation": "Esteettömyys"
-	},
-	{
-		"phrase": "Close",
-		"comment": "Close the settings window",
-		"translation": "kiinni"
 	},
 	{
 		"phrase": "Peacekeeper",
@@ -3718,21 +3235,6 @@
 		"translation": "Uusi renderöintiputki. kerro vercidiumille erimielisyyksissä, jos peli toimii nopeammin\/hitaammin tämän ollessa käytössä"
 	},
 	{
-		"phrase": "Enable this to make",
-		"comment": "[Setting] [Tooltip] [1\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "Ota tämä käyttöön"
-	},
-	{
-		"phrase": "dig single blocks and",
-		"comment": "[Setting] [Tooltip] [2\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "kaivaa yksittäisiä lohkoja ja"
-	},
-	{
-		"phrase": "dig a 3x3x3 area",
-		"comment": "[Setting] [Tooltip] [3\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "kaivaa 3x3x3 alue"
-	},
-	{
 		"phrase": "Forwards",
 		"comment": "[Keybind] Move forward",
 		"translation": "Eteenpäin"
@@ -4059,12 +3561,12 @@
 	},
 	{
 		"phrase": "Open Trial Window",
-		"comment": "[Keybind]",
+		"comment": "[Keybind] Open the Trial window",
 		"translation": "Avaa koeajo -ikkuna"
 	},
 	{
 		"phrase": "Restart Trial",
-		"comment": "[Keybind]",
+		"comment": "[Keybind] Restart the current Trial",
 		"translation": "Käynnistä kokeilu uudelleen"
 	},
 	{
@@ -4086,11 +3588,6 @@
 		"phrase": "MVP",
 		"comment": "Abbreviated medal name",
 		"translation": "MVP"
-	},
-	{
-		"phrase": "You can only claim 3 lobbies per day",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Voit vaatia vain 3 aulaa päivässä"
 	},
 	{
 		"phrase": "Extendest",
@@ -4128,50 +3625,10 @@
 		"translation": "Plasmaleikkuri"
 	},
 	{
-		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
-		"comment": "Weapon description",
-		"translation": "[Vanhentunut] todistus kehityksen edistyneestä tekniikasta."
-	},
-	{
-		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
-		"comment": "Weapon description",
-		"translation": "[Vanhentunut] hitaampi midi -kaivaminen, joka poistaa 3x3x3 lohkokappaleen."
-	},
-	{
-		"phrase": "[Deprecated] Allows one extra modification to be equipped.",
-		"comment": "Weapon description",
-		"translation": "[Vanhentunut] mahdollistaa yhden lisämuutoksen varustamisen."
-	},
-	{
-		"phrase": "This mid ranged weapon shoots Soltrium Tracer Rounds. Recharges over time and can overheat.",
-		"comment": "Weapon description for Aranet's Minigun",
-		"translation": "Tämä keskitason ase ampuu soltrium -merkkiaineita. latautuu ajan myötä ja voi ylikuumentua."
-	},
-	{
-		"phrase": "[Deprecated] Blocks placed have +100% health.",
-		"comment": "Weapon description",
-		"translation": "[Vanhojen] lohkojen terveys on +100%."
-	},
-	{
-		"phrase": "[Deprecated] Agaman technology. This close ranged weapon propels a spray of plasma",
-		"comment": "Weapon description",
-		"translation": "[Vanhentunut] agaman -tekniikka. Tämä läheinen ase laukaisee plasmasuihkun"
-	},
-	{
-		"phrase": "[Deprecated] Cluster Agama technology. Not much about this weapon is known.",
-		"comment": "Weapon description",
-		"translation": "[Vanhentunut] klusterin agama -tekniikka. tästä aseesta ei tiedetä paljon."
-	},
-	{
 		"phrase": "Blocks",
 		"context": "Cubes",
 		"comment": "A 3d voxel",
 		"translation": "Kuutio"
-	},
-	{
-		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
-		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
-		"translation": "Animoidut lohko -nahat on otettava käyttöön, jotta animoidut lohko -nahat näytetään oikein"
 	},
 	{
 		"phrase": "Scroll to zoom",
@@ -4187,26 +3644,6 @@
 		"phrase": "This is an experimental server used for beta testing. The game may not function as intended",
 		"comment": "[Connecting] Text that shows on the left of the screen when connecting to a beta server",
 		"translation": "Tämä on kokeellinen palvelin, jota käytetään betatestaukseen. peli ei välttämättä toimi suunnitellulla tavalla"
-	},
-	{
-		"phrase": "The first team to",
-		"comment": "[Gamemode Info] [1\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "Ensimmäinen joukkue"
-	},
-	{
-		"phrase": "points wins",
-		"comment": "[Gamemode Info] [2\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "pisteet voittaa"
-	},
-	{
-		"phrase": "Before uploading maps to the Steam workshop, you must agree to the",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
-		"translation": "Ennen kuin lataat karttoja höyrypajaan, sinun on hyväksyttävä"
-	},
-	{
-		"phrase": "Terms of Service.",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
-		"translation": "Käyttöehdot."
 	},
 	{
 		"phrase": "N\/A",
@@ -4425,41 +3862,6 @@
 		"translation": "Täällä voit muokata, miten pelissä kerätyt pisteet näytetään. ensisijaiset pisteet sijoitetaan pistopinon yläosaan ja toissijaiset pisteet pistopinon alareunaan."
 	},
 	{
-		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
-		"comment": "[Setting Tooltip] Peacekeeper description",
-		"translation": "Viholliset korostuvat, jos ne ovat tasoa 20 tai sitä alempia ja niiden KDR on 1 tai vähemmän."
-	},
-	{
-		"phrase": "For the duration Peacekeeper is enabled, deal",
-		"comment": "[Setting Tooltip] [1\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "Niin kauan kuin rauhanturvaaja on käytössä, kauppa"
-	},
-	{
-		"phrase": "damage to these players and earn",
-		"comment": "[Setting Tooltip] [2\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "vahingoittaa näitä pelaajia ja ansaita"
-	},
-	{
-		"phrase": "extra XP and Protons.",
-		"comment": "[Setting Tooltip] [3\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "ylimääräistä XP: tä ja protoneja."
-	},
-	{
-		"phrase": "Changes take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "[Setting Tooltip] [4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "Muutokset tulevat voimaan uudelleensijoituksessa. rauhanturvaajalla ei ole vaikutusta ilmaiseksi kaikissa pelitiloissa."
-	},
-	{
-		"phrase": "This controls the scale of all UI and in-game HUD. Press",
-		"comment": "[Setting] [Tooltip] [1\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100",
-		"translation": "Tämä ohjaa kaikkien käyttöliittymien ja pelin sisäisen HUD: n mittakaavaa. Lehdistö"
-	},
-	{
-		"phrase": "to reset it back to 100%",
-		"comment": "[Setting] [Tooltip] [2\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100%",
-		"translation": "palauttaaksesi sen 100: een%"
-	},
-	{
 		"phrase": "KDR",
 		"comment": "[Player Statistic] Kill to death ratio",
 		"translation": "KDR"
@@ -4505,69 +3907,19 @@
 		"translation": "Vapaa"
 	},
 	{
-		"phrase": "to change team mates",
-		"comment": "[3\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "vaihtaa joukkuetovereita"
-	},
-	{
 		"phrase": "You are carrying the bomb",
 		"comment": "[Escort] This text shows at the top of the screen when the player is carrying the bomb",
 		"translation": "Sinulla on pommi"
 	},
 	{
 		"phrase": "Magazines",
-		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
+		"comment": "[Unit] e.g. '+2 Magazines' when picking up an ammo bonus",
 		"translation": "Aikakauslehdet"
 	},
 	{
 		"phrase": "Hidden",
 		"comment": "[Point UI Customisation] Hidden point category",
 		"translation": "Piilotettu"
-	},
-	{
-		"phrase": "Building 1",
-		"comment": "[Trial Name]",
-		"translation": "Rakennus 1"
-	},
-	{
-		"phrase": "Building 2",
-		"comment": "[Trial Name]",
-		"translation": "Rakennus 2"
-	},
-	{
-		"phrase": "Building 3",
-		"comment": "[Trial Name]",
-		"translation": "Rakennus 3"
-	},
-	{
-		"phrase": "Digging 1",
-		"comment": "[Trial Name]",
-		"translation": "Kaivaminen 1"
-	},
-	{
-		"phrase": "Digging 2",
-		"comment": "[Trial Name]",
-		"translation": "Kaivaminen 2"
-	},
-	{
-		"phrase": "Digging 3",
-		"comment": "[Trial Name]",
-		"translation": "Kaivaminen 3"
-	},
-	{
-		"phrase": "Build + Dig 1",
-		"comment": "[Trial Name]",
-		"translation": "Rakenna + kaivaa 1"
-	},
-	{
-		"phrase": "Build + Dig 2",
-		"comment": "[Trial Name]",
-		"translation": "Rakenna + kaivaa 2"
-	},
-	{
-		"phrase": "Build + Dig 3",
-		"comment": "[Trial Name]",
-		"translation": "Rakenna + kaivaa 3"
 	},
 	{
 		"phrase": "Purchases",
@@ -4577,9 +3929,9 @@
 	{
 		"phrase": "Open",
 		"context": "Public",
-		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"comment": "[Play Screen] [Navigation] Public lobbies filter",
 		"translation": "Julkiset serverit"
-	},  
+	},
 	{
 		"phrase": "England",
 		"comment": "[Server List] [Filter]",
@@ -4731,30 +4083,6 @@
 		"translation": "Ms"
 	},
 	{
-		"phrase": "Play a Match",
-		"context": "Play a Game",
-		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
-		"translation": "Pelaa ottelu"
-	},
-	{
-		"phrase": "Enter Trials",
-		"context": "Enter the Trials",
-		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
-		"translation": "Aloita koeajo"
-	},
-	{
-		"phrase": "Replay Tutorial",
-		"context": "Replay the Tutorial",
-		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
-		"translation": "Toista opetusohjelma"
-	},
-	{
-		"phrase": "Reset Ship",
-		"context": "Reset the Ship",
-		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
-		"translation": "Palauta alus"
-	},
-	{
 		"phrase": "e.g. apples",
 		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
 		"translation": "Esim. omenoita"
@@ -4766,7 +4094,7 @@
 	},
 	{
 		"phrase": "Connection to Steam failed. Online play is unavailable",
-		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
+		"comment": "[Popup] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
 		"translation": "Yhteys höyryyn epäonnistui. nettipeli ei ole käytettävissä"
 	},
 	{
@@ -4793,16 +4121,6 @@
 		"phrase": "Platinum medal",
 		"comment": "[Trial Reward]",
 		"translation": "Platina mitali"
-	},
-	{
-		"phrase": "To restart",
-		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
-		"translation": "Käynnistää uudelleen"
-	},
-	{
-		"phrase": "To cancel",
-		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
-		"translation": "Peruuttaa"
 	},
 	{
 		"phrase": "Best kill streak",
@@ -4863,7 +4181,7 @@
 	},
 	{
 		"phrase": "Accuracy",
-		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
+		"comment": "[Career name] This career is progressed through headshots and explosive directs",
 		"translation": "Tarkkuus"
 	},
 	{
@@ -4910,12 +4228,12 @@
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Tunnin"
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Tunnit"
 	},
 	{
@@ -5100,7 +4418,7 @@
 	{
 		"phrase": "Spectate",
 		"context": "Become a spectator",
-		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
+		"comment": "[Scoreboard] [Button]",
 		"translation": "Katsoja"
 	},
 	{
@@ -5159,16 +4477,6 @@
 		"translation": "Sulje napsauttamalla ulkopuolta tai painamalla Esc -näppäintä"
 	},
 	{
-		"phrase": "Hold",
-		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "Pidä"
-	},
-	{
-		"phrase": "To unlock the cursor",
-		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "Voit avata kohdistimen lukituksen"
-	},
-	{
 		"phrase": "Spectator",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
 		"translation": "Katsoja"
@@ -5190,7 +4498,7 @@
 	},
 	{
 		"phrase": "Balance the teams",
-		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
+		"comment": "[Scoreboard] [Button]",
 		"translation": "Tasaa joukkueet"
 	},
 	{
@@ -5300,7 +4608,7 @@
 	},
 	{
 		"phrase": "Online",
-		"comment": "[Social Sidebar] Placeholder friend status",
+		"comment": "[Play Screen] [Navigation] Online tab",
 		"translation": "Verkossa"
 	},
 	{
@@ -5544,48 +4852,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "+50% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+50% protoneja. Kesto 1 tunti",
-		"machine": true
-	},
-	{
-		"phrase": "+100% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+100% protoneja. Kesto 1 tunti",
-		"machine": true
-	},
-	{
-		"phrase": "+200% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+200% protoneja. Kesto 1 tunti",
-		"machine": true
-	},
-	{
-		"phrase": "+50% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+50% XP. Kesto 1 tunti",
-		"machine": true
-	},
-	{
-		"phrase": "+100% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+100% XP. Kesto 1 tunti",
-		"machine": true
-	},
-	{
-		"phrase": "+200% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+200% XP. Kesto 1 tunti",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon Skin Token. Use this to unlock weapon skins on the Weapons screen",
-		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Aseen ihomerkki. Käytä tätä avataksesi aseiden nahat aseiden näytöllä",
-		"machine": true
-	},
-	{
 		"phrase": "Weapon Skin Token",
 		"comment": "[Inventory] Weapon skin token display name",
 		"translation": "Aseen ihon merkki",
@@ -5745,8 +5011,7 @@
 		"phrase": "Blocks per dig",
 		"context": "Blocks collected per dig",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Kuutio per kaivuu",
-		
+		"translation": "Kuutio per kaivuu"
 	},
 	{
 		"phrase": "Build speed",
@@ -5768,7 +5033,7 @@
 	},
 	{
 		"phrase": "Left click",
-		"comment": "[Loadout] [Input Prompt]",
+		"comment": "Left mouse button",
 		"translation": "Vasen painallus",
 		"machine": true
 	},
@@ -5840,7 +5105,7 @@
 	},
 	{
 		"phrase": "Grenades",
-		"comment": "[Unit] Amount of grenades, e.g. I have 2 grenades",
+		"comment": "[Loadout Summary] Grenade label",
 		"translation": "Kranaatit",
 		"machine": true
 	},
@@ -5909,8 +5174,7 @@
 	{
 		"phrase": "bps",
 		"comment": "[Unit] [Abbreviation] Abbreviation of 'Blocks Per Second', which is how many blocks a projectile travels every second. If an abbreviation is not available, please translate the full phrase",
-		"translation": "Kps",
-		
+		"translation": "Kps"
 	},
 	{
 		"phrase": "Detection Radius",
@@ -6022,7 +5286,7 @@
 	},
 	{
 		"phrase": "No",
-		"comment": "[Mapping] Text that shows if a file is not provided, e.g. 'No VOX file found' or 'No JSON file found'",
+		"comment": "No thank you I'm fine",
 		"translation": "Ei",
 		"machine": true
 	},
@@ -6171,18 +5435,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
-		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Kuka tahansa voi liittyä avoimiin auloihin. Napsauta tyhjää aulaa hiiren kakkospainikkeella saadaksesi sen.\nVoit vaatia vain 3 aulaa päivässä.",
-		"machine": true
-	},
-	{
-		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
-		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Jos haluat luoda mukautetun aulan, vaihda avoimen aulan välilehteen ja napsauta tyhjää aulaa hiiren kakkospainikkeella.",
-		"machine": true
-	},
-	{
 		"phrase": "Current version",
 		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
 		"translation": "Nykyinen versio",
@@ -6197,60 +5449,52 @@
 	{
 		"phrase": "Lowest ping",
 		"comment": "[Server List] [Sidebar]. The full phrase is '2ms Lowest ping'",
-		"translation": "Alin viive",
-		
+		"translation": "Alin viive"
 	},
 	{
 		"phrase": "ms",
 		"comment": "[Unit] [Abbreviation] Abbreviation of milliseconds",
-		"translation": "Ms",
-		
-	},
-	{
-		"phrase": "Preferences",
-		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
-		"translation": "Asetukset",
-		"machine": true
+		"translation": "Ms"
 	},
 	{
 		"phrase": "Game Modes",
-		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter check boxes",
 		"translation": "Pelitilat",
 		"machine": true
 	},
 	{
 		"phrase": "Regions",
-		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter check boxes",
 		"translation": "Alueet",
 		"machine": true
 	},
 	{
 		"phrase": "Open",
-		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"comment": "[Play Screen] [Navigation] Public lobbies filter",
 		"translation": "Avata",
 		"machine": true
 	},
 	{
 		"phrase": "Day",
-		"comment": "[Unit] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Päivä",
 		"machine": true
 	},
 	{
 		"phrase": "Days",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Päivää",
 		"machine": true
 	},
 	{
 		"phrase": "Minute",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Minuutti",
 		"machine": true
 	},
 	{
 		"phrase": "Minutes",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Pöytäkirja",
 		"machine": true
 	},
@@ -7303,12 +6547,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Joining in",
-		"comment": "[Party Banner] The full phrase is: 'Joining in 10 seconds'",
-		"translation": "Liittyminen",
-		"machine": true
-	},
-	{
 		"phrase": "Weapon",
 		"comment": "[Progression UI] Placeholder text",
 		"translation": "Ase",
@@ -7575,8 +6813,7 @@
 	{
 		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creator.\nClick here for more info!\nThis promotion ends in",
 		"comment": "[Store Screen]",
-		"translation": "Kirjoita Sisällöntuottajan koodi kassalla säästääksesi 10% ja tukeaksesi sisällöntuottajaa.\nNapsauta tätä saadaksesi lisätietoja!\nTämä kampanja päättyy",
-		
+		"translation": "Kirjoita Sisällöntuottajan koodi kassalla säästääksesi 10% ja tukeaksesi sisällöntuottajaa.\nNapsauta tätä saadaksesi lisätietoja!\nTämä kampanja päättyy"
 	},
 	{
 		"phrase": "ADS colour",
@@ -7600,18 +6837,6 @@
 		"phrase": "A player",
 		"comment": "[Placeholder] Placeholder name for a player, e.g. 'A player has taken our flag'",
 		"translation": "Pelaaja",
-		"machine": true
-	},
-	{
-		"phrase": "Has taken our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken our flag'",
-		"translation": "Otti lippumme",
-		"machine": true
-	},
-	{
-		"phrase": "Has taken the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken the enemy flag'",
-		"translation": "Otti vihollisen lipun",
 		"machine": true
 	},
 	{
@@ -7681,21 +6906,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "You have dropped the bomb",
-		"comment": "[Announcement]'",
-		"translation": "Olet pudottanut pommin",
-		"machine": true
-	},
-	{
 		"phrase": "Has dropped the enemy flag",
 		"comment": "[Announcement]'",
 		"translation": "On pudottanut vihollisen lipun",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped the bomb",
-		"comment": "[Announcement]'",
-		"translation": "On pudottanut pommin",
 		"machine": true
 	},
 	{
@@ -7858,32 +7071,27 @@
 	{
 		"phrase": "Smooth",
 		"comment": "Spectator control. Smooth camera movement",
-		"translation": "Tasainen",
-		
+		"translation": "Tasainen"
 	},
 	{
 		"phrase": "Cycle Players",
 		"comment": "Spectator control. The full phrase is: 'Cycle Players [ Q \/ E ]'",
-		"translation": "Vaihda pelaajaa",
-		
+		"translation": "Vaihda pelaajaa"
 	},
 	{
 		"phrase": "Third Person",
 		"comment": "Spectator control. Change to third person camera",
-		"translation": "Kolmas persoona",
-		
+		"translation": "Kolmas persoona"
 	},
 	{
 		"phrase": "First Person",
 		"comment": "Spectator control. Change to first person camera",
-		"translation": "Ensimmäinen persoona",
-		
+		"translation": "Ensimmäinen persoona"
 	},
 	{
 		"phrase": "Fly camera",
 		"comment": "Spectator control. Change to free camera mode",
-		"translation": "Lentävä kamera",
-		
+		"translation": "Lentävä kamera"
 	},
 	{
 		"phrase": "Anchored",
@@ -7913,8 +7121,7 @@
 	{
 		"phrase": "Play Path",
 		"comment": "Spectator control. Make the camera follow a path",
-		"translation": "Toista polku",
-		
+		"translation": "Toista polku"
 	},
 	{
 		"phrase": "Create Path",
@@ -7974,8 +7181,7 @@
 	{
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
-		"translation": "Apu -palkin kytkin ",
-		
+		"translation": "Apu -palkin kytkin "
 	},
 	{
 		"phrase": "Anchor Distance",
@@ -7986,14 +7192,12 @@
 	{
 		"phrase": "Select Aegis",
 		"comment": "Spectator control. Spectate an Aegis player so you can learn to play well",
-		"translation": "Valitse Aegis",
-		
+		"translation": "Valitse Aegis"
 	},
 	{
 		"phrase": "Select Helix",
 		"comment": "Spectator control. Spectate an Helix player so you can watch them hide underground",
-		"translation": "Valitse Helix",
-		
+		"translation": "Valitse Helix"
 	},
 	{
 		"phrase": "Creating path",
@@ -8004,26 +7208,12 @@
 	{
 		"phrase": "Editing path",
 		"comment": "[Spectate UI] The full phrase is: 'Editing path 2'",
-		"translation": "Muokkaa polkua",
-		
-	},
-	{
-		"phrase": "Waypoints",
-		"context": "Waypoint count",
-		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
-		"translation": "Reittipisteet",
-		"machine": true
+		"translation": "Muokkaa polkua"
 	},
 	{
 		"phrase": "Team",
 		"comment": "[Chat] This is the prefix for a team chat message, e.g. '[TEAM] Dirt Master: Im staying up past my bed time, dont tell anyone'",
 		"translation": "Tiimi",
-		"machine": true
-	},
-	{
-		"phrase": "Creating shaders",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Varjostimien luominen",
 		"machine": true
 	},
 	{
@@ -8042,18 +7232,6 @@
 		"phrase": "Loading models",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
 		"translation": "Ladataan malleja",
-		"machine": true
-	},
-	{
-		"phrase": "There was an error initialising shaders. Please follow the instructions at",
-		"comment": "[Error] [Message Popup] [1\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "Varjoittimien alustamisessa tapahtui virhe. Noudata ohjeita osoitteessa",
-		
-	},
-	{
-		"phrase": "to submit your log files and help solve this issue",
-		"comment": "[Error] [Message Popup] [2\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "lähettääksesi lokitiedostosi ja auttaaksesi ratkaisemaan tämän ongelman",
 		"machine": true
 	},
 	{
@@ -8108,6 +7286,1156 @@
 		"phrase": "Base amplifier",
 		"comment": "[Attachment] Midi attachment name",
 		"translation": "Pohjavahvistin",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to redeploy while spawning",
+		"comment": "[Admin chat message]",
+		"translation": "Uudelleen sijoittaminen ei onnistu kuteessa",
+		"machine": true
+	},
+	{
+		"phrase": "You may only run commands in a custom lobby that you claimed",
+		"comment": "[Admin chat message]",
+		"translation": "Voit suorittaa komentoja vain vaatimassasi mukautetussa aulassa",
+		"machine": true
+	},
+	{
+		"phrase": "Your party cannot fit on one team and may be split up",
+		"comment": "[Admin chat message]",
+		"translation": "Puolueesi ei mahdu yhteen joukkueeseen ja se voidaan jakaa",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot claim this lobby as a tournament is running",
+		"comment": "[Admin chat message]",
+		"translation": "Et voi vaatia tätä aulaa turnauksen ollessa käynnissä",
+		"machine": true
+	},
+	{
+		"phrase": "You may only claim empty lobbies",
+		"comment": "[Admin chat message]",
+		"translation": "Voit vaatia vain tyhjiä auloita",
+		"machine": true
+	},
+	{
+		"phrase": "Max level must not be less than min level",
+		"comment": "[Admin chat message]",
+		"translation": "Suurin taso ei saa olla pienempi kuin min",
+		"machine": true
+	},
+	{
+		"phrase": "This lobby has already been claimed",
+		"comment": "[Admin chat message]",
+		"translation": "Tämä aula on jo vaadittu",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn position set",
+		"comment": "[Admin chat message]",
+		"translation": "Spawn -asento",
+		"machine": true
+	},
+	{
+		"phrase": "Creating teams. Spawn when the pre-match timer has finished",
+		"comment": "[Admin chat message]",
+		"translation": "Tiimien luominen. kutua, kun ottelua edeltävä ajastin on päättynyt",
+		"machine": true
+	},
+	{
+		"phrase": "You must join a team before you can respawn",
+		"comment": "[Admin chat message]",
+		"translation": "Sinun on liityttävä tiimiin ennen kuin voit aloittaa uudelleen",
+		"machine": true
+	},
+	{
+		"phrase": "You must wait for the tournament to commence before respawning",
+		"comment": "[Admin chat message]",
+		"translation": "Sinun on odotettava turnauksen alkamista ennen uudelleen aloittamista",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams before the match has started",
+		"comment": "[Admin chat message]",
+		"translation": "Joukkuetta ei voi vaihtaa ennen ottelun alkua",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams during the tournament",
+		"comment": "[Admin chat message]",
+		"translation": "Joukkuetta ei voi vaihtaa turnauksen aikana",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while spawning",
+		"comment": "[Admin chat message]",
+		"translation": "Joukkuetta ei voi vaihtaa kutun aikana",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while the round is running",
+		"comment": "[Admin chat message] This shows during Arena matches",
+		"translation": "Joukkuetta ei voi vaihtaa kierroksen ollessa käynnissä",
+		"machine": true
+	},
+	{
+		"phrase": "Your votekick permissions have been revoked",
+		"comment": "[Admin chat message]",
+		"translation": "Äänioikeuskäyttöoikeutesi on peruutettu",
+		"machine": true
+	},
+	{
+		"phrase": "You're meant to get along with the other mods",
+		"comment": "[Admin chat message] This shows when a mod tries to votekick another mod",
+		"translation": "Sinun on tarkoitus tulla toimeen muiden modien kanssa",
+		"machine": true
+	},
+	{
+		"phrase": "A tournament is currently running",
+		"comment": "[Admin chat message]",
+		"translation": "Turnaus on parhaillaan käynnissä",
+		"machine": true
+	},
+	{
+		"phrase": "A tournament is currently running and you are now spectating",
+		"comment": "[Admin chat message]",
+		"translation": "Turnaus on parhaillaan käynnissä ja sinä katselet",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full",
+		"comment": "[Admin chat message]",
+		"translation": "Palvelin on täynnä",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full and you are now spectating",
+		"comment": "[Admin chat message]",
+		"translation": "Palvelin on täynnä ja katselet nyt",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has been disbanded due to team imbalance",
+		"comment": "[Admin chat message]",
+		"translation": "Puolueesi on lakkautettu joukkueen epätasapainon vuoksi",
+		"machine": true
+	},
+	{
+		"phrase": "This server requires a system restart and will restart at the end of the round. Thank you for playing! - Verc",
+		"comment": "[Admin chat message]",
+		"translation": "Tämä palvelin vaatii järjestelmän uudelleenkäynnistyksen ja käynnistyy uudelleen kierroksen lopussa. Kiitos pelaamisesta! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "This server will quickly patch at the end of this round. You do NOT need to update your client and you can remain in this lobby. Thank you for playing! - Verc",
+		"comment": "[Admin chat message]",
+		"translation": "Tämä palvelin korjaa nopeasti tämän kierroksen lopussa. sinun EI tarvitse päivittää asiakasta ja voit jäädä tähän aulaan. Kiitos pelaamisesta! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalance complete",
+		"comment": "[Admin chat message]",
+		"translation": "Automaattinen tasapaino valmis",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalance paused",
+		"comment": "[Admin chat message]",
+		"translation": "Automaattinen tasapaino keskeytetty",
+		"machine": true
+	},
+	{
+		"phrase": "Wave Defence",
+		"comment": "Game mode name",
+		"translation": "Aaltojen puolustus",
+		"machine": true
+	},
+	{
+		"phrase": "Compensator",
+		"comment": "Barrel attachment name",
+		"translation": "Kompensaattori",
+		"machine": true
+	},
+	{
+		"phrase": "Sticky",
+		"comment": "Ammo type name - an explosive projectile sticks to the wall on impact before exploding",
+		"translation": "Tahmea",
+		"machine": true
+	},
+	{
+		"phrase": "Cluster",
+		"comment": "Ammo type name - an explosive projectile explodes into a cluster of 3 explosives",
+		"translation": "Klusteri",
+		"machine": true
+	},
+	{
+		"phrase": "Fragmentation",
+		"comment": "Payload attachment name",
+		"translation": "Hajanaisuus",
+		"machine": true
+	},
+	{
+		"phrase": "Bounce",
+		"comment": "[Grenade Type]",
+		"translation": "Pomppia",
+		"machine": true
+	},
+	{
+		"phrase": "High Block Damage",
+		"comment": "[Grenade Payload] Deals high block damage and low player damage",
+		"translation": "Korkea lohkon vaurio",
+		"machine": true
+	},
+	{
+		"phrase": "High Player Damage",
+		"comment": "[Grenade Payload] Deals high player damage and low block damage",
+		"translation": "Korkea pelaajavaurio",
+		"machine": true
+	},
+	{
+		"phrase": "Move around",
+		"comment": "[Tutorial UI]",
+		"translation": "Liikkua",
+		"machine": true
+	},
+	{
+		"phrase": "Sprint along the path",
+		"comment": "[Tutorial UI]",
+		"translation": "Sprintti polkua pitkin",
+		"machine": true
+	},
+	{
+		"phrase": "Crouch through the tunnel",
+		"comment": "[Tutorial UI]",
+		"translation": "Kyyry tunnelin läpi",
+		"machine": true
+	},
+	{
+		"phrase": "Crouch while sprinting to slide",
+		"comment": "[Tutorial UI]",
+		"translation": "Kyykisty samalla kun sprintti liukuu",
+		"machine": true
+	},
+	{
+		"phrase": "Jump over the gap",
+		"comment": "[Tutorial UI]",
+		"translation": "Hyppää aukon yli",
+		"machine": true
+	},
+	{
+		"phrase": "Dig through the wall",
+		"comment": "[Tutorial UI]",
+		"translation": "Kaivaa seinän läpi",
+		"machine": true
+	},
+	{
+		"phrase": "Click, hold and drag between the cubes to build over the wall",
+		"comment": "[Tutorial UI]",
+		"translation": "Napsauta, pidä painettuna ja vedä kuutioiden välillä rakentaaksesi seinän yli",
+		"machine": true
+	},
+	{
+		"phrase": "Look for a weapon",
+		"comment": "[Tutorial UI]",
+		"translation": "Etsi ase",
+		"machine": true
+	},
+	{
+		"phrase": "Bridge the gap",
+		"comment": "[Tutorial UI]",
+		"translation": "Silta kuilu",
+		"machine": true
+	},
+	{
+		"phrase": "Inspect the crate",
+		"comment": "[Tutorial UI]",
+		"translation": "Tarkista laatikko",
+		"machine": true
+	},
+	{
+		"phrase": "Build defences",
+		"comment": "[Tutorial UI]",
+		"translation": "Rakenna puolustuksia",
+		"machine": true
+	},
+	{
+		"phrase": "Take out the Renegades",
+		"comment": "[Tutorial UI]",
+		"translation": "Ota renegaatit pois",
+		"machine": true
+	},
+	{
+		"phrase": "Advance to the end of the walkway",
+		"comment": "[Tutorial UI]",
+		"translation": "Siirry kävelytien loppuun",
+		"machine": true
+	},
+	{
+		"phrase": "Take out the remaining Renegades",
+		"comment": "[Tutorial UI]",
+		"translation": "Ota loput soturit pois",
+		"machine": true
+	},
+	{
+		"phrase": "Secure the canister",
+		"comment": "[Tutorial UI]",
+		"translation": "Kiinnitä säiliö",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment Point",
+		"comment": "[Career Path] [Unit] i.e. '1 Attachment Point'",
+		"translation": "Kiinnityspiste",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment Points",
+		"comment": "[Career Path] [Unit] [Plural] i.e. '2 Attachment Points'",
+		"translation": "Kiinnityspisteet",
+		"machine": true
+	},
+	{
+		"phrase": "Boost",
+		"comment": "[Career Path] i.e. '50% Proton Boost'",
+		"translation": "Tehosta",
+		"machine": true
+	},
+	{
+		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
+		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
+		"translation": "[Asetukset> suorituskyky> animoidut lohko -kuoret] on otettava käyttöön, jotta animoidut lohko -kuoret näkyvät oikein",
+		"machine": true
+	},
+	{
+		"phrase": "Progressions will appear here after playing your first match",
+		"comment": "This text shows on the Career tab when the player has not played their first match yet",
+		"translation": "Edistyminen näkyy täällä ensimmäisen ottelun pelaamisen jälkeen",
+		"machine": true
+	},
+	{
+		"phrase": "First team to win {0} rounds",
+		"comment": "[Gamemode Info] [Win requirement] [Arena] Parameter 0: '5'",
+		"translation": "Ensimmäinen joukkue, joka voitti {0} -kierrokset",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
+		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
+		"translation": "Soltrium on hajallaan koko ulkosektorilla. erilaisia {0}- ja {1} -pataljoonia on lähetetty etsimään ja keräämään arvokasta resurssia.",
+		"machine": true
+	},
+	{
+		"phrase": "The first team to {0} points wins",
+		"comment": "[Gamemode Info] [Win Requirement] [Salvage] Parameter 0: '500'",
+		"translation": "Ensimmäinen joukkue, jolla on {0} pistettä, voittaa",
+		"machine": true
+	},
+	{
+		"phrase": "Capture all zones to win",
+		"comment": "[Gamemode Info] [Win Requirement] [Breakthrough]",
+		"translation": "Ota kaikki alueet voittaaksesi",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver the flag {0} times to win",
+		"comment": "[Gamemode Info] [Win requirement] [Escort] Parameter 0: '3'",
+		"translation": "Toimita lippu {0} kertaa voittaaksesi",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver the bomb {0} times to win",
+		"comment": "[Gamemode Info] [Win requirement] [CTF] Parameter 0: '3'",
+		"translation": "Toimita pommi {0} kertaa voittaaksesi",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up {0} from enemy corpses",
+		"comment": "[Gamemode Info] [Description] [Head Hunter] Parameter 0: 'Soltrium'",
+		"translation": "Nosta {0} vihollisen ruumiilta",
+		"machine": true
+	},
+	{
+		"phrase": "You can hold {0} to reveal enemy positions to teammates",
+		"comment": "[Connecting] [Loading Tip 1] Parameter 0: '[ Q ]'",
+		"translation": "Voit pitää {0}: ta paljastaaksesi vihollisen asemat joukkuetovereillesi",
+		"machine": true
+	},
+	{
+		"phrase": "You can press {0} to provide feedback",
+		"comment": "[Connecting] [Loading Tip 2] Parameter 0: '[ F1 ]'",
+		"translation": "Voit antaa palautetta painamalla {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Before uploading maps to the {0}, you must agree to the",
+		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
+		"translation": "Ennen kuin lataat karttoja {0}: een, sinun on hyväksyttävä",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Terms of Service",
+		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
+		"translation": "{0} Käyttöehdot",
+		"machine": true
+	},
+	{
+		"phrase": "High",
+		"context": "High quality",
+		"comment": "Graphics preset",
+		"translation": "Korkea",
+		"machine": true
+	},
+	{
+		"phrase": "Medium",
+		"context": "Medium quality",
+		"comment": "Graphics preset",
+		"translation": "Keskikokoinen",
+		"machine": true
+	},
+	{
+		"phrase": "Low",
+		"context": "Low quality",
+		"comment": "Graphics preset",
+		"translation": "Matala",
+		"machine": true
+	},
+	{
+		"phrase": "Toaster",
+		"comment": "Graphics preset",
+		"translation": "Leivänpaahdin",
+		"machine": true
+	},
+	{
+		"phrase": "Potato",
+		"context": "Garbage",
+		"comment": "Graphics preset",
+		"translation": "Peruna",
+		"machine": true
+	},
+	{
+		"phrase": "Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Lunasta hiiren kakkospainikkeella tyhjä aula.\nVoit vaatia vain 3 aulaa päivässä.",
+		"machine": true
+	},
+	{
+		"phrase": "Servers",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty \/ full \/ low level \/ etc check boxes",
+		"translation": "Palvelimet",
+		"machine": true
+	},
+	{
+		"phrase": "Empty",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
+		"translation": "Tyhjä",
+		"machine": true
+	},
+	{
+		"phrase": "Full",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that have full capacity",
+		"translation": "Koko",
+		"machine": true
+	},
+	{
+		"phrase": "Bots",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that only have bots in them",
+		"translation": "Botit",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "[Setting Tooltip] Peacekeeper description. Parameter 0: '20', Parameter 1: '1', Parameter 2: '-35%', Parameter 3: '+35%'",
+		"translation": "Viholliset korostuvat, jos ne ovat tasoa {0} tai sitä alempia ja niiden KDR on {1} tai vähemmän.\n\nRauhanturvaajan ollessa käytössä, tee {2} -vahinkoa näille pelaajille ja ansaitse {3} ylimääräistä XP: tä ja protoneja.\n\nMuutokset tulevat voimaan uudelleensijoituksessa. rauhanturvaajalla ei ole vaikutusta ilmaiseksi kaikissa pelitiloissa.",
+		"machine": true
+	},
+	{
+		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
+		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
+		"translation": "Tämä ohjaa kaikkien käyttöliittymien ja pelin sisäisen HUD: n mittakaavaa. paina {0} palauttaaksesi sen 100: een%",
+		"machine": true
+	},
+	{
+		"phrase": "Enable this to make {0} dig single blocks and {1} dig a 3x3x3 area",
+		"translation": "Ota tämä käyttöön, jotta {0} kaivaa yksittäisiä lohkoja ja {1} kaivaa 3x3x3 -alueen",
+		"machine": true
+	},
+	{
+		"phrase": "Has stolen our flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen our flag'",
+		"translation": "On varastanut lippumme",
+		"machine": true
+	},
+	{
+		"phrase": "Has stolen the enemy flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen the enemy flag'",
+		"translation": "Varastanut vihollisen lipun",
+		"machine": true
+	},
+	{
+		"phrase": "You have dropped our bomb",
+		"comment": "[Announcement]'",
+		"translation": "Olet pudottanut pommimme",
+		"machine": true
+	},
+	{
+		"phrase": "Has dropped our bomb",
+		"comment": "[Announcement]'",
+		"translation": "On pudottanut pommimme",
+		"machine": true
+	},
+	{
+		"phrase": "There was an error initialising shaders. Please follow the instructions at {0} to submit your log files and help solve this issue",
+		"comment": "[Error] [Message Popup] Parameter 0: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Varjoittimien alustamisessa tapahtui virhe. lähetä lokitiedostot ja auta ratkaisemaan ongelma noudattamalla {0}: n ohjeita",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} or {1} to change team mates",
+		"comment": "Arena spectator text. Parameter 0: '[ Q ]', Parameter 1: '[ E ]'",
+		"translation": "Vaihda joukkuetovereita painamalla {0} tai {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to drop the flag",
+		"comment": "[Input Prompt] Parameter 0: '[ C ]'",
+		"translation": "Paina {0} pudottaaksesi lipun",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to drop the bomb",
+		"comment": "[Input Prompt] Parameter 0: '[ C ]'",
+		"translation": "Paina {0} pudottaaksesi pommin",
+		"machine": true
+	},
+	{
+		"phrase": "Respawning in {0}s",
+		"comment": "Respawn text in the ship.",
+		"translation": "Uudelleenpalautus {0}: ssa",
+		"machine": true
+	},
+	{
+		"phrase": "Shoot the targets and try different weapons. Press {0} to set up a loadout",
+		"comment": "[Tutorial] Parameter 0: '[ F2 ]'",
+		"translation": "Ammu kohteita ja kokeile erilaisia aseita. aseta lataus painamalla {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Play a Match",
+		"context": "{0} Play a Game",
+		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. Parameter 0: '[ M ]'",
+		"translation": "{0} Pelaa ottelu",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Enter Trials",
+		"context": "{0} Enter the Trials",
+		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. Parameter 0: '[ T ]'",
+		"translation": "{0} Osallistu kokeisiin",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Replay Tutorial",
+		"context": "{0} Replay the Tutorial",
+		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. Parameter 0: '[ T ]'",
+		"translation": "{0} Replay -opetusohjelma",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Reset Ship",
+		"context": "{0} Reset the Ship",
+		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. Parameter 0: '[ F ]'",
+		"translation": "{0} Palauta lähetys",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to restart",
+		"comment": "[Trial] [Input Prompt] Parameter 0: '[ R ]'",
+		"translation": "Käynnistä uudelleen painamalla {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Waiting for players",
+		"comment": "[Rich Presence]",
+		"translation": "Pelaajia odotellessa",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their character",
+		"comment": "[Rich Presence]",
+		"translation": "Heidän luonteensa mukauttaminen",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their weapons",
+		"comment": "[Rich Presence]",
+		"translation": "Räätälöi aseita",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their blocks",
+		"comment": "[Rich Presence]",
+		"translation": "Lohkojen mukauttaminen",
+		"machine": true
+	},
+	{
+		"phrase": "Modifying their loadouts",
+		"comment": "[Rich Presence]",
+		"translation": "Niiden latausten muuttaminen",
+		"machine": true
+	},
+	{
+		"phrase": "Reading the news",
+		"comment": "[Rich Presence]",
+		"translation": "Uutisten lukeminen",
+		"machine": true
+	},
+	{
+		"phrase": "Browsing the store",
+		"comment": "[Rich Presence]",
+		"translation": "Kaupan selailu",
+		"machine": true
+	},
+	{
+		"phrase": "Wishing clans were implemented",
+		"comment": "[Rich Presence]",
+		"translation": "Toivovat klaanit toteutettiin",
+		"machine": true
+	},
+	{
+		"phrase": "Competing in the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Kilpailut kokeissa",
+		"machine": true
+	},
+	{
+		"phrase": "Completing the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Kokeiden suorittaminen loppuun",
+		"machine": true
+	},
+	{
+		"phrase": "Trialing out a few things",
+		"comment": "[Rich Presence]",
+		"translation": "Kokeilemassa muutamia asioita",
+		"machine": true
+	},
+	{
+		"phrase": "Mastering the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Koettelemusten hallitseminen",
+		"machine": true
+	},
+	{
+		"phrase": "Speedrunning the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Kokeiden nopeus",
+		"machine": true
+	},
+	{
+		"phrase": "Giving the ship a trial",
+		"comment": "[Rich Presence]",
+		"translation": "Laivan kokeilu",
+		"machine": true
+	},
+	{
+		"phrase": "Completing the tutorial",
+		"comment": "[Rich Presence]",
+		"translation": "Opetusohjelman suorittaminen",
+		"machine": true
+	},
+	{
+		"phrase": "Modifying their structures",
+		"comment": "[Rich Presence]",
+		"translation": "Niiden rakenteiden muuttaminen",
+		"machine": true
+	},
+	{
+		"phrase": "Shooting range",
+		"comment": "[Rich Presence]",
+		"translation": "Ampumarata",
+		"machine": true
+	},
+	{
+		"phrase": "In the parkour room",
+		"comment": "[Rich Presence]",
+		"translation": "Parkour -huoneessa",
+		"machine": true
+	},
+	{
+		"phrase": "Relaxing in their ship",
+		"comment": "[Rich Presence]",
+		"translation": "Rentoutumista heidän laivassaan",
+		"machine": true
+	},
+	{
+		"phrase": "Designing a custom map",
+		"comment": "[Rich Presence]",
+		"translation": "Mukautetun kartan suunnittelu",
+		"machine": true
+	},
+	{
+		"phrase": "Browsing the server list",
+		"comment": "[Rich Presence]",
+		"translation": "Palvelinluettelon selaaminen",
+		"machine": true
+	},
+	{
+		"phrase": "Title screen",
+		"comment": "[Rich Presence]",
+		"translation": "Otsikkoruutu",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to cancel",
+		"comment": "Parameter 0: '[ Escape ]'",
+		"translation": "Peruuta painamalla {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Full damage distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Täysi vaurioetäisyys",
+		"machine": true
+	},
+	{
+		"phrase": "Least damage distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Pienin vaurioetäisyys",
+		"machine": true
+	},
+	{
+		"phrase": "Lowest damage at distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Pienimmät vauriot etäisyydellä",
+		"machine": true
+	},
+	{
+		"phrase": "Round",
+		"comment": "[Attachment] [Unit] Weapon characteristic",
+		"translation": "Pyöristää",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks per second",
+		"comment": "[Weapon Statistics] [Unit] How many blocks a projectile travels per second",
+		"translation": "Lohkoja sekunnissa",
+		"machine": true
+	},
+	{
+		"phrase": "Fires three times per barrel rotation",
+		"comment": "Triple ammo description",
+		"translation": "Syttyy kolme kertaa tynnyriä kohti",
+		"machine": true
+	},
+	{
+		"phrase": "Shoot with plasma to increase its power",
+		"comment": "Augmented ammo description",
+		"translation": "Kuvaa plasmalla lisätäksesi sen tehoa",
+		"machine": true
+	},
+	{
+		"phrase": "Explodes into 3 clusters",
+		"comment": "Cluster ammo description",
+		"translation": "Räjähtää 3 klustereiksi",
+		"machine": true
+	},
+	{
+		"phrase": "Deals more damage further away from the explosion",
+		"comment": "Fragmentation payload description",
+		"translation": "Tekee enemmän vahinkoja kauempana räjähdyksestä",
+		"machine": true
+	},
+	{
+		"phrase": "Gains damage over distance",
+		"comment": "Rocket Rifle Kinetic ammo description",
+		"translation": "Saa vahinkoa etäisyydeltä",
+		"machine": true
+	},
+	{
+		"phrase": "Generates 5 mini orbs",
+		"comment": "Multi orb weapon description",
+		"translation": "Luo 5 minipalloa",
+		"machine": true
+	},
+	{
+		"phrase": "Generates a short plasma beam",
+		"comment": "Plasma cutter weapon description",
+		"translation": "Luo lyhyen plasmasäteen",
+		"machine": true
+	},
+	{
+		"phrase": "Sticky grenades",
+		"comment": "[Loadout Summary] Grenade label",
+		"translation": "Tahmeat kranaatit",
+		"machine": true
+	},
+	{
+		"phrase": "Points left",
+		"comment": "[Career Timeline] e.g. '1000 points left'",
+		"translation": "Pisteitä jäljellä",
+		"machine": true
+	},
+	{
+		"phrase": "Infinite ammo. Type {0} in chat to set your spawn point",
+		"comment": "[Claim Window] Parameter 0: '\/setspawn'",
+		"translation": "Loppumattomat ammukset. kirjoita chatissa {0} ja määritä kuteesi",
+		"machine": true
+	},
+	{
+		"phrase": "Next",
+		"comment": "[Victory Screen] [Navigation] Show the next career progression",
+		"translation": "Seuraava",
+		"machine": true
+	},
+	{
+		"phrase": "Skip",
+		"comment": "[Victory Screen] [Navigation] Skip the career progression showcase at the end of a match",
+		"translation": "Ohita",
+		"machine": true
+	},
+	{
+		"phrase": "Hold {0} to unlock the cursor",
+		"comment": "[Scoreboard] This text shows at the bottom. Parameter 0: '[ Right Click ]'",
+		"translation": "Avaa kohdistin pitämällä {0} painettuna",
+		"machine": true
+	},
+	{
+		"phrase": "Yes",
+		"comment": "Yes I would like to play Sector's Edge",
+		"translation": "Joo",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to enable Dynamic Rendering Settings?",
+		"translation": "Haluatko ottaa käyttöön dynaamiset renderointiasetukset?",
+		"machine": true
+	},
+	{
+		"phrase": "Map is still syncing. Retry in {0} seconds",
+		"comment": "[Admin chat message] The player is still loading the map and cant spawn yet. Parameter 0: '10'",
+		"translation": "Kartta synkronoidaan edelleen. yritä uudelleen {0} sekunnin kuluttua",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to respawn while the map is restoring. Retry in {0} seconds",
+		"comment": "[Admin chat message] This shows during trailer mode while the map is being restored to a previous state. Parameter 0: '10'",
+		"translation": "Uudelleenpalautus ei onnistu kartan palautuksen aikana. yritä uudelleen {0} sekunnin kuluttua",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
+		"comment": "[Admin chat message] Parameter 0: '10'",
+		"translation": "Ryhmien vaihtaminen ei onnistu, kun kartta palautetaan. yritä uudelleen {0} sekunnin kuluttua",
+		"machine": true
+	},
+	{
+		"phrase": "To balance the teams, {0} has moved themselves to the weaker team and will get an extra {1} Protons at the end of the round.",
+		"comment": "[Admin chat message] Parameter 0: 'Pegarex', parameter 1: '100'",
+		"translation": "Tasapainottaakseen joukkueita {0} on siirtynyt heikompaan joukkueeseen ja saa ylimääräiset {1} -protonit kierroksen lopussa.",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers. Thank you for playing! - Verc",
+		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"translation": "Tämä palvelin päivittyy {0}: ksi ottelun lopussa. sinun on päivitettävä asiakas Steamin kautta liittyäksesi uudelleen palvelimiin. Kiitos pelaamisesta! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "The workshop map does not support the gamemode {0}",
+		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"translation": "Työpajakartta ei tue pelitilaa {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing in {0} seconds. [Aegis Power: {1}] [Helix Power: {2}]",
+		"comment": "[Admin chat message] Parameter 0: '10'",
+		"translation": "Automaattinen tasapainotus {0} sekunnissa. [aegis power: {1}] [helix power: {2}]",
+		"machine": true
+	},
+	{
+		"phrase": "Moved {0} [{1}] from {2} [Power: {3}] to {4} [Power: {5}]",
+		"comment": "[Admin chat message] Parameter 0: 'Fora', parameter 1: '18', parameter 2: 'Helix', parameter 3: '73', parameter 4: 'Aegis', parameter 5: '55'",
+		"translation": "Siirretty {0} [{1}] {2} [teho: {3}] - {4} [teho: {5}]",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will shut down for a system update. You will have to join another server to keep playing.",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "{0} sekunnin kuluttua tämä palvelin sammuu järjestelmän päivityksen ajaksi. Sinun on liityttävä toiseen palvelimeen jatkaaksesi pelaamista.",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will update to {1}. You must update your client through Steam to rejoin servers.",
+		"comment": "[Admin chat message] Parameter 0: '30', parameter 1: 'Version 1.4.0'",
+		"translation": "{0} sekunnissa tämä palvelin päivittyy {1}: ksi. sinun on päivitettävä asiakas Steamin kautta liittyäksesi palvelimiin uudelleen.",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will quickly patch for maintenance. You do NOT need to update your client and you can remain in this lobby.",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "{0} sekunnissa tämä palvelin korjaa nopeasti huoltoa. sinun EI tarvitse päivittää asiakasta ja voit jäädä tähän aulaan.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been kicked ({1} - {2})",
+		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
+		"translation": "{0} on potkaistu ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been kicked ({1} - {2})",
+		"comment": "[Admin chat message] Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
+		"translation": "{0}: ta ei ole potkittu ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing in {0} seconds",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "Automaattinen tasapainotus {0} sekunnissa",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing now. The next player on {0} to die will be autobalanced.",
+		"comment": "[Admin chat message] Parameter 0: 'Aegis'",
+		"translation": "Automaattinen tasapainotus nyt. {0}: n seuraava kuoleva pelaaja tasapainottuu automaattisesti.",
+		"machine": true
+	},
+	{
+		"phrase": "The map is restoring. Try again in {0} seconds",
+		"comment": "Reason for being disconnected from a server. Parameter 0: '10'",
+		"translation": "Kartta palautuu. yritä uudelleen {0} sekunnin kuluttua",
+		"machine": true
+	},
+	{
+		"phrase": "You can only claim {0} lobbies per day",
+		"comment": "Reason for being disconnected from a server. Parameter 0: '3'",
+		"translation": "Voit vaatia vain {0} -aulaa päivässä",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks\n{1} blocks build distance\n{2} block health",
+		"comment": "Armour modification description. Parameter 0: '+100', parameter 1: '+2', parameter 2: '+5'",
+		"translation": "{0} lohkot\n{1} -lohkot rakentavat etäisyyden\n{2} estää terveyttä",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks safe fall distance\n{1} fall damage",
+		"comment": "Armour modification description. Parameter 0: '+3', parameter 1: '-15%'",
+		"translation": "{0} estää turvallisen pudotusetäisyyden\n{1} putoamisvauriot",
+		"machine": true
+	},
+	{
+		"phrase": "{0} self explosion knockback\n{1} self explosion damage",
+		"comment": "Armour modification description. Parameter 0: '+400%', parameter 1: '-10%'",
+		"translation": "{0} itseräjähdyksen takaisku\n{1} itseräjähdysvauriot",
+		"machine": true
+	},
+	{
+		"phrase": "{0} health regeneration speed",
+		"comment": "Armour modification description. Parameter 0: '+20%'",
+		"translation": "{0} terveyden uudistumisnopeus",
+		"machine": true
+	},
+	{
+		"phrase": "{0} movement speed",
+		"comment": "Armour modification description. Parameter 0: '+5%'",
+		"translation": "{0} liikenopeus",
+		"machine": true
+	},
+	{
+		"phrase": "{0} build and dig volume\n{1} footstep volume\n{2} footstep distance",
+		"comment": "Armour modification description. Parameter 0: '-40%', parameter 1: '-15%', parameter 2: '-25%'",
+		"translation": "{0} rakentaa ja kaivaa äänenvoimakkuutta\n{1} askeleen äänenvoimakkuus\n{2} askeleen etäisyys",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed",
+		"comment": "Armour modification description. Parameter 0: '+10%'",
+		"translation": "{0} kaivonopeus",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} equipment ammo on every ammo pickup",
+		"comment": "Armour modification description. Parameter 0: '+20%', parameter 1: '2', parameter 2: '+1'",
+		"translation": "{0} kaivonopeus\nVahvista {1} -lohkoja kaivettua lohkoa kohti\n{2} -laitteiden ammukset jokaisella ammuksella",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks safe fall distance\n{1} fall damage\n{2} block jump height",
+		"comment": "Armour modification description. Parameter 0: '+9', parameter 1: '-45%', parameter 2: '+1'",
+		"translation": "{0} estää turvallisen pudotusetäisyyden\n{1} putoamisvauriot\n{2} -lohkon hyppykorkeus",
+		"machine": true
+	},
+	{
+		"phrase": "{0} self explosion knockback\n{1}self explosion damage",
+		"comment": "Armour modification description. Parameter 0: '+500%', parameter 1: '-30%'",
+		"translation": "{0} itseräjähdyksen takaisku\n{1} itse räjähdysvauriot",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} health per ammo pickup",
+		"comment": "Armour modification description. Parameter 0: '+30%', parameter 1: '3', parameter 2: '+10%'",
+		"translation": "{0} kaivonopeus\nVahvista {1} -lohkoja kaivettua lohkoa kohti\n{2} terveyttä ammuksia vastaan",
+		"machine": true
+	},
+	{
+		"phrase": "Building {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Rakennus {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Digging {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Kaivaminen {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Rakenna + kaivaa {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Protons. Lasts for {1} hour",
+		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
+		"translation": "{0} Protonit. Kestää {1} tunnin",
+		"machine": true
+	},
+	{
+		"phrase": "{0} XP. Lasts for {1} hour",
+		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
+		"translation": "{0} XP. Kestää {1} tunnin",
+		"machine": true
+	},
+	{
+		"phrase": "Use this to unlock weapon skins on the Weapons screen",
+		"comment": "[Inventory] Weapon skin token description",
+		"translation": "Käytä tätä avataksesi aseiden nahat aseiden näytöllä",
+		"machine": true
+	},
+	{
+		"phrase": "This will automatically adjust your settings while you play to keep your frames-per-second stable.",
+		"translation": "Tämä säätää asetuksiasi automaattisesti toiston aikana pitämään kehykset sekunnissa vakaina.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a graphics preset to continue",
+		"translation": "Jatka valitsemalla esiasetettu grafiikka",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoints",
+		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
+		"translation": "Reittipisteet",
+		"machine": true
+	},
+	{
+		"phrase": "This is your list of loadouts. Each loadout is comprised of weapons, equipment and modifications.",
+		"comment": "Loadout tutorial description",
+		"translation": "Tämä on latausten luettelo. jokainen lataus koostuu aseista, varusteista ja muutoksista.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a loadout to continue",
+		"comment": "Tutorial prompt to click a loadout",
+		"translation": "Valitse lataus jatkaaksesi",
+		"machine": true
+	},
+	{
+		"phrase": "Each weapon, equipment and modification has a power value.",
+		"comment": "Loadout tutorial description",
+		"translation": "Jokaisella aseella, varusteella ja muutoksella on tehoarvo.",
+		"machine": true
+	},
+	{
+		"phrase": "The total power value for a loadout must be {0} or less",
+		"comment": "Loadout tutorial description. Parameter 0: '15'",
+		"translation": "Latauksen kokonaistehon arvon on oltava {0} tai vähemmän",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to continue",
+		"comment": "Loadout tutorial description. Parameter 0: 'space'",
+		"translation": "Jatka painamalla {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Each loadout can have up to {0} weapons.",
+		"comment": "Loadout tutorial description. Parameter 0: '2'",
+		"translation": "Jokaisessa latauksessa voi olla jopa {0} -aseita.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select a primary",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} valitaksesi ensisijaisen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select a secondary",
+		"comment": "Loadout tutorial description. Parameter 0: '2'",
+		"translation": "{0} valitaksesi toissijaisen",
+		"machine": true
+	},
+	{
+		"phrase": "Right click",
+		"comment": "Right mouse button",
+		"translation": "Oikealla painikkeella",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"comment": "[Unit] e.g. '1 equipment slot'",
+		"translation": "Aukko",
+		"machine": true
+	},
+	{
+		"phrase": "Slots",
+		"comment": "[Unit] [Plural] e.g. '2 equipment slots'",
+		"translation": "peliautomaatit",
+		"machine": true
+	},
+	{
+		"phrase": "Each loadout also has {0} equipment {1}.",
+		"comment": "Loadout tutorial description. Parameter 0: '1', parameter 1: 'slot'",
+		"translation": "Jokaisessa kuormituksessa on myös {0} -laitteet {1}.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select an equipment",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} laitteen valitsemiseksi",
+		"machine": true
+	},
+	{
+		"phrase": "Loadouts also have modifications (perks). These affect things like movement speed, fall damage, etc.",
+		"comment": "Loadout tutorial description",
+		"translation": "Latauksissa on myös muutoksia (etuja). nämä vaikuttavat esimerkiksi liikenopeuteen, putoamisvaurioihin jne.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} a modification to continue",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} muutos jatkaaksesi",
+		"machine": true
+	},
+	{
+		"phrase": "You can create as many loadouts as you like.",
+		"comment": "Loadout tutorial description",
+		"translation": "Voit luoda niin monta latausta kuin haluat.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to create a new loadout",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} uuden latauksen luomiseksi",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Joining in {2} {3}...",
+		"comment": "[Party Banner] Parameter 0: 'Salvage', parameter 1: 'SYDNEY-3', parameter 2: '7', parameter 3: 'seconds'",
+		"translation": "Puolueesi on liittynyt {0} -otteluun {1}: llä. liittyminen {2} {3}: een...",
 		"machine": true
 	}
 ]

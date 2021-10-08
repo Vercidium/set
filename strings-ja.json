@@ -474,12 +474,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Map is restoring. Try again in 10 seconds",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "マップが復元されています。 10秒後に再試行してください",
-		"machine": true
-	},
-	{
 		"phrase": "Network Error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "ネットワークエラー",
@@ -1062,177 +1056,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
-		"comment": "Weapon description",
-		"translation": "この中長距離兵器は、ほとんどの紛争でバランスが取れています.",
-		"machine": true
-	},
-	{
-		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
-		"comment": "Weapon description",
-		"translation": "より強力なビームを生成するために複数回充電できるMechariiテクノロジー.",
-		"machine": true
-	},
-	{
-		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
-		"comment": "Weapon description",
-		"translation": "左クリックで投げ、右クリックで爆発します。リスポーン時に、c4はあなたから切断され、爆発させるために撃たれなければなりません.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
-		"comment": "Weapon description",
-		"translation": "この中長距離ショットガンは、長距離でパンチを詰め込みます.\nスコーピング中、そのペレットの広がりは3.0秒で70％減少します.",
-		"machine": true
-	},
-	{
-		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
-		"comment": "Weapon description",
-		"translation": "通過する敵を電化するためにブロック面に置きます。使い捨てのみ.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
-		"comment": "Weapon description",
-		"translation": "この中距離の武器は、爆発する前に跳ね返る不安定なソルトリウムコアを発射します.",
-		"machine": true
-	},
-	{
-		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
-		"comment": "Weapon description",
-		"translation": "この手榴弾は不安定なソルトリウムコアを持ち、3秒後に爆発します。すべてのプレイヤーは2つの手榴弾を持っていますが、これを有効にすると手榴弾が壁にくっつきます.",
-		"machine": true
-	},
-	{
-		"phrase": "Agaman technology that cuts through blocks instantly.",
-		"comment": "Weapon description",
-		"translation": "ブロックを瞬時にカットするアガマンテクノロジー.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
-		"comment": "Weapon description",
-		"translation": "この中距離武器には制圧射撃用の大きなクリップがあります.\n50回の連続ショット後に過熱",
-		"machine": true
-	},
-	{
-		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
-		"comment": "Weapon description",
-		"translation": "プラズマのボールを素早く連続して発射するアガマン技術.",
-		"machine": true
-	},
-	{
-		"phrase": "Place blocks with this tool.",
-		"comment": "Weapon description",
-		"translation": "このツールでブロックを配置します.",
-		"machine": true
-	},
-	{
-		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
-		"comment": "Weapon description",
-		"translation": "ソルトリウムエネルギーを爆発性のプラズマ球に変換する破壊的なアガマン技術.",
-		"machine": true
-	},
-	{
-		"phrase": "Paint blocks with this tool.",
-		"comment": "Weapon description",
-		"translation": "このツールでブロックをペイントする.",
-		"machine": true
-	},
-	{
-		"phrase": "This close-mid ranged weapon shoots quickly but has a small magazine.",
-		"comment": "Weapon description",
-		"translation": "この半狭母音の武器は素早く発射しますが、小さなマガジンがあります.",
-		"machine": true
-	},
-	{
-		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
-		"comment": "Weapon description",
-		"translation": "軽いアガマンテクノロジー。速い発砲、強い打撃.",
-		"machine": true
-	},
-	{
-		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
-		"comment": "Weapon description",
-		"translation": "ヘビーアガマンテクノロジー。プラズマの強烈なボールを発射します.",
-		"machine": true
-	},
-	{
-		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
-		"comment": "Weapon description",
-		"translation": "この長距離兵器は磁気推進力を使用し、4倍のスコープを装備して範囲内の味方をサポートすることができます.",
-		"machine": true
-	},
-	{
-		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
-		"comment": "Weapon description",
-		"translation": "この強烈な近距離武器には、強力なソルトリウムコアが含まれています.",
-		"machine": true
-	},
-	{
-		"phrase": "Such a small gun. Such a massive boom.",
-		"comment": "Weapon description",
-		"translation": "そのような小さな銃。そのような大ブーム.",
-		"machine": true
-	},
-	{
-		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
-		"comment": "Weapon description",
-		"translation": "この長距離兵器は、爆発性ミサイルを発射するためにソルトリウム推進技術を使用しています.",
-		"machine": true
-	},
-	{
-		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
-		"comment": "Weapon description",
-		"translation": "2秒ごとにパルスするフローティングスキャニングオーブを起動し、壁を通して敵を明らかにします.\nスキャナーオーブは敵プレイヤーが撃つことができます.",
-		"machine": true
-	},
-	{
-		"phrase": "This close ranged weapon creates a blast of shrapnel.",
-		"comment": "Weapon description",
-		"translation": "この近距離武器は榴散弾の爆発を作成します.",
-		"machine": true
-	},
-	{
-		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
-		"comment": "Weapon description",
-		"translation": "この近中距離の武器はパンチを詰め込みます。反動に気をつけろ.",
-		"machine": true
-	},
-	{
-		"phrase": "Place block structures with this tool.",
-		"comment": "Weapon description",
-		"translation": "このツールでブロック構造を配置します.",
-		"machine": true
-	},
-	{
-		"phrase": "Attaches to walls. Right click to pull the wall down.",
-		"comment": "Weapon description",
-		"translation": "壁に取り付けます。右クリックして壁を引き下げます.",
-		"machine": true
-	},
-	{
 		"phrase": "Building",
 		"comment": "Armour modification name",
 		"translation": "建物",
-		"machine": true
-	},
-	{
-		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
-		"comment": "Armour modification description",
-		"translation": "+100ブロック\n+2ブロック構築距離\n+5ブロックヘルス",
-		"machine": true
-	},
-	{
-		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
-		"comment": "Armour modification description",
-		"translation": "+100ブロック\n+4ブロック構築距離\n+9ブロックヘルス",
-		"machine": true
-	},
-	{
-		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
-		"comment": "Armour modification description",
-		"translation": "+100ブロック\n+6ブロック構築距離\n+13ブロックヘルス",
 		"machine": true
 	},
 	{
@@ -1267,7 +1093,7 @@
 	},
 	{
 		"phrase": "Kinetic",
-		"comment": "Armour modification name",
+		"comment": "Payload attachment name",
 		"translation": "キネティック",
 		"machine": true
 	},
@@ -1275,168 +1101,6 @@
 		"phrase": "Scavenger",
 		"comment": "Armour modification name",
 		"translation": "スカベンジャー",
-		"machine": true
-	},
-	{
-		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
-		"comment": "Armour modification description",
-		"translation": "+3ブロックの安全落下距離\n-15％の落下ダメージ",
-		"machine": true
-	},
-	{
-		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+ 400％自己爆発ノックバック\n-10％の自己爆発ダメージ",
-		"machine": true
-	},
-	{
-		"phrase": "+20% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+ 20％のヘルス再生速度",
-		"machine": true
-	},
-	{
-		"phrase": "+5% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+ 5％の移動速度",
-		"machine": true
-	},
-	{
-		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-40％のビルドと掘り出し量\n-15％の足音ボリューム\n-25％の足跡距離",
-		"machine": true
-	},
-	{
-		"phrase": "+10% dig speed",
-		"comment": "Armour modification description",
-		"translation": "+ 10％の掘削速度",
-		"machine": true
-	},
-	{
-		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
-		"comment": "Armour modification description",
-		"translation": "+6ブロックの安全落下距離\n-30％の落下ダメージ",
-		"machine": true
-	},
-	{
-		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+ 450％自己爆発ノックバック\n-20％の自己爆発ダメージ",
-		"machine": true
-	},
-	{
-		"phrase": "+40% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+ 40％のヘルス再生速度",
-		"machine": true
-	},
-	{
-		"phrase": "+10% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+ 10％の移動速度",
-		"machine": true
-	},
-	{
-		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-60％のビルドとディグボリューム\n-30％の足音ボリューム\n-50％の足跡距離",
-		"machine": true
-	},
-	{
-		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
-		"comment": "Armour modification description",
-		"translation": "+ 20％の掘削速度\n掘ったブロックごとに2ブロックを獲得\nすべての弾薬ピックアップで+1の装備弾薬",
-		"machine": true
-	},
-	{
-		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
-		"comment": "Armour modification description",
-		"translation": "+9ブロックの安全落下距離\n-45％の落下ダメージ\n+1ブロックジャンプ高さ",
-		"machine": true
-	},
-	{
-		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+ 500％自己爆発ノックバック\n-30％の自己爆発ダメージ",
-		"machine": true
-	},
-	{
-		"phrase": "+60% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+ 60％のヘルス再生速度",
-		"machine": true
-	},
-	{
-		"phrase": "+15% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+ 15％の移動速度",
-		"machine": true
-	},
-	{
-		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-80％のビルドと掘削ボリューム\n-45％の足音ボリューム\n-75％の足跡距離",
-		"machine": true
-	},
-	{
-		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
-		"comment": "Armour modification description",
-		"translation": "+ 30％の掘削速度\n掘ったブロックごとに3ブロックを獲得\n弾薬ピックアップごとに+10ヘルス",
-		"machine": true
-	},
-	{
-		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
-		"comment": "Character description",
-		"translation": "経験の浅い間、この傭兵はソルトリウム銀河への旅に勇敢に立ち向かい、戦いで彼らの価値を証明しようとしています.",
-		"machine": true
-	},
-	{
-		"phrase": "This solo operative seeks nothing but victory when it comes to saving their race from destruction.",
-		"comment": "Character description",
-		"translation": "この一人の工作員は、彼らの種族を破壊から救うことになると、勝利以外の何物も求めません。.",
-		"machine": true
-	},
-	{
-		"phrase": "A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.",
-		"comment": "Character description",
-		"translation": "範囲内での致命的な狙撃兵と近くでの迅速な殺人者、彼らはどんな遭遇でも彼ら自身を保持することができます.",
-		"machine": true
-	},
-	{
-		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
-		"comment": "Character description",
-		"translation": "この司令官はフレア中に腕を失いましたが、レースの未来のために戦い続けています.",
-		"machine": true
-	},
-	{
-		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
-		"comment": "Character description",
-		"translation": "銀河の郊外を歩き回り、一人で旅をする勇気のある人を攻撃する無法者.",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
-		"comment": "Character description",
-		"translation": "このアガマンは、ソルトリウム銀河に入る価値を証明するために最前線で慎重に戦いました.",
-		"machine": true
-	},
-	{
-		"phrase": "A curious one, aren't you?",
-		"comment": "Character description",
-		"translation": "好奇心旺盛ですよね?",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
-		"comment": "Character description",
-		"translation": "このアガマンは、ソルトリウム銀河への旅をするためにすべてをあきらめました.",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
-		"comment": "Character description",
-		"translation": "このアガマンハイボーンは、肉と機械の止められない混合物を作り出す実験でソルトリウムを注入されました.",
 		"machine": true
 	},
 	{
@@ -1512,12 +1176,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "First to 5 wins",
-		"comment": "[Gamemode Info] Win requirement, e.g. win 5 rounds in Arena to win",
-		"translation": "最初から5勝",
-		"machine": true
-	},
-	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
 		"comment": "[Gamemode Info] Arena gamemode description",
 		"translation": "ソルトリウムが賭けられている銀河の郊外に影の市場が発達しました。出場者が利益と生存のために戦う分野では、それはすべてか無かです.",
@@ -1525,91 +1183,43 @@
 	},
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
-		"comment": "[Gamemode Info] Spire gamemode description",
+		"comment": "[Gamemode Info] [Description] [Spire]",
 		"translation": "何もないところから始めて、武器を集めて敵チームを排除します.",
 		"machine": true
 	},
 	{
 		"phrase": "All players start with the same randomised loadout.",
-		"comment": "[Gamemode Info] Static gamemode description",
+		"comment": "[Gamemode Info] [Description] [Static]",
 		"translation": "すべてのプレイヤーは同じランダム化されたロードアウトで始まります.",
 		"machine": true
 	},
 	{
-		"phrase": "Times to win",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "勝つための時間",
-		"machine": true
-	},
-	{
-		"phrase": "Soltrium is scattered throughout the outer sector. Various",
-		"comment": "[Salvage] [1\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "ソルトリウムは外側のセクター全体に散らばっています。様々",
-		"machine": true
-	},
-	{
 		"phrase": "And",
-		"comment": "[Salvage] [2\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
+		"comment": "[Conjunction]",
 		"translation": "と",
 		"machine": true
 	},
 	{
-		"phrase": "battalions have been dispatched to search for and collect the precious resource.",
-		"comment": "[Salvage] [3\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "貴重な資源を探して集めるために大隊が派遣されました.",
-		"machine": true
-	},
-	{
-		"phrase": "Capture 5 zones to win",
-		"comment": "[Breakthrough] Win requirement. A team must capture 5 zones to win",
-		"translation": "勝つために5つのゾーンをキャプチャします",
-		"machine": true
-	},
-	{
 		"phrase": "Control the zone to win",
-		"comment": "[Control Shift] Win requirement. A team must control and push the zone back into the enemy spawn to win",
+		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
 		"translation": "勝つためにゾーンを制御する",
 		"machine": true
 	},
 	{
-		"phrase": "Deliver the bomb",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Deliver the bomb 3 times to win",
-		"translation": "爆弾を届ける",
-		"machine": true
-	},
-	{
-		"phrase": "Capture the flag",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "旗を取れ",
-		"machine": true
-	},
-	{
 		"phrase": "Get two kills with every weapon, then melee to win",
-		"comment": "[Gun Game] Win requirement",
+		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
 		"translation": "すべての武器で2キルを取得し、近接攻撃で勝利する",
 		"machine": true
 	},
 	{
 		"phrase": "Hold the most Soltrium to win",
-		"comment": "[Head Hunter] Win requirement",
+		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
 		"translation": "勝つために最も多くのソルトリウムを保持する",
 		"machine": true
 	},
 	{
-		"phrase": "Pick up",
-		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "選び出す",
-		"machine": true
-	},
-	{
-		"phrase": "From enemy corpses",
-		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "敵の死体から",
-		"machine": true
-	},
-	{
 		"phrase": "Weapons and Mods spawn around the map",
-		"comment": "[Head Hunter] Gamemode description.",
+		"comment": "[Gamemode Info] [Description] [Head Hunter]",
 		"translation": "マップの周りに武器と改造が出現します",
 		"machine": true
 	},
@@ -1617,30 +1227,6 @@
 		"phrase": "Not bound",
 		"comment": "[Keybind] This is replacement text for an unbound keybind, e.g. Press [Not bound] to sprint",
 		"translation": "バインドされていません",
-		"machine": true
-	},
-	{
-		"phrase": "You can hold",
-		"comment": "[Connecting] [Loading Tip 1] [1\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "あなたが保持することができます",
-		"machine": true
-	},
-	{
-		"phrase": "To reveal enemy positions to teammates",
-		"comment": "[Connecting] [Loading Tip 1] [2\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "チームメイトに敵の位置を明らかにする",
-		"machine": true
-	},
-	{
-		"phrase": "You can press",
-		"comment": "[Connecting] [Loading Tip 2] [1\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "あなたは押すことができます",
-		"machine": true
-	},
-	{
-		"phrase": "To provide feedback",
-		"comment": "[Connecting] [Loading Tip 2] [2\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "フィードバックを提供するには",
 		"machine": true
 	},
 	{
@@ -1797,42 +1383,6 @@
 		"phrase": "Double XP + Proton Weekend! Ends in",
 		"comment": "[Play Screen] The full phrase is: Double XP + Proton Weekend! Ends in 3 days, 1 hour and 12 minutes",
 		"translation": "ダブルXP +プロトンウィークエンド！で終わる",
-		"machine": true
-	},
-	{
-		"phrase": "day",
-		"comment": "[Unit] Time measurement",
-		"translation": "日",
-		"machine": true
-	},
-	{
-		"phrase": "days",
-		"comment": "[Unit] Time measurement",
-		"translation": "日々",
-		"machine": true
-	},
-	{
-		"phrase": "hour",
-		"comment": "[Unit] Time measurement",
-		"translation": "時間",
-		"machine": true
-	},
-	{
-		"phrase": "hours",
-		"comment": "[Unit] Time measurement",
-		"translation": "時間",
-		"machine": true
-	},
-	{
-		"phrase": "minute",
-		"comment": "[Unit] Time measurement",
-		"translation": "分",
-		"machine": true
-	},
-	{
-		"phrase": "minutes",
-		"comment": "[Unit] Time measurement",
-		"translation": "分",
 		"machine": true
 	},
 	{
@@ -2082,18 +1632,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Press",
-		"comment": "[1\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "プレス",
-		"machine": true
-	},
-	{
-		"phrase": "Or",
-		"comment": "[2\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "または",
-		"machine": true
-	},
-	{
 		"phrase": "Pick up equipment",
 		"comment": "[Input Prompt] This text shows in Spire when the player is standing next to C4. The full text is '[V] Pick up equipment'",
 		"translation": "機器を拾う",
@@ -2191,7 +1729,7 @@
 	},
 	{
 		"phrase": "Settings",
-		"comment": "[Setting] [1\/3] This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"comment": "[In-Game Escape Menu] View the settings window",
 		"translation": "設定",
 		"machine": true
 	},
@@ -2235,18 +1773,6 @@
 		"phrase": "You are carrying the bomb",
 		"comment": "[Escort] This text shows at the top of the screen when the player is carrying the bomb",
 		"translation": "あなたは爆弾を運んでいます",
-		"machine": true
-	},
-	{
-		"phrase": "To drop the flag",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the flag'",
-		"translation": "旗を落とすには",
-		"machine": true
-	},
-	{
-		"phrase": "To drop the bomb",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the bomb'",
-		"translation": "爆弾を落とすには",
 		"machine": true
 	},
 	{
@@ -2298,18 +1824,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Shoot the targets and try different weapons. Press",
-		"comment": "[Tutorial] [1\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "ターゲットを撃ち、さまざまな武器を試してください。プレス",
-		"machine": true
-	},
-	{
-		"phrase": "To set up a loadout",
-		"comment": "[Tutorial] [2\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "ロードアウトを設定するには",
-		"machine": true
-	},
-	{
 		"phrase": "Level",
 		"comment": "[Killcam] The level of the player",
 		"translation": "レベル",
@@ -2317,7 +1831,7 @@
 	},
 	{
 		"phrase": "Tag",
-		"comment": "[Killcam] [Unit] The amount of tags this player has, e.g. '1 Tag'",
+		"comment": "[Career Path] [Prefix] i.e. ''Assassin' tag'",
 		"translation": "鬼ごっこ",
 		"machine": true
 	},
@@ -2395,7 +1909,7 @@
 	},
 	{
 		"phrase": "Block",
-		"comment": "e.g. +1 Block when picking up an ammo bonus",
+		"comment": "[Attachment] [Unit] Distance measurement unit",
 		"translation": "ブロック",
 		"machine": true
 	},
@@ -2499,18 +2013,6 @@
 		"phrase": "Protons, XP and stats will not be tracked",
 		"comment": "[Claim Window] When enabling Eternal, Trailer or Sandbox Mode, player statistics will not be tracked and protons and XP will not be rewarded",
 		"translation": "プロトン、XP、統計は追跡されません",
-		"machine": true
-	},
-	{
-		"phrase": "Infinite ammo. Type",
-		"comment": "[Claim Window] [1\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "無限の弾薬。タイプ",
-		"machine": true
-	},
-	{
-		"phrase": "in chat to set your spawn point",
-		"comment": "[Claim Window] [2\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "チャットでスポーンポイントを設定する",
 		"machine": true
 	},
 	{
@@ -2785,26 +2287,14 @@
 	},
 	{
 		"phrase": "Low level",
-		"comment": "[Play Screen] [Navigation] Low level tab",
+		"comment": "[Play Screen] [Navigation] Low level filter",
 		"translation": "低レベル",
 		"machine": true
 	},
 	{
 		"phrase": "Custom",
-		"comment": "[Play Screen] [Navigation] Custom lobbies tab",
+		"comment": "[Play Screen] [Navigation] Custom lobbies filter",
 		"translation": "カスタム",
-		"machine": true
-	},
-	{
-		"phrase": "Empty servers",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
-		"translation": "空のサーバー",
-		"machine": true
-	},
-	{
-		"phrase": "Full servers",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that have full capacity",
-		"translation": "フルサーバー",
 		"machine": true
 	},
 	{
@@ -2977,12 +2467,8 @@
 	},
 	{
 		"phrase": "Loadout power",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "ロードアウトパワー",
-		"machine": true
-	},
-	{
-		"phrase": "Damage range",
-		"translation": "ダメージ範囲",
 		"machine": true
 	},
 	{
@@ -3023,7 +2509,7 @@
 	},
 	{
 		"phrase": "Rounds",
-		"comment": "[Attachment] Weapon characteristic",
+		"comment": "[Attachment] [Unit] Weapon characteristic",
 		"translation": "ラウンド",
 		"machine": true
 	},
@@ -3485,7 +2971,7 @@
 	},
 	{
 		"phrase": "Performance",
-		"comment": "[Setting] [2\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"comment": "[Settings] [Button] Sidebar text",
 		"translation": "パフォーマンス",
 		"machine": true
 	},
@@ -3499,12 +2985,6 @@
 		"phrase": "Accessibility",
 		"comment": "[Settings] [Button] Sidebar text",
 		"translation": "アクセシビリティ",
-		"machine": true
-	},
-	{
-		"phrase": "Close",
-		"comment": "Close the settings window",
-		"translation": "選ぶ",
 		"machine": true
 	},
 	{
@@ -4354,24 +3834,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable this to make",
-		"comment": "[Setting] [Tooltip] [1\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "これを有効にして",
-		"machine": true
-	},
-	{
-		"phrase": "dig single blocks and",
-		"comment": "[Setting] [Tooltip] [2\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "単一のブロックを掘り、",
-		"machine": true
-	},
-	{
-		"phrase": "dig a 3x3x3 area",
-		"comment": "[Setting] [Tooltip] [3\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "3x3x3の領域を掘る",
-		"machine": true
-	},
-	{
 		"phrase": "Forwards",
 		"comment": "[Keybind] Move forward",
 		"translation": "フォワード",
@@ -4763,13 +4225,13 @@
 	},
 	{
 		"phrase": "Open Trial Window",
-		"comment": "[Keybind]",
+		"comment": "[Keybind] Open the Trial window",
 		"translation": "トライアルウィンドウを開く",
 		"machine": true
 	},
 	{
 		"phrase": "Restart Trial",
-		"comment": "[Keybind]",
+		"comment": "[Keybind] Restart the current Trial",
 		"translation": "トライアルを再開する",
 		"machine": true
 	},
@@ -4795,12 +4257,6 @@
 		"phrase": "MVP",
 		"comment": "Abbreviated medal name",
 		"translation": "MVP",
-		"machine": true
-	},
-	{
-		"phrase": "You can only claim 3 lobbies per day",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "1日あたり3つのロビーしか請求できません",
 		"machine": true
 	},
 	{
@@ -4846,58 +4302,10 @@
 		"machine": true
 	},
 	{
-		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
-		"comment": "Weapon description",
-		"translation": "[非推奨]イージスの高度な技術の証.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
-		"comment": "Weapon description",
-		"translation": "[非推奨] 3x3x3のブロックチャンクを削除する低速のmidi掘削.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Allows one extra modification to be equipped.",
-		"comment": "Weapon description",
-		"translation": "[非推奨] 1つの追加の変更を装備できます.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid ranged weapon shoots Soltrium Tracer Rounds. Recharges over time and can overheat.",
-		"comment": "Weapon description for Aranet's Minigun",
-		"translation": "この中距離武器は、ソルトリウムトレーサーラウンドを撃ちます。時間の経過とともに再充電され、過熱する可能性があります.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Blocks placed have +100% health.",
-		"comment": "Weapon description",
-		"translation": "[非推奨]配置されたブロックのヘルスは+ 100％です.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Agaman technology. This close ranged weapon propels a spray of plasma",
-		"comment": "Weapon description",
-		"translation": "[非推奨] agamanテクノロジー。この近距離兵器はプラズマのスプレーを推進します",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Cluster Agama technology. Not much about this weapon is known.",
-		"comment": "Weapon description",
-		"translation": "[非推奨]クラスターアガマテクノロジー。この武器についてはあまり知られていません.",
-		"machine": true
-	},
-	{
 		"phrase": "Blocks",
 		"context": "Cubes",
 		"comment": "A 3d voxel",
 		"translation": "ブロック",
-		"machine": true
-	},
-	{
-		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
-		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
-		"translation": "アニメーションブロックスキンを正しくレンダリングするには、アニメーションブロックスキンを有効にする必要があります",
 		"machine": true
 	},
 	{
@@ -4916,30 +4324,6 @@
 		"phrase": "This is an experimental server used for beta testing. The game may not function as intended",
 		"comment": "[Connecting] Text that shows on the left of the screen when connecting to a beta server",
 		"translation": "これは、ベータテストに使用される実験的なサーバーです。ゲームが意図したとおりに機能しない可能性があります",
-		"machine": true
-	},
-	{
-		"phrase": "The first team to",
-		"comment": "[Gamemode Info] [1\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "最初のチーム",
-		"machine": true
-	},
-	{
-		"phrase": "points wins",
-		"comment": "[Gamemode Info] [2\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "ポイントが勝ちます",
-		"machine": true
-	},
-	{
-		"phrase": "Before uploading maps to the Steam workshop, you must agree to the",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
-		"translation": "Steamワークショップにマップをアップロードする前に、",
-		"machine": true
-	},
-	{
-		"phrase": "Terms of Service.",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
-		"translation": "利用規約.",
 		"machine": true
 	},
 	{
@@ -5198,48 +4582,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
-		"comment": "[Setting Tooltip] Peacekeeper description",
-		"translation": "レベル20以下で、KDRが1以下の敵は、ハイライト表示されます。.",
-		"machine": true
-	},
-	{
-		"phrase": "For the duration Peacekeeper is enabled, deal",
-		"comment": "[Setting Tooltip] [1\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "ピースキーパーが有効になっている間、取引",
-		"machine": true
-	},
-	{
-		"phrase": "damage to these players and earn",
-		"comment": "[Setting Tooltip] [2\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "これらのプレイヤーにダメージを与えて稼ぐ",
-		"machine": true
-	},
-	{
-		"phrase": "extra XP and Protons.",
-		"comment": "[Setting Tooltip] [3\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "追加のXPとプロトン.",
-		"machine": true
-	},
-	{
-		"phrase": "Changes take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "[Setting Tooltip] [4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "変更はリスポーンで有効になります。ピースキーパーは、すべてのゲームモードで無料で効果がありません.",
-		"machine": true
-	},
-	{
-		"phrase": "This controls the scale of all UI and in-game HUD. Press",
-		"comment": "[Setting] [Tooltip] [1\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100",
-		"translation": "これは、すべてのUIとゲーム内HUDのスケールを制御します。プレス",
-		"machine": true
-	},
-	{
-		"phrase": "to reset it back to 100%",
-		"comment": "[Setting] [Tooltip] [2\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100%",
-		"translation": "100にリセットします%",
-		"machine": true
-	},
-	{
 		"phrase": "KDR",
 		"comment": "[Player Statistic] Kill to death ratio",
 		"translation": "KDR",
@@ -5294,14 +4636,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "to change team mates",
-		"comment": "[3\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "チームメイトを変更するには",
-		"machine": true
-	},
-	{
 		"phrase": "Magazines",
-		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
+		"comment": "[Unit] e.g. '+2 Magazines' when picking up an ammo bonus",
 		"translation": "雑誌",
 		"machine": true
 	},
@@ -5309,60 +4645,6 @@
 		"phrase": "Hidden",
 		"comment": "[Point UI Customisation] Hidden point category",
 		"translation": "隠れた",
-		"machine": true
-	},
-	{
-		"phrase": "Building 1",
-		"comment": "[Trial Name]",
-		"translation": "ビル1",
-		"machine": true
-	},
-	{
-		"phrase": "Building 2",
-		"comment": "[Trial Name]",
-		"translation": "2号館",
-		"machine": true
-	},
-	{
-		"phrase": "Building 3",
-		"comment": "[Trial Name]",
-		"translation": "3号館",
-		"machine": true
-	},
-	{
-		"phrase": "Digging 1",
-		"comment": "[Trial Name]",
-		"translation": "掘る1",
-		"machine": true
-	},
-	{
-		"phrase": "Digging 2",
-		"comment": "[Trial Name]",
-		"translation": "掘る2",
-		"machine": true
-	},
-	{
-		"phrase": "Digging 3",
-		"comment": "[Trial Name]",
-		"translation": "掘る3",
-		"machine": true
-	},
-	{
-		"phrase": "Build + Dig 1",
-		"comment": "[Trial Name]",
-		"translation": "ビルド+ディグ1",
-		"machine": true
-	},
-	{
-		"phrase": "Build + Dig 2",
-		"comment": "[Trial Name]",
-		"translation": "ビルド+ディグ2",
-		"machine": true
-	},
-	{
-		"phrase": "Build + Dig 3",
-		"comment": "[Trial Name]",
-		"translation": "ビルド+ディグ3",
 		"machine": true
 	},
 	{
@@ -5374,7 +4656,7 @@
 	{
 		"phrase": "Open",
 		"context": "Public",
-		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"comment": "[Play Screen] [Navigation] Public lobbies filter",
 		"translation": "開ける",
 		"machine": true
 	},
@@ -5558,34 +4840,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Play a Match",
-		"context": "Play a Game",
-		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
-		"translation": "試合をする",
-		"machine": true
-	},
-	{
-		"phrase": "Enter Trials",
-		"context": "Enter the Trials",
-		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
-		"translation": "トライアルに参加する",
-		"machine": true
-	},
-	{
-		"phrase": "Replay Tutorial",
-		"context": "Replay the Tutorial",
-		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
-		"translation": "リプレイチュートリアル",
-		"machine": true
-	},
-	{
-		"phrase": "Reset Ship",
-		"context": "Reset the Ship",
-		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
-		"translation": "船をリセット",
-		"machine": true
-	},
-	{
 		"phrase": "e.g. apples",
 		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
 		"translation": "例：リンゴ",
@@ -5599,7 +4853,7 @@
 	},
 	{
 		"phrase": "Connection to Steam failed. Online play is unavailable",
-		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
+		"comment": "[Popup] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
 		"translation": "Steamへの接続に失敗しました。オンラインプレイは利用できません",
 		"machine": true
 	},
@@ -5631,18 +4885,6 @@
 		"phrase": "Platinum medal",
 		"comment": "[Trial Reward]",
 		"translation": "プラチナメダル",
-		"machine": true
-	},
-	{
-		"phrase": "To restart",
-		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
-		"translation": "再起動します",
-		"machine": true
-	},
-	{
-		"phrase": "To cancel",
-		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
-		"translation": "キャンセルします",
 		"machine": true
 	},
 	{
@@ -5715,7 +4957,7 @@
 	},
 	{
 		"phrase": "Accuracy",
-		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
+		"comment": "[Career name] This career is progressed through headshots and explosive directs",
 		"translation": "正確さ",
 		"machine": true
 	},
@@ -5771,13 +5013,13 @@
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "時間",
 		"machine": true
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "時間",
 		"machine": true
 	},
@@ -5998,7 +5240,7 @@
 	{
 		"phrase": "Spectate",
 		"context": "Become a spectator",
-		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
+		"comment": "[Scoreboard] [Button]",
 		"translation": "観客",
 		"machine": true
 	},
@@ -6068,18 +5310,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Hold",
-		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "所有",
-		"machine": true
-	},
-	{
-		"phrase": "To unlock the cursor",
-		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "カーソルのロックを解除するには",
-		"machine": true
-	},
-	{
 		"phrase": "Spectator",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
 		"translation": "観客",
@@ -6105,7 +5335,7 @@
 	},
 	{
 		"phrase": "Balance the teams",
-		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
+		"comment": "[Scoreboard] [Button]",
 		"translation": "チームのバランスをとる",
 		"machine": true
 	},
@@ -6237,7 +5467,7 @@
 	},
 	{
 		"phrase": "Online",
-		"comment": "[Social Sidebar] Placeholder friend status",
+		"comment": "[Play Screen] [Navigation] Online tab",
 		"translation": "オンライン",
 		"machine": true
 	},
@@ -6523,48 +5753,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "+50% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+ 50％プロトン。 1時間持続",
-		"machine": true
-	},
-	{
-		"phrase": "+100% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+ 100％プロトン。 1時間持続",
-		"machine": true
-	},
-	{
-		"phrase": "+200% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+ 200％プロトン。 1時間持続",
-		"machine": true
-	},
-	{
-		"phrase": "+50% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+ 50％XP。 1時間持続",
-		"machine": true
-	},
-	{
-		"phrase": "+100% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+ 100％XP。 1時間持続",
-		"machine": true
-	},
-	{
-		"phrase": "+200% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+ 200％XP。 1時間持続",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon Skin Token. Use this to unlock weapon skins on the Weapons screen",
-		"comment": "[Inventory] Weapon skin token description",
-		"translation": "武器スキントークン。これを使用して、武器画面で武器スキンのロックを解除します",
-		"machine": true
-	},
-	{
 		"phrase": "Weapon Skin Token",
 		"comment": "[Inventory] Weapon skin token display name",
 		"translation": "武器スキントークン",
@@ -6747,7 +5935,7 @@
 	},
 	{
 		"phrase": "Left click",
-		"comment": "[Loadout] [Input Prompt]",
+		"comment": "Left mouse button",
 		"translation": "左クリック",
 		"machine": true
 	},
@@ -6819,7 +6007,7 @@
 	},
 	{
 		"phrase": "Grenades",
-		"comment": "[Unit] Amount of grenades, e.g. I have 2 grenades",
+		"comment": "[Loadout Summary] Grenade label",
 		"translation": "手榴弾",
 		"machine": true
 	},
@@ -7001,7 +6189,7 @@
 	},
 	{
 		"phrase": "No",
-		"comment": "[Mapping] Text that shows if a file is not provided, e.g. 'No VOX file found' or 'No JSON file found'",
+		"comment": "No thank you I'm fine",
 		"translation": "番号",
 		"machine": true
 	},
@@ -7150,18 +6338,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
-		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "誰でもオープンロビーに参加できます。空のロビーを右クリックして請求します.\n1日あたり3つのロビーのみを請求できます.",
-		"machine": true
-	},
-	{
-		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
-		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "カスタムロビーを作成するには、開いているロビータブに変更し、空のロビーを右クリックします.",
-		"machine": true
-	},
-	{
 		"phrase": "Current version",
 		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
 		"translation": "現行版",
@@ -7186,50 +6362,44 @@
 		"machine": true
 	},
 	{
-		"phrase": "Preferences",
-		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
-		"translation": "環境設定",
-		"machine": true
-	},
-	{
 		"phrase": "Game Modes",
-		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter check boxes",
 		"translation": "ゲームモード",
 		"machine": true
 	},
 	{
 		"phrase": "Regions",
-		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter check boxes",
 		"translation": "地域",
 		"machine": true
 	},
 	{
 		"phrase": "Open",
-		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"comment": "[Play Screen] [Navigation] Public lobbies filter",
 		"translation": "開ける",
 		"machine": true
 	},
 	{
 		"phrase": "Day",
-		"comment": "[Unit] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "日",
 		"machine": true
 	},
 	{
 		"phrase": "Days",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "日々",
 		"machine": true
 	},
 	{
 		"phrase": "Minute",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "分",
 		"machine": true
 	},
 	{
 		"phrase": "Minutes",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "分",
 		"machine": true
 	},
@@ -8282,12 +7452,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Joining in",
-		"comment": "[Party Banner] The full phrase is: 'Joining in 10 seconds'",
-		"translation": "参加する",
-		"machine": true
-	},
-	{
 		"phrase": "Weapon",
 		"comment": "[Progression UI] Placeholder text",
 		"translation": "武器",
@@ -8582,18 +7746,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Has taken our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken our flag'",
-		"translation": "私たちの旗を取りました",
-		"machine": true
-	},
-	{
-		"phrase": "Has taken the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken the enemy flag'",
-		"translation": "敵の旗を取りました",
-		"machine": true
-	},
-	{
 		"phrase": "Has picked up the enemy bomb",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
 		"translation": "敵の爆弾を拾いました",
@@ -8660,21 +7812,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "You have dropped the bomb",
-		"comment": "[Announcement]'",
-		"translation": "あなたは爆弾を落としました",
-		"machine": true
-	},
-	{
 		"phrase": "Has dropped the enemy flag",
 		"comment": "[Announcement]'",
 		"translation": "敵の旗を落としました",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped the bomb",
-		"comment": "[Announcement]'",
-		"translation": "爆弾を落としました",
 		"machine": true
 	},
 	{
@@ -8987,22 +8127,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Waypoints",
-		"context": "Waypoint count",
-		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
-		"translation": "ウェイポイント",
-		"machine": true
-	},
-	{
 		"phrase": "Team",
 		"comment": "[Chat] This is the prefix for a team chat message, e.g. '[TEAM] Dirt Master: Im staying up past my bed time, dont tell anyone'",
 		"translation": "チーム",
-		"machine": true
-	},
-	{
-		"phrase": "Creating shaders",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "シェーダーの作成",
 		"machine": true
 	},
 	{
@@ -9021,18 +8148,6 @@
 		"phrase": "Loading models",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
 		"translation": "モデルの読み込み",
-		"machine": true
-	},
-	{
-		"phrase": "There was an error initialising shaders. Please follow the instructions at",
-		"comment": "[Error] [Message Popup] [1\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "シェーダーの初期化中にエラーが発生しました。の指示に従ってください",
-		"machine": true
-	},
-	{
-		"phrase": "to submit your log files and help solve this issue",
-		"comment": "[Error] [Message Popup] [2\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "ログファイルを送信して、この問題の解決に役立てる",
 		"machine": true
 	},
 	{
@@ -9087,6 +8202,1156 @@
 		"phrase": "Base amplifier",
 		"comment": "[Attachment] Midi attachment name",
 		"translation": "ベースアンプ",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to redeploy while spawning",
+		"comment": "[Admin chat message]",
+		"translation": "スポーン中に再デプロイできません",
+		"machine": true
+	},
+	{
+		"phrase": "You may only run commands in a custom lobby that you claimed",
+		"comment": "[Admin chat message]",
+		"translation": "あなたが主張したカスタムロビーでのみコマンドを実行することができます",
+		"machine": true
+	},
+	{
+		"phrase": "Your party cannot fit on one team and may be split up",
+		"comment": "[Admin chat message]",
+		"translation": "あなたのパーティーは1つのチームに収まらず、分割される可能性があります",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot claim this lobby as a tournament is running",
+		"comment": "[Admin chat message]",
+		"translation": "トーナメントが開催されているため、このロビーを申請することはできません",
+		"machine": true
+	},
+	{
+		"phrase": "You may only claim empty lobbies",
+		"comment": "[Admin chat message]",
+		"translation": "空のロビーのみを請求できます",
+		"machine": true
+	},
+	{
+		"phrase": "Max level must not be less than min level",
+		"comment": "[Admin chat message]",
+		"translation": "最大レベルは最小レベル以上でなければなりません",
+		"machine": true
+	},
+	{
+		"phrase": "This lobby has already been claimed",
+		"comment": "[Admin chat message]",
+		"translation": "このロビーはすでに主張されています",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn position set",
+		"comment": "[Admin chat message]",
+		"translation": "スポーン位置セット",
+		"machine": true
+	},
+	{
+		"phrase": "Creating teams. Spawn when the pre-match timer has finished",
+		"comment": "[Admin chat message]",
+		"translation": "チームの作成。試合前のタイマーが終了するとスポーンします",
+		"machine": true
+	},
+	{
+		"phrase": "You must join a team before you can respawn",
+		"comment": "[Admin chat message]",
+		"translation": "リスポーンする前にチームに参加する必要があります",
+		"machine": true
+	},
+	{
+		"phrase": "You must wait for the tournament to commence before respawning",
+		"comment": "[Admin chat message]",
+		"translation": "トーナメントが始まるのを待ってからリスポーンする必要があります",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams before the match has started",
+		"comment": "[Admin chat message]",
+		"translation": "試合が始まる前にチームを変更することはできません",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams during the tournament",
+		"comment": "[Admin chat message]",
+		"translation": "トーナメント中にチームを変更することはできません",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while spawning",
+		"comment": "[Admin chat message]",
+		"translation": "スポーン中にチームを変更できません",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while the round is running",
+		"comment": "[Admin chat message] This shows during Arena matches",
+		"translation": "ラウンドの実行中にチームを変更することはできません",
+		"machine": true
+	},
+	{
+		"phrase": "Your votekick permissions have been revoked",
+		"comment": "[Admin chat message]",
+		"translation": "投票キックの権限が取り消されました",
+		"machine": true
+	},
+	{
+		"phrase": "You're meant to get along with the other mods",
+		"comment": "[Admin chat message] This shows when a mod tries to votekick another mod",
+		"translation": "あなたは他の改造とうまくやっていくことを意図しています",
+		"machine": true
+	},
+	{
+		"phrase": "A tournament is currently running",
+		"comment": "[Admin chat message]",
+		"translation": "トーナメントは現在開催中です",
+		"machine": true
+	},
+	{
+		"phrase": "A tournament is currently running and you are now spectating",
+		"comment": "[Admin chat message]",
+		"translation": "トーナメントが現在開催されており、あなたは今観戦しています",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full",
+		"comment": "[Admin chat message]",
+		"translation": "サーバーがいっぱいです",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full and you are now spectating",
+		"comment": "[Admin chat message]",
+		"translation": "サーバーがいっぱいで、あなたは今見ています",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has been disbanded due to team imbalance",
+		"comment": "[Admin chat message]",
+		"translation": "チームの不均衡のためにあなたのパーティーは解散しました",
+		"machine": true
+	},
+	{
+		"phrase": "This server requires a system restart and will restart at the end of the round. Thank you for playing! - Verc",
+		"comment": "[Admin chat message]",
+		"translation": "このサーバーはシステムの再起動が必要であり、ラウンドの終了時に再起動します。プレイしてくれてありがとう！ -verc",
+		"machine": true
+	},
+	{
+		"phrase": "This server will quickly patch at the end of this round. You do NOT need to update your client and you can remain in this lobby. Thank you for playing! - Verc",
+		"comment": "[Admin chat message]",
+		"translation": "このサーバーは、このラウンドの終わりにすぐにパッチを適用します。クライアントを更新する必要はなく、このロビーにとどまることができます。プレイしてくれてありがとう！ -verc",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalance complete",
+		"comment": "[Admin chat message]",
+		"translation": "オートバランス完了",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalance paused",
+		"comment": "[Admin chat message]",
+		"translation": "オートバランスが一時停止しました",
+		"machine": true
+	},
+	{
+		"phrase": "Wave Defence",
+		"comment": "Game mode name",
+		"translation": "波の防御",
+		"machine": true
+	},
+	{
+		"phrase": "Compensator",
+		"comment": "Barrel attachment name",
+		"translation": "補償器",
+		"machine": true
+	},
+	{
+		"phrase": "Sticky",
+		"comment": "Ammo type name - an explosive projectile sticks to the wall on impact before exploding",
+		"translation": "スティッキー",
+		"machine": true
+	},
+	{
+		"phrase": "Cluster",
+		"comment": "Ammo type name - an explosive projectile explodes into a cluster of 3 explosives",
+		"translation": "集まる",
+		"machine": true
+	},
+	{
+		"phrase": "Fragmentation",
+		"comment": "Payload attachment name",
+		"translation": "断片化",
+		"machine": true
+	},
+	{
+		"phrase": "Bounce",
+		"comment": "[Grenade Type]",
+		"translation": "跳ねる、弾む",
+		"machine": true
+	},
+	{
+		"phrase": "High Block Damage",
+		"comment": "[Grenade Payload] Deals high block damage and low player damage",
+		"translation": "高いブロックダメージ",
+		"machine": true
+	},
+	{
+		"phrase": "High Player Damage",
+		"comment": "[Grenade Payload] Deals high player damage and low block damage",
+		"translation": "プレイヤーのダメージが大きい",
+		"machine": true
+	},
+	{
+		"phrase": "Move around",
+		"comment": "[Tutorial UI]",
+		"translation": "動き回る",
+		"machine": true
+	},
+	{
+		"phrase": "Sprint along the path",
+		"comment": "[Tutorial UI]",
+		"translation": "パスに沿ってスプリント",
+		"machine": true
+	},
+	{
+		"phrase": "Crouch through the tunnel",
+		"comment": "[Tutorial UI]",
+		"translation": "トンネルを通ってしゃがむ",
+		"machine": true
+	},
+	{
+		"phrase": "Crouch while sprinting to slide",
+		"comment": "[Tutorial UI]",
+		"translation": "スライドするために全力疾走しながらしゃがむ",
+		"machine": true
+	},
+	{
+		"phrase": "Jump over the gap",
+		"comment": "[Tutorial UI]",
+		"translation": "ギャップを飛び越える",
+		"machine": true
+	},
+	{
+		"phrase": "Dig through the wall",
+		"comment": "[Tutorial UI]",
+		"translation": "壁を掘る",
+		"machine": true
+	},
+	{
+		"phrase": "Click, hold and drag between the cubes to build over the wall",
+		"comment": "[Tutorial UI]",
+		"translation": "立方体の間をクリックして押したままドラッグして、壁の上に構築します",
+		"machine": true
+	},
+	{
+		"phrase": "Look for a weapon",
+		"comment": "[Tutorial UI]",
+		"translation": "武器を探す",
+		"machine": true
+	},
+	{
+		"phrase": "Bridge the gap",
+		"comment": "[Tutorial UI]",
+		"translation": "ギャップを埋める",
+		"machine": true
+	},
+	{
+		"phrase": "Inspect the crate",
+		"comment": "[Tutorial UI]",
+		"translation": "木枠を点検します",
+		"machine": true
+	},
+	{
+		"phrase": "Build defences",
+		"comment": "[Tutorial UI]",
+		"translation": "防御を構築する",
+		"machine": true
+	},
+	{
+		"phrase": "Take out the Renegades",
+		"comment": "[Tutorial UI]",
+		"translation": "レネゲードを取り出してください",
+		"machine": true
+	},
+	{
+		"phrase": "Advance to the end of the walkway",
+		"comment": "[Tutorial UI]",
+		"translation": "歩道の終わりまで進みます",
+		"machine": true
+	},
+	{
+		"phrase": "Take out the remaining Renegades",
+		"comment": "[Tutorial UI]",
+		"translation": "残りのレネゲードを取り出します",
+		"machine": true
+	},
+	{
+		"phrase": "Secure the canister",
+		"comment": "[Tutorial UI]",
+		"translation": "キャニスターを固定します",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment Point",
+		"comment": "[Career Path] [Unit] i.e. '1 Attachment Point'",
+		"translation": "アタッチメントポイント",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment Points",
+		"comment": "[Career Path] [Unit] [Plural] i.e. '2 Attachment Points'",
+		"translation": "アタッチメントポイント",
+		"machine": true
+	},
+	{
+		"phrase": "Boost",
+		"comment": "[Career Path] i.e. '50% Proton Boost'",
+		"translation": "ブースト",
+		"machine": true
+	},
+	{
+		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
+		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
+		"translation": "[アニメーションブロックスキンを正しくレンダリングするには、[設定]> [パフォーマンス]> [アニメーションブロックスキン]を有効にする必要があります",
+		"machine": true
+	},
+	{
+		"phrase": "Progressions will appear here after playing your first match",
+		"comment": "This text shows on the Career tab when the player has not played their first match yet",
+		"translation": "最初の試合をプレイした後、進行状況がここに表示されます",
+		"machine": true
+	},
+	{
+		"phrase": "First team to win {0} rounds",
+		"comment": "[Gamemode Info] [Win requirement] [Arena] Parameter 0: '5'",
+		"translation": "{0}ラウンドに勝った最初のチーム",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
+		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
+		"translation": "ソルトリウムは外側のセクター全体に散らばっています。貴重な資源を探して集めるために、さまざまな{0}および{1}大隊が派遣されました。.",
+		"machine": true
+	},
+	{
+		"phrase": "The first team to {0} points wins",
+		"comment": "[Gamemode Info] [Win Requirement] [Salvage] Parameter 0: '500'",
+		"translation": "{0}ポイントの最初のチームが勝ちます",
+		"machine": true
+	},
+	{
+		"phrase": "Capture all zones to win",
+		"comment": "[Gamemode Info] [Win Requirement] [Breakthrough]",
+		"translation": "勝つためにすべてのゾーンをキャプチャします",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver the flag {0} times to win",
+		"comment": "[Gamemode Info] [Win requirement] [Escort] Parameter 0: '3'",
+		"translation": "フラグを{0}回配信して勝ちます",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver the bomb {0} times to win",
+		"comment": "[Gamemode Info] [Win requirement] [CTF] Parameter 0: '3'",
+		"translation": "爆弾を{0}回配達して勝つ",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up {0} from enemy corpses",
+		"comment": "[Gamemode Info] [Description] [Head Hunter] Parameter 0: 'Soltrium'",
+		"translation": "敵の死体から{0}を拾う",
+		"machine": true
+	},
+	{
+		"phrase": "You can hold {0} to reveal enemy positions to teammates",
+		"comment": "[Connecting] [Loading Tip 1] Parameter 0: '[ Q ]'",
+		"translation": "{0}を押したままにして、敵の位置をチームメイトに明らかにすることができます",
+		"machine": true
+	},
+	{
+		"phrase": "You can press {0} to provide feedback",
+		"comment": "[Connecting] [Loading Tip 2] Parameter 0: '[ F1 ]'",
+		"translation": "{0}を押してフィードバックを提供できます",
+		"machine": true
+	},
+	{
+		"phrase": "Before uploading maps to the {0}, you must agree to the",
+		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
+		"translation": "マップを{0}にアップロードする前に、",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Terms of Service",
+		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
+		"translation": "{0}利用規約",
+		"machine": true
+	},
+	{
+		"phrase": "High",
+		"context": "High quality",
+		"comment": "Graphics preset",
+		"translation": "高い",
+		"machine": true
+	},
+	{
+		"phrase": "Medium",
+		"context": "Medium quality",
+		"comment": "Graphics preset",
+		"translation": "中くらい",
+		"machine": true
+	},
+	{
+		"phrase": "Low",
+		"context": "Low quality",
+		"comment": "Graphics preset",
+		"translation": "低い",
+		"machine": true
+	},
+	{
+		"phrase": "Toaster",
+		"comment": "Graphics preset",
+		"translation": "トースター",
+		"machine": true
+	},
+	{
+		"phrase": "Potato",
+		"context": "Garbage",
+		"comment": "Graphics preset",
+		"translation": "じゃがいも",
+		"machine": true
+	},
+	{
+		"phrase": "Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "空のロビーを右クリックして請求します.\n1日あたり3つのロビーのみを請求できます.",
+		"machine": true
+	},
+	{
+		"phrase": "Servers",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty \/ full \/ low level \/ etc check boxes",
+		"translation": "サーバー",
+		"machine": true
+	},
+	{
+		"phrase": "Empty",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
+		"translation": "空の",
+		"machine": true
+	},
+	{
+		"phrase": "Full",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that have full capacity",
+		"translation": "満杯",
+		"machine": true
+	},
+	{
+		"phrase": "Bots",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that only have bots in them",
+		"translation": "ボット",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "[Setting Tooltip] Peacekeeper description. Parameter 0: '20', Parameter 1: '1', Parameter 2: '-35%', Parameter 3: '+35%'",
+		"translation": "レベル{0}以下で、KDRが{1}以下の敵は、ハイライト表示されます。.\n\nピースキーパーが有効になっている間、これらのプレイヤーに{2}のダメージを与え、{3}の追加XPとプロトンを獲得します。.\n\n変更はリスポーンで有効になります。ピースキーパーは、すべてのゲームモードで無料で効果がありません.",
+		"machine": true
+	},
+	{
+		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
+		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
+		"translation": "これは、すべてのUIとゲーム内HUDのスケールを制御します。 {0}を押して100にリセットします%",
+		"machine": true
+	},
+	{
+		"phrase": "Enable this to make {0} dig single blocks and {1} dig a 3x3x3 area",
+		"translation": "これを有効にすると、{0}は単一のブロックを掘り、{1}は3x3x3の領域を掘ります。",
+		"machine": true
+	},
+	{
+		"phrase": "Has stolen our flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen our flag'",
+		"translation": "私たちの旗を盗んだ",
+		"machine": true
+	},
+	{
+		"phrase": "Has stolen the enemy flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen the enemy flag'",
+		"translation": "敵の旗を盗んだ",
+		"machine": true
+	},
+	{
+		"phrase": "You have dropped our bomb",
+		"comment": "[Announcement]'",
+		"translation": "あなたは私たちの爆弾を落としました",
+		"machine": true
+	},
+	{
+		"phrase": "Has dropped our bomb",
+		"comment": "[Announcement]'",
+		"translation": "私たちの爆弾を落としました",
+		"machine": true
+	},
+	{
+		"phrase": "There was an error initialising shaders. Please follow the instructions at {0} to submit your log files and help solve this issue",
+		"comment": "[Error] [Message Popup] Parameter 0: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "シェーダーの初期化中にエラーが発生しました。 {0}の指示に従ってログファイルを送信し、この問題の解決にご協力ください",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} or {1} to change team mates",
+		"comment": "Arena spectator text. Parameter 0: '[ Q ]', Parameter 1: '[ E ]'",
+		"translation": "チームメイトを変更するには、{0}または{1}を押します",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to drop the flag",
+		"comment": "[Input Prompt] Parameter 0: '[ C ]'",
+		"translation": "{0}を押してフラグをドロップします",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to drop the bomb",
+		"comment": "[Input Prompt] Parameter 0: '[ C ]'",
+		"translation": "{0}を押して爆弾を投下します",
+		"machine": true
+	},
+	{
+		"phrase": "Respawning in {0}s",
+		"comment": "Respawn text in the ship.",
+		"translation": "{0}でのリスポーン",
+		"machine": true
+	},
+	{
+		"phrase": "Shoot the targets and try different weapons. Press {0} to set up a loadout",
+		"comment": "[Tutorial] Parameter 0: '[ F2 ]'",
+		"translation": "ターゲットを撃ち、さまざまな武器を試してください。 {0}を押してロードアウトを設定します",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Play a Match",
+		"context": "{0} Play a Game",
+		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. Parameter 0: '[ M ]'",
+		"translation": "{0}試合をする",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Enter Trials",
+		"context": "{0} Enter the Trials",
+		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. Parameter 0: '[ T ]'",
+		"translation": "{0}トライアルに入る",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Replay Tutorial",
+		"context": "{0} Replay the Tutorial",
+		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. Parameter 0: '[ T ]'",
+		"translation": "{0}リプレイチュートリアル",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Reset Ship",
+		"context": "{0} Reset the Ship",
+		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. Parameter 0: '[ F ]'",
+		"translation": "{0}船のリセット",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to restart",
+		"comment": "[Trial] [Input Prompt] Parameter 0: '[ R ]'",
+		"translation": "{0}を押して再起動します",
+		"machine": true
+	},
+	{
+		"phrase": "Waiting for players",
+		"comment": "[Rich Presence]",
+		"translation": "プレイヤーを待っています",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their character",
+		"comment": "[Rich Presence]",
+		"translation": "キャラクターのカスタマイズ",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their weapons",
+		"comment": "[Rich Presence]",
+		"translation": "武器のカスタマイズ",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their blocks",
+		"comment": "[Rich Presence]",
+		"translation": "ブロックのカスタマイズ",
+		"machine": true
+	},
+	{
+		"phrase": "Modifying their loadouts",
+		"comment": "[Rich Presence]",
+		"translation": "ロードアウトの変更",
+		"machine": true
+	},
+	{
+		"phrase": "Reading the news",
+		"comment": "[Rich Presence]",
+		"translation": "ニュースを読む",
+		"machine": true
+	},
+	{
+		"phrase": "Browsing the store",
+		"comment": "[Rich Presence]",
+		"translation": "ストアの閲覧",
+		"machine": true
+	},
+	{
+		"phrase": "Wishing clans were implemented",
+		"comment": "[Rich Presence]",
+		"translation": "氏族の希望が実装されました",
+		"machine": true
+	},
+	{
+		"phrase": "Competing in the trials",
+		"comment": "[Rich Presence]",
+		"translation": "裁判に参加する",
+		"machine": true
+	},
+	{
+		"phrase": "Completing the trials",
+		"comment": "[Rich Presence]",
+		"translation": "トライアルの完了",
+		"machine": true
+	},
+	{
+		"phrase": "Trialing out a few things",
+		"comment": "[Rich Presence]",
+		"translation": "いくつかのことを試す",
+		"machine": true
+	},
+	{
+		"phrase": "Mastering the trials",
+		"comment": "[Rich Presence]",
+		"translation": "トライアルをマスターする",
+		"machine": true
+	},
+	{
+		"phrase": "Speedrunning the trials",
+		"comment": "[Rich Presence]",
+		"translation": "トライアルのスピードラン",
+		"machine": true
+	},
+	{
+		"phrase": "Giving the ship a trial",
+		"comment": "[Rich Presence]",
+		"translation": "船に試用を与える",
+		"machine": true
+	},
+	{
+		"phrase": "Completing the tutorial",
+		"comment": "[Rich Presence]",
+		"translation": "チュートリアルの完了",
+		"machine": true
+	},
+	{
+		"phrase": "Modifying their structures",
+		"comment": "[Rich Presence]",
+		"translation": "それらの構造の変更",
+		"machine": true
+	},
+	{
+		"phrase": "Shooting range",
+		"comment": "[Rich Presence]",
+		"translation": "射撃練習場",
+		"machine": true
+	},
+	{
+		"phrase": "In the parkour room",
+		"comment": "[Rich Presence]",
+		"translation": "パーカールームで",
+		"machine": true
+	},
+	{
+		"phrase": "Relaxing in their ship",
+		"comment": "[Rich Presence]",
+		"translation": "彼らの船でリラックス",
+		"machine": true
+	},
+	{
+		"phrase": "Designing a custom map",
+		"comment": "[Rich Presence]",
+		"translation": "カスタムマップの設計",
+		"machine": true
+	},
+	{
+		"phrase": "Browsing the server list",
+		"comment": "[Rich Presence]",
+		"translation": "サーバーリストの閲覧",
+		"machine": true
+	},
+	{
+		"phrase": "Title screen",
+		"comment": "[Rich Presence]",
+		"translation": "タイトル画面",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to cancel",
+		"comment": "Parameter 0: '[ Escape ]'",
+		"translation": "キャンセルするには{0}を押します",
+		"machine": true
+	},
+	{
+		"phrase": "Full damage distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "全ダメージ距離",
+		"machine": true
+	},
+	{
+		"phrase": "Least damage distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "最小ダメージ距離",
+		"machine": true
+	},
+	{
+		"phrase": "Lowest damage at distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "距離でのダメージが最小",
+		"machine": true
+	},
+	{
+		"phrase": "Round",
+		"comment": "[Attachment] [Unit] Weapon characteristic",
+		"translation": "ラウンド",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks per second",
+		"comment": "[Weapon Statistics] [Unit] How many blocks a projectile travels per second",
+		"translation": "1秒あたりのブロック数",
+		"machine": true
+	},
+	{
+		"phrase": "Fires three times per barrel rotation",
+		"comment": "Triple ammo description",
+		"translation": "バレルの回転ごとに3回発砲します",
+		"machine": true
+	},
+	{
+		"phrase": "Shoot with plasma to increase its power",
+		"comment": "Augmented ammo description",
+		"translation": "プラズマで撃ってパワーを上げる",
+		"machine": true
+	},
+	{
+		"phrase": "Explodes into 3 clusters",
+		"comment": "Cluster ammo description",
+		"translation": "3つのクラスターに爆発します",
+		"machine": true
+	},
+	{
+		"phrase": "Deals more damage further away from the explosion",
+		"comment": "Fragmentation payload description",
+		"translation": "爆発からさらに離れてより多くのダメージを与える",
+		"machine": true
+	},
+	{
+		"phrase": "Gains damage over distance",
+		"comment": "Rocket Rifle Kinetic ammo description",
+		"translation": "距離を超えてダメージを得る",
+		"machine": true
+	},
+	{
+		"phrase": "Generates 5 mini orbs",
+		"comment": "Multi orb weapon description",
+		"translation": "5つのミニオーブを生成します",
+		"machine": true
+	},
+	{
+		"phrase": "Generates a short plasma beam",
+		"comment": "Plasma cutter weapon description",
+		"translation": "短いプラズマビームを生成します",
+		"machine": true
+	},
+	{
+		"phrase": "Sticky grenades",
+		"comment": "[Loadout Summary] Grenade label",
+		"translation": "粘着手榴弾",
+		"machine": true
+	},
+	{
+		"phrase": "Points left",
+		"comment": "[Career Timeline] e.g. '1000 points left'",
+		"translation": "残りポイント",
+		"machine": true
+	},
+	{
+		"phrase": "Infinite ammo. Type {0} in chat to set your spawn point",
+		"comment": "[Claim Window] Parameter 0: '\/setspawn'",
+		"translation": "無限の弾薬。チャットで{0}と入力して、スポーンポイントを設定します",
+		"machine": true
+	},
+	{
+		"phrase": "Next",
+		"comment": "[Victory Screen] [Navigation] Show the next career progression",
+		"translation": "次",
+		"machine": true
+	},
+	{
+		"phrase": "Skip",
+		"comment": "[Victory Screen] [Navigation] Skip the career progression showcase at the end of a match",
+		"translation": "スキップ",
+		"machine": true
+	},
+	{
+		"phrase": "Hold {0} to unlock the cursor",
+		"comment": "[Scoreboard] This text shows at the bottom. Parameter 0: '[ Right Click ]'",
+		"translation": "{0}を押したままにしてカーソルのロックを解除します",
+		"machine": true
+	},
+	{
+		"phrase": "Yes",
+		"comment": "Yes I would like to play Sector's Edge",
+		"translation": "はい",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to enable Dynamic Rendering Settings?",
+		"translation": "動的レンダリング設定を有効にしますか?",
+		"machine": true
+	},
+	{
+		"phrase": "Map is still syncing. Retry in {0} seconds",
+		"comment": "[Admin chat message] The player is still loading the map and cant spawn yet. Parameter 0: '10'",
+		"translation": "マップはまだ同期中です。 {0}秒で再試行してください",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to respawn while the map is restoring. Retry in {0} seconds",
+		"comment": "[Admin chat message] This shows during trailer mode while the map is being restored to a previous state. Parameter 0: '10'",
+		"translation": "マップの復元中にリスポーンできません。 {0}秒で再試行してください",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
+		"comment": "[Admin chat message] Parameter 0: '10'",
+		"translation": "マップの復元中はチームを変更できません。 {0}秒で再試行してください",
+		"machine": true
+	},
+	{
+		"phrase": "To balance the teams, {0} has moved themselves to the weaker team and will get an extra {1} Protons at the end of the round.",
+		"comment": "[Admin chat message] Parameter 0: 'Pegarex', parameter 1: '100'",
+		"translation": "チームのバランスをとるために、{0}は弱いチームに移動し、ラウンドの終わりに追加の{1}プロトンを取得します.",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers. Thank you for playing! - Verc",
+		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"translation": "このサーバーは、試合の終了時に{0}に更新されます。サーバーに再参加するには、Steamを介してクライアントを更新する必要があります。プレイしてくれてありがとう！ -verc",
+		"machine": true
+	},
+	{
+		"phrase": "The workshop map does not support the gamemode {0}",
+		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"translation": "ワークショップマップはゲームモード{0}をサポートしていません",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing in {0} seconds. [Aegis Power: {1}] [Helix Power: {2}]",
+		"comment": "[Admin chat message] Parameter 0: '10'",
+		"translation": "{0}秒でオートバランス。 [イージスパワー：{1}] [ヘリックスパワー：{2}]",
+		"machine": true
+	},
+	{
+		"phrase": "Moved {0} [{1}] from {2} [Power: {3}] to {4} [Power: {5}]",
+		"comment": "[Admin chat message] Parameter 0: 'Fora', parameter 1: '18', parameter 2: 'Helix', parameter 3: '73', parameter 4: 'Aegis', parameter 5: '55'",
+		"translation": "{0} [{1}]を{2} [power：{3}]から{4} [power：{5}]に移動しました]",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will shut down for a system update. You will have to join another server to keep playing.",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "{0}秒で、このサーバーはシステム更新のためにシャットダウンします。再生を続けるには、別のサーバーに参加する必要があります.",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will update to {1}. You must update your client through Steam to rejoin servers.",
+		"comment": "[Admin chat message] Parameter 0: '30', parameter 1: 'Version 1.4.0'",
+		"translation": "{0}秒で、このサーバーは{1}に更新されます。サーバーに再参加するには、Steamを介してクライアントを更新する必要があります.",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will quickly patch for maintenance. You do NOT need to update your client and you can remain in this lobby.",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "{0}秒で、このサーバーはメンテナンスのためにすばやくパッチを適用します。クライアントを更新する必要はなく、このロビーにとどまることができます.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been kicked ({1} - {2})",
+		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
+		"translation": "{0}がキックされました（{1}-{2})",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been kicked ({1} - {2})",
+		"comment": "[Admin chat message] Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
+		"translation": "{0}はキックされていません（{1}-{2})",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing in {0} seconds",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "{0}秒でオートバランス",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing now. The next player on {0} to die will be autobalanced.",
+		"comment": "[Admin chat message] Parameter 0: 'Aegis'",
+		"translation": "今オートバランス。 {0}で次に死ぬプレイヤーはオートバランスされます.",
+		"machine": true
+	},
+	{
+		"phrase": "The map is restoring. Try again in {0} seconds",
+		"comment": "Reason for being disconnected from a server. Parameter 0: '10'",
+		"translation": "マップが復元されています。 {0}秒後に再試行してください",
+		"machine": true
+	},
+	{
+		"phrase": "You can only claim {0} lobbies per day",
+		"comment": "Reason for being disconnected from a server. Parameter 0: '3'",
+		"translation": "1日あたり{0}ロビーのみを請求できます",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks\n{1} blocks build distance\n{2} block health",
+		"comment": "Armour modification description. Parameter 0: '+100', parameter 1: '+2', parameter 2: '+5'",
+		"translation": "{0}ブロック\n{1}ブロックビルド距離\n{2}ブロックヘルス",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks safe fall distance\n{1} fall damage",
+		"comment": "Armour modification description. Parameter 0: '+3', parameter 1: '-15%'",
+		"translation": "{0}は安全な落下距離をブロックします\n{1}落下ダメージ",
+		"machine": true
+	},
+	{
+		"phrase": "{0} self explosion knockback\n{1} self explosion damage",
+		"comment": "Armour modification description. Parameter 0: '+400%', parameter 1: '-10%'",
+		"translation": "{0}自己爆発ノックバック\n{1}自己爆発ダメージ",
+		"machine": true
+	},
+	{
+		"phrase": "{0} health regeneration speed",
+		"comment": "Armour modification description. Parameter 0: '+20%'",
+		"translation": "{0}ヘルス再生速度",
+		"machine": true
+	},
+	{
+		"phrase": "{0} movement speed",
+		"comment": "Armour modification description. Parameter 0: '+5%'",
+		"translation": "{0}の移動速度",
+		"machine": true
+	},
+	{
+		"phrase": "{0} build and dig volume\n{1} footstep volume\n{2} footstep distance",
+		"comment": "Armour modification description. Parameter 0: '-40%', parameter 1: '-15%', parameter 2: '-25%'",
+		"translation": "{0}ビルドおよびディグボリューム\n{1}フットステップボリューム\n{2}足跡距離",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed",
+		"comment": "Armour modification description. Parameter 0: '+10%'",
+		"translation": "{0}掘削速度",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} equipment ammo on every ammo pickup",
+		"comment": "Armour modification description. Parameter 0: '+20%', parameter 1: '2', parameter 2: '+1'",
+		"translation": "{0}掘削速度\n掘ったブロックごとに{1}ブロックを獲得\nすべての弾薬ピックアップに{2}装備の弾薬",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks safe fall distance\n{1} fall damage\n{2} block jump height",
+		"comment": "Armour modification description. Parameter 0: '+9', parameter 1: '-45%', parameter 2: '+1'",
+		"translation": "{0}は安全な落下距離をブロックします\n{1}落下ダメージ\n{2}ブロックジャンプ高さ",
+		"machine": true
+	},
+	{
+		"phrase": "{0} self explosion knockback\n{1}self explosion damage",
+		"comment": "Armour modification description. Parameter 0: '+500%', parameter 1: '-30%'",
+		"translation": "{0}自己爆発ノックバック\n{1}self爆発ダメージ",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} health per ammo pickup",
+		"comment": "Armour modification description. Parameter 0: '+30%', parameter 1: '3', parameter 2: '+10%'",
+		"translation": "{0}掘削速度\n掘ったブロックごとに{1}ブロックを獲得\n弾薬ピックアップごとの{2}ヘルス",
+		"machine": true
+	},
+	{
+		"phrase": "Building {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "{0}の構築",
+		"machine": true
+	},
+	{
+		"phrase": "Digging {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "{0}を掘る",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "{0}を構築して掘る",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Protons. Lasts for {1} hour",
+		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
+		"translation": "{0}プロトン。 {1}時間持続します",
+		"machine": true
+	},
+	{
+		"phrase": "{0} XP. Lasts for {1} hour",
+		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
+		"translation": "{0}XP。 {1}時間持続します",
+		"machine": true
+	},
+	{
+		"phrase": "Use this to unlock weapon skins on the Weapons screen",
+		"comment": "[Inventory] Weapon skin token description",
+		"translation": "これを使用して、武器画面で武器スキンのロックを解除します",
+		"machine": true
+	},
+	{
+		"phrase": "This will automatically adjust your settings while you play to keep your frames-per-second stable.",
+		"translation": "これにより、再生中に設定が自動的に調整され、1秒あたりのフレーム数が安定します。.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a graphics preset to continue",
+		"translation": "グラフィックプリセットを選択して続行します",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoints",
+		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
+		"translation": "ウェイポイント",
+		"machine": true
+	},
+	{
+		"phrase": "This is your list of loadouts. Each loadout is comprised of weapons, equipment and modifications.",
+		"comment": "Loadout tutorial description",
+		"translation": "これはロードアウトのリストです。各ロードアウトは、武器、装備、改造で構成されています.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a loadout to continue",
+		"comment": "Tutorial prompt to click a loadout",
+		"translation": "ロードアウトを選択して続行します",
+		"machine": true
+	},
+	{
+		"phrase": "Each weapon, equipment and modification has a power value.",
+		"comment": "Loadout tutorial description",
+		"translation": "各武器、装備、改造にはパワー値があります.",
+		"machine": true
+	},
+	{
+		"phrase": "The total power value for a loadout must be {0} or less",
+		"comment": "Loadout tutorial description. Parameter 0: '15'",
+		"translation": "ロードアウトの合計電力値は{0}以下である必要があります",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to continue",
+		"comment": "Loadout tutorial description. Parameter 0: 'space'",
+		"translation": "{0}を押して続行します",
+		"machine": true
+	},
+	{
+		"phrase": "Each loadout can have up to {0} weapons.",
+		"comment": "Loadout tutorial description. Parameter 0: '2'",
+		"translation": "各ロードアウトには最大{0}の武器を含めることができます.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select a primary",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "プライマリを選択する{0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select a secondary",
+		"comment": "Loadout tutorial description. Parameter 0: '2'",
+		"translation": "{0}はセカンダリを選択します",
+		"machine": true
+	},
+	{
+		"phrase": "Right click",
+		"comment": "Right mouse button",
+		"translation": "右クリック",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"comment": "[Unit] e.g. '1 equipment slot'",
+		"translation": "スロット",
+		"machine": true
+	},
+	{
+		"phrase": "Slots",
+		"comment": "[Unit] [Plural] e.g. '2 equipment slots'",
+		"translation": "スロット",
+		"machine": true
+	},
+	{
+		"phrase": "Each loadout also has {0} equipment {1}.",
+		"comment": "Loadout tutorial description. Parameter 0: '1', parameter 1: 'slot'",
+		"translation": "各ロードアウトには{0}機器{1}もあります.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select an equipment",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "機器を選択するための{0}",
+		"machine": true
+	},
+	{
+		"phrase": "Loadouts also have modifications (perks). These affect things like movement speed, fall damage, etc.",
+		"comment": "Loadout tutorial description",
+		"translation": "ロードアウトにも変更（特典）があります。これらは移動速度、落下ダメージなどに影響します.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} a modification to continue",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0}続行するための変更",
+		"machine": true
+	},
+	{
+		"phrase": "You can create as many loadouts as you like.",
+		"comment": "Loadout tutorial description",
+		"translation": "必要な数のロードアウトを作成できます.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to create a new loadout",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "新しいロードアウトを作成する{0}",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Joining in {2} {3}...",
+		"comment": "[Party Banner] Parameter 0: 'Salvage', parameter 1: 'SYDNEY-3', parameter 2: '7', parameter 3: 'seconds'",
+		"translation": "あなたのパーティーは{1}の{0}マッチに参加しました。 {2}に参加{3}...",
 		"machine": true
 	}
 ]

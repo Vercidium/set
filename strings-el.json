@@ -522,12 +522,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Map is restoring. Try again in 10 seconds",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Ο χάρτης αποκαθίσταται. δοκιμάστε ξανά σε 10 δευτερόλεπτα",
-		"machine": true
-	},
-	{
 		"phrase": "Network Error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Σφάλμα δικτύου",
@@ -585,12 +579,6 @@
 		"phrase": "Your level is too high",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Το επίπεδο σας είναι πολύ υψηλό",
-		"machine": true
-	},
-	{
-		"phrase": "You can only claim 3 lobbies per day",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Μπορείτε να διεκδικήσετε μόνο 3 λόμπι την ημέρα",
 		"machine": true
 	},
 	{
@@ -1164,219 +1152,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "This mid-long ranged weapon is balanced for most conflicts.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το όπλο μεσαίας εμβέλειας είναι ισορροπημένο για τις περισσότερες συγκρούσεις.",
-		"machine": true
-	},
-	{
-		"phrase": "Mecharii technology that can be charged multiple times to produce a more powerful beam.",
-		"comment": "Weapon description",
-		"translation": "Τεχνολογία Mecharii που μπορεί να φορτιστεί πολλές φορές για να παράγει μια πιο ισχυρή δέσμη.",
-		"machine": true
-	},
-	{
-		"phrase": "Throw with left click and detonate with right click. On respawn, C4 are disconnected from you and must be shot to detonate.",
-		"comment": "Weapon description",
-		"translation": "Ρίξτε με αριστερό κλικ και ενεργοποιήστε με δεξί κλικ. στο respawn, το c4 αποσυνδέεται από εσάς και πρέπει να πυροβοληθεί για να εκραγεί.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid-long ranged shotgun packs a punch at longer distances.\nWhilst scoping, its pellet spread will reduce by 70% over 3.0 seconds.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το κυνηγετικό όπλο μεσαίου βεληνεκούς έχει μια γροθιά σε μεγαλύτερες αποστάσεις.\nΕνώ το πεδίο εφαρμογής, η διάδοση των σφαιριδίων του θα μειωθεί κατά 70% σε 3,0 δευτερόλεπτα.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] A testament to Aegis' advanced technology.",
-		"comment": "Weapon description",
-		"translation": "[Καταργήθηκε] μια απόδειξη της προηγμένης τεχνολογίας της aegis.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Slower Midi digging that removes a 3x3x3 chunk of blocks.",
-		"comment": "Weapon description",
-		"translation": "[Καταργήθηκε] πιο αργή σκάψιμο midi που αφαιρεί ένα κομμάτι 3x3x3 μπλοκ.",
-		"machine": true
-	},
-	{
-		"phrase": "Place on a block surface to electrify passing enemies. Single use only.",
-		"comment": "Weapon description",
-		"translation": "Τοποθετήστε σε μια επιφάνεια μπλοκ για να ηλεκτρίσετε τους διερχόμενους εχθρούς. μόνο για μία μόνο χρήση.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Allows one extra modification to be equipped.",
-		"comment": "Weapon description",
-		"translation": "[Καταργήθηκε] επιτρέπει να εξοπλιστεί μία επιπλέον τροποποίηση.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid ranged weapon launches Unstable Soltrium Cores that bounces before exploding.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το όπλο μεσαίας εμβέλειας εκτοξεύει ασταθείς πυρήνες σολτρίου που αναπηδούν πριν εκραγούν.",
-		"machine": true
-	},
-	{
-		"phrase": "This grenade has an Unstable Soltrium Core and detonates after 3 seconds. All players have two grenades, but enabling this will make your grenades stick to walls.",
-		"comment": "Weapon description",
-		"translation": "Αυτή η χειροβομβίδα έχει ασταθή πυρήνα σολτρίου και πυροδοτείται μετά από 3 δευτερόλεπτα. Όλοι οι παίκτες διαθέτουν δύο χειροβομβίδες, αλλά εάν το κάνετε αυτό, οι χειροβομβίδες σας θα κολλήσουν στους τοίχους.",
-		"machine": true
-	},
-	{
-		"phrase": "Agaman technology that cuts through blocks instantly.",
-		"comment": "Weapon description",
-		"translation": "Τεχνολογία Agaman που κόβει αμέσως μπλοκ.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid ranged weapon has a large clip for suppresive fire.\nOverheats after 50 continuous shots",
-		"comment": "Weapon description",
-		"translation": "Αυτό το όπλο μεσαίας εμβέλειας έχει ένα μεγάλο κλιπ για κατασταλτική πυρκαγιά.\nΥπερθερμαίνεται μετά από 50 συνεχόμενες βολές",
-		"machine": true
-	},
-	{
-		"phrase": "Agaman technology that fires balls of plasma in quick succession.",
-		"comment": "Weapon description",
-		"translation": "Τεχνολογία Agaman που εκτοξεύει μπάλες πλάσματος γρήγορα.",
-		"machine": true
-	},
-	{
-		"phrase": "Place blocks with this tool.",
-		"comment": "Weapon description",
-		"translation": "Τοποθετήστε μπλοκ με αυτό το εργαλείο.",
-		"machine": true
-	},
-	{
-		"phrase": "This mid ranged weapon shoots Soltrium Tracer Rounds. Recharges over time and can overheat.",
-		"comment": "Weapon description for Aranet's Minigun",
-		"translation": "Αυτό το όπλο μεσαίας εμβέλειας πυροβολεί γύρους ιχνηλάτη σολτρίου. επαναφορτίζεται με την πάροδο του χρόνου και μπορεί να υπερθερμανθεί.",
-		"machine": true
-	},
-	{
-		"phrase": "Destructive Agaman technology that converts Soltrium energy into an explosive ball of plasma.",
-		"comment": "Weapon description",
-		"translation": "Καταστρεπτική τεχνολογία agaman που μετατρέπει την ενέργεια του σολτρίου σε εκρηκτική σφαίρα πλάσματος.",
-		"machine": true
-	},
-	{
-		"phrase": "Paint blocks with this tool.",
-		"comment": "Weapon description",
-		"translation": "Χρωματίστε μπλοκ με αυτό το εργαλείο.",
-		"machine": true
-	},
-	{
-		"phrase": "This close-mid ranged weapon shoots quickly but has a small magazine.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το όπλο μεσαίας εμβέλειας πυροβολεί γρήγορα, αλλά έχει ένα μικρό γεμιστήρα.",
-		"machine": true
-	},
-	{
-		"phrase": "Light Agaman technology. Fast firing, hard hitting.",
-		"comment": "Weapon description",
-		"translation": "Ελαφριά τεχνολογία agaman. γρήγορη βολή, δυνατό χτύπημα.",
-		"machine": true
-	},
-	{
-		"phrase": "Heavy Agaman technology. Fires a hard-hitting ball of plasma.",
-		"comment": "Weapon description",
-		"translation": "Βαριά τεχνολογία agaman. εκτοξεύει μια σκληρή μπάλα πλάσματος.",
-		"machine": true
-	},
-	{
-		"phrase": "This long ranged weapon uses magnetic propulsion and can be equipped with a 4x scope to provide support to allies at range.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το μακράς εμβέλειας όπλο χρησιμοποιεί μαγνητική πρόωση και μπορεί να εξοπλιστεί με εμβέλεια 4x για να παρέχει υποστήριξη σε συμμάχους σε απόσταση.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Blocks placed have +100% health.",
-		"comment": "Weapon description",
-		"translation": "[Τα μπλοκ που έχουν καταργηθεί] έχουν +100% υγεία.",
-		"machine": true
-	},
-	{
-		"phrase": "This hard-hitting close ranged weapon contains a powerful Soltrium Core.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το σκληρό χτύπημα όπλου με μεγάλη εμβέλεια περιέχει έναν ισχυρό πυρήνα σολτρίου.",
-		"machine": true
-	},
-	{
-		"phrase": "Such a small gun. Such a massive boom.",
-		"comment": "Weapon description",
-		"translation": "Ένα τόσο μικρό όπλο. μια τόσο μαζική άνθηση.",
-		"machine": true
-	},
-	{
-		"phrase": "This long ranged weapon uses Soltrium Propulsion technology to launch explosive missiles.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το μακράς εμβέλειας όπλο χρησιμοποιεί τεχνολογία προώθησης σολτρίου για την εκτόξευση εκρηκτικών πυραύλων.",
-		"machine": true
-	},
-	{
-		"phrase": "Launches a floating scanning orb that pulses every two seconds, revealing enemies through walls.\nScanner orbs can be shot by enemy players.",
-		"comment": "Weapon description",
-		"translation": "Ξεκινά μια πλωτή σφαίρα σάρωσης που πάλλεται κάθε δύο δευτερόλεπτα, αποκαλύπτοντας εχθρούς μέσω τοίχων.\nΟι σφαίρες σαρωτή μπορούν να τραβηχτούν από εχθρούς παίκτες.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Agaman technology. This close ranged weapon propels a spray of plasma",
-		"comment": "Weapon description",
-		"translation": "[Καταργημένη] τεχνολογία agaman. αυτό το κοντινό όπλο προωθεί ένα σπρέι πλάσματος",
-		"machine": true
-	},
-	{
-		"phrase": "This close ranged weapon creates a blast of shrapnel.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το όπλο σε κοντινή απόσταση δημιουργεί μια έκρηξη σκάγιας.",
-		"machine": true
-	},
-	{
-		"phrase": "This close-mid ranged weapon packs a punch. Watch out for the recoil.",
-		"comment": "Weapon description",
-		"translation": "Αυτό το όπλο μεσαίας εμβέλειας έχει μια γροθιά. προσέξτε την ανάκρουση.",
-		"machine": true
-	},
-	{
-		"phrase": "Place block structures with this tool.",
-		"comment": "Weapon description",
-		"translation": "Τοποθετήστε δομές μπλοκ με αυτό το εργαλείο.",
-		"machine": true
-	},
-	{
-		"phrase": "Attaches to walls. Right click to pull the wall down.",
-		"comment": "Weapon description",
-		"translation": "Κολλάει στους τοίχους. κάντε δεξί κλικ για να τραβήξετε τον τοίχο προς τα κάτω.",
-		"machine": true
-	},
-	{
-		"phrase": "[Deprecated] Cluster Agama technology. Not much about this weapon is known.",
-		"comment": "Weapon description",
-		"translation": "[Καταργήθηκε] τεχνολογία συμπλέγματος agama. δεν είναι γνωστά πολλά για αυτό το όπλο.",
-		"machine": true
-	},
-	{
 		"phrase": "Building",
 		"comment": "Armour modification name",
 		"translation": "Κτίριο",
-		"machine": true
-	},
-	{
-		"phrase": "+100 blocks\n+2 blocks build distance\n+5 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 μπλοκ\n+2 μπλοκ απόσταση κατασκευής\nΜπλοκ υγείας +5",
-		"machine": true
-	},
-	{
-		"phrase": "+100 blocks\n+4 blocks build distance\n+9 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 μπλοκ\n+4 μπλοκ απόσταση κατασκευής\nΜπλοκ υγείας +9",
-		"machine": true
-	},
-	{
-		"phrase": "+100 blocks\n+6 blocks build distance\n+13 block health",
-		"comment": "Armour modification description",
-		"translation": "+100 μπλοκ\n+6 μπλοκ απόσταση κατασκευής\nΜπλοκ υγείας +13",
 		"machine": true
 	},
 	{
@@ -1411,7 +1189,7 @@
 	},
 	{
 		"phrase": "Kinetic",
-		"comment": "Armour modification name",
+		"comment": "Payload attachment name",
 		"translation": "Κινητικός",
 		"machine": true
 	},
@@ -1419,168 +1197,6 @@
 		"phrase": "Scavenger",
 		"comment": "Armour modification name",
 		"translation": "Οδοκαθαριστής",
-		"machine": true
-	},
-	{
-		"phrase": "+3 blocks safe fall distance\n-15% fall damage",
-		"comment": "Armour modification description",
-		"translation": "+3 αποκλείει την ασφαλή απόσταση πτώσης\n-15% ζημιά πτώσης",
-		"machine": true
-	},
-	{
-		"phrase": "+400% self explosion knockback\n-10% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+400% αυτο -έκρηξη knockback\n-10% ζημιά από έκρηξη",
-		"machine": true
-	},
-	{
-		"phrase": "+20% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+20% ταχύτητα αναγέννησης της υγείας",
-		"machine": true
-	},
-	{
-		"phrase": "+5% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+5% ταχύτητα κίνησης",
-		"machine": true
-	},
-	{
-		"phrase": "-40% build and dig volume\n-15% footstep volume\n-25% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-40% όγκος κατασκευής και εκσκαφής\n-15% όγκος βήματος\n-25% απόσταση βήματος",
-		"machine": true
-	},
-	{
-		"phrase": "+10% dig speed",
-		"comment": "Armour modification description",
-		"translation": "+10% ταχύτητα σκαψίματος",
-		"machine": true
-	},
-	{
-		"phrase": "+6 blocks safe fall distance\n-30% fall damage",
-		"comment": "Armour modification description",
-		"translation": "+6 αποκλείει την ασφαλή απόσταση πτώσης\n-30% ζημιά πτώσης",
-		"machine": true
-	},
-	{
-		"phrase": "+450% self explosion knockback\n-20% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+450% αυτο -έκρηξη knockback\n-20% ζημιά από έκρηξη",
-		"machine": true
-	},
-	{
-		"phrase": "+40% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+40% ταχύτητα αναγέννησης της υγείας",
-		"machine": true
-	},
-	{
-		"phrase": "+10% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+10% ταχύτητα κίνησης",
-		"machine": true
-	},
-	{
-		"phrase": "-60% build and dig volume\n-30% footstep volume\n-50% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-60% όγκος κατασκευής και εκσκαφής\n-30% όγκος βήματος\n-50% απόσταση βήματος",
-		"machine": true
-	},
-	{
-		"phrase": "+20% dig speed\nGain 2 blocks per block dug\n+1 equipment ammo on every ammo pickup",
-		"comment": "Armour modification description",
-		"translation": "+20% ταχύτητα σκαψίματος\nΚερδίστε 2 μπλοκ ανά μπλοκ σκαμμένο\n+1 πυρομαχικά εξοπλισμού σε κάθε παραλαβή πυρομαχικών",
-		"machine": true
-	},
-	{
-		"phrase": "+9 blocks safe fall distance\n-45% fall damage\n+1 block jump height",
-		"comment": "Armour modification description",
-		"translation": "+9 αποκλείει την ασφαλή απόσταση πτώσης\n-45% ζημιά πτώσης\n+1 ύψος άλματος μπλοκ",
-		"machine": true
-	},
-	{
-		"phrase": "+500% self explosion knockback\n-30% self explosion damage",
-		"comment": "Armour modification description",
-		"translation": "+500% αυτο -έκρηξη knockback\n-30% ζημιά από έκρηξη",
-		"machine": true
-	},
-	{
-		"phrase": "+60% health regeneration speed",
-		"comment": "Armour modification description",
-		"translation": "+60% ταχύτητα αναγέννησης της υγείας",
-		"machine": true
-	},
-	{
-		"phrase": "+15% movement speed",
-		"comment": "Armour modification description",
-		"translation": "+15% ταχύτητα κίνησης",
-		"machine": true
-	},
-	{
-		"phrase": "-80% build and dig volume\n-45% footstep volume\n-75% footstep distance",
-		"comment": "Armour modification description",
-		"translation": "-80% όγκος κατασκευής και εκσκαφής\n-45% όγκος βήματος\n-75% απόσταση βήματος",
-		"machine": true
-	},
-	{
-		"phrase": "+30% dig speed\nGain 3 blocks per block dug\n+10 health per ammo pickup",
-		"comment": "Armour modification description",
-		"translation": "+30% ταχύτητα σκαψίματος\nΚερδίστε 3 μπλοκ ανά μπλοκ σκαμμένο\n+10 υγεία ανά παραλαβή πυρομαχικών",
-		"machine": true
-	},
-	{
-		"phrase": "While inexperienced, this mercenary braved the journey to the Soltrium galaxy and seeks to prove their worth in battle.",
-		"comment": "Character description",
-		"translation": "Ενώ ήταν άπειρος, αυτός ο μισθοφόρος έκανε το ταξίδι στον γαλαξία του σολτρίου και προσπαθεί να αποδείξει την αξία του στη μάχη.",
-		"machine": true
-	},
-	{
-		"phrase": "This solo operative seeks nothing but victory when it comes to saving their race from destruction.",
-		"comment": "Character description",
-		"translation": "Αυτή η ατομική επιχείρηση δεν επιδιώκει παρά τη νίκη όταν πρόκειται να σώσει τη φυλή τους από την καταστροφή.",
-		"machine": true
-	},
-	{
-		"phrase": "A deadly sniper at range and a swift killer up close, they are capable of holding their own in any encounter.",
-		"comment": "Character description",
-		"translation": "Ένας θανατηφόρος ελεύθερος σκοπευτής στην απόσταση και ένας γρήγορος δολοφόνος από κοντά, είναι ικανοί να συγκρατηθούν σε οποιαδήποτε συνάντηση.",
-		"machine": true
-	},
-	{
-		"phrase": "This commander lost their arm during the Flare but continues to fight for the future of their race.",
-		"comment": "Character description",
-		"translation": "Αυτός ο διοικητής έχασε το χέρι τους κατά τη διάρκεια της φωτοβολίδας αλλά συνεχίζει να αγωνίζεται για το μέλλον του αγώνα τους.",
-		"machine": true
-	},
-	{
-		"phrase": "Outlaws that roam the outskirts of the galaxy, attacking anyone that dares travel alone.",
-		"comment": "Character description",
-		"translation": "Παράνομοι που περιφέρονται στα περίχωρα του γαλαξία, επιτίθενται σε όποιον τολμά να ταξιδέψει μόνος του.",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman fought vigilantly on the frontlines to prove their worth of entering the Soltrium galaxy.",
-		"comment": "Character description",
-		"translation": "Αυτός ο αγαμάνος πολέμησε άγρυπνα στην πρώτη γραμμή για να αποδείξει την αξία του να εισέλθει στον γαλαξία του σολτρίου.",
-		"machine": true
-	},
-	{
-		"phrase": "A curious one, aren't you?",
-		"comment": "Character description",
-		"translation": "Περίεργος, έτσι δεν είναι;?",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman gave up everything to make the journey to the Soltrium galaxy.",
-		"comment": "Character description",
-		"translation": "Αυτός ο άγαμαν εγκατέλειψε τα πάντα για να κάνει το ταξίδι στον γαλαξία του σολτρίου.",
-		"machine": true
-	},
-	{
-		"phrase": "This Agaman highborn was infused with Soltrium in an experiment to produce an unstoppable mix of flesh and machine.",
-		"comment": "Character description",
-		"translation": "Αυτό το αγόμαν γεννημένο εγχύθηκε με σολτρίου σε ένα πείραμα για να παραγάγει ένα ασταμάτητο μείγμα σάρκας και μηχανής.",
 		"machine": true
 	},
 	{
@@ -2047,68 +1663,14 @@
 	},
 	{
 		"phrase": "Open Trial Window",
-		"comment": "[Keybind]",
+		"comment": "[Keybind] Open the Trial window",
 		"translation": "Άνοιγμα δοκιμαστικού παραθύρου",
 		"machine": true
 	},
 	{
 		"phrase": "Restart Trial",
-		"comment": "[Keybind]",
+		"comment": "[Keybind] Restart the current Trial",
 		"translation": "Επανεκκίνηση της δοκιμής",
-		"machine": true
-	},
-	{
-		"phrase": "Building 1",
-		"comment": "[Trial Name]",
-		"translation": "Κτίριο 1",
-		"machine": true
-	},
-	{
-		"phrase": "Building 2",
-		"comment": "[Trial Name]",
-		"translation": "Κτίριο 2",
-		"machine": true
-	},
-	{
-		"phrase": "Building 3",
-		"comment": "[Trial Name]",
-		"translation": "Κτίριο 3",
-		"machine": true
-	},
-	{
-		"phrase": "Digging 1",
-		"comment": "[Trial Name]",
-		"translation": "Σκάψιμο 1",
-		"machine": true
-	},
-	{
-		"phrase": "Digging 2",
-		"comment": "[Trial Name]",
-		"translation": "Σκάψιμο 2",
-		"machine": true
-	},
-	{
-		"phrase": "Digging 3",
-		"comment": "[Trial Name]",
-		"translation": "Σκάψιμο 3",
-		"machine": true
-	},
-	{
-		"phrase": "Build + Dig 1",
-		"comment": "[Trial Name]",
-		"translation": "Κατασκευή + σκάψιμο 1",
-		"machine": true
-	},
-	{
-		"phrase": "Build + Dig 2",
-		"comment": "[Trial Name]",
-		"translation": "Κατασκευή + σκάψιμο 2",
-		"machine": true
-	},
-	{
-		"phrase": "Build + Dig 3",
-		"comment": "[Trial Name]",
-		"translation": "Κατασκευή + σκάψιμο 3",
 		"machine": true
 	},
 	{
@@ -2142,48 +1704,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "+50% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+50% Πρωτόνια. Διαρκεί 1 ώρα",
-		"machine": true
-	},
-	{
-		"phrase": "+100% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+100% πρωτόνια. Διαρκεί 1 ώρα",
-		"machine": true
-	},
-	{
-		"phrase": "+200% Protons. Lasts 1 hour",
-		"comment": "[Inventory] Proton boost description",
-		"translation": "+200% Πρωτόνια. Διαρκεί 1 ώρα",
-		"machine": true
-	},
-	{
-		"phrase": "+50% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+50% XP. Διαρκεί 1 ώρα",
-		"machine": true
-	},
-	{
-		"phrase": "+100% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+100% XP. Διαρκεί 1 ώρα",
-		"machine": true
-	},
-	{
-		"phrase": "+200% XP. Lasts 1 hour",
-		"comment": "[Inventory] XP boost description",
-		"translation": "+200% XP. Διαρκεί 1 ώρα",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon Skin Token. Use this to unlock weapon skins on the Weapons screen",
-		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Διακριτικό δέρματος όπλου. χρησιμοποιήστε αυτό για να ξεκλειδώσετε δέρματα όπλων στην οθόνη των όπλων",
-		"machine": true
-	},
-	{
 		"phrase": "Weapon Skin Token",
 		"comment": "[Inventory] Weapon skin token display name",
 		"translation": "Διακριτικό δέρματος όπλου",
@@ -2198,20 +1718,14 @@
 	},
 	{
 		"phrase": "Settings",
-		"comment": "[Setting] [1\/3] This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"comment": "[In-Game Escape Menu] View the settings window",
 		"translation": "Ρυθμίσεις",
 		"machine": true
 	},
 	{
 		"phrase": "Performance",
-		"comment": "[Setting] [2\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
+		"comment": "[Settings] [Button] Sidebar text",
 		"translation": "Εκτέλεση",
-		"machine": true
-	},
-	{
-		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
-		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. The full phrase is: Settings > Performance > Animated Block Skins must be enabled for animated block skins to render correctly",
-		"translation": "Τα κινούμενα δέρματα μπλοκ πρέπει να είναι ενεργοποιημένα για να εμφανίζονται σωστά τα κινούμενα μπλοκ δέρματα",
 		"machine": true
 	},
 	{
@@ -2305,12 +1819,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "First to 5 wins",
-		"comment": "[Gamemode Info] Win requirement, e.g. win 5 rounds in Arena to win",
-		"translation": "Πρώτα με 5 νίκες",
-		"machine": true
-	},
-	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
 		"comment": "[Gamemode Info] Arena gamemode description",
 		"translation": "Μια σκιώδης αγορά έχει αναπτυχθεί στα περίχωρα του γαλαξία όπου στοιχηματίζεται το σολτρίου. είναι όλα ή τίποτα στην αρένα όπου οι διαγωνιζόμενοι παλεύουν για κέρδος και επιβίωση.",
@@ -2318,103 +1826,43 @@
 	},
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
-		"comment": "[Gamemode Info] Spire gamemode description",
+		"comment": "[Gamemode Info] [Description] [Spire]",
 		"translation": "Ξεκινήστε με το τίποτα και συλλέξτε όπλα για να εξαλείψετε την ομάδα του εχθρού.",
 		"machine": true
 	},
 	{
 		"phrase": "All players start with the same randomised loadout.",
-		"comment": "[Gamemode Info] Static gamemode description",
+		"comment": "[Gamemode Info] [Description] [Static]",
 		"translation": "Όλοι οι παίκτες ξεκινούν με το ίδιο τυχαίο φορτίο.",
 		"machine": true
 	},
 	{
-		"phrase": "Soltrium is scattered throughout the outer sector. Various",
-		"comment": "[Salvage] [1\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "Το Soltrium είναι διάσπαρτο σε όλο τον εξωτερικό τομέα. διάφορος",
-		"machine": true
-	},
-	{
 		"phrase": "And",
-		"comment": "[Salvage] [2\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
+		"comment": "[Conjunction]",
 		"translation": "Και",
 		"machine": true
 	},
 	{
-		"phrase": "battalions have been dispatched to search for and collect the precious resource.",
-		"comment": "[Salvage] [3\/3] Gamemode description. The full phrase is Soltrium is scattered throughout the outer sector. Various Aegis and Helix battalions have been dispatched to search for and collect the precious resource",
-		"translation": "τάγματα έχουν αποσταλεί για να αναζητήσουν και να συλλέξουν τον πολύτιμο πόρο.",
-		"machine": true
-	},
-	{
-		"phrase": "The first team to",
-		"comment": "[Gamemode Info] [1\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "Η πρώτη ομάδα που",
-		"machine": true
-	},
-	{
-		"phrase": "points wins",
-		"comment": "[Gamemode Info] [2\/2] Win requirement. The full phrase is: The first team to 500 points wins",
-		"translation": "κερδίζουν πόντοι",
-		"machine": true
-	},
-	{
-		"phrase": "Capture 5 zones to win",
-		"comment": "[Breakthrough] Win requirement. A team must capture 5 zones to win",
-		"translation": "Καταγράψτε 5 ζώνες για να κερδίσετε",
-		"machine": true
-	},
-	{
 		"phrase": "Control the zone to win",
-		"comment": "[Control Shift] Win requirement. A team must control and push the zone back into the enemy spawn to win",
+		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
 		"translation": "Ελέγξτε τη ζώνη για να κερδίσετε",
 		"machine": true
 	},
 	{
-		"phrase": "Deliver the bomb",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Deliver the bomb 3 times to win",
-		"translation": "Παραδώστε τη βόμβα",
-		"machine": true
-	},
-	{
-		"phrase": "Capture the flag",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Αποτυπώστε τη σημαία",
-		"machine": true
-	},
-	{
-		"phrase": "Times to win",
-		"comment": "[Gamemode Info] Win requirement for CTF\/ESC, e.g. Capture the flag 3 times to win",
-		"translation": "Καιροί για νίκη",
-		"machine": true
-	},
-	{
 		"phrase": "Get two kills with every weapon, then melee to win",
-		"comment": "[Gun Game] Win requirement",
+		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
 		"translation": "Πάρτε δύο δολοφονίες με κάθε όπλο και στη συνέχεια κάντε μάχη για να κερδίσετε",
 		"machine": true
 	},
 	{
 		"phrase": "Hold the most Soltrium to win",
-		"comment": "[Head Hunter] Win requirement",
+		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
 		"translation": "Κρατήστε το περισσότερο σολτρίμ για να κερδίσετε",
 		"machine": true
 	},
 	{
-		"phrase": "Pick up",
-		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "Μαζεύω",
-		"machine": true
-	},
-	{
-		"phrase": "From enemy corpses",
-		"comment": "[Head Hunter] [1\/2] Gamemode description. The full phrase is: Pick up Soltrium from enemy corpses.",
-		"translation": "Από πτώματα εχθρού",
-		"machine": true
-	},
-	{
 		"phrase": "Weapons and Mods spawn around the map",
-		"comment": "[Head Hunter] Gamemode description.",
+		"comment": "[Gamemode Info] [Description] [Head Hunter]",
 		"translation": "Όπλα και mods γεννιούνται γύρω από το χάρτη",
 		"machine": true
 	},
@@ -2422,30 +1870,6 @@
 		"phrase": "Not bound",
 		"comment": "[Keybind] This is replacement text for an unbound keybind, e.g. Press [Not bound] to sprint",
 		"translation": "Δεν είναι δεσμευμένο",
-		"machine": true
-	},
-	{
-		"phrase": "You can hold",
-		"comment": "[Connecting] [Loading Tip 1] [1\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Μπορείτε να κρατήσετε",
-		"machine": true
-	},
-	{
-		"phrase": "To reveal enemy positions to teammates",
-		"comment": "[Connecting] [Loading Tip 1] [2\/2] The full phrase is: You can hold [Q] to reveal enemy positions to teammates",
-		"translation": "Να αποκαλύπτουν εχθρικές θέσεις στους συμπαίκτες τους",
-		"machine": true
-	},
-	{
-		"phrase": "You can press",
-		"comment": "[Connecting] [Loading Tip 2] [1\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "Μπορείτε να πατήσετε",
-		"machine": true
-	},
-	{
-		"phrase": "To provide feedback",
-		"comment": "[Connecting] [Loading Tip 2] [2\/2] The full phrase is: You can press [F1] to provide feedback",
-		"translation": "Για την παροχή ανατροφοδότησης",
 		"machine": true
 	},
 	{
@@ -2512,18 +1936,6 @@
 		"phrase": "No subscribed maps",
 		"comment": "[Map List] Text that shows when the user hasn't subsribed to any maps on the Steam Workshop",
 		"translation": "Δεν υπάρχουν εγγεγραμμένοι χάρτες",
-		"machine": true
-	},
-	{
-		"phrase": "Before uploading maps to the Steam workshop, you must agree to the",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
-		"translation": "Πριν ανεβάσετε χάρτες στο εργαστήριο ατμού, πρέπει να συμφωνήσετε με το",
-		"machine": true
-	},
-	{
-		"phrase": "Terms of Service.",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the Steam workshop, you must agree to the Steam Workshop Terms of Service",
-		"translation": "Οροι χρήσης.",
 		"machine": true
 	},
 	{
@@ -2660,42 +2072,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "day",
-		"comment": "[Unit] Time measurement",
-		"translation": "ημέρα",
-		"machine": true
-	},
-	{
-		"phrase": "days",
-		"comment": "[Unit] Time measurement",
-		"translation": "ημέρες",
-		"machine": true
-	},
-	{
-		"phrase": "hour",
-		"comment": "[Unit] Time measurement",
-		"translation": "ώρα",
-		"machine": true
-	},
-	{
-		"phrase": "hours",
-		"comment": "[Unit] Time measurement",
-		"translation": "ώρες",
-		"machine": true
-	},
-	{
-		"phrase": "minute",
-		"comment": "[Unit] Time measurement",
-		"translation": "λεπτό",
-		"machine": true
-	},
-	{
-		"phrase": "minutes",
-		"comment": "[Unit] Time measurement",
-		"translation": "λεπτά",
-		"machine": true
-	},
-	{
 		"phrase": "and",
 		"comment": "[Conjunction] The full phrase is 1 hour and 12 minutes",
 		"translation": "και",
@@ -2756,18 +2132,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Anyone can join Open Lobbies. Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
-		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Ο καθένας μπορεί να συμμετάσχει σε ανοιχτά λόμπι. κάντε δεξί κλικ σε ένα κενό λόμπι για να το διεκδικήσετε.\nΜπορείτε να διεκδικήσετε μόνο 3 λόμπι την ημέρα.",
-		"machine": true
-	},
-	{
-		"phrase": "To create a Custom Lobby, change to the Open lobby tab and right click an empty lobby.",
-		"comment": "[Server List] Description text on the left sidebar",
-		"translation": "Για να δημιουργήσετε ένα προσαρμοσμένο λόμπι, μεταβείτε στην ανοιχτή καρτέλα λόμπι και κάντε δεξί κλικ σε ένα κενό λόμπι.",
-		"machine": true
-	},
-	{
 		"phrase": "Current version",
 		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
 		"translation": "Τρέχουσα έκδοση",
@@ -2792,20 +2156,14 @@
 		"machine": true
 	},
 	{
-		"phrase": "Preferences",
-		"comment": "[Server List] [Sidebar] [Title] Title above the empty servers and full servers checkbox",
-		"translation": "Προτιμήσεις",
-		"machine": true
-	},
-	{
 		"phrase": "Game Modes",
-		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter checkboxes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the game mode filter check boxes",
 		"translation": "Τρόποι παιχνιδιού",
 		"machine": true
 	},
 	{
 		"phrase": "Regions",
-		"comment": "[Server List] [Sidebar] [Title] Title above the region filter checkboxes",
+		"comment": "[Server List] [Sidebar] [Title] Title above the region filter check boxes",
 		"translation": "Περιφέρειες",
 		"machine": true
 	},
@@ -2817,39 +2175,27 @@
 	},
 	{
 		"phrase": "Low level",
-		"comment": "[Play Screen] [Navigation] Low level tab",
+		"comment": "[Play Screen] [Navigation] Low level filter",
 		"translation": "Χαμηλό επίπεδο",
 		"machine": true
 	},
 	{
 		"phrase": "Open",
-		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"comment": "[Play Screen] [Navigation] Public lobbies filter",
 		"translation": "Ανοιξε",
 		"machine": true
 	},
 	{
 		"phrase": "Open",
 		"context": "Public",
-		"comment": "[Play Screen] [Navigation] Public lobbies tab",
+		"comment": "[Play Screen] [Navigation] Public lobbies filter",
 		"translation": "Ανοιξε",
 		"machine": true
 	},
 	{
 		"phrase": "Custom",
-		"comment": "[Play Screen] [Navigation] Custom lobbies tab",
+		"comment": "[Play Screen] [Navigation] Custom lobbies filter",
 		"translation": "Εθιμο",
-		"machine": true
-	},
-	{
-		"phrase": "Empty servers",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
-		"translation": "Άδειοι διακομιστές",
-		"machine": true
-	},
-	{
-		"phrase": "Full servers",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that have full capacity",
-		"translation": "Πλήρεις διακομιστές",
 		"machine": true
 	},
 	{
@@ -3841,12 +3187,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Close",
-		"comment": "Close the settings window",
-		"translation": "Κλείσε",
-		"machine": true
-	},
-	{
 		"phrase": "Spend more time on the CPU producing higher quality world meshes, which reduces pressure on the GPU.",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Αφιερώστε περισσότερο χρόνο στην CPU που παράγει παγκόσμια πλέγματα υψηλότερης ποιότητας, γεγονός που μειώνει την πίεση στη GPU.",
@@ -3856,36 +3196,6 @@
 		"phrase": "The game will automatically disable effects and lower postprocessing quality to keep FPS high. It may take up to one minute to determine optimal rendering settings.",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Το παιχνίδι θα απενεργοποιήσει αυτόματα τα εφέ και θα μειώσει την ποιότητα μετά την επεξεργασία για να διατηρήσει το FPS σε υψηλά επίπεδα. μπορεί να χρειαστεί έως και ένα λεπτό για να καθοριστούν οι βέλτιστες ρυθμίσεις απόδοσης.",
-		"machine": true
-	},
-	{
-		"phrase": "Enemies will be highlighted if they are level 20 or lower and have a KDR of 1 or less.",
-		"comment": "[Setting Tooltip] Peacekeeper description",
-		"translation": "Οι εχθροί θα επισημανθούν εάν είναι επίπεδο 20 ή χαμηλότερο και έχουν KDR 1 ή μικρότερο.",
-		"machine": true
-	},
-	{
-		"phrase": "For the duration Peacekeeper is enabled, deal",
-		"comment": "[Setting Tooltip] [1\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "Για όσο διάστημα είναι ενεργοποιημένος ο ειρηνευτής, συμφωνήστε",
-		"machine": true
-	},
-	{
-		"phrase": "damage to these players and earn",
-		"comment": "[Setting Tooltip] [2\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "ζημιά σε αυτούς τους παίκτες και κερδίστε",
-		"machine": true
-	},
-	{
-		"phrase": "extra XP and Protons.",
-		"comment": "[Setting Tooltip] [3\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "επιπλέον XP και πρωτόνια.",
-		"machine": true
-	},
-	{
-		"phrase": "Changes take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "[Setting Tooltip] [4\/4] Peacekeeper details. The full phrase is: For the duration Peacekeeper is enabled, deal -35% damage to these players and earn +35% extra XP and Protons. Changes take effect on respawn. Peacekeeper has no effect in free for all game modes",
-		"translation": "Οι αλλαγές ισχύουν για το respawn. ο ειρηνοποιός δεν έχει καμία επίδραση δωρεάν για όλους τους τρόπους παιχνιδιού.",
 		"machine": true
 	},
 	{
@@ -3940,18 +3250,6 @@
 		"phrase": "Controls whether player names are rendered. Shortcut:",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Ελέγχει αν αποδίδονται τα ονόματα των παικτών. συντομώτερος δρόμος:",
-		"machine": true
-	},
-	{
-		"phrase": "This controls the scale of all UI and in-game HUD. Press",
-		"comment": "[Setting] [Tooltip] [1\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100",
-		"translation": "Αυτό ελέγχει την κλίμακα όλων των UI και του HUD εντός παιχνιδιού. τύπος",
-		"machine": true
-	},
-	{
-		"phrase": "to reset it back to 100%",
-		"comment": "[Setting] [Tooltip] [2\/2] UI Scale tooltip. The full phrase is: This controls the scale of all UI and in-game HUD. Press [Ctrl+R] to reset it back to 100%",
-		"translation": "για επαναφορά στο 100%",
 		"machine": true
 	},
 	{
@@ -4195,24 +3493,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enable this to make",
-		"comment": "[Setting] [Tooltip] [1\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "Ενεργοποιήστε αυτό για να κάνετε",
-		"machine": true
-	},
-	{
-		"phrase": "dig single blocks and",
-		"comment": "[Setting] [Tooltip] [2\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "σκάβουμε μονά μπλοκ και",
-		"machine": true
-	},
-	{
-		"phrase": "dig a 3x3x3 area",
-		"comment": "[Setting] [Tooltip] [3\/3] Single Dig by Default tooltip. The full phrase is: Enable this to make [Left Click] dig single blocks and [Right Click] dig a 3x3x3 area",
-		"translation": "σκάψτε μια περιοχή 3x3x3",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether enemies are also shown on the top zone bar in Breakthrough when they are shooting, or revealed by a Scanner",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Ελέγχει εάν οι εχθροί εμφανίζονται επίσης στην επάνω γραμμή ζώνης σε σημαντική ανακάλυψη κατά τη λήψη ή αν αποκαλύπτονται από σαρωτή",
@@ -4226,37 +3506,37 @@
 	},
 	{
 		"phrase": "Day",
-		"comment": "[Unit] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Ημέρα",
 		"machine": true
 	},
 	{
 		"phrase": "Days",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Ημέρες",
 		"machine": true
 	},
 	{
 		"phrase": "Hour",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Ωρα",
 		"machine": true
 	},
 	{
 		"phrase": "Hours",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Ωρες",
 		"machine": true
 	},
 	{
 		"phrase": "Minute",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Λεπτό",
 		"machine": true
 	},
 	{
 		"phrase": "Minutes",
-		"comment": "[Unit] [Plural] Measurement of time",
+		"comment": "[Unit] Time measurement",
 		"translation": "Λεπτά",
 		"machine": true
 	},
@@ -4586,24 +3866,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Press",
-		"comment": "[1\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "Τύπος",
-		"machine": true
-	},
-	{
-		"phrase": "Or",
-		"comment": "[2\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "Ή",
-		"machine": true
-	},
-	{
-		"phrase": "to change team mates",
-		"comment": "[3\/3] Arena spectator text. The full phrase is: Press [Q] or [E] to change team mates",
-		"translation": "να αλλάξουν συμπαίκτες",
-		"machine": true
-	},
-	{
 		"phrase": "Pick up equipment",
 		"comment": "[Input Prompt] This text shows in Spire when the player is standing next to C4. The full text is '[V] Pick up equipment'",
 		"translation": "Παραλάβετε τον εξοπλισμό",
@@ -4730,18 +3992,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "To drop the flag",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the flag'",
-		"translation": "Να ρίξει τη σημαία",
-		"machine": true
-	},
-	{
-		"phrase": "To drop the bomb",
-		"comment": "[Input Prompt] [2\/2] The full phrase is 'Press [C] to drop the bomb'",
-		"translation": "Να ρίξει τη βόμβα",
-		"machine": true
-	},
-	{
 		"phrase": "Stage",
 		"comment": "[Gun Game] [Match Info] i.e. a player is at 'Stage 3'",
 		"translation": "Στάδιο",
@@ -4817,46 +4067,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Shoot the targets and try different weapons. Press",
-		"comment": "[Tutorial] [1\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "Πυροβολήστε τους στόχους και δοκιμάστε διαφορετικά όπλα. τύπος",
-		"machine": true
-	},
-	{
-		"phrase": "To set up a loadout",
-		"comment": "[Tutorial] [2\/2] The full phrase is 'Shoot the targets and try different weapons. Press [F2] to set up a loadout'",
-		"translation": "Για να ρυθμίσετε μια φόρτωση",
-		"machine": true
-	},
-	{
-		"phrase": "Play a Match",
-		"context": "Play a Game",
-		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. The full phrase is '[M] Play a Match'",
-		"translation": "Παίξτε έναν αγώνα",
-		"machine": true
-	},
-	{
-		"phrase": "Enter Trials",
-		"context": "Enter the Trials",
-		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
-		"translation": "Εισαγάγετε δοκιμές",
-		"machine": true
-	},
-	{
-		"phrase": "Replay Tutorial",
-		"context": "Replay the Tutorial",
-		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. The full phrase is '[T] Replay Tutorial'",
-		"translation": "Οδηγός επανάληψης",
-		"machine": true
-	},
-	{
-		"phrase": "Reset Ship",
-		"context": "Reset the Ship",
-		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. The full phrase is '[F] Reset Ship'",
-		"translation": "Επαναφορά πλοίου",
-		"machine": true
-	},
-	{
 		"phrase": "Checkout",
 		"comment": "[Store] [Button] Confirm buying from the store",
 		"translation": "Ολοκλήρωση αγοράς",
@@ -4924,7 +4134,7 @@
 	},
 	{
 		"phrase": "Connection to Steam failed. Online play is unavailable",
-		"comment": "[Popup] [1\/2] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
+		"comment": "[Popup] Banner at the top of the screen when there's no connection to Steam.  Do not translate 'Steam'",
 		"translation": "Η σύνδεση με τον ατμό απέτυχε. το online παιχνίδι δεν είναι διαθέσιμο",
 		"machine": true
 	},
@@ -4989,12 +4199,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "To restart",
-		"comment": "[Trial] [Input Prompt] [2\/2] The full phrase is: 'Press [R] to restart'",
-		"translation": "Για να επανεκκινήσεις",
-		"machine": true
-	},
-	{
 		"phrase": "Level",
 		"comment": "[Killcam] The level of the player",
 		"translation": "Επίπεδο",
@@ -5002,7 +4206,7 @@
 	},
 	{
 		"phrase": "Tag",
-		"comment": "[Killcam] [Unit] The amount of tags this player has, e.g. '1 Tag'",
+		"comment": "[Career Path] [Prefix] i.e. ''Assassin' tag'",
 		"translation": "Ετικέτα",
 		"machine": true
 	},
@@ -5034,12 +4238,6 @@
 		"phrase": "Linking your Twitch account",
 		"comment": "[Twitch Link Popup] This text shows when your Twitch account is in the process of being linked. Do not translate the word Twitch.",
 		"translation": "Σύνδεση του λογαριασμού σας στο twitch",
-		"machine": true
-	},
-	{
-		"phrase": "To cancel",
-		"comment": "[2\/2] The full phrase is: 'Press [Escape] to cancel'",
-		"translation": "Να ακυρώσω",
 		"machine": true
 	},
 	{
@@ -5206,12 +4404,8 @@
 	},
 	{
 		"phrase": "Loadout power",
+		"comment": "[Attachment] Weapon characteristic",
 		"translation": "Ισχύς φόρτωσης",
-		"machine": true
-	},
-	{
-		"phrase": "Damage range",
-		"translation": "Εύρος ζημιών",
 		"machine": true
 	},
 	{
@@ -5240,7 +4434,7 @@
 	},
 	{
 		"phrase": "Rounds",
-		"comment": "[Attachment] Weapon characteristic",
+		"comment": "[Attachment] [Unit] Weapon characteristic",
 		"translation": "Γύροι",
 		"machine": true
 	},
@@ -6104,13 +5298,13 @@
 	},
 	{
 		"phrase": "Block",
-		"comment": "e.g. +1 Block when picking up an ammo bonus",
+		"comment": "[Attachment] [Unit] Distance measurement unit",
 		"translation": "ΟΙΚΟΔΟΜΙΚΟ ΤΕΤΡΑΓΩΝΟ",
 		"machine": true
 	},
 	{
 		"phrase": "Magazines",
-		"comment": "e.g. +2 Magazines when picking up an ammo bonus",
+		"comment": "[Unit] e.g. '+2 Magazines' when picking up an ammo bonus",
 		"translation": "Περιοδικά",
 		"machine": true
 	},
@@ -6589,18 +5783,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Infinite ammo. Type",
-		"comment": "[Claim Window] [1\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "Απειρα ΠΥΡΟΜΑΧΙΚΑ. τύπος",
-		"machine": true
-	},
-	{
-		"phrase": "in chat to set your spawn point",
-		"comment": "[Claim Window] [2\/2] The full phrase is: Infinite ammo. Type \/setspawn in chat to set your spawn point",
-		"translation": "στο chat για να ορίσετε το σημείο αναπαραγωγής σας",
-		"machine": true
-	},
-	{
 		"phrase": "Weapon cooldowns removed. Players are invincible",
 		"comment": "[Claim Window] When Sandbox Mode is enabled, weapon cooldowns are removed and players are invincible",
 		"translation": "Καταργήθηκε η ψύξη των όπλων. οι παίκτες είναι ανίκητοι",
@@ -6779,7 +5961,7 @@
 	},
 	{
 		"phrase": "Online",
-		"comment": "[Social Sidebar] Placeholder friend status",
+		"comment": "[Play Screen] [Navigation] Online tab",
 		"translation": "Σε σύνδεση",
 		"machine": true
 	},
@@ -7020,7 +6202,7 @@
 	},
 	{
 		"phrase": "Left click",
-		"comment": "[Loadout] [Input Prompt]",
+		"comment": "Left mouse button",
 		"translation": "Αριστερό κλικ",
 		"machine": true
 	},
@@ -7098,7 +6280,7 @@
 	},
 	{
 		"phrase": "Grenades",
-		"comment": "[Unit] Amount of grenades, e.g. I have 2 grenades",
+		"comment": "[Loadout Summary] Grenade label",
 		"translation": "Χειροβομβίδες",
 		"machine": true
 	},
@@ -7292,7 +6474,7 @@
 	},
 	{
 		"phrase": "No",
-		"comment": "[Mapping] Text that shows if a file is not provided, e.g. 'No VOX file found' or 'No JSON file found'",
+		"comment": "No thank you I'm fine",
 		"translation": "Οχι",
 		"machine": true
 	},
@@ -7564,7 +6746,7 @@
 	},
 	{
 		"phrase": "Accuracy",
-		"comment": "[Victory Screen] [Unit] e.g. 'Accuracy: 24%'",
+		"comment": "[Career name] This career is progressed through headshots and explosive directs",
 		"translation": "Ακρίβεια",
 		"machine": true
 	},
@@ -7634,12 +6816,6 @@
 		"phrase": "Click to join",
 		"comment": "[Social Sidebar] [Button] Click this button to join your friends server",
 		"translation": "Κάντε κλικ για συμμετοχή",
-		"machine": true
-	},
-	{
-		"phrase": "Joining in",
-		"comment": "[Party Banner] The full phrase is: 'Joining in 10 seconds'",
-		"translation": "Συμμετοχή",
 		"machine": true
 	},
 	{
@@ -7853,7 +7029,7 @@
 	{
 		"phrase": "Spectate",
 		"context": "Become a spectator",
-		"comment": "[Scoreboard] [Button] The full phrase is '[1] Spectate'",
+		"comment": "[Scoreboard] [Button]",
 		"translation": "Spectate",
 		"machine": true
 	},
@@ -7923,18 +7099,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Hold",
-		"comment": "[Scoreboard] [1\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "Κρατήστε",
-		"machine": true
-	},
-	{
-		"phrase": "To unlock the cursor",
-		"comment": "[Scoreboard] [2\/2] This text shows at the bottom. The full phrase is: 'Hold [Right Click] to unlock the cursor",
-		"translation": "Για να ξεκλειδώσετε τον κέρσορα",
-		"machine": true
-	},
-	{
 		"phrase": "Spectator",
 		"comment": "[Scoreboard] This text shows at the bottom. The full phrase is '1 Spectator'",
 		"translation": "Θεατής",
@@ -7960,7 +7124,7 @@
 	},
 	{
 		"phrase": "Balance the teams",
-		"comment": "[Scoreboard] [Button] The full phrase is: '[1] Balance the teams'",
+		"comment": "[Scoreboard] [Button]",
 		"translation": "Ισορροπήστε τις ομάδες",
 		"machine": true
 	},
@@ -8582,18 +7746,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Has taken our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken our flag'",
-		"translation": "Πήρε τη σημαία μας",
-		"machine": true
-	},
-	{
-		"phrase": "Has taken the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has taken the enemy flag'",
-		"translation": "Πήρε τη σημαία του εχθρού",
-		"machine": true
-	},
-	{
 		"phrase": "Has picked up the enemy bomb",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
 		"translation": "Έχει πάρει την εχθρική βόμβα",
@@ -8660,21 +7812,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "You have dropped the bomb",
-		"comment": "[Announcement]'",
-		"translation": "Έχετε ρίξει τη βόμβα",
-		"machine": true
-	},
-	{
 		"phrase": "Has dropped the enemy flag",
 		"comment": "[Announcement]'",
 		"translation": "Έχει ρίξει τη σημαία του εχθρού",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped the bomb",
-		"comment": "[Announcement]'",
-		"translation": "Έχει ρίξει τη βόμβα",
 		"machine": true
 	},
 	{
@@ -8987,22 +8127,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Waypoints",
-		"context": "Waypoint count",
-		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
-		"translation": "Σημεία πορείας",
-		"machine": true
-	},
-	{
 		"phrase": "Team",
 		"comment": "[Chat] This is the prefix for a team chat message, e.g. '[TEAM] Dirt Master: Im staying up past my bed time, dont tell anyone'",
 		"translation": "Ομάδα",
-		"machine": true
-	},
-	{
-		"phrase": "Creating shaders",
-		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
-		"translation": "Δημιουργία Shader",
 		"machine": true
 	},
 	{
@@ -9021,18 +8148,6 @@
 		"phrase": "Loading models",
 		"comment": "[Loading] Loading text in the bottom-right of the screen when the game first starts up",
 		"translation": "Φόρτωση μοντέλων",
-		"machine": true
-	},
-	{
-		"phrase": "There was an error initialising shaders. Please follow the instructions at",
-		"comment": "[Error] [Message Popup] [1\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "Παρουσιάστηκε σφάλμα κατά την εκκίνηση των shaders. ακολουθήστε τις οδηγίες στη διεύθυνση",
-		"machine": true
-	},
-	{
-		"phrase": "to submit your log files and help solve this issue",
-		"comment": "[Error] [Message Popup] [2\/2] The full phrase is: There was an error initialising shaders. Please follow the instructions at https:\/\/sectorsedge.com\/support to submit your log files and help solve this issue'",
-		"translation": "για να υποβάλετε τα αρχεία καταγραφής σας και να βοηθήσετε στην επίλυση αυτού του ζητήματος",
 		"machine": true
 	},
 	{
@@ -9087,6 +8202,1156 @@
 		"phrase": "Base amplifier",
 		"comment": "[Attachment] Midi attachment name",
 		"translation": "Ενισχυτής βάσης",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to redeploy while spawning",
+		"comment": "[Admin chat message]",
+		"translation": "Δεν είναι δυνατή η αναδιάταξη κατά την αναπαραγωγή",
+		"machine": true
+	},
+	{
+		"phrase": "You may only run commands in a custom lobby that you claimed",
+		"comment": "[Admin chat message]",
+		"translation": "Μπορείτε να εκτελέσετε εντολές μόνο σε ένα προσαρμοσμένο λόμπι που αξιώσατε",
+		"machine": true
+	},
+	{
+		"phrase": "Your party cannot fit on one team and may be split up",
+		"comment": "[Admin chat message]",
+		"translation": "Το πάρτι σας δεν μπορεί να χωρέσει σε μία ομάδα και μπορεί να χωριστεί",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot claim this lobby as a tournament is running",
+		"comment": "[Admin chat message]",
+		"translation": "Δεν μπορείτε να διεκδικήσετε αυτό το λόμπι καθώς τρέχει ένα τουρνουά",
+		"machine": true
+	},
+	{
+		"phrase": "You may only claim empty lobbies",
+		"comment": "[Admin chat message]",
+		"translation": "Μπορείτε να διεκδικήσετε μόνο άδεια λόμπι",
+		"machine": true
+	},
+	{
+		"phrase": "Max level must not be less than min level",
+		"comment": "[Admin chat message]",
+		"translation": "Το μέγιστο επίπεδο δεν πρέπει να είναι μικρότερο από το ελάχιστο επίπεδο",
+		"machine": true
+	},
+	{
+		"phrase": "This lobby has already been claimed",
+		"comment": "[Admin chat message]",
+		"translation": "Αυτό το λόμπι έχει ήδη διεκδικηθεί",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn position set",
+		"comment": "[Admin chat message]",
+		"translation": "Σετ θέσης αναπαραγωγής",
+		"machine": true
+	},
+	{
+		"phrase": "Creating teams. Spawn when the pre-match timer has finished",
+		"comment": "[Admin chat message]",
+		"translation": "Δημιουργία ομάδων. αναπαραγωγή όταν τελειώσει το χρονόμετρο πριν τον αγώνα",
+		"machine": true
+	},
+	{
+		"phrase": "You must join a team before you can respawn",
+		"comment": "[Admin chat message]",
+		"translation": "Πρέπει να γίνετε μέλος μιας ομάδας για να μπορέσετε να ξαναγεννηθείτε",
+		"machine": true
+	},
+	{
+		"phrase": "You must wait for the tournament to commence before respawning",
+		"comment": "[Admin chat message]",
+		"translation": "Πρέπει να περιμένετε να ξεκινήσει το τουρνουά πριν ξαναγεννηθείτε",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams before the match has started",
+		"comment": "[Admin chat message]",
+		"translation": "Δεν είναι δυνατή η αλλαγή ομάδας πριν ξεκινήσει ο αγώνας",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams during the tournament",
+		"comment": "[Admin chat message]",
+		"translation": "Δεν είναι δυνατή η αλλαγή ομάδας κατά τη διάρκεια του τουρνουά",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while spawning",
+		"comment": "[Admin chat message]",
+		"translation": "Δεν είναι δυνατή η αλλαγή ομάδας κατά την αναπαραγωγή",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while the round is running",
+		"comment": "[Admin chat message] This shows during Arena matches",
+		"translation": "Δεν είναι δυνατή η αλλαγή ομάδας ενώ ο γύρος τρέχει",
+		"machine": true
+	},
+	{
+		"phrase": "Your votekick permissions have been revoked",
+		"comment": "[Admin chat message]",
+		"translation": "Τα δικαιώματά σας για votekick ανακλήθηκαν",
+		"machine": true
+	},
+	{
+		"phrase": "You're meant to get along with the other mods",
+		"comment": "[Admin chat message] This shows when a mod tries to votekick another mod",
+		"translation": "Σκοπεύετε να τα πάτε καλά με τα άλλα mods",
+		"machine": true
+	},
+	{
+		"phrase": "A tournament is currently running",
+		"comment": "[Admin chat message]",
+		"translation": "Ένα τουρνουά τρέχει αυτή τη στιγμή",
+		"machine": true
+	},
+	{
+		"phrase": "A tournament is currently running and you are now spectating",
+		"comment": "[Admin chat message]",
+		"translation": "Ένα τουρνουά τρέχει αυτή τη στιγμή και τώρα παρακολουθείτε",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full",
+		"comment": "[Admin chat message]",
+		"translation": "Ο διακομιστής είναι γεμάτος",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full and you are now spectating",
+		"comment": "[Admin chat message]",
+		"translation": "Ο διακομιστής είναι γεμάτος και τώρα παρακολουθείτε",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has been disbanded due to team imbalance",
+		"comment": "[Admin chat message]",
+		"translation": "Το πάρτι σας διαλύθηκε λόγω ανισορροπίας της ομάδας",
+		"machine": true
+	},
+	{
+		"phrase": "This server requires a system restart and will restart at the end of the round. Thank you for playing! - Verc",
+		"comment": "[Admin chat message]",
+		"translation": "Αυτός ο διακομιστής απαιτεί επανεκκίνηση συστήματος και θα επανεκκινήσει στο τέλος του γύρου. σας ευχαριστούμε που παίξατε! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "This server will quickly patch at the end of this round. You do NOT need to update your client and you can remain in this lobby. Thank you for playing! - Verc",
+		"comment": "[Admin chat message]",
+		"translation": "Αυτός ο διακομιστής θα επιδιορθώσει γρήγορα στο τέλος αυτού του γύρου. ΔΕΝ χρειάζεται να ενημερώσετε τον πελάτη σας και μπορείτε να παραμείνετε σε αυτό το λόμπι. σας ευχαριστούμε που παίξατε! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalance complete",
+		"comment": "[Admin chat message]",
+		"translation": "Η αυτόματη ισορροπία ολοκληρώθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalance paused",
+		"comment": "[Admin chat message]",
+		"translation": "Η αυτόματη ισορροπία τέθηκε σε παύση",
+		"machine": true
+	},
+	{
+		"phrase": "Wave Defence",
+		"comment": "Game mode name",
+		"translation": "Κυματική άμυνα",
+		"machine": true
+	},
+	{
+		"phrase": "Compensator",
+		"comment": "Barrel attachment name",
+		"translation": "Ικανοποιών",
+		"machine": true
+	},
+	{
+		"phrase": "Sticky",
+		"comment": "Ammo type name - an explosive projectile sticks to the wall on impact before exploding",
+		"translation": "Κολλώδης",
+		"machine": true
+	},
+	{
+		"phrase": "Cluster",
+		"comment": "Ammo type name - an explosive projectile explodes into a cluster of 3 explosives",
+		"translation": "Σύμπλεγμα",
+		"machine": true
+	},
+	{
+		"phrase": "Fragmentation",
+		"comment": "Payload attachment name",
+		"translation": "Θρυμματισμός",
+		"machine": true
+	},
+	{
+		"phrase": "Bounce",
+		"comment": "[Grenade Type]",
+		"translation": "Πήδημα",
+		"machine": true
+	},
+	{
+		"phrase": "High Block Damage",
+		"comment": "[Grenade Payload] Deals high block damage and low player damage",
+		"translation": "Υψηλή ζημιά στο μπλοκ",
+		"machine": true
+	},
+	{
+		"phrase": "High Player Damage",
+		"comment": "[Grenade Payload] Deals high player damage and low block damage",
+		"translation": "Υψηλή ζημιά παίκτη",
+		"machine": true
+	},
+	{
+		"phrase": "Move around",
+		"comment": "[Tutorial UI]",
+		"translation": "Περιφέρομαι",
+		"machine": true
+	},
+	{
+		"phrase": "Sprint along the path",
+		"comment": "[Tutorial UI]",
+		"translation": "Σπριντ κατά μήκος του μονοπατιού",
+		"machine": true
+	},
+	{
+		"phrase": "Crouch through the tunnel",
+		"comment": "[Tutorial UI]",
+		"translation": "Σκύψτε μέσα από τη σήραγγα",
+		"machine": true
+	},
+	{
+		"phrase": "Crouch while sprinting to slide",
+		"comment": "[Tutorial UI]",
+		"translation": "Σκύψτε ενώ κάνετε σπριντ για να γλιστρήσετε",
+		"machine": true
+	},
+	{
+		"phrase": "Jump over the gap",
+		"comment": "[Tutorial UI]",
+		"translation": "Πέρασε το κενό",
+		"machine": true
+	},
+	{
+		"phrase": "Dig through the wall",
+		"comment": "[Tutorial UI]",
+		"translation": "Σκάψτε τον τοίχο",
+		"machine": true
+	},
+	{
+		"phrase": "Click, hold and drag between the cubes to build over the wall",
+		"comment": "[Tutorial UI]",
+		"translation": "Κάντε κλικ, κρατήστε πατημένο και σύρετε μεταξύ των κύβων για να χτιστεί πάνω από τον τοίχο",
+		"machine": true
+	},
+	{
+		"phrase": "Look for a weapon",
+		"comment": "[Tutorial UI]",
+		"translation": "Αναζητήστε όπλο",
+		"machine": true
+	},
+	{
+		"phrase": "Bridge the gap",
+		"comment": "[Tutorial UI]",
+		"translation": "Γεφύρωσε το κενό",
+		"machine": true
+	},
+	{
+		"phrase": "Inspect the crate",
+		"comment": "[Tutorial UI]",
+		"translation": "Επιθεωρήστε το κιβώτιο",
+		"machine": true
+	},
+	{
+		"phrase": "Build defences",
+		"comment": "[Tutorial UI]",
+		"translation": "Δημιουργήστε άμυνες",
+		"machine": true
+	},
+	{
+		"phrase": "Take out the Renegades",
+		"comment": "[Tutorial UI]",
+		"translation": "Βγάλτε τους αποστάτες",
+		"machine": true
+	},
+	{
+		"phrase": "Advance to the end of the walkway",
+		"comment": "[Tutorial UI]",
+		"translation": "Προχωρήστε μέχρι το τέλος του πεζόδρομου",
+		"machine": true
+	},
+	{
+		"phrase": "Take out the remaining Renegades",
+		"comment": "[Tutorial UI]",
+		"translation": "Βγάλτε τους υπόλοιπους αποστάτες",
+		"machine": true
+	},
+	{
+		"phrase": "Secure the canister",
+		"comment": "[Tutorial UI]",
+		"translation": "Ασφαλίστε το δοχείο",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment Point",
+		"comment": "[Career Path] [Unit] i.e. '1 Attachment Point'",
+		"translation": "Σημείο προσάρτησης",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment Points",
+		"comment": "[Career Path] [Unit] [Plural] i.e. '2 Attachment Points'",
+		"translation": "Σημεία προσάρτησης",
+		"machine": true
+	},
+	{
+		"phrase": "Boost",
+		"comment": "[Career Path] i.e. '50% Proton Boost'",
+		"translation": "Ωθηση",
+		"machine": true
+	},
+	{
+		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
+		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
+		"translation": "[Ρυθμίσεις> απόδοση> κινούμενα δέρματα μπλοκ] πρέπει να είναι ενεργοποιημένα για να εμφανίζονται σωστά τα κινούμενα μπλοκ δέρματα",
+		"machine": true
+	},
+	{
+		"phrase": "Progressions will appear here after playing your first match",
+		"comment": "This text shows on the Career tab when the player has not played their first match yet",
+		"translation": "Οι προόδους θα εμφανιστούν εδώ αφού παίξετε τον πρώτο σας αγώνα",
+		"machine": true
+	},
+	{
+		"phrase": "First team to win {0} rounds",
+		"comment": "[Gamemode Info] [Win requirement] [Arena] Parameter 0: '5'",
+		"translation": "Η πρώτη ομάδα που κέρδισε γύρους {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
+		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
+		"translation": "Το Soltrium είναι διάσπαρτο σε όλο τον εξωτερικό τομέα. διάφορα τάγματα {0} και {1} έχουν αποσταλεί για την αναζήτηση και τη συλλογή του πολύτιμου πόρου.",
+		"machine": true
+	},
+	{
+		"phrase": "The first team to {0} points wins",
+		"comment": "[Gamemode Info] [Win Requirement] [Salvage] Parameter 0: '500'",
+		"translation": "Η πρώτη ομάδα με πόντους {0} κερδίζει",
+		"machine": true
+	},
+	{
+		"phrase": "Capture all zones to win",
+		"comment": "[Gamemode Info] [Win Requirement] [Breakthrough]",
+		"translation": "Αποτυπώστε όλες τις ζώνες για να κερδίσετε",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver the flag {0} times to win",
+		"comment": "[Gamemode Info] [Win requirement] [Escort] Parameter 0: '3'",
+		"translation": "Παραδώστε τη σημαία {0} φορές για να κερδίσετε",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver the bomb {0} times to win",
+		"comment": "[Gamemode Info] [Win requirement] [CTF] Parameter 0: '3'",
+		"translation": "Παραδώστε τη βόμβα {0} φορές για να κερδίσετε",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up {0} from enemy corpses",
+		"comment": "[Gamemode Info] [Description] [Head Hunter] Parameter 0: 'Soltrium'",
+		"translation": "Παραλάβετε το {0} από τα πτώματα του εχθρού",
+		"machine": true
+	},
+	{
+		"phrase": "You can hold {0} to reveal enemy positions to teammates",
+		"comment": "[Connecting] [Loading Tip 1] Parameter 0: '[ Q ]'",
+		"translation": "Μπορείτε να κρατήσετε το {0} για να αποκαλύψετε θέσεις εχθρού στους συμπαίκτες σας",
+		"machine": true
+	},
+	{
+		"phrase": "You can press {0} to provide feedback",
+		"comment": "[Connecting] [Loading Tip 2] Parameter 0: '[ F1 ]'",
+		"translation": "Μπορείτε να πατήσετε το {0} για να δώσετε σχόλια",
+		"machine": true
+	},
+	{
+		"phrase": "Before uploading maps to the {0}, you must agree to the",
+		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
+		"translation": "Πριν ανεβάσετε χάρτες στο {0}, πρέπει να συμφωνήσετε με το",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Terms of Service",
+		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
+		"translation": "Όροι Παροχής Υπηρεσιών {0}",
+		"machine": true
+	},
+	{
+		"phrase": "High",
+		"context": "High quality",
+		"comment": "Graphics preset",
+		"translation": "Υψηλός",
+		"machine": true
+	},
+	{
+		"phrase": "Medium",
+		"context": "Medium quality",
+		"comment": "Graphics preset",
+		"translation": "Μεσαίο",
+		"machine": true
+	},
+	{
+		"phrase": "Low",
+		"context": "Low quality",
+		"comment": "Graphics preset",
+		"translation": "Χαμηλός",
+		"machine": true
+	},
+	{
+		"phrase": "Toaster",
+		"comment": "Graphics preset",
+		"translation": "Φρυγανιέρα",
+		"machine": true
+	},
+	{
+		"phrase": "Potato",
+		"context": "Garbage",
+		"comment": "Graphics preset",
+		"translation": "Πατάτα",
+		"machine": true
+	},
+	{
+		"phrase": "Right click an empty lobby to claim it.\nYou may only claim 3 lobbies per day.",
+		"comment": "[Server List] Description text on the left sidebar",
+		"translation": "Κάντε δεξί κλικ σε ένα κενό λόμπι για να το διεκδικήσετε.\nΜπορείτε να διεκδικήσετε μόνο 3 λόμπι την ημέρα.",
+		"machine": true
+	},
+	{
+		"phrase": "Servers",
+		"comment": "[Server List] [Sidebar] [Title] Title above the empty \/ full \/ low level \/ etc check boxes",
+		"translation": "Διακομιστές",
+		"machine": true
+	},
+	{
+		"phrase": "Empty",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that have no players",
+		"translation": "Αδειάζω",
+		"machine": true
+	},
+	{
+		"phrase": "Full",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that have full capacity",
+		"translation": "Γεμάτος",
+		"machine": true
+	},
+	{
+		"phrase": "Bots",
+		"comment": "[Play Screen] [Filter Checkbox] Show servers that only have bots in them",
+		"translation": "Bots",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "[Setting Tooltip] Peacekeeper description. Parameter 0: '20', Parameter 1: '1', Parameter 2: '-35%', Parameter 3: '+35%'",
+		"translation": "Οι εχθροί θα επισημανθούν εάν είναι επίπεδο {0} ή χαμηλότερο και έχουν KDR {1} ή μικρότερο.\n\nΌσο είναι ενεργοποιημένος ο ειρηνευτής, κάντε ζημιά {2} σε αυτούς τους παίκτες και κερδίστε {3} επιπλέον XP και πρωτόνια.\n\nΟι αλλαγές ισχύουν για το respawn. ο ειρηνοποιός δεν έχει καμία επίδραση δωρεάν για όλους τους τρόπους παιχνιδιού.",
+		"machine": true
+	},
+	{
+		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
+		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
+		"translation": "Αυτό ελέγχει την κλίμακα όλων των UI και του HUD εντός παιχνιδιού. πατήστε το {0} για να το επαναφέρετε στο 100%",
+		"machine": true
+	},
+	{
+		"phrase": "Enable this to make {0} dig single blocks and {1} dig a 3x3x3 area",
+		"translation": "Ενεργοποιήστε αυτό για να κάνετε το {0} να σκάψει μεμονωμένα μπλοκ και το {1} να σκάψει μια περιοχή 3x3x3",
+		"machine": true
+	},
+	{
+		"phrase": "Has stolen our flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen our flag'",
+		"translation": "Μας έκλεψε τη σημαία",
+		"machine": true
+	},
+	{
+		"phrase": "Has stolen the enemy flag",
+		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen the enemy flag'",
+		"translation": "Έκλεψε τη σημαία του εχθρού",
+		"machine": true
+	},
+	{
+		"phrase": "You have dropped our bomb",
+		"comment": "[Announcement]'",
+		"translation": "Έχετε ρίξει τη βόμβα μας",
+		"machine": true
+	},
+	{
+		"phrase": "Has dropped our bomb",
+		"comment": "[Announcement]'",
+		"translation": "Έριξε τη βόμβα μας",
+		"machine": true
+	},
+	{
+		"phrase": "There was an error initialising shaders. Please follow the instructions at {0} to submit your log files and help solve this issue",
+		"comment": "[Error] [Message Popup] Parameter 0: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Παρουσιάστηκε σφάλμα κατά την εκκίνηση των σκίαστρων. ακολουθήστε τις οδηγίες στο {0} για να υποβάλετε τα αρχεία καταγραφής σας και να βοηθήσετε στην επίλυση αυτού του ζητήματος",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} or {1} to change team mates",
+		"comment": "Arena spectator text. Parameter 0: '[ Q ]', Parameter 1: '[ E ]'",
+		"translation": "Πατήστε {0} ή {1} για να αλλάξετε συμπαίκτες",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to drop the flag",
+		"comment": "[Input Prompt] Parameter 0: '[ C ]'",
+		"translation": "Πατήστε {0} για να ρίξετε τη σημαία",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to drop the bomb",
+		"comment": "[Input Prompt] Parameter 0: '[ C ]'",
+		"translation": "Πατήστε {0} για να ρίξετε τη βόμβα",
+		"machine": true
+	},
+	{
+		"phrase": "Respawning in {0}s",
+		"comment": "Respawn text in the ship.",
+		"translation": "Αναπαραγωγή σε {0}s",
+		"machine": true
+	},
+	{
+		"phrase": "Shoot the targets and try different weapons. Press {0} to set up a loadout",
+		"comment": "[Tutorial] Parameter 0: '[ F2 ]'",
+		"translation": "Πυροβολήστε τους στόχους και δοκιμάστε διαφορετικά όπλα. πατήστε {0} για να ρυθμίσετε ένα φορτίο",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Play a Match",
+		"context": "{0} Play a Game",
+		"comment": "[Input Prompt] This text shows when looking at the map panel in the ship. Parameter 0: '[ M ]'",
+		"translation": "{0} Παίξτε έναν αγώνα",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Enter Trials",
+		"context": "{0} Enter the Trials",
+		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. Parameter 0: '[ T ]'",
+		"translation": "{0} Enter Trials",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Replay Tutorial",
+		"context": "{0} Replay the Tutorial",
+		"comment": "[Input Prompt] This text shows when looking at the tutorial panel in the ship. Parameter 0: '[ T ]'",
+		"translation": "Σεμινάριο επανάληψης {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Reset Ship",
+		"context": "{0} Reset the Ship",
+		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. Parameter 0: '[ F ]'",
+		"translation": "Επαναφορά πλοίου {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to restart",
+		"comment": "[Trial] [Input Prompt] Parameter 0: '[ R ]'",
+		"translation": "Πατήστε {0} για επανεκκίνηση",
+		"machine": true
+	},
+	{
+		"phrase": "Waiting for players",
+		"comment": "[Rich Presence]",
+		"translation": "Περιμένοντας τους παίκτες",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their character",
+		"comment": "[Rich Presence]",
+		"translation": "Προσαρμογή του χαρακτήρα τους",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their weapons",
+		"comment": "[Rich Presence]",
+		"translation": "Προσαρμογή των όπλων τους",
+		"machine": true
+	},
+	{
+		"phrase": "Customising their blocks",
+		"comment": "[Rich Presence]",
+		"translation": "Προσαρμογή των μπλοκ τους",
+		"machine": true
+	},
+	{
+		"phrase": "Modifying their loadouts",
+		"comment": "[Rich Presence]",
+		"translation": "Τροποποίηση των φορτίων τους",
+		"machine": true
+	},
+	{
+		"phrase": "Reading the news",
+		"comment": "[Rich Presence]",
+		"translation": "Διαβάζοντας τις ειδήσεις",
+		"machine": true
+	},
+	{
+		"phrase": "Browsing the store",
+		"comment": "[Rich Presence]",
+		"translation": "Περιήγηση στο κατάστημα",
+		"machine": true
+	},
+	{
+		"phrase": "Wishing clans were implemented",
+		"comment": "[Rich Presence]",
+		"translation": "Υλοποιήθηκαν οι φυλές ευχών",
+		"machine": true
+	},
+	{
+		"phrase": "Competing in the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Ανταγωνισμός στις δοκιμές",
+		"machine": true
+	},
+	{
+		"phrase": "Completing the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Ολοκληρώνοντας τις δοκιμές",
+		"machine": true
+	},
+	{
+		"phrase": "Trialing out a few things",
+		"comment": "[Rich Presence]",
+		"translation": "Δοκιμάζοντας μερικά πράγματα",
+		"machine": true
+	},
+	{
+		"phrase": "Mastering the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Κυριαρχία των δοκιμών",
+		"machine": true
+	},
+	{
+		"phrase": "Speedrunning the trials",
+		"comment": "[Rich Presence]",
+		"translation": "Επιτάχυνση των δοκιμών",
+		"machine": true
+	},
+	{
+		"phrase": "Giving the ship a trial",
+		"comment": "[Rich Presence]",
+		"translation": "Δοκιμάζοντας το πλοίο",
+		"machine": true
+	},
+	{
+		"phrase": "Completing the tutorial",
+		"comment": "[Rich Presence]",
+		"translation": "Ολοκληρώνοντας το σεμινάριο",
+		"machine": true
+	},
+	{
+		"phrase": "Modifying their structures",
+		"comment": "[Rich Presence]",
+		"translation": "Τροποποίηση των δομών τους",
+		"machine": true
+	},
+	{
+		"phrase": "Shooting range",
+		"comment": "[Rich Presence]",
+		"translation": "Πεδίο βολής",
+		"machine": true
+	},
+	{
+		"phrase": "In the parkour room",
+		"comment": "[Rich Presence]",
+		"translation": "Στο δωμάτιο του παρκούρ",
+		"machine": true
+	},
+	{
+		"phrase": "Relaxing in their ship",
+		"comment": "[Rich Presence]",
+		"translation": "Χαλαρώνουν στο πλοίο τους",
+		"machine": true
+	},
+	{
+		"phrase": "Designing a custom map",
+		"comment": "[Rich Presence]",
+		"translation": "Σχεδιάζοντας έναν προσαρμοσμένο χάρτη",
+		"machine": true
+	},
+	{
+		"phrase": "Browsing the server list",
+		"comment": "[Rich Presence]",
+		"translation": "Περιήγηση στη λίστα διακομιστών",
+		"machine": true
+	},
+	{
+		"phrase": "Title screen",
+		"comment": "[Rich Presence]",
+		"translation": "Οθόνη τίτλου",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to cancel",
+		"comment": "Parameter 0: '[ Escape ]'",
+		"translation": "Πατήστε {0} για ακύρωση",
+		"machine": true
+	},
+	{
+		"phrase": "Full damage distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Πλήρης απόσταση ζημιάς",
+		"machine": true
+	},
+	{
+		"phrase": "Least damage distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Ελάχιστη απόσταση ζημιάς",
+		"machine": true
+	},
+	{
+		"phrase": "Lowest damage at distance",
+		"comment": "[Attachment] Weapon characteristic",
+		"translation": "Η μικρότερη ζημιά σε απόσταση",
+		"machine": true
+	},
+	{
+		"phrase": "Round",
+		"comment": "[Attachment] [Unit] Weapon characteristic",
+		"translation": "Γύρος",
+		"machine": true
+	},
+	{
+		"phrase": "Blocks per second",
+		"comment": "[Weapon Statistics] [Unit] How many blocks a projectile travels per second",
+		"translation": "Μπλοκ ανά δευτερόλεπτο",
+		"machine": true
+	},
+	{
+		"phrase": "Fires three times per barrel rotation",
+		"comment": "Triple ammo description",
+		"translation": "Φωτιές τρεις φορές ανά περιστροφή βαρελιού",
+		"machine": true
+	},
+	{
+		"phrase": "Shoot with plasma to increase its power",
+		"comment": "Augmented ammo description",
+		"translation": "Πυροβολήστε με πλάσμα για να αυξήσετε τη δύναμή του",
+		"machine": true
+	},
+	{
+		"phrase": "Explodes into 3 clusters",
+		"comment": "Cluster ammo description",
+		"translation": "Εκρήγνυται σε 3 ομάδες",
+		"machine": true
+	},
+	{
+		"phrase": "Deals more damage further away from the explosion",
+		"comment": "Fragmentation payload description",
+		"translation": "Προκαλεί περισσότερες ζημιές πιο μακριά από την έκρηξη",
+		"machine": true
+	},
+	{
+		"phrase": "Gains damage over distance",
+		"comment": "Rocket Rifle Kinetic ammo description",
+		"translation": "Κερδίζει ζημιά σε απόσταση",
+		"machine": true
+	},
+	{
+		"phrase": "Generates 5 mini orbs",
+		"comment": "Multi orb weapon description",
+		"translation": "Δημιουργεί 5 μίνι σφαίρες",
+		"machine": true
+	},
+	{
+		"phrase": "Generates a short plasma beam",
+		"comment": "Plasma cutter weapon description",
+		"translation": "Δημιουργεί μια μικρή δέσμη πλάσματος",
+		"machine": true
+	},
+	{
+		"phrase": "Sticky grenades",
+		"comment": "[Loadout Summary] Grenade label",
+		"translation": "Αυτοκόλλητες χειροβομβίδες",
+		"machine": true
+	},
+	{
+		"phrase": "Points left",
+		"comment": "[Career Timeline] e.g. '1000 points left'",
+		"translation": "Απομένουν πόντοι",
+		"machine": true
+	},
+	{
+		"phrase": "Infinite ammo. Type {0} in chat to set your spawn point",
+		"comment": "[Claim Window] Parameter 0: '\/setspawn'",
+		"translation": "Απειρα ΠΥΡΟΜΑΧΙΚΑ. πληκτρολογήστε {0} στη συνομιλία για να ορίσετε το σημείο αναπαραγωγής σας",
+		"machine": true
+	},
+	{
+		"phrase": "Next",
+		"comment": "[Victory Screen] [Navigation] Show the next career progression",
+		"translation": "Επόμενο",
+		"machine": true
+	},
+	{
+		"phrase": "Skip",
+		"comment": "[Victory Screen] [Navigation] Skip the career progression showcase at the end of a match",
+		"translation": "Παραλείπω",
+		"machine": true
+	},
+	{
+		"phrase": "Hold {0} to unlock the cursor",
+		"comment": "[Scoreboard] This text shows at the bottom. Parameter 0: '[ Right Click ]'",
+		"translation": "Κρατήστε πατημένο το {0} για να ξεκλειδώσετε τον κέρσορα",
+		"machine": true
+	},
+	{
+		"phrase": "Yes",
+		"comment": "Yes I would like to play Sector's Edge",
+		"translation": "Ναί",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to enable Dynamic Rendering Settings?",
+		"translation": "Θέλετε να ενεργοποιήσετε τις δυναμικές ρυθμίσεις απόδοσης?",
+		"machine": true
+	},
+	{
+		"phrase": "Map is still syncing. Retry in {0} seconds",
+		"comment": "[Admin chat message] The player is still loading the map and cant spawn yet. Parameter 0: '10'",
+		"translation": "Ο χάρτης εξακολουθεί να συγχρονίζεται. δοκιμάστε ξανά σε {0} δευτερόλεπτα",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to respawn while the map is restoring. Retry in {0} seconds",
+		"comment": "[Admin chat message] This shows during trailer mode while the map is being restored to a previous state. Parameter 0: '10'",
+		"translation": "Δεν είναι δυνατή η αναπαράσταση ενώ γίνεται επαναφορά του χάρτη. δοκιμάστε ξανά σε {0} δευτερόλεπτα",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
+		"comment": "[Admin chat message] Parameter 0: '10'",
+		"translation": "Δεν είναι δυνατή η αλλαγή ομάδας κατά την επαναφορά του χάρτη. δοκιμάστε ξανά σε {0} δευτερόλεπτα",
+		"machine": true
+	},
+	{
+		"phrase": "To balance the teams, {0} has moved themselves to the weaker team and will get an extra {1} Protons at the end of the round.",
+		"comment": "[Admin chat message] Parameter 0: 'Pegarex', parameter 1: '100'",
+		"translation": "Για να εξισορροπήσει τις ομάδες, ο {0} έχει μετακινηθεί στην πιο αδύναμη ομάδα και θα πάρει επιπλέον πρωτόνια {1} στο τέλος του γύρου.",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers. Thank you for playing! - Verc",
+		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"translation": "Αυτός ο διακομιστής θα ενημερωθεί σε {0} στο τέλος του αγώνα. ΠΡΕΠΕΙ να ενημερώσετε τον πελάτη σας μέσω ατμού για να συνδεθείτε ξανά στους διακομιστές. σας ευχαριστούμε που παίξατε! - verc",
+		"machine": true
+	},
+	{
+		"phrase": "The workshop map does not support the gamemode {0}",
+		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"translation": "Ο χάρτης του συνεργείου δεν υποστηρίζει το gamemode {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing in {0} seconds. [Aegis Power: {1}] [Helix Power: {2}]",
+		"comment": "[Admin chat message] Parameter 0: '10'",
+		"translation": "Αυτόματη εξισορρόπηση σε {0} δευτερόλεπτα. [ισχύς αιγίδας: {1}] [ισχύς έλικας: {2}]",
+		"machine": true
+	},
+	{
+		"phrase": "Moved {0} [{1}] from {2} [Power: {3}] to {4} [Power: {5}]",
+		"comment": "[Admin chat message] Parameter 0: 'Fora', parameter 1: '18', parameter 2: 'Helix', parameter 3: '73', parameter 4: 'Aegis', parameter 5: '55'",
+		"translation": "Μεταφέρθηκε το {0} [{1}] από το {2} [power: {3}] στο {4} [power: {5}]",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will shut down for a system update. You will have to join another server to keep playing.",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "Σε δευτερόλεπτα {0}, αυτός ο διακομιστής θα κλείσει για ενημέρωση συστήματος. θα πρέπει να συνδεθείτε με έναν άλλο διακομιστή για να συνεχίσετε να παίζετε.",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will update to {1}. You must update your client through Steam to rejoin servers.",
+		"comment": "[Admin chat message] Parameter 0: '30', parameter 1: 'Version 1.4.0'",
+		"translation": "Σε δευτερόλεπτα {0} αυτός ο διακομιστής θα ενημερωθεί σε {1}. πρέπει να ενημερώσετε τον πελάτη σας μέσω του steam για να συνδεθείτε ξανά στους διακομιστές.",
+		"machine": true
+	},
+	{
+		"phrase": "In {0} seconds this server will quickly patch for maintenance. You do NOT need to update your client and you can remain in this lobby.",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "Σε δευτερόλεπτα {0}, αυτός ο διακομιστής θα επιδιορθώσει γρήγορα για συντήρηση. ΔΕΝ χρειάζεται να ενημερώσετε τον πελάτη σας και μπορείτε να παραμείνετε σε αυτό το λόμπι.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been kicked ({1} - {2})",
+		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
+		"translation": "Το {0} έχει κλωτσήσει ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been kicked ({1} - {2})",
+		"comment": "[Admin chat message] Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
+		"translation": "Το {0} δεν έχει κλωτσήσει ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing in {0} seconds",
+		"comment": "[Admin chat message] Parameter 0: '30'",
+		"translation": "Αυτόματη εξισορρόπηση σε {0} δευτερόλεπτα",
+		"machine": true
+	},
+	{
+		"phrase": "Autobalancing now. The next player on {0} to die will be autobalanced.",
+		"comment": "[Admin chat message] Parameter 0: 'Aegis'",
+		"translation": "Αυτόματη εξισορρόπηση τώρα. ο επόμενος παίκτης στο {0} που θα πεθάνει θα έχει αυτόματη ισορροπία.",
+		"machine": true
+	},
+	{
+		"phrase": "The map is restoring. Try again in {0} seconds",
+		"comment": "Reason for being disconnected from a server. Parameter 0: '10'",
+		"translation": "Ο χάρτης αποκαθίσταται. δοκιμάστε ξανά σε {0} δευτερόλεπτα",
+		"machine": true
+	},
+	{
+		"phrase": "You can only claim {0} lobbies per day",
+		"comment": "Reason for being disconnected from a server. Parameter 0: '3'",
+		"translation": "Μπορείτε να διεκδικήσετε μόνο λόμπι {0} ανά ημέρα",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks\n{1} blocks build distance\n{2} block health",
+		"comment": "Armour modification description. Parameter 0: '+100', parameter 1: '+2', parameter 2: '+5'",
+		"translation": "Μπλοκ {0}\nΤο {1} μπλοκάρει την απόσταση κατασκευής\nΑποκλεισμός της υγείας του {2}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks safe fall distance\n{1} fall damage",
+		"comment": "Armour modification description. Parameter 0: '+3', parameter 1: '-15%'",
+		"translation": "Το {0} αποκλείει την ασφαλή απόσταση πτώσης\nΖημιά πτώσης {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} self explosion knockback\n{1} self explosion damage",
+		"comment": "Armour modification description. Parameter 0: '+400%', parameter 1: '-10%'",
+		"translation": "{0} αυτο -έκρηξη knockback\nΖημιά από έκρηξη {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} health regeneration speed",
+		"comment": "Armour modification description. Parameter 0: '+20%'",
+		"translation": "Ταχύτητα αναγέννησης της υγείας {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} movement speed",
+		"comment": "Armour modification description. Parameter 0: '+5%'",
+		"translation": "Ταχύτητα κίνησης {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} build and dig volume\n{1} footstep volume\n{2} footstep distance",
+		"comment": "Armour modification description. Parameter 0: '-40%', parameter 1: '-15%', parameter 2: '-25%'",
+		"translation": "{0} όγκος κατασκευής και εκσκαφής\nΌγκος βήματος {1}\nΑπόσταση βήματος {2}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed",
+		"comment": "Armour modification description. Parameter 0: '+10%'",
+		"translation": "Ταχύτητα εκσκαφής {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} equipment ammo on every ammo pickup",
+		"comment": "Armour modification description. Parameter 0: '+20%', parameter 1: '2', parameter 2: '+1'",
+		"translation": "Ταχύτητα εκσκαφής {0}\nΚερδίστε μπλοκ {1} ανά μπλοκ σκαμμένο\nΠυρομαχικά εξοπλισμού {2} σε κάθε παραλαβή πυρομαχικών",
+		"machine": true
+	},
+	{
+		"phrase": "{0} blocks safe fall distance\n{1} fall damage\n{2} block jump height",
+		"comment": "Armour modification description. Parameter 0: '+9', parameter 1: '-45%', parameter 2: '+1'",
+		"translation": "Το {0} αποκλείει την ασφαλή απόσταση πτώσης\nΖημιά πτώσης {1}\nHeightψος άλματος μπλοκ {2}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} self explosion knockback\n{1}self explosion damage",
+		"comment": "Armour modification description. Parameter 0: '+500%', parameter 1: '-30%'",
+		"translation": "{0} αυτο -έκρηξη knockback\nΖημιά έκρηξης {1}self",
+		"machine": true
+	},
+	{
+		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} health per ammo pickup",
+		"comment": "Armour modification description. Parameter 0: '+30%', parameter 1: '3', parameter 2: '+10%'",
+		"translation": "Ταχύτητα εκσκαφής {0}\nΚερδίστε μπλοκ {1} ανά μπλοκ σκαμμένο\nΥγεία {2} ανά παραλαβή πυρομαχικών",
+		"machine": true
+	},
+	{
+		"phrase": "Building {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Κτίριο {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Digging {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Σκάψιμο {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Build + Dig {0}",
+		"comment": "[Trial Name] Parameter 0: '1'",
+		"translation": "Κατασκευή + σκάψιμο {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Protons. Lasts for {1} hour",
+		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
+		"translation": "Πρωτόνια {0}. Διαρκεί 1 ώρα ZZ",
+		"machine": true
+	},
+	{
+		"phrase": "{0} XP. Lasts for {1} hour",
+		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
+		"translation": "{0} XP. Διαρκεί 1 ώρα ZZ",
+		"machine": true
+	},
+	{
+		"phrase": "Use this to unlock weapon skins on the Weapons screen",
+		"comment": "[Inventory] Weapon skin token description",
+		"translation": "Χρησιμοποιήστε αυτό για να ξεκλειδώσετε δέρματα όπλων στην οθόνη των όπλων",
+		"machine": true
+	},
+	{
+		"phrase": "This will automatically adjust your settings while you play to keep your frames-per-second stable.",
+		"translation": "Αυτό θα προσαρμόσει αυτόματα τις ρυθμίσεις σας ενώ παίζετε για να διατηρείτε σταθερά τα καρέ ανά δευτερόλεπτο.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a graphics preset to continue",
+		"translation": "Επιλέξτε μια προεπιλογή γραφικών για να συνεχίσετε",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoints",
+		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
+		"translation": "Σημεία πορείας",
+		"machine": true
+	},
+	{
+		"phrase": "This is your list of loadouts. Each loadout is comprised of weapons, equipment and modifications.",
+		"comment": "Loadout tutorial description",
+		"translation": "Αυτή είναι η λίστα των φορτώσεων σας. κάθε φόρτωση αποτελείται από όπλα, εξοπλισμό και τροποποιήσεις.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a loadout to continue",
+		"comment": "Tutorial prompt to click a loadout",
+		"translation": "Επιλέξτε φόρτωση για να συνεχίσετε",
+		"machine": true
+	},
+	{
+		"phrase": "Each weapon, equipment and modification has a power value.",
+		"comment": "Loadout tutorial description",
+		"translation": "Κάθε όπλο, εξοπλισμός και τροποποίηση έχει αξία ισχύος.",
+		"machine": true
+	},
+	{
+		"phrase": "The total power value for a loadout must be {0} or less",
+		"comment": "Loadout tutorial description. Parameter 0: '15'",
+		"translation": "Η συνολική τιμή ισχύος για ένα φορτίο πρέπει να είναι {0} ή μικρότερη",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to continue",
+		"comment": "Loadout tutorial description. Parameter 0: 'space'",
+		"translation": "Πατήστε {0} για να συνεχίσετε",
+		"machine": true
+	},
+	{
+		"phrase": "Each loadout can have up to {0} weapons.",
+		"comment": "Loadout tutorial description. Parameter 0: '2'",
+		"translation": "Κάθε φόρτωση μπορεί να έχει μέχρι όπλα {0}.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select a primary",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} για να επιλέξετε ένα πρωτεύον",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select a secondary",
+		"comment": "Loadout tutorial description. Parameter 0: '2'",
+		"translation": "{0} για επιλογή δευτερεύοντος",
+		"machine": true
+	},
+	{
+		"phrase": "Right click",
+		"comment": "Right mouse button",
+		"translation": "Κάντε δεξί κλικ",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"comment": "[Unit] e.g. '1 equipment slot'",
+		"translation": "Θυρίδα",
+		"machine": true
+	},
+	{
+		"phrase": "Slots",
+		"comment": "[Unit] [Plural] e.g. '2 equipment slots'",
+		"translation": "Κουλοχέρηδες",
+		"machine": true
+	},
+	{
+		"phrase": "Each loadout also has {0} equipment {1}.",
+		"comment": "Loadout tutorial description. Parameter 0: '1', parameter 1: 'slot'",
+		"translation": "Κάθε φόρτωση διαθέτει επίσης εξοπλισμό {0} {1}.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to select an equipment",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} για επιλογή εξοπλισμού",
+		"machine": true
+	},
+	{
+		"phrase": "Loadouts also have modifications (perks). These affect things like movement speed, fall damage, etc.",
+		"comment": "Loadout tutorial description",
+		"translation": "Τα Loadouts έχουν επίσης τροποποιήσεις (προνόμια). Αυτά επηρεάζουν πράγματα όπως ταχύτητα κίνησης, ζημιά πτώσης κλπ.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} a modification to continue",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} μια τροποποίηση για να συνεχίσετε",
+		"machine": true
+	},
+	{
+		"phrase": "You can create as many loadouts as you like.",
+		"comment": "Loadout tutorial description",
+		"translation": "Μπορείτε να δημιουργήσετε όσες φορτώσεις θέλετε.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} to create a new loadout",
+		"comment": "Loadout tutorial description. Parameter 0: 'Left click'",
+		"translation": "{0} για δημιουργία νέου φορτίου",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Joining in {2} {3}...",
+		"comment": "[Party Banner] Parameter 0: 'Salvage', parameter 1: 'SYDNEY-3', parameter 2: '7', parameter 3: 'seconds'",
+		"translation": "Το κόμμα σας συμμετείχε σε έναν αγώνα {0} στο {1}. συμμετοχή στο {2} {3}...",
 		"machine": true
 	}
 ]
