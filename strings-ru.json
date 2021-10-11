@@ -1609,13 +1609,12 @@
 	{
 		"phrase": "Killed by",
 		"comment": "[Killcam] [Label] This text shows below the weapon that killed us",
-		"translation": "Убит"
+		"translation": "Убит с помощью"
 	},
 	{
 		"phrase": "Join the battle",
 		"comment": "[In-Game Escape Menu] This text shows instead of 'Redeploying' when the player is spectating",
-		"translation": "Присоединяйтесь к битве",
-		"machine": true
+		"translation": "Присоединиться к битве"
 	},
 	{
 		"phrase": "Linking your Twitch account",
@@ -1626,14 +1625,12 @@
 	{
 		"phrase": "Checkout",
 		"comment": "[Store] [Button] Confirm buying from the store",
-		"translation": "Проверить",
-		"machine": true
+		"translation": "Подтвердить"
 	},
 	{
 		"phrase": "Summary",
 		"comment": "[Store Checkout Popup] [Title]",
-		"translation": "Резюме",
-		"machine": true
+		"translation": "Товары"
 	},
 	{
 		"phrase": "Creator Code (Optional)",
@@ -6895,104 +6892,87 @@
 	{
 		"phrase": "A player",
 		"comment": "[Placeholder] Placeholder name for a player, e.g. 'A player has taken our flag'",
-		"translation": "Игрок",
-		"machine": true
+		"translation": "Игрок"
 	},
 	{
 		"phrase": "Has picked up the enemy bomb",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
-		"translation": "Подобрал вражескую бомбу",
-		"machine": true
+		"translation": "Подобрал вражескую бомбу"
 	},
 	{
 		"phrase": "Has picked up our bomb",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up our bomb'",
-		"translation": "Поднял нашу бомбу",
-		"machine": true
+		"translation": "Подобрал вашу бомбу"
 	},
 	{
 		"phrase": "You have picked up the enemy flag",
 		"comment": "[Announcement]'",
-		"translation": "Вы подняли вражеский флаг",
-		"machine": true
+		"translation": "Вы подобрали вражеский флаг"
 	},
 	{
 		"phrase": "You have picked up our bomb",
 		"comment": "[Announcement]'",
-		"translation": "Вы взяли нашу бомбу",
-		"machine": true
+		"translation": "Вы взяли бомбу"
 	},
 	{
 		"phrase": "The enemy flag carrier has been killed",
 		"comment": "[Announcement]'",
-		"translation": "Флагман противника убит",
-		"machine": true
+		"translation": "Курьер противника убит"
 	},
 	{
 		"phrase": "The enemy bomb carrier has been killed",
 		"comment": "[Announcement]'",
-		"translation": "Вражеский бомбардировщик убит",
-		"machine": true
+		"translation": "Вражеский курьер убит"
 	},
 	{
 		"phrase": "The enemy has dropped our flag",
 		"comment": "[Announcement]'",
-		"translation": "Враг сбросил наш флаг",
-		"machine": true
+		"translation": "Враг бросил наш флаг"
 	},
 	{
 		"phrase": "The enemy has dropped their bomb",
 		"comment": "[Announcement]'",
-		"translation": "Враг сбросил бомбу",
-		"machine": true
+		"translation": "Враг бросил бомбу"
 	},
 	{
 		"phrase": "Our flag carrier has been killed",
 		"comment": "[Announcement]'",
-		"translation": "Наш флагман был убит",
-		"machine": true
+		"translation": "Наш курьер был убит"
 	},
 	{
 		"phrase": "Our bomb carrier has been killed",
 		"comment": "[Announcement]'",
-		"translation": "Наш бомбардировщик был убит",
-		"machine": true
+		"translation": "Наш курьер был убит"
 	},
 	{
 		"phrase": "You have dropped the enemy flag",
 		"comment": "[Announcement]'",
-		"translation": "Вы сбросили вражеский флаг",
-		"machine": true
+		"translation": "Вы бросили вражеский флаг"
 	},
 	{
 		"phrase": "Has dropped the enemy flag",
 		"comment": "[Announcement]'",
-		"translation": "Сбросил вражеский флаг",
-		"machine": true
+		"translation": "Бросил вражеский флаг"
 	},
 	{
 		"phrase": "Has captured our flag",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured our flag'",
-		"translation": "Захватил наш флаг",
-		"machine": true
+		"translation": "Захватил наш флаг"
 	},
 	{
 		"phrase": "Has delivered their bomb",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "Доставил свою бомбу",
-		"machine": true
+		"translation": "Доставил вражесую бомбу"
 	},
 	{
 		"phrase": "Has captured the enemy flag",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured the enemy flag'",
-		"translation": "Захватил вражеский флаг",
-		"machine": true
+		"translation": "Захватил вражеский флаг"
 	},
 	{
 		"phrase": "Has delivered our bomb",
 		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "Доставил нашу бомбу",
-		"machine": true
+		"translation": "Доставил нашу бомбу"
 	},
 	{
 		"phrase": "has joined the chaos",
