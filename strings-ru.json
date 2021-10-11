@@ -487,8 +487,7 @@
 	{
 		"phrase": "Reserved slot expired",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Зарезервированный слот истек",
-		"machine": true
+		"translation": "Зарезервированный слот истек"
 	},
 	{
 		"phrase": "Min level must be less than max level",
@@ -498,8 +497,7 @@
 	{
 		"phrase": "Bot Replacement",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Замена бота",
-		"machine": true
+		"translation": "Замена бота"
 	},
 	{
 		"phrase": "Accelerator",
@@ -923,14 +921,12 @@
 	{
 		"phrase": "Building",
 		"comment": "Armour modification name",
-		"translation": "Строительство",
-		"machine": true
+		"translation": "Строительство"
 	},
 	{
 		"phrase": "Hydraulics",
 		"comment": "Armour modification name",
-		"translation": "Гидравлика",
-		"machine": true
+		"translation": "Гидравлика"
 	},
 	{
 		"phrase": "Leg servos",
@@ -941,20 +937,17 @@
 	{
 		"phrase": "Regeneration",
 		"comment": "Armour modification name",
-		"translation": "Регенерация",
-		"machine": true
+		"translation": "Регенерация"
 	},
 	{
 		"phrase": "Speed",
 		"comment": "Armour modification name",
-		"translation": "Скорость",
-		"machine": true
+		"translation": "Скорость"
 	},
 	{
 		"phrase": "Stealth",
 		"comment": "Armour modification name",
-		"translation": "Скрытность",
-		"machine": true
+		"translation": "Скрытность"
 	},
 	{
 		"phrase": "Kinetic",
@@ -969,7 +962,7 @@
 	{
 		"phrase": "Click the Play tab when you are ready",
 		"comment": "[Popup] Tutorial popup prompt",
-		"translation": "Щелкните вкладку воспроизведения, когда будете готовы",
+		"translation": "Нажмите на вкладку \"Играть\", когда будете готовы",
 		"machine": true
 	},
 	{
@@ -980,8 +973,7 @@
 	{
 		"phrase": "Press escape to cancel",
 		"comment": "[Connecting] Text that shows in the bottom-left of the screen when connecting to a server",
-		"translation": "Нажмите escape, чтобы отменить",
-		"machine": true
+		"translation": "Нажмите escape, чтобы выйти"
 	},
 	{
 		"phrase": "Warning",
@@ -1031,8 +1023,7 @@
 	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
 		"comment": "[Gamemode Info] Arena gamemode description",
-		"translation": "Теневой рынок возник на окраинах галактики, где делается ставка на солтриум. все или ничего на арене, где участники борются за прибыль и выживание.",
-		"machine": true
+		"translation": "Теневой рынок возник на окраинах галактики, где ставки делаются на Солтриум. Все или ничего на арене, где участники борются за прибыль и выживание."
 	},
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
@@ -1042,7 +1033,7 @@
 	{
 		"phrase": "All players start with the same randomised loadout.",
 		"comment": "[Gamemode Info] [Description] [Static]",
-		"translation": "Все игроки начинают с одинаковой случайной экипировкой.."
+		"translation": "Все игроки начинают с одинаковой случайной экипировкой."
 	},
 	{
 		"phrase": "And",
@@ -1052,26 +1043,22 @@
 	{
 		"phrase": "Control the zone to win",
 		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
-		"translation": "Контролируйте зону, чтобы выиграть",
-		"machine": true
+		"translation": "Контролируйте зону, чтобы выиграть"
 	},
 	{
 		"phrase": "Get two kills with every weapon, then melee to win",
 		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
-		"translation": "Совершите по два убийства каждым оружием, затем сражайтесь в ближнем бою, чтобы победить.",
-		"machine": true
+		"translation": "Совершите по два убийства каждым оружием, затем совершите убийство в ближнем бою, чтобы победить"
 	},
 	{
 		"phrase": "Hold the most Soltrium to win",
 		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
-		"translation": "Удерживайте наибольшее количество солтриумов, чтобы выиграть",
-		"machine": true
+		"translation": "Удерживайте наибольшее количество Солтриума, чтобы выиграть"
 	},
 	{
 		"phrase": "Weapons and Mods spawn around the map",
 		"comment": "[Gamemode Info] [Description] [Head Hunter]",
-		"translation": "Оружие и модификации появляются на карте.",
-		"machine": true
+		"translation": "Оружие и модификации появляются на карте"
 	},
 	{
 		"phrase": "Not bound",
@@ -1091,14 +1078,12 @@
 	{
 		"phrase": "Cancel",
 		"comment": "[Mapping Screen] Cancel uploading a map to the Workshop",
-		"translation": "Отмена",
-		"machine": true
+		"translation": "Отменить"
 	},
 	{
 		"phrase": "Upload",
 		"comment": "[Mapping Screen] Upload a map to the Workshop",
-		"translation": "Загрузить",
-		"machine": true
+		"translation": "Загрузить"
 	},
 	{
 		"phrase": "Private",
@@ -1127,8 +1112,7 @@
 	{
 		"phrase": "Map list",
 		"comment": "[Map List] Title",
-		"translation": "Список карт",
-		"machine": true
+		"translation": "Список карт"
 	},
 	{
 		"phrase": "No local maps found",
@@ -4421,32 +4405,28 @@
 	{
 		"phrase": "Grenade kills",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '100 Grenade kills'",
-		"translation": "Убивает гранатами",
+		"translation": "Убийств гранатами",
 		"machine": true
 	},
 	{
 		"phrase": "Spent",
 		"comment": "[Killcam Tag] [Tag Description] [1\/3] The full phrase is: 'Spent 3 hours defending'",
-		"translation": "Потраченный",
-		"machine": true
+		"translation": "Потрачено"
 	},
 	{
 		"phrase": "Hour",
 		"comment": "[Unit] Time measurement",
-		"translation": "Час",
-		"machine": true
+		"translation": "Час"
 	},
 	{
 		"phrase": "Hours",
 		"comment": "[Unit] Time measurement",
-		"translation": "Часы",
-		"machine": true
+		"translation": "Часы"
 	},
 	{
 		"phrase": "Blocks placed",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '10000 Blocks placed'",
-		"translation": "Блоки размещены",
-		"machine": true
+		"translation": "Блоков размещено"
 	},
 	{
 		"phrase": "Spot assists",
@@ -4499,14 +4479,12 @@
 	{
 		"phrase": "Quick play",
 		"comment": "[Server List] [Button] Large quick play button at the top of the screen",
-		"translation": "Быстрая игра",
-		"machine": true
+		"translation": "Быстрая игра"
 	},
 	{
 		"phrase": "e.g. Space Master 4000",
 		"comment": "[Player Dropdown Selector] Placeholder text for the search field for this dropdown",
-		"translation": "например, Space Master 4000",
-		"machine": true
+		"translation": "например, Space Master 4000"
 	},
 	{
 		"phrase": "Please select a friend",
@@ -5138,8 +5116,7 @@
 	{
 		"phrase": "Copied",
 		"comment": "[Hex Field] This text is displayed when the user copies a value from a hex field",
-		"translation": "Скопировано",
-		"machine": true
+		"translation": "Скопировано"
 	},
 	{
 		"phrase": "Inventory",
@@ -5149,8 +5126,7 @@
 	{
 		"phrase": "No items",
 		"comment": "[Inventory] This text shows when the player has no items in their inventory",
-		"translation": "Нет товаров",
-		"machine": true
+		"translation": "Нет предметов"
 	},
 	{
 		"phrase": "Loading",
@@ -5160,8 +5136,7 @@
 	{
 		"phrase": "Activating",
 		"comment": "[Inventory] This text shows when an inventory item (e.g. a boost) is being activated",
-		"translation": "Активация",
-		"machine": true
+		"translation": "Активация"
 	},
 	{
 		"phrase": "Delete",
@@ -5276,14 +5251,12 @@
 	{
 		"phrase": "Melee speed",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Скорость ближнего боя",
-		"machine": true
+		"translation": "Скорость ближнего боя"
 	},
 	{
 		"phrase": "Landing power",
 		"comment": "[Loadouts] Loadout characteristic. Deal damage to enemies when landing on the ground",
-		"translation": "Посадочная мощность",
-		"machine": true
+		"translation": "Мощная посадка"
 	},
 	{
 		"phrase": "Left click",
@@ -5484,20 +5457,17 @@
 	{
 		"phrase": "Player List",
 		"comment": "[Lobby Panel] Section header for the player list",
-		"translation": "Список игроков",
-		"machine": true
+		"translation": "Список игроков"
 	},
 	{
 		"phrase": "Official Maps",
 		"comment": "[Lobby Panel] Section header for the official map list",
-		"translation": "Официальные карты",
-		"machine": true
+		"translation": "Официальные карты"
 	},
 	{
 		"phrase": "Workshop Maps",
 		"comment": "[Lobby Panel] Section header for the workshop map list",
-		"translation": "Карты мастерских",
-		"machine": true
+		"translation": "Карты из мастреской"
 	},
 	{
 		"phrase": "Update",
@@ -5542,8 +5512,7 @@
 	{
 		"phrase": "Ice Station",
 		"comment": "Map Name",
-		"translation": "Ледовая станция",
-		"machine": true
+		"translation": "Ледовая станция"
 	},
 	{
 		"phrase": "Magma Chamber",
@@ -5820,470 +5789,392 @@
 	{
 		"phrase": "Party invitation sent to",
 		"comment": "[Social Sidebar] Notification text. The full phrase is: 'Party invitation sent to Peygahreaux'",
-		"translation": "Приглашение на вечеринку отправлено на адрес",
-		"machine": true
+		"translation": "Приглашение в отряд отправлено"
 	},
 	{
 		"phrase": "Failed to invite",
 		"comment": "[Social Sidebar] [1\/2] Notification text. The full phrase is: 'Failed to invite Peygahreaux to the party'",
-		"translation": "Не удалось пригласить",
-		"machine": true
+		"translation": "Не удалось пригласить"
 	},
 	{
 		"phrase": "To the party",
 		"comment": "[Social Sidebar] [2\/2] Notification text. The full phrase is: 'Failed to invite Peygahreaux to the party'",
-		"translation": "На вечеринку",
-		"machine": true
+		"translation": "В отряд"
 	},
 	{
 		"phrase": "You have been kicked from the lobby",
 		"comment": "[Social Sidebar] Notification text",
-		"translation": "Вас выгнали из вестибюля",
-		"machine": true
+		"translation": "Вас выгнали из лобби"
 	},
 	{
 		"phrase": "Has been kicked from the lobby",
 		"comment": "[Social Sidebar] Notification text. The full phrase is: 'Vhauss has been kicked from the lobby'",
-		"translation": "Был выгнан из вестибюля",
-		"machine": true
+		"translation": "Был изгнан из лобби"
 	},
 	{
 		"phrase": "Has joined the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has joined the party",
-		"translation": "Присоединился к партии",
-		"machine": true
+		"translation": "Присоединился к отряду"
 	},
 	{
 		"phrase": "Has left the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has left the party",
-		"translation": "Покинул вечеринку",
-		"machine": true
+		"translation": "Покинул отряд"
 	},
 	{
 		"phrase": "Has disconnected and left the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has disconnected and left the party",
-		"translation": "Отключился и покинул вечеринку",
-		"machine": true
+		"translation": "Отключился и покинул отряд"
 	},
 	{
 		"phrase": "Has been kicked from the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has been kicked the party",
-		"translation": "Исключен с вечеринки",
-		"machine": true
+		"translation": "Исключен из отряда"
 	},
 	{
 		"phrase": "Has been banned from the party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: Peygahreaux has been banned the party",
-		"translation": "Был забанен на вечеринке",
-		"machine": true
+		"translation": "Был заблокирован в отряде"
 	},
 	{
 		"phrase": "You have joined a party of",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: 'You have joined a party of 4'",
-		"translation": "Вы присоединились к группе",
-		"machine": true
+		"translation": "Вы присоединились к отряду"
 	},
 	{
 		"phrase": "The party no longer exists",
 		"comment": "[Social Sidebar] [Notification]",
-		"translation": "Партия больше не существует",
-		"machine": true
+		"translation": "Отряд больше не существует"
 	},
 	{
 		"phrase": "Unable to join the party (full)",
 		"comment": "[Social Sidebar] [Notification]",
-		"translation": "Невозможно присоединиться к вечеринке (полная)",
-		"machine": true
+		"translation": "Невозможно присоединиться к отряду (заполнен)"
 	},
 	{
 		"phrase": "Failed to join the party",
 		"comment": "[Social Sidebar] [Notification]",
-		"translation": "Не удалось присоединиться к вечеринке",
-		"machine": true
+		"translation": "Не удалось присоединиться к отряду"
 	},
 	{
 		"phrase": "Has invited you to their party",
 		"comment": "[Social Sidebar] [Notification] The full phrase is: 'Peygahreaux has invited you to their party'",
-		"translation": "Пригласил вас на свою вечеринку",
-		"machine": true
+		"translation": "Пригласил вас в отряд"
 	},
 	{
 		"phrase": "Fire rate",
 		"comment": "[Attachment] Weapon characteristic",
-		"translation": "Скорострельность",
-		"machine": true
+		"translation": "Скорострельность"
 	},
 	{
 		"phrase": "SILICON-VALLEY",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СИЛИКОНОВАЯ ДОЛИНА",
-		"machine": true
+		"translation": "КРЕМНИЕВАЯ ДОЛИНА"
 	},
 	{
 		"phrase": "FREMONT",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ФРЕМОНТ",
-		"machine": true
+		"translation": "ФРЕМОНТ"
 	},
 	{
 		"phrase": "SEATTLE",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "Сиэтл",
-		"machine": true
+		"translation": "СИЭТЛ"
 	},
 	{
 		"phrase": "LOS-ANGELES",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ЛОС-АНДЖЕЛЕС",
-		"machine": true
+		"translation": "ЛОС-АНДЖЕЛЕС"
 	},
 	{
 		"phrase": "VINT-HILL",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ВИНТ-ХИЛЛ",
-		"machine": true
+		"translation": "ВИНТ-ХИЛЛ"
 	},
 	{
 		"phrase": "HILLSBORO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ХИЛЛСБОРО",
-		"machine": true
+		"translation": "ХИЛЛСБОРО"
 	},
 	{
 		"phrase": "CHICAGO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ЧИКАГО",
-		"machine": true
+		"translation": "ЧИКАГО"
 	},
 	{
 		"phrase": "DALLAS",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ДАЛЛАС",
-		"machine": true
+		"translation": "ДАЛЛАС"
 	},
 	{
 		"phrase": "NEWARK",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "NEWARK",
-		"machine": true
+		"translation": "НЬЮАРК"
 	},
 	{
 		"phrase": "MIAMI",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "МАЙАМИ",
-		"machine": true
+		"translation": "МАЙАМИ"
 	},
 	{
 		"phrase": "ATLANTA",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "АТЛАНТА",
-		"machine": true
+		"translation": "АТЛАНТА"
 	},
 	{
 		"phrase": "NEW-JERSEY",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "НЬЮ-ДЖЕРСИ",
-		"machine": true
+		"translation": "НЬЮ-ДЖЕРСИ"
 	},
 	{
 		"phrase": "SAN-FRANCISCO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "САН-ФРАНЦИСКО",
-		"machine": true
+		"translation": "САН-ФРАНЦИСКО"
 	},
 	{
 		"phrase": "ASHBURN",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ЭШБЕРН",
-		"machine": true
+		"translation": "АШБЕРН"
 	},
 	{
 		"phrase": "TORONTO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ТОРОНТО",
-		"machine": true
+		"translation": "ТОРОНТО"
 	},
 	{
 		"phrase": "BEAUHARNOIS",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "БОАРНУА",
-		"machine": true
+		"translation": "БОАРНУА"
 	},
 	{
 		"phrase": "LONDON",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ЛОНДОН",
-		"machine": true
+		"translation": "ЛОНДОН"
 	},
 	{
 		"phrase": "PARIS",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ПАРИЖ",
-		"machine": true
+		"translation": "ПАРИЖ"
 	},
 	{
 		"phrase": "GRAVELINES",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ГРАВИНЫ",
-		"machine": true
+		"translation": "ГРАВЛИН"
 	},
 	{
 		"phrase": "STRASBOURG",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СТРАСБУРГ",
-		"machine": true
+		"translation": "СТРАСБУРГ"
 	},
 	{
 		"phrase": "AMSTERDAM",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "АМСТЕРДАМ",
-		"machine": true
+		"translation": "АМСТЕРДАМ"
 	},
 	{
 		"phrase": "FRANKFURT",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "Франкфурт",
-		"machine": true
+		"translation": "ФРАНКФУРТ"
 	},
 	{
 		"phrase": "ATHENS",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "АФИНЫ",
-		"machine": true
+		"translation": "АФИНЫ"
 	},
 	{
 		"phrase": "STOCKHOLM",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СТОКГОЛЬМ",
-		"machine": true
+		"translation": "СТОКГОЛЬМ"
 	},
 	{
 		"phrase": "HELSINKI",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ХЕЛЬСИНКИ",
-		"machine": true
+		"translation": "ХЕЛЬСИНКИ"
 	},
 	{
 		"phrase": "SYDNEY",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СИДНЕЙ",
-		"machine": true
+		"translation": "СИДНЕЙ"
 	},
 	{
 		"phrase": "MELBOURNE",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "МЕЛЬБУРН",
-		"machine": true
+		"translation": "МЕЛЬБУРН"
 	},
 	{
 		"phrase": "PERTH",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ПЕРТ",
-		"machine": true
+		"translation": "ПЕРТ"
 	},
 	{
 		"phrase": "SINGAPORE",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СИНГАПУР",
-		"machine": true
+		"translation": "СИНГАПУР"
 	},
 	{
 		"phrase": "MUMBAI",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ВАМБАЙ",
-		"machine": true
+		"translation": "МУМБАИ"
 	},
 	{
 		"phrase": "BANGALORE",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "БАНГАЛОР",
-		"machine": true
+		"translation": "БАНГАЛОР"
 	},
 	{
 		"phrase": "TOKYO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ТОКИО",
-		"machine": true
+		"translation": "ТОКИО"
 	},
 	{
 		"phrase": "SEOUL",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СЕУЛ",
-		"machine": true
+		"translation": "СЕУЛ"
 	},
 	{
 		"phrase": "WARSAW",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ВАРШАВА",
-		"machine": true
+		"translation": "ВАРШАВА"
 	},
 	{
 		"phrase": "MOSCOW",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "МОСКВА",
-		"machine": true
+		"translation": "МОСКВА"
 	},
 	{
 		"phrase": "YEKATERINBURG",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ЕКАТЕРИНБУРГ",
-		"machine": true
+		"translation": "ЕКАТЕРИНБУРГ"
 	},
 	{
 		"phrase": "TEL-AVIV",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ТЕЛЬ-АВИВ",
-		"machine": true
+		"translation": "ТЕЛЬ-АВИВ"
 	},
 	{
 		"phrase": "SAO-PAULO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "SAO-PAULO",
-		"machine": true
+		"translation": "САН-ПАУЛУ"
 	},
 	{
 		"phrase": "ADELAIDE",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "АДЕЛАИДА",
-		"machine": true
+		"translation": "АДЕЛАИДА"
 	},
 	{
 		"phrase": "BOGOTA",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "БОГОТА",
-		"machine": true
+		"translation": "БОГОТА"
 	},
 	{
 		"phrase": "BRISBANE",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "БРИСБАН",
-		"machine": true
+		"translation": "БРИСБЕН"
 	},
 	{
 		"phrase": "CALGARY",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "КАЛГАРИЯ",
-		"machine": true
+		"translation": "КАЛГАРИ"
 	},
 	{
 		"phrase": "CANBERRA",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "КАНБЕРРА",
-		"machine": true
+		"translation": "КАНБЕРРА"
 	},
 	{
 		"phrase": "DENVER",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ДЕНВЕР",
-		"machine": true
+		"translation": "ДЕНВЕР"
 	},
 	{
 		"phrase": "DUBAI",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ДУБАЙ",
-		"machine": true
+		"translation": "ДУБАЙ"
 	},
 	{
 		"phrase": "DUBLIN",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ДУБЛИН",
-		"machine": true
+		"translation": "ДУБЛИН"
 	},
 	{
 		"phrase": "GENEVA",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ЖЕНЕВА",
-		"machine": true
+		"translation": "ЖЕНЕВА"
 	},
 	{
 		"phrase": "HONG-KONG",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ГОНКОНГ",
-		"machine": true
+		"translation": "ГОНКОНГ"
 	},
 	{
 		"phrase": "ISTANBUL",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СТАМБУЛ",
-		"machine": true
+		"translation": "СТАМБУЛ"
 	},
 	{
 		"phrase": "JAKARTA",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ДЖАКАРТА",
-		"machine": true
+		"translation": "ДЖАКАРТА"
 	},
 	{
 		"phrase": "KAMLOOPS",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "КАМЛУПС",
-		"machine": true
+		"translation": "КАМЛУПС"
 	},
 	{
 		"phrase": "MANCHESTER",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "МАНЧЕСТЕР",
-		"machine": true
+		"translation": "МАНЧЕСТЕР"
 	},
 	{
 		"phrase": "MILAN",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "МИЛАН",
-		"machine": true
+		"translation": "МИЛАН"
 	},
 	{
 		"phrase": "MONTREAL",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "МОНРЕАЛЬ",
-		"machine": true
+		"translation": "МОНРЕАЛЬ"
 	},
 	{
 		"phrase": "MUNICH",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "МЮНХЕН",
-		"machine": true
+		"translation": "МЮНХЕН"
 	},
 	{
 		"phrase": "MUSCAT",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "MUSCAT",
-		"machine": true
+		"translation": "МАСКАТ"
 	},
 	{
 		"phrase": "OSAKA",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ОСАКА",
-		"machine": true
+		"translation": "ОСАКА"
 	},
 	{
 		"phrase": "RIO-DE-JANEIRO",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "РИО ДЕ ЖАНЕЙРО",
-		"machine": true
+		"translation": "РИО-ДЕ-ЖАНЕЙРО"
 	},
 	{
 		"phrase": "SAINT-JOHN",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СЕНТ-ИОАНН",
-		"machine": true
+		"translation": "СЕНТ-ДЖОН"
 	},
 	{
 		"phrase": "SOFIA",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "СОФИЯ",
-		"machine": true
+		"translation": "СОФИЯ"
 	},
 	{
 		"phrase": "WINNIPEG",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ВИННИПЕГ",
-		"machine": true
+		"translation": "ВИННИПЕГ"
 	},
 	{
 		"phrase": "ZURICH",
 		"comment": "[Server Region] This phrase is in uppercase so that server names can be translated",
-		"translation": "ЦЮРИХ",
-		"machine": true
+		"translation": "ЦЮРИХ"
 	},
 	{
 		"phrase": "Server",
@@ -6505,8 +6396,7 @@
 	{
 		"phrase": "Canister",
 		"comment": "[Attachment UI] [Label] Midi Attachment category name. This affects block capacity",
-		"translation": "Канистра",
-		"machine": true
+		"translation": "Канистра"
 	},
 	{
 		"phrase": "Core",
@@ -8644,421 +8534,361 @@
 		"phrase": "Block",
 		"context": "Block0",
 		"comment": "[Unit] [Plural] 0 Blocks. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block1",
 		"comment": "[Unit] [Plural] 1 Block",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блок"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block2",
 		"comment": "[Unit] [Plural] 2 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блока"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block3",
 		"comment": "[Unit] [Plural] 3 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блока"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block4",
 		"comment": "[Unit] [Plural] 4 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блока"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block5",
 		"comment": "[Unit] [Plural] 5 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block6",
 		"comment": "[Unit] [Plural] 6 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block7",
 		"comment": "[Unit] [Plural] 7 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block8",
 		"comment": "[Unit] [Plural] 8 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block9",
 		"comment": "[Unit] [Plural] 9 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block10",
 		"comment": "[Unit] [Plural] 10 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block11",
 		"comment": "[Unit] [Plural] 11 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block12",
 		"comment": "[Unit] [Plural] 12 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block13",
 		"comment": "[Unit] [Plural] 13 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block14",
 		"comment": "[Unit] [Plural] 14 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block15",
 		"comment": "[Unit] [Plural] 15 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block16",
 		"comment": "[Unit] [Plural] 16 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block17",
 		"comment": "[Unit] [Plural] 17 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block18",
 		"comment": "[Unit] [Plural] 18 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Block",
 		"context": "Block19",
 		"comment": "[Unit] [Plural] 19 Blocks",
-		"translation": "Блокировать",
-		"machine": true
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second0",
 		"comment": "[Plural] 0 Seconds. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second1",
 		"comment": "[Plural] 1 Second",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунда"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second2",
 		"comment": "[Plural] 2 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунды"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second3",
 		"comment": "[Plural] 3 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунды"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second4",
 		"comment": "[Plural] 4 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунды"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second5",
 		"comment": "[Plural] 5 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second6",
 		"comment": "[Plural] 6 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second7",
 		"comment": "[Plural] 7 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second8",
 		"comment": "[Plural] 8 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second9",
 		"comment": "[Plural] 9 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second10",
 		"comment": "[Plural] 10 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second11",
 		"comment": "[Plural] 11 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second12",
 		"comment": "[Plural] 12 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second13",
 		"comment": "[Plural] 13 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second14",
 		"comment": "[Plural] 14 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second15",
 		"comment": "[Plural] 15 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second16",
 		"comment": "[Plural] 16 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second17",
 		"comment": "[Plural] 17 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second18",
 		"comment": "[Plural] 18 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Second",
 		"context": "Second19",
 		"comment": "[Plural] 19 Seconds",
-		"translation": "Второй",
-		"machine": true
+		"translation": "Секунд"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute0",
 		"comment": "[Plural] 0 Minutes. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute1",
 		"comment": "[Plural] 1 Minute",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минута"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute2",
 		"comment": "[Plural] 2 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минуты"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute3",
 		"comment": "[Plural] 3 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минуты"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute4",
 		"comment": "[Plural] 4 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минуты"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute5",
 		"comment": "[Plural] 5 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute6",
 		"comment": "[Plural] 6 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute7",
 		"comment": "[Plural] 7 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute8",
 		"comment": "[Plural] 8 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute9",
 		"comment": "[Plural] 9 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute10",
 		"comment": "[Plural] 10 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute11",
 		"comment": "[Plural] 11 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute12",
 		"comment": "[Plural] 12 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute13",
 		"comment": "[Plural] 13 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute14",
 		"comment": "[Plural] 14 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute15",
 		"comment": "[Plural] 15 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute16",
 		"comment": "[Plural] 16 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute17",
 		"comment": "[Plural] 17 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute18",
 		"comment": "[Plural] 18 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Minute",
 		"context": "Minute19",
 		"comment": "[Plural] 19 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут"
 	},
 	{
 		"phrase": "Hour",
@@ -12346,8 +12176,7 @@
 	{
 		"phrase": "Player profile",
 		"comment": "[Button] Go to the player's page on the Sector's Edge website",
-		"translation": "Профиль игрока",
-		"machine": true
+		"translation": "Профиль игрока"
 	},
 	{
 		"phrase": "Vote Kick",
