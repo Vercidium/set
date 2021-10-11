@@ -406,7 +406,7 @@
 		"translation": "Изгнан за бездействие"
 	},
 	{
-		"phrase": "Internal error",
+		"phrase": "internal error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Внутренняя ошибка"
 	},
@@ -3261,7 +3261,7 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "Изменяет частоту получения данных об игроках с сервера. Уменьшите это значение, если у вас нестабильный интернет или низкая пропускная способность."
 	},
@@ -4158,7 +4158,7 @@
 	},
 	{
 		"phrase": "Toggle UI",
-		"context": "Toggle User Interface",
+		"context": "Toggle User interface",
 		"comment": "[Settings Section Header]",
 		"translation": "Переключить пользовательский интерфейс",
 		"machine": true
@@ -4248,7 +4248,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"context": "In-Game User Interface",
+		"context": "In-Game User interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"translation": "HUD",
 		"machine": true

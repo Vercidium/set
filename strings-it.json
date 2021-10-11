@@ -440,9 +440,9 @@
 		"translation": "Espulso per inattività"
 	},
 	{
-		"phrase": "Internal error",
+		"phrase": "internal error",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Errore interno",
+		"translation": "Errore avertano",
 		"machine": true
 	},
 	{
@@ -875,7 +875,7 @@
 	{
 		"phrase": "Unbroken Cross",
 		"comment": "Crosshair name",
-		"translation": "Mirino ininterrotto"
+		"translation": "Mirino inavertarotto"
 	},
 	{
 		"phrase": "2px Dot",
@@ -1341,13 +1341,13 @@
 	{
 		"phrase": "Toggle Fullscreen",
 		"comment": "[Keybind]",
-		"translation": "Passare a schermo intero",
+		"translation": "Passare a schermo avertao",
 		"machine": true
 	},
 	{
 		"phrase": "Toggle UI",
 		"comment": "[Keybind]",
-		"translation": "Attiva\/disattiva interfaccia utente",
+		"translation": "Attiva\/disattiva avertafaccia utente",
 		"machine": true
 	},
 	{
@@ -1401,7 +1401,7 @@
 	{
 		"phrase": "Reset UI Scale",
 		"comment": "[Keybind]",
-		"translation": "Ripristina scala dell'interfaccia utente",
+		"translation": "Ripristina scala dell'avertafaccia utente",
 		"machine": true
 	},
 	{
@@ -2273,7 +2273,7 @@
 	{
 		"phrase": "UI Scale",
 		"comment": "[Setting] [Slider] Controls the size of the user interface",
-		"translation": "Scala dell'interfaccia utente",
+		"translation": "Scala dell'avertafaccia utente",
 		"machine": true
 	},
 	{
@@ -2364,9 +2364,9 @@
 	},
 	{
 		"phrase": "Toggle UI",
-		"context": "Toggle User Interface",
+		"context": "Toggle User interface",
 		"comment": "[Settings Section Header]",
-		"translation": "Attiva\/disattiva interfaccia utente",
+		"translation": "Attiva\/disattiva avertafaccia utente",
 		"machine": true
 	},
 	{
@@ -2443,7 +2443,7 @@
 		"phrase": "Fullscreen",
 		"context": "Full Screen",
 		"comment": "[Setting] [Checkbox]",
-		"translation": "A schermo intero",
+		"translation": "A schermo avertao",
 		"machine": true
 	},
 	{
@@ -2779,7 +2779,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"context": "In-Game User Interface",
+		"context": "In-Game User interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"translation": "HUD",
 		"machine": true
@@ -2858,9 +2858,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Modifica la frequenza con cui ricevi i dati del giocatore dal server. abbassa questo valore se sei su Internet instabile o a bassa larghezza di banda.",
+		"translation": "Modifica la frequenza con cui ricevi i dati del giocatore dal server. abbassa questo valore se sei su avertanet instabile o a bassa larghezza di banda.",
 		"machine": true
 	},
 	{
@@ -2878,7 +2878,7 @@
 	{
 		"phrase": "The internal scale of the bottom-right minimap",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "La scala interna della minimappa in basso a destra",
+		"translation": "La scala avertana della minimappa in basso a destra",
 		"machine": true
 	},
 	{
@@ -2974,7 +2974,7 @@
 	{
 		"phrase": "Controls whether Disruptors, C4, Scanners and Canisters cast shadows",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Controlla se interferenti, c4, scanner e contenitori proiettano ombre",
+		"translation": "Controlla se avertaferenti, c4, scanner e contenitori proiettano ombre",
 		"machine": true
 	},
 	{
@@ -3358,7 +3358,7 @@
 	{
 		"phrase": "The zone will begin moving when one team has more players inside it than the other.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "La zona inizierà a muoversi quando una squadra avrà più giocatori dell'altra al suo interno.",
+		"translation": "La zona inizierà a muoversi quando una squadra avrà più giocatori dell'altra al suo avertano.",
 		"machine": true
 	},
 	{
@@ -8578,7 +8578,7 @@
 	{
 		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
 		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
-		"translation": "Questo controlla la scala di tutta l'interfaccia utente e dell'HUD di gioco. premere {0} per riportarlo a 100%",
+		"translation": "Questo controlla la scala di tutta l'avertafaccia utente e dell'HUD di gioco. premere {0} per riportarlo a 100%",
 		"machine": true
 	},
 	{

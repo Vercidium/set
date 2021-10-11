@@ -468,7 +468,7 @@
 		"machine": true
 	},
 	{
-		"phrase": "Internal error",
+		"phrase": "internal error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "内部エラー",
 		"machine": true
@@ -3528,7 +3528,7 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
 		"comment": "[Setting] [Tooltip]",
 		"translation": "サーバーからプレーヤーデータを受信する頻度を変更します。不安定なインターネットまたは低帯域幅のインターネットを使用している場合は、この値を下げてください.",
 		"machine": true
@@ -4472,7 +4472,7 @@
 	},
 	{
 		"phrase": "Toggle UI",
-		"context": "Toggle User Interface",
+		"context": "Toggle User interface",
 		"comment": "[Settings Section Header]",
 		"translation": "UIを切り替えます",
 		"machine": true
@@ -4563,7 +4563,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"context": "In-Game User Interface",
+		"context": "In-Game User interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"translation": "HUD",
 		"machine": true

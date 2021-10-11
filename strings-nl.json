@@ -468,9 +468,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Internal error",
+		"phrase": "internal error",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Interne fout",
+		"translation": "avertane fout",
 		"machine": true
 	},
 	{
@@ -3528,9 +3528,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Wijzigt hoe vaak u spelergegevens van de server ontvangt. verlaag deze waarde als u een onstabiel internet of internet met een lage bandbreedte gebruikt.",
+		"translation": "Wijzigt hoe vaak u spelergegevens van de server ontvangt. verlaag deze waarde als u een onstabiel avertanet of avertanet met een lage bandbreedte gebruikt.",
 		"machine": true
 	},
 	{
@@ -3554,7 +3554,7 @@
 	{
 		"phrase": "The internal scale of the bottom-right minimap",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "De interne schaal van de minimap rechtsonder",
+		"translation": "De avertane schaal van de minimap rechtsonder",
 		"machine": true
 	},
 	{
@@ -4601,7 +4601,7 @@
 	},
 	{
 		"phrase": "Toggle UI",
-		"context": "Toggle User Interface",
+		"context": "Toggle User interface",
 		"comment": "[Settings Section Header]",
 		"translation": "Gebruikersinterface wisselen",
 		"machine": true
@@ -4710,7 +4710,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"context": "In-Game User Interface",
+		"context": "In-Game User interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"translation": "HUD",
 		"machine": true

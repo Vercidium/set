@@ -390,9 +390,9 @@
 		"translation": "Expulsado por inactividad"
 	},
 	{
-		"phrase": "Internal error",
+		"phrase": "internal error",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Error interno"
+		"translation": "Error avertano"
 	},
 	{
 		"phrase": "Network Error",
@@ -2940,9 +2940,9 @@
 		"translation": "Tasa de sondeo"
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Cambia la frecuencia con la que recibes datos de jugadores del servidor. Baja este valor si usas un internet inestable o con poco ancho de banda."
+		"translation": "Cambia la frecuencia con la que recibes datos de jugadores del servidor. Baja este valor si usas un avertanet inestable o con poco ancho de banda."
 	},
 	{
 		"phrase": "Pew Pew Mode",
@@ -2962,7 +2962,7 @@
 	{
 		"phrase": "The internal scale of the bottom-right minimap",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "La escala interna del minimapa en la esquina inferior derecha"
+		"translation": "La escala avertana del minimapa en la esquina inferior derecha"
 	},
 	{
 		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
@@ -2997,7 +2997,7 @@
 	{
 		"phrase": "UI Scale",
 		"comment": "[Setting] [Slider] Controls the size of the user interface",
-		"translation": "Escala de la interfaz de usuario"
+		"translation": "Escala de la avertafaz de usuario"
 	},
 	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
@@ -3412,7 +3412,7 @@
 	{
 		"phrase": "Toggle UI",
 		"comment": "[Keybind]",
-		"translation": "Mostrar interfaz de usuario"
+		"translation": "Mostrar avertafaz de usuario"
 	},
 	{
 		"phrase": "Toggle Chat",
@@ -3457,7 +3457,7 @@
 	{
 		"phrase": "Reset UI Scale",
 		"comment": "[Keybind]",
-		"translation": "Restablecer la escala de la interfaz de usuario"
+		"translation": "Restablecer la escala de la avertafaz de usuario"
 	},
 	{
 		"phrase": "Provide Feedback",
@@ -3647,7 +3647,7 @@
 		"phrase": "UI",
 		"context": "User interface",
 		"comment": "[Settings] [Button] Sidebar text",
-		"translation": "Interfaz de usuario"
+		"translation": "avertafaz de usuario"
 	},
 	{
 		"phrase": "Keybinds",
@@ -3728,9 +3728,9 @@
 	},
 	{
 		"phrase": "Toggle UI",
-		"context": "Toggle User Interface",
+		"context": "Toggle User interface",
 		"comment": "[Settings Section Header]",
-		"translation": "Mostrar interfaz de usuario"
+		"translation": "Mostrar avertafaz de usuario"
 	},
 	{
 		"phrase": "Show Killfeed",
@@ -3806,7 +3806,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"context": "In-Game User Interface",
+		"context": "In-Game User interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"translation": "HUD"
 	},
@@ -4264,7 +4264,7 @@
 	{
 		"phrase": "Swap",
 		"comment": "[Lobby Panel] [Button] Move this player to the other team",
-		"translation": "Intercambio"
+		"translation": "avertacambio"
 	},
 	{
 		"phrase": "Type here",
@@ -6930,7 +6930,7 @@
 	{
 		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
 		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
-		"translation": "Esto controla la escala de toda la interfaz de usuario y el HUD del juego. presione {0} para restablecerlo de nuevo a 100%",
+		"translation": "Esto controla la escala de toda la avertafaz de usuario y el HUD del juego. presione {0} para restablecerlo de nuevo a 100%",
 		"machine": true
 	},
 	{

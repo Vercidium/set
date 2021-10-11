@@ -405,7 +405,7 @@
 		"translation": "Hareketsizlik nedeniyle atıldın"
 	},
 	{
-		"phrase": "Internal error",
+		"phrase": "internal error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Sunucu hatası"
 	},
@@ -1668,7 +1668,7 @@
 	},
 	{
 		"phrase": "Toggle UI",
-		"context": "Toggle User Interface",
+		"context": "Toggle User interface",
 		"comment": "[Settings Section Header]",
 		"translation": "Arayüzünü aç\/kapat"
 	},
@@ -2001,7 +2001,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"context": "In-Game User Interface",
+		"context": "In-Game User interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"translation": "HUD"
 	},
@@ -2057,9 +2057,9 @@
 		"translation": "Oyun, FPS'i yüksek tutmak için efektleri otomatik olarak devre dışı bırakır ve postprocessing kalitesini düşürür. Optimal postprocessing ayarlarını belirlemek bir dakika kadar sürebilir."
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Sunucudan oyuncu verilerini ne sıklıkta alacağınızı değiştirir. Kararsız veya düşük bant genişliğine sahip internetteyseniz bu değeri düşürün."
+		"translation": "Sunucudan oyuncu verilerini ne sıklıkta alacağınızı değiştirir. Kararsız veya düşük bant genişliğine sahip avertanetteyseniz bu değeri düşürün."
 	},
 	{
 		"phrase": "Must keep enabled at all times",

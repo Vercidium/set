@@ -428,9 +428,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Internal error",
+		"phrase": "internal error",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Erreur interne",
+		"translation": "Erreur avertane",
 		"machine": true
 	},
 	{
@@ -836,7 +836,7 @@
 	{
 		"phrase": "Unbroken Cross",
 		"comment": "Crosshair name",
-		"translation": "Croix ininterrompue",
+		"translation": "Croix inavertarompue",
 		"machine": true
 	},
 	{
@@ -2028,9 +2028,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Modifie la fréquence à laquelle vous recevez des données de joueur du serveur. diminuez cette valeur si vous êtes sur Internet instable ou à faible bande passante.",
+		"translation": "Modifie la fréquence à laquelle vous recevez des données de joueur du serveur. diminuez cette valeur si vous êtes sur avertanet instable ou à faible bande passante.",
 		"machine": true
 	},
 	{
@@ -2054,7 +2054,7 @@
 	{
 		"phrase": "The internal scale of the bottom-right minimap",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "L'échelle interne de la minicarte en bas à droite",
+		"translation": "L'échelle avertane de la minicarte en bas à droite",
 		"machine": true
 	},
 	{
@@ -2126,7 +2126,7 @@
 	{
 		"phrase": "Screen Space Ambient Occlusion darkens the crevices between objects",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "L'occlusion ambiante de l'espace de l'écran assombrit les interstices entre les objets",
+		"translation": "L'occlusion ambiante de l'espace de l'écran assombrit les avertastices entre les objets",
 		"machine": true
 	},
 	{
@@ -4069,7 +4069,7 @@
 	},
 	{
 		"phrase": "Toggle UI",
-		"context": "Toggle User Interface",
+		"context": "Toggle User interface",
 		"comment": "[Settings Section Header]",
 		"translation": "Basculer l'interface utilisateur"
 	},
@@ -4147,7 +4147,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"context": "In-Game User Interface",
+		"context": "In-Game User interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"translation": "HUD"
 	},

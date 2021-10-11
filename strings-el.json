@@ -516,7 +516,7 @@
 		"machine": true
 	},
 	{
-		"phrase": "Internal error",
+		"phrase": "internal error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Εσωτερικό σφάλμα",
 		"machine": true
@@ -2705,7 +2705,7 @@
 	},
 	{
 		"phrase": "Toggle UI",
-		"context": "Toggle User Interface",
+		"context": "Toggle User interface",
 		"comment": "[Settings Section Header]",
 		"translation": "Εναλλαγή διεπαφής χρήστη",
 		"machine": true
@@ -3120,7 +3120,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"context": "In-Game User Interface",
+		"context": "In-Game User interface",
 		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
 		"translation": "HUD",
 		"machine": true
@@ -3199,9 +3199,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
 		"comment": "[Setting] [Tooltip]",
-		"translation": "Αλλάζει τη συχνότητα λήψης δεδομένων παίκτη από το διακομιστή. μειώστε αυτήν την τιμή εάν βρίσκεστε σε ασταθή ή χαμηλού εύρους ζώνης internet.",
+		"translation": "Αλλάζει τη συχνότητα λήψης δεδομένων παίκτη από το διακομιστή. μειώστε αυτήν την τιμή εάν βρίσκεστε σε ασταθή ή χαμηλού εύρους ζώνης avertanet.",
 		"machine": true
 	},
 	{
