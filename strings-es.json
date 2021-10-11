@@ -390,11 +390,6 @@
 		"translation": "Expulsado por inactividad"
 	},
 	{
-		"phrase": "internal error",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Error avertano"
-	},
-	{
 		"phrase": "Network Error",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Error de red"
@@ -581,7 +576,7 @@
 	},
 	{
 		"phrase": "Light",
-		"comment": "Ammo type name",
+		"comment": "[Loadouts] [Weapon Category]",
 		"translation": "Ligera"
 	},
 	{
@@ -1396,7 +1391,7 @@
 	},
 	{
 		"phrase": "Seconds",
-		"comment": "[Unit] Measurement of time",
+		"comment": "[Unit] Measurement of time (plural)",
 		"translation": "Segundos"
 	},
 	{
@@ -1601,7 +1596,7 @@
 	},
 	{
 		"phrase": "Refreshing",
-		"comment": "Loading text that replaces Refresh Statistics",
+		"comment": "[Button] This text is displayed while statistics are being loaded",
 		"translation": "Refrescando"
 	},
 	{
@@ -1623,11 +1618,6 @@
 		"phrase": "Player statistics",
 		"comment": "[Button] View your player statistics",
 		"translation": "Estadísticas del jugador"
-	},
-	{
-		"phrase": "Transaction log",
-		"comment": "[Button] View your transaction log",
-		"translation": "Lista de transacciones"
 	},
 	{
 		"phrase": "Redeem key",
@@ -1870,19 +1860,9 @@
 		"translation": "Jugar"
 	},
 	{
-		"phrase": "Clan",
-		"comment": "[Navigation] Change to the Clan screen",
-		"translation": "Clan"
-	},
-	{
 		"phrase": "Customise",
 		"comment": "[Character Screen] [Navigation] Customise tab where players select a skin for their character",
 		"translation": "Personalizar"
-	},
-	{
-		"phrase": "Exit game",
-		"comment": "[Navigation] Exit the game",
-		"translation": "Salir del juego"
 	},
 	{
 		"phrase": "Skip tutorial",
@@ -1895,18 +1875,13 @@
 		"translation": "Bloques"
 	},
 	{
-		"phrase": "Changelog",
-		"comment": "[News] [Navigation] Changelog tab",
-		"translation": "Lista de cambios"
-	},
-	{
 		"phrase": "Trials",
 		"comment": "[Play Screen] [Navigation] Trials tab",
 		"translation": "Pruebas"
 	},
 	{
 		"phrase": "Low level",
-		"comment": "[Play Screen] [Navigation] Low level filter",
+		"comment": "[Legend \/ Key] This text draws next to the low level icon",
 		"translation": "Nivel bajo"
 	},
 	{
@@ -2018,11 +1993,6 @@
 		"phrase": "Metal",
 		"comment": "[Weapons] Metal weapon skin tab",
 		"translation": "Metal"
-	},
-	{
-		"phrase": "Link",
-		"comment": "[Button] Link your Twitch account. The full text is Link Twitch, but Twitch is not being translated",
-		"translation": "Enlazar"
 	},
 	{
 		"phrase": "Recoil",
@@ -2191,7 +2161,7 @@
 	},
 	{
 		"phrase": "Legend",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Legend",
+		"comment": "Legend \/ key, this is a header above a list of icons next to their meaning",
 		"translation": "Leyenda"
 	},
 	{
@@ -2710,11 +2680,6 @@
 		"translation": "Campo de visión"
 	},
 	{
-		"phrase": "Degrees",
-		"comment": "[Unit] Angle measurement",
-		"translation": "Grados"
-	},
-	{
 		"phrase": "Brightness",
 		"comment": "[Term] How bright the game should be",
 		"translation": "Brillo"
@@ -2775,11 +2740,6 @@
 		"translation": "Distancia de renderizado"
 	},
 	{
-		"phrase": "Chunks",
-		"comment": "[Unit] A group of 32x32x32 voxels",
-		"translation": "Trozos"
-	},
-	{
 		"phrase": "Max Chunk Updates",
 		"comment": "[Setting] [Slider] CPU performance setting. This slider sets a limit for how many chunks can be meshed each frame",
 		"translation": "Actualizaciones de Trozos máximos"
@@ -2795,19 +2755,9 @@
 		"translation": "Cantidad de partículas climáticas"
 	},
 	{
-		"phrase": "Lights",
-		"comment": "[Unit] The amount of in-game lights",
-		"translation": "Luces"
-	},
-	{
 		"phrase": "Lighting Quality",
 		"comment": "[Setting] [Slider] This controls the quality of lighting effects",
 		"translation": "Calidad de iluminación"
-	},
-	{
-		"phrase": "Samples",
-		"comment": "[Unit] The amount of times a shader should gather information from a texture",
-		"translation": "Muestras"
 	},
 	{
 		"phrase": "Bloom Strength",
@@ -2938,11 +2888,6 @@
 		"phrase": "Polling Rate",
 		"comment": "How often the server sends data to the client, e.g. 60 times a second",
 		"translation": "Tasa de sondeo"
-	},
-	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth avertanet.",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Cambia la frecuencia con la que recibes datos de jugadores del servidor. Baja este valor si usas un avertanet inestable o con poco ancho de banda."
 	},
 	{
 		"phrase": "Pew Pew Mode",
@@ -3587,7 +3532,7 @@
 	{
 		"phrase": "Blocks",
 		"context": "Cubes",
-		"comment": "A 3d voxel",
+		"comment": "The amount of 3d voxels, e.g. '50 Blocks'. This text shows when looking at a structure in the ship",
 		"translation": "Bloques"
 	},
 	{
@@ -3661,11 +3606,6 @@
 		"translation": "Puntos"
 	},
 	{
-		"phrase": "FPS",
-		"comment": "Frames per second",
-		"translation": "FPS"
-	},
-	{
 		"phrase": "Counts As Weapon",
 		"comment": "[Midi] counts as weapon is the full checkbox setting name. When enabled, the user can change to the midi with the 'Last Tool\/Next Tool\/Previous Tool' keybinds",
 		"translation": "Cuenta como arma"
@@ -3706,12 +3646,6 @@
 		"translation": "Distancia máxima de ping"
 	},
 	{
-		"phrase": "Blocks",
-		"context": "Voxels",
-		"comment": "[Unit] 3D voxels",
-		"translation": "Bloques"
-	},
-	{
 		"phrase": "Player Nameplates",
 		"comment": "[Settings Section Header] A player nameplate is the UI above a player that shows their name and health",
 		"translation": "Placas de identificación del jugador"
@@ -3725,12 +3659,6 @@
 		"phrase": "Nameplate Scale",
 		"comment": "[Setting] [Slider] Controls the size of player nameplates",
 		"translation": "Escala de placa de identificación"
-	},
-	{
-		"phrase": "Toggle UI",
-		"context": "Toggle User interface",
-		"comment": "[Settings Section Header]",
-		"translation": "Mostrar avertafaz de usuario"
 	},
 	{
 		"phrase": "Show Killfeed",
@@ -3803,12 +3731,6 @@
 		"context": "Output Source",
 		"comment": "[Setting] [Dropdown] Select the output source for the game audio, e.g. speakers or headphones",
 		"translation": "Fuente"
-	},
-	{
-		"phrase": "HUD",
-		"context": "In-Game User interface",
-		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
-		"translation": "HUD"
 	},
 	{
 		"phrase": "Newbie Colour",
@@ -3977,27 +3899,6 @@
 		"context": "Shut",
 		"comment": "[Settings] [Button] Sidebar text. This closes the settings window",
 		"translation": "Cerrar"
-	},
-	{
-		"phrase": "Block",
-		"context": "Voxel",
-		"comment": "[Unit] 3D voxel",
-		"translation": "Bloque"
-	},
-	{
-		"phrase": "Degree",
-		"comment": "[Unit] Angle measurement",
-		"translation": "Grado"
-	},
-	{
-		"phrase": "Chunk",
-		"comment": "[Unit] A group of 32x32x32 voxels",
-		"translation": "Pedazo"
-	},
-	{
-		"phrase": "Sample",
-		"comment": "[Unit] The amount of times a shader should gather information from a texture",
-		"translation": "Muestra"
 	},
 	{
 		"phrase": "%",
@@ -5275,11 +5176,6 @@
 		"translation": "Servidores"
 	},
 	{
-		"phrase": "Global stats",
-		"comment": "[Server List] [Sidebar] [Title]'",
-		"translation": "Estadísticas globales"
-	},
-	{
 		"phrase": "Matchmaking results",
 		"comment": "[Server List] [Sidebar] [Title]'",
 		"translation": "Resultados de emparejamiento"
@@ -5293,11 +5189,6 @@
 		"phrase": "Current version",
 		"comment": "[Server List] [Sidebar]. The full phrase is '1.3.8 Current version'",
 		"translation": "Versión actual"
-	},
-	{
-		"phrase": "Player capacity",
-		"comment": "[Server List] [Sidebar]. The full phrase is '300\/324 Player capacity'",
-		"translation": "Capacidad de jugadores"
 	},
 	{
 		"phrase": "Lowest ping",
@@ -6911,7 +6802,7 @@
 	},
 	{
 		"phrase": "Bots",
-		"comment": "[Play Screen] [Filter Checkbox] Show servers that only have bots in them",
+		"comment": "[Legend \/ Key] This text draws next to the bots icon",
 		"translation": "Bots",
 		"machine": true
 	},
@@ -8000,12 +7891,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Select a loadout to continue",
-		"comment": "Tutorial prompt to click a loadout",
-		"translation": "Seleccione un equipamiento para continuar",
-		"machine": true
-	},
-	{
 		"phrase": "Each weapon, equipment and modification has a power value.",
 		"comment": "Loadout tutorial description",
 		"translation": "Cada arma, equipo y modificación tiene un valor de potencia..",
@@ -8104,6 +7989,3187 @@
 	{
 		"phrase": "Would you like to enable Dynamic Rendering?",
 		"translation": "¿Le gustaría habilitar el renderizado dinámico??",
+		"machine": true
+	},
+	{
+		"phrase": "Internal error",
+		"comment": "Reason for being disconnected from a server",
+		"translation": "Error interno",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Weak",
+		"comment": "Ammo type name",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Lightweight",
+		"comment": "Stock attachment name",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Base Metal",
+		"comment": "Block skin name",
+		"translation": "Metal base",
+		"machine": true
+	},
+	{
+		"phrase": "Agaman Reactive",
+		"comment": "Block skin name. Don't translate 'Agaman'",
+		"translation": "Agaman reactivo",
+		"machine": true
+	},
+	{
+		"phrase": "Human Reactive",
+		"comment": "Block skin name",
+		"translation": "Reactivo humano",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block0",
+		"comment": "[Unit] [Plural] 0 Blocks. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block1",
+		"comment": "[Unit] [Plural] 1 Block",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block2",
+		"comment": "[Unit] [Plural] 2 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block3",
+		"comment": "[Unit] [Plural] 3 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block4",
+		"comment": "[Unit] [Plural] 4 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block5",
+		"comment": "[Unit] [Plural] 5 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block6",
+		"comment": "[Unit] [Plural] 6 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block7",
+		"comment": "[Unit] [Plural] 7 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block8",
+		"comment": "[Unit] [Plural] 8 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block9",
+		"comment": "[Unit] [Plural] 9 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block10",
+		"comment": "[Unit] [Plural] 10 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block11",
+		"comment": "[Unit] [Plural] 11 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block12",
+		"comment": "[Unit] [Plural] 12 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block13",
+		"comment": "[Unit] [Plural] 13 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block14",
+		"comment": "[Unit] [Plural] 14 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block15",
+		"comment": "[Unit] [Plural] 15 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block16",
+		"comment": "[Unit] [Plural] 16 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block17",
+		"comment": "[Unit] [Plural] 17 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block18",
+		"comment": "[Unit] [Plural] 18 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"context": "Block19",
+		"comment": "[Unit] [Plural] 19 Blocks",
+		"translation": "Cuadra",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second0",
+		"comment": "[Plural] 0 Seconds. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second1",
+		"comment": "[Plural] 1 Second",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second2",
+		"comment": "[Plural] 2 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second3",
+		"comment": "[Plural] 3 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second4",
+		"comment": "[Plural] 4 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second5",
+		"comment": "[Plural] 5 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second6",
+		"comment": "[Plural] 6 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second7",
+		"comment": "[Plural] 7 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second8",
+		"comment": "[Plural] 8 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second9",
+		"comment": "[Plural] 9 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second10",
+		"comment": "[Plural] 10 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second11",
+		"comment": "[Plural] 11 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second12",
+		"comment": "[Plural] 12 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second13",
+		"comment": "[Plural] 13 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second14",
+		"comment": "[Plural] 14 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second15",
+		"comment": "[Plural] 15 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second16",
+		"comment": "[Plural] 16 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second17",
+		"comment": "[Plural] 17 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second18",
+		"comment": "[Plural] 18 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Second",
+		"context": "Second19",
+		"comment": "[Plural] 19 Seconds",
+		"translation": "Segundo",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute0",
+		"comment": "[Plural] 0 Minutes. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute1",
+		"comment": "[Plural] 1 Minute",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute2",
+		"comment": "[Plural] 2 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute3",
+		"comment": "[Plural] 3 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute4",
+		"comment": "[Plural] 4 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute5",
+		"comment": "[Plural] 5 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute6",
+		"comment": "[Plural] 6 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute7",
+		"comment": "[Plural] 7 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute8",
+		"comment": "[Plural] 8 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute9",
+		"comment": "[Plural] 9 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute10",
+		"comment": "[Plural] 10 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute11",
+		"comment": "[Plural] 11 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute12",
+		"comment": "[Plural] 12 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute13",
+		"comment": "[Plural] 13 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute14",
+		"comment": "[Plural] 14 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute15",
+		"comment": "[Plural] 15 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute16",
+		"comment": "[Plural] 16 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute17",
+		"comment": "[Plural] 17 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute18",
+		"comment": "[Plural] 18 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"context": "Minute19",
+		"comment": "[Plural] 19 Minutes",
+		"translation": "Minuto",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour0",
+		"comment": "[Plural] 0 Hours. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour1",
+		"comment": "[Plural] 1 Hour",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour2",
+		"comment": "[Plural] 2 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour3",
+		"comment": "[Plural] 3 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour4",
+		"comment": "[Plural] 4 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour5",
+		"comment": "[Plural] 5 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour6",
+		"comment": "[Plural] 6 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour7",
+		"comment": "[Plural] 7 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour8",
+		"comment": "[Plural] 8 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour9",
+		"comment": "[Plural] 9 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour10",
+		"comment": "[Plural] 10 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour11",
+		"comment": "[Plural] 11 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour12",
+		"comment": "[Plural] 12 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour13",
+		"comment": "[Plural] 13 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour14",
+		"comment": "[Plural] 14 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour15",
+		"comment": "[Plural] 15 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour16",
+		"comment": "[Plural] 16 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour17",
+		"comment": "[Plural] 17 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour18",
+		"comment": "[Plural] 18 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"context": "Hour19",
+		"comment": "[Plural] 19 Hours",
+		"translation": "Hora",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day0",
+		"comment": "[Plural] 0 Days. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day1",
+		"comment": "[Plural] 1 Day",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day2",
+		"comment": "[Plural] 2 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day3",
+		"comment": "[Plural] 3 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day4",
+		"comment": "[Plural] 4 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day5",
+		"comment": "[Plural] 5 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day6",
+		"comment": "[Plural] 6 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day7",
+		"comment": "[Plural] 7 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day8",
+		"comment": "[Plural] 8 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day9",
+		"comment": "[Plural] 9 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day10",
+		"comment": "[Plural] 10 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day11",
+		"comment": "[Plural] 11 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day12",
+		"comment": "[Plural] 12 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day13",
+		"comment": "[Plural] 13 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day14",
+		"comment": "[Plural] 14 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day15",
+		"comment": "[Plural] 15 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day16",
+		"comment": "[Plural] 16 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day17",
+		"comment": "[Plural] 17 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day18",
+		"comment": "[Plural] 18 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"context": "Day19",
+		"comment": "[Plural] 19 Days",
+		"translation": "Día",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week0",
+		"comment": "[Plural] 0 Weeks. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week1",
+		"comment": "[Plural] 1 Week",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week2",
+		"comment": "[Plural] 2 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week3",
+		"comment": "[Plural] 3 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week4",
+		"comment": "[Plural] 4 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week5",
+		"comment": "[Plural] 5 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week6",
+		"comment": "[Plural] 6 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week7",
+		"comment": "[Plural] 7 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week8",
+		"comment": "[Plural] 8 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week9",
+		"comment": "[Plural] 9 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week10",
+		"comment": "[Plural] 10 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week11",
+		"comment": "[Plural] 11 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week12",
+		"comment": "[Plural] 12 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week13",
+		"comment": "[Plural] 13 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week14",
+		"comment": "[Plural] 14 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week15",
+		"comment": "[Plural] 15 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week16",
+		"comment": "[Plural] 16 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week17",
+		"comment": "[Plural] 17 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week18",
+		"comment": "[Plural] 18 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"context": "Week19",
+		"comment": "[Plural] 19 Weeks",
+		"translation": "Semana",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month0",
+		"comment": "[Plural] 0 Months. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month1",
+		"comment": "[Plural] 1 Month",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month2",
+		"comment": "[Plural] 2 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month3",
+		"comment": "[Plural] 3 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month4",
+		"comment": "[Plural] 4 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month5",
+		"comment": "[Plural] 5 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month6",
+		"comment": "[Plural] 6 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month7",
+		"comment": "[Plural] 7 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month8",
+		"comment": "[Plural] 8 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month9",
+		"comment": "[Plural] 9 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month10",
+		"comment": "[Plural] 10 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month11",
+		"comment": "[Plural] 11 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month12",
+		"comment": "[Plural] 12 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month13",
+		"comment": "[Plural] 13 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month14",
+		"comment": "[Plural] 14 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month15",
+		"comment": "[Plural] 15 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month16",
+		"comment": "[Plural] 16 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month17",
+		"comment": "[Plural] 17 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month18",
+		"comment": "[Plural] 18 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"context": "Month19",
+		"comment": "[Plural] 19 Months",
+		"translation": "Mes",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year0",
+		"comment": "[Plural] 0 Years. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year1",
+		"comment": "[Plural] 1 Year",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year2",
+		"comment": "[Plural] 2 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year3",
+		"comment": "[Plural] 3 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year4",
+		"comment": "[Plural] 4 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year5",
+		"comment": "[Plural] 5 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year6",
+		"comment": "[Plural] 6 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year7",
+		"comment": "[Plural] 7 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year8",
+		"comment": "[Plural] 8 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year9",
+		"comment": "[Plural] 9 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year10",
+		"comment": "[Plural] 10 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year11",
+		"comment": "[Plural] 11 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year12",
+		"comment": "[Plural] 12 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year13",
+		"comment": "[Plural] 13 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year14",
+		"comment": "[Plural] 14 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year15",
+		"comment": "[Plural] 15 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year16",
+		"comment": "[Plural] 16 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year17",
+		"comment": "[Plural] 17 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year18",
+		"comment": "[Plural] 18 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"context": "Year19",
+		"comment": "[Plural] 19 Years",
+		"translation": "Año",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint0",
+		"comment": "[Plural] 0 Waypoints. A waypoint is like a point in a path that consists of multiple segments. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint1",
+		"comment": "[Plural] 1 Waypoint",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint2",
+		"comment": "[Plural] 2 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint3",
+		"comment": "[Plural] 3 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint4",
+		"comment": "[Plural] 4 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint5",
+		"comment": "[Plural] 5 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint6",
+		"comment": "[Plural] 6 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint7",
+		"comment": "[Plural] 7 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint8",
+		"comment": "[Plural] 8 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint9",
+		"comment": "[Plural] 9 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint10",
+		"comment": "[Plural] 10 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint11",
+		"comment": "[Plural] 11 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint12",
+		"comment": "[Plural] 12 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint13",
+		"comment": "[Plural] 13 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint14",
+		"comment": "[Plural] 14 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint15",
+		"comment": "[Plural] 15 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint16",
+		"comment": "[Plural] 16 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint17",
+		"comment": "[Plural] 17 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint18",
+		"comment": "[Plural] 18 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"context": "Waypoint19",
+		"comment": "[Plural] 19 Waypoints",
+		"translation": "Waypoint",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot0",
+		"comment": "[Plural] 0 Slots. A slot here refers to an equipment slot. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot1",
+		"comment": "[Plural] 1 Slot",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot2",
+		"comment": "[Plural] 2 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot3",
+		"comment": "[Plural] 3 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot4",
+		"comment": "[Plural] 4 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot5",
+		"comment": "[Plural] 5 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot6",
+		"comment": "[Plural] 6 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot7",
+		"comment": "[Plural] 7 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot8",
+		"comment": "[Plural] 8 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot9",
+		"comment": "[Plural] 9 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot10",
+		"comment": "[Plural] 10 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot11",
+		"comment": "[Plural] 11 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot12",
+		"comment": "[Plural] 12 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot13",
+		"comment": "[Plural] 13 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot14",
+		"comment": "[Plural] 14 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot15",
+		"comment": "[Plural] 15 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot16",
+		"comment": "[Plural] 16 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot17",
+		"comment": "[Plural] 17 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot18",
+		"comment": "[Plural] 18 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"context": "Slot19",
+		"comment": "[Plural] 19 Slots",
+		"translation": "Espacio",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag0",
+		"comment": "[Plural] 0 Tags. A tag here refers to a killcam tag. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag1",
+		"comment": "[Plural] 1 Tag",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag2",
+		"comment": "[Plural] 2 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag3",
+		"comment": "[Plural] 3 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag4",
+		"comment": "[Plural] 4 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag5",
+		"comment": "[Plural] 5 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag6",
+		"comment": "[Plural] 6 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag7",
+		"comment": "[Plural] 7 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag8",
+		"comment": "[Plural] 8 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag9",
+		"comment": "[Plural] 9 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag10",
+		"comment": "[Plural] 10 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag11",
+		"comment": "[Plural] 11 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag12",
+		"comment": "[Plural] 12 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag13",
+		"comment": "[Plural] 13 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag14",
+		"comment": "[Plural] 14 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag15",
+		"comment": "[Plural] 15 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag16",
+		"comment": "[Plural] 16 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag17",
+		"comment": "[Plural] 17 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag18",
+		"comment": "[Plural] 18 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Tag",
+		"context": "Tag19",
+		"comment": "[Plural] 19 Tags",
+		"translation": "Etiqueta",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet0",
+		"comment": "[Plural] 0 Pellets. A pellet here refers to a tiny metal ball propelled by a shotgun blast. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet1",
+		"comment": "[Plural] 1 Pellet",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet2",
+		"comment": "[Plural] 2 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet3",
+		"comment": "[Plural] 3 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet4",
+		"comment": "[Plural] 4 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet5",
+		"comment": "[Plural] 5 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet6",
+		"comment": "[Plural] 6 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet7",
+		"comment": "[Plural] 7 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet8",
+		"comment": "[Plural] 8 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet9",
+		"comment": "[Plural] 9 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet10",
+		"comment": "[Plural] 10 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet11",
+		"comment": "[Plural] 11 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet12",
+		"comment": "[Plural] 12 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet13",
+		"comment": "[Plural] 13 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet14",
+		"comment": "[Plural] 14 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet15",
+		"comment": "[Plural] 15 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet16",
+		"comment": "[Plural] 16 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet17",
+		"comment": "[Plural] 17 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet18",
+		"comment": "[Plural] 18 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"context": "Pellet19",
+		"comment": "[Plural] 19 Pellets",
+		"translation": "Bolita",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery0",
+		"comment": "[Plural] 0 Deliveries. A delivery here refers to delivering a bomb to a location in the Escort gamemode. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery1",
+		"comment": "[Plural] 1 Delivery",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery2",
+		"comment": "[Plural] 2 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery3",
+		"comment": "[Plural] 3 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery4",
+		"comment": "[Plural] 4 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery5",
+		"comment": "[Plural] 5 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery6",
+		"comment": "[Plural] 6 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery7",
+		"comment": "[Plural] 7 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery8",
+		"comment": "[Plural] 8 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery9",
+		"comment": "[Plural] 9 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery10",
+		"comment": "[Plural] 10 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery11",
+		"comment": "[Plural] 11 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery12",
+		"comment": "[Plural] 12 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery13",
+		"comment": "[Plural] 13 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery14",
+		"comment": "[Plural] 14 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery15",
+		"comment": "[Plural] 15 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery16",
+		"comment": "[Plural] 16 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery17",
+		"comment": "[Plural] 17 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery18",
+		"comment": "[Plural] 18 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"context": "Delivery19",
+		"comment": "[Plural] 19 Deliveries",
+		"translation": "Entrega",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist0",
+		"comment": "[Plural] 0 Assists. This refers to when you deal damage to an enemy, and then a friendly kills the enemy. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist1",
+		"comment": "[Plural] 1 Assist",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist2",
+		"comment": "[Plural] 2 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist3",
+		"comment": "[Plural] 3 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist4",
+		"comment": "[Plural] 4 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist5",
+		"comment": "[Plural] 5 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist6",
+		"comment": "[Plural] 6 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist7",
+		"comment": "[Plural] 7 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist8",
+		"comment": "[Plural] 8 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist9",
+		"comment": "[Plural] 9 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist10",
+		"comment": "[Plural] 10 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist11",
+		"comment": "[Plural] 11 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist12",
+		"comment": "[Plural] 12 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist13",
+		"comment": "[Plural] 13 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist14",
+		"comment": "[Plural] 14 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist15",
+		"comment": "[Plural] 15 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist16",
+		"comment": "[Plural] 16 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist17",
+		"comment": "[Plural] 17 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist18",
+		"comment": "[Plural] 18 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Assist",
+		"context": "Assist19",
+		"comment": "[Plural] 19 Assists",
+		"translation": "Ayudar",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist0",
+		"comment": "[Plural] 0 Spot assists. This refers to when you mark the location of an enemy, and then a friendly kills the enemy. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist1",
+		"comment": "[Plural] 1 Spot assist",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist2",
+		"comment": "[Plural] 2 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist3",
+		"comment": "[Plural] 3 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist4",
+		"comment": "[Plural] 4 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist5",
+		"comment": "[Plural] 5 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist6",
+		"comment": "[Plural] 6 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist7",
+		"comment": "[Plural] 7 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist8",
+		"comment": "[Plural] 8 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist9",
+		"comment": "[Plural] 9 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist10",
+		"comment": "[Plural] 10 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist11",
+		"comment": "[Plural] 11 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist12",
+		"comment": "[Plural] 12 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist13",
+		"comment": "[Plural] 13 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist14",
+		"comment": "[Plural] 14 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist15",
+		"comment": "[Plural] 15 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist16",
+		"comment": "[Plural] 16 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist17",
+		"comment": "[Plural] 17 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist18",
+		"comment": "[Plural] 18 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assist",
+		"context": "Spot assist19",
+		"comment": "[Plural] 19 Spot assists",
+		"translation": "Asistencia puntual",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist0",
+		"comment": "[Plural] 0 Scanner assists. This refers to when you place a Scanner that reveals the location of an enemy, and then a friendly kills that enemy. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist1",
+		"comment": "[Plural] 1 Scanner assist",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist2",
+		"comment": "[Plural] 2 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist3",
+		"comment": "[Plural] 3 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist4",
+		"comment": "[Plural] 4 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist5",
+		"comment": "[Plural] 5 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist6",
+		"comment": "[Plural] 6 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist7",
+		"comment": "[Plural] 7 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist8",
+		"comment": "[Plural] 8 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist9",
+		"comment": "[Plural] 9 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist10",
+		"comment": "[Plural] 10 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist11",
+		"comment": "[Plural] 11 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist12",
+		"comment": "[Plural] 12 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist13",
+		"comment": "[Plural] 13 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist14",
+		"comment": "[Plural] 14 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist15",
+		"comment": "[Plural] 15 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist16",
+		"comment": "[Plural] 16 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist17",
+		"comment": "[Plural] 17 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist18",
+		"comment": "[Plural] 18 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assist",
+		"context": "Scanner assist19",
+		"comment": "[Plural] 19 Scanner assists",
+		"translation": "Asistente de escáner",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save0",
+		"comment": "[Plural] 0 Saves. This refers to when you save a friendly from being killed. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save1",
+		"comment": "[Plural] 1 Save",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save2",
+		"comment": "[Plural] 2 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save3",
+		"comment": "[Plural] 3 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save4",
+		"comment": "[Plural] 4 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save5",
+		"comment": "[Plural] 5 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save6",
+		"comment": "[Plural] 6 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save7",
+		"comment": "[Plural] 7 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save8",
+		"comment": "[Plural] 8 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save9",
+		"comment": "[Plural] 9 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save10",
+		"comment": "[Plural] 10 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save11",
+		"comment": "[Plural] 11 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save12",
+		"comment": "[Plural] 12 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save13",
+		"comment": "[Plural] 13 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save14",
+		"comment": "[Plural] 14 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save15",
+		"comment": "[Plural] 15 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save16",
+		"comment": "[Plural] 16 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save17",
+		"comment": "[Plural] 17 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save18",
+		"comment": "[Plural] 18 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Save19",
+		"comment": "[Plural] 19 Saves",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge0",
+		"comment": "[Plural] 0 Avenges. This refers to when you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge1",
+		"comment": "[Plural] 1 Avenge",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge2",
+		"comment": "[Plural] 2 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge3",
+		"comment": "[Plural] 3 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge4",
+		"comment": "[Plural] 4 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge5",
+		"comment": "[Plural] 5 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge6",
+		"comment": "[Plural] 6 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge7",
+		"comment": "[Plural] 7 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge8",
+		"comment": "[Plural] 8 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge9",
+		"comment": "[Plural] 9 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge10",
+		"comment": "[Plural] 10 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge11",
+		"comment": "[Plural] 11 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge12",
+		"comment": "[Plural] 12 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge13",
+		"comment": "[Plural] 13 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge14",
+		"comment": "[Plural] 14 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge15",
+		"comment": "[Plural] 15 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge16",
+		"comment": "[Plural] 16 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge17",
+		"comment": "[Plural] 17 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge18",
+		"comment": "[Plural] 18 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"context": "Avenge19",
+		"comment": "[Plural] 19 Avenges",
+		"translation": "Vengar",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light0",
+		"comment": "[Plural] 0 Lights. This refers to the amount of lights that are rendered. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light1",
+		"comment": "[Plural] 1 Light",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light2",
+		"comment": "[Plural] 2 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light3",
+		"comment": "[Plural] 3 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light4",
+		"comment": "[Plural] 4 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light5",
+		"comment": "[Plural] 5 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light6",
+		"comment": "[Plural] 6 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light7",
+		"comment": "[Plural] 7 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light8",
+		"comment": "[Plural] 8 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light9",
+		"comment": "[Plural] 9 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light10",
+		"comment": "[Plural] 10 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light11",
+		"comment": "[Plural] 11 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light12",
+		"comment": "[Plural] 12 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light13",
+		"comment": "[Plural] 13 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light14",
+		"comment": "[Plural] 14 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light15",
+		"comment": "[Plural] 15 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light16",
+		"comment": "[Plural] 16 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light17",
+		"comment": "[Plural] 17 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light18",
+		"comment": "[Plural] 18 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Light",
+		"context": "Light19",
+		"comment": "[Plural] 19 Lights",
+		"translation": "Luz",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk0",
+		"comment": "[Plural] 0 Chunks. A chunk is a group of 32x32x32 blocks. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk1",
+		"comment": "[Plural] 1 Chunk",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk2",
+		"comment": "[Plural] 2 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk3",
+		"comment": "[Plural] 3 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk4",
+		"comment": "[Plural] 4 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk5",
+		"comment": "[Plural] 5 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk6",
+		"comment": "[Plural] 6 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk7",
+		"comment": "[Plural] 7 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk8",
+		"comment": "[Plural] 8 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk9",
+		"comment": "[Plural] 9 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk10",
+		"comment": "[Plural] 10 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk11",
+		"comment": "[Plural] 11 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk12",
+		"comment": "[Plural] 12 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk13",
+		"comment": "[Plural] 13 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk14",
+		"comment": "[Plural] 14 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk15",
+		"comment": "[Plural] 15 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk16",
+		"comment": "[Plural] 16 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk17",
+		"comment": "[Plural] 17 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk18",
+		"comment": "[Plural] 18 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"context": "Chunk19",
+		"comment": "[Plural] 19 Chunks",
+		"translation": "Pedazo",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample0",
+		"comment": "[Plural] 0 Samples. A sample here refers to a shader sample, where more samples means a higher quality shader image. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample1",
+		"comment": "[Plural] 1 Sample",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample2",
+		"comment": "[Plural] 2 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample3",
+		"comment": "[Plural] 3 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample4",
+		"comment": "[Plural] 4 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample5",
+		"comment": "[Plural] 5 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample6",
+		"comment": "[Plural] 6 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample7",
+		"comment": "[Plural] 7 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample8",
+		"comment": "[Plural] 8 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample9",
+		"comment": "[Plural] 9 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample10",
+		"comment": "[Plural] 10 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample11",
+		"comment": "[Plural] 11 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample12",
+		"comment": "[Plural] 12 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample13",
+		"comment": "[Plural] 13 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample14",
+		"comment": "[Plural] 14 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample15",
+		"comment": "[Plural] 15 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample16",
+		"comment": "[Plural] 16 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample17",
+		"comment": "[Plural] 17 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample18",
+		"comment": "[Plural] 18 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"context": "Sample19",
+		"comment": "[Plural] 19 Samples",
+		"translation": "Muestra",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree0",
+		"comment": "[Plural] 0 Degrees. The mathematical unit used to measure angles. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree1",
+		"comment": "[Plural] 1 Degree",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree2",
+		"comment": "[Plural] 2 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree3",
+		"comment": "[Plural] 3 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree4",
+		"comment": "[Plural] 4 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree5",
+		"comment": "[Plural] 5 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree6",
+		"comment": "[Plural] 6 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree7",
+		"comment": "[Plural] 7 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree8",
+		"comment": "[Plural] 8 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree9",
+		"comment": "[Plural] 9 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree10",
+		"comment": "[Plural] 10 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree11",
+		"comment": "[Plural] 11 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree12",
+		"comment": "[Plural] 12 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree13",
+		"comment": "[Plural] 13 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree14",
+		"comment": "[Plural] 14 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree15",
+		"comment": "[Plural] 15 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree16",
+		"comment": "[Plural] 16 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree17",
+		"comment": "[Plural] 17 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree18",
+		"comment": "[Plural] 18 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"context": "Degree19",
+		"comment": "[Plural] 19 Degrees",
+		"translation": "La licenciatura",
+		"machine": true
+	},
+	{
+		"phrase": "Changelog",
+		"context": "Patch Notes",
+		"comment": "[News] [Navigation] 'Changelog' refers to a list of things that have changed in the game",
+		"translation": "Registro de cambios",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle UI",
+		"context": "Toggle User Interface",
+		"comment": "[Settings Section Header]",
+		"translation": "Alternar interfaz de usuario",
+		"machine": true
+	},
+	{
+		"phrase": "HUD",
+		"context": "In-Game User Interface",
+		"comment": "[Settings Section Header] This section contains keybinds for toggling UI\/chat\/killfeed\/etc",
+		"translation": "HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
+		"comment": "[Setting] [Tooltip]",
+		"translation": "Cambia la frecuencia con la que recibes datos de jugadores del servidor. baje este valor si está en Internet inestable o con poco ancho de banda.",
+		"machine": true
+	},
+	{
+		"phrase": "Create a new loadout to continue",
+		"comment": "Tutorial prompt to click a loadout",
+		"translation": "Crea una nueva carga para continuar",
+		"machine": true
+	},
+	{
+		"phrase": "Home",
+		"comment": "[Navigation] Change to the Home screen",
+		"translation": "Hogar",
+		"machine": true
+	},
+	{
+		"phrase": "Linking",
+		"comment": "[Button] Loading text while the user's Twitch account is being linked",
+		"translation": "Enlace",
+		"machine": true
+	},
+	{
+		"phrase": "{0} linked",
+		"comment": "[Button] This text shows after the user's Twitch account has been successfully linked. First parameter: 'Twitch'",
+		"translation": "{0} vinculado",
+		"machine": true
+	},
+	{
+		"phrase": "Link {0}",
+		"comment": "[Button] This button links the user's Twitch account to their Sector's Edge account. Parameter 0: 'Twitch'",
+		"translation": "Enlace {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Purchase history",
+		"comment": "[Button] View your previous purchases and unlocks",
+		"translation": "Historial de compras",
 		"machine": true
 	}
 ]
