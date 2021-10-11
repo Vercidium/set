@@ -5122,7 +5122,7 @@
 	{
 		"phrase": "Spectate",
 		"context": "Become a spectator",
-		"comment": "[Scoreboard] [Button]",
+		"comment": "[Scoreboard] [Button] Stop playing and join the spectator team",
 		"translation": "観客",
 		"machine": true
 	},
@@ -12397,6 +12397,584 @@
 		"phrase": "Purchase history",
 		"comment": "[Button] View your previous purchases and unlocks",
 		"translation": "購入履歴",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use0",
+		"comment": "[Plural] 0 Uses. The amount of times an object was used. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use1",
+		"comment": "[Plural] 1 Use",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use2",
+		"comment": "[Plural] 2 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use3",
+		"comment": "[Plural] 3 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use4",
+		"comment": "[Plural] 4 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use5",
+		"comment": "[Plural] 5 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use6",
+		"comment": "[Plural] 6 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use7",
+		"comment": "[Plural] 7 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use8",
+		"comment": "[Plural] 8 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use9",
+		"comment": "[Plural] 9 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use10",
+		"comment": "[Plural] 10 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use11",
+		"comment": "[Plural] 11 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use12",
+		"comment": "[Plural] 12 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use13",
+		"comment": "[Plural] 13 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use14",
+		"comment": "[Plural] 14 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use15",
+		"comment": "[Plural] 15 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use16",
+		"comment": "[Plural] 16 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use17",
+		"comment": "[Plural] 17 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use18",
+		"comment": "[Plural] 18 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"context": "Use19",
+		"comment": "[Plural] 19 Uses",
+		"translation": "使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot0",
+		"comment": "[Plural] 0 Shots. The amount of times a gun was fired. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot1",
+		"comment": "[Plural] 1 Shot",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot2",
+		"comment": "[Plural] 2 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot3",
+		"comment": "[Plural] 3 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot4",
+		"comment": "[Plural] 4 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot5",
+		"comment": "[Plural] 5 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot6",
+		"comment": "[Plural] 6 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot7",
+		"comment": "[Plural] 7 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot8",
+		"comment": "[Plural] 8 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot9",
+		"comment": "[Plural] 9 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot10",
+		"comment": "[Plural] 10 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot11",
+		"comment": "[Plural] 11 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot12",
+		"comment": "[Plural] 12 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot13",
+		"comment": "[Plural] 13 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot14",
+		"comment": "[Plural] 14 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot15",
+		"comment": "[Plural] 15 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot16",
+		"comment": "[Plural] 16 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot17",
+		"comment": "[Plural] 17 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot18",
+		"comment": "[Plural] 18 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"context": "Shot19",
+		"comment": "[Plural] 19 Shots",
+		"translation": "ショット",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing0",
+		"comment": "[Plural] 0 Swings. The amount of times a player used their melee. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing1",
+		"comment": "[Plural] 1 Swing",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing2",
+		"comment": "[Plural] 2 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing3",
+		"comment": "[Plural] 3 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing4",
+		"comment": "[Plural] 4 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing5",
+		"comment": "[Plural] 5 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing6",
+		"comment": "[Plural] 6 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing7",
+		"comment": "[Plural] 7 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing8",
+		"comment": "[Plural] 8 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing9",
+		"comment": "[Plural] 9 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing10",
+		"comment": "[Plural] 10 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing11",
+		"comment": "[Plural] 11 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing12",
+		"comment": "[Plural] 12 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing13",
+		"comment": "[Plural] 13 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing14",
+		"comment": "[Plural] 14 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing15",
+		"comment": "[Plural] 15 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing16",
+		"comment": "[Plural] 16 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing17",
+		"comment": "[Plural] 17 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing18",
+		"comment": "[Plural] 18 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"context": "Swing19",
+		"comment": "[Plural] 19 Swings",
+		"translation": "スイング",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw0",
+		"comment": "[Plural] 0 Throws. The amount of times a player threw a C4 or disruptor. 0-20 are written out here because different languages have different suffixes for different numbers",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw1",
+		"comment": "[Plural] 1 Throw",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw2",
+		"comment": "[Plural] 2 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw3",
+		"comment": "[Plural] 3 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw4",
+		"comment": "[Plural] 4 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw5",
+		"comment": "[Plural] 5 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw6",
+		"comment": "[Plural] 6 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw7",
+		"comment": "[Plural] 7 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw8",
+		"comment": "[Plural] 8 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw9",
+		"comment": "[Plural] 9 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw10",
+		"comment": "[Plural] 10 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw11",
+		"comment": "[Plural] 11 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw12",
+		"comment": "[Plural] 12 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw13",
+		"comment": "[Plural] 13 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw14",
+		"comment": "[Plural] 14 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw15",
+		"comment": "[Plural] 15 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw16",
+		"comment": "[Plural] 16 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw17",
+		"comment": "[Plural] 17 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw18",
+		"comment": "[Plural] 18 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"context": "Throw19",
+		"comment": "[Plural] 19 Throws",
+		"translation": "投げる",
+		"machine": true
+	},
+	{
+		"phrase": "Player profile",
+		"comment": "[Button] Go to the player's page on the Sector's Edge website",
+		"translation": "プレイヤープロフィール",
+		"machine": true
+	},
+	{
+		"phrase": "Vote Kick",
+		"comment": "[Title] [Votekick Popup]",
+		"translation": "投票キック",
+		"machine": true
+	},
+	{
+		"phrase": "Mute",
+		"comment": "[Mute Player Popup] [Title]",
+		"translation": "ミュート",
 		"machine": true
 	}
 ]
