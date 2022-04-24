@@ -1023,7 +1023,7 @@
 	{
 		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
 		"comment": "[Gamemode Info] Arena gamemode description",
-		"translation": "Теневой рынок возник на окраинах галактики, где ставки делаются на Солтриум. Все или ничего на арене, где участники борются за прибыль и выживание."
+		"translation": "Теневой рынок возник на окраинах галактики, где ставки делаются за солтриум. Все или ничего на арене, где участники борются за прибыль и выживание."
 	},
 	{
 		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
@@ -1053,7 +1053,7 @@
 	{
 		"phrase": "Hold the most Soltrium to win",
 		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
-		"translation": "Удерживайте наибольшее количество Солтриума, чтобы выиграть"
+		"translation": "Удерживайте наибольшее количество солтриума, чтобы выиграть"
 	},
 	{
 		"phrase": "Weapons and Mods spawn around the map",
@@ -1272,12 +1272,12 @@
 	{
 		"phrase": "This game mode is called Salvage. Two teams contest a canister that contains a valuable resource called Soltrium.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Этот игровой режим называется «Cпасение». Две команды сражаются за канистру, содержащую ценный ресурс под названием Солтриум."
+		"translation": "Этот игровой режим называется «Cпасение». Две команды сражаются за канистру, содержащую ценный ресурс под названием солтриум."
 	},
 	{
 		"phrase": "The team with the most players near the canister will extract Soltrium and earn points for their team. This can be seen at the top of the screen.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Команда с наибольшим количеством игроков рядом с канистрой будет извлекать Cолтриум и зарабатывать очки для своей команды. Это можно увидеть вверху экрана."
+		"translation": "Команда с наибольшим количеством игроков рядом с канистрой будет извлекать солтриум и зарабатывать очки для своей команды. Это можно увидеть вверху экрана."
 	},
 	{
 		"phrase": "When a canister is depleted, a new one will spawn elsewhere. The first team to reach 500 points wins!",
@@ -1378,12 +1378,12 @@
 	{
 		"phrase": "When a player dies, they will drop their weapons, half their Soltrium and half their mods.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Когда игрок умирает, он бросает свое оружие, половину Cолтриума и половину своих модификаций."
+		"translation": "Когда игрок умирает, он выбрасывает свое оружие, половину солтриума и половину своих модификаций."
 	},
 	{
 		"phrase": "Pick up Soltrium to win, but be careful as the player with the most Soltrium will be revealed to everyone.",
 		"comment": "[Gamemode Tutorial]",
-		"translation": "Подберите Cолтриум, чтобы выиграть, но будьте осторожны, так как игрок с наибольшим количеством Cолтриума будет показан всем."
+		"translation": "Подберите солтриум, чтобы выиграть, но будьте осторожны, так как игрок с наибольшим количеством солтриума будет показан всем."
 	},
 	{
 		"phrase": "This arena game mode is called Spire. To win, you must eliminate the enemy team 5 times.",
@@ -5520,7 +5520,7 @@
 	{
 		"phrase": "Soltrium Temple",
 		"comment": "Map Name",
-		"translation": "Храм Солтриума"
+		"translation": "Храм солтриума"
 	},
 	{
 		"phrase": "Railway",
@@ -7661,8 +7661,7 @@
 	{
 		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
 		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
-		"translation": "Солтриум разбросан по всему внешнему сектору. различные батальоны {0} и {1} были отправлены на поиски и сбор драгоценного ресурса.",
-		"machine": true
+		"translation": "Солтриум разбросан по всему внешнему сектору. Различные батальоны {0} и {1} были отправлены на поиски и сбор драгоценного ресурса."
 	},
 	{
 		"phrase": "The first team to {0} points wins",
