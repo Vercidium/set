@@ -299,12 +299,12 @@
 	},
 	{
 		"phrase": "Connecting",
-		"comment": "[Scoreboard] The player is in the process of connecting to the server",
+		"comment": "A player is connecting to the server",
 		"translation": "Verbinden"
 	},
 	{
 		"phrase": "Loading Map",
-		"comment": "[Scoreboard] The player is loading the map",
+		"comment": "A player is loading the map from the server",
 		"translation": "Karte wird geladen",
 		"machine": true
 	},
@@ -316,13 +316,13 @@
 	},
 	{
 		"phrase": "Selecting a team",
-		"comment": "[Scoreboard] The player is looking at the scoreboard deciding if they want to join the battle, or spectate",
+		"comment": "A player is selecting whether to join Aegis or Helix",
 		"translation": "Auswahl eines Teams",
 		"machine": true
 	},
 	{
 		"phrase": "Spectating",
-		"comment": "Rich presence",
+		"comment": "Watching other people fight",
 		"translation": "Zuschauen",
 		"machine": true
 	},
@@ -362,7 +362,7 @@
 	},
 	{
 		"phrase": "Disconnected",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "Disconnected from the server",
 		"translation": "Verbindung getrennt"
 	},
 	{
@@ -507,7 +507,7 @@
 	},
 	{
 		"phrase": "Default",
-		"comment": "Barrel attachment name",
+		"comment": "The default\/initial value",
 		"translation": "Standard",
 		"machine": true
 	},
@@ -703,7 +703,7 @@
 	},
 	{
 		"phrase": "Other",
-		"comment": "This player is being reported for other reasons",
+		"comment": "Things that can't be categorised, e.g. 'That other stuff'",
 		"translation": "Sonstiges",
 		"machine": true
 	},
@@ -836,38 +836,32 @@
 	},
 	{
 		"phrase": "Camoflague",
-		"comment": "Weapon skin category name",
+		"comment": "A camoflague pattern",
 		"translation": "Tarnung",
 		"machine": true
 	},
 	{
 		"phrase": "Metallic",
-		"comment": "Weapon skin category name",
+		"comment": "A metallic weapon skin is shiny and reflective",
 		"translation": "Metallisch",
 		"machine": true
 	},
 	{
 		"phrase": "Animated",
-		"comment": "Weapon skin category name",
+		"comment": "An animated weapon skin is... animated",
 		"translation": "Animiert",
 		"machine": true
 	},
 	{
 		"phrase": "Digital",
-		"comment": "Weapon skin name",
+		"comment": "Camoflague pattern in the shape of squares",
 		"translation": "Digital",
 		"machine": true
 	},
 	{
 		"phrase": "Tiger",
-		"comment": "Weapon skin name",
+		"comment": "Camoflague pattern in the shape of tiger stripes",
 		"translation": "Tiger",
-		"machine": true
-	},
-	{
-		"phrase": "Poly",
-		"comment": "Weapon skin name",
-		"translation": "Poly",
 		"machine": true
 	},
 	{
@@ -926,19 +920,13 @@
 	},
 	{
 		"phrase": "Building",
-		"comment": "Keybind category for building actions (swap to midi, select structure)",
+		"comment": "Category tab on the Trials screen",
 		"translation": "Bauen"
 	},
 	{
 		"phrase": "Hydraulics",
 		"comment": "Armour modification name",
 		"translation": "Hydraulik",
-		"machine": true
-	},
-	{
-		"phrase": "Leg servos",
-		"comment": "Armour modification name",
-		"translation": "Beinservos",
 		"machine": true
 	},
 	{
@@ -973,31 +961,31 @@
 	},
 	{
 		"phrase": "Determining sector coordinates",
-		"comment": "[Connecting] Fancy loading text",
+		"comment": "[Server connection banner] This text displays when connecting to a server",
 		"translation": "Sektorkoordinaten ermitteln",
 		"machine": true
 	},
 	{
 		"phrase": "Calibrating thermal dampeners",
-		"comment": "[Connecting] Fancy loading text",
+		"comment": "[Server connection banner] This text displays when connecting to a server",
 		"translation": "Kalibrieren von thermischen Dämpfern",
 		"machine": true
 	},
 	{
 		"phrase": "Entering planet atmosphere",
-		"comment": "[Connecting] Fancy loading text",
+		"comment": "[Server connection banner] This text displays when connecting to a server",
 		"translation": "Eintritt in die Planetenatmosphäre",
 		"machine": true
 	},
 	{
 		"phrase": "Analysing environment",
-		"comment": "[Connecting] Fancy loading text",
+		"comment": "[Server connection banner] This text displays when connecting to a server",
 		"translation": "Umgebung analysieren",
 		"machine": true
 	},
 	{
 		"phrase": "Commencing landing procedure",
-		"comment": "[Connecting] Fancy loading text",
+		"comment": "[Server connection banner] This text displays when connecting to a server",
 		"translation": "Beginn des Landeverfahrens",
 		"machine": true
 	},
@@ -1009,7 +997,7 @@
 	},
 	{
 		"phrase": "Players",
-		"comment": "[Gamemode Info] Player count, e.g. 24 players",
+		"comment": "Column header on the server list",
 		"translation": "Spieler",
 		"machine": true
 	},
@@ -1063,7 +1051,7 @@
 	},
 	{
 		"phrase": "Not bound",
-		"comment": "[Keybind] This is replacement text for an unbound keybind, e.g. Press [Not bound] to sprint",
+		"comment": "This is placeholder text for an unbound keybind, e.g. Press [Not bound] to sprint",
 		"translation": "Nicht gebunden",
 		"machine": true
 	},
@@ -1080,7 +1068,7 @@
 	},
 	{
 		"phrase": "Cancel",
-		"comment": "[Killcam] [Button] Cancel killcam customisation",
+		"comment": "Cancel this action",
 		"translation": "Abbrechen"
 	},
 	{
@@ -1196,7 +1184,7 @@
 	},
 	{
 		"phrase": "Description",
-		"comment": "[Upload Summary] This is a text label that is shown above the map description",
+		"comment": "Column header on the server list",
 		"translation": "Beschreibung",
 		"machine": true
 	},
@@ -1275,13 +1263,13 @@
 	},
 	{
 		"phrase": "Second",
-		"comment": "[Unit] Measurement of time",
+		"comment": "1 Second, i.e. measurement of time",
 		"translation": "Zweite",
 		"machine": true
 	},
 	{
 		"phrase": "Seconds",
-		"comment": "[Unit] Measurement of time (plural)",
+		"comment": "2 Seconds",
 		"translation": "Sekunden",
 		"machine": true
 	},
@@ -1383,13 +1371,13 @@
 	},
 	{
 		"phrase": "Tag",
-		"comment": "[Career Path] [Prefix] i.e. ''Assassin' tag'",
+		"comment": "1 Tag, i.e. a title you earn that can be displayed on your Soltrium Handling Licence",
 		"translation": "Etikett",
 		"machine": true
 	},
 	{
 		"phrase": "Tags",
-		"comment": "[Killcam] [Unit] [Plural] The amount of tags this player has, e.g. '15 Tags'",
+		"comment": "2 Tags",
 		"translation": "Stichworte",
 		"machine": true
 	},
@@ -1431,7 +1419,7 @@
 	},
 	{
 		"phrase": "Summary",
-		"comment": "[Store Checkout Popup] [Title]",
+		"comment": "A... summary. Can't think of a description for this",
 		"translation": "Zusammenfassung",
 		"machine": true
 	},
@@ -1503,7 +1491,7 @@
 	},
 	{
 		"phrase": "Blocks",
-		"comment": "How many blocks the player has",
+		"comment": "2 Blocks, i.e. 2 cubes. If this language has different suffixes for different plurals, add a new entry to this list with the phrase 'Blocks' and context 'Blocks0', 'Blocks1' etc",
 		"translation": "Blöcke",
 		"machine": true
 	},
@@ -1515,7 +1503,7 @@
 	},
 	{
 		"phrase": "Low level",
-		"comment": "Server list info",
+		"comment": "Lobbies that only low levelled players can join",
 		"translation": "Niedriges Niveau",
 		"machine": true
 	},
@@ -1527,7 +1515,7 @@
 	},
 	{
 		"phrase": "Character",
-		"comment": "A character is a humanoid figure that the player controls",
+		"comment": "1 Character, i.e. a humanoid figure that the player controls",
 		"translation": "Charakter",
 		"machine": true
 	},
@@ -1539,7 +1527,7 @@
 	},
 	{
 		"phrase": "Weapons",
-		"comment": "Maps that players can fight on",
+		"comment": "Guns that players can shoot",
 		"translation": "Waffen",
 		"machine": true
 	},
@@ -1557,7 +1545,7 @@
 	},
 	{
 		"phrase": "Save",
-		"comment": "[Killcam] [Button] Save killcam customisation changes",
+		"comment": "1 Save, i.e. when you save a friendly from being killed",
 		"translation": "Speichern",
 		"machine": true
 	},
@@ -2007,14 +1995,8 @@
 	},
 	{
 		"phrase": "Podium",
-		"comment": "Victory tab - shows the top 5 players on a podium",
+		"comment": "The top 5 players stand on a podium",
 		"translation": "Podium",
-		"machine": true
-	},
-	{
-		"phrase": "Scoreboard",
-		"comment": "Victory tab - shows a list of all players",
-		"translation": "Anzeigetafel",
 		"machine": true
 	},
 	{
@@ -2193,7 +2175,7 @@
 	},
 	{
 		"phrase": "Crouch",
-		"comment": "[Keybind]",
+		"comment": "Bend your knees and be sneaky",
 		"translation": "Hocken",
 		"machine": true
 	},
@@ -2205,7 +2187,7 @@
 	},
 	{
 		"phrase": "Sprint",
-		"comment": "[Keybind]",
+		"comment": "Run really fast",
 		"translation": "Sprint",
 		"machine": true
 	},
@@ -2253,7 +2235,7 @@
 	},
 	{
 		"phrase": "Scope",
-		"comment": "[Keybind]",
+		"comment": "Look at an enemy through the 2x scope on your gun",
 		"translation": "Umfang",
 		"machine": true
 	},
@@ -2291,60 +2273,6 @@
 		"phrase": "Structure (Toggle)",
 		"comment": "[Keybind]",
 		"translation": "Struktur (umschalten)",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 1",
-		"comment": "[Keybind]",
-		"translation": "Struktur 1",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 2",
-		"comment": "[Keybind]",
-		"translation": "Struktur 2",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 3",
-		"comment": "[Keybind]",
-		"translation": "Struktur 3",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 4",
-		"comment": "[Keybind]",
-		"translation": "Struktur 4",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 5",
-		"comment": "[Keybind]",
-		"translation": "Struktur 5",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 6",
-		"comment": "[Keybind]",
-		"translation": "Struktur 6",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 7",
-		"comment": "[Keybind]",
-		"translation": "Struktur 7",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 8",
-		"comment": "[Keybind]",
-		"translation": "Struktur 8",
-		"machine": true
-	},
-	{
-		"phrase": "Structure 9",
-		"comment": "[Keybind]",
-		"translation": "Struktur 9",
 		"machine": true
 	},
 	{
@@ -2621,14 +2549,8 @@
 	},
 	{
 		"phrase": "Region",
-		"comment": "Geographical region, i.e. Sydney, London, Chicago",
+		"comment": "Server preferences tab. This refers to geographical region",
 		"translation": "Region",
-		"machine": true
-	},
-	{
-		"phrase": "Map",
-		"comment": "Column header on the server list",
-		"translation": "Karte",
 		"machine": true
 	},
 	{
@@ -2780,7 +2702,7 @@
 	},
 	{
 		"phrase": "Type here",
-		"comment": "Text field placeholder",
+		"comment": "Default placeholder for a text field",
 		"translation": "Geben Sie hier ein",
 		"machine": true
 	},
@@ -2897,13 +2819,13 @@
 	},
 	{
 		"phrase": "Token",
-		"comment": "Character token, used to unlock a character",
+		"comment": "1 Token, i.e. a token\/coin that can be used to unlock something",
 		"translation": "Zeichen",
 		"machine": true
 	},
 	{
 		"phrase": "Tokens",
-		"comment": "A token can be used to unlock a character or skin for free",
+		"comment": "2 Tokens",
 		"translation": "Token",
 		"machine": true
 	},
@@ -3044,12 +2966,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Engineer Pack",
-		"comment": "Store pack name",
-		"translation": "Ingenieurpaket",
-		"machine": true
-	},
-	{
 		"phrase": "Supporter",
 		"comment": "A player who supports Sector's Edge financially",
 		"translation": "Fan",
@@ -3063,7 +2979,7 @@
 	},
 	{
 		"phrase": "Characters",
-		"comment": "[Transaction Log] Category title",
+		"comment": "Human and Agaman player-controlled characters",
 		"translation": "Figuren",
 		"machine": true
 	},
@@ -3075,13 +2991,13 @@
 	},
 	{
 		"phrase": "Weapon Skins",
-		"comment": "[Transaction Log] Category title",
+		"comment": "Skins (e.g. camoflague, metallic, animated) for a gun",
 		"translation": "Waffen-Skins",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshairs",
-		"comment": "[Transaction Log] Category title",
+		"comment": "Crosshairs on a gun scope",
 		"translation": "Fadenkreuze",
 		"machine": true
 	},
@@ -3105,7 +3021,7 @@
 	},
 	{
 		"phrase": "Loading",
-		"comment": "Loading data from the server",
+		"comment": "Loading data from disk or from the server",
 		"translation": "Wird geladen",
 		"machine": true
 	},
@@ -3171,7 +3087,7 @@
 	},
 	{
 		"phrase": "Ctrl",
-		"comment": "Keybind text",
+		"comment": "The ctrl\/control key on the keyboard",
 		"translation": "Strg",
 		"machine": true
 	},
@@ -3285,7 +3201,7 @@
 	},
 	{
 		"phrase": "Crosshair",
-		"comment": "[Settings Tab] Crosshair settings",
+		"comment": "A crosshair on a gun scope",
 		"translation": "Fadenkreuz",
 		"machine": true
 	},
@@ -3809,63 +3725,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Unable to redeploy while spawning",
-		"comment": "[Admin chat message]",
-		"translation": "Kann während des Laichens nicht erneut bereitgestellt werden",
-		"machine": true
-	},
-	{
-		"phrase": "You may only run commands in a custom lobby that you claimed",
-		"comment": "[Admin chat message]",
-		"translation": "Sie können nur Befehle in einer benutzerdefinierten Lobby ausführen, die Sie beansprucht haben",
-		"machine": true
-	},
-	{
-		"phrase": "Your party cannot fit on one team and may be split up",
-		"comment": "[Admin chat message]",
-		"translation": "Deine Gruppe passt nicht in ein Team und kann aufgeteilt werden",
-		"machine": true
-	},
-	{
-		"phrase": "You cannot claim this lobby as a tournament is running",
-		"comment": "[Admin chat message]",
-		"translation": "Sie können diese Lobby nicht beanspruchen, da ein Turnier läuft",
-		"machine": true
-	},
-	{
-		"phrase": "You may only claim empty lobbies",
-		"comment": "[Admin chat message]",
-		"translation": "Sie können nur leere Lobbys beanspruchen",
-		"machine": true
-	},
-	{
-		"phrase": "Max level must not be less than min level",
-		"comment": "[Admin chat message]",
-		"translation": "Max Level darf nicht kleiner sein als Min Level",
-		"machine": true
-	},
-	{
-		"phrase": "This lobby has already been claimed",
-		"comment": "[Admin chat message]",
-		"translation": "Diese Lobby wurde bereits beansprucht",
-		"machine": true
-	},
-	{
 		"phrase": "Spawn position set",
 		"comment": "[Admin chat message]",
 		"translation": "Spawn-Position eingestellt",
-		"machine": true
-	},
-	{
-		"phrase": "Creating teams. Spawn when the pre-match timer has finished",
-		"comment": "[Admin chat message]",
-		"translation": "Erstellen von Teams. spawnen, wenn der Pre-Match-Timer abgelaufen ist",
-		"machine": true
-	},
-	{
-		"phrase": "You must join a team before you can respawn",
-		"comment": "[Admin chat message]",
-		"translation": "Du musst einem Team beitreten, bevor du respawnen kannst",
 		"machine": true
 	},
 	{
@@ -3905,63 +3767,15 @@
 		"machine": true
 	},
 	{
-		"phrase": "You're meant to get along with the other mods",
-		"comment": "[Admin chat message] This shows when a mod tries to votekick another mod",
-		"translation": "Du sollst mit den anderen Mods auskommen",
-		"machine": true
-	},
-	{
 		"phrase": "A tournament is currently running",
 		"comment": "[Admin chat message]",
 		"translation": "Aktuell läuft ein Turnier",
 		"machine": true
 	},
 	{
-		"phrase": "A tournament is currently running and you are now spectating",
-		"comment": "[Admin chat message]",
-		"translation": "Ein Turnier läuft gerade und du schaust jetzt zu",
-		"machine": true
-	},
-	{
 		"phrase": "The server is full",
 		"comment": "[Admin chat message]",
 		"translation": "Der Server ist voll",
-		"machine": true
-	},
-	{
-		"phrase": "The server is full and you are now spectating",
-		"comment": "[Admin chat message]",
-		"translation": "Der Server ist voll und du schaust jetzt zu",
-		"machine": true
-	},
-	{
-		"phrase": "Your party has been disbanded due to team imbalance",
-		"comment": "[Admin chat message]",
-		"translation": "Deine Gruppe wurde aufgrund eines Ungleichgewichts im Team aufgelöst",
-		"machine": true
-	},
-	{
-		"phrase": "This server requires a system restart and will restart at the end of the round. Thank you for playing! - Verc",
-		"comment": "[Admin chat message]",
-		"translation": "Dieser Server erfordert einen Systemneustart und wird am Ende der Runde neu gestartet. danke für das Spiel! - verc",
-		"machine": true
-	},
-	{
-		"phrase": "This server will quickly patch at the end of this round. You do NOT need to update your client and you can remain in this lobby. Thank you for playing! - Verc",
-		"comment": "[Admin chat message]",
-		"translation": "Dieser Server wird am Ende dieser Runde schnell gepatcht. Sie müssen Ihren Client NICHT aktualisieren und können in dieser Lobby bleiben. danke für das Spiel! - verc",
-		"machine": true
-	},
-	{
-		"phrase": "Autobalance complete",
-		"comment": "[Admin chat message]",
-		"translation": "Autobalance abgeschlossen",
-		"machine": true
-	},
-	{
-		"phrase": "Autobalance paused",
-		"comment": "[Admin chat message]",
-		"translation": "Autobalance pausiert",
 		"machine": true
 	},
 	{
@@ -3990,20 +3804,8 @@
 	},
 	{
 		"phrase": "Bounce",
-		"comment": "[Grenade Type]",
+		"comment": "Bounce off the walls",
 		"translation": "Prallen",
-		"machine": true
-	},
-	{
-		"phrase": "High Block Damage",
-		"comment": "[Grenade Payload] Deals high block damage and low player damage",
-		"translation": "Hoher Blockschaden",
-		"machine": true
-	},
-	{
-		"phrase": "High Player Damage",
-		"comment": "[Grenade Payload] Deals high player damage and low block damage",
-		"translation": "Hoher Spielerschaden",
 		"machine": true
 	},
 	{
@@ -4097,14 +3899,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Bots",
-		"comment": "[Server Filter] e.g. don't show servers that have bots in them",
-		"translation": "Bots",
-		"machine": true
-	},
-	{
 		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "[Setting Tooltip] Peacekeeper description. Parameter 0: '20', Parameter 1: '1', Parameter 2: '-35%', Parameter 3: '+35%'",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parametes are lots of numbers",
 		"translation": "Gegner werden hervorgehoben, wenn sie Level {0} oder niedriger sind und einen KDR von {1} oder weniger haben.\n\nFüge diesen Spielern für die Dauer der Friedenssicherung {2} Schaden zu und verdiene {3} zusätzliche EP und Protonen.\n\nÄnderungen werden beim Respawn wirksam. Peacekeeper hat in allen Spielmodi keinen Effekt im kostenlosen Spiel.",
 		"machine": true
 	},
@@ -4165,7 +3961,7 @@
 	},
 	{
 		"phrase": "Waiting for players",
-		"comment": "Rich presence, waiting for players to join a server",
+		"comment": "Waiting for players to join a server",
 		"translation": "Warten auf Spieler",
 		"machine": true
 	},
@@ -4236,21 +4032,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Giving the ship a trial",
-		"comment": "Rich presence",
-		"translation": "Das Schiff testen",
-		"machine": true
-	},
-	{
 		"phrase": "Modifying their structures",
 		"comment": "Rich presence",
 		"translation": "Ändern ihrer Strukturen",
-		"machine": true
-	},
-	{
-		"phrase": "Shooting range",
-		"comment": "[Rich Presence]",
-		"translation": "Schussweite",
 		"machine": true
 	},
 	{
@@ -4269,12 +4053,6 @@
 		"phrase": "Browsing the server list",
 		"comment": "Rich presence",
 		"translation": "Durchsuchen der Serverliste",
-		"machine": true
-	},
-	{
-		"phrase": "Title screen",
-		"comment": "Rich presence",
-		"translation": "Titelbildschirm",
 		"machine": true
 	},
 	{
@@ -4308,48 +4086,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "To balance the teams, {0} has moved themselves to the weaker team and will get an extra {1} Protons at the end of the round.",
-		"comment": "[Admin chat message] Parameter 0: 'Pegarex', parameter 1: '100'",
-		"translation": "Um die Teams auszugleichen, hat sich {0} in das schwächere Team verschoben und bekommt am Ende der Runde ein zusätzliches {1}-Protonen.",
-		"machine": true
-	},
-	{
-		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers. Thank you for playing! - Verc",
-		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
-		"translation": "Dieser Server wird am Ende des Spiels auf {0} aktualisiert. Sie MÜSSEN Ihren Client über Steam aktualisieren, um wieder Servern beizutreten. danke für das Spiel! - verc",
-		"machine": true
-	},
-	{
-		"phrase": "The workshop map does not support the gamemode {0}",
-		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
-		"translation": "Die Werkstattkarte unterstützt nicht den Spielmodus {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Moved {0} [{1}] from {2} [Power: {3}] to {4} [Power: {5}]",
-		"comment": "[Admin chat message] Parameter 0: 'Fora', parameter 1: '18', parameter 2: 'Helix', parameter 3: '73', parameter 4: 'Aegis', parameter 5: '55'",
-		"translation": "{0} [{1}] von {2} [Stärke: {3}] auf {4} [Stärke: {5}. verschoben]",
-		"machine": true
-	},
-	{
-		"phrase": "In {0} seconds this server will shut down for a system update. You will have to join another server to keep playing.",
-		"comment": "[Admin chat message] Parameter 0: '30'",
-		"translation": "In {0} Sekunden wird dieser Server für ein Systemupdate heruntergefahren. Du musst einem anderen Server beitreten, um weiterspielen zu können.",
-		"machine": true
-	},
-	{
-		"phrase": "In {0} seconds this server will update to {1}. You must update your client through Steam to rejoin servers.",
-		"comment": "[Admin chat message] Parameter 0: '30', parameter 1: 'Version 1.4.0'",
-		"translation": "In {0} Sekunden wird dieser Server auf {1} aktualisiert. Sie müssen Ihren Client über Steam aktualisieren, um wieder Servern beizutreten.",
-		"machine": true
-	},
-	{
-		"phrase": "In {0} seconds this server will quickly patch for maintenance. You do NOT need to update your client and you can remain in this lobby.",
-		"comment": "[Admin chat message] Parameter 0: '30'",
-		"translation": "In {0} Sekunden wird dieser Server schnell zu Wartungszwecken gepatcht. Sie müssen Ihren Client NICHT aktualisieren und können in dieser Lobby bleiben.",
-		"machine": true
-	},
-	{
 		"phrase": "{0} has been kicked ({1} - {2})",
 		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
 		"translation": "{0} wurde gekickt ({1} - {2})",
@@ -4362,87 +4098,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Autobalancing in {0} seconds",
-		"comment": "[Admin chat message] Parameter 0: '30'",
-		"translation": "Autobalancing in {0} Sekunden",
-		"machine": true
-	},
-	{
-		"phrase": "Autobalancing now. The next player on {0} to die will be autobalanced.",
-		"comment": "[Admin chat message] Parameter 0: 'Aegis'",
-		"translation": "Jetzt automatisch abgleichen. der nächste Spieler auf {0}, der stirbt, wird automatisch ausgeglichen.",
-		"machine": true
-	},
-	{
 		"phrase": "The map is restoring. Try again in {0} seconds",
 		"comment": "Reason for being disconnected from a server. Parameter 0: '10'",
 		"translation": "Die Karte wird wiederhergestellt. versuche es in {0} Sekunden noch einmal",
-		"machine": true
-	},
-	{
-		"phrase": "You can only claim {0} lobbies per day",
-		"comment": "Reason for being disconnected from a server. Parameter 0: '3'",
-		"translation": "Sie können nur {0}-Lobbys pro Tag beanspruchen",
-		"machine": true
-	},
-	{
-		"phrase": "{0} blocks safe fall distance\n{1} fall damage",
-		"comment": "Armour modification description. Parameter 0: '+3', parameter 1: '-15%'",
-		"translation": "{0} blockiert die sichere Fallstrecke\n{1} Sturzschaden",
-		"machine": true
-	},
-	{
-		"phrase": "{0} self explosion knockback\n{1} self explosion damage",
-		"comment": "Armour modification description. Parameter 0: '+400%', parameter 1: '-10%'",
-		"translation": "{0} Selbstexplosionsrückschlag\n{1} Selbstexplosionsschaden",
-		"machine": true
-	},
-	{
-		"phrase": "{0} health regeneration speed",
-		"comment": "Armour modification description. Parameter 0: '+20%'",
-		"translation": "{0} Gesundheitsregenerationsgeschwindigkeit",
-		"machine": true
-	},
-	{
-		"phrase": "{0} movement speed",
-		"comment": "Armour modification description. Parameter 0: '+5%'",
-		"translation": "{0} Bewegungsgeschwindigkeit",
-		"machine": true
-	},
-	{
-		"phrase": "{0} build and dig volume\n{1} footstep volume\n{2} footstep distance",
-		"comment": "Armour modification description. Parameter 0: '-40%', parameter 1: '-15%', parameter 2: '-25%'",
-		"translation": "{0} Bau- und Grabvolumen\n{1} Schrittlautstärke\n{2} Schrittweite",
-		"machine": true
-	},
-	{
-		"phrase": "{0} dig speed",
-		"comment": "Armour modification description. Parameter 0: '+10%'",
-		"translation": "{0} Grabgeschwindigkeit",
-		"machine": true
-	},
-	{
-		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} equipment ammo on every ammo pickup",
-		"comment": "Armour modification description. Parameter 0: '+20%', parameter 1: '2', parameter 2: '+1'",
-		"translation": "{0} Grabgeschwindigkeit\nErhalte {1} Blöcke pro gegrabenem Block\n{2} Ausrüstungsmunition auf jeder Munitionsaufnahme",
-		"machine": true
-	},
-	{
-		"phrase": "{0} blocks safe fall distance\n{1} fall damage\n{2} block jump height",
-		"comment": "Armour modification description. Parameter 0: '+9', parameter 1: '-45%', parameter 2: '+1'",
-		"translation": "{0} blockiert die sichere Fallstrecke\n{1} Sturzschaden\n{2} Blocksprunghöhe",
-		"machine": true
-	},
-	{
-		"phrase": "{0} self explosion knockback\n{1}self explosion damage",
-		"comment": "Armour modification description. Parameter 0: '+500%', parameter 1: '-30%'",
-		"translation": "{0} Selbstexplosionsrückschlag\n{1}Selbstexplosionsschaden",
-		"machine": true
-	},
-	{
-		"phrase": "{0} dig speed\nGain {1} blocks per block dug\n{2} health per ammo pickup",
-		"comment": "Armour modification description. Parameter 0: '+30%', parameter 1: '3', parameter 2: '+10%'",
-		"translation": "{0} Grabgeschwindigkeit\nErhalte {1} Blöcke pro gegrabenem Block\n{2} Gesundheit pro Munitionsaufnahme",
 		"machine": true
 	},
 	{
@@ -4489,7 +4147,7 @@
 	},
 	{
 		"phrase": "Waypoints",
-		"comment": "[Spectate UI] [Unit] The full phrase is: 'Waypoints: 3 \/ 24'",
+		"comment": "2 Waypoints",
 		"translation": "Wegpunkte",
 		"machine": true
 	},
@@ -4515,3100 +4173,14 @@
 	},
 	{
 		"phrase": "Base Metal",
-		"comment": "Block skin name",
+		"comment": "Default metal texture",
 		"translation": "Unedles Metall",
 		"machine": true
 	},
 	{
-		"phrase": "Agaman Reactive",
-		"comment": "Block skin name. Don't translate 'Agaman'",
-		"translation": "Agaman-reaktiv",
-		"machine": true
-	},
-	{
 		"phrase": "Human Reactive",
-		"comment": "Block skin name",
+		"comment": "A Human-themed reactive block skin that ripples when shot",
 		"translation": "Mensch reaktiv",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block0",
-		"comment": "[Unit] [Plural] 0 Blocks. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block1",
-		"comment": "[Unit] [Plural] 1 Block",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block2",
-		"comment": "[Unit] [Plural] 2 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block3",
-		"comment": "[Unit] [Plural] 3 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block4",
-		"comment": "[Unit] [Plural] 4 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block5",
-		"comment": "[Unit] [Plural] 5 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block6",
-		"comment": "[Unit] [Plural] 6 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block7",
-		"comment": "[Unit] [Plural] 7 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block8",
-		"comment": "[Unit] [Plural] 8 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block9",
-		"comment": "[Unit] [Plural] 9 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block10",
-		"comment": "[Unit] [Plural] 10 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block11",
-		"comment": "[Unit] [Plural] 11 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block12",
-		"comment": "[Unit] [Plural] 12 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block13",
-		"comment": "[Unit] [Plural] 13 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block14",
-		"comment": "[Unit] [Plural] 14 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block15",
-		"comment": "[Unit] [Plural] 15 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block16",
-		"comment": "[Unit] [Plural] 16 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block17",
-		"comment": "[Unit] [Plural] 17 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block18",
-		"comment": "[Unit] [Plural] 18 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Block19",
-		"comment": "[Unit] [Plural] 19 Blocks",
-		"translation": "Block",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second0",
-		"comment": "[Plural] 0 Seconds. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second1",
-		"comment": "[Plural] 1 Second",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second2",
-		"comment": "[Plural] 2 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second3",
-		"comment": "[Plural] 3 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second4",
-		"comment": "[Plural] 4 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second5",
-		"comment": "[Plural] 5 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second6",
-		"comment": "[Plural] 6 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second7",
-		"comment": "[Plural] 7 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second8",
-		"comment": "[Plural] 8 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second9",
-		"comment": "[Plural] 9 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second10",
-		"comment": "[Plural] 10 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second11",
-		"comment": "[Plural] 11 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second12",
-		"comment": "[Plural] 12 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second13",
-		"comment": "[Plural] 13 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second14",
-		"comment": "[Plural] 14 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second15",
-		"comment": "[Plural] 15 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second16",
-		"comment": "[Plural] 16 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second17",
-		"comment": "[Plural] 17 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second18",
-		"comment": "[Plural] 18 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Second",
-		"context": "Second19",
-		"comment": "[Plural] 19 Seconds",
-		"translation": "Sekunde",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute0",
-		"comment": "[Plural] 0 Minutes. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute1",
-		"comment": "[Plural] 1 Minute",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute2",
-		"comment": "[Plural] 2 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute3",
-		"comment": "[Plural] 3 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute4",
-		"comment": "[Plural] 4 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute5",
-		"comment": "[Plural] 5 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute6",
-		"comment": "[Plural] 6 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute7",
-		"comment": "[Plural] 7 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute8",
-		"comment": "[Plural] 8 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute9",
-		"comment": "[Plural] 9 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute10",
-		"comment": "[Plural] 10 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute11",
-		"comment": "[Plural] 11 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute12",
-		"comment": "[Plural] 12 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute13",
-		"comment": "[Plural] 13 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute14",
-		"comment": "[Plural] 14 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute15",
-		"comment": "[Plural] 15 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute16",
-		"comment": "[Plural] 16 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute17",
-		"comment": "[Plural] 17 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute18",
-		"comment": "[Plural] 18 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Minute",
-		"context": "Minute19",
-		"comment": "[Plural] 19 Minutes",
-		"translation": "Minute",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour0",
-		"comment": "[Plural] 0 Hours. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour1",
-		"comment": "[Plural] 1 Hour",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour2",
-		"comment": "[Plural] 2 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour3",
-		"comment": "[Plural] 3 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour4",
-		"comment": "[Plural] 4 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour5",
-		"comment": "[Plural] 5 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour6",
-		"comment": "[Plural] 6 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour7",
-		"comment": "[Plural] 7 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour8",
-		"comment": "[Plural] 8 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour9",
-		"comment": "[Plural] 9 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour10",
-		"comment": "[Plural] 10 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour11",
-		"comment": "[Plural] 11 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour12",
-		"comment": "[Plural] 12 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour13",
-		"comment": "[Plural] 13 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour14",
-		"comment": "[Plural] 14 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour15",
-		"comment": "[Plural] 15 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour16",
-		"comment": "[Plural] 16 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour17",
-		"comment": "[Plural] 17 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour18",
-		"comment": "[Plural] 18 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Hour",
-		"context": "Hour19",
-		"comment": "[Plural] 19 Hours",
-		"translation": "Stunde",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day0",
-		"comment": "[Plural] 0 Days. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day1",
-		"comment": "[Plural] 1 Day",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day2",
-		"comment": "[Plural] 2 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day3",
-		"comment": "[Plural] 3 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day4",
-		"comment": "[Plural] 4 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day5",
-		"comment": "[Plural] 5 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day6",
-		"comment": "[Plural] 6 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day7",
-		"comment": "[Plural] 7 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day8",
-		"comment": "[Plural] 8 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day9",
-		"comment": "[Plural] 9 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day10",
-		"comment": "[Plural] 10 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day11",
-		"comment": "[Plural] 11 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day12",
-		"comment": "[Plural] 12 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day13",
-		"comment": "[Plural] 13 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day14",
-		"comment": "[Plural] 14 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day15",
-		"comment": "[Plural] 15 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day16",
-		"comment": "[Plural] 16 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day17",
-		"comment": "[Plural] 17 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day18",
-		"comment": "[Plural] 18 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Day",
-		"context": "Day19",
-		"comment": "[Plural] 19 Days",
-		"translation": "Tag",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week0",
-		"comment": "[Plural] 0 Weeks. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week1",
-		"comment": "[Plural] 1 Week",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week2",
-		"comment": "[Plural] 2 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week3",
-		"comment": "[Plural] 3 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week4",
-		"comment": "[Plural] 4 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week5",
-		"comment": "[Plural] 5 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week6",
-		"comment": "[Plural] 6 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week7",
-		"comment": "[Plural] 7 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week8",
-		"comment": "[Plural] 8 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week9",
-		"comment": "[Plural] 9 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week10",
-		"comment": "[Plural] 10 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week11",
-		"comment": "[Plural] 11 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week12",
-		"comment": "[Plural] 12 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week13",
-		"comment": "[Plural] 13 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week14",
-		"comment": "[Plural] 14 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week15",
-		"comment": "[Plural] 15 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week16",
-		"comment": "[Plural] 16 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week17",
-		"comment": "[Plural] 17 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week18",
-		"comment": "[Plural] 18 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Week",
-		"context": "Week19",
-		"comment": "[Plural] 19 Weeks",
-		"translation": "Woche",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month0",
-		"comment": "[Plural] 0 Months. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month1",
-		"comment": "[Plural] 1 Month",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month2",
-		"comment": "[Plural] 2 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month3",
-		"comment": "[Plural] 3 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month4",
-		"comment": "[Plural] 4 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month5",
-		"comment": "[Plural] 5 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month6",
-		"comment": "[Plural] 6 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month7",
-		"comment": "[Plural] 7 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month8",
-		"comment": "[Plural] 8 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month9",
-		"comment": "[Plural] 9 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month10",
-		"comment": "[Plural] 10 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month11",
-		"comment": "[Plural] 11 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month12",
-		"comment": "[Plural] 12 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month13",
-		"comment": "[Plural] 13 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month14",
-		"comment": "[Plural] 14 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month15",
-		"comment": "[Plural] 15 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month16",
-		"comment": "[Plural] 16 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month17",
-		"comment": "[Plural] 17 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month18",
-		"comment": "[Plural] 18 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Month",
-		"context": "Month19",
-		"comment": "[Plural] 19 Months",
-		"translation": "Monat",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year0",
-		"comment": "[Plural] 0 Years. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year1",
-		"comment": "[Plural] 1 Year",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year2",
-		"comment": "[Plural] 2 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year3",
-		"comment": "[Plural] 3 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year4",
-		"comment": "[Plural] 4 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year5",
-		"comment": "[Plural] 5 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year6",
-		"comment": "[Plural] 6 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year7",
-		"comment": "[Plural] 7 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year8",
-		"comment": "[Plural] 8 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year9",
-		"comment": "[Plural] 9 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year10",
-		"comment": "[Plural] 10 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year11",
-		"comment": "[Plural] 11 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year12",
-		"comment": "[Plural] 12 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year13",
-		"comment": "[Plural] 13 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year14",
-		"comment": "[Plural] 14 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year15",
-		"comment": "[Plural] 15 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year16",
-		"comment": "[Plural] 16 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year17",
-		"comment": "[Plural] 17 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year18",
-		"comment": "[Plural] 18 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Year",
-		"context": "Year19",
-		"comment": "[Plural] 19 Years",
-		"translation": "Jahr",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint0",
-		"comment": "[Plural] 0 Waypoints. A waypoint is like a point in a path that consists of multiple segments. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint1",
-		"comment": "[Plural] 1 Waypoint",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint2",
-		"comment": "[Plural] 2 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint3",
-		"comment": "[Plural] 3 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint4",
-		"comment": "[Plural] 4 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint5",
-		"comment": "[Plural] 5 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint6",
-		"comment": "[Plural] 6 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint7",
-		"comment": "[Plural] 7 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint8",
-		"comment": "[Plural] 8 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint9",
-		"comment": "[Plural] 9 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint10",
-		"comment": "[Plural] 10 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint11",
-		"comment": "[Plural] 11 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint12",
-		"comment": "[Plural] 12 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint13",
-		"comment": "[Plural] 13 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint14",
-		"comment": "[Plural] 14 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint15",
-		"comment": "[Plural] 15 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint16",
-		"comment": "[Plural] 16 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint17",
-		"comment": "[Plural] 17 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint18",
-		"comment": "[Plural] 18 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Waypoint",
-		"context": "Waypoint19",
-		"comment": "[Plural] 19 Waypoints",
-		"translation": "Wegpunkt",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot0",
-		"comment": "[Plural] 0 Slots. A slot here refers to an equipment slot. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot1",
-		"comment": "[Plural] 1 Slot",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot2",
-		"comment": "[Plural] 2 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot3",
-		"comment": "[Plural] 3 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot4",
-		"comment": "[Plural] 4 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot5",
-		"comment": "[Plural] 5 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot6",
-		"comment": "[Plural] 6 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot7",
-		"comment": "[Plural] 7 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot8",
-		"comment": "[Plural] 8 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot9",
-		"comment": "[Plural] 9 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot10",
-		"comment": "[Plural] 10 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot11",
-		"comment": "[Plural] 11 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot12",
-		"comment": "[Plural] 12 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot13",
-		"comment": "[Plural] 13 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot14",
-		"comment": "[Plural] 14 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot15",
-		"comment": "[Plural] 15 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot16",
-		"comment": "[Plural] 16 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot17",
-		"comment": "[Plural] 17 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot18",
-		"comment": "[Plural] 18 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Slot",
-		"context": "Slot19",
-		"comment": "[Plural] 19 Slots",
-		"translation": "Slot",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag0",
-		"comment": "[Plural] 0 Tags. A tag here refers to a killcam tag. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag1",
-		"comment": "[Plural] 1 Tag",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag2",
-		"comment": "[Plural] 2 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag3",
-		"comment": "[Plural] 3 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag4",
-		"comment": "[Plural] 4 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag5",
-		"comment": "[Plural] 5 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag6",
-		"comment": "[Plural] 6 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag7",
-		"comment": "[Plural] 7 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag8",
-		"comment": "[Plural] 8 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag9",
-		"comment": "[Plural] 9 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag10",
-		"comment": "[Plural] 10 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag11",
-		"comment": "[Plural] 11 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag12",
-		"comment": "[Plural] 12 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag13",
-		"comment": "[Plural] 13 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag14",
-		"comment": "[Plural] 14 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag15",
-		"comment": "[Plural] 15 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag16",
-		"comment": "[Plural] 16 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag17",
-		"comment": "[Plural] 17 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag18",
-		"comment": "[Plural] 18 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Tag",
-		"context": "Tag19",
-		"comment": "[Plural] 19 Tags",
-		"translation": "Schild",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet0",
-		"comment": "[Plural] 0 Pellets. A pellet here refers to a tiny metal ball propelled by a shotgun blast. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet1",
-		"comment": "[Plural] 1 Pellet",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet2",
-		"comment": "[Plural] 2 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet3",
-		"comment": "[Plural] 3 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet4",
-		"comment": "[Plural] 4 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet5",
-		"comment": "[Plural] 5 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet6",
-		"comment": "[Plural] 6 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet7",
-		"comment": "[Plural] 7 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet8",
-		"comment": "[Plural] 8 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet9",
-		"comment": "[Plural] 9 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet10",
-		"comment": "[Plural] 10 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet11",
-		"comment": "[Plural] 11 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet12",
-		"comment": "[Plural] 12 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet13",
-		"comment": "[Plural] 13 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet14",
-		"comment": "[Plural] 14 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet15",
-		"comment": "[Plural] 15 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet16",
-		"comment": "[Plural] 16 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet17",
-		"comment": "[Plural] 17 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet18",
-		"comment": "[Plural] 18 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Pellet",
-		"context": "Pellet19",
-		"comment": "[Plural] 19 Pellets",
-		"translation": "Pellet",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery0",
-		"comment": "[Plural] 0 Deliveries. A delivery here refers to delivering a bomb to a location in the Escort gamemode. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery1",
-		"comment": "[Plural] 1 Delivery",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery2",
-		"comment": "[Plural] 2 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery3",
-		"comment": "[Plural] 3 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery4",
-		"comment": "[Plural] 4 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery5",
-		"comment": "[Plural] 5 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery6",
-		"comment": "[Plural] 6 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery7",
-		"comment": "[Plural] 7 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery8",
-		"comment": "[Plural] 8 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery9",
-		"comment": "[Plural] 9 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery10",
-		"comment": "[Plural] 10 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery11",
-		"comment": "[Plural] 11 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery12",
-		"comment": "[Plural] 12 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery13",
-		"comment": "[Plural] 13 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery14",
-		"comment": "[Plural] 14 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery15",
-		"comment": "[Plural] 15 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery16",
-		"comment": "[Plural] 16 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery17",
-		"comment": "[Plural] 17 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery18",
-		"comment": "[Plural] 18 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Delivery",
-		"context": "Delivery19",
-		"comment": "[Plural] 19 Deliveries",
-		"translation": "Lieferung",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist0",
-		"comment": "[Plural] 0 Assists. This refers to when you deal damage to an enemy, and then a friendly kills the enemy. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist1",
-		"comment": "[Plural] 1 Assist",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist2",
-		"comment": "[Plural] 2 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist3",
-		"comment": "[Plural] 3 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist4",
-		"comment": "[Plural] 4 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist5",
-		"comment": "[Plural] 5 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist6",
-		"comment": "[Plural] 6 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist7",
-		"comment": "[Plural] 7 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist8",
-		"comment": "[Plural] 8 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist9",
-		"comment": "[Plural] 9 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist10",
-		"comment": "[Plural] 10 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist11",
-		"comment": "[Plural] 11 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist12",
-		"comment": "[Plural] 12 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist13",
-		"comment": "[Plural] 13 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist14",
-		"comment": "[Plural] 14 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist15",
-		"comment": "[Plural] 15 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist16",
-		"comment": "[Plural] 16 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist17",
-		"comment": "[Plural] 17 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist18",
-		"comment": "[Plural] 18 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Assist",
-		"context": "Assist19",
-		"comment": "[Plural] 19 Assists",
-		"translation": "Helfen",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist0",
-		"comment": "[Plural] 0 Spot assists. This refers to when you mark the location of an enemy, and then a friendly kills the enemy. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist1",
-		"comment": "[Plural] 1 Spot assist",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist2",
-		"comment": "[Plural] 2 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist3",
-		"comment": "[Plural] 3 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist4",
-		"comment": "[Plural] 4 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist5",
-		"comment": "[Plural] 5 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist6",
-		"comment": "[Plural] 6 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist7",
-		"comment": "[Plural] 7 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist8",
-		"comment": "[Plural] 8 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist9",
-		"comment": "[Plural] 9 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist10",
-		"comment": "[Plural] 10 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist11",
-		"comment": "[Plural] 11 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist12",
-		"comment": "[Plural] 12 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist13",
-		"comment": "[Plural] 13 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist14",
-		"comment": "[Plural] 14 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist15",
-		"comment": "[Plural] 15 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist16",
-		"comment": "[Plural] 16 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist17",
-		"comment": "[Plural] 17 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist18",
-		"comment": "[Plural] 18 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Spot assist",
-		"context": "Spot assist19",
-		"comment": "[Plural] 19 Spot assists",
-		"translation": "Spot-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist0",
-		"comment": "[Plural] 0 Scanner assists. This refers to when you place a Scanner that reveals the location of an enemy, and then a friendly kills that enemy. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist1",
-		"comment": "[Plural] 1 Scanner assist",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist2",
-		"comment": "[Plural] 2 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist3",
-		"comment": "[Plural] 3 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist4",
-		"comment": "[Plural] 4 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist5",
-		"comment": "[Plural] 5 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist6",
-		"comment": "[Plural] 6 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist7",
-		"comment": "[Plural] 7 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist8",
-		"comment": "[Plural] 8 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist9",
-		"comment": "[Plural] 9 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist10",
-		"comment": "[Plural] 10 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist11",
-		"comment": "[Plural] 11 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist12",
-		"comment": "[Plural] 12 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist13",
-		"comment": "[Plural] 13 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist14",
-		"comment": "[Plural] 14 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist15",
-		"comment": "[Plural] 15 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist16",
-		"comment": "[Plural] 16 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist17",
-		"comment": "[Plural] 17 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist18",
-		"comment": "[Plural] 18 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Scanner assist",
-		"context": "Scanner assist19",
-		"comment": "[Plural] 19 Scanner assists",
-		"translation": "Scanner-Assistent",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save0",
-		"comment": "[Plural] 0 Saves. This refers to when you save a friendly from being killed. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save1",
-		"comment": "[Plural] 1 Save",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save2",
-		"comment": "[Plural] 2 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save3",
-		"comment": "[Plural] 3 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save4",
-		"comment": "[Plural] 4 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save5",
-		"comment": "[Plural] 5 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save6",
-		"comment": "[Plural] 6 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save7",
-		"comment": "[Plural] 7 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save8",
-		"comment": "[Plural] 8 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save9",
-		"comment": "[Plural] 9 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save10",
-		"comment": "[Plural] 10 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save11",
-		"comment": "[Plural] 11 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save12",
-		"comment": "[Plural] 12 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save13",
-		"comment": "[Plural] 13 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save14",
-		"comment": "[Plural] 14 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save15",
-		"comment": "[Plural] 15 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save16",
-		"comment": "[Plural] 16 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save17",
-		"comment": "[Plural] 17 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save18",
-		"comment": "[Plural] 18 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Save",
-		"context": "Save19",
-		"comment": "[Plural] 19 Saves",
-		"translation": "Speichern",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge0",
-		"comment": "[Plural] 0 Avenges. This refers to when you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge1",
-		"comment": "[Plural] 1 Avenge",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge2",
-		"comment": "[Plural] 2 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge3",
-		"comment": "[Plural] 3 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge4",
-		"comment": "[Plural] 4 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge5",
-		"comment": "[Plural] 5 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge6",
-		"comment": "[Plural] 6 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge7",
-		"comment": "[Plural] 7 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge8",
-		"comment": "[Plural] 8 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge9",
-		"comment": "[Plural] 9 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge10",
-		"comment": "[Plural] 10 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge11",
-		"comment": "[Plural] 11 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge12",
-		"comment": "[Plural] 12 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge13",
-		"comment": "[Plural] 13 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge14",
-		"comment": "[Plural] 14 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge15",
-		"comment": "[Plural] 15 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge16",
-		"comment": "[Plural] 16 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge17",
-		"comment": "[Plural] 17 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge18",
-		"comment": "[Plural] 18 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Avenge",
-		"context": "Avenge19",
-		"comment": "[Plural] 19 Avenges",
-		"translation": "Rächen",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light0",
-		"comment": "[Plural] 0 Lights. This refers to the amount of lights that are rendered. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light1",
-		"comment": "[Plural] 1 Light",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light2",
-		"comment": "[Plural] 2 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light3",
-		"comment": "[Plural] 3 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light4",
-		"comment": "[Plural] 4 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light5",
-		"comment": "[Plural] 5 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light6",
-		"comment": "[Plural] 6 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light7",
-		"comment": "[Plural] 7 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light8",
-		"comment": "[Plural] 8 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light9",
-		"comment": "[Plural] 9 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light10",
-		"comment": "[Plural] 10 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light11",
-		"comment": "[Plural] 11 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light12",
-		"comment": "[Plural] 12 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light13",
-		"comment": "[Plural] 13 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light14",
-		"comment": "[Plural] 14 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light15",
-		"comment": "[Plural] 15 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light16",
-		"comment": "[Plural] 16 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light17",
-		"comment": "[Plural] 17 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light18",
-		"comment": "[Plural] 18 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Light",
-		"context": "Light19",
-		"comment": "[Plural] 19 Lights",
-		"translation": "Hell",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk0",
-		"comment": "[Plural] 0 Chunks. A chunk is a group of 32x32x32 blocks. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk1",
-		"comment": "[Plural] 1 Chunk",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk2",
-		"comment": "[Plural] 2 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk3",
-		"comment": "[Plural] 3 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk4",
-		"comment": "[Plural] 4 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk5",
-		"comment": "[Plural] 5 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk6",
-		"comment": "[Plural] 6 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk7",
-		"comment": "[Plural] 7 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk8",
-		"comment": "[Plural] 8 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk9",
-		"comment": "[Plural] 9 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk10",
-		"comment": "[Plural] 10 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk11",
-		"comment": "[Plural] 11 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk12",
-		"comment": "[Plural] 12 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk13",
-		"comment": "[Plural] 13 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk14",
-		"comment": "[Plural] 14 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk15",
-		"comment": "[Plural] 15 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk16",
-		"comment": "[Plural] 16 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk17",
-		"comment": "[Plural] 17 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk18",
-		"comment": "[Plural] 18 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Chunk",
-		"context": "Chunk19",
-		"comment": "[Plural] 19 Chunks",
-		"translation": "Brocken",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample0",
-		"comment": "[Plural] 0 Samples. A sample here refers to a shader sample, where more samples means a higher quality shader image. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample1",
-		"comment": "[Plural] 1 Sample",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample2",
-		"comment": "[Plural] 2 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample3",
-		"comment": "[Plural] 3 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample4",
-		"comment": "[Plural] 4 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample5",
-		"comment": "[Plural] 5 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample6",
-		"comment": "[Plural] 6 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample7",
-		"comment": "[Plural] 7 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample8",
-		"comment": "[Plural] 8 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample9",
-		"comment": "[Plural] 9 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample10",
-		"comment": "[Plural] 10 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample11",
-		"comment": "[Plural] 11 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample12",
-		"comment": "[Plural] 12 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample13",
-		"comment": "[Plural] 13 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample14",
-		"comment": "[Plural] 14 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample15",
-		"comment": "[Plural] 15 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample16",
-		"comment": "[Plural] 16 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample17",
-		"comment": "[Plural] 17 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample18",
-		"comment": "[Plural] 18 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Sample",
-		"context": "Sample19",
-		"comment": "[Plural] 19 Samples",
-		"translation": "Stichprobe",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree0",
-		"comment": "[Plural] 0 Degrees. The mathematical unit used to measure angles. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree1",
-		"comment": "[Plural] 1 Degree",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree2",
-		"comment": "[Plural] 2 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree3",
-		"comment": "[Plural] 3 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree4",
-		"comment": "[Plural] 4 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree5",
-		"comment": "[Plural] 5 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree6",
-		"comment": "[Plural] 6 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree7",
-		"comment": "[Plural] 7 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree8",
-		"comment": "[Plural] 8 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree9",
-		"comment": "[Plural] 9 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree10",
-		"comment": "[Plural] 10 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree11",
-		"comment": "[Plural] 11 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree12",
-		"comment": "[Plural] 12 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree13",
-		"comment": "[Plural] 13 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree14",
-		"comment": "[Plural] 14 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree15",
-		"comment": "[Plural] 15 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree16",
-		"comment": "[Plural] 16 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree17",
-		"comment": "[Plural] 17 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree18",
-		"comment": "[Plural] 18 Degrees",
-		"translation": "Grad",
-		"machine": true
-	},
-	{
-		"phrase": "Degree",
-		"context": "Degree19",
-		"comment": "[Plural] 19 Degrees",
-		"translation": "Grad",
 		"machine": true
 	},
 	{
@@ -7624,568 +4196,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Use",
-		"context": "Use0",
-		"comment": "[Plural] 0 Uses. The amount of times an object was used. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use1",
-		"comment": "[Plural] 1 Use",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use2",
-		"comment": "[Plural] 2 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use3",
-		"comment": "[Plural] 3 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use4",
-		"comment": "[Plural] 4 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use5",
-		"comment": "[Plural] 5 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use6",
-		"comment": "[Plural] 6 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use7",
-		"comment": "[Plural] 7 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use8",
-		"comment": "[Plural] 8 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use9",
-		"comment": "[Plural] 9 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use10",
-		"comment": "[Plural] 10 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use11",
-		"comment": "[Plural] 11 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use12",
-		"comment": "[Plural] 12 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use13",
-		"comment": "[Plural] 13 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use14",
-		"comment": "[Plural] 14 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use15",
-		"comment": "[Plural] 15 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use16",
-		"comment": "[Plural] 16 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use17",
-		"comment": "[Plural] 17 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use18",
-		"comment": "[Plural] 18 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Use",
-		"context": "Use19",
-		"comment": "[Plural] 19 Uses",
-		"translation": "Verwenden",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot0",
-		"comment": "[Plural] 0 Shots. The amount of times a gun was fired. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot1",
-		"comment": "[Plural] 1 Shot",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot2",
-		"comment": "[Plural] 2 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot3",
-		"comment": "[Plural] 3 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot4",
-		"comment": "[Plural] 4 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot5",
-		"comment": "[Plural] 5 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot6",
-		"comment": "[Plural] 6 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot7",
-		"comment": "[Plural] 7 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot8",
-		"comment": "[Plural] 8 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot9",
-		"comment": "[Plural] 9 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot10",
-		"comment": "[Plural] 10 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot11",
-		"comment": "[Plural] 11 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot12",
-		"comment": "[Plural] 12 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot13",
-		"comment": "[Plural] 13 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot14",
-		"comment": "[Plural] 14 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot15",
-		"comment": "[Plural] 15 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot16",
-		"comment": "[Plural] 16 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot17",
-		"comment": "[Plural] 17 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot18",
-		"comment": "[Plural] 18 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Shot",
-		"context": "Shot19",
-		"comment": "[Plural] 19 Shots",
-		"translation": "Schuss",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing0",
-		"comment": "[Plural] 0 Swings. The amount of times a player used their melee. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing1",
-		"comment": "[Plural] 1 Swing",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing2",
-		"comment": "[Plural] 2 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing3",
-		"comment": "[Plural] 3 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing4",
-		"comment": "[Plural] 4 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing5",
-		"comment": "[Plural] 5 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing6",
-		"comment": "[Plural] 6 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing7",
-		"comment": "[Plural] 7 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing8",
-		"comment": "[Plural] 8 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing9",
-		"comment": "[Plural] 9 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing10",
-		"comment": "[Plural] 10 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing11",
-		"comment": "[Plural] 11 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing12",
-		"comment": "[Plural] 12 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing13",
-		"comment": "[Plural] 13 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing14",
-		"comment": "[Plural] 14 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing15",
-		"comment": "[Plural] 15 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing16",
-		"comment": "[Plural] 16 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing17",
-		"comment": "[Plural] 17 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing18",
-		"comment": "[Plural] 18 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Swing",
-		"context": "Swing19",
-		"comment": "[Plural] 19 Swings",
-		"translation": "Schwingen",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw0",
-		"comment": "[Plural] 0 Throws. The amount of times a player threw a C4 or disruptor. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw1",
-		"comment": "[Plural] 1 Throw",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw2",
-		"comment": "[Plural] 2 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw3",
-		"comment": "[Plural] 3 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw4",
-		"comment": "[Plural] 4 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw5",
-		"comment": "[Plural] 5 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw6",
-		"comment": "[Plural] 6 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw7",
-		"comment": "[Plural] 7 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw8",
-		"comment": "[Plural] 8 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw9",
-		"comment": "[Plural] 9 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw10",
-		"comment": "[Plural] 10 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw11",
-		"comment": "[Plural] 11 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw12",
-		"comment": "[Plural] 12 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw13",
-		"comment": "[Plural] 13 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw14",
-		"comment": "[Plural] 14 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw15",
-		"comment": "[Plural] 15 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw16",
-		"comment": "[Plural] 16 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw17",
-		"comment": "[Plural] 17 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw18",
-		"comment": "[Plural] 18 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
-		"phrase": "Throw",
-		"context": "Throw19",
-		"comment": "[Plural] 19 Throws",
-		"translation": "Wurf",
-		"machine": true
-	},
-	{
 		"phrase": "Mute",
-		"comment": "Mute a Helix player in voice chat so you don't have to listen to them",
+		"comment": "Mute a Helix player in voice chat so you don't have to listen to them talking about conquering the galaxy for the 8th time",
 		"translation": "Stumm",
 		"machine": true
 	},
@@ -8197,92 +4209,50 @@
 	},
 	{
 		"phrase": "Alt",
-		"comment": "Keybind text",
+		"comment": "The alt on the keyboard",
 		"translation": "Alt",
 		"machine": true
 	},
 	{
 		"phrase": "Shift",
-		"comment": "Keybind text",
+		"comment": "The alt on the keyboard",
 		"translation": "Wechsel",
 		"machine": true
 	},
 	{
 		"phrase": "Mouse",
-		"comment": "Keybind text",
+		"comment": "Mouse and keyboard",
 		"translation": "Maus",
 		"machine": true
 	},
 	{
 		"phrase": "Mouse wheel up",
-		"comment": "Keybind text",
+		"comment": "Keybind that fires when scrolling the mouse wheel up",
 		"translation": "Mausrad nach oben",
 		"machine": true
 	},
 	{
-		"phrase": "Mouse wheel down",
-		"comment": "Keybind text",
-		"translation": "Mausrad nach unten",
-		"machine": true
-	},
-	{
-		"phrase": "Space",
-		"comment": "Keybind text",
-		"translation": "Platz",
-		"machine": true
-	},
-	{
 		"phrase": "Enter",
-		"comment": "Keybind text",
+		"comment": "The enter key on the keyboard",
 		"translation": "Eintreten",
 		"machine": true
 	},
 	{
-		"phrase": "Caps",
-		"comment": "Keybind text",
-		"translation": "Kappen",
-		"machine": true
-	},
-	{
 		"phrase": "Backspace",
-		"comment": "Keybind text",
+		"comment": "The backspace key on the keyboard",
 		"translation": "Rücktaste",
 		"machine": true
 	},
 	{
 		"phrase": "Escape",
-		"comment": "Keybind text",
+		"comment": "The escape key on the keyboard",
 		"translation": "Flucht",
 		"machine": true
 	},
 	{
 		"phrase": "Tab",
-		"comment": "Keybind text",
+		"comment": "The tab key on the keyboard",
 		"translation": "Tab",
-		"machine": true
-	},
-	{
-		"phrase": "Up Arrow",
-		"comment": "Keybind text",
-		"translation": "Aufwärtspfeil",
-		"machine": true
-	},
-	{
-		"phrase": "Down Arrow",
-		"comment": "Keybind text",
-		"translation": "Pfeil nach unten",
-		"machine": true
-	},
-	{
-		"phrase": "Left Arrow",
-		"comment": "Keybind text",
-		"translation": "Linker Pfeil",
-		"machine": true
-	},
-	{
-		"phrase": "Right Arrow",
-		"comment": "Keybind text",
-		"translation": "Rechter Pfeil",
 		"machine": true
 	},
 	{
@@ -8313,12 +4283,6 @@
 		"phrase": "Swap teams",
 		"comment": "Swap from Helix to Aegis. A smart choice",
 		"translation": "Teams tauschen",
-		"machine": true
-	},
-	{
-		"phrase": "Autobalancing in {0} seconds. [{1} Power: {2}] [{3} Power: {4}]",
-		"comment": "[Admin chat message] Parameter 0: '10', parameter 1: 'Aegis', parameter 2: '15', parameter 3: 'Helix', parameter 4: '28'",
-		"translation": "Automatischer Abgleich in {0} Sekunden. [{1}-Leistung: {2}] [{3}-Leistung: {4}]",
 		"machine": true
 	},
 	{
@@ -8353,20 +4317,8 @@
 	},
 	{
 		"phrase": "Verifying",
-		"comment": "[Scoreboard] The player is in the process of connecting to the server",
+		"comment": "A player's identity is being verified",
 		"translation": "Überprüfung",
-		"machine": true
-	},
-	{
-		"phrase": "Syncing [1\/2]",
-		"comment": "[Scoreboard] The player is in the process of connecting to the server",
-		"translation": "Synchronisieren [1\/2]",
-		"machine": true
-	},
-	{
-		"phrase": "Syncing [2\/2]",
-		"comment": "[Scoreboard] The player is in the process of connecting to the server",
-		"translation": "Synchronisieren [2\/2]",
 		"machine": true
 	},
 	{
@@ -8388,12 +4340,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Cluster Spawn",
-		"comment": "Ammo type name - this refers to the three small cluster projectiles that are created when the initial large cluster round detonates",
-		"translation": "Cluster-Spawn",
-		"machine": true
-	},
-	{
 		"phrase": "Impact",
 		"comment": "Payload attachment name",
 		"translation": "Einfluss",
@@ -8407,7 +4353,7 @@
 	},
 	{
 		"phrase": "Smoke",
-		"comment": "[Grenade Type]",
+		"comment": "A large cloud of smoke",
 		"translation": "Rauch",
 		"machine": true
 	},
@@ -8514,774 +4460,74 @@
 		"machine": true
 	},
 	{
-		"phrase": "Token",
-		"context": "Token0",
-		"comment": "[Plural] 0 Tokens. Refers to an amount of Character Tokens or Weapon Skin Tokens. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token1",
-		"comment": "[Plural] 1 Token",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token2",
-		"comment": "[Plural] 2 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token3",
-		"comment": "[Plural] 3 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token4",
-		"comment": "[Plural] 4 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token5",
-		"comment": "[Plural] 5 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token6",
-		"comment": "[Plural] 6 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token7",
-		"comment": "[Plural] 7 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token8",
-		"comment": "[Plural] 8 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token9",
-		"comment": "[Plural] 9 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token10",
-		"comment": "[Plural] 10 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token11",
-		"comment": "[Plural] 11 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token12",
-		"comment": "[Plural] 12 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token13",
-		"comment": "[Plural] 13 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token14",
-		"comment": "[Plural] 14 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token15",
-		"comment": "[Plural] 15 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token16",
-		"comment": "[Plural] 16 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token17",
-		"comment": "[Plural] 17 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token18",
-		"comment": "[Plural] 18 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Token",
-		"context": "Token19",
-		"comment": "[Plural] 19 Tokens",
-		"translation": "Zeichen",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token0",
-		"comment": "[Plural] 0 Character tokens. Refers to an amount of Character Tokens. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token1",
-		"comment": "[Plural] 1 Character token",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token2",
-		"comment": "[Plural] 2 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token3",
-		"comment": "[Plural] 3 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token4",
-		"comment": "[Plural] 4 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token5",
-		"comment": "[Plural] 5 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token6",
-		"comment": "[Plural] 6 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token7",
-		"comment": "[Plural] 7 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token8",
-		"comment": "[Plural] 8 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token9",
-		"comment": "[Plural] 9 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token10",
-		"comment": "[Plural] 10 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token11",
-		"comment": "[Plural] 11 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token12",
-		"comment": "[Plural] 12 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token13",
-		"comment": "[Plural] 13 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token14",
-		"comment": "[Plural] 14 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token15",
-		"comment": "[Plural] 15 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token16",
-		"comment": "[Plural] 16 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token17",
-		"comment": "[Plural] 17 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token18",
-		"comment": "[Plural] 18 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Character token",
-		"context": "Character token19",
-		"comment": "[Plural] 19 Character tokens",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token0",
-		"comment": "[Plural] 0 Weapon skin tokens. Refers to an amount of weapon skin tokens. 0-20 are written out here because different languages have different suffixes for different numbers",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token1",
-		"comment": "[Plural] 1 Weapon skin token",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token2",
-		"comment": "[Plural] 2 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token3",
-		"comment": "[Plural] 3 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token4",
-		"comment": "[Plural] 4 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token5",
-		"comment": "[Plural] 5 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token6",
-		"comment": "[Plural] 6 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token7",
-		"comment": "[Plural] 7 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token8",
-		"comment": "[Plural] 8 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token9",
-		"comment": "[Plural] 9 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token10",
-		"comment": "[Plural] 10 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token11",
-		"comment": "[Plural] 11 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token12",
-		"comment": "[Plural] 12 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token13",
-		"comment": "[Plural] 13 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token14",
-		"comment": "[Plural] 14 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token15",
-		"comment": "[Plural] 15 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token16",
-		"comment": "[Plural] 16 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token17",
-		"comment": "[Plural] 17 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token18",
-		"comment": "[Plural] 18 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon skin token19",
-		"comment": "[Plural] 19 Weapon skin tokens",
-		"translation": "Waffen-Skin-Token",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound0",
-		"comment": "[Plural] 0 Sounds. Refers to an audio sound like a footstep or gunshot",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound1",
-		"comment": "[Plural] 1 Sound",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound2",
-		"comment": "[Plural] 2 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound3",
-		"comment": "[Plural] 3 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound4",
-		"comment": "[Plural] 4 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound5",
-		"comment": "[Plural] 5 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound6",
-		"comment": "[Plural] 6 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound7",
-		"comment": "[Plural] 7 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound8",
-		"comment": "[Plural] 8 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound9",
-		"comment": "[Plural] 9 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound10",
-		"comment": "[Plural] 10 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound11",
-		"comment": "[Plural] 11 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound12",
-		"comment": "[Plural] 12 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound13",
-		"comment": "[Plural] 13 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound14",
-		"comment": "[Plural] 14 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound15",
-		"comment": "[Plural] 15 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound16",
-		"comment": "[Plural] 16 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound17",
-		"comment": "[Plural] 17 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound18",
-		"comment": "[Plural] 18 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Sound",
-		"context": "Sound19",
-		"comment": "[Plural] 19 Sounds",
-		"translation": "Klang",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture0",
-		"comment": "[Plural] 0 Textures. Refers to a 2D bitmap or image",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture1",
-		"comment": "[Plural] 1 Texture",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture2",
-		"comment": "[Plural] 2 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture3",
-		"comment": "[Plural] 3 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture4",
-		"comment": "[Plural] 4 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture5",
-		"comment": "[Plural] 5 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture6",
-		"comment": "[Plural] 6 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture7",
-		"comment": "[Plural] 7 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture8",
-		"comment": "[Plural] 8 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture9",
-		"comment": "[Plural] 9 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture10",
-		"comment": "[Plural] 10 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture11",
-		"comment": "[Plural] 11 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture12",
-		"comment": "[Plural] 12 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture13",
-		"comment": "[Plural] 13 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture14",
-		"comment": "[Plural] 14 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture15",
-		"comment": "[Plural] 15 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture16",
-		"comment": "[Plural] 16 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture17",
-		"comment": "[Plural] 17 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture18",
-		"comment": "[Plural] 18 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
-		"phrase": "Texture",
-		"context": "Texture19",
-		"comment": "[Plural] 19 Textures",
-		"translation": "Textur",
-		"machine": true
-	},
-	{
 		"phrase": "Small Canister",
-		"comment": "[Midi Attachment] The canister is a container that stores matter",
+		"comment": "The canister is a container that stores matter",
 		"translation": "Kleiner Kanister",
 		"machine": true
 	},
 	{
 		"phrase": "Medium Canister",
-		"comment": "[Midi Attachment] The canister is a container that stores matter",
+		"comment": "The canister is a container that stores matter",
 		"translation": "Mittlerer Kanister",
 		"machine": true
 	},
 	{
 		"phrase": "Large Canister",
-		"comment": "[Midi Attachment] The canister is a container that stores matter",
+		"comment": "The canister is a container that stores matter",
 		"translation": "Großer Kanister",
 		"machine": true
 	},
 	{
 		"phrase": "Budget Core",
-		"comment": "[Midi Attachment] The core controls the strength of blocks",
+		"comment": "The core controls the strength of blocks",
 		"translation": "Budgetkern",
 		"machine": true
 	},
 	{
 		"phrase": "Ion Core",
-		"comment": "[Midi Attachment] The core controls the strength of blocks",
+		"comment": "The core controls the strength of blocks",
 		"translation": "Ionenkern",
 		"machine": true
 	},
 	{
 		"phrase": "Dual Proto Core",
-		"comment": "[Midi Attachment] The core controls the strength of blocks",
+		"comment": "The core controls the strength of blocks",
 		"translation": "Dualer Protokern",
 		"machine": true
 	},
 	{
 		"phrase": "Solid Rail",
-		"comment": "[Midi Attachment] The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
 		"translation": "Solide Schiene",
 		"machine": true
 	},
 	{
 		"phrase": "Quad Rail",
-		"comment": "[Midi Attachment] The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
 		"translation": "Quad-Schiene",
 		"machine": true
 	},
 	{
 		"phrase": "Warped Rail",
-		"comment": "[Midi Attachment] The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
 		"translation": "Verzogene Schiene",
 		"machine": true
 	},
 	{
 		"phrase": "Basic Servo",
-		"comment": "[Midi Attachment] The servo controls building and digging speed",
+		"comment": "The servo controls building and digging speed",
 		"translation": "Basis-Servo",
 		"machine": true
 	},
 	{
 		"phrase": "Power Servo",
-		"comment": "[Midi Attachment] The servo controls building and digging speed",
+		"comment": "The servo controls building and digging speed",
 		"translation": "Leistungsservo",
 		"machine": true
 	},
 	{
 		"phrase": "Turbo Servo",
-		"comment": "[Midi Attachment] The servo controls building and digging speed",
+		"comment": "The servo controls building and digging speed",
 		"translation": "Turbo-Servo",
 		"machine": true
 	},
@@ -9293,13 +4539,13 @@
 	},
 	{
 		"phrase": "Min level: {0}",
-		"comment": "Server list info. First parameter: 20. This means players must be at least level 20 to join",
+		"comment": "Parameter 0: '20'. Players must be at least level 20 to join the lobby",
 		"translation": "Mindeststufe: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Max level: {0}",
-		"comment": "Server list info. First parameter: 40. This means players must be level 40 or lower to join",
+		"comment": "Parameter 0: '40'. Players must be at under level 40 to join the lobby",
 		"translation": "Max. Stufe: {0}",
 		"machine": true
 	},
@@ -9417,51 +4663,15 @@
 		"machine": true
 	},
 	{
-		"phrase": "Boosts can be earned from watching partnered Twitch streams, or you can purchase them here if you would like to fast track.",
-		"comment": "Boost pack description",
-		"translation": "Boosts können durch das Ansehen von Twitch-Streams von Partnern verdient werden, oder Sie können sie hier kaufen, wenn Sie schnell vorankommen möchten.",
-		"machine": true
-	},
-	{
-		"phrase": "Protons can be used to customise your character, weapons and more.",
-		"comment": "Boost pack description",
-		"translation": "Protonen können verwendet werden, um deinen Charakter, deine Waffen und mehr anzupassen.",
-		"machine": true
-	},
-	{
 		"phrase": "XP contributes towards your player level, which is purely for display.",
 		"comment": "Boost pack description",
 		"translation": "XP trägt zu Ihrem Spielerlevel bei, das nur zur Anzeige dient.",
 		"machine": true
 	},
 	{
-		"phrase": "Each boost lasts 1 hour and you will earn 3.0x Protons and XP during this hour.",
-		"comment": "Boost pack description",
-		"translation": "Jeder Boost dauert 1 Stunde und Sie verdienen in dieser Stunde 3,0x Protonen und XP.",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Boosts",
-		"comment": "A boost lets players earn XP faster. Parameter 0: '30'",
-		"translation": "{0}-Boosts",
-		"machine": true
-	},
-	{
 		"phrase": "Proton pack",
 		"comment": "Store pack title. Protons are the in-game currency",
 		"translation": "Protonenpaket",
-		"machine": true
-	},
-	{
-		"phrase": "Allegiances reward mercenaries like yourself with Protons, the major currency accepted throughout the galaxy.",
-		"comment": "Proton pack description",
-		"translation": "Loyalitäten belohnen Söldner wie dich mit Protonen, der wichtigsten Währung, die in der gesamten Galaxie akzeptiert wird.",
-		"machine": true
-	},
-	{
-		"phrase": "Each boost lasts 1 hour and will increase the amount of Protons and XP you earn by 3.0x.",
-		"comment": "Boost pack description",
-		"translation": "Jeder Boost dauert 1 Stunde und erhöht die Menge an Protonen und XP, die Sie verdienen, um das 3,0-fache.",
 		"machine": true
 	},
 	{
@@ -9477,45 +4687,26 @@
 		"machine": true
 	},
 	{
-		"phrase": "The Character Token in this pack can be used to unlock any one character, including the Renegade.",
-		"comment": "Supporter pack description",
-		"translation": "Der Charakter-Token in diesem Paket kann verwendet werden, um einen beliebigen Charakter freizuschalten, einschließlich des Abtrünnigen.",
-		"machine": true
-	},
-	{
-		"phrase": "Character Token",
-		"comment": "This token can be used to unlock a character for free",
-		"translation": "Zeichentoken",
-		"machine": true
-	},
-	{
 		"phrase": "Metallic Pearl",
 		"comment": "This is the name of a weapon skin which is similar to pearlescent paint applied to a car",
 		"translation": "Metallische Perle",
 		"machine": true
 	},
 	{
-		"phrase": "Weapon skin",
-		"context": "Weapon pattern",
-		"comment": "A skin can be applied to the surface of a gun to change its appearance",
-		"translation": "Waffen-Skin",
-		"machine": true
-	},
-	{
 		"phrase": "Licence title",
-		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements",
+		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
 		"translation": "Lizenztitel",
 		"machine": true
 	},
 	{
 		"phrase": "Fabric",
-		"comment": "Fabric\/cloth",
+		"comment": "Fabric\/cloth\/material",
 		"translation": "Stoff",
 		"machine": true
 	},
 	{
 		"phrase": "Licence background",
-		"comment": "This is an animated fabric-style background for the player's Licence (customisable banner)",
+		"comment": "The background pattern on a player's customisable Soltrium Handling Licence",
 		"translation": "Lizenzhintergrund",
 		"machine": true
 	},
@@ -9526,36 +4717,14 @@
 		"machine": true
 	},
 	{
-		"phrase": "Armed with a fully augmented body, the {0} leaves the weapons facility and joins the war for {1}.",
-		"comment": "Engineer pack description.  Parameter 0 is 'Engineer', Parameter 1 is 'Midi', which is the name of a character and element respectively",
-		"translation": "Bewaffnet mit einem vollständig erweiterten Körper verlässt der {0} die Waffenfabrik und schließt sich dem Krieg für {1} an.",
-		"machine": true
-	},
-	{
-		"phrase": "Exhibit your building expertise with the {0} and their aftermarket {1} modifications.",
-		"comment": "Engineer pack description. Parameter 0 is 'Engineer', Parameter 1 is 'Midi', which is the name of a character and tool respectively",
-		"translation": "Zeigen Sie Ihre Baukompetenz mit dem {0} und ihren Aftermarket-{1}-Modifikationen.",
-		"machine": true
-	},
-	{
-		"phrase": "Block skin",
-		"comment": "A player can equip a block skin to change the appearance of the blocks they build",
-		"translation": "Haut blockieren",
-		"machine": true
-	},
-	{
-		"phrase": "Agaman",
-		"translation": "Agamen",
-		"machine": true
-	},
-	{
 		"phrase": "Human",
+		"comment": "An inhabitant of Earth",
 		"translation": "Menschlich",
 		"machine": true
 	},
 	{
 		"phrase": "Purchase pack",
-		"comment": "Text on a button when purchasing a pack from the store",
+		"comment": "Purchase\/buy a pack (collection of items) from the store",
 		"translation": "Paket kaufen",
 		"machine": true
 	},
@@ -9567,7 +4736,7 @@
 	},
 	{
 		"phrase": "Click to continue",
-		"comment": "Instructions prompt that tells the user to click to continue",
+		"comment": "Click this button to continue to the next stage",
 		"translation": "Klicke um Fortzufahren",
 		"machine": true
 	},
@@ -9585,31 +4754,13 @@
 	},
 	{
 		"phrase": "Cancelling",
-		"comment": "In the process of cancelling a transaction",
+		"comment": "Cancelling a transaction",
 		"translation": "Stornieren",
 		"machine": true
 	},
 	{
-		"phrase": "Retrying...",
-		"comment": "Retrying a transaction after failing to purchase an item from the store",
-		"translation": "Wiederholen...",
-		"machine": true
-	},
-	{
-		"phrase": "Connection error - retrying in {0} seconds",
-		"comment": "Retrying a transaction after losing connection to the server",
-		"translation": "Verbindungsfehler - Neuer Versuch in {0} Sekunden",
-		"machine": true
-	},
-	{
-		"phrase": "Waiting for the Steam Overlay",
-		"comment": "Waiting for the user to complete a transaction in the Steam Overlay",
-		"translation": "Warten auf das Steam-Overlay",
-		"machine": true
-	},
-	{
 		"phrase": "Invalid creator code",
-		"comment": "A creator code is a short phrase that represents a partnered Sector's Edge content creator. This error shows if a user enters a creator code that doesn't exist",
+		"comment": "A creator code is a short phrase that represents a partnered Sector's Edge content creator. This error is shown if a user enters a creator code that doesn't exist",
 		"translation": "Ungültiger Creator-Code",
 		"machine": true
 	},
@@ -9962,13 +5113,13 @@
 	},
 	{
 		"phrase": "Enabled",
-		"comment": "Checkbox setting, i.e. 'Toggle scope is enabled'",
+		"comment": "This setting is enabled \/ turned on",
 		"translation": "Ermöglicht",
 		"machine": true
 	},
 	{
 		"phrase": "Disabled",
-		"comment": "Checkbox setting , i.e. 'Toggle scope is disabled'",
+		"comment": "This setting is disabled \/ turned off",
 		"translation": "Deaktiviert",
 		"machine": true
 	},
@@ -9998,19 +5149,19 @@
 	},
 	{
 		"phrase": "Hue",
-		"comment": "Hue component of a HSL colour",
+		"comment": "The hue of a colour",
 		"translation": "Farbton",
 		"machine": true
 	},
 	{
 		"phrase": "Saturation",
-		"comment": "Saturation component of a HSL colour",
+		"comment": "The saturation of a colour",
 		"translation": "Sättigung",
 		"machine": true
 	},
 	{
 		"phrase": "Lightness",
-		"comment": "Lightness component of a HSL colour",
+		"comment": "The lightness of a colour",
 		"translation": "Leichtigkeit",
 		"machine": true
 	},
@@ -10431,7 +5582,7 @@
 	},
 	{
 		"phrase": "Maps",
-		"comment": "A list of maps that you can kill Fora on",
+		"comment": "Maps that players can fight on",
 		"translation": "Karten",
 		"machine": true
 	},
@@ -10727,7 +5878,7 @@
 	},
 	{
 		"phrase": "Utility",
-		"comment": "Equipment like C4 and grenades",
+		"comment": "Weapon category name",
 		"translation": "Dienstprogramm",
 		"machine": true
 	},
@@ -10823,7 +5974,7 @@
 	},
 	{
 		"phrase": "Textures",
-		"comment": "Textures refer to image data, i.e. PNG, JPG, etc",
+		"comment": "2 Textures",
 		"translation": "Texturen",
 		"machine": true
 	},
@@ -11027,7 +6178,7 @@
 	},
 	{
 		"phrase": "Copy",
-		"comment": "Preset action, i.e. 'copy a preset'",
+		"comment": "Copy the value of this text field",
 		"translation": "Kopieren",
 		"machine": true
 	},
@@ -11098,7 +6249,7 @@
 	},
 	{
 		"phrase": "Name",
-		"comment": "[Scoreboard] A player's name",
+		"comment": "Column header on the server list",
 		"translation": "Name",
 		"machine": true
 	},
@@ -11320,7 +6471,7 @@
 	},
 	{
 		"phrase": "Filters",
-		"comment": "Server preferences tab",
+		"comment": "A settings that filters data",
 		"translation": "Filter",
 		"machine": true
 	},
@@ -11328,12 +6479,6 @@
 		"phrase": "Empty servers",
 		"comment": "[Server Filter] e.g. don't show empty servers",
 		"translation": "Leere Server",
-		"machine": true
-	},
-	{
-		"phrase": "Full servers",
-		"comment": "[Server Filter] e.g. don't show full servers",
-		"translation": "Volle Server",
 		"machine": true
 	},
 	{
@@ -11382,12 +6527,6 @@
 		"phrase": "Recent",
 		"comment": "The most recent key that was pressed",
 		"translation": "Jüngste",
-		"machine": true
-	},
-	{
-		"phrase": "Uncapped",
-		"comment": "This text is displayed on a setting that has no limit",
-		"translation": "Unbedeckt",
 		"machine": true
 	},
 	{
@@ -12143,7 +7282,7 @@
 	},
 	{
 		"phrase": "Crosshair colour",
-		"comment": "The colour of the player's crosshair UI in the center of the screen",
+		"comment": "The colour of the crosshair on weapon sights",
 		"translation": "Farbe des Fadenkreuzes",
 		"machine": true
 	},
@@ -12947,7 +8086,7 @@
 	},
 	{
 		"phrase": "Friend name",
-		"comment": "The name of a friend",
+		"comment": "A word you can say to summon the presence of a person you like",
 		"translation": "Name des Freundes",
 		"machine": true
 	},
@@ -12976,12 +8115,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "This payment is processed through your Steam wallet. Please note that it is non-refundable",
-		"comment": "Disclaimer at the bottom of the store. Do not translate 'Steam'",
-		"translation": "Diese Zahlung wird über Ihre Steam-Wallet abgewickelt. Bitte beachten Sie, dass es nicht erstattungsfähig ist",
-		"machine": true
-	},
-	{
 		"phrase": "Reset",
 		"comment": "Reset a setting back to its default value",
 		"translation": "Zurücksetzen",
@@ -12989,32 +8122,8 @@
 	},
 	{
 		"phrase": "Boost Pack",
-		"comment": "Store pack name",
+		"comment": "A store pack is a collection of items the player can purchase. A player can use a Boost to increase the amount of Peorona and XP they earn while playing",
 		"translation": "Boost-Paket",
-		"machine": true
-	},
-	{
-		"phrase": "Proton Pack",
-		"comment": "Store pack name",
-		"translation": "Protonenpaket",
-		"machine": true
-	},
-	{
-		"phrase": "Supporter Pack",
-		"comment": "Store pack name",
-		"translation": "Unterstützerpaket",
-		"machine": true
-	},
-	{
-		"phrase": "Character Skin",
-		"comment": "Skins (e.g. camoflague, metallic, animated) for a Human or Agaman character",
-		"translation": "Charakterhaut",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon Skin",
-		"comment": "Skins (e.g. camoflague, metallic, animated) for a gun",
-		"translation": "Waffen-Skin",
 		"machine": true
 	},
 	{
@@ -13084,26 +8193,14 @@
 		"machine": true
 	},
 	{
-		"phrase": "Loading...",
-		"comment": "The next map is loading",
-		"translation": "Wird geladen...",
-		"machine": true
-	},
-	{
 		"phrase": "Exit",
-		"comment": "Victory tab - disconnects from the current server",
+		"comment": "Exit stage right",
 		"translation": "Ausgang",
 		"machine": true
 	},
 	{
-		"phrase": "Fly",
-		"comment": "Victory tab - lets the player fly around the map",
-		"translation": "Fliegen",
-		"machine": true
-	},
-	{
 		"phrase": "Tasks",
-		"comment": "Victory tab - shows the player's task progressions",
+		"comment": "Tasks that players can complete",
 		"translation": "Aufgaben",
 		"machine": true
 	},
@@ -13159,6 +8256,694 @@
 		"phrase": "The next map will be {0}",
 		"comment": "[Map Vote Sidebar] Parameter 0: 'Canyon'",
 		"translation": "Die nächste Karte wird {0} sein",
+		"machine": true
+	},
+	{
+		"phrase": "Space",
+		"context": "Space bar",
+		"comment": "The space bar on the keyboard",
+		"translation": "Platz",
+		"machine": true
+	},
+	{
+		"phrase": "Caps",
+		"context": "Caps lock",
+		"comment": "The caps lock key on the keyboard",
+		"translation": "Kappen",
+		"machine": true
+	},
+	{
+		"phrase": "Up arrow",
+		"comment": "The up arrow key on the keyboard",
+		"translation": "Aufwärtspfeil",
+		"machine": true
+	},
+	{
+		"phrase": "Down arrow",
+		"comment": "The down arrow key on the keyboard",
+		"translation": "Pfeil nach unten",
+		"machine": true
+	},
+	{
+		"phrase": "Left arrow",
+		"comment": "The left arrow key on the keyboard",
+		"translation": "Linker Pfeil",
+		"machine": true
+	},
+	{
+		"phrase": "Right arrow",
+		"comment": "The right arrow key on the keyboard",
+		"translation": "Rechter Pfeil",
+		"machine": true
+	},
+	{
+		"phrase": "Syncing {0}",
+		"comment": "A player is syncing with the server. Parameter 0: '[1\/2]'",
+		"translation": "{0} synchronisieren",
+		"machine": true
+	},
+	{
+		"phrase": "Cluster Fragment",
+		"comment": "Ammo type name - this refers to the three small cluster projectiles that are created when the initial large cluster round detonates",
+		"translation": "Cluster-Fragment",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Reactive",
+		"comment": "An Agaman-themed reactive block skin that ripples when shot. Parameter 0: 'Agaman'",
+		"translation": "{0} Reaktiv",
+		"machine": true
+	},
+	{
+		"phrase": "Polygon",
+		"comment": "Camoflague pattern in the shape of shapes and polygons",
+		"translation": "Vieleck",
+		"machine": true
+	},
+	{
+		"phrase": "Structure {0}",
+		"comment": "A structure is a group of blocks that a player can place. Parameter 0: '#1'",
+		"translation": "Struktur {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Only the lobby owner can run commands",
+		"comment": "[Admin chat message]",
+		"translation": "Nur der Besitzer der Lobby kann Befehle ausführen",
+		"machine": true
+	},
+	{
+		"phrase": "This lobby is already claimed",
+		"comment": "[Admin chat message]",
+		"translation": "Diese Lobby ist bereits beansprucht",
+		"machine": true
+	},
+	{
+		"phrase": "This server will restart at the end of the round for maintenance",
+		"comment": "[Admin chat message]",
+		"translation": "Dieser Server wird am Ende der Runde zu Wartungszwecken neu gestartet",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
+		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"translation": "Dieser Server wird am Ende des Spiels auf {0} aktualisiert. Sie MÜSSEN Ihren Client über Steam aktualisieren, um Servern wieder beizutreten",
+		"machine": true
+	},
+	{
+		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
+		"comment": "[Admin chat message]",
+		"translation": "Dieser Server wird am Ende dieser Runde schnell neu gestartet. Sie können auf diesem Server bleiben und müssen Ihren Client NICHT aktualisieren",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now restart for maintenance",
+		"comment": "[Admin chat message]",
+		"translation": "Dieser Server wird jetzt zu Wartungszwecken neu gestartet",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
+		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"translation": "Dieser Server wird nun auf {0} aktualisiert. Sie MÜSSEN Ihren Client über Steam aktualisieren, um Servern wieder beizutreten",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
+		"comment": "[Admin chat message]",
+		"translation": "Dieser Server wird nun schnell neu gestartet. Sie können auf diesem Server bleiben und müssen Ihren Client NICHT aktualisieren",
+		"machine": true
+	},
+	{
+		"phrase": "This map does not support the game mode {0}",
+		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"translation": "Diese Karte unterstützt den Spielmodus {0} nicht",
+		"machine": true
+	},
+	{
+		"phrase": "{0} can be used to customise your character, weapons and more.",
+		"comment": "Boost pack description. Parameter 0: 'Protons'",
+		"translation": "{0} kann verwendet werden, um deinen Charakter, deine Waffen und mehr anzupassen.",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by 3.0x.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Jeder Boost dauert 1 Stunde und erhöht die Menge an {0} und XP, die Sie verdienen, um das 3,0-fache.",
+		"machine": true
+	},
+	{
+		"phrase": "Boosts can be earned from watching partnered {0} streams, or you can purchase them here if you would like to fast track.",
+		"comment": "Boost pack description. Parameter 0: 'Twitch'",
+		"translation": "Boosts können durch das Ansehen von {0}-Partnerstreams verdient werden, oder Sie können sie hier kaufen, wenn Sie schnell vorankommen möchten.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Boost",
+		"comment": "A boost lets players earn XP faster. Parameter 0: '3.0x'",
+		"translation": "{0}-Boost",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Pack",
+		"comment": "A store pack is a collection of items the player can purchase. Parameter 0: 'Proton'",
+		"translation": "{0}-Paket",
+		"machine": true
+	},
+	{
+		"phrase": "Allegiances reward mercenaries like yourself with {0}, the major currency accepted throughout the galaxy.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Loyalitäten belohnen Söldner wie Sie mit {0}, der wichtigsten Währung, die in der gesamten Galaxie akzeptiert wird.",
+		"machine": true
+	},
+	{
+		"phrase": "The Character Token in this pack can be used to unlock any character, including the Renegade.",
+		"comment": "Supporter pack description",
+		"translation": "Der Charakter-Token in diesem Paket kann verwendet werden, um jeden Charakter freizuschalten, einschließlich des Abtrünnigen.",
+		"machine": true
+	},
+	{
+		"phrase": "Armed with a fully augmented body, the {0} Engineer leaves the weapons facility and joins the war for {1}.",
+		"comment": "Parameter 0: 'Agaman', Parameter 1; 'Soltrium', which is the name of a race and element respectively",
+		"translation": "Bewaffnet mit einem vollständig erweiterten Körper verlässt der {0}-Ingenieur die Waffenfabrik und tritt dem Krieg für {1} bei.",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {1} modifications.",
+		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
+		"translation": "Zeigen Sie Ihre Baukompetenz mit dem Ingenieur und seinen Aftermarket-{1}-Modifikationen.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Engineer",
+		"comment": "Parameter 0: 'Agaman', which is the name of a race",
+		"translation": "{0}-Ingenieur",
+		"machine": true
+	},
+	{
+		"phrase": "Retrying",
+		"comment": "Retrying an action that failed",
+		"translation": "Wiederholen",
+		"machine": true
+	},
+	{
+		"phrase": "Waiting for the {0} Overlay",
+		"comment": "Waiting for the user to complete a transaction in the Steam Overlay. Parameter 0: 'Steam'",
+		"translation": "Warten auf das {0}-Overlay",
+		"machine": true
+	},
+	{
+		"phrase": "Retrying in {0} {1}",
+		"comment": "Retrying an action in 10 seconds. Parameter 0: '10', parameter 1: 'seconds'",
+		"translation": "Wiederholung in {0} {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Connection error",
+		"comment": "There is a problem with the connection to the server",
+		"translation": "Verbindungsfehler",
+		"machine": true
+	},
+	{
+		"phrase": "This payment is processed through your {0} wallet. Please note that it is non-refundable",
+		"comment": "Disclaimer at the bottom of the store page.",
+		"translation": "Diese Zahlung wird über Ihr {0}-Wallet abgewickelt. Bitte beachten Sie, dass es nicht erstattungsfähig ist",
+		"machine": true
+	},
+	{
+		"phrase": "Scale",
+		"context": "Size",
+		"comment": "The scale\/size of the player's weapon skin",
+		"translation": "Skala",
+		"machine": true
+	},
+	{
+		"phrase": "Detailed",
+		"comment": "Comprehensive\/thorough",
+		"translation": "Ausführlich",
+		"machine": true
+	},
+	{
+		"phrase": "Uncapped",
+		"context": "Unlimited",
+		"comment": "This text is displayed on a setting that has no limit",
+		"translation": "Unbedeckt",
+		"machine": true
+	},
+	{
+		"phrase": "Success",
+		"comment": "Steam error description",
+		"translation": "Erfolg",
+		"machine": true
+	},
+	{
+		"phrase": "The operation failed",
+		"comment": "Steam error description",
+		"translation": "Die Operation ist fehlgeschlagen",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid parameter",
+		"comment": "Steam error description",
+		"translation": "Ungültiger Parameter",
+		"machine": true
+	},
+	{
+		"phrase": "User has not approved transaction",
+		"comment": "Steam error description",
+		"translation": "Der Benutzer hat die Transaktion nicht genehmigt",
+		"machine": true
+	},
+	{
+		"phrase": "Transaction has already been committed",
+		"comment": "Steam error description",
+		"translation": "Die Transaktion wurde bereits festgeschrieben",
+		"machine": true
+	},
+	{
+		"phrase": "User is not logged in",
+		"comment": "Steam error description",
+		"translation": "Benutzer ist nicht angemeldet",
+		"machine": true
+	},
+	{
+		"phrase": "Currency does not match user's Steam Account currency",
+		"comment": "Steam error description",
+		"translation": "Die Währung stimmt nicht mit der Währung des Steam-Kontos des Benutzers überein",
+		"machine": true
+	},
+	{
+		"phrase": "Account does not exist or is temporarily unavailable",
+		"comment": "Steam error description",
+		"translation": "Konto existiert nicht oder ist vorübergehend nicht verfügbar",
+		"machine": true
+	},
+	{
+		"phrase": "Transaction has been denied by user",
+		"comment": "Steam error description",
+		"translation": "Die Transaktion wurde vom Benutzer abgelehnt",
+		"machine": true
+	},
+	{
+		"phrase": "Transaction has been denied because user is in a restricted country",
+		"comment": "Steam error description",
+		"translation": "Die Transaktion wurde abgelehnt, da sich der Benutzer in einem eingeschränkten Land befindet",
+		"machine": true
+	},
+	{
+		"phrase": "Transaction has been denied because billing agreement is not active",
+		"comment": "Steam error description",
+		"translation": "Die Transaktion wurde abgelehnt, weil die Abrechnungsvereinbarung nicht aktiv ist",
+		"machine": true
+	},
+	{
+		"phrase": "Billing agreement cannot be processed because it is not type GAME",
+		"comment": "Steam error description",
+		"translation": "Die Abrechnungsvereinbarung kann nicht verarbeitet werden, da sie nicht vom Typ GAME ist",
+		"machine": true
+	},
+	{
+		"phrase": "Billing agreement is on hold due to billing dispute or chargeback",
+		"comment": "Steam error description",
+		"translation": "Die Abrechnungsvereinbarung ist aufgrund eines Abrechnungsstreits oder einer Rückbuchung ausgesetzt",
+		"machine": true
+	},
+	{
+		"phrase": "Billing agreement cannot be processed because it is not type STEAM",
+		"comment": "Steam error description",
+		"translation": "Abrechnungsvereinbarung kann nicht verarbeitet werden, da sie nicht vom Typ STEAM ist",
+		"machine": true
+	},
+	{
+		"phrase": "User already has a billing agreement for this game",
+		"comment": "Steam error description",
+		"translation": "Der Nutzer hat bereits eine Abrechnungsvereinbarung für dieses Spiel",
+		"machine": true
+	},
+	{
+		"phrase": "Insufficient funds",
+		"comment": "Steam error description",
+		"translation": "Unzureichende Mittel",
+		"machine": true
+	},
+	{
+		"phrase": "Time limit for finalization has been exceeded",
+		"comment": "Steam error description",
+		"translation": "Das Zeitlimit für den Abschluss wurde überschritten",
+		"machine": true
+	},
+	{
+		"phrase": "Account is disabled",
+		"comment": "Steam error description",
+		"translation": "Konto ist deaktiviert",
+		"machine": true
+	},
+	{
+		"phrase": "Account is not allowed to purchase",
+		"comment": "Steam error description",
+		"translation": "Konto darf nicht kaufen",
+		"machine": true
+	},
+	{
+		"phrase": "Transaction denied due to fraud detection",
+		"comment": "Steam error description",
+		"translation": "Transaktion wegen Betrugserkennung abgelehnt",
+		"machine": true
+	},
+	{
+		"phrase": "No cached payment method",
+		"comment": "Steam error description",
+		"translation": "Keine zwischengespeicherte Zahlungsmethode",
+		"machine": true
+	},
+	{
+		"phrase": "Transaction would exceed the spending limit of the billing agreement",
+		"comment": "Steam error description",
+		"translation": "Die Transaktion würde die Ausgabengrenze der Abrechnungsvereinbarung überschreiten",
+		"machine": true
+	},
+	{
+		"phrase": "Shooting range: {0}",
+		"comment": "The shooting range is a place where the player can shoot moving targets. Parameter 0: 'Assault Rifle'",
+		"translation": "Schießstand: {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Kills: {0}, Deaths: {1}",
+		"comment": "How many kills and deaths the player has. Parameter 0: '12', Parameter 1: '7'",
+		"translation": "Kills: {0}, Tode: {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Block",
+		"comment": "1 Block, i.e. 1 cube",
+		"translation": "Block",
+		"machine": true
+	},
+	{
+		"phrase": "Minute",
+		"comment": "1 Minute, i.e. measurement of time",
+		"translation": "Minute",
+		"machine": true
+	},
+	{
+		"phrase": "Minutes",
+		"comment": "2 Minutes",
+		"translation": "Protokoll",
+		"machine": true
+	},
+	{
+		"phrase": "Hour",
+		"comment": "1 Hour",
+		"translation": "Stunde",
+		"machine": true
+	},
+	{
+		"phrase": "Hours",
+		"comment": "2 Hours",
+		"translation": "Std",
+		"machine": true
+	},
+	{
+		"phrase": "Day",
+		"comment": "1 Day",
+		"translation": "Tag",
+		"machine": true
+	},
+	{
+		"phrase": "Days",
+		"comment": "2 Days",
+		"translation": "Tage",
+		"machine": true
+	},
+	{
+		"phrase": "Week",
+		"comment": "1 Week",
+		"translation": "Woche",
+		"machine": true
+	},
+	{
+		"phrase": "Weeks",
+		"comment": "2 Weeks",
+		"translation": "Wochen",
+		"machine": true
+	},
+	{
+		"phrase": "Month",
+		"comment": "1 Month",
+		"translation": "Monat",
+		"machine": true
+	},
+	{
+		"phrase": "Months",
+		"comment": "2 Months",
+		"translation": "Monate",
+		"machine": true
+	},
+	{
+		"phrase": "Year",
+		"comment": "1 Year",
+		"translation": "Jahr",
+		"machine": true
+	},
+	{
+		"phrase": "Years",
+		"comment": "2 Years",
+		"translation": "Jahre",
+		"machine": true
+	},
+	{
+		"phrase": "Waypoint",
+		"comment": "1 Waypoint, i.e. a path that consists of multiple points",
+		"translation": "Wegpunkt",
+		"machine": true
+	},
+	{
+		"phrase": "Slot",
+		"comment": "1 Slot, i.e. an equipment slot",
+		"translation": "Slot",
+		"machine": true
+	},
+	{
+		"phrase": "Slots",
+		"comment": "2 Slots",
+		"translation": "Schlüssel",
+		"machine": true
+	},
+	{
+		"phrase": "Pellet",
+		"comment": "1 Pellet, i.e. a tiny metal ball propelled by a shotgun blast",
+		"translation": "Kugel",
+		"machine": true
+	},
+	{
+		"phrase": "Pellets",
+		"comment": "2 Pellets",
+		"translation": "Pellets",
+		"machine": true
+	},
+	{
+		"phrase": "Delivery",
+		"comment": "1 Deliveris. A delivery here refers to delivering a bomb to a location in the Escort gamemode",
+		"translation": "Lieferung",
+		"machine": true
+	},
+	{
+		"phrase": "Deliveries",
+		"comment": "2 Deliveries",
+		"translation": "Lieferungen",
+		"machine": true
+	},
+	{
+		"phrase": "Spot assists",
+		"comment": "2 Spot assists",
+		"translation": "Spot-Assists",
+		"machine": true
+	},
+	{
+		"phrase": "Scanner assists",
+		"comment": "2 Scanner assists",
+		"translation": "Scanner hilft",
+		"machine": true
+	},
+	{
+		"phrase": "Saves",
+		"comment": "2 Saves",
+		"translation": "Speichert",
+		"machine": true
+	},
+	{
+		"phrase": "Avenge",
+		"comment": "1 Avenge, i.e. when you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate",
+		"translation": "Rächen",
+		"machine": true
+	},
+	{
+		"phrase": "Avenges",
+		"comment": "2 Avenges",
+		"translation": "Rächt",
+		"machine": true
+	},
+	{
+		"phrase": "Lights",
+		"comment": "2 Ligths",
+		"translation": "Beleuchtung",
+		"machine": true
+	},
+	{
+		"phrase": "Chunk",
+		"comment": "1 Chunk, i.e. a group of 32x32x32 blocks",
+		"translation": "Brocken",
+		"machine": true
+	},
+	{
+		"phrase": "Chunks",
+		"comment": "2 Chunks",
+		"translation": "Brocken",
+		"machine": true
+	},
+	{
+		"phrase": "Sample",
+		"comment": "1 Sample, i.e. a shader sample, where more samples means a higher quality shader image",
+		"translation": "Probe",
+		"machine": true
+	},
+	{
+		"phrase": "Samples",
+		"comment": "2 Samples",
+		"translation": "Proben",
+		"machine": true
+	},
+	{
+		"phrase": "Degree",
+		"comment": "1 Degree. The mathematical unit used to measure angles.",
+		"translation": "Grad",
+		"machine": true
+	},
+	{
+		"phrase": "Degrees",
+		"comment": "2 Degrees",
+		"translation": "Grad",
+		"machine": true
+	},
+	{
+		"phrase": "Use",
+		"comment": "1 Use. The amount of times an object was used.",
+		"translation": "Verwenden",
+		"machine": true
+	},
+	{
+		"phrase": "Uses",
+		"comment": "2 Uses",
+		"translation": "Verwendet",
+		"machine": true
+	},
+	{
+		"phrase": "Shot",
+		"comment": "1 Shot. The amount of times a gun was fired.",
+		"translation": "Schuss",
+		"machine": true
+	},
+	{
+		"phrase": "Shots",
+		"comment": "2 Shots",
+		"translation": "Schüsse",
+		"machine": true
+	},
+	{
+		"phrase": "Swing",
+		"comment": "1 Swing. The amount of times a player used their melee.",
+		"translation": "Schwingen",
+		"machine": true
+	},
+	{
+		"phrase": "Swings",
+		"comment": "2 Swings",
+		"translation": "Schaukeln",
+		"machine": true
+	},
+	{
+		"phrase": "Throw",
+		"comment": "1 Throw. The amount of times a player threw a C4 or disruptor",
+		"translation": "Wurf",
+		"machine": true
+	},
+	{
+		"phrase": "Throws",
+		"comment": "2 Throws",
+		"translation": "Wirft",
+		"machine": true
+	},
+	{
+		"phrase": "Character token",
+		"comment": "1 Character token, i.e. a token\/coin that can be used to unlock a character",
+		"translation": "Zeichentoken",
+		"machine": true
+	},
+	{
+		"phrase": "Character tokens",
+		"comment": "2 Character tokens",
+		"translation": "Charakter-Token",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon skin token",
+		"context": "Weapon material token",
+		"comment": "1 Weapon skin token, i.e. a token\/coin that can be used to unlock a weapon skin",
+		"translation": "Waffen-Skin-Token",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon skin tokens",
+		"context": "Weapon material tokens",
+		"comment": "2 Weapon skin tokens",
+		"translation": "Waffen-Skin-Token",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon skin",
+		"context": "Weapon material",
+		"comment": "1 Weapon skin, i.e. a material that can be applied to the surface of a gun to change its appearance",
+		"translation": "Waffen-Skin",
+		"machine": true
+	},
+	{
+		"phrase": "Weapon skins",
+		"context": "Weapon materials",
+		"comment": "2 Weapon skins",
+		"translation": "Waffen-Skins",
+		"machine": true
+	},
+	{
+		"phrase": "Block skin",
+		"context": "Block material",
+		"comment": "1 Block skin, i.e. a material that can be applied to the surface of a block to change its appearance",
+		"translation": "Haut blockieren",
+		"machine": true
+	},
+	{
+		"phrase": "Block skins",
+		"context": "Block materials",
+		"comment": "2 Block skins",
+		"translation": "Skins blockieren",
+		"machine": true
+	},
+	{
+		"phrase": "Sound",
+		"comment": "1 Sound i.e. an audio sound like a footstep or gunshot",
+		"translation": "Klang",
+		"machine": true
+	},
+	{
+		"phrase": "Sounds",
+		"comment": "2 Sounds",
+		"translation": "Geräusche",
+		"machine": true
+	},
+	{
+		"phrase": "Texture",
+		"comment": "1 Texture, i.e. a 2D bitmap or image",
+		"translation": "Textur",
 		"machine": true
 	}
 ]
