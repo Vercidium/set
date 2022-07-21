@@ -298,8 +298,7 @@
 	{
 		"phrase": "Left",
 		"comment": "[Keybind] Move forleftward",
-		"translation": "Левый",
-		"machine": true
+		"translation": "Влево"
 	},
 	{
 		"phrase": "All",
@@ -506,8 +505,7 @@
 	{
 		"phrase": "Buckshot",
 		"comment": "Ammo type name",
-		"translation": "Картечь",
-		"machine": true
+		"translation": "Картечь"
 	},
 	{
 		"phrase": "Burst",
@@ -518,8 +516,7 @@
 	{
 		"phrase": "Lethal",
 		"comment": "Ammo type name",
-		"translation": "Смертельный",
-		"machine": true
+		"translation": "Смертельные"
 	},
 	{
 		"phrase": "Heavy",
@@ -592,7 +589,7 @@
 	{
 		"phrase": "Welded",
 		"comment": "Combat Shotgun choke attachment name",
-		"translation": "Сварной"
+		"translation": "Сваренный"
 	},
 	{
 		"phrase": "Pneumatic",
@@ -602,14 +599,12 @@
 	{
 		"phrase": "Single",
 		"comment": "Core attachment name, i.e. single shot vs automatic fire",
-		"translation": "Одинокий",
-		"machine": true
+		"translation": "Одиночный"
 	},
 	{
 		"phrase": "Automatic",
 		"comment": "Core attachment name, i.e. single shot vs automatic fire",
-		"translation": "Автоматический",
-		"machine": true
+		"translation": "Автоматический"
 	},
 	{
 		"phrase": "Sniper",
@@ -996,8 +991,7 @@
 	{
 		"phrase": "Friends only",
 		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
-		"translation": "Только друзья",
-		"machine": true
+		"translation": "Только друзья"
 	},
 	{
 		"phrase": "Unlisted",
@@ -1008,8 +1002,7 @@
 	{
 		"phrase": "Public",
 		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
-		"translation": "Общественные",
-		"machine": true
+		"translation": "Публичный"
 	},
 	{
 		"phrase": "Map list",
@@ -1086,26 +1079,22 @@
 	{
 		"phrase": "Map name",
 		"comment": "[Upload Summary] This is a text label that is shown above the map name",
-		"translation": "Название карты",
-		"machine": true
+		"translation": "Название карты"
 	},
 	{
 		"phrase": "Description",
 		"comment": "[Upload Summary] This is a text label that is shown above the map description",
-		"translation": "Описание",
-		"machine": true
+		"translation": "Описание"
 	},
 	{
 		"phrase": "Supported game modes",
 		"comment": "[Upload Summary] This is a text label that is shown above the list of game modes that this map supports",
-		"translation": "Поддерживаемые игровые режимы",
-		"machine": true
+		"translation": "Поддерживаемые игровые режимы"
 	},
 	{
 		"phrase": "Visibility",
 		"comment": "[Setting] The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
-		"translation": "Видимость",
-		"machine": true
+		"translation": "Доступность"
 	},
 	{
 		"phrase": "Kills",
@@ -1120,8 +1109,7 @@
 	{
 		"phrase": "Assists",
 		"comment": "How many assists a player has",
-		"translation": "Помогает",
-		"machine": true
+		"translation": "Помощи"
 	},
 	{
 		"phrase": "Barrel",
@@ -1163,8 +1151,7 @@
 	{
 		"phrase": "Starting in",
 		"comment": "[FFA] This text shows at the start of a FFA match. The full phrase is 'Starting in 12 seconds'",
-		"translation": "Начиная с",
-		"machine": true
+		"translation": "Начало через"
 	},
 	{
 		"phrase": "Second",
@@ -1406,8 +1393,7 @@
 	{
 		"phrase": "Save",
 		"comment": "[Killcam] [Button] Save killcam customisation changes",
-		"translation": "Сохранить",
-		"machine": true
+		"translation": "Сохранить"
 	},
 	{
 		"phrase": "Workshop",
@@ -1422,7 +1408,7 @@
 	{
 		"phrase": "Exploiting",
 		"comment": "This player is exploiting a glitch",
-		"translation": "Эксплойты"
+		"translation": "Эксплойтинг"
 	},
 	{
 		"phrase": "Offensive profile",
@@ -1547,8 +1533,7 @@
 	{
 		"phrase": "Berserker",
 		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Берсерк",
-		"machine": true
+		"translation": "Берсерк"
 	},
 	{
 		"phrase": "Assassin",
@@ -1575,8 +1560,7 @@
 	{
 		"phrase": "Volatile",
 		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Летучий",
-		"machine": true
+		"translation": "Взрывоопасный"
 	},
 	{
 		"phrase": "Catalyst",
@@ -1732,14 +1716,12 @@
 	{
 		"phrase": "Recon",
 		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Разведка",
-		"machine": true
+		"translation": "Разведчик"
 	},
 	{
 		"phrase": "Luminator",
 		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Люминатор",
-		"machine": true
+		"translation": "Осветитель"
 	},
 	{
 		"phrase": "Coruscator",
@@ -1772,8 +1754,7 @@
 	{
 		"phrase": "Body Guard",
 		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Телохранитель",
-		"machine": true
+		"translation": "Телохранитель"
 	},
 	{
 		"phrase": "Slayer",
@@ -1846,14 +1827,12 @@
 	{
 		"phrase": "Input",
 		"comment": "[Settings Tab] Mouse and keyboard input settings",
-		"translation": "Вход",
-		"machine": true
+		"translation": "Ввод"
 	},
 	{
 		"phrase": "Minimap",
 		"comment": "Minimap UI in-game, i.e. a top-down view of the map",
-		"translation": "Миникарта",
-		"machine": true
+		"translation": "Миникарта"
 	},
 	{
 		"phrase": "Show HUD",
@@ -1886,8 +1865,7 @@
 	{
 		"phrase": "Weaponry",
 		"comment": "Keybind category for player weapon actions (shoot, reload, melee)",
-		"translation": "Вооружение",
-		"machine": true
+		"translation": "Оружие"
 	},
 	{
 		"phrase": "Tools",
@@ -1976,8 +1954,7 @@
 	{
 		"phrase": "Backwards",
 		"comment": "[Keybind] Move backwards",
-		"translation": "Назад",
-		"machine": true
+		"translation": "Назад"
 	},
 	{
 		"phrase": "Crouch",
@@ -2035,7 +2012,7 @@
 	{
 		"phrase": "Scope",
 		"comment": "[Keybind]",
-		"translation": "Прцелиться"
+		"translation": "Прицелиться"
 	},
 	{
 		"phrase": "Melee",
@@ -8106,14 +8083,12 @@
 	{
 		"phrase": "Join Battle",
 		"comment": "[Keybind] Button on the scoreboard that the player can click to join the battle",
-		"translation": "Присоединяйтесь к битве",
-		"machine": true
+		"translation": "Присоединиться к битве"
 	},
 	{
 		"phrase": "Spectate Battle",
 		"comment": "[Keybind] Button on the scoreboard that the player can click to spectate the battle",
-		"translation": "Наблюдайте за битвой",
-		"machine": true
+		"translation": "Наблюдать за битвой"
 	},
 	{
 		"phrase": "Unstuck",
@@ -12754,14 +12729,12 @@
 	{
 		"phrase": "Loading...",
 		"comment": "The next map is loading",
-		"translation": "Загрузка...",
-		"machine": true
+		"translation": "Загрузка..."
 	},
 	{
 		"phrase": "Exit",
 		"comment": "Victory tab - disconnects from the current server",
-		"translation": "Выход",
-		"machine": true
+		"translation": "Выйти"
 	},
 	{
 		"phrase": "Fly",
@@ -12784,14 +12757,12 @@
 	{
 		"phrase": "Best Weapon",
 		"comment": "The weapon with the most kills",
-		"translation": "Лучшее оружие",
-		"machine": true
+		"translation": "Лучшее оружие"
 	},
 	{
 		"phrase": "Best Mercenary",
 		"comment": "The player with the most points",
-		"translation": "Лучший наемник",
-		"machine": true
+		"translation": "Лучший наемник"
 	},
 	{
 		"phrase": "Friendlies",
@@ -12808,25 +12779,21 @@
 	{
 		"phrase": "The next game mode will be {0}",
 		"comment": "[Map Vote Sidebar] Parameter 0: 'Breakthrough'",
-		"translation": "Следующий игровой режим будет {0}",
-		"machine": true
+		"translation": "Следующий игровой режим: {0}"
 	},
 	{
 		"phrase": "Vote for the next map",
 		"comment": "[Map Vote Sidebar] Header text above the list of game modes that the player can vote for",
-		"translation": "Проголосовать за следующую карту",
-		"machine": true
+		"translation": "Голосование за следующую карту"
 	},
 	{
 		"phrase": "Vote for the next game mode",
 		"comment": "[Mode Vote Sidebar] Header text above the list of game modes that the player can vote for",
-		"translation": "Голосуйте за следующий игровой режим",
-		"machine": true
+		"translation": "Голосование за следующий игровой режим"
 	},
 	{
 		"phrase": "The next map will be {0}",
 		"comment": "[Map Vote Sidebar] Parameter 0: 'Canyon'",
-		"translation": "Следующая карта будет {0}",
-		"machine": true
+		"translation": "Следующая карта: {0}"
 	}
 ]
