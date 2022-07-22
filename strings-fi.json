@@ -1,81 +1,81 @@
 [
 	{
 		"phrase": "Cluster spawn",
-		"comment": "In-game point text",
+		"comment": "When multiple friendlies choose to respawn in the same location, they are combined into a cluster spawn, which lets them respawn faster",
 		"translation": "Klusterin kutua"
 	},
 	{
 		"phrase": "Damage",
-		"comment": "In-game point text",
+		"comment": "Emotional damage!",
 		"translation": "Vahingoittaa"
 	},
 	{
 		"phrase": "Overkill",
-		"comment": "In-game point text",
+		"comment": "If a player has 10hp left and you hit them with a 130 damage Rail Gun headshot, the player earns 120 overkill points",
 		"translation": "Ylilyönti"
 	},
 	{
 		"phrase": "Direct",
-		"comment": "In-game point text",
+		"comment": "Hitting a player directly with an explosive projectile",
 		"translation": "Suoraan"
 	},
 	{
 		"phrase": "Disruptor assist",
-		"comment": "In-game point text",
+		"comment": "A Disruptor is a deployable with a tripwire. When an enemy runs into the tripwire they move slowly and take a bit of damage. If a friendly kills an enemy while they're slowed down, the owner of the Disruptor gets Disruptor Assist points",
 		"translation": "Häiriöavustus",
 		"machine": true
 	},
 	{
 		"phrase": "Headshot",
-		"comment": "In-game point text",
+		"comment": "Shooting another player in the head",
 		"translation": "Pääosuma"
 	},
 	{
 		"phrase": "Kill",
-		"comment": "In-game point text",
+		"comment": "When a players health is reduced from 100 to 0, they are killed",
 		"translation": "Tappo",
 		"machine": true
 	},
 	{
 		"phrase": "Kill streak",
-		"comment": "In-game point text",
+		"comment": "When a player gets 3 kills in a row without dying, they are on a kill streak",
 		"translation": "Tappoputki"
 	},
 	{
 		"phrase": "VIP kill",
-		"comment": "In-game point text",
+		"comment": "Killing the enemy VIP. VIP stands for very important person",
 		"translation": "VIP tappo",
 		"machine": true
 	},
 	{
 		"phrase": "VIP defend",
-		"comment": "In-game point text",
+		"comment": "Defending a VIP from enemy players. VIP stands for very important person",
 		"translation": "VIP puolustaa"
 	},
 	{
 		"phrase": "Scanner destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Scanner and destroying it. A Scanner is a device that floats through the air and reveals the position of enemies through walls.",
 		"translation": "Skanneri tuhoutui"
 	},
 	{
 		"phrase": "Scanner assist",
-		"comment": "In-game point text",
+		"comment": "If a friendly kills an enemy that was revealed by your Scanner, you get Scanner Assist points",
 		"translation": "Skannerin apu"
 	},
 	{
 		"phrase": "C4 destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy C4 and destroying it. C4 is an explosive deployable",
 		"translation": "C4 tuhoutui"
 	},
 	{
 		"phrase": "Disruptor destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Disruptor and destroying it",
 		"translation": "Häiritsijä tuhoutui",
 		"machine": true
 	},
 	{
 		"phrase": "Avenger",
-		"comment": "In-game point text",
+		"comment": "When you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate",
 		"translation": "Kostaja"
 	},
 	{
@@ -85,195 +85,180 @@
 	},
 	{
 		"phrase": "Flag capture",
-		"comment": "In-game point text",
+		"comment": "To capture a flag you must infiltrate the enemy base, steal their flag and return it to your base. The Flag in this game is a canister containing valuable Soltrium",
 		"translation": "Lipun kaappaus"
 	},
 	{
 		"phrase": "Flag carry",
-		"comment": "In-game point text",
+		"comment": "When you steal a flag and carry it to your base, you earn points based on the distance you carry it",
 		"translation": "Lipun kanto"
 	},
 	{
 		"phrase": "Flag return",
-		"comment": "In-game point text",
+		"comment": "When you intercept the enemy and return your stolen flag back to your base",
 		"translation": "Lipun palautus"
 	},
 	{
 		"phrase": "Flag attack",
-		"comment": "In-game point text",
+		"comment": "If you are near the enemy flag and kill an enemy, you earn points for attacking the flag",
 		"translation": "Lippuhyökkäys"
 	},
 	{
 		"phrase": "Flag defend",
-		"comment": "In-game point text",
+		"comment": "If you are near your friendly flag and kill an enemy, you earn points for defending your flag",
 		"translation": "Lippu puolustaa"
 	},
 	{
 		"phrase": "Flag carrier kill",
-		"comment": "In-game point text",
+		"comment": "Killing an enemy that is carrying your flag",
 		"translation": "Lippukantaja tappo",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb deliver",
-		"comment": "In-game point text",
+		"comment": "When you pick up a bomb and place it in the enemy base",
 		"translation": "Pommi toimittaa"
 	},
 	{
 		"phrase": "Bomb carry",
-		"comment": "In-game point text",
+		"comment": "When you pick up a bomb and carry it on your back",
 		"translation": "Pommin kanto"
 	},
 	{
 		"phrase": "Bomb defuse",
-		"comment": "In-game point text",
+		"comment": "When you find an enemy bomb and defuse it so it doesn't explode",
 		"translation": "Pommin purkaminen"
 	},
 	{
 		"phrase": "Bomb attack",
-		"comment": "In-game point text",
+		"comment": "If you are near the enemy's bomb and kill an enemy, you earn points for attacking the bomb",
 		"translation": "Pommi -isku"
 	},
 	{
 		"phrase": "Bomb defend",
-		"comment": "In-game point text",
+		"comment": "If you are near your friendly bomv and kill an enemy, you earn points for defending your bomb",
 		"translation": "Pommi puolustaa"
 	},
 	{
 		"phrase": "Spot assist",
-		"comment": "In-game point text",
+		"comment": "If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
 		"translation": "Pisteavustus"
 	},
 	{
 		"phrase": "Attacking",
-		"comment": "In-game point text",
+		"comment": "If you kill an enemy when inside an enemy-controlled zone, you earn attacking points",
 		"translation": "Hyökkää"
 	},
 	{
 		"phrase": "Defending",
-		"comment": "In-game point text",
+		"comment": "If you kill an enemy when inside a friendly-controlled zone, you earn defending points",
 		"translation": "Puolustaminen"
 	},
 	{
 		"phrase": "Contesting",
-		"comment": "In-game point text",
+		"comment": "If you are inside an enemy-controlled zone and are capturing it for your team, you are contesting the zone",
 		"translation": "Kilpailu"
 	},
 	{
-		"phrase": "Canister capture",
-		"comment": "In-game point text",
-		"translation": "Säiliön sieppaus"
-	},
-	{
 		"phrase": "Zone capture",
-		"comment": "In-game point text",
+		"comment": "When you capture an enemy-controlled zone",
 		"translation": "Alueen kaappaus",
 		"machine": true
 	},
 	{
-		"phrase": "Beacon capture",
-		"comment": "In-game point text",
-		"translation": "Majakkien sieppaus"
-	},
-	{
-		"phrase": "Beacon destroyed",
-		"comment": "In-game point text",
-		"translation": "Majakka tuhoutui"
-	},
-	{
 		"phrase": "Salvage",
-		"comment": "In-game point text",
+		"comment": "When you pick up lost Soltrium for your team, you are salvaging it",
 		"translation": "Pelastus",
 		"machine": true
 	},
 	{
 		"phrase": "Round win",
-		"comment": "In-game point text",
+		"comment": "When your team wins a round in the Arena",
 		"translation": "Kierros voitto",
 		"machine": true
 	},
 	{
 		"phrase": "Round survive",
-		"comment": "In-game point text",
+		"comment": "When your team wins a round in the Arena and you are alive",
 		"translation": "Kierros selvitty",
 		"machine": true
 	},
 	{
 		"phrase": "Assist",
-		"comment": "In-game point text",
+		"comment": "If you shoot an enemy once and a friendly kills them, you earn assist points",
 		"translation": "Avustus",
 		"machine": true
 	},
 	{
 		"phrase": "Assist counts as kill",
-		"comment": "In-game point text",
+		"comment": "If you deal 80 or more damage to an enemy, and then a friendly kills them, you earn a kill rather than an assist",
 		"translation": "Avustus lasketaan tappoksi"
 	},
 	{
 		"phrase": "Fortifying",
-		"comment": "In-game point text",
+		"comment": "If you place blocks inside a zone controlled by your team, you earn fortifying points",
 		"translation": "Vahvistava"
 	},
 	{
 		"phrase": "Most Valuable Player",
-		"comment": "Medal name",
+		"comment": "The player who earned the most points on their team",
 		"translation": "Arvokkain pelaaja"
 	},
 	{
 		"phrase": "Annihilator",
-		"comment": "Medal name",
+		"comment": "The player who killed the most enemies",
 		"translation": "Tuhoaja"
 	},
 	{
 		"phrase": "Marksman",
-		"comment": "Medal name",
+		"comment": "The player who has the most headshot kills",
 		"translation": "Marksman"
 	},
 	{
 		"phrase": "Creator",
-		"comment": "Medal name",
+		"comment": "The player who placed the most blocksc",
 		"translation": "Luoja"
 	},
 	{
 		"phrase": "Destroyer",
-		"comment": "Medal name",
+		"comment": "The player who destroyed the most blocks",
 		"translation": "Tuhoaja",
 		"machine": true
 	},
 	{
 		"phrase": "Attacker",
-		"comment": "Medal name",
+		"comment": "The player who spent the most time inside enemy controlled zones",
 		"translation": "Hyökkääjä"
 	},
 	{
 		"phrase": "Defender",
-		"comment": "Medal name",
+		"comment": "The player who spent the most time inside friendly controlled zones",
 		"translation": "Puolustaja"
 	},
 	{
 		"phrase": "Impaler",
-		"comment": "Medal name",
+		"comment": "The player who has the most melee kills",
 		"translation": "Keihästäjä",
 		"machine": true
 	},
 	{
 		"phrase": "Resilient",
-		"comment": "Medal name",
+		"comment": "The player who has the most deaths",
 		"translation": "Kestävä"
 	},
 	{
 		"phrase": "Assistance",
-		"comment": "Medal name",
+		"comment": "The player who has the most assists",
 		"translation": "Apua"
 	},
 	{
 		"phrase": "Impacter",
-		"comment": "Medal name",
+		"comment": "The player who has the most direct explosive kills",
 		"translation": "Iskulaite"
 	},
 	{
 		"phrase": "Infiltrator",
-		"comment": "Medal name",
+		"comment": "The player who stole the most flags or planted the most bombs",
 		"translation": "Soluttautuja"
 	},
 	{
@@ -304,7 +289,7 @@
 	},
 	{
 		"phrase": "Left",
-		"comment": "[Keybind] Move forleftward",
+		"comment": "[Move to the left",
 		"translation": "Vasen"
 	},
 	{
@@ -314,23 +299,23 @@
 	},
 	{
 		"phrase": "Kicked by a moderator",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A players has been kicked from the server by a moderator",
 		"translation": "Moderaattori potki ulos",
 		"machine": true
 	},
 	{
 		"phrase": "Already in game",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If a player attempts to join the same server twice from two computers, the second player will receive this error",
 		"translation": "Jo pelissä"
 	},
 	{
 		"phrase": "Authentication failed",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "When a player's identity can't be verified",
 		"translation": "Todennus epäonnistui"
 	},
 	{
 		"phrase": "Banned",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A player has been banned from the server",
 		"translation": "Kielletty"
 	},
 	{
@@ -339,126 +324,85 @@
 		"translation": "Yhteys katkaistu"
 	},
 	{
-		"phrase": "EAC Violation",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "EAC -rikkomus"
-	},
-	{
 		"phrase": "Kicked for inactivity",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If a player stands still for a few minutes in a server, they are kicked for being inactive",
 		"translation": "Potkittiin toimettomuudesta",
 		"machine": true
 	},
 	{
 		"phrase": "Network Error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if the player's client can't connect to the server",
 		"translation": "Verkkovirhe"
 	},
 	{
 		"phrase": "No Error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if a player can't connect to a server but the game doesn't know why",
 		"translation": "Ei virhettä"
 	},
 	{
 		"phrase": "Server is restarting",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "The server is... restarting",
 		"translation": "Palvelin käynnistyy uudelleen"
 	},
 	{
 		"phrase": "Temporarily Banned",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A player has been banned from joining a server for a specific time period",
 		"translation": "Väliaikaisesti kielletty"
 	},
 	{
 		"phrase": "Version mismatch",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if a player is running v1.4 and attempts to join a server that's running v1.5",
 		"translation": "Versio ei täsmää"
 	},
 	{
 		"phrase": "Votekicked",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If most of the other players in the lobby vote to kick you out of the server, you have been votekicked",
 		"translation": "Votekicked"
 	},
 	{
 		"phrase": "Votekick still in effect",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If you are votekicked, you can't join the server for an hour. This error is shown if you attempt to join the server before this hour is up",
 		"translation": "Votekick on edelleen voimassa"
 	},
 	{
 		"phrase": "Incorrect password",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you enter the wrong password when joining a custom lobby",
 		"translation": "Väärä salasana"
 	},
 	{
 		"phrase": "Your level is too high",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you join a custom lobby that its maximum level set to 40 and you are level 50",
 		"translation": "Tasosi on liian korkea"
 	},
 	{
 		"phrase": "Lobby already claimed",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you attempt to claim a server that has already been claimed for another custom lobby",
 		"translation": "Aula on jo käytössä",
 		"machine": true
 	},
 	{
-		"phrase": "Min level must be lower than your own",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Minimitason on oltava alhaisempi kuin omasi"
-	},
-	{
-		"phrase": "Max level must be greater than your own",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Suurimman tason on oltava suurempi kuin omasi",
-		"machine": true
-	},
-	{
-		"phrase": "Min level can't be greater than max level",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Minimitaso ei voi olla enimmäistasoa suurempi"
-	},
-	{
-		"phrase": "You are too powerful",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Olet liian voimakas"
-	},
-	{
 		"phrase": "Your level is too low",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you join a custom lobby that its minimum level set to 20 and you are level 10",
 		"translation": "Tasosi on liian alhainen"
 	},
 	{
-		"phrase": "Cannot claim. Lobby has players",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Ei voi vaatia. aulassa on pelaajia"
-	},
-	{
 		"phrase": "Reserved slot expired",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "When a party leader joins a server, slots are reserved for the other party member for 1 minute. If a party member joins after this reserved slot expires, they are shown this error",
 		"translation": "Varattu paikka vanhentunut"
 	},
 	{
-		"phrase": "Min level must be less than max level",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Minimitason on oltava pienempi kuin enimmäistaso"
-	},
-	{
-		"phrase": "Bot Replacement",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Botin vaihto"
-	},
-	{
 		"phrase": "Accelerator",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that increases projectile speed",
 		"translation": "Kiihdytin"
 	},
 	{
 		"phrase": "Beam splitter",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that splits a plasma projectile into four smaller projectiles",
 		"translation": "Säteenjakaja"
 	},
 	{
 		"phrase": "Choke",
-		"comment": "Attachment category",
+		"comment": "This is a special kind of barrel on the front of the Combat Shotgun that tightens the spread of pellets",
 		"translation": "Tukehtua"
 	},
 	{
@@ -468,69 +412,64 @@
 	},
 	{
 		"phrase": "Extended",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel extension",
 		"translation": "Pidennys",
 		"machine": true
 	},
 	{
 		"phrase": "Resonator",
-		"comment": "Barrel attachment name",
+		"comment": "Agaman weapon barrel that reduces the volume of plasma gunshots",
 		"translation": "Resonaattori"
 	},
 	{
 		"phrase": "Silencer",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that reduces the volume of gunshots",
 		"translation": "Äänenvaimennin"
 	},
 	{
 		"phrase": "Medium",
-		"comment": "Barrel attachment name",
+		"comment": "Rail gun barrels come in three lengths: Long, Medium and Short",
 		"translation": "Keskikokoinen"
 	},
 	{
 		"phrase": "Short",
-		"comment": "Barrel attachment name",
+		"comment": "Rail gun barrels come in three lengths: Long, Medium and Short",
 		"translation": "Lyhyt"
 	},
 	{
 		"phrase": "Angled",
-		"comment": "Attachment name",
+		"comment": "A type of foregrip that's angled so your hand rests at a different... angle",
 		"translation": "Kulmikas"
 	},
 	{
 		"phrase": "Removed",
-		"comment": "Attachment name",
+		"comment": "When a gun has no foregrip",
 		"translation": "Poistettu"
 	},
 	{
 		"phrase": "Stubby",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip",
 		"translation": "Tynkä"
 	},
 	{
 		"phrase": "Augmented",
-		"comment": "Ammo type name",
+		"comment": "A large plasma projectile that is slow and weak, but can fuse with other plasma projectiles to power up",
 		"translation": "Lisätty"
 	},
 	{
 		"phrase": "Buckshot",
-		"comment": "Ammo type name",
+		"comment": "Default ammo for a shotgun, which consists of small tiny metal balls",
 		"translation": "Hauli",
 		"machine": true
 	},
 	{
 		"phrase": "Burst",
-		"comment": "Firing mechanism attachment name, e.g. single shot, burst and automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Räjähtää"
 	},
 	{
-		"phrase": "Lethal",
-		"comment": "Ammo type name",
-		"translation": "Tappava"
-	},
-	{
 		"phrase": "Heavy",
-		"comment": "Ammo type name",
+		"comment": "Heavier ammunition that fires slower but deals more damage",
 		"translation": "Raskas"
 	},
 	{
@@ -541,82 +480,76 @@
 	},
 	{
 		"phrase": "Piercing",
-		"comment": "Ammo type name",
+		"comment": "Ammunition type that pierces through players and blocks",
 		"translation": "Lävistävä",
 		"machine": true
 	},
 	{
 		"phrase": "Ricochet",
-		"comment": "Ammo type name",
+		"comment": "Ammunition type that bounces off walls",
 		"translation": "Kimpoava",
 		"machine": true
 	},
 	{
 		"phrase": "Slug",
-		"comment": "Ammo type name",
+		"comment": "A large metal slug that can be fired by a shotgun",
 		"translation": "Jykevä",
 		"machine": true
 	},
 	{
-		"phrase": "Tow",
-		"comment": "Ammo type name",
-		"translation": "Laaser ohjattava panos",
-		"machine": true
-	},
-	{
 		"phrase": "Corrosive",
-		"comment": "Payload attachment name",
+		"comment": "Corrosive acid that eats blocks",
 		"translation": "Syövyttävä"
 	},
 	{
 		"phrase": "Explosive",
-		"comment": "Payload attachment name",
+		"comment": "Projectile payload that explodes on impact",
 		"translation": "Räjähtävä"
 	},
 	{
 		"phrase": "Incendiary",
-		"comment": "Payload attachment name",
+		"comment": "Projectile payload that sets its target on fire",
 		"translation": "Sytyttävä"
 	},
 	{
 		"phrase": "Base",
-		"comment": "Loader attachment name",
+		"comment": "Base\/default",
 		"translation": "Pohja"
 	},
 	{
 		"phrase": "Tactical",
-		"comment": "Stock attachment name",
+		"comment": "A tactical missile strike",
 		"translation": "Taktinen"
 	},
 	{
 		"phrase": "Mechanical",
-		"comment": "Revolver trigger attachment name",
+		"comment": "A revolver trigger type that fires automatically when held down",
 		"translation": "Mekaaninen"
 	},
 	{
 		"phrase": "Advanced",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Advanced technology",
 		"translation": "Kehittynyt",
 		"machine": true
 	},
 	{
 		"phrase": "Welded",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Welded shut",
 		"translation": "Hitsattu"
 	},
 	{
 		"phrase": "Pneumatic",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Pneumatic equipment",
 		"translation": "Pneumaattinen"
 	},
 	{
 		"phrase": "Single",
-		"comment": "Core attachment name, i.e. single shot vs automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Yksittäinen"
 	},
 	{
 		"phrase": "Automatic",
-		"comment": "Core attachment name, i.e. single shot vs automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Automaattinen"
 	},
 	{
@@ -647,7 +580,7 @@
 	},
 	{
 		"phrase": "Ironsights",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "Tähtäin",
 		"machine": true
 	},
@@ -788,51 +721,51 @@
 	},
 	{
 		"phrase": "Snakeskin",
-		"comment": "Weapon skin name",
+		"comment": "Camoflague pattern in the shape of hexagon-like snake skin",
 		"translation": "Käärmeennahka"
 	},
 	{
 		"phrase": "Woodland",
-		"comment": "Weapon skin name",
+		"comment": "Camoflague pattern in the shape of mottled wood",
 		"translation": "Puumaa",
 		"machine": true
 	},
 	{
 		"phrase": "Hot Metal",
-		"comment": "Weapon skin name",
+		"comment": "A fire-themed metallic weapon skin",
 		"translation": "Kuuma metalli"
 	},
 	{
 		"phrase": "Cold Metal",
-		"comment": "Weapon skin name",
+		"comment": "An ice-themed metallic weapon skin",
 		"translation": "Kylmää metalli",
 		"machine": true
 	},
 	{
 		"phrase": "Pearl",
-		"comment": "Weapon skin name",
+		"comment": "A weapon skin that is similar to pearlescent paint applied to a car",
 		"translation": "Helmi"
 	},
 	{
 		"phrase": "Tracer",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks like the patterns on a CPU motherboard (circles connected by straight and diagonal lines)",
 		"translation": "Valojuova",
 		"machine": true
 	},
 	{
 		"phrase": "Fluid",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks like liquid",
 		"translation": "Neste"
 	},
 	{
 		"phrase": "Ember",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks embers floating away from a fire",
 		"translation": "Hehkuva hiili",
 		"machine": true
 	},
 	{
 		"phrase": "Grid",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin composed of lots of dots in a grid",
 		"translation": "Ruudukko"
 	},
 	{
@@ -842,60 +775,35 @@
 	},
 	{
 		"phrase": "Hydraulics",
-		"comment": "Armour modification name",
+		"comment": "Hydraulics increases jump height and reduces fall damage",
 		"translation": "Hydrauliikka"
 	},
 	{
 		"phrase": "Regeneration",
-		"comment": "Armour modification name",
+		"comment": "Health regeneration",
 		"translation": "Regenerointi"
 	},
 	{
 		"phrase": "Speed",
-		"comment": "Armour modification name",
+		"comment": "How fast something happens, i.e. 'Blade advanced on his prey at lightning speeds'",
 		"translation": "Nopeus"
 	},
 	{
 		"phrase": "Stealth",
-		"comment": "Armour modification name",
+		"comment": "The act of being sneaky",
 		"translation": "Vaivihkaus",
 		"machine": true
 	},
 	{
 		"phrase": "Kinetic",
-		"comment": "Armour modification name",
+		"comment": "Kinetic energy",
 		"translation": "Kineettinen"
 	},
 	{
 		"phrase": "Scavenger",
-		"comment": "Armour modification name",
+		"comment": "Scavengers pick up more ammo from enemy corpses",
 		"translation": "Etsijä",
 		"machine": true
-	},
-	{
-		"phrase": "Determining sector coordinates",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Sektorin koordinaattien määrittäminen"
-	},
-	{
-		"phrase": "Calibrating thermal dampeners",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Lämpövaimentimien kalibrointi"
-	},
-	{
-		"phrase": "Entering planet atmosphere",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Tulo planeetan ilmakehään"
-	},
-	{
-		"phrase": "Analysing environment",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Analysoi ympäristöä"
-	},
-	{
-		"phrase": "Commencing landing procedure",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Laskeutumisprosessin aloittaminen"
 	},
 	{
 		"phrase": "Respawn",
@@ -971,12 +879,12 @@
 	},
 	{
 		"phrase": "Upload",
-		"comment": "[Mapping Screen] Upload a map to the Workshop",
+		"comment": "Upload the map",
 		"translation": "Lataa"
 	},
 	{
 		"phrase": "Private",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is private, meaning only I can see it",
 		"translation": "Yksityinen"
 	},
 	{
@@ -986,12 +894,12 @@
 	},
 	{
 		"phrase": "Unlisted",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is unlisted, meaning only people with a link can see it",
 		"translation": "Piilotettu"
 	},
 	{
 		"phrase": "Public",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is public, meaning anyone can see it",
 		"translation": "Julkinen"
 	},
 	{
@@ -1031,7 +939,7 @@
 	},
 	{
 		"phrase": "Invalid",
-		"comment": "[Workshop] The map upload has failed due to invalid map settings",
+		"comment": "The value is not valid",
 		"translation": "Virheellinen"
 	},
 	{
@@ -1076,7 +984,7 @@
 	},
 	{
 		"phrase": "Visibility",
-		"comment": "[Setting] The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
+		"comment": "The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
 		"translation": "Näkyvyys"
 	},
 	{
@@ -1096,12 +1004,12 @@
 	},
 	{
 		"phrase": "Barrel",
-		"comment": "Attachment category",
+		"comment": "The barrel on the front of a gun, e.g. a silencer",
 		"translation": "Tynnyri"
 	},
 	{
 		"phrase": "Sight",
-		"comment": "Attachment category",
+		"comment": "Weapon sights that the player looks through on top of their gun",
 		"translation": "Näky"
 	},
 	{
@@ -1216,7 +1124,7 @@
 	},
 	{
 		"phrase": "Edit loadouts",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Edit loadouts'",
+		"comment": "Click this button to edit your loadouts",
 		"translation": "Muokkaa latauksia"
 	},
 	{
@@ -1281,7 +1189,7 @@
 	},
 	{
 		"phrase": "Magazine",
-		"comment": "Attachment category",
+		"comment": "This is a replaceable part of a gun that holds bullets",
 		"translation": "Aikakauslehti"
 	},
 	{
@@ -1301,7 +1209,7 @@
 	},
 	{
 		"phrase": "Unlock",
-		"comment": "Click to unlock this character",
+		"comment": "Click to unlock this weapon skin",
 		"translation": "Avata"
 	},
 	{
@@ -1321,7 +1229,7 @@
 	},
 	{
 		"phrase": "Customise",
-		"comment": "[Killcam] [Button] Customise button below the killcam preview",
+		"comment": "The player can customise their character",
 		"translation": "Mukauta"
 	},
 	{
@@ -1351,7 +1259,7 @@
 	},
 	{
 		"phrase": "Ship",
-		"comment": "A futuristic space ship where the player can relax",
+		"comment": "A futuristic space ship flying through the galaxy at high speeds",
 		"translation": "Alus"
 	},
 	{
@@ -1366,17 +1274,17 @@
 	},
 	{
 		"phrase": "Skin",
-		"comment": "[Progression Reward] [Weapon] e.g. Free Light Plasma Skin",
+		"comment": "A weapon skin\/pattern\/camoflague can be applied to a weapon to change its appearance",
 		"translation": "Iho"
 	},
 	{
 		"phrase": "Save",
-		"comment": "1 Save, i.e. when you save a friendly from being killed",
+		"comment": "Save your changes",
 		"translation": "Tallentaa"
 	},
 	{
 		"phrase": "Workshop",
-		"comment": "Maps that the users has subscribed to in the workshop",
+		"comment": "This refers to the Steam Workshop, which is a place where players can upload maps for other players to try",
 		"translation": "Työpaja"
 	},
 	{
@@ -1416,17 +1324,17 @@
 	},
 	{
 		"phrase": "Holster time",
-		"comment": "[Attachment Stat] The time required to put away \/ pull out a weapon",
+		"comment": "The time required to place a weapon in its holster",
 		"translation": "Kotelon aika"
 	},
 	{
 		"phrase": "ADS time",
-		"comment": "[Attachment Stat] ADS stands for Aiming Down the Sights",
+		"comment": "The time required to aim down the sights of a gun. ADS stands for Aim Down the Sights",
 		"translation": "ADS -aika"
 	},
 	{
 		"phrase": "Projectile speed",
-		"comment": "[Attachment Stat] How many blocks-per-second the projectile travels",
+		"comment": "How fast the projectile travels",
 		"translation": "Ammuksen nopeus"
 	},
 	{
@@ -1436,17 +1344,17 @@
 	},
 	{
 		"phrase": "Reload",
-		"comment": "[Keybind]",
+		"comment": "Reload a gun",
 		"translation": "Lataa uudelleen"
 	},
 	{
 		"phrase": "Block damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to blocks",
+		"comment": "The amount of damage a weapon deals to blocks",
 		"translation": "Estä vauriot"
 	},
 	{
 		"phrase": "Pellet count",
-		"comment": "[Attachment Stat] How many pellets a weapon fires",
+		"comment": "How many pellets a weapon fires",
 		"translation": "Pelletin määrä"
 	},
 	{
@@ -1881,17 +1789,17 @@
 	},
 	{
 		"phrase": "Forwards",
-		"comment": "[Keybind] Move forward",
+		"comment": "Move forward",
 		"translation": "Eteenpäin"
 	},
 	{
 		"phrase": "Right",
-		"comment": "[Keybind] Move right",
+		"comment": "Move to the right",
 		"translation": "Aivan"
 	},
 	{
 		"phrase": "Backwards",
-		"comment": "[Keybind] Move backwards",
+		"comment": "Move backwards",
 		"translation": "Taaksepäin"
 	},
 	{
@@ -1901,7 +1809,7 @@
 	},
 	{
 		"phrase": "Jump",
-		"comment": "[Keybind]",
+		"comment": "Jump over obstacles",
 		"translation": "Hypätä"
 	},
 	{
@@ -1911,18 +1819,8 @@
 	},
 	{
 		"phrase": "Slide",
-		"comment": "[Keybind]",
+		"comment": "Slide along on the ground",
 		"translation": "Dia"
-	},
-	{
-		"phrase": "Pick Up Primary",
-		"comment": "[Keybind]",
-		"translation": "Nosta ensisijainen"
-	},
-	{
-		"phrase": "Pick Up Secondary",
-		"comment": "[Keybind]",
-		"translation": "Nouto toissijainen"
 	},
 	{
 		"phrase": "Ping",
@@ -1931,17 +1829,17 @@
 	},
 	{
 		"phrase": "Ping (Enemy)",
-		"comment": "[Keybind]",
+		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
 		"translation": "Ping (vihollinen)"
 	},
 	{
 		"phrase": "Ping (Help)",
-		"comment": "[Keybind]",
+		"comment": "This ping refers to placing a 3D marker above your head, indicating you need backup",
 		"translation": "Ping (apua)"
 	},
 	{
 		"phrase": "Shoot",
-		"comment": "[Keybind]",
+		"comment": "Shoot your gun",
 		"translation": "Ampua"
 	},
 	{
@@ -1951,32 +1849,27 @@
 	},
 	{
 		"phrase": "Melee",
-		"comment": "In-game point text",
+		"comment": "Hitting a player with knives or stabbing weapons",
 		"translation": "Nujakka"
 	},
 	{
 		"phrase": "Grenade",
-		"comment": "[Keybind]",
+		"comment": "An explosive grenade",
 		"translation": "Kranaatti"
 	},
 	{
-		"phrase": "Midi",
-		"comment": "[Keybind]",
-		"translation": "Midi"
-	},
-	{
 		"phrase": "Digger",
-		"comment": "[Keybind]",
+		"comment": "A midi has two modes: builder and digger",
 		"translation": "Kullankaivaja"
 	},
 	{
 		"phrase": "Structure (Radial)",
-		"comment": "[Keybind]",
+		"comment": "Holding this keybind displays a radial that lets you select one of your custom structures",
 		"translation": "Rakenne (säteittäinen)"
 	},
 	{
 		"phrase": "Structure (Toggle)",
-		"comment": "[Keybind]",
+		"comment": "If a player has three structures, they can press this keybind to change to the next structure",
 		"translation": "Rakenne (vaihda)"
 	},
 	{
@@ -2131,57 +2024,52 @@
 	},
 	{
 		"phrase": "Flag escort",
-		"comment": "In-game point text",
+		"comment": "If a friendly has stolen the enemy flag and you are near that friendly, you are escorting the flag",
 		"translation": "Lipun saattaja"
 	},
 	{
 		"phrase": "Bomb escort",
-		"comment": "In-game point text",
+		"comment": "If a friendly has picked up a bomb and you are near that friendly, you are escorting the bomb",
 		"translation": "Pommin saattaja"
 	},
 	{
 		"phrase": "Bomb carrier kill",
-		"comment": "In-game point text",
+		"comment": "Killing an enemy that is carrying a bomb",
 		"translation": "Pommin kantaja tappaa"
 	},
 	{
 		"phrase": "MVP",
-		"comment": "Abbreviated medal name",
+		"comment": "Abbreviation of Most Valuable Player",
 		"translation": "MVP"
 	},
 	{
-		"phrase": "Extendest",
-		"comment": "Barrel attachment name",
-		"translation": "Laajin"
-	},
-	{
 		"phrase": "Side",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip that sticks out the side of the gun",
 		"translation": "Sivu"
 	},
 	{
 		"phrase": "Angled Half-Grip",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip that's shorter and angled",
 		"translation": "Kulmikas puolikahva"
 	},
 	{
 		"phrase": "Large",
-		"comment": "Magazine attachment name",
+		"comment": "A large magazine holds more bullets",
 		"translation": "Suuri"
 	},
 	{
 		"phrase": "Triple",
-		"comment": "Ammo type name",
+		"comment": "Triple, three",
 		"translation": "Kolminkertaistaa"
 	},
 	{
 		"phrase": "Rigid",
-		"comment": "Stock attachment name",
+		"comment": "A weapon stock that weighs more and is more stable",
 		"translation": "Jäykkä"
 	},
 	{
 		"phrase": "Plasma Cutter",
-		"comment": "Core attachment name",
+		"comment": "Alternate weapon name for the Orberator, it fires a short-range plasma laser that easily cuts through blocks",
 		"translation": "Plasmaleikkuri"
 	},
 	{
@@ -2228,32 +2116,32 @@
 	},
 	{
 		"phrase": "Equipped",
-		"comment": "This weapon is equipped",
+		"comment": "This weapon skinis equipped",
 		"translation": "Varustettu"
 	},
 	{
 		"phrase": "2X",
-		"comment": "Sight attachment name",
+		"comment": "A weapon sight that has 2.0x zoom",
 		"translation": "2X"
 	},
 	{
 		"phrase": "4X",
-		"comment": "Sight attachment name",
+		"comment": "A weapon sight that has 2.0x zoom",
 		"translation": "4X"
 	},
 	{
 		"phrase": "Foregrip",
-		"comment": "Attachment category",
+		"comment": "The part of the gun that the player holds on to, e.g. stubby foregrip",
 		"translation": "Etukahva"
 	},
 	{
 		"phrase": "Stock",
-		"comment": "Attachment category",
+		"comment": "The rear part of the gun that rests against the player's shoulder for stability",
 		"translation": "Varastossa"
 	},
 	{
 		"phrase": "Equip",
-		"comment": "Click to equip this character",
+		"comment": "Click to equip this weapon skin",
 		"translation": "Varustaa"
 	},
 	{
@@ -2398,18 +2286,13 @@
 		"translation": "Lisää ystävä"
 	},
 	{
-		"phrase": "Report Player",
-		"comment": "Report a player for cheating",
-		"translation": "Ilmoita pelaaja"
-	},
-	{
 		"phrase": "Spectators",
-		"comment": "A spectator is someone who is watching the match",
+		"comment": "Someone who is watching a battle",
 		"translation": "Katsojat"
 	},
 	{
 		"phrase": "You have left the party",
-		"comment": "Notification that you left the party",
+		"comment": "A party is a group of 4 friends that player together. This notification shows when you leave the party or the party disbands",
 		"translation": "Olet eronnut puolueesta"
 	},
 	{
@@ -2469,22 +2352,22 @@
 	},
 	{
 		"phrase": "Platinum",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A platinum medal",
 		"translation": "Platina"
 	},
 	{
 		"phrase": "Gold",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A gold medal",
 		"translation": "Kulta"
 	},
 	{
 		"phrase": "Silver",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A silver medal",
 		"translation": "Hopea"
 	},
 	{
 		"phrase": "Bronze",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A bronze medal",
 		"translation": "Pronssi"
 	},
 	{
@@ -2563,7 +2446,7 @@
 	},
 	{
 		"phrase": "Holographic",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "Holografinen",
 		"machine": true
 	},
@@ -2623,55 +2506,55 @@
 	},
 	{
 		"phrase": "Block capacity",
-		"comment": "[Attachment Stat] How many blocks the Midi can store",
+		"comment": "How many blocks the Midi can store",
 		"translation": "Estä kapasiteetti",
 		"machine": true
 	},
 	{
 		"phrase": "Movement speed",
-		"comment": "[Loadout Stat] How fast the player moves",
+		"comment": "How fast the player moves",
 		"translation": "Liikenopeus",
 		"machine": true
 	},
 	{
 		"phrase": "Jump velocity",
-		"comment": "[Loadout Stat] How high the player can jump",
+		"comment": "How high the player can jump",
 		"translation": "Hyppynopeus",
 		"machine": true
 	},
 	{
 		"phrase": "Fall damage",
-		"comment": "[Loadout Stat] How much fall damage a player suffers when landing on the ground",
+		"comment": "How much fall damage a player receives when landing on the ground",
 		"translation": "Putoamisvahinko",
 		"machine": true
 	},
 	{
 		"phrase": "Safe fall distance",
-		"comment": "[Loadout Stat] How far the player can fall before taking damage",
+		"comment": "How far the player can fall before taking damage",
 		"translation": "Turvallinen pudotusetäisyys",
 		"machine": true
 	},
 	{
 		"phrase": "Build distance",
-		"comment": "[Attachment Stat] How far away the Midi can build",
+		"comment": "How far away the Midi can build",
 		"translation": "Rakenna etäisyyttä",
 		"machine": true
 	},
 	{
 		"phrase": "Block health",
-		"comment": "[Attachment Stat] How strong a block is",
+		"comment": "How strong a block is",
 		"translation": "Estä terveys",
 		"machine": true
 	},
 	{
 		"phrase": "Dig speed",
-		"comment": "[Attachment Stat] How fast the Midi can dig",
+		"comment": "How fast the Midi can dig",
 		"translation": "Kaivon nopeus",
 		"machine": true
 	},
 	{
 		"phrase": "Build speed",
-		"comment": "[Attachment Stat] How fast the Midi can build",
+		"comment": "How fast the Midi can build",
 		"translation": "Rakenna nopeutta",
 		"machine": true
 	},
@@ -2718,43 +2601,32 @@
 		"machine": true
 	},
 	{
-		"phrase": "ms",
-		"comment": "[Unit Prefix] Milliseconds",
-		"translation": "Ms"
-	},
-	{
-		"phrase": "Game Modes",
-		"comment": "A set of rules that controls how players kill Fora",
-		"translation": "Pelitilat",
-		"machine": true
-	},
-	{
 		"phrase": "Eternal",
-		"comment": "Server list info",
+		"comment": "The match will last forever",
 		"translation": "Ikuinen",
 		"machine": true
 	},
 	{
 		"phrase": "Trailer",
-		"comment": "Server list info. This server is being used to record a video trailer",
+		"comment": "This server is being used to record a video trailer",
 		"translation": "Traileri",
 		"machine": true
 	},
 	{
 		"phrase": "Sandbox",
-		"comment": "Server list info",
+		"comment": "When enabling sandbox mode, players are invincible and have infinite ammo",
 		"translation": "Hiekkalaatikko",
 		"machine": true
 	},
 	{
 		"phrase": "Vertical",
-		"comment": "Loader attachment name",
+		"comment": "A shotgun loader that's angled vertically",
 		"translation": "Pystysuora",
 		"machine": true
 	},
 	{
 		"phrase": "Multi-Orb",
-		"comment": "Core attachment name",
+		"comment": "This core attachment for the Orberator fires 5 smaller orbs rather than 1 large orb",
 		"translation": "Monipallo",
 		"machine": true
 	},
@@ -2771,24 +2643,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Slot 1",
-		"comment": "The first slot in your inventory",
-		"translation": "Paikka 1",
-		"machine": true
-	},
-	{
-		"phrase": "Slot 2",
-		"comment": "The second slot in your inventory",
-		"translation": "Paikka 2",
-		"machine": true
-	},
-	{
-		"phrase": "Slot 3",
-		"comment": "The third slot in your inventory",
-		"translation": "Paikka 3",
-		"machine": true
-	},
-	{
 		"phrase": "Crosshair",
 		"comment": "A crosshair on a gun scope",
 		"translation": "Ristikko",
@@ -2802,13 +2656,13 @@
 	},
 	{
 		"phrase": "Attachments",
-		"comment": "Weapon attachments",
+		"comment": "2 Attachments",
 		"translation": "Liitteet",
 		"machine": true
 	},
 	{
 		"phrase": "Sights",
-		"comment": "Weapon sights",
+		"comment": "Weapon sights that the player looks through on top of their gun",
 		"translation": "Nähtävyydet",
 		"machine": true
 	},
@@ -2838,19 +2692,19 @@
 	},
 	{
 		"phrase": "Loader",
-		"comment": "Attachment category",
+		"comment": "This is like a foregrip but can move forwards and backwards to load a shotgun shell into the Combat Shotgun, i.e. the cliche chk chk boom of a shotgun",
 		"translation": "Kuormaaja",
 		"machine": true
 	},
 	{
 		"phrase": "Payload",
-		"comment": "Attachment category",
+		"comment": "Bullets can contain different payloads, e.g. incendiary, explosive",
 		"translation": "Hyötykuorma",
 		"machine": true
 	},
 	{
 		"phrase": "Trigger",
-		"comment": "Attachment category",
+		"comment": "Pull the trigger to fire bullets",
 		"translation": "Laukaista",
 		"machine": true
 	},
@@ -3359,25 +3213,25 @@
 	},
 	{
 		"phrase": "Compensator",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that reduces recoil",
 		"translation": "Kompensaattori",
 		"machine": true
 	},
 	{
 		"phrase": "Sticky",
-		"comment": "Ammo type name - an explosive projectile sticks to the wall on impact before exploding",
+		"comment": "An explosive projectile sticks to the wall before exploding",
 		"translation": "Tahmea",
 		"machine": true
 	},
 	{
 		"phrase": "Cluster",
-		"comment": "Ammo type name - an explosive projectile explodes into a cluster of 3 explosives",
+		"comment": "An explosive projectile that explodes into 3 smaller projectiles",
 		"translation": "Klusteri",
 		"machine": true
 	},
 	{
 		"phrase": "Fragmentation",
-		"comment": "Payload attachment name",
+		"comment": "A projectile type that explodes into thousands of small fragments on impact",
 		"translation": "Hajanaisuus",
 		"machine": true
 	},
@@ -3401,7 +3255,7 @@
 	},
 	{
 		"phrase": "Boost",
-		"comment": "[Career Path] i.e. '50% Proton Boost'",
+		"comment": "1 Boost, i.e. an item a player can use to increase their Proton and XP gain for the next hour",
 		"translation": "Tehosta",
 		"machine": true
 	},
@@ -3678,7 +3532,7 @@
 	},
 	{
 		"phrase": "The map is restoring. Try again in {0} seconds",
-		"comment": "Reason for being disconnected from a server. Parameter 0: '10'",
+		"comment": "If a player joins a server while the map is being restored to a previous version, they are shown this error",
 		"translation": "Kartta palautuu. yritä uudelleen {0} sekunnin kuluttua",
 		"machine": true
 	},
@@ -3732,21 +3586,21 @@
 	},
 	{
 		"phrase": "Internal error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If the server crashes or has a bug, this error is shown",
 		"translation": "Sisäinen virhe",
 		"machine": true
 	},
 	{
 		"phrase": "Light",
 		"context": "Weak",
-		"comment": "Ammo type name",
+		"comment": "Smaller ammunition that fires faster but deals less damage",
 		"translation": "Valo",
 		"machine": true
 	},
 	{
 		"phrase": "Light",
 		"context": "Lightweight",
-		"comment": "Stock attachment name",
+		"comment": "A weapon stock that weighs less but is slightly unstable",
 		"translation": "Valo",
 		"machine": true
 	},
@@ -3770,7 +3624,7 @@
 	},
 	{
 		"phrase": "Home",
-		"comment": "The home screen where the player can read news and quick play",
+		"comment": "The home screen is where the player can read news and quick play",
 		"translation": "Koti",
 		"machine": true
 	},
@@ -3842,13 +3696,13 @@
 	},
 	{
 		"phrase": "Ammo",
-		"comment": "Attachment category",
+		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "Ammus",
 		"machine": true
 	},
 	{
 		"phrase": "Mechanism",
-		"comment": "Attachment category",
+		"comment": "The mechanism is inside the gun and fires bullets when the trigger is held. This changes whether the gun fires in bursts of 3, or has automatic fire",
 		"translation": "Mekanismi",
 		"machine": true
 	},
@@ -3866,31 +3720,31 @@
 	},
 	{
 		"phrase": "Extractor destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Extractor and destroying it. An Extractor is a deployable device that digs tunnels",
 		"translation": "Puristin tuhoutunut",
 		"machine": true
 	},
 	{
 		"phrase": "Reinforcer destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Reinforcer and destroying it. A Reinforcer is a deployable device that strengthens the blocks around it",
 		"translation": "Vahvistin tuhottu",
 		"machine": true
 	},
 	{
 		"phrase": "Tether destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Tether and destroying it. A Tether is a device that attaches to walls and can pull them down",
 		"translation": "Tether tuhoutunut",
 		"machine": true
 	},
 	{
 		"phrase": "Turret destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Turret and destroying it. A Turret is a deployable device that shoots at enemies",
 		"translation": "Torni tuhottu",
 		"machine": true
 	},
 	{
 		"phrase": "Win",
-		"comment": "This player won the battle, i.e. 'You win!'",
+		"comment": "You win the battle",
 		"translation": "Voittaa",
 		"machine": true
 	},
@@ -3902,31 +3756,31 @@
 	},
 	{
 		"phrase": "Overcharged",
-		"comment": "Ammo type name",
+		"comment": "When a plasma weapon is overcharged, it fires projectiles in bursts of two",
 		"translation": "Yliveloitettu",
 		"machine": true
 	},
 	{
 		"phrase": "Dispersion",
-		"comment": "Ammo type name",
+		"comment": "This is a plasma projectile type that disperses a large amount of plasma outwards on impact, dealing area-of-effect damage to blocks and players",
 		"translation": "Dispersio",
 		"machine": true
 	},
 	{
 		"phrase": "Ion",
-		"comment": "Ammo type name",
+		"comment": "Ion projectiles alter the molecular structure of blocks to allow projectiles to temporarily pass through",
 		"translation": "Ioni",
 		"machine": true
 	},
 	{
 		"phrase": "Impact",
-		"comment": "Payload attachment name",
+		"comment": "The Rocket Rifle projectile traditionally carries an explosive payload, but can be replaced with solid metal to deal a large amount of damage on impact",
 		"translation": "Vaikutus",
 		"machine": true
 	},
 	{
 		"phrase": "Red Dot",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "punainen piste",
 		"machine": true
 	},
@@ -3938,25 +3792,25 @@
 	},
 	{
 		"phrase": "Dig single blocks",
-		"comment": "[Keybind]",
+		"comment": "Enable this setting to dig single blocks by default, rather than 3x3x3 chunks of blocks",
 		"translation": "Kaivaa yksittäisiä lohkoja",
 		"machine": true
 	},
 	{
 		"phrase": "Detonate",
-		"comment": "[Keybind] Detonate C4 explosives",
+		"comment": "Detonate C4 explosives",
 		"translation": "Räjäyttää",
 		"machine": true
 	},
 	{
 		"phrase": "Rotate structure clockwise",
-		"comment": "[Keybind]",
+		"comment": "A structure refers to a 5x5x5 group of blocks that a player can customise in their ship, then place quickly in battle. Pressing this keybind rotates the structure clockwise",
 		"translation": "Kierrä rakennetta myötäpäivään",
 		"machine": true
 	},
 	{
 		"phrase": "Rotate structure anticlockwise",
-		"comment": "[Keybind]",
+		"comment": "Pressing this keybind rotates the structure anticlockwise",
 		"translation": "Kierrä rakennetta vastapäivään",
 		"machine": true
 	},
@@ -4040,73 +3894,73 @@
 	},
 	{
 		"phrase": "Small Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
 		"translation": "Pieni kanisteri",
 		"machine": true
 	},
 	{
 		"phrase": "Medium Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A medium canister on the Midi can hold a bit more matter",
 		"translation": "Keskikokoinen kanisteri",
 		"machine": true
 	},
 	{
 		"phrase": "Large Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A large canister on the Midi can hold a lot of stuff",
 		"translation": "Iso kanisteri",
 		"machine": true
 	},
 	{
 		"phrase": "Budget Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The core on the Midi fabricates matter from the particles stored in the canister. The budget core can create weak blocks",
 		"translation": "Budjetin ydin",
 		"machine": true
 	},
 	{
 		"phrase": "Ion Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The ion core can create stronger blocks while consuming less matter from the canister",
 		"translation": "Ioni ydin",
 		"machine": true
 	},
 	{
 		"phrase": "Dual Proto Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The Dual Proto core is the best in the market and can create very strong blocks",
 		"translation": "Kaksi protoydintä",
 		"machine": true
 	},
 	{
 		"phrase": "Solid Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The rod in the center of the Midi is condensed Soltrium that generates a laser that can cut through blocks",
 		"translation": "Kiinteä kisko",
 		"machine": true
 	},
 	{
 		"phrase": "Quad Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The Quad Rail increases the power of the laser",
 		"translation": "Quad kisko",
 		"machine": true
 	},
 	{
 		"phrase": "Warped Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The Warped Rail is the latest in Midi technology and produces a high-powered laser that can cut through nearly anything",
 		"translation": "Vääntynyt kisko",
 		"machine": true
 	},
 	{
 		"phrase": "Basic Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Basic Servo in the Midi spins slowly but gets the job done",
 		"translation": "Perus servo",
 		"machine": true
 	},
 	{
 		"phrase": "Power Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Power Servo spins much faster and increases digging speed",
 		"translation": "Teho servo",
 		"machine": true
 	},
 	{
 		"phrase": "Turbo Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Turbo Servo is the fastest servo attachment for the Midi, utilising surprisingly effective primitive technology harvested from a GT-86 Human vehicle",
 		"translation": "Turbo servo",
 		"machine": true
 	},
@@ -4230,12 +4084,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Boost pack",
-		"comment": "Store pack title. A player can use a Boost to increase the amount of currency and XP they earn while playing",
-		"translation": "Boost-pakkaus",
-		"machine": true
-	},
-	{
 		"phrase": "Protons and XP are earned each match based on your performance.",
 		"comment": "Boost pack description",
 		"translation": "Protonit ja XP:t ansaitaan jokaisessa ottelussa suorituksesi perusteella.",
@@ -4245,12 +4093,6 @@
 		"phrase": "XP contributes towards your player level, which is purely for display.",
 		"comment": "Boost pack description",
 		"translation": "XP edistää pelaajatasoasi, joka on pelkästään näyttöä varten.",
-		"machine": true
-	},
-	{
-		"phrase": "Proton pack",
-		"comment": "Store pack title. Protons are the in-game currency",
-		"translation": "Protoni pakkaus",
 		"machine": true
 	},
 	{
@@ -4297,7 +4139,7 @@
 	},
 	{
 		"phrase": "Human",
-		"comment": "An inhabitant of Earth",
+		"comment": "An inhabitant of a distant planet named Earth",
 		"translation": "Ihmisen",
 		"machine": true
 	},
@@ -4567,30 +4409,31 @@
 	},
 	{
 		"phrase": "Not owned",
-		"comment": "This character is not owned",
+		"comment": "This weapon skin is not owned",
 		"translation": "Ei omistettu",
 		"machine": true
 	},
 	{
 		"phrase": "Owned",
-		"comment": "This character is owned",
+		"comment": "This weapon skin is owned",
 		"translation": "Omistettu",
 		"machine": true
 	},
 	{
 		"phrase": "Unlocked",
-		"comment": "This character is unlocked",
+		"comment": "This weapon skin is unlocked",
 		"translation": "Avattu",
 		"machine": true
 	},
 	{
 		"phrase": "Engineer Pack required",
-		"comment": "Block skin requirement description",
+		"comment": "The player must own the Engineer Pack to equip this block skin",
 		"translation": "Insinööripaketti vaaditaan",
 		"machine": true
 	},
 	{
 		"phrase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		"comment": "The whole alphabet, this is used for Breakthrough zones, i.e. 'Zone A', 'Zone B'. Please ensure there are 26 letters here",
 		"translation": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
 		"machine": true
 	},
@@ -4602,7 +4445,7 @@
 	},
 	{
 		"phrase": "Unlock skin",
-		"comment": "Checkout window title when unlocking a character skin",
+		"comment": "Click this button to unlock a weapon skin",
 		"translation": "Avaa iho",
 		"machine": true
 	},
@@ -4637,57 +4480,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Loading next map...",
-		"comment": "[Server connection banner] This text displays when the player has connected to a server and is waiting for the map to load",
-		"translation": "Ladataan seuraavaa karttaa...",
-		"machine": true
-	},
-	{
 		"phrase": "Click to return to the battle",
-		"comment": "[Server connection banner] This text displays when the player has connected to a server, but backed out to change their loadouts",
+		"comment": "If a player changes to the loadout screen mid-battle, this text shows on a button at the bottom of the screen, which lets them return to the battle",
 		"translation": "Napsauta palataksesi taisteluun",
-		"machine": true
-	},
-	{
-		"phrase": "Updating server list",
-		"comment": "[Server connection banner] This text displays when the server list is updating",
-		"translation": "Päivitetään palvelinluetteloa",
-		"machine": true
-	},
-	{
-		"phrase": "Ready - click to join",
-		"comment": "[Server connection banner] This text displays when the client has connected to a match and is ready to join",
-		"translation": "Valmis - klikkaa liittyäksesi",
-		"machine": true
-	},
-	{
-		"phrase": "Left click a server to join    -    Right click a server to claim",
-		"comment": "[Server connection banner] Server list instructions. Please maintain the 4 empty spaces and hyphen between each phrase",
-		"translation": "Napsauta hiiren kakkospainikkeella palvelinta liittyäksesi - napsauta hiiren kakkospainikkeella palvelinta lunastaaksesi",
-		"machine": true
-	},
-	{
-		"phrase": "Kill {0} enemies",
-		"comment": "Achievement criteria text. Parameter 0: '50'",
-		"translation": "Tapa {0}-vihollisia",
-		"machine": true
-	},
-	{
-		"phrase": "Kill {0} enemies with {1}",
-		"comment": "Achievement criteria text. Parameter 0: '50', parameter 1: 'the Light Plasma'",
-		"translation": "Tapa {0}-vihollisia {1}:llä",
-		"machine": true
-	},
-	{
-		"phrase": "Headshot {0} enemies",
-		"comment": "Achievement criteria text. Parameter 0: '50'",
-		"translation": "Headshot {0} vihollisia",
-		"machine": true
-	},
-	{
-		"phrase": "Headshot {0} enemies with {1}",
-		"comment": "Achievement criteria text. Parameter 0: '50', parameter 1: 'the Light Plasma'",
-		"translation": "Ammu {0}-vihollisia {1}:llä",
 		"machine": true
 	},
 	{
@@ -4704,13 +4499,13 @@
 	},
 	{
 		"phrase": "Party: {0}",
-		"comment": "Party list header. Parameter 0: how many people are in your party. e.g. 'Party: 3'",
+		"comment": "Party list header indicating how many people are in your party. Parameter 0: '3'",
 		"translation": "Juhla: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Online: {0}",
-		"comment": "Friend list header. Parameter 0: how many of your friends are online. e.g. 'Online: 7'",
+		"comment": "Party list header indicating how many of your friends are online. Parameter 0: '7'",
 		"translation": "Online: {0}",
 		"machine": true
 	},
@@ -4746,32 +4541,26 @@
 	},
 	{
 		"phrase": "Alpha",
-		"comment": "Alpha component of a HSL colour",
+		"comment": "The alpha\/transparency component of a colour",
 		"translation": "Alpha",
 		"machine": true
 	},
 	{
 		"phrase": "Included",
-		"comment": "Server filter checkbox, i.e. 'empty servers are included in the list'",
+		"comment": "Checkbox setting i.e. 'empty servers are included in the list'",
 		"translation": "Mukana",
 		"machine": true
 	},
 	{
 		"phrase": "Excluded",
-		"comment": "Server filter checkbox, i.e. 'empty servers are excluded from the list'",
+		"comment": "Checkbox setting, i.e. 'empty servers are excluded from the list'",
 		"translation": "Ulkopuolelle",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Power",
-		"comment": "Loadout power title, i.e. '15 Power'",
+		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12'",
 		"translation": "{0} teho",
-		"machine": true
-	},
-	{
-		"phrase": "Loading custom map",
-		"comment": "[Mapping info banner] This text displays when the player is loading a custom map from their local files",
-		"translation": "Ladataan mukautettua karttaa",
 		"machine": true
 	},
 	{
@@ -4781,21 +4570,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Mute all enemies",
-		"comment": "Mute all enemies in voice chat",
-		"translation": "Mykistä kaikki viholliset",
-		"machine": true
-	},
-	{
 		"phrase": "Unmute all players",
 		"comment": "Unmute all players in voice chat",
 		"translation": "Poista kaikkien pelaajien mykistys",
-		"machine": true
-	},
-	{
-		"phrase": "Mute all players",
-		"comment": "Mute all players in voice chat",
-		"translation": "Mykistä kaikki pelaajat",
 		"machine": true
 	},
 	{
@@ -4806,19 +4583,19 @@
 	},
 	{
 		"phrase": "Unlock attachment",
-		"comment": "Checkout window title when unlocking a weapon attachment",
+		"comment": "Click this button to unlock a weapon attachment",
 		"translation": "Avaa liitteen lukitus",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock sight",
-		"comment": "Checkout window title when unlocking a weapon sight",
+		"comment": "Click this button to unlock a weapon sight",
 		"translation": "Avaa näkö",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock crosshair",
-		"comment": "Checkout window title when unlocking a crosshair",
+		"comment": "Click this button to unlock a crosshair",
 		"translation": "Avaa hiusristikko",
 		"machine": true
 	},
@@ -4986,14 +4763,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Pick your active Allegiance",
-		"comment": "This text shows above the list of Allegiances that the player can choose to join",
-		"translation": "Valitse aktiivinen uskollisuutesi",
-		"machine": true
-	},
-	{
 		"phrase": "Category",
-		"comment": "Weapon skin category, i.e. camo, metallic, animated",
+		"comment": "Weapon skin category, i.e. camoflague, metallic, animated",
 		"translation": "Kategoria",
 		"machine": true
 	},
@@ -5017,19 +4788,19 @@
 	},
 	{
 		"phrase": "Reload time",
-		"comment": "[Attachment Stat] How much time it takes to reload a weapon",
+		"comment": "The time required to reload a weapon",
 		"translation": "Latausaika",
 		"machine": true
 	},
 	{
 		"phrase": "Magazine size",
-		"comment": "[Attachment Stat] How many bullets fit in a magazine",
+		"comment": "How many bullets a magazine contains",
 		"translation": "Lehden koko",
 		"machine": true
 	},
 	{
 		"phrase": "Rate of fire",
-		"comment": "[Attachment Stat] How many times a weapon fires per minute",
+		"comment": "How many times a weapon fires per minute",
 		"translation": "Tulinopeus",
 		"machine": true
 	},
@@ -5047,7 +4818,7 @@
 	},
 	{
 		"phrase": "Projectile spread",
-		"comment": "[Attachment Stat] How much the projectile deviates from where the player is aiming",
+		"comment": "How much the projectile deviates from where the player is aiming",
 		"translation": "Ammus leviää",
 		"machine": true
 	},
@@ -5059,31 +4830,31 @@
 	},
 	{
 		"phrase": "Body TTK",
-		"comment": "[Attachment Stat] How long it takes a weapon to kill to the body",
+		"comment": "The time required for a weapon to kill to the body. TTK stands for Time To Kill",
 		"translation": "Runko TTK",
 		"machine": true
 	},
 	{
 		"phrase": "Head TTK",
-		"comment": "[Attachment Stat] How long it takes a weapon to kill to the head",
+		"comment": "The time required for a weapon to kill to the head",
 		"translation": "Johtaja TTK",
 		"machine": true
 	},
 	{
 		"phrase": "Body damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to an enemy's body",
+		"comment": "The amount of damage a weapon deals to an enemy's body",
 		"translation": "Kehon vaurio",
 		"machine": true
 	},
 	{
 		"phrase": "Head damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to an enemy's head",
+		"comment": "The amount of damage a weapon deals to an enemy's head",
 		"translation": "Pään vaurio",
 		"machine": true
 	},
 	{
 		"phrase": "Splash damage",
-		"comment": "[Attachment Stat] How much area-of-effect damage a weapon deals to blocks",
+		"comment": "The amount of area-of-effect damage a weapon deals",
 		"translation": "Roiskevaurioita",
 		"machine": true
 	},
@@ -5095,19 +4866,19 @@
 	},
 	{
 		"phrase": "Gather rate",
-		"comment": "[Attachment Stat] How many blocks the Midi collects while digging",
+		"comment": "How many blocks the Midi collects while digging",
 		"translation": "Kerää korko",
 		"machine": true
 	},
 	{
 		"phrase": "Dig distance",
-		"comment": "[Attachment Stat] How far away the Midi can dig",
+		"comment": "How far away the Midi can dig",
 		"translation": "Kaivaa etäisyyttä",
 		"machine": true
 	},
 	{
 		"phrase": "Appearance",
-		"comment": "Weapon appearance",
+		"comment": "The appearance of a weapon \/ what a weapon looks like",
 		"translation": "Ulkomuoto",
 		"machine": true
 	},
@@ -5127,12 +4898,6 @@
 		"phrase": "Intergalactic currency",
 		"comment": "Whether the player wants to unlock something using protons or tokens, i.e. 'Intergalactic currency: Protons'",
 		"translation": "Intergalaktinen valuutta",
-		"machine": true
-	},
-	{
-		"phrase": "Protons",
-		"comment": "Protons are the main currency of Sector's Edge",
-		"translation": "Protonit",
 		"machine": true
 	},
 	{
@@ -5348,51 +5113,27 @@
 		"machine": true
 	},
 	{
-		"phrase": "Join the battle {0}",
-		"comment": "This button shows when a player is joining a match, i.e. 'press space to join the battle'. Parameter 0: [Space]",
-		"translation": "Liity taisteluun {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Spectate {0}",
-		"comment": "This button shows when a player is joining a match, i.e. 'press space to spectate'. Parameter 0: [Space]",
-		"translation": "Spectate {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Killfeed",
 		"comment": "The killfeed shows a history of players that have been killed",
 		"translation": "Killfeed",
 		"machine": true
 	},
 	{
-		"phrase": "Loadout overpowered - loadout must be 15 or less points to spawn",
-		"comment": "Info text that shows when a player attempts to spawn with an overpowered loadout",
-		"translation": "Loadout overpowered - kuormituksen on oltava 15 tai vähemmän pistettä syntyäkseen",
-		"machine": true
-	},
-	{
 		"phrase": "Friends",
-		"comment": "People you enjoy being around",
+		"comment": "All of my friends",
 		"translation": "Ystävät",
 		"machine": true
 	},
 	{
 		"phrase": "Quick play - {0}",
-		"comment": "Quick play category text. Parameter 0: Oceania",
+		"comment": "Click here to quick play in Oceania. Parameter 0: Oceania",
 		"translation": "Pikapeli - {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Boosts",
-		"comment": "A boost is an item a player can use to increase their Proton and XP gain for the next hour",
+		"comment": "2 Boosts",
 		"translation": "Tehostaa",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Kirjoita tähän etsiäksesi...",
 		"machine": true
 	},
 	{
@@ -5408,32 +5149,20 @@
 		"machine": true
 	},
 	{
-		"phrase": "Stats Colour",
-		"comment": "The colour of player statistics",
-		"translation": "Tilastojen väri",
-		"machine": true
-	},
-	{
 		"phrase": "Background Colour",
 		"comment": "The colour of the background",
 		"translation": "Taustaväri",
 		"machine": true
 	},
 	{
-		"phrase": "Scale",
-		"comment": "Magnitude, i.e. how big something is",
-		"translation": "Mittakaava",
-		"machine": true
-	},
-	{
 		"phrase": "Type here to search titles...",
-		"comment": "Placeholder text for a search field. Titles refers to awards that the player has earned, e.g. 'Decrare, the Revolver Master'",
+		"comment": "Placeholder text for searching through a list of titles the player has earned. An example of a title is 'Revolver Master' or 'Deathbringer'",
 		"translation": "Kirjoita tähän etsiäksesi otsikoita...",
 		"machine": true
 	},
 	{
 		"phrase": "Title",
-		"comment": "The title or header of a UI window",
+		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
 		"translation": "Otsikko",
 		"machine": true
 	},
@@ -5445,7 +5174,7 @@
 	},
 	{
 		"phrase": "Theme",
-		"comment": "The theme of the UI",
+		"comment": "The theme of the user interface",
 		"translation": "Teema",
 		"machine": true
 	},
@@ -5463,91 +5192,61 @@
 	},
 	{
 		"phrase": "Mods",
-		"comment": "Short name for modifications, i.e. Armour Modification",
+		"comment": "Short name for Armour Modifications",
 		"translation": "Modit",
 		"machine": true
 	},
 	{
 		"phrase": "Slide duration",
-		"comment": "[Loadout Stat] How long the player's slide lasts for",
+		"comment": "How long the player can slide for",
 		"translation": "Dian kesto",
 		"machine": true
 	},
 	{
 		"phrase": "Regen speed",
-		"comment": "[Loadout Stat] How fast the player regenerates health",
+		"comment": "How fast the player regenerates health",
 		"translation": "Regen nopeus",
 		"machine": true
 	},
 	{
-		"phrase": "hp\/s",
-		"comment": "[Unit Prefix] Health per second",
-		"translation": "hp\/s",
-		"machine": true
-	},
-	{
-		"phrase": " blocks",
-		"comment": "[Unit Prefix] Milliseconds",
-		"translation": " lohkot",
-		"machine": true
-	},
-	{
 		"phrase": "Blocks per pickup",
-		"comment": "[Attachment Stat] How many blocks the player gains from an ammo bonus",
+		"comment": "How many blocks the player collects from an enemy corpse",
 		"translation": "Lohkoja per nouto",
 		"machine": true
 	},
 	{
 		"phrase": "Magazines per pickup",
-		"comment": "[Loadout Stat] How many gun magazines the player gains from an ammo bonus",
+		"comment": "How many weapon magazines the player picks up from an enemy corpse",
 		"translation": "Aikakauslehtiä per nouto",
 		"machine": true
 	},
 	{
 		"phrase": "Equipment per pickup",
-		"comment": "[Loadout Stat] How many Scanners \/ C4 \/ Disruptors the player gains from an ammo bonus",
+		"comment": "How many Scanners \/ C4 \/ Disruptors the player picks up from an enemy corpse",
 		"translation": "Varusteet per nouto",
 		"machine": true
 	},
 	{
 		"phrase": "Health per pickup",
-		"comment": "[Loadout Stat] How much health the player regenerates from an ammo bonus",
+		"comment": "How much health the player regenerates when picking up ammo from an enemy corpse",
 		"translation": "Terveys noutoa kohden",
 		"machine": true
 	},
 	{
 		"phrase": "Footstep volume",
-		"comment": "[Loadout Stat] How loud the player's footsteps are",
+		"comment": "How loud the player's footsteps are",
 		"translation": "Askelten äänenvoimakkuus",
 		"machine": true
 	},
 	{
-		"phrase": "Midi volume",
-		"comment": "[Loadout Stat] How loud the player's building and digging is (The Midi is the building and digging tool)",
-		"translation": "Midi äänenvoimakkuus",
-		"machine": true
-	},
-	{
-		"phrase": "Expl. knockback",
-		"comment": "[Loadout Stat] How much players are knocked back by explosions",
-		"translation": "Expl. takaisku",
-		"machine": true
-	},
-	{
-		"phrase": "Self expl. damage",
-		"comment": "[Loadout Stat] How much damage a player's takes from their own explosions",
-		"translation": "Itsensä paljastava vahingoittaa",
-		"machine": true
-	},
-	{
 		"phrase": "Melee cooldown",
-		"comment": "[Loadout Stat] How long the player has to wait before meleeing again",
+		"comment": "How long the player has to wait before meleeing again",
 		"translation": "Lähitaistelun jäähtyminen",
 		"machine": true
 	},
 	{
 		"phrase": "Type here to search maps...",
-		"comment": "Placeholder text for a search field",
+		"comment": "Placeholder text for searching through a list of maps",
 		"translation": "Kirjoita tähän etsiäksesi karttoja...",
 		"machine": true
 	},
@@ -5558,26 +5257,20 @@
 		"machine": true
 	},
 	{
-		"phrase": "JPG Missing",
-		"comment": "The JPG image is missing",
-		"translation": "JPG puuttuu",
-		"machine": true
-	},
-	{
 		"phrase": "Map controls",
-		"comment": "[Heading] Settings that let players change the gamemode or control the time remaining in the match",
+		"comment": "Settings that let players change the gamemode or control the time remaining in the match",
 		"translation": "Kartan säätimet",
 		"machine": true
 	},
 	{
 		"phrase": "Game Mode",
-		"comment": "Capture the flag, breakthrough, salvage, free for all, etc",
+		"comment": "A game mode is a set of rules that controls how players kill Fora, e.g. Capture the flag, breakthrough, free for all",
 		"translation": "Pelitila",
 		"machine": true
 	},
 	{
 		"phrase": "Time remaining",
-		"comment": "Time remaining until the round finishes",
+		"comment": "How much time is left\/remaining until the round finishes",
 		"translation": "Aikaa jäljellä",
 		"machine": true
 	},
@@ -5595,7 +5288,7 @@
 	},
 	{
 		"phrase": "Copy ID",
-		"comment": "Copy the ID of the map",
+		"comment": "Copy the numerical ID of the map",
 		"translation": "Kopioi tunnus",
 		"machine": true
 	},
@@ -5607,7 +5300,7 @@
 	},
 	{
 		"phrase": "Errors",
-		"comment": "The errors encountered when loading a map",
+		"comment": "A list of errors encountered when performing an action",
 		"translation": "Virheet",
 		"machine": true
 	},
@@ -5621,12 +5314,6 @@
 		"phrase": "Upload log",
 		"comment": "A list of text messages that shows the progress of a map that's being uploaded to the workshop",
 		"translation": "Lataa loki",
-		"machine": true
-	},
-	{
-		"phrase": "Missing",
-		"comment": "The file is missing",
-		"translation": "Puuttuu",
 		"machine": true
 	},
 	{
@@ -5649,7 +5336,7 @@
 	},
 	{
 		"phrase": "This server is password protected",
-		"comment": "Password text field label",
+		"comment": "The player must type in the correct password to enter this server",
 		"translation": "Tämä palvelin on suojattu salasanalla",
 		"machine": true
 	},
@@ -5661,7 +5348,7 @@
 	},
 	{
 		"phrase": "{0} Pick up {1}",
-		"comment": "Prompt for the player to pick up a deployable item. Parameter 0: [ E ], Parameter 1: 'Disruptor', e.g. [ E ] Pick up Disruptor",
+		"comment": "Prompt for the player to pick up a deployable item. Parameter 0: '[ E ]', Parameter 1: 'Disruptor', e.g. [ E ] Pick up Disruptor",
 		"translation": "{0} Nouto {1}",
 		"machine": true
 	},
@@ -5673,13 +5360,13 @@
 	},
 	{
 		"phrase": "Level {0}",
-		"comment": "The player's level, i.e. 'Level 50'. Parameter 0: 50",
+		"comment": "The player's level, which increases the more they play the game. Parameter 0: 50",
 		"translation": "Taso {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Polls",
-		"comment": "Polls that players can fill out to provide feedback",
+		"comment": "A survey that players can fill out to provide feedback",
 		"translation": "Äänestykset",
 		"machine": true
 	},
@@ -5763,7 +5450,7 @@
 	},
 	{
 		"phrase": "Preset name",
-		"comment": "The name of a weapon preset",
+		"comment": "The name of a weapon preset. A weapon preset is a combination of weapon attachments that the player can save and re-use later",
 		"translation": "Esiasetettu nimi",
 		"machine": true
 	},
@@ -5781,7 +5468,7 @@
 	},
 	{
 		"phrase": "Your key has been successfully redeemed. You gained:",
-		"comment": "Success message when redeeming a key",
+		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
 		"translation": "Avaimesi on lunastettu onnistuneesti. sinä voitit:",
 		"machine": true
 	},
@@ -5794,12 +5481,6 @@
 	{
 		"phrase": "Refresh server list",
 		"translation": "Päivitä palvelinluettelo",
-		"machine": true
-	},
-	{
-		"phrase": "Player name:",
-		"comment": "A person who is playing Sector's Edge",
-		"translation": "Pelaaja nimi:",
 		"machine": true
 	},
 	{
@@ -5816,7 +5497,7 @@
 	},
 	{
 		"phrase": "Leave the cluster spawn to modify your loadouts",
-		"comment": "Respawn instructions",
+		"comment": "Respawn instructions, the player can't edit their loadouts while part of a cluster spawn",
 		"translation": "Jätä klusterin synty, jos haluat muokata lataustasi",
 		"machine": true
 	},
@@ -5834,7 +5515,7 @@
 	},
 	{
 		"phrase": "Other servers",
-		"comment": "At the bottom of the server browser is a list of 'Other servers' that didn't match the player's search criteria",
+		"comment": "A list of other servers that didn't match the player's search criteria",
 		"translation": "Muut palvelimet",
 		"machine": true
 	},
@@ -6038,7 +5719,7 @@
 	},
 	{
 		"phrase": "Game modes",
-		"comment": "Server preferences tab",
+		"comment": "A list of game modes that the player can choose from. A game mode is a set of rules that controls how players kill Fora, e.g. Capture the flag, breakthrough, free for all",
 		"translation": "Pelitilat",
 		"machine": true
 	},
@@ -6056,7 +5737,7 @@
 	},
 	{
 		"phrase": "Empty servers",
-		"comment": "[Server Filter] e.g. don't show empty servers",
+		"comment": "A server with no players",
 		"translation": "Tyhjät palvelimet",
 		"machine": true
 	},
@@ -7587,7 +7268,7 @@
 	},
 	{
 		"phrase": "General",
-		"comment": "[Settings Tab] Generic settings",
+		"comment": "Generic, no category",
 		"translation": "Kenraali",
 		"machine": true
 	},
@@ -7748,12 +7429,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to filter trials...",
-		"comment": "Placeholder text for filtering single-player trials",
-		"translation": "Kirjoita tähän suodattaaksesi kokeita...",
-		"machine": true
-	},
-	{
 		"phrase": "Digging",
 		"comment": "Category tab on the Trials screen",
 		"translation": "Kaivaminen",
@@ -7883,7 +7558,7 @@
 	},
 	{
 		"phrase": "Cluster Fragment",
-		"comment": "Ammo type name - this refers to the three small cluster projectiles that are created when the initial large cluster round detonates",
+		"comment": "This refers to the three smaller cluster projectiles that are created when the initial large cluster round detonates",
 		"translation": "Klusterin fragmentti",
 		"machine": true
 	},
@@ -8523,6 +8198,271 @@
 		"phrase": "Texture",
 		"comment": "1 Texture, i.e. a 2D bitmap or image",
 		"translation": "Rakenne",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Violation",
+		"comment": "Parameter 0: 'EAC', which stands for Easy Anti Cheat. If this anticheat detects a violation, the error 'EAC Violation' will be shown",
+		"translation": "{0} rikkomus",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid lobby settings",
+		"comment": "Error message when attempting to claim a lobby with invalid settings",
+		"translation": "Virheelliset aulan asetukset",
+		"machine": true
+	},
+	{
+		"phrase": "TOW",
+		"comment": "Abbreviation for a TOW Missile, which moves towards where the player is looking. Can be translated to 'guided' or 'directed'",
+		"translation": "HINAUS",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up primary",
+		"comment": "Pick up your primary\/main weapon",
+		"translation": "Nouda ensisijainen",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up secondary",
+		"comment": "Pick up your secondary\/fallback weapon",
+		"translation": "Nosta toissijainen",
+		"machine": true
+	},
+	{
+		"phrase": "Midi",
+		"context": "Builder",
+		"comment": "A building\/digging gadget, the name is short for Miner Digger",
+		"translation": "Midi",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search trials...",
+		"comment": "Placeholder text for searching through a list of single-player trials",
+		"translation": "Kirjoita tähän etsiäksesi kokeiluversioita...",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search statistics...",
+		"comment": "Placeholder text for searching through a list of statistics",
+		"translation": "Kirjoita tähän etsiäksesi tilastoja...",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search achievements...",
+		"comment": "Placeholder text for searching through a list of achievements the player has completed",
+		"translation": "Kirjoita tähän etsiäksesi saavutuksia...",
+		"machine": true
+	},
+	{
+		"phrase": "Sao Paulo",
+		"comment": "Server location",
+		"translation": "Sao Paulo",
+		"machine": true
+	},
+	{
+		"phrase": "Tel Aviv",
+		"comment": "Server location",
+		"translation": "Tel Aviv",
+		"machine": true
+	},
+	{
+		"phrase": "Warsaw",
+		"comment": "Server location",
+		"translation": "Varsova",
+		"machine": true
+	},
+	{
+		"phrase": "Full servers",
+		"comment": "A server with no free slots",
+		"translation": "Täydelliset palvelimet",
+		"machine": true
+	},
+	{
+		"phrase": "Grapics preset",
+		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
+		"translation": "Grafiikka esiasetettu",
+		"machine": true
+	},
+	{
+		"phrase": "Player name: {0}",
+		"comment": "A person who is playing Sector's Edge. Parameter 0: 'deWolf'",
+		"translation": "Pelaajan nimi: {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} missing",
+		"comment": "This error shows when a file is missing. Parameter 0: 'JPG'",
+		"translation": "{0} puuttuu",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid map JSON",
+		"comment": "The JSON file contains invalid syntax or properties",
+		"translation": "Virheellinen kartta JSON",
+		"machine": true
+	},
+	{
+		"phrase": "Map dimensions: {0}",
+		"comment": "The dimensions of the map. Parameter 0: [256, 128, 512]",
+		"translation": "Kartan mitat: {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Loading next map",
+		"comment": "The match finished and the game is loading the next map from disk",
+		"translation": "Ladataan seuraavaa karttaa",
+		"machine": true
+	},
+	{
+		"phrase": "Refreshing server list",
+		"comment": "The list of servers on the play screen is being refreshed",
+		"translation": "Päivitetään palvelinluetteloa",
+		"machine": true
+	},
+	{
+		"phrase": "{0} volume",
+		"comment": "How loud the player's building and digging is. Parameter 0: 'Midi'",
+		"translation": "{0} äänenvoimakkuus",
+		"machine": true
+	},
+	{
+		"phrase": "Explosion knockback",
+		"comment": "How much players are knocked back by explosions",
+		"translation": "Räjähdyksen takaisku",
+		"machine": true
+	},
+	{
+		"phrase": "Self explosion damage",
+		"comment": "How much damage a player takes from their own explosions",
+		"translation": "Itseräjähdysvaurio",
+		"machine": true
+	},
+	{
+		"phrase": "Slot {0}",
+		"comment": "An equipment slot, i.e. 'Slot 1'. Parameter 0: '1'",
+		"translation": "Paikka {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics Colour",
+		"comment": "The colour of player statistics",
+		"translation": "Tilastojen väri",
+		"machine": true
+	},
+	{
+		"phrase": "Select your active Allegiance",
+		"comment": "This text shows above the list of Allegiances that the player can choose to join",
+		"translation": "Valitse aktiivinen uskollisuutesi",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout overpowered - loadout must be {0} or less points to spawn",
+		"comment": "Info text that shows when a player attempts to spawn with an overpowered loadout. Parameter 0: '15'",
+		"translation": "Loadout overpowered - kuormituksen on oltava {0} tai vähemmän pistettä synnyttääkseen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Join the battle",
+		"comment": "Press this button to join the battle. Parameter 0: [ Space ]",
+		"translation": "{0} Liity taisteluun",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Spectate",
+		"comment": "Press this button to spectate the battle. Parameter 0: [ Space ]",
+		"translation": "{0} Spectate",
+		"machine": true
+	},
+	{
+		"phrase": "Mod Levels",
+		"comment": "An armour mod can either be level 1 or level 2, where level 2 has better parks. This text is a heading for all the mod levels, i.e. 'Mod Levels: Scavenger 0, Scavenger 1'",
+		"translation": "Mod tasot",
+		"machine": true
+	},
+	{
+		"phrase": "Grip",
+		"comment": "",
+		"translation": "Pito",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough",
+		"comment": "",
+		"translation": "Läpimurto",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift",
+		"comment": "",
+		"translation": "Ohjausvaihteisto",
+		"machine": true
+	},
+	{
+		"phrase": "Capture the Flag",
+		"comment": "",
+		"translation": "Lipunryöstö",
+		"machine": true
+	},
+	{
+		"phrase": "Escort",
+		"comment": "",
+		"translation": "Saattaja",
+		"machine": true
+	},
+	{
+		"phrase": "Gun Game",
+		"comment": "",
+		"translation": "Ase peli",
+		"machine": true
+	},
+	{
+		"phrase": "Head Hunter",
+		"comment": "",
+		"translation": "Päämetsästäjä",
+		"machine": true
+	},
+	{
+		"phrase": "Spire",
+		"comment": "",
+		"translation": "Torni",
+		"machine": true
+	},
+	{
+		"phrase": "Static",
+		"comment": "",
+		"translation": "Staattinen",
+		"machine": true
+	},
+	{
+		"phrase": "Wave Defence",
+		"comment": "",
+		"translation": "Aaltopuolustus",
+		"machine": true
+	},
+	{
+		"phrase": "Bot",
+		"comment": "1 Bot, i.e. a server-controlled robot pretending to be a player",
+		"translation": "Bot",
+		"machine": true
+	},
+	{
+		"phrase": "Bots",
+		"comment": "2 Bots",
+		"translation": "Botit",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment",
+		"comment": "1 Attachment, a part of a weapon that can be added or removed",
+		"translation": "Liite",
+		"machine": true
+	},
+	{
+		"phrase": "Friend",
+		"comment": "1 Friend, i.e. a person you enjoy being around",
+		"translation": "ystävä",
 		"machine": true
 	}
 ]

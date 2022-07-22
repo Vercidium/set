@@ -1,91 +1,91 @@
 [
 	{
 		"phrase": "Cluster spawn",
-		"comment": "In-game point text",
+		"comment": "When multiple friendlies choose to respawn in the same location, they are combined into a cluster spawn, which lets them respawn faster",
 		"translation": "Cluster spawn",
 		"machine": true
 	},
 	{
 		"phrase": "Damage",
-		"comment": "In-game point text",
+		"comment": "Emotional damage!",
 		"translation": "Schade",
 		"machine": true
 	},
 	{
 		"phrase": "Overkill",
-		"comment": "In-game point text",
+		"comment": "If a player has 10hp left and you hit them with a 130 damage Rail Gun headshot, the player earns 120 overkill points",
 		"translation": "overkill",
 		"machine": true
 	},
 	{
 		"phrase": "Direct",
-		"comment": "In-game point text",
+		"comment": "Hitting a player directly with an explosive projectile",
 		"translation": "direct",
 		"machine": true
 	},
 	{
 		"phrase": "Disruptor assist",
-		"comment": "In-game point text",
+		"comment": "A Disruptor is a deployable with a tripwire. When an enemy runs into the tripwire they move slowly and take a bit of damage. If a friendly kills an enemy while they're slowed down, the owner of the Disruptor gets Disruptor Assist points",
 		"translation": "Storingshulp",
 		"machine": true
 	},
 	{
 		"phrase": "Headshot",
-		"comment": "In-game point text",
+		"comment": "Shooting another player in the head",
 		"translation": "Hoofdschot",
 		"machine": true
 	},
 	{
 		"phrase": "Kill",
-		"comment": "In-game point text",
+		"comment": "When a players health is reduced from 100 to 0, they are killed",
 		"translation": "Doden",
 		"machine": true
 	},
 	{
 		"phrase": "Kill streak",
-		"comment": "In-game point text",
+		"comment": "When a player gets 3 kills in a row without dying, they are on a kill streak",
 		"translation": "Kill streak",
 		"machine": true
 	},
 	{
 		"phrase": "VIP kill",
-		"comment": "In-game point text",
+		"comment": "Killing the enemy VIP. VIP stands for very important person",
 		"translation": "VIP doden",
 		"machine": true
 	},
 	{
 		"phrase": "VIP defend",
-		"comment": "In-game point text",
+		"comment": "Defending a VIP from enemy players. VIP stands for very important person",
 		"translation": "VIP verdedigen",
 		"machine": true
 	},
 	{
 		"phrase": "Scanner destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Scanner and destroying it. A Scanner is a device that floats through the air and reveals the position of enemies through walls.",
 		"translation": "Scanner vernietigd",
 		"machine": true
 	},
 	{
 		"phrase": "Scanner assist",
-		"comment": "In-game point text",
+		"comment": "If a friendly kills an enemy that was revealed by your Scanner, you get Scanner Assist points",
 		"translation": "Scannerhulp",
 		"machine": true
 	},
 	{
 		"phrase": "C4 destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy C4 and destroying it. C4 is an explosive deployable",
 		"translation": "C4 vernietigd",
 		"machine": true
 	},
 	{
 		"phrase": "Disruptor destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Disruptor and destroying it",
 		"translation": "Disruptor vernietigd",
 		"machine": true
 	},
 	{
 		"phrase": "Avenger",
-		"comment": "In-game point text",
+		"comment": "When you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate",
 		"translation": "Wreker",
 		"machine": true
 	},
@@ -97,223 +97,205 @@
 	},
 	{
 		"phrase": "Flag capture",
-		"comment": "In-game point text",
+		"comment": "To capture a flag you must infiltrate the enemy base, steal their flag and return it to your base. The Flag in this game is a canister containing valuable Soltrium",
 		"translation": "Vlag vastleggen",
 		"machine": true
 	},
 	{
 		"phrase": "Flag carry",
-		"comment": "In-game point text",
+		"comment": "When you steal a flag and carry it to your base, you earn points based on the distance you carry it",
 		"translation": "Vlag dragen",
 		"machine": true
 	},
 	{
 		"phrase": "Flag return",
-		"comment": "In-game point text",
+		"comment": "When you intercept the enemy and return your stolen flag back to your base",
 		"translation": "Vlag terugkeer",
 		"machine": true
 	},
 	{
 		"phrase": "Flag attack",
-		"comment": "In-game point text",
+		"comment": "If you are near the enemy flag and kill an enemy, you earn points for attacking the flag",
 		"translation": "vlag aanval",
 		"machine": true
 	},
 	{
 		"phrase": "Flag defend",
-		"comment": "In-game point text",
+		"comment": "If you are near your friendly flag and kill an enemy, you earn points for defending your flag",
 		"translation": "Vlag verdedigen",
 		"machine": true
 	},
 	{
 		"phrase": "Flag carrier kill",
-		"comment": "In-game point text",
+		"comment": "Killing an enemy that is carrying your flag",
 		"translation": "Vlaggendrager doden",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb deliver",
-		"comment": "In-game point text",
+		"comment": "When you pick up a bomb and place it in the enemy base",
 		"translation": "Bom afleveren",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb carry",
-		"comment": "In-game point text",
+		"comment": "When you pick up a bomb and carry it on your back",
 		"translation": "bom dragen",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb defuse",
-		"comment": "In-game point text",
+		"comment": "When you find an enemy bomb and defuse it so it doesn't explode",
 		"translation": "Bom onschadelijk maken",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb attack",
-		"comment": "In-game point text",
+		"comment": "If you are near the enemy's bomb and kill an enemy, you earn points for attacking the bomb",
 		"translation": "Bomaanslag",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb defend",
-		"comment": "In-game point text",
+		"comment": "If you are near your friendly bomv and kill an enemy, you earn points for defending your bomb",
 		"translation": "Bom verdedigen",
 		"machine": true
 	},
 	{
 		"phrase": "Spot assist",
-		"comment": "In-game point text",
+		"comment": "If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
 		"translation": "Spothulp",
 		"machine": true
 	},
 	{
 		"phrase": "Attacking",
-		"comment": "In-game point text",
+		"comment": "If you kill an enemy when inside an enemy-controlled zone, you earn attacking points",
 		"translation": "aanvallend",
 		"machine": true
 	},
 	{
 		"phrase": "Defending",
-		"comment": "In-game point text",
+		"comment": "If you kill an enemy when inside a friendly-controlled zone, you earn defending points",
 		"translation": "Verdedigen",
 		"machine": true
 	},
 	{
 		"phrase": "Contesting",
-		"comment": "In-game point text",
+		"comment": "If you are inside an enemy-controlled zone and are capturing it for your team, you are contesting the zone",
 		"translation": "Bestrijding",
 		"machine": true
 	},
 	{
-		"phrase": "Canister capture",
-		"comment": "In-game point text",
-		"translation": "Canister capture",
-		"machine": true
-	},
-	{
 		"phrase": "Zone capture",
-		"comment": "In-game point text",
+		"comment": "When you capture an enemy-controlled zone",
 		"translation": "Zone vastleggen",
 		"machine": true
 	},
 	{
-		"phrase": "Beacon capture",
-		"comment": "In-game point text",
-		"translation": "Baken vastleggen",
-		"machine": true
-	},
-	{
-		"phrase": "Beacon destroyed",
-		"comment": "In-game point text",
-		"translation": "Baken vernietigd",
-		"machine": true
-	},
-	{
 		"phrase": "Salvage",
-		"comment": "In-game point text",
+		"comment": "When you pick up lost Soltrium for your team, you are salvaging it",
 		"translation": "Redden",
 		"machine": true
 	},
 	{
 		"phrase": "Round win",
-		"comment": "In-game point text",
+		"comment": "When your team wins a round in the Arena",
 		"translation": "Ronde overwinning",
 		"machine": true
 	},
 	{
 		"phrase": "Round survive",
-		"comment": "In-game point text",
+		"comment": "When your team wins a round in the Arena and you are alive",
 		"translation": "ronde overleven",
 		"machine": true
 	},
 	{
 		"phrase": "Assist",
-		"comment": "In-game point text",
+		"comment": "If you shoot an enemy once and a friendly kills them, you earn assist points",
 		"translation": "Helpen",
 		"machine": true
 	},
 	{
 		"phrase": "Assist counts as kill",
-		"comment": "In-game point text",
+		"comment": "If you deal 80 or more damage to an enemy, and then a friendly kills them, you earn a kill rather than an assist",
 		"translation": "Assist telt als kill",
 		"machine": true
 	},
 	{
 		"phrase": "Fortifying",
-		"comment": "In-game point text",
+		"comment": "If you place blocks inside a zone controlled by your team, you earn fortifying points",
 		"translation": "Versterkend",
 		"machine": true
 	},
 	{
 		"phrase": "Most Valuable Player",
-		"comment": "Medal name",
+		"comment": "The player who earned the most points on their team",
 		"translation": "Waardevolste speler",
 		"machine": true
 	},
 	{
 		"phrase": "Annihilator",
-		"comment": "Medal name",
+		"comment": "The player who killed the most enemies",
 		"translation": "vernietiger",
 		"machine": true
 	},
 	{
 		"phrase": "Marksman",
-		"comment": "Medal name",
+		"comment": "The player who has the most headshot kills",
 		"translation": "Scherpschutter",
 		"machine": true
 	},
 	{
 		"phrase": "Creator",
-		"comment": "Medal name",
+		"comment": "The player who placed the most blocksc",
 		"translation": "Schepper",
 		"machine": true
 	},
 	{
 		"phrase": "Destroyer",
-		"comment": "Medal name",
+		"comment": "The player who destroyed the most blocks",
 		"translation": "Torpedojager",
 		"machine": true
 	},
 	{
 		"phrase": "Attacker",
-		"comment": "Medal name",
+		"comment": "The player who spent the most time inside enemy controlled zones",
 		"translation": "Aanvaller",
 		"machine": true
 	},
 	{
 		"phrase": "Defender",
-		"comment": "Medal name",
+		"comment": "The player who spent the most time inside friendly controlled zones",
 		"translation": "Verdediger",
 		"machine": true
 	},
 	{
 		"phrase": "Impaler",
-		"comment": "Medal name",
+		"comment": "The player who has the most melee kills",
 		"translation": "Spietser",
 		"machine": true
 	},
 	{
 		"phrase": "Resilient",
-		"comment": "Medal name",
+		"comment": "The player who has the most deaths",
 		"translation": "Veerkrachtig",
 		"machine": true
 	},
 	{
 		"phrase": "Assistance",
-		"comment": "Medal name",
+		"comment": "The player who has the most assists",
 		"translation": "Bijstand",
 		"machine": true
 	},
 	{
 		"phrase": "Impacter",
-		"comment": "Medal name",
+		"comment": "The player who has the most direct explosive kills",
 		"translation": "Impacter",
 		"machine": true
 	},
 	{
 		"phrase": "Infiltrator",
-		"comment": "Medal name",
+		"comment": "The player who stole the most flags or planted the most bombs",
 		"translation": "infiltrant",
 		"machine": true
 	},
@@ -349,7 +331,7 @@
 	},
 	{
 		"phrase": "Left",
-		"comment": "[Keybind] Move forleftward",
+		"comment": "[Move to the left",
 		"translation": "Links",
 		"machine": true
 	},
@@ -361,25 +343,25 @@
 	},
 	{
 		"phrase": "Kicked by a moderator",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A players has been kicked from the server by a moderator",
 		"translation": "Geschopt door een moderator",
 		"machine": true
 	},
 	{
 		"phrase": "Already in game",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If a player attempts to join the same server twice from two computers, the second player will receive this error",
 		"translation": "Al in het spel",
 		"machine": true
 	},
 	{
 		"phrase": "Authentication failed",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "When a player's identity can't be verified",
 		"translation": "Verificatie mislukt",
 		"machine": true
 	},
 	{
 		"phrase": "Banned",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A player has been banned from the server",
 		"translation": "verboden",
 		"machine": true
 	},
@@ -390,146 +372,98 @@
 		"machine": true
 	},
 	{
-		"phrase": "EAC Violation",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "EAC-schending",
-		"machine": true
-	},
-	{
 		"phrase": "Kicked for inactivity",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If a player stands still for a few minutes in a server, they are kicked for being inactive",
 		"translation": "Geschopt wegens inactiviteit",
 		"machine": true
 	},
 	{
 		"phrase": "Network Error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if the player's client can't connect to the server",
 		"translation": "Netwerkfout",
 		"machine": true
 	},
 	{
 		"phrase": "No Error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if a player can't connect to a server but the game doesn't know why",
 		"translation": "Geen fout",
 		"machine": true
 	},
 	{
 		"phrase": "Server is restarting",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "The server is... restarting",
 		"translation": "Server wordt opnieuw opgestart",
 		"machine": true
 	},
 	{
 		"phrase": "Temporarily Banned",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A player has been banned from joining a server for a specific time period",
 		"translation": "Tijdelijk verboden",
 		"machine": true
 	},
 	{
 		"phrase": "Version mismatch",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if a player is running v1.4 and attempts to join a server that's running v1.5",
 		"translation": "Versie komt niet overeen",
 		"machine": true
 	},
 	{
 		"phrase": "Votekicked",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If most of the other players in the lobby vote to kick you out of the server, you have been votekicked",
 		"translation": "Gestemd",
 		"machine": true
 	},
 	{
 		"phrase": "Votekick still in effect",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If you are votekicked, you can't join the server for an hour. This error is shown if you attempt to join the server before this hour is up",
 		"translation": "Stemkick nog steeds van kracht",
 		"machine": true
 	},
 	{
 		"phrase": "Incorrect password",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you enter the wrong password when joining a custom lobby",
 		"translation": "Incorrect wachtwoord",
 		"machine": true
 	},
 	{
 		"phrase": "Your level is too high",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you join a custom lobby that its maximum level set to 40 and you are level 50",
 		"translation": "Je niveau is te hoog",
 		"machine": true
 	},
 	{
 		"phrase": "Lobby already claimed",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you attempt to claim a server that has already been claimed for another custom lobby",
 		"translation": "Lobby al geclaimd",
 		"machine": true
 	},
 	{
-		"phrase": "Min level must be lower than your own",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Het minimumniveau moet lager zijn dan dat van jezelf",
-		"machine": true
-	},
-	{
-		"phrase": "Max level must be greater than your own",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Max niveau moet groter zijn dan je eigen niveau",
-		"machine": true
-	},
-	{
-		"phrase": "Min level can't be greater than max level",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Min niveau kan niet groter zijn dan max niveau",
-		"machine": true
-	},
-	{
-		"phrase": "You are too powerful",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Je bent te machtig",
-		"machine": true
-	},
-	{
 		"phrase": "Your level is too low",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you join a custom lobby that its minimum level set to 20 and you are level 10",
 		"translation": "Je niveau is te laag",
 		"machine": true
 	},
 	{
-		"phrase": "Cannot claim. Lobby has players",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Kan niet claimen. lobby heeft spelers",
-		"machine": true
-	},
-	{
 		"phrase": "Reserved slot expired",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "When a party leader joins a server, slots are reserved for the other party member for 1 minute. If a party member joins after this reserved slot expires, they are shown this error",
 		"translation": "Gereserveerd slot verlopen",
 		"machine": true
 	},
 	{
-		"phrase": "Min level must be less than max level",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Min niveau moet lager zijn dan max niveau",
-		"machine": true
-	},
-	{
-		"phrase": "Bot Replacement",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Botvervanging",
-		"machine": true
-	},
-	{
 		"phrase": "Accelerator",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that increases projectile speed",
 		"translation": "Gaspedaal",
 		"machine": true
 	},
 	{
 		"phrase": "Beam splitter",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that splits a plasma projectile into four smaller projectiles",
 		"translation": "Straalsplitser",
 		"machine": true
 	},
 	{
 		"phrase": "Choke",
-		"comment": "Attachment category",
+		"comment": "This is a special kind of barrel on the front of the Combat Shotgun that tightens the spread of pellets",
 		"translation": "Verstikken",
 		"machine": true
 	},
@@ -541,79 +475,73 @@
 	},
 	{
 		"phrase": "Extended",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel extension",
 		"translation": "Verlengd",
 		"machine": true
 	},
 	{
 		"phrase": "Resonator",
-		"comment": "Barrel attachment name",
+		"comment": "Agaman weapon barrel that reduces the volume of plasma gunshots",
 		"translation": "resonator",
 		"machine": true
 	},
 	{
 		"phrase": "Silencer",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that reduces the volume of gunshots",
 		"translation": "Geluiddemper",
 		"machine": true
 	},
 	{
 		"phrase": "Medium",
-		"comment": "Barrel attachment name",
+		"comment": "Rail gun barrels come in three lengths: Long, Medium and Short",
 		"translation": "Medium",
 		"machine": true
 	},
 	{
 		"phrase": "Short",
-		"comment": "Barrel attachment name",
+		"comment": "Rail gun barrels come in three lengths: Long, Medium and Short",
 		"translation": "Kort",
 		"machine": true
 	},
 	{
 		"phrase": "Angled",
-		"comment": "Attachment name",
+		"comment": "A type of foregrip that's angled so your hand rests at a different... angle",
 		"translation": "hoekig",
 		"machine": true
 	},
 	{
 		"phrase": "Removed",
-		"comment": "Attachment name",
+		"comment": "When a gun has no foregrip",
 		"translation": "VERWIJDERD",
 		"machine": true
 	},
 	{
 		"phrase": "Stubby",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip",
 		"translation": "stomp",
 		"machine": true
 	},
 	{
 		"phrase": "Augmented",
-		"comment": "Ammo type name",
+		"comment": "A large plasma projectile that is slow and weak, but can fuse with other plasma projectiles to power up",
 		"translation": "vergroot",
 		"machine": true
 	},
 	{
 		"phrase": "Buckshot",
-		"comment": "Ammo type name",
+		"comment": "Default ammo for a shotgun, which consists of small tiny metal balls",
 		"translation": "Buckshot",
 		"machine": true
 	},
 	{
 		"phrase": "Burst",
-		"comment": "Firing mechanism attachment name, e.g. single shot, burst and automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Uitbarsting",
 		"machine": true
 	},
 	{
-		"phrase": "Lethal",
-		"comment": "Ammo type name",
-		"translation": "Dodelijk",
-		"machine": true
-	},
-	{
 		"phrase": "Heavy",
-		"comment": "Ammo type name",
+		"comment": "Heavier ammunition that fires slower but deals more damage",
 		"translation": "Zwaar",
 		"machine": true
 	},
@@ -625,91 +553,85 @@
 	},
 	{
 		"phrase": "Piercing",
-		"comment": "Ammo type name",
+		"comment": "Ammunition type that pierces through players and blocks",
 		"translation": "Piercing",
 		"machine": true
 	},
 	{
 		"phrase": "Ricochet",
-		"comment": "Ammo type name",
+		"comment": "Ammunition type that bounces off walls",
 		"translation": "Ricochet",
 		"machine": true
 	},
 	{
 		"phrase": "Slug",
-		"comment": "Ammo type name",
+		"comment": "A large metal slug that can be fired by a shotgun",
 		"translation": "Naaktslak",
 		"machine": true
 	},
 	{
-		"phrase": "Tow",
-		"comment": "Ammo type name",
-		"translation": "Slepen",
-		"machine": true
-	},
-	{
 		"phrase": "Corrosive",
-		"comment": "Payload attachment name",
+		"comment": "Corrosive acid that eats blocks",
 		"translation": "Bijtend",
 		"machine": true
 	},
 	{
 		"phrase": "Explosive",
-		"comment": "Payload attachment name",
+		"comment": "Projectile payload that explodes on impact",
 		"translation": "explosief",
 		"machine": true
 	},
 	{
 		"phrase": "Incendiary",
-		"comment": "Payload attachment name",
+		"comment": "Projectile payload that sets its target on fire",
 		"translation": "brandgevaarlijk",
 		"machine": true
 	},
 	{
 		"phrase": "Base",
-		"comment": "Loader attachment name",
+		"comment": "Base\/default",
 		"translation": "Baseren",
 		"machine": true
 	},
 	{
 		"phrase": "Tactical",
-		"comment": "Stock attachment name",
+		"comment": "A tactical missile strike",
 		"translation": "Tactisch",
 		"machine": true
 	},
 	{
 		"phrase": "Mechanical",
-		"comment": "Revolver trigger attachment name",
+		"comment": "A revolver trigger type that fires automatically when held down",
 		"translation": "Mechanisch",
 		"machine": true
 	},
 	{
 		"phrase": "Advanced",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Advanced technology",
 		"translation": "Geavanceerd",
 		"machine": true
 	},
 	{
 		"phrase": "Welded",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Welded shut",
 		"translation": "gelast",
 		"machine": true
 	},
 	{
 		"phrase": "Pneumatic",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Pneumatic equipment",
 		"translation": "pneumatisch",
 		"machine": true
 	},
 	{
 		"phrase": "Single",
-		"comment": "Core attachment name, i.e. single shot vs automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Enkel",
 		"machine": true
 	},
 	{
 		"phrase": "Automatic",
-		"comment": "Core attachment name, i.e. single shot vs automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "automatisch",
 		"machine": true
 	},
@@ -745,7 +667,7 @@
 	},
 	{
 		"phrase": "Ironsights",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "Ironsights",
 		"machine": true
 	},
@@ -907,55 +829,55 @@
 	},
 	{
 		"phrase": "Snakeskin",
-		"comment": "Weapon skin name",
+		"comment": "Camoflague pattern in the shape of hexagon-like snake skin",
 		"translation": "slangenleer",
 		"machine": true
 	},
 	{
 		"phrase": "Woodland",
-		"comment": "Weapon skin name",
+		"comment": "Camoflague pattern in the shape of mottled wood",
 		"translation": "Bos",
 		"machine": true
 	},
 	{
 		"phrase": "Hot Metal",
-		"comment": "Weapon skin name",
+		"comment": "A fire-themed metallic weapon skin",
 		"translation": "Heet metaal",
 		"machine": true
 	},
 	{
 		"phrase": "Cold Metal",
-		"comment": "Weapon skin name",
+		"comment": "An ice-themed metallic weapon skin",
 		"translation": "Koud metaal",
 		"machine": true
 	},
 	{
 		"phrase": "Pearl",
-		"comment": "Weapon skin name",
+		"comment": "A weapon skin that is similar to pearlescent paint applied to a car",
 		"translation": "Parel",
 		"machine": true
 	},
 	{
 		"phrase": "Tracer",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks like the patterns on a CPU motherboard (circles connected by straight and diagonal lines)",
 		"translation": "Tracer",
 		"machine": true
 	},
 	{
 		"phrase": "Fluid",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks like liquid",
 		"translation": "Vloeistof",
 		"machine": true
 	},
 	{
 		"phrase": "Ember",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks embers floating away from a fire",
 		"translation": "Sintel",
 		"machine": true
 	},
 	{
 		"phrase": "Grid",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin composed of lots of dots in a grid",
 		"translation": "Rooster",
 		"machine": true
 	},
@@ -967,68 +889,38 @@
 	},
 	{
 		"phrase": "Hydraulics",
-		"comment": "Armour modification name",
+		"comment": "Hydraulics increases jump height and reduces fall damage",
 		"translation": "Hydraulica",
 		"machine": true
 	},
 	{
 		"phrase": "Regeneration",
-		"comment": "Armour modification name",
+		"comment": "Health regeneration",
 		"translation": "regeneratie",
 		"machine": true
 	},
 	{
 		"phrase": "Speed",
-		"comment": "Armour modification name",
+		"comment": "How fast something happens, i.e. 'Blade advanced on his prey at lightning speeds'",
 		"translation": "Snelheid",
 		"machine": true
 	},
 	{
 		"phrase": "Stealth",
-		"comment": "Armour modification name",
+		"comment": "The act of being sneaky",
 		"translation": "Stealth",
 		"machine": true
 	},
 	{
 		"phrase": "Kinetic",
-		"comment": "Armour modification name",
+		"comment": "Kinetic energy",
 		"translation": "kinetisch",
 		"machine": true
 	},
 	{
 		"phrase": "Scavenger",
-		"comment": "Armour modification name",
+		"comment": "Scavengers pick up more ammo from enemy corpses",
 		"translation": "aaseter",
-		"machine": true
-	},
-	{
-		"phrase": "Determining sector coordinates",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Sectorcoördinaten bepalen",
-		"machine": true
-	},
-	{
-		"phrase": "Calibrating thermal dampeners",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Thermische dempers kalibreren",
-		"machine": true
-	},
-	{
-		"phrase": "Entering planet atmosphere",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "De atmosfeer van de planeet binnengaan",
-		"machine": true
-	},
-	{
-		"phrase": "Analysing environment",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Omgeving analyseren",
-		"machine": true
-	},
-	{
-		"phrase": "Commencing landing procedure",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Aanvang landingsprocedure",
 		"machine": true
 	},
 	{
@@ -1117,13 +1009,13 @@
 	},
 	{
 		"phrase": "Upload",
-		"comment": "[Mapping Screen] Upload a map to the Workshop",
+		"comment": "Upload the map",
 		"translation": "Uploaden",
 		"machine": true
 	},
 	{
 		"phrase": "Private",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is private, meaning only I can see it",
 		"translation": "Privaat",
 		"machine": true
 	},
@@ -1135,13 +1027,13 @@
 	},
 	{
 		"phrase": "Unlisted",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is unlisted, meaning only people with a link can see it",
 		"translation": "niet vermeld",
 		"machine": true
 	},
 	{
 		"phrase": "Public",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is public, meaning anyone can see it",
 		"translation": "Openbaar",
 		"machine": true
 	},
@@ -1189,7 +1081,7 @@
 	},
 	{
 		"phrase": "Invalid",
-		"comment": "[Workshop] The map upload has failed due to invalid map settings",
+		"comment": "The value is not valid",
 		"translation": "Ongeldig",
 		"machine": true
 	},
@@ -1243,7 +1135,7 @@
 	},
 	{
 		"phrase": "Visibility",
-		"comment": "[Setting] The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
+		"comment": "The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
 		"translation": "Zichtbaarheid",
 		"machine": true
 	},
@@ -1267,13 +1159,13 @@
 	},
 	{
 		"phrase": "Barrel",
-		"comment": "Attachment category",
+		"comment": "The barrel on the front of a gun, e.g. a silencer",
 		"translation": "Loop",
 		"machine": true
 	},
 	{
 		"phrase": "Sight",
-		"comment": "Attachment category",
+		"comment": "Weapon sights that the player looks through on top of their gun",
 		"translation": "Zicht",
 		"machine": true
 	},
@@ -1411,7 +1303,7 @@
 	},
 	{
 		"phrase": "Edit loadouts",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Edit loadouts'",
+		"comment": "Click this button to edit your loadouts",
 		"translation": "Uitrustingen bewerken",
 		"machine": true
 	},
@@ -1489,7 +1381,7 @@
 	},
 	{
 		"phrase": "Magazine",
-		"comment": "Attachment category",
+		"comment": "This is a replaceable part of a gun that holds bullets",
 		"translation": "Tijdschrift",
 		"machine": true
 	},
@@ -1513,7 +1405,7 @@
 	},
 	{
 		"phrase": "Unlock",
-		"comment": "Click to unlock this character",
+		"comment": "Click to unlock this weapon skin",
 		"translation": "Ontgrendelen",
 		"machine": true
 	},
@@ -1537,7 +1429,7 @@
 	},
 	{
 		"phrase": "Customise",
-		"comment": "[Killcam] [Button] Customise button below the killcam preview",
+		"comment": "The player can customise their character",
 		"translation": "Aanpassen",
 		"machine": true
 	},
@@ -1573,7 +1465,7 @@
 	},
 	{
 		"phrase": "Ship",
-		"comment": "A futuristic space ship where the player can relax",
+		"comment": "A futuristic space ship flying through the galaxy at high speeds",
 		"translation": "Schip",
 		"machine": true
 	},
@@ -1591,19 +1483,19 @@
 	},
 	{
 		"phrase": "Skin",
-		"comment": "[Progression Reward] [Weapon] e.g. Free Light Plasma Skin",
+		"comment": "A weapon skin\/pattern\/camoflague can be applied to a weapon to change its appearance",
 		"translation": "Huid",
 		"machine": true
 	},
 	{
 		"phrase": "Save",
-		"comment": "1 Save, i.e. when you save a friendly from being killed",
+		"comment": "Save your changes",
 		"translation": "Sparen",
 		"machine": true
 	},
 	{
 		"phrase": "Workshop",
-		"comment": "Maps that the users has subscribed to in the workshop",
+		"comment": "This refers to the Steam Workshop, which is a place where players can upload maps for other players to try",
 		"translation": "werkplaats",
 		"machine": true
 	},
@@ -1651,19 +1543,19 @@
 	},
 	{
 		"phrase": "Holster time",
-		"comment": "[Attachment Stat] The time required to put away \/ pull out a weapon",
+		"comment": "The time required to place a weapon in its holster",
 		"translation": "Holster tijd",
 		"machine": true
 	},
 	{
 		"phrase": "ADS time",
-		"comment": "[Attachment Stat] ADS stands for Aiming Down the Sights",
+		"comment": "The time required to aim down the sights of a gun. ADS stands for Aim Down the Sights",
 		"translation": "ADS-tijd",
 		"machine": true
 	},
 	{
 		"phrase": "Projectile speed",
-		"comment": "[Attachment Stat] How many blocks-per-second the projectile travels",
+		"comment": "How fast the projectile travels",
 		"translation": "Projectiel snelheid",
 		"machine": true
 	},
@@ -1675,19 +1567,19 @@
 	},
 	{
 		"phrase": "Reload",
-		"comment": "[Keybind]",
+		"comment": "Reload a gun",
 		"translation": "Herladen",
 		"machine": true
 	},
 	{
 		"phrase": "Block damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to blocks",
+		"comment": "The amount of damage a weapon deals to blocks",
 		"translation": "Blokschade",
 		"machine": true
 	},
 	{
 		"phrase": "Pellet count",
-		"comment": "[Attachment Stat] How many pellets a weapon fires",
+		"comment": "How many pellets a weapon fires",
 		"translation": "Pellettelling",
 		"machine": true
 	},
@@ -2209,19 +2101,19 @@
 	},
 	{
 		"phrase": "Forwards",
-		"comment": "[Keybind] Move forward",
+		"comment": "Move forward",
 		"translation": "Vooruit",
 		"machine": true
 	},
 	{
 		"phrase": "Right",
-		"comment": "[Keybind] Move right",
+		"comment": "Move to the right",
 		"translation": "Rechts",
 		"machine": true
 	},
 	{
 		"phrase": "Backwards",
-		"comment": "[Keybind] Move backwards",
+		"comment": "Move backwards",
 		"translation": "Achteruit",
 		"machine": true
 	},
@@ -2233,7 +2125,7 @@
 	},
 	{
 		"phrase": "Jump",
-		"comment": "[Keybind]",
+		"comment": "Jump over obstacles",
 		"translation": "Springen",
 		"machine": true
 	},
@@ -2245,20 +2137,8 @@
 	},
 	{
 		"phrase": "Slide",
-		"comment": "[Keybind]",
+		"comment": "Slide along on the ground",
 		"translation": "Schuif",
-		"machine": true
-	},
-	{
-		"phrase": "Pick Up Primary",
-		"comment": "[Keybind]",
-		"translation": "Primair ophalen",
-		"machine": true
-	},
-	{
-		"phrase": "Pick Up Secondary",
-		"comment": "[Keybind]",
-		"translation": "Ophalen secundair",
 		"machine": true
 	},
 	{
@@ -2269,19 +2149,19 @@
 	},
 	{
 		"phrase": "Ping (Enemy)",
-		"comment": "[Keybind]",
+		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
 		"translation": "Ping (vijand))",
 		"machine": true
 	},
 	{
 		"phrase": "Ping (Help)",
-		"comment": "[Keybind]",
+		"comment": "This ping refers to placing a 3D marker above your head, indicating you need backup",
 		"translation": "Ping (help)",
 		"machine": true
 	},
 	{
 		"phrase": "Shoot",
-		"comment": "[Keybind]",
+		"comment": "Shoot your gun",
 		"translation": "Schieten",
 		"machine": true
 	},
@@ -2293,37 +2173,31 @@
 	},
 	{
 		"phrase": "Melee",
-		"comment": "In-game point text",
+		"comment": "Hitting a player with knives or stabbing weapons",
 		"translation": "Melee",
 		"machine": true
 	},
 	{
 		"phrase": "Grenade",
-		"comment": "[Keybind]",
+		"comment": "An explosive grenade",
 		"translation": "Granaat",
 		"machine": true
 	},
 	{
-		"phrase": "Midi",
-		"comment": "[Keybind]",
-		"translation": "Midi",
-		"machine": true
-	},
-	{
 		"phrase": "Digger",
-		"comment": "[Keybind]",
+		"comment": "A midi has two modes: builder and digger",
 		"translation": "Graver",
 		"machine": true
 	},
 	{
 		"phrase": "Structure (Radial)",
-		"comment": "[Keybind]",
+		"comment": "Holding this keybind displays a radial that lets you select one of your custom structures",
 		"translation": "Structuur (radiaal))",
 		"machine": true
 	},
 	{
 		"phrase": "Structure (Toggle)",
-		"comment": "[Keybind]",
+		"comment": "If a player has three structures, they can press this keybind to change to the next structure",
 		"translation": "Structuur (toggle))",
 		"machine": true
 	},
@@ -2509,67 +2383,61 @@
 	},
 	{
 		"phrase": "Flag escort",
-		"comment": "In-game point text",
+		"comment": "If a friendly has stolen the enemy flag and you are near that friendly, you are escorting the flag",
 		"translation": "Vlag escorte",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb escort",
-		"comment": "In-game point text",
+		"comment": "If a friendly has picked up a bomb and you are near that friendly, you are escorting the bomb",
 		"translation": "Bom escorte",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb carrier kill",
-		"comment": "In-game point text",
+		"comment": "Killing an enemy that is carrying a bomb",
 		"translation": "Bomb carrier doden",
 		"machine": true
 	},
 	{
 		"phrase": "MVP",
-		"comment": "Abbreviated medal name",
+		"comment": "Abbreviation of Most Valuable Player",
 		"translation": "MVP",
 		"machine": true
 	},
 	{
-		"phrase": "Extendest",
-		"comment": "Barrel attachment name",
-		"translation": "Verlengde",
-		"machine": true
-	},
-	{
 		"phrase": "Side",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip that sticks out the side of the gun",
 		"translation": "Kant",
 		"machine": true
 	},
 	{
 		"phrase": "Angled Half-Grip",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip that's shorter and angled",
 		"translation": "Gehoekte halve greep",
 		"machine": true
 	},
 	{
 		"phrase": "Large",
-		"comment": "Magazine attachment name",
+		"comment": "A large magazine holds more bullets",
 		"translation": "Groot",
 		"machine": true
 	},
 	{
 		"phrase": "Triple",
-		"comment": "Ammo type name",
+		"comment": "Triple, three",
 		"translation": "Verdrievoudigen",
 		"machine": true
 	},
 	{
 		"phrase": "Rigid",
-		"comment": "Stock attachment name",
+		"comment": "A weapon stock that weighs more and is more stable",
 		"translation": "Stijf",
 		"machine": true
 	},
 	{
 		"phrase": "Plasma Cutter",
-		"comment": "Core attachment name",
+		"comment": "Alternate weapon name for the Orberator, it fires a short-range plasma laser that easily cuts through blocks",
 		"translation": "Plasmasnijder",
 		"machine": true
 	},
@@ -2637,25 +2505,25 @@
 	},
 	{
 		"phrase": "2X",
-		"comment": "Sight attachment name",
+		"comment": "A weapon sight that has 2.0x zoom",
 		"translation": "2X",
 		"machine": true
 	},
 	{
 		"phrase": "4X",
-		"comment": "Sight attachment name",
+		"comment": "A weapon sight that has 2.0x zoom",
 		"translation": "4X",
 		"machine": true
 	},
 	{
 		"phrase": "Foregrip",
-		"comment": "Attachment category",
+		"comment": "The part of the gun that the player holds on to, e.g. stubby foregrip",
 		"translation": "Voorgrip",
 		"machine": true
 	},
 	{
 		"phrase": "Stock",
-		"comment": "Attachment category",
+		"comment": "The rear part of the gun that rests against the player's shoulder for stability",
 		"translation": "Voorraad",
 		"machine": true
 	},
@@ -2816,20 +2684,14 @@
 		"machine": true
 	},
 	{
-		"phrase": "Report Player",
-		"comment": "Report a player for cheating",
-		"translation": "Rapporteer speler",
-		"machine": true
-	},
-	{
 		"phrase": "Spectators",
-		"comment": "A spectator is someone who is watching the match",
+		"comment": "Someone who is watching a battle",
 		"translation": "Toeschouwers",
 		"machine": true
 	},
 	{
 		"phrase": "You have left the party",
-		"comment": "Notification that you left the party",
+		"comment": "A party is a group of 4 friends that player together. This notification shows when you leave the party or the party disbands",
 		"translation": "Je hebt het feest verlaten",
 		"machine": true
 	},
@@ -2901,25 +2763,25 @@
 	},
 	{
 		"phrase": "Platinum",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A platinum medal",
 		"translation": "Platina",
 		"machine": true
 	},
 	{
 		"phrase": "Gold",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A gold medal",
 		"translation": "Goud",
 		"machine": true
 	},
 	{
 		"phrase": "Silver",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A silver medal",
 		"translation": "Zilver",
 		"machine": true
 	},
 	{
 		"phrase": "Bronze",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A bronze medal",
 		"translation": "Bronzen",
 		"machine": true
 	},
@@ -3013,19 +2875,19 @@
 	},
 	{
 		"phrase": "Equip",
-		"comment": "Click to equip this character",
+		"comment": "Click to equip this weapon skin",
 		"translation": "Uitrusten",
 		"machine": true
 	},
 	{
 		"phrase": "Equipped",
-		"comment": "This weapon is equipped",
+		"comment": "This weapon skinis equipped",
 		"translation": "Uitgerust",
 		"machine": true
 	},
 	{
 		"phrase": "Holographic",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "Holografisch",
 		"machine": true
 	},
@@ -3085,55 +2947,55 @@
 	},
 	{
 		"phrase": "Block capacity",
-		"comment": "[Attachment Stat] How many blocks the Midi can store",
+		"comment": "How many blocks the Midi can store",
 		"translation": "Blok capaciteit",
 		"machine": true
 	},
 	{
 		"phrase": "Movement speed",
-		"comment": "[Loadout Stat] How fast the player moves",
+		"comment": "How fast the player moves",
 		"translation": "Bewegingssnelheid",
 		"machine": true
 	},
 	{
 		"phrase": "Jump velocity",
-		"comment": "[Loadout Stat] How high the player can jump",
+		"comment": "How high the player can jump",
 		"translation": "Sprongsnelheid",
 		"machine": true
 	},
 	{
 		"phrase": "Fall damage",
-		"comment": "[Loadout Stat] How much fall damage a player suffers when landing on the ground",
+		"comment": "How much fall damage a player receives when landing on the ground",
 		"translation": "Val schade",
 		"machine": true
 	},
 	{
 		"phrase": "Safe fall distance",
-		"comment": "[Loadout Stat] How far the player can fall before taking damage",
+		"comment": "How far the player can fall before taking damage",
 		"translation": "Veilige valafstand",
 		"machine": true
 	},
 	{
 		"phrase": "Build distance",
-		"comment": "[Attachment Stat] How far away the Midi can build",
+		"comment": "How far away the Midi can build",
 		"translation": "Bouw afstand",
 		"machine": true
 	},
 	{
 		"phrase": "Block health",
-		"comment": "[Attachment Stat] How strong a block is",
+		"comment": "How strong a block is",
 		"translation": "Gezondheid blokkeren",
 		"machine": true
 	},
 	{
 		"phrase": "Dig speed",
-		"comment": "[Attachment Stat] How fast the Midi can dig",
+		"comment": "How fast the Midi can dig",
 		"translation": "graaf snelheid",
 		"machine": true
 	},
 	{
 		"phrase": "Build speed",
-		"comment": "[Attachment Stat] How fast the Midi can build",
+		"comment": "How fast the Midi can build",
 		"translation": "Bouw snelheid",
 		"machine": true
 	},
@@ -3180,44 +3042,32 @@
 		"machine": true
 	},
 	{
-		"phrase": "ms",
-		"comment": "[Unit Prefix] Milliseconds",
-		"translation": "Mevrouw",
-		"machine": true
-	},
-	{
-		"phrase": "Game Modes",
-		"comment": "A set of rules that controls how players kill Fora",
-		"translation": "Spelmodi",
-		"machine": true
-	},
-	{
 		"phrase": "Eternal",
-		"comment": "Server list info",
+		"comment": "The match will last forever",
 		"translation": "Eeuwig",
 		"machine": true
 	},
 	{
 		"phrase": "Trailer",
-		"comment": "Server list info. This server is being used to record a video trailer",
+		"comment": "This server is being used to record a video trailer",
 		"translation": "Aanhangwagen",
 		"machine": true
 	},
 	{
 		"phrase": "Sandbox",
-		"comment": "Server list info",
+		"comment": "When enabling sandbox mode, players are invincible and have infinite ammo",
 		"translation": "Zandbak",
 		"machine": true
 	},
 	{
 		"phrase": "Vertical",
-		"comment": "Loader attachment name",
+		"comment": "A shotgun loader that's angled vertically",
 		"translation": "Verticaal",
 		"machine": true
 	},
 	{
 		"phrase": "Multi-Orb",
-		"comment": "Core attachment name",
+		"comment": "This core attachment for the Orberator fires 5 smaller orbs rather than 1 large orb",
 		"translation": "Multi-orb",
 		"machine": true
 	},
@@ -3234,24 +3084,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Slot 1",
-		"comment": "The first slot in your inventory",
-		"translation": "Gleuf 1",
-		"machine": true
-	},
-	{
-		"phrase": "Slot 2",
-		"comment": "The second slot in your inventory",
-		"translation": "Sleuf 2",
-		"machine": true
-	},
-	{
-		"phrase": "Slot 3",
-		"comment": "The third slot in your inventory",
-		"translation": "Sleuf 3",
-		"machine": true
-	},
-	{
 		"phrase": "Crosshair",
 		"comment": "A crosshair on a gun scope",
 		"translation": "Crosshair",
@@ -3265,13 +3097,13 @@
 	},
 	{
 		"phrase": "Attachments",
-		"comment": "Weapon attachments",
+		"comment": "2 Attachments",
 		"translation": "Bijlagen",
 		"machine": true
 	},
 	{
 		"phrase": "Sights",
-		"comment": "Weapon sights",
+		"comment": "Weapon sights that the player looks through on top of their gun",
 		"translation": "Bezienswaardigheden",
 		"machine": true
 	},
@@ -3301,19 +3133,19 @@
 	},
 	{
 		"phrase": "Loader",
-		"comment": "Attachment category",
+		"comment": "This is like a foregrip but can move forwards and backwards to load a shotgun shell into the Combat Shotgun, i.e. the cliche chk chk boom of a shotgun",
 		"translation": "Lader",
 		"machine": true
 	},
 	{
 		"phrase": "Payload",
-		"comment": "Attachment category",
+		"comment": "Bullets can contain different payloads, e.g. incendiary, explosive",
 		"translation": "Laadvermogen",
 		"machine": true
 	},
 	{
 		"phrase": "Trigger",
-		"comment": "Attachment category",
+		"comment": "Pull the trigger to fire bullets",
 		"translation": "Trekker",
 		"machine": true
 	},
@@ -3832,25 +3664,25 @@
 	},
 	{
 		"phrase": "Compensator",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that reduces recoil",
 		"translation": "Compensator",
 		"machine": true
 	},
 	{
 		"phrase": "Sticky",
-		"comment": "Ammo type name - an explosive projectile sticks to the wall on impact before exploding",
+		"comment": "An explosive projectile sticks to the wall before exploding",
 		"translation": "Kleverig",
 		"machine": true
 	},
 	{
 		"phrase": "Cluster",
-		"comment": "Ammo type name - an explosive projectile explodes into a cluster of 3 explosives",
+		"comment": "An explosive projectile that explodes into 3 smaller projectiles",
 		"translation": "TROS",
 		"machine": true
 	},
 	{
 		"phrase": "Fragmentation",
-		"comment": "Payload attachment name",
+		"comment": "A projectile type that explodes into thousands of small fragments on impact",
 		"translation": "fragmentatie",
 		"machine": true
 	},
@@ -3874,7 +3706,7 @@
 	},
 	{
 		"phrase": "Boost",
-		"comment": "[Career Path] i.e. '50% Proton Boost'",
+		"comment": "1 Boost, i.e. an item a player can use to increase their Proton and XP gain for the next hour",
 		"translation": "Boost",
 		"machine": true
 	},
@@ -4151,7 +3983,7 @@
 	},
 	{
 		"phrase": "The map is restoring. Try again in {0} seconds",
-		"comment": "Reason for being disconnected from a server. Parameter 0: '10'",
+		"comment": "If a player joins a server while the map is being restored to a previous version, they are shown this error",
 		"translation": "De kaart is aan het herstellen. probeer het opnieuw in {0} seconden",
 		"machine": true
 	},
@@ -4205,21 +4037,21 @@
 	},
 	{
 		"phrase": "Internal error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If the server crashes or has a bug, this error is shown",
 		"translation": "Interne fout",
 		"machine": true
 	},
 	{
 		"phrase": "Light",
 		"context": "Weak",
-		"comment": "Ammo type name",
+		"comment": "Smaller ammunition that fires faster but deals less damage",
 		"translation": "Licht",
 		"machine": true
 	},
 	{
 		"phrase": "Light",
 		"context": "Lightweight",
-		"comment": "Stock attachment name",
+		"comment": "A weapon stock that weighs less but is slightly unstable",
 		"translation": "Licht",
 		"machine": true
 	},
@@ -4243,7 +4075,7 @@
 	},
 	{
 		"phrase": "Home",
-		"comment": "The home screen where the player can read news and quick play",
+		"comment": "The home screen is where the player can read news and quick play",
 		"translation": "Huis",
 		"machine": true
 	},
@@ -4315,13 +4147,13 @@
 	},
 	{
 		"phrase": "Ammo",
-		"comment": "Attachment category",
+		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "munitie",
 		"machine": true
 	},
 	{
 		"phrase": "Mechanism",
-		"comment": "Attachment category",
+		"comment": "The mechanism is inside the gun and fires bullets when the trigger is held. This changes whether the gun fires in bursts of 3, or has automatic fire",
 		"translation": "Mechanisme",
 		"machine": true
 	},
@@ -4339,31 +4171,31 @@
 	},
 	{
 		"phrase": "Extractor destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Extractor and destroying it. An Extractor is a deployable device that digs tunnels",
 		"translation": "Extractor vernietigd",
 		"machine": true
 	},
 	{
 		"phrase": "Reinforcer destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Reinforcer and destroying it. A Reinforcer is a deployable device that strengthens the blocks around it",
 		"translation": "Versterker vernietigd",
 		"machine": true
 	},
 	{
 		"phrase": "Tether destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Tether and destroying it. A Tether is a device that attaches to walls and can pull them down",
 		"translation": "Tether vernietigd",
 		"machine": true
 	},
 	{
 		"phrase": "Turret destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Turret and destroying it. A Turret is a deployable device that shoots at enemies",
 		"translation": "torentje vernietigd",
 		"machine": true
 	},
 	{
 		"phrase": "Win",
-		"comment": "This player won the battle, i.e. 'You win!'",
+		"comment": "You win the battle",
 		"translation": "Winnen",
 		"machine": true
 	},
@@ -4375,31 +4207,31 @@
 	},
 	{
 		"phrase": "Overcharged",
-		"comment": "Ammo type name",
+		"comment": "When a plasma weapon is overcharged, it fires projectiles in bursts of two",
 		"translation": "Overladen",
 		"machine": true
 	},
 	{
 		"phrase": "Dispersion",
-		"comment": "Ammo type name",
+		"comment": "This is a plasma projectile type that disperses a large amount of plasma outwards on impact, dealing area-of-effect damage to blocks and players",
 		"translation": "Spreiding",
 		"machine": true
 	},
 	{
 		"phrase": "Ion",
-		"comment": "Ammo type name",
+		"comment": "Ion projectiles alter the molecular structure of blocks to allow projectiles to temporarily pass through",
 		"translation": "Ion",
 		"machine": true
 	},
 	{
 		"phrase": "Impact",
-		"comment": "Payload attachment name",
+		"comment": "The Rocket Rifle projectile traditionally carries an explosive payload, but can be replaced with solid metal to deal a large amount of damage on impact",
 		"translation": "Invloed",
 		"machine": true
 	},
 	{
 		"phrase": "Red Dot",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "rode stip",
 		"machine": true
 	},
@@ -4411,25 +4243,25 @@
 	},
 	{
 		"phrase": "Dig single blocks",
-		"comment": "[Keybind]",
+		"comment": "Enable this setting to dig single blocks by default, rather than 3x3x3 chunks of blocks",
 		"translation": "Graaf enkele blokken",
 		"machine": true
 	},
 	{
 		"phrase": "Detonate",
-		"comment": "[Keybind] Detonate C4 explosives",
+		"comment": "Detonate C4 explosives",
 		"translation": "Ontploffen",
 		"machine": true
 	},
 	{
 		"phrase": "Rotate structure clockwise",
-		"comment": "[Keybind]",
+		"comment": "A structure refers to a 5x5x5 group of blocks that a player can customise in their ship, then place quickly in battle. Pressing this keybind rotates the structure clockwise",
 		"translation": "Draai de structuur met de klok mee",
 		"machine": true
 	},
 	{
 		"phrase": "Rotate structure anticlockwise",
-		"comment": "[Keybind]",
+		"comment": "Pressing this keybind rotates the structure anticlockwise",
 		"translation": "Draai de structuur tegen de klok in",
 		"machine": true
 	},
@@ -4513,73 +4345,73 @@
 	},
 	{
 		"phrase": "Small Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
 		"translation": "Kleine bus",
 		"machine": true
 	},
 	{
 		"phrase": "Medium Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A medium canister on the Midi can hold a bit more matter",
 		"translation": "Middelgrote bus",
 		"machine": true
 	},
 	{
 		"phrase": "Large Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A large canister on the Midi can hold a lot of stuff",
 		"translation": "Grote bus",
 		"machine": true
 	},
 	{
 		"phrase": "Budget Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The core on the Midi fabricates matter from the particles stored in the canister. The budget core can create weak blocks",
 		"translation": "Budget kern",
 		"machine": true
 	},
 	{
 		"phrase": "Ion Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The ion core can create stronger blocks while consuming less matter from the canister",
 		"translation": "Ionen kern",
 		"machine": true
 	},
 	{
 		"phrase": "Dual Proto Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The Dual Proto core is the best in the market and can create very strong blocks",
 		"translation": "Dubbele proto-kern",
 		"machine": true
 	},
 	{
 		"phrase": "Solid Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The rod in the center of the Midi is condensed Soltrium that generates a laser that can cut through blocks",
 		"translation": "Massieve rail",
 		"machine": true
 	},
 	{
 		"phrase": "Quad Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The Quad Rail increases the power of the laser",
 		"translation": "Quadrail",
 		"machine": true
 	},
 	{
 		"phrase": "Warped Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The Warped Rail is the latest in Midi technology and produces a high-powered laser that can cut through nearly anything",
 		"translation": "kromgetrokken spoor",
 		"machine": true
 	},
 	{
 		"phrase": "Basic Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Basic Servo in the Midi spins slowly but gets the job done",
 		"translation": "Basisservo",
 		"machine": true
 	},
 	{
 		"phrase": "Power Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Power Servo spins much faster and increases digging speed",
 		"translation": "Krachtservo",
 		"machine": true
 	},
 	{
 		"phrase": "Turbo Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Turbo Servo is the fastest servo attachment for the Midi, utilising surprisingly effective primitive technology harvested from a GT-86 Human vehicle",
 		"translation": "Turbo-servo",
 		"machine": true
 	},
@@ -4703,12 +4535,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Boost pack",
-		"comment": "Store pack title. A player can use a Boost to increase the amount of currency and XP they earn while playing",
-		"translation": "Boostpakket",
-		"machine": true
-	},
-	{
 		"phrase": "Protons and XP are earned each match based on your performance.",
 		"comment": "Boost pack description",
 		"translation": "Protonen en XP worden elke wedstrijd verdiend op basis van je prestaties.",
@@ -4718,12 +4544,6 @@
 		"phrase": "XP contributes towards your player level, which is purely for display.",
 		"comment": "Boost pack description",
 		"translation": "XP draagt bij aan je spelersniveau, wat puur voor weergave is.",
-		"machine": true
-	},
-	{
-		"phrase": "Proton pack",
-		"comment": "Store pack title. Protons are the in-game currency",
-		"translation": "Protonenpakket",
 		"machine": true
 	},
 	{
@@ -4770,7 +4590,7 @@
 	},
 	{
 		"phrase": "Human",
-		"comment": "An inhabitant of Earth",
+		"comment": "An inhabitant of a distant planet named Earth",
 		"translation": "Menselijk",
 		"machine": true
 	},
@@ -5040,30 +4860,31 @@
 	},
 	{
 		"phrase": "Not owned",
-		"comment": "This character is not owned",
+		"comment": "This weapon skin is not owned",
 		"translation": "geen eigendom",
 		"machine": true
 	},
 	{
 		"phrase": "Owned",
-		"comment": "This character is owned",
+		"comment": "This weapon skin is owned",
 		"translation": "eigendom",
 		"machine": true
 	},
 	{
 		"phrase": "Unlocked",
-		"comment": "This character is unlocked",
+		"comment": "This weapon skin is unlocked",
 		"translation": "ontgrendeld",
 		"machine": true
 	},
 	{
 		"phrase": "Engineer Pack required",
-		"comment": "Block skin requirement description",
+		"comment": "The player must own the Engineer Pack to equip this block skin",
 		"translation": "Engineer-pakket vereist",
 		"machine": true
 	},
 	{
 		"phrase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		"comment": "The whole alphabet, this is used for Breakthrough zones, i.e. 'Zone A', 'Zone B'. Please ensure there are 26 letters here",
 		"translation": "ABCDEFGHIJKLMNOPQRSTU VWXYZ",
 		"machine": true
 	},
@@ -5075,7 +4896,7 @@
 	},
 	{
 		"phrase": "Unlock skin",
-		"comment": "Checkout window title when unlocking a character skin",
+		"comment": "Click this button to unlock a weapon skin",
 		"translation": "Ontgrendel de huid",
 		"machine": true
 	},
@@ -5110,57 +4931,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Loading next map...",
-		"comment": "[Server connection banner] This text displays when the player has connected to a server and is waiting for the map to load",
-		"translation": "Volgende kaart laden...",
-		"machine": true
-	},
-	{
 		"phrase": "Click to return to the battle",
-		"comment": "[Server connection banner] This text displays when the player has connected to a server, but backed out to change their loadouts",
+		"comment": "If a player changes to the loadout screen mid-battle, this text shows on a button at the bottom of the screen, which lets them return to the battle",
 		"translation": "Klik om terug te keren naar de strijd",
-		"machine": true
-	},
-	{
-		"phrase": "Updating server list",
-		"comment": "[Server connection banner] This text displays when the server list is updating",
-		"translation": "Serverlijst bijwerken",
-		"machine": true
-	},
-	{
-		"phrase": "Ready - click to join",
-		"comment": "[Server connection banner] This text displays when the client has connected to a match and is ready to join",
-		"translation": "Klaar - klik om mee te doen",
-		"machine": true
-	},
-	{
-		"phrase": "Left click a server to join    -    Right click a server to claim",
-		"comment": "[Server connection banner] Server list instructions. Please maintain the 4 empty spaces and hyphen between each phrase",
-		"translation": "Klik met de linkermuisknop op een server om lid te worden - klik met de rechtermuisknop op een server om te claimen",
-		"machine": true
-	},
-	{
-		"phrase": "Kill {0} enemies",
-		"comment": "Achievement criteria text. Parameter 0: '50'",
-		"translation": "Dood {0}-vijanden",
-		"machine": true
-	},
-	{
-		"phrase": "Kill {0} enemies with {1}",
-		"comment": "Achievement criteria text. Parameter 0: '50', parameter 1: 'the Light Plasma'",
-		"translation": "Dood {0}-vijanden met {1}",
-		"machine": true
-	},
-	{
-		"phrase": "Headshot {0} enemies",
-		"comment": "Achievement criteria text. Parameter 0: '50'",
-		"translation": "Headshot {0} vijanden",
-		"machine": true
-	},
-	{
-		"phrase": "Headshot {0} enemies with {1}",
-		"comment": "Achievement criteria text. Parameter 0: '50', parameter 1: 'the Light Plasma'",
-		"translation": "Headshot {0} vijanden met {1}",
 		"machine": true
 	},
 	{
@@ -5177,13 +4950,13 @@
 	},
 	{
 		"phrase": "Party: {0}",
-		"comment": "Party list header. Parameter 0: how many people are in your party. e.g. 'Party: 3'",
+		"comment": "Party list header indicating how many people are in your party. Parameter 0: '3'",
 		"translation": "Partij: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Online: {0}",
-		"comment": "Friend list header. Parameter 0: how many of your friends are online. e.g. 'Online: 7'",
+		"comment": "Party list header indicating how many of your friends are online. Parameter 0: '7'",
 		"translation": "Online: {0}",
 		"machine": true
 	},
@@ -5219,32 +4992,26 @@
 	},
 	{
 		"phrase": "Alpha",
-		"comment": "Alpha component of a HSL colour",
+		"comment": "The alpha\/transparency component of a colour",
 		"translation": "Alfa",
 		"machine": true
 	},
 	{
 		"phrase": "Included",
-		"comment": "Server filter checkbox, i.e. 'empty servers are included in the list'",
+		"comment": "Checkbox setting i.e. 'empty servers are included in the list'",
 		"translation": "Inbegrepen",
 		"machine": true
 	},
 	{
 		"phrase": "Excluded",
-		"comment": "Server filter checkbox, i.e. 'empty servers are excluded from the list'",
+		"comment": "Checkbox setting, i.e. 'empty servers are excluded from the list'",
 		"translation": "uitgesloten",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Power",
-		"comment": "Loadout power title, i.e. '15 Power'",
+		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12'",
 		"translation": "{0} Vermogen",
-		"machine": true
-	},
-	{
-		"phrase": "Loading custom map",
-		"comment": "[Mapping info banner] This text displays when the player is loading a custom map from their local files",
-		"translation": "Aangepaste kaart laden",
 		"machine": true
 	},
 	{
@@ -5254,20 +5021,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Mute all enemies",
-		"comment": "Mute all enemies in voice chat",
-		"translation": "Alle vijanden dempen",
-		"machine": true
-	},
-	{
 		"phrase": "Unmute all players",
 		"comment": "Unmute all players in voice chat",
-		"translation": "Alle spelers dempen",
-		"machine": true
-	},
-	{
-		"phrase": "Mute all players",
-		"comment": "Mute all players in voice chat",
 		"translation": "Alle spelers dempen",
 		"machine": true
 	},
@@ -5279,19 +5034,19 @@
 	},
 	{
 		"phrase": "Unlock attachment",
-		"comment": "Checkout window title when unlocking a weapon attachment",
+		"comment": "Click this button to unlock a weapon attachment",
 		"translation": "Bijlage ontgrendelen",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock sight",
-		"comment": "Checkout window title when unlocking a weapon sight",
+		"comment": "Click this button to unlock a weapon sight",
 		"translation": "Zicht ontgrendelen",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock crosshair",
-		"comment": "Checkout window title when unlocking a crosshair",
+		"comment": "Click this button to unlock a crosshair",
 		"translation": "Kruisdraad ontgrendelen",
 		"machine": true
 	},
@@ -5459,14 +5214,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Pick your active Allegiance",
-		"comment": "This text shows above the list of Allegiances that the player can choose to join",
-		"translation": "Kies je actieve loyaliteit",
-		"machine": true
-	},
-	{
 		"phrase": "Category",
-		"comment": "Weapon skin category, i.e. camo, metallic, animated",
+		"comment": "Weapon skin category, i.e. camoflague, metallic, animated",
 		"translation": "Categorie",
 		"machine": true
 	},
@@ -5490,19 +5239,19 @@
 	},
 	{
 		"phrase": "Reload time",
-		"comment": "[Attachment Stat] How much time it takes to reload a weapon",
+		"comment": "The time required to reload a weapon",
 		"translation": "Herlaad tijd",
 		"machine": true
 	},
 	{
 		"phrase": "Magazine size",
-		"comment": "[Attachment Stat] How many bullets fit in a magazine",
+		"comment": "How many bullets a magazine contains",
 		"translation": "Tijdschrift formaat",
 		"machine": true
 	},
 	{
 		"phrase": "Rate of fire",
-		"comment": "[Attachment Stat] How many times a weapon fires per minute",
+		"comment": "How many times a weapon fires per minute",
 		"translation": "Vuursnelheid",
 		"machine": true
 	},
@@ -5520,7 +5269,7 @@
 	},
 	{
 		"phrase": "Projectile spread",
-		"comment": "[Attachment Stat] How much the projectile deviates from where the player is aiming",
+		"comment": "How much the projectile deviates from where the player is aiming",
 		"translation": "projectiel verspreiding",
 		"machine": true
 	},
@@ -5532,31 +5281,31 @@
 	},
 	{
 		"phrase": "Body TTK",
-		"comment": "[Attachment Stat] How long it takes a weapon to kill to the body",
+		"comment": "The time required for a weapon to kill to the body. TTK stands for Time To Kill",
 		"translation": "Lichaam TTK",
 		"machine": true
 	},
 	{
 		"phrase": "Head TTK",
-		"comment": "[Attachment Stat] How long it takes a weapon to kill to the head",
+		"comment": "The time required for a weapon to kill to the head",
 		"translation": "Hoofd TTK",
 		"machine": true
 	},
 	{
 		"phrase": "Body damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to an enemy's body",
+		"comment": "The amount of damage a weapon deals to an enemy's body",
 		"translation": "Lichaamsschade",
 		"machine": true
 	},
 	{
 		"phrase": "Head damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to an enemy's head",
+		"comment": "The amount of damage a weapon deals to an enemy's head",
 		"translation": "hoofd schade",
 		"machine": true
 	},
 	{
 		"phrase": "Splash damage",
-		"comment": "[Attachment Stat] How much area-of-effect damage a weapon deals to blocks",
+		"comment": "The amount of area-of-effect damage a weapon deals",
 		"translation": "Spatschade",
 		"machine": true
 	},
@@ -5568,19 +5317,19 @@
 	},
 	{
 		"phrase": "Gather rate",
-		"comment": "[Attachment Stat] How many blocks the Midi collects while digging",
+		"comment": "How many blocks the Midi collects while digging",
 		"translation": "Tarief verzamelen",
 		"machine": true
 	},
 	{
 		"phrase": "Dig distance",
-		"comment": "[Attachment Stat] How far away the Midi can dig",
+		"comment": "How far away the Midi can dig",
 		"translation": "Graaf afstand",
 		"machine": true
 	},
 	{
 		"phrase": "Appearance",
-		"comment": "Weapon appearance",
+		"comment": "The appearance of a weapon \/ what a weapon looks like",
 		"translation": "Uiterlijk",
 		"machine": true
 	},
@@ -5600,12 +5349,6 @@
 		"phrase": "Intergalactic currency",
 		"comment": "Whether the player wants to unlock something using protons or tokens, i.e. 'Intergalactic currency: Protons'",
 		"translation": "Intergalactische valuta",
-		"machine": true
-	},
-	{
-		"phrase": "Protons",
-		"comment": "Protons are the main currency of Sector's Edge",
-		"translation": "protonen",
 		"machine": true
 	},
 	{
@@ -5821,51 +5564,27 @@
 		"machine": true
 	},
 	{
-		"phrase": "Join the battle {0}",
-		"comment": "This button shows when a player is joining a match, i.e. 'press space to join the battle'. Parameter 0: [Space]",
-		"translation": "Doe mee aan de strijd {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Spectate {0}",
-		"comment": "This button shows when a player is joining a match, i.e. 'press space to spectate'. Parameter 0: [Space]",
-		"translation": "Toeschouwer {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Killfeed",
 		"comment": "The killfeed shows a history of players that have been killed",
 		"translation": "Killfeed",
 		"machine": true
 	},
 	{
-		"phrase": "Loadout overpowered - loadout must be 15 or less points to spawn",
-		"comment": "Info text that shows when a player attempts to spawn with an overpowered loadout",
-		"translation": "Loadout overmeesterd - loadout moet 15 of minder punten zijn om te spawnen",
-		"machine": true
-	},
-	{
 		"phrase": "Friends",
-		"comment": "People you enjoy being around",
+		"comment": "All of my friends",
 		"translation": "Vrienden",
 		"machine": true
 	},
 	{
 		"phrase": "Quick play - {0}",
-		"comment": "Quick play category text. Parameter 0: Oceania",
+		"comment": "Click here to quick play in Oceania. Parameter 0: Oceania",
 		"translation": "Snel spelen - {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Boosts",
-		"comment": "A boost is an item a player can use to increase their Proton and XP gain for the next hour",
+		"comment": "2 Boosts",
 		"translation": "Boosts",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Typ hier om te zoeken...",
 		"machine": true
 	},
 	{
@@ -5881,32 +5600,20 @@
 		"machine": true
 	},
 	{
-		"phrase": "Stats Colour",
-		"comment": "The colour of player statistics",
-		"translation": "Statistieken kleur",
-		"machine": true
-	},
-	{
 		"phrase": "Background Colour",
 		"comment": "The colour of the background",
 		"translation": "Achtergrond kleur",
 		"machine": true
 	},
 	{
-		"phrase": "Scale",
-		"comment": "Magnitude, i.e. how big something is",
-		"translation": "Schaal",
-		"machine": true
-	},
-	{
 		"phrase": "Type here to search titles...",
-		"comment": "Placeholder text for a search field. Titles refers to awards that the player has earned, e.g. 'Decrare, the Revolver Master'",
+		"comment": "Placeholder text for searching through a list of titles the player has earned. An example of a title is 'Revolver Master' or 'Deathbringer'",
 		"translation": "Typ hier om titels te zoeken...",
 		"machine": true
 	},
 	{
 		"phrase": "Title",
-		"comment": "The title or header of a UI window",
+		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
 		"translation": "Titel",
 		"machine": true
 	},
@@ -5918,7 +5625,7 @@
 	},
 	{
 		"phrase": "Theme",
-		"comment": "The theme of the UI",
+		"comment": "The theme of the user interface",
 		"translation": "Thema",
 		"machine": true
 	},
@@ -5936,91 +5643,61 @@
 	},
 	{
 		"phrase": "Mods",
-		"comment": "Short name for modifications, i.e. Armour Modification",
+		"comment": "Short name for Armour Modifications",
 		"translation": "Mod's",
 		"machine": true
 	},
 	{
 		"phrase": "Slide duration",
-		"comment": "[Loadout Stat] How long the player's slide lasts for",
+		"comment": "How long the player can slide for",
 		"translation": "Duur dia",
 		"machine": true
 	},
 	{
 		"phrase": "Regen speed",
-		"comment": "[Loadout Stat] How fast the player regenerates health",
+		"comment": "How fast the player regenerates health",
 		"translation": "Regensnelheid",
 		"machine": true
 	},
 	{
-		"phrase": "hp\/s",
-		"comment": "[Unit Prefix] Health per second",
-		"translation": "pk\/s",
-		"machine": true
-	},
-	{
-		"phrase": " blocks",
-		"comment": "[Unit Prefix] Milliseconds",
-		"translation": " blokken",
-		"machine": true
-	},
-	{
 		"phrase": "Blocks per pickup",
-		"comment": "[Attachment Stat] How many blocks the player gains from an ammo bonus",
+		"comment": "How many blocks the player collects from an enemy corpse",
 		"translation": "Blokken per afhaling",
 		"machine": true
 	},
 	{
 		"phrase": "Magazines per pickup",
-		"comment": "[Loadout Stat] How many gun magazines the player gains from an ammo bonus",
+		"comment": "How many weapon magazines the player picks up from an enemy corpse",
 		"translation": "Tijdschriften per afhaling",
 		"machine": true
 	},
 	{
 		"phrase": "Equipment per pickup",
-		"comment": "[Loadout Stat] How many Scanners \/ C4 \/ Disruptors the player gains from an ammo bonus",
+		"comment": "How many Scanners \/ C4 \/ Disruptors the player picks up from an enemy corpse",
 		"translation": "Uitrusting per afhaling",
 		"machine": true
 	},
 	{
 		"phrase": "Health per pickup",
-		"comment": "[Loadout Stat] How much health the player regenerates from an ammo bonus",
+		"comment": "How much health the player regenerates when picking up ammo from an enemy corpse",
 		"translation": "Gezondheid per afhaling",
 		"machine": true
 	},
 	{
 		"phrase": "Footstep volume",
-		"comment": "[Loadout Stat] How loud the player's footsteps are",
+		"comment": "How loud the player's footsteps are",
 		"translation": "Voetstapvolume",
 		"machine": true
 	},
 	{
-		"phrase": "Midi volume",
-		"comment": "[Loadout Stat] How loud the player's building and digging is (The Midi is the building and digging tool)",
-		"translation": "Midi-volume",
-		"machine": true
-	},
-	{
-		"phrase": "Expl. knockback",
-		"comment": "[Loadout Stat] How much players are knocked back by explosions",
-		"translation": "Uitleg terugslag",
-		"machine": true
-	},
-	{
-		"phrase": "Self expl. damage",
-		"comment": "[Loadout Stat] How much damage a player's takes from their own explosions",
-		"translation": "Zelf uitleg schade",
-		"machine": true
-	},
-	{
 		"phrase": "Melee cooldown",
-		"comment": "[Loadout Stat] How long the player has to wait before meleeing again",
+		"comment": "How long the player has to wait before meleeing again",
 		"translation": "Melee afkoeling",
 		"machine": true
 	},
 	{
 		"phrase": "Type here to search maps...",
-		"comment": "Placeholder text for a search field",
+		"comment": "Placeholder text for searching through a list of maps",
 		"translation": "Typ hier om kaarten te zoeken...",
 		"machine": true
 	},
@@ -6031,26 +5708,20 @@
 		"machine": true
 	},
 	{
-		"phrase": "JPG Missing",
-		"comment": "The JPG image is missing",
-		"translation": "JPG ontbreekt",
-		"machine": true
-	},
-	{
 		"phrase": "Map controls",
-		"comment": "[Heading] Settings that let players change the gamemode or control the time remaining in the match",
+		"comment": "Settings that let players change the gamemode or control the time remaining in the match",
 		"translation": "Kaartbedieningen",
 		"machine": true
 	},
 	{
 		"phrase": "Game Mode",
-		"comment": "Capture the flag, breakthrough, salvage, free for all, etc",
+		"comment": "A game mode is a set of rules that controls how players kill Fora, e.g. Capture the flag, breakthrough, free for all",
 		"translation": "Spelmodus",
 		"machine": true
 	},
 	{
 		"phrase": "Time remaining",
-		"comment": "Time remaining until the round finishes",
+		"comment": "How much time is left\/remaining until the round finishes",
 		"translation": "Overgebleven tijd",
 		"machine": true
 	},
@@ -6068,7 +5739,7 @@
 	},
 	{
 		"phrase": "Copy ID",
-		"comment": "Copy the ID of the map",
+		"comment": "Copy the numerical ID of the map",
 		"translation": "ID kopiëren",
 		"machine": true
 	},
@@ -6080,7 +5751,7 @@
 	},
 	{
 		"phrase": "Errors",
-		"comment": "The errors encountered when loading a map",
+		"comment": "A list of errors encountered when performing an action",
 		"translation": "fouten",
 		"machine": true
 	},
@@ -6094,12 +5765,6 @@
 		"phrase": "Upload log",
 		"comment": "A list of text messages that shows the progress of a map that's being uploaded to the workshop",
 		"translation": "Logboek uploaden",
-		"machine": true
-	},
-	{
-		"phrase": "Missing",
-		"comment": "The file is missing",
-		"translation": "Missend",
 		"machine": true
 	},
 	{
@@ -6122,7 +5787,7 @@
 	},
 	{
 		"phrase": "This server is password protected",
-		"comment": "Password text field label",
+		"comment": "The player must type in the correct password to enter this server",
 		"translation": "Deze server is beveiligd met een wachtwoord",
 		"machine": true
 	},
@@ -6134,7 +5799,7 @@
 	},
 	{
 		"phrase": "{0} Pick up {1}",
-		"comment": "Prompt for the player to pick up a deployable item. Parameter 0: [ E ], Parameter 1: 'Disruptor', e.g. [ E ] Pick up Disruptor",
+		"comment": "Prompt for the player to pick up a deployable item. Parameter 0: '[ E ]', Parameter 1: 'Disruptor', e.g. [ E ] Pick up Disruptor",
 		"translation": "{0} Ophalen {1}",
 		"machine": true
 	},
@@ -6146,13 +5811,13 @@
 	},
 	{
 		"phrase": "Level {0}",
-		"comment": "The player's level, i.e. 'Level 50'. Parameter 0: 50",
+		"comment": "The player's level, which increases the more they play the game. Parameter 0: 50",
 		"translation": "Niveau {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Polls",
-		"comment": "Polls that players can fill out to provide feedback",
+		"comment": "A survey that players can fill out to provide feedback",
 		"translation": "peilingen",
 		"machine": true
 	},
@@ -6236,7 +5901,7 @@
 	},
 	{
 		"phrase": "Preset name",
-		"comment": "The name of a weapon preset",
+		"comment": "The name of a weapon preset. A weapon preset is a combination of weapon attachments that the player can save and re-use later",
 		"translation": "Vooraf ingestelde naam",
 		"machine": true
 	},
@@ -6254,7 +5919,7 @@
 	},
 	{
 		"phrase": "Your key has been successfully redeemed. You gained:",
-		"comment": "Success message when redeeming a key",
+		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
 		"translation": "Uw sleutel is succesvol ingewisseld. jij hebt gewonnen:",
 		"machine": true
 	},
@@ -6267,12 +5932,6 @@
 	{
 		"phrase": "Refresh server list",
 		"translation": "Serverlijst vernieuwen",
-		"machine": true
-	},
-	{
-		"phrase": "Player name:",
-		"comment": "A person who is playing Sector's Edge",
-		"translation": "Naam speler:",
 		"machine": true
 	},
 	{
@@ -6289,7 +5948,7 @@
 	},
 	{
 		"phrase": "Leave the cluster spawn to modify your loadouts",
-		"comment": "Respawn instructions",
+		"comment": "Respawn instructions, the player can't edit their loadouts while part of a cluster spawn",
 		"translation": "Verlaat de clusterspawn om je uitrustingen aan te passen",
 		"machine": true
 	},
@@ -6307,7 +5966,7 @@
 	},
 	{
 		"phrase": "Other servers",
-		"comment": "At the bottom of the server browser is a list of 'Other servers' that didn't match the player's search criteria",
+		"comment": "A list of other servers that didn't match the player's search criteria",
 		"translation": "Andere servers",
 		"machine": true
 	},
@@ -6511,7 +6170,7 @@
 	},
 	{
 		"phrase": "Game modes",
-		"comment": "Server preferences tab",
+		"comment": "A list of game modes that the player can choose from. A game mode is a set of rules that controls how players kill Fora, e.g. Capture the flag, breakthrough, free for all",
 		"translation": "Spelmodi",
 		"machine": true
 	},
@@ -6529,7 +6188,7 @@
 	},
 	{
 		"phrase": "Empty servers",
-		"comment": "[Server Filter] e.g. don't show empty servers",
+		"comment": "A server with no players",
 		"translation": "Lege servers",
 		"machine": true
 	},
@@ -8060,7 +7719,7 @@
 	},
 	{
 		"phrase": "General",
-		"comment": "[Settings Tab] Generic settings",
+		"comment": "Generic, no category",
 		"translation": "Algemeen",
 		"machine": true
 	},
@@ -8221,12 +7880,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to filter trials...",
-		"comment": "Placeholder text for filtering single-player trials",
-		"translation": "Typ hier om proeven te filteren...",
-		"machine": true
-	},
-	{
 		"phrase": "Digging",
 		"comment": "Category tab on the Trials screen",
 		"translation": "Graven",
@@ -8356,7 +8009,7 @@
 	},
 	{
 		"phrase": "Cluster Fragment",
-		"comment": "Ammo type name - this refers to the three small cluster projectiles that are created when the initial large cluster round detonates",
+		"comment": "This refers to the three smaller cluster projectiles that are created when the initial large cluster round detonates",
 		"translation": "Clusterfragment",
 		"machine": true
 	},
@@ -8996,6 +8649,271 @@
 		"phrase": "Texture",
 		"comment": "1 Texture, i.e. a 2D bitmap or image",
 		"translation": "Textuur",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Violation",
+		"comment": "Parameter 0: 'EAC', which stands for Easy Anti Cheat. If this anticheat detects a violation, the error 'EAC Violation' will be shown",
+		"translation": "{0} Overtreding",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid lobby settings",
+		"comment": "Error message when attempting to claim a lobby with invalid settings",
+		"translation": "Ongeldige lobby-instellingen",
+		"machine": true
+	},
+	{
+		"phrase": "TOW",
+		"comment": "Abbreviation for a TOW Missile, which moves towards where the player is looking. Can be translated to 'guided' or 'directed'",
+		"translation": "SLEPEN",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up primary",
+		"comment": "Pick up your primary\/main weapon",
+		"translation": "Primair ophalen",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up secondary",
+		"comment": "Pick up your secondary\/fallback weapon",
+		"translation": "Ophalen secundair",
+		"machine": true
+	},
+	{
+		"phrase": "Midi",
+		"context": "Builder",
+		"comment": "A building\/digging gadget, the name is short for Miner Digger",
+		"translation": "Midi",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search trials...",
+		"comment": "Placeholder text for searching through a list of single-player trials",
+		"translation": "Typ hier om proeven te zoeken...",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search statistics...",
+		"comment": "Placeholder text for searching through a list of statistics",
+		"translation": "Typ hier om statistieken te zoeken...",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search achievements...",
+		"comment": "Placeholder text for searching through a list of achievements the player has completed",
+		"translation": "Typ hier om prestaties te zoeken...",
+		"machine": true
+	},
+	{
+		"phrase": "Sao Paulo",
+		"comment": "Server location",
+		"translation": "Sao Paulo",
+		"machine": true
+	},
+	{
+		"phrase": "Tel Aviv",
+		"comment": "Server location",
+		"translation": "Tel Aviv",
+		"machine": true
+	},
+	{
+		"phrase": "Warsaw",
+		"comment": "Server location",
+		"translation": "Warschau",
+		"machine": true
+	},
+	{
+		"phrase": "Full servers",
+		"comment": "A server with no free slots",
+		"translation": "Volledige servers",
+		"machine": true
+	},
+	{
+		"phrase": "Grapics preset",
+		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
+		"translation": "Grafische voorinstelling",
+		"machine": true
+	},
+	{
+		"phrase": "Player name: {0}",
+		"comment": "A person who is playing Sector's Edge. Parameter 0: 'deWolf'",
+		"translation": "Spelersnaam: {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} missing",
+		"comment": "This error shows when a file is missing. Parameter 0: 'JPG'",
+		"translation": "{0} ontbreekt",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid map JSON",
+		"comment": "The JSON file contains invalid syntax or properties",
+		"translation": "Ongeldige kaart-JSON",
+		"machine": true
+	},
+	{
+		"phrase": "Map dimensions: {0}",
+		"comment": "The dimensions of the map. Parameter 0: [256, 128, 512]",
+		"translation": "Afmetingen kaart: {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Loading next map",
+		"comment": "The match finished and the game is loading the next map from disk",
+		"translation": "Volgende kaart laden",
+		"machine": true
+	},
+	{
+		"phrase": "Refreshing server list",
+		"comment": "The list of servers on the play screen is being refreshed",
+		"translation": "Serverlijst vernieuwen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} volume",
+		"comment": "How loud the player's building and digging is. Parameter 0: 'Midi'",
+		"translation": "{0}-volume",
+		"machine": true
+	},
+	{
+		"phrase": "Explosion knockback",
+		"comment": "How much players are knocked back by explosions",
+		"translation": "Explosie terugslag",
+		"machine": true
+	},
+	{
+		"phrase": "Self explosion damage",
+		"comment": "How much damage a player takes from their own explosions",
+		"translation": "Zelfexplosieschade",
+		"machine": true
+	},
+	{
+		"phrase": "Slot {0}",
+		"comment": "An equipment slot, i.e. 'Slot 1'. Parameter 0: '1'",
+		"translation": "Sleuf {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics Colour",
+		"comment": "The colour of player statistics",
+		"translation": "Statistieken kleur",
+		"machine": true
+	},
+	{
+		"phrase": "Select your active Allegiance",
+		"comment": "This text shows above the list of Allegiances that the player can choose to join",
+		"translation": "Selecteer uw actieve loyaliteit",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout overpowered - loadout must be {0} or less points to spawn",
+		"comment": "Info text that shows when a player attempts to spawn with an overpowered loadout. Parameter 0: '15'",
+		"translation": "Loadout overmeesterd - loadout moet {0} of minder punten zijn om te spawnen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Join the battle",
+		"comment": "Press this button to join the battle. Parameter 0: [ Space ]",
+		"translation": "{0} Doe mee aan de strijd",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Spectate",
+		"comment": "Press this button to spectate the battle. Parameter 0: [ Space ]",
+		"translation": "{0} Toeschouwer",
+		"machine": true
+	},
+	{
+		"phrase": "Mod Levels",
+		"comment": "An armour mod can either be level 1 or level 2, where level 2 has better parks. This text is a heading for all the mod levels, i.e. 'Mod Levels: Scavenger 0, Scavenger 1'",
+		"translation": "Mod-niveaus",
+		"machine": true
+	},
+	{
+		"phrase": "Grip",
+		"comment": "",
+		"translation": "greep",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough",
+		"comment": "",
+		"translation": "Doorbraak",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift",
+		"comment": "",
+		"translation": "Besturingsverschuiving",
+		"machine": true
+	},
+	{
+		"phrase": "Capture the Flag",
+		"comment": "",
+		"translation": "Verover de vlag",
+		"machine": true
+	},
+	{
+		"phrase": "Escort",
+		"comment": "",
+		"translation": "Escort",
+		"machine": true
+	},
+	{
+		"phrase": "Gun Game",
+		"comment": "",
+		"translation": "Schietspel",
+		"machine": true
+	},
+	{
+		"phrase": "Head Hunter",
+		"comment": "",
+		"translation": "koppen jager",
+		"machine": true
+	},
+	{
+		"phrase": "Spire",
+		"comment": "",
+		"translation": "torenspits",
+		"machine": true
+	},
+	{
+		"phrase": "Static",
+		"comment": "",
+		"translation": "Statisch",
+		"machine": true
+	},
+	{
+		"phrase": "Wave Defence",
+		"comment": "",
+		"translation": "Golfverdediging",
+		"machine": true
+	},
+	{
+		"phrase": "Bot",
+		"comment": "1 Bot, i.e. a server-controlled robot pretending to be a player",
+		"translation": "Bot",
+		"machine": true
+	},
+	{
+		"phrase": "Bots",
+		"comment": "2 Bots",
+		"translation": "Bots",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment",
+		"comment": "1 Attachment, a part of a weapon that can be added or removed",
+		"translation": "Bijlage",
+		"machine": true
+	},
+	{
+		"phrase": "Friend",
+		"comment": "1 Friend, i.e. a person you enjoy being around",
+		"translation": "vriend",
 		"machine": true
 	}
 ]
