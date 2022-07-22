@@ -203,8 +203,7 @@
 	{
 		"phrase": "Marksman",
 		"comment": "The player who has the most headshot kills",
-		"translation": "Стрелок",
-		"machine": true
+		"translation": "Стрелок"
 	},
 	{
 		"phrase": "Creator",
@@ -456,8 +455,7 @@
 	{
 		"phrase": "Burst",
 		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
-		"translation": "Лопаться",
-		"machine": true
+		"translation": "Очередь"
 	},
 	{
 		"phrase": "Heavy",
@@ -884,8 +882,7 @@
 	{
 		"phrase": "Private",
 		"comment": "This item is private, meaning only I can see it",
-		"translation": "Частный",
-		"machine": true
+		"translation": "Только я"
 	},
 	{
 		"phrase": "Friends only",
@@ -895,13 +892,12 @@
 	{
 		"phrase": "Unlisted",
 		"comment": "This item is unlisted, meaning only people with a link can see it",
-		"translation": "Не внесено в список",
-		"machine": true
+		"translation": "По ссылке"
 	},
 	{
 		"phrase": "Public",
 		"comment": "This item is public, meaning anyone can see it",
-		"translation": "Публичный"
+		"translation": "Все"
 	},
 	{
 		"phrase": "Map list",
