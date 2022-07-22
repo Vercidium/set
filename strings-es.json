@@ -1160,11 +1160,6 @@
 		"translation": "Actualizar estadísticas"
 	},
 	{
-		"phrase": "Redeem key",
-		"comment": "Redeem a key to earn Protons, boosts or tokens",
-		"translation": "Canjear clave"
-	},
-	{
 		"phrase": "Password",
 		"comment": "Server list info",
 		"translation": "Contraseña"
@@ -2146,22 +2141,22 @@
 	},
 	{
 		"phrase": "Bronze medal",
-		"comment": "[Trial Reward]",
+		"comment": "A bronze medal",
 		"translation": "Medalla de bronce"
 	},
 	{
 		"phrase": "Silver medal",
-		"comment": "[Trial Reward]",
+		"comment": "A silver medal",
 		"translation": "Medalla de plata"
 	},
 	{
 		"phrase": "Gold medal",
-		"comment": "[Trial Reward]",
+		"comment": "A gold medal",
 		"translation": "Medalla de oro"
 	},
 	{
 		"phrase": "Platinum medal",
-		"comment": "[Trial Reward]",
+		"comment": "A platinum medal",
 		"translation": "Medalla de platino"
 	},
 	{
@@ -4319,7 +4314,7 @@
 	},
 	{
 		"phrase": "{0} {1}",
-		"comment": "e.g. '1000 Protons'. Swap this to '{1} {0}' if this language swaps the order. First parameter: '1000', second parameter: 'Protons'.",
+		"comment": "This is for a quantity of something, .e.g '5 protons'. Parameter 0: any number, Parameter 1: any item",
 		"translation": "{0} {1}",
 		"machine": true
 	},
@@ -4953,12 +4948,6 @@
 		"phrase": "Transaction log",
 		"comment": "List of all items the player has bought",
 		"translation": "Registro de transacciones",
-		"machine": true
-	},
-	{
-		"phrase": "Link Twitch account",
-		"comment": "Link your Sector's Edge account with your Twitch account. Do not translate: Twitch",
-		"translation": "Vincular cuenta de twitch",
 		"machine": true
 	},
 	{
@@ -8379,6 +8368,198 @@
 		"phrase": "Friend",
 		"comment": "1 Friend, i.e. a person you enjoy being around",
 		"translation": "Amigo",
+		"machine": true
+	},
+	{
+		"phrase": "Link {0} account",
+		"comment": "Link your Sector's Edge account with your Twitch account. Parameter 0: 'Twitch'",
+		"translation": "Vincular cuenta {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Aiming accuracy",
+		"comment": "Weapon accuracy while aiming down the sights",
+		"translation": "Precisión de puntería",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire accuracy",
+		"comment": "Weapon accuracy while firing from the hip",
+		"translation": "Precisión de fuego de cadera",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb carrier",
+		"comment": "An enemy who is holding a bomb",
+		"translation": "portador de bombas",
+		"machine": true
+	},
+	{
+		"phrase": "Flag carrier",
+		"comment": "An enemy who is holding a flag",
+		"translation": "Abanderado",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium salvaged",
+		"comment": "How much soltrium you salvaged from enemy corpses",
+		"translation": "Soltrio rescatado",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium extracted",
+		"comment": "How much soltrium you extracted from Soltrium-infused meteors",
+		"translation": "Soltrio extraído",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Title unlocked",
+		"comment": "Message when unlocking a title. Parameter 0: 'Midi Certified'",
+		"translation": "{0} Título desbloqueado",
+		"machine": true
+	},
+	{
+		"phrase": "Pickup",
+		"comment": "1 Pickup, i.e. how many flags you've picked up, e.g. '1 pickup' or '3 pickups'",
+		"translation": "Levantar",
+		"machine": true
+	},
+	{
+		"phrase": "Pickups",
+		"comment": "2 Pickups",
+		"translation": "camionetas",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy disrupted",
+		"comment": "1 Enemy disrupted, i.e. how many enemies have triggered a Disruptor you placed",
+		"translation": "Enemigo interrumpido",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies disrupted",
+		"comment": "2 Enemies disrupted",
+		"translation": "Enemigos interrumpidos",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough zone captured",
+		"comment": "1 Breakthrough zone captured, i.e. how many zones you captured in the Breakthrough game mode",
+		"translation": "Zona de avance capturada",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough zones captured",
+		"comment": "2 Breakthrough zones captured",
+		"translation": "Zonas de avance capturadas",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift zone captured",
+		"comment": "1 Control Shift zone captured, i.e. how many zones you captured in the Control Shift game mode",
+		"translation": "Zona de cambio de control capturada",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift zones captured",
+		"comment": "2 Control Shift zones captured",
+		"translation": "Zonas de cambio de control capturadas",
+		"machine": true
+	},
+	{
+		"phrase": "Flag captured",
+		"comment": "1 Flag captured, i.e. how many flags you captured in the Capture The Flag game mode",
+		"translation": "Bandera capturada",
+		"machine": true
+	},
+	{
+		"phrase": "Flags captured",
+		"comment": "2 Flags captured",
+		"translation": "Banderas capturadas",
+		"machine": true
+	},
+	{
+		"phrase": "Flag returned",
+		"comment": "1 Flag returned, i.e. how many flags you returned in the Capture The Flag game mode",
+		"translation": "Bandera devuelta",
+		"machine": true
+	},
+	{
+		"phrase": "Flags returned",
+		"comment": "2 Flags returned",
+		"translation": "Banderas devueltas",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb delivered",
+		"comment": "1 Bomb delivered, i.e. how many bombs you delivered in the Escort game mode",
+		"translation": "bomba lanzada",
+		"machine": true
+	},
+	{
+		"phrase": "Bombs deliveries",
+		"comment": "2 Bombs deliveries",
+		"translation": "Entregas de bombas",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb defused",
+		"comment": "1 Bomb defused, i.e. how many bombs you delivered in the Escort game mode",
+		"translation": "bomba desactivada",
+		"machine": true
+	},
+	{
+		"phrase": "Bombs defused",
+		"comment": "2 Bombs defused",
+		"translation": "Bombas desactivadas",
+		"machine": true
+	},
+	{
+		"phrase": "Canisters",
+		"comment": "2 Canisters",
+		"translation": "Botes",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy spot",
+		"comment": "1 Enemy spot, i.e. '1 enemy spot'",
+		"translation": "lugar enemigo",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies spotted",
+		"comment": "2 Enemy spotted, i.e. '3 enemies spotted'",
+		"translation": "Enemigos detectados",
+		"machine": true
+	},
+	{
+		"phrase": "Teammate saved",
+		"comment": "1 Teammate saved, i.e. '1 teammate saved'",
+		"translation": "compañero de equipo guardado",
+		"machine": true
+	},
+	{
+		"phrase": "Teammates saved",
+		"comment": "2 Teammate saved, i.e. '3 teammates saved'",
+		"translation": "Compañeros de equipo guardados",
+		"machine": true
+	},
+	{
+		"phrase": "Teammate avenged",
+		"comment": "1 Teammate avenged, i.e. '1 teammate avenged'",
+		"translation": "compañero de equipo vengado",
+		"machine": true
+	},
+	{
+		"phrase": "Teammates avenged",
+		"comment": "2 Teammate avenged, i.e. '3 teammates avenged'",
+		"translation": "Compañeros de equipo vengados",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy",
+		"comment": "1 Enemy",
+		"translation": "Enemigo",
 		"machine": true
 	}
 ]

@@ -1392,12 +1392,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Redeem key",
-		"comment": "Redeem a key to earn Protons, boosts or tokens",
-		"translation": "キーを引き換える",
-		"machine": true
-	},
-	{
 		"phrase": "Password",
 		"comment": "Server list info",
 		"translation": "パスワード",
@@ -2574,25 +2568,25 @@
 	},
 	{
 		"phrase": "Bronze medal",
-		"comment": "[Trial Reward]",
+		"comment": "A bronze medal",
 		"translation": "銅メダル",
 		"machine": true
 	},
 	{
 		"phrase": "Silver medal",
-		"comment": "[Trial Reward]",
+		"comment": "A silver medal",
 		"translation": "銀メダル",
 		"machine": true
 	},
 	{
 		"phrase": "Gold medal",
-		"comment": "[Trial Reward]",
+		"comment": "A gold medal",
 		"translation": "金メダル",
 		"machine": true
 	},
 	{
 		"phrase": "Platinum medal",
-		"comment": "[Trial Reward]",
+		"comment": "A platinum medal",
 		"translation": "プラチナメダル",
 		"machine": true
 	},
@@ -4854,7 +4848,7 @@
 	},
 	{
 		"phrase": "{0} {1}",
-		"comment": "e.g. '1000 Protons'. Swap this to '{1} {0}' if this language swaps the order. First parameter: '1000', second parameter: 'Protons'.",
+		"comment": "This is for a quantity of something, .e.g '5 protons'. Parameter 0: any number, Parameter 1: any item",
 		"translation": "{0} {1}",
 		"machine": true
 	},
@@ -5488,12 +5482,6 @@
 		"phrase": "Transaction log",
 		"comment": "List of all items the player has bought",
 		"translation": "トランザクションログ",
-		"machine": true
-	},
-	{
-		"phrase": "Link Twitch account",
-		"comment": "Link your Sector's Edge account with your Twitch account. Do not translate: Twitch",
-		"translation": "リンクツイッチアカウント",
 		"machine": true
 	},
 	{
@@ -8914,6 +8902,198 @@
 		"phrase": "Friend",
 		"comment": "1 Friend, i.e. a person you enjoy being around",
 		"translation": "友達",
+		"machine": true
+	},
+	{
+		"phrase": "Link {0} account",
+		"comment": "Link your Sector's Edge account with your Twitch account. Parameter 0: 'Twitch'",
+		"translation": "リンク{0}アカウント",
+		"machine": true
+	},
+	{
+		"phrase": "Aiming accuracy",
+		"comment": "Weapon accuracy while aiming down the sights",
+		"translation": "照準精度",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire accuracy",
+		"comment": "Weapon accuracy while firing from the hip",
+		"translation": "ヒップファイアの精度",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb carrier",
+		"comment": "An enemy who is holding a bomb",
+		"translation": "爆弾運搬船",
+		"machine": true
+	},
+	{
+		"phrase": "Flag carrier",
+		"comment": "An enemy who is holding a flag",
+		"translation": "旗持ち",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium salvaged",
+		"comment": "How much soltrium you salvaged from enemy corpses",
+		"translation": "回収されたソルトリウム",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium extracted",
+		"comment": "How much soltrium you extracted from Soltrium-infused meteors",
+		"translation": "抽出されたソルトリウム",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Title unlocked",
+		"comment": "Message when unlocking a title. Parameter 0: 'Midi Certified'",
+		"translation": "{0}タイトルのロックが解除されました",
+		"machine": true
+	},
+	{
+		"phrase": "Pickup",
+		"comment": "1 Pickup, i.e. how many flags you've picked up, e.g. '1 pickup' or '3 pickups'",
+		"translation": "選び出す",
+		"machine": true
+	},
+	{
+		"phrase": "Pickups",
+		"comment": "2 Pickups",
+		"translation": "ピックアップ",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy disrupted",
+		"comment": "1 Enemy disrupted, i.e. how many enemies have triggered a Disruptor you placed",
+		"translation": "敵が混乱した",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies disrupted",
+		"comment": "2 Enemies disrupted",
+		"translation": "敵が混乱した",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough zone captured",
+		"comment": "1 Breakthrough zone captured, i.e. how many zones you captured in the Breakthrough game mode",
+		"translation": "画期的なゾーンをキャプチャ",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough zones captured",
+		"comment": "2 Breakthrough zones captured",
+		"translation": "キャプチャされた画期的なゾーン",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift zone captured",
+		"comment": "1 Control Shift zone captured, i.e. how many zones you captured in the Control Shift game mode",
+		"translation": "キャプチャされたコントロールシフトゾーン",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift zones captured",
+		"comment": "2 Control Shift zones captured",
+		"translation": "キャプチャされたコントロールシフトゾーン",
+		"machine": true
+	},
+	{
+		"phrase": "Flag captured",
+		"comment": "1 Flag captured, i.e. how many flags you captured in the Capture The Flag game mode",
+		"translation": "キャプチャされたフラグ",
+		"machine": true
+	},
+	{
+		"phrase": "Flags captured",
+		"comment": "2 Flags captured",
+		"translation": "キャプチャされたフラグ",
+		"machine": true
+	},
+	{
+		"phrase": "Flag returned",
+		"comment": "1 Flag returned, i.e. how many flags you returned in the Capture The Flag game mode",
+		"translation": "フラグが返されました",
+		"machine": true
+	},
+	{
+		"phrase": "Flags returned",
+		"comment": "2 Flags returned",
+		"translation": "返されたフラグ",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb delivered",
+		"comment": "1 Bomb delivered, i.e. how many bombs you delivered in the Escort game mode",
+		"translation": "爆弾が配達された",
+		"machine": true
+	},
+	{
+		"phrase": "Bombs deliveries",
+		"comment": "2 Bombs deliveries",
+		"translation": "爆弾の配達",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb defused",
+		"comment": "1 Bomb defused, i.e. how many bombs you delivered in the Escort game mode",
+		"translation": "爆弾が拡散した",
+		"machine": true
+	},
+	{
+		"phrase": "Bombs defused",
+		"comment": "2 Bombs defused",
+		"translation": "爆弾が拡散した",
+		"machine": true
+	},
+	{
+		"phrase": "Canisters",
+		"comment": "2 Canisters",
+		"translation": "キャニスター",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy spot",
+		"comment": "1 Enemy spot, i.e. '1 enemy spot'",
+		"translation": "敵スポット",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies spotted",
+		"comment": "2 Enemy spotted, i.e. '3 enemies spotted'",
+		"translation": "発見された敵",
+		"machine": true
+	},
+	{
+		"phrase": "Teammate saved",
+		"comment": "1 Teammate saved, i.e. '1 teammate saved'",
+		"translation": "チームメイトが救った",
+		"machine": true
+	},
+	{
+		"phrase": "Teammates saved",
+		"comment": "2 Teammate saved, i.e. '3 teammates saved'",
+		"translation": "チームメイトが救った",
+		"machine": true
+	},
+	{
+		"phrase": "Teammate avenged",
+		"comment": "1 Teammate avenged, i.e. '1 teammate avenged'",
+		"translation": "チームメイトは復讐した",
+		"machine": true
+	},
+	{
+		"phrase": "Teammates avenged",
+		"comment": "2 Teammate avenged, i.e. '3 teammates avenged'",
+		"translation": "チームメイトは復讐した",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy",
+		"comment": "1 Enemy",
+		"translation": "敵",
 		"machine": true
 	}
 ]
