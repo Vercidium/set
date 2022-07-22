@@ -1,361 +1,343 @@
 [
 	{
 		"phrase": "Ironsights",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "Ironsights",
 		"machine": true
 	},
 	{
 		"phrase": "2X",
-		"comment": "Sight attachment name",
+		"comment": "A weapon sight that has 2.0x zoom",
 		"translation": "2X",
 		"machine": true
 	},
 	{
 		"phrase": "4X",
-		"comment": "Sight attachment name",
+		"comment": "A weapon sight that has 2.0x zoom",
 		"translation": "4X",
 		"machine": true
 	},
 	{
 		"phrase": "Holographic",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "Ολογραφική",
 		"machine": true
 	},
 	{
 		"phrase": "Cluster spawn",
-		"comment": "In-game point text",
+		"comment": "When multiple friendlies choose to respawn in the same location, they are combined into a cluster spawn, which lets them respawn faster",
 		"translation": "Αναπαραγωγή συμπλέγματος",
 		"machine": true
 	},
 	{
 		"phrase": "Damage",
-		"comment": "In-game point text",
+		"comment": "Emotional damage!",
 		"translation": "Υλικές ζημιές",
 		"machine": true
 	},
 	{
 		"phrase": "Overkill",
-		"comment": "In-game point text",
+		"comment": "If a player has 10hp left and you hit them with a 130 damage Rail Gun headshot, the player earns 120 overkill points",
 		"translation": "Υπερβολική",
 		"machine": true
 	},
 	{
 		"phrase": "Direct",
-		"comment": "In-game point text",
+		"comment": "Hitting a player directly with an explosive projectile",
 		"translation": "Απευθείας",
 		"machine": true
 	},
 	{
 		"phrase": "Disruptor assist",
-		"comment": "In-game point text",
+		"comment": "A Disruptor is a deployable with a tripwire. When an enemy runs into the tripwire they move slowly and take a bit of damage. If a friendly kills an enemy while they're slowed down, the owner of the Disruptor gets Disruptor Assist points",
 		"translation": "Βοήθεια διαταράκτη",
 		"machine": true
 	},
 	{
 		"phrase": "Headshot",
-		"comment": "In-game point text",
+		"comment": "Shooting another player in the head",
 		"translation": "Βολή στο κεφάλι",
 		"machine": true
 	},
 	{
 		"phrase": "Kill",
-		"comment": "In-game point text",
+		"comment": "When a players health is reduced from 100 to 0, they are killed",
 		"translation": "Σκοτώνω",
 		"machine": true
 	},
 	{
 		"phrase": "Kill streak",
-		"comment": "In-game point text",
+		"comment": "When a player gets 3 kills in a row without dying, they are on a kill streak",
 		"translation": "Σερί σκοτώσεων",
 		"machine": true
 	},
 	{
 		"phrase": "VIP kill",
-		"comment": "In-game point text",
+		"comment": "Killing the enemy VIP. VIP stands for very important person",
 		"translation": "VIP δολοφονία",
 		"machine": true
 	},
 	{
 		"phrase": "VIP defend",
-		"comment": "In-game point text",
+		"comment": "Defending a VIP from enemy players. VIP stands for very important person",
 		"translation": "VIP υπεράσπιση",
 		"machine": true
 	},
 	{
 		"phrase": "Scanner destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Scanner and destroying it. A Scanner is a device that floats through the air and reveals the position of enemies through walls.",
 		"translation": "Καταστράφηκε ο σαρωτής",
 		"machine": true
 	},
 	{
 		"phrase": "Scanner assist",
-		"comment": "In-game point text",
+		"comment": "If a friendly kills an enemy that was revealed by your Scanner, you get Scanner Assist points",
 		"translation": "Υποστήριξη σαρωτή",
 		"machine": true
 	},
 	{
 		"phrase": "C4 destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy C4 and destroying it. C4 is an explosive deployable",
 		"translation": "Το C4 καταστράφηκε",
 		"machine": true
 	},
 	{
 		"phrase": "Disruptor destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Disruptor and destroying it",
 		"translation": "Ο διαταράκτης καταστράφηκε",
 		"machine": true
 	},
 	{
 		"phrase": "Avenger",
-		"comment": "In-game point text",
+		"comment": "When you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate",
 		"translation": "Εκδικητής",
 		"machine": true
 	},
 	{
 		"phrase": "Flag capture",
-		"comment": "In-game point text",
+		"comment": "To capture a flag you must infiltrate the enemy base, steal their flag and return it to your base. The Flag in this game is a canister containing valuable Soltrium",
 		"translation": "Λήψη σημαίας",
 		"machine": true
 	},
 	{
 		"phrase": "Flag carry",
-		"comment": "In-game point text",
+		"comment": "When you steal a flag and carry it to your base, you earn points based on the distance you carry it",
 		"translation": "Μεταφορά σημαίας",
 		"machine": true
 	},
 	{
 		"phrase": "Flag return",
-		"comment": "In-game point text",
+		"comment": "When you intercept the enemy and return your stolen flag back to your base",
 		"translation": "Επιστροφή σημαίας",
 		"machine": true
 	},
 	{
 		"phrase": "Flag attack",
-		"comment": "In-game point text",
+		"comment": "If you are near the enemy flag and kill an enemy, you earn points for attacking the flag",
 		"translation": "Επίθεση με σημαία",
 		"machine": true
 	},
 	{
 		"phrase": "Flag defend",
-		"comment": "In-game point text",
+		"comment": "If you are near your friendly flag and kill an enemy, you earn points for defending your flag",
 		"translation": "Προστασία σημαίας",
 		"machine": true
 	},
 	{
 		"phrase": "Flag escort",
-		"comment": "In-game point text",
+		"comment": "If a friendly has stolen the enemy flag and you are near that friendly, you are escorting the flag",
 		"translation": "Σημαία συνοδός",
 		"machine": true
 	},
 	{
 		"phrase": "Flag carrier kill",
-		"comment": "In-game point text",
+		"comment": "Killing an enemy that is carrying your flag",
 		"translation": "Σκότωμα φορέα σημαίας",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb deliver",
-		"comment": "In-game point text",
+		"comment": "When you pick up a bomb and place it in the enemy base",
 		"translation": "Παράδοση βόμβας",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb carry",
-		"comment": "In-game point text",
+		"comment": "When you pick up a bomb and carry it on your back",
 		"translation": "Μεταφορά βόμβας",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb defuse",
-		"comment": "In-game point text",
+		"comment": "When you find an enemy bomb and defuse it so it doesn't explode",
 		"translation": "Απενεργοποίηση βόμβας",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb attack",
-		"comment": "In-game point text",
+		"comment": "If you are near the enemy's bomb and kill an enemy, you earn points for attacking the bomb",
 		"translation": "Επίθεση με βόμβα",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb defend",
-		"comment": "In-game point text",
+		"comment": "If you are near your friendly bomv and kill an enemy, you earn points for defending your bomb",
 		"translation": "Αμυντική βόμβα",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb escort",
-		"comment": "In-game point text",
+		"comment": "If a friendly has picked up a bomb and you are near that friendly, you are escorting the bomb",
 		"translation": "Συνοδός βόμβας",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb carrier kill",
-		"comment": "In-game point text",
+		"comment": "Killing an enemy that is carrying a bomb",
 		"translation": "Σκοτωτής φορέας βόμβας",
 		"machine": true
 	},
 	{
 		"phrase": "Spot assist",
-		"comment": "In-game point text",
+		"comment": "If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
 		"translation": "Βοήθεια σε σημείο",
 		"machine": true
 	},
 	{
 		"phrase": "Attacking",
-		"comment": "In-game point text",
+		"comment": "If you kill an enemy when inside an enemy-controlled zone, you earn attacking points",
 		"translation": "Επίθεση",
 		"machine": true
 	},
 	{
 		"phrase": "Defending",
-		"comment": "In-game point text",
+		"comment": "If you kill an enemy when inside a friendly-controlled zone, you earn defending points",
 		"translation": "Υπερασπίζεται",
 		"machine": true
 	},
 	{
 		"phrase": "Contesting",
-		"comment": "In-game point text",
+		"comment": "If you are inside an enemy-controlled zone and are capturing it for your team, you are contesting the zone",
 		"translation": "Αμφισβητώντας",
 		"machine": true
 	},
 	{
-		"phrase": "Canister capture",
-		"comment": "In-game point text",
-		"translation": "Σύλληψη δοχείου",
-		"machine": true
-	},
-	{
 		"phrase": "Zone capture",
-		"comment": "In-game point text",
+		"comment": "When you capture an enemy-controlled zone",
 		"translation": "Λήψη ζώνης",
 		"machine": true
 	},
 	{
-		"phrase": "Beacon capture",
-		"comment": "In-game point text",
-		"translation": "Σύλληψη φάρου",
-		"machine": true
-	},
-	{
-		"phrase": "Beacon destroyed",
-		"comment": "In-game point text",
-		"translation": "Ο φάρος καταστράφηκε",
-		"machine": true
-	},
-	{
 		"phrase": "Salvage",
-		"comment": "In-game point text",
+		"comment": "When you pick up lost Soltrium for your team, you are salvaging it",
 		"translation": "Διάσωση",
 		"machine": true
 	},
 	{
 		"phrase": "Round win",
-		"comment": "In-game point text",
+		"comment": "When your team wins a round in the Arena",
 		"translation": "Νίκη γύρου",
 		"machine": true
 	},
 	{
 		"phrase": "Round survive",
-		"comment": "In-game point text",
+		"comment": "When your team wins a round in the Arena and you are alive",
 		"translation": "Γύρος επιβιώσει",
 		"machine": true
 	},
 	{
 		"phrase": "Assist",
-		"comment": "In-game point text",
+		"comment": "If you shoot an enemy once and a friendly kills them, you earn assist points",
 		"translation": "Βοηθώ",
 		"machine": true
 	},
 	{
 		"phrase": "Assist counts as kill",
-		"comment": "In-game point text",
+		"comment": "If you deal 80 or more damage to an enemy, and then a friendly kills them, you earn a kill rather than an assist",
 		"translation": "Η βοήθεια υπολογίζεται ως θανάτωση",
 		"machine": true
 	},
 	{
 		"phrase": "Fortifying",
-		"comment": "In-game point text",
+		"comment": "If you place blocks inside a zone controlled by your team, you earn fortifying points",
 		"translation": "Οχυρώνοντας",
 		"machine": true
 	},
 	{
 		"phrase": "Most Valuable Player",
-		"comment": "Medal name",
+		"comment": "The player who earned the most points on their team",
 		"translation": "Πιο πολύτιμος παίκτης",
 		"machine": true
 	},
 	{
 		"phrase": "Annihilator",
-		"comment": "Medal name",
+		"comment": "The player who killed the most enemies",
 		"translation": "Εκμηδενιστής",
 		"machine": true
 	},
 	{
 		"phrase": "Marksman",
-		"comment": "Medal name",
+		"comment": "The player who has the most headshot kills",
 		"translation": "Σκοπευτής",
 		"machine": true
 	},
 	{
 		"phrase": "Creator",
-		"comment": "Medal name",
+		"comment": "The player who placed the most blocksc",
 		"translation": "Δημιουργός",
 		"machine": true
 	},
 	{
 		"phrase": "Destroyer",
-		"comment": "Medal name",
+		"comment": "The player who destroyed the most blocks",
 		"translation": "Αντιτορπιλικό",
 		"machine": true
 	},
 	{
 		"phrase": "Attacker",
-		"comment": "Medal name",
+		"comment": "The player who spent the most time inside enemy controlled zones",
 		"translation": "Επιτεθείς",
 		"machine": true
 	},
 	{
 		"phrase": "Defender",
-		"comment": "Medal name",
+		"comment": "The player who spent the most time inside friendly controlled zones",
 		"translation": "ΥΠΕΡΑΣΠΙΣΤΗΣ",
 		"machine": true
 	},
 	{
 		"phrase": "Impaler",
-		"comment": "Medal name",
+		"comment": "The player who has the most melee kills",
 		"translation": "Impaler",
 		"machine": true
 	},
 	{
 		"phrase": "Resilient",
-		"comment": "Medal name",
+		"comment": "The player who has the most deaths",
 		"translation": "Ελαστικός",
 		"machine": true
 	},
 	{
 		"phrase": "Assistance",
-		"comment": "Medal name",
+		"comment": "The player who has the most assists",
 		"translation": "Βοήθεια",
 		"machine": true
 	},
 	{
 		"phrase": "Impacter",
-		"comment": "Medal name",
+		"comment": "The player who has the most direct explosive kills",
 		"translation": "Impacter",
 		"machine": true
 	},
 	{
 		"phrase": "Infiltrator",
-		"comment": "Medal name",
+		"comment": "The player who stole the most flags or planted the most bombs",
 		"translation": "Διεισδυτής",
 		"machine": true
 	},
 	{
 		"phrase": "MVP",
-		"comment": "Abbreviated medal name",
+		"comment": "Abbreviation of Most Valuable Player",
 		"translation": "MVP",
 		"machine": true
 	},
@@ -391,7 +373,7 @@
 	},
 	{
 		"phrase": "Left",
-		"comment": "[Keybind] Move forleftward",
+		"comment": "[Move to the left",
 		"translation": "Αριστερά",
 		"machine": true
 	},
@@ -403,25 +385,25 @@
 	},
 	{
 		"phrase": "Kicked by a moderator",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A players has been kicked from the server by a moderator",
 		"translation": "Κλωτσιά από συντονιστή",
 		"machine": true
 	},
 	{
 		"phrase": "Already in game",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If a player attempts to join the same server twice from two computers, the second player will receive this error",
 		"translation": "Δη στο παιχνίδι",
 		"machine": true
 	},
 	{
 		"phrase": "Authentication failed",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "When a player's identity can't be verified",
 		"translation": "Η ταυτοποίηση απέτυχε",
 		"machine": true
 	},
 	{
 		"phrase": "Banned",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A player has been banned from the server",
 		"translation": "Απαγορευμένο",
 		"machine": true
 	},
@@ -432,146 +414,98 @@
 		"machine": true
 	},
 	{
-		"phrase": "EAC Violation",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Παραβίαση της ΑΗΚ",
-		"machine": true
-	},
-	{
 		"phrase": "Kicked for inactivity",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If a player stands still for a few minutes in a server, they are kicked for being inactive",
 		"translation": "Κλωτσιάστηκε για αδράνεια",
 		"machine": true
 	},
 	{
 		"phrase": "Network Error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if the player's client can't connect to the server",
 		"translation": "Σφάλμα δικτύου",
 		"machine": true
 	},
 	{
 		"phrase": "No Error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if a player can't connect to a server but the game doesn't know why",
 		"translation": "Κανένα σφάλμα",
 		"machine": true
 	},
 	{
 		"phrase": "Server is restarting",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "The server is... restarting",
 		"translation": "Ο διακομιστής κάνει επανεκκίνηση",
 		"machine": true
 	},
 	{
 		"phrase": "Temporarily Banned",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "A player has been banned from joining a server for a specific time period",
 		"translation": "Προσωρινά απαγορευμένο",
 		"machine": true
 	},
 	{
 		"phrase": "Version mismatch",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error is shown if a player is running v1.4 and attempts to join a server that's running v1.5",
 		"translation": "Αναντιστοιχία έκδοσης",
 		"machine": true
 	},
 	{
 		"phrase": "Votekicked",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If most of the other players in the lobby vote to kick you out of the server, you have been votekicked",
 		"translation": "Ψηφοφόρος",
 		"machine": true
 	},
 	{
 		"phrase": "Votekick still in effect",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If you are votekicked, you can't join the server for an hour. This error is shown if you attempt to join the server before this hour is up",
 		"translation": "Το Votekick εξακολουθεί να ισχύει",
 		"machine": true
 	},
 	{
 		"phrase": "Incorrect password",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you enter the wrong password when joining a custom lobby",
 		"translation": "Λάθος κωδικός",
 		"machine": true
 	},
 	{
 		"phrase": "Your level is too high",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you join a custom lobby that its maximum level set to 40 and you are level 50",
 		"translation": "Το επίπεδο σας είναι πολύ υψηλό",
 		"machine": true
 	},
 	{
 		"phrase": "Lobby already claimed",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you attempt to claim a server that has already been claimed for another custom lobby",
 		"translation": "Το λόμπι έχει ήδη διεκδικήσει",
 		"machine": true
 	},
 	{
-		"phrase": "Min level must be lower than your own",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Το ελάχιστο επίπεδο πρέπει να είναι χαμηλότερο από το δικό σας",
-		"machine": true
-	},
-	{
-		"phrase": "Max level must be greater than your own",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Το μέγιστο επίπεδο πρέπει να είναι μεγαλύτερο από το δικό σας",
-		"machine": true
-	},
-	{
-		"phrase": "Min level can't be greater than max level",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Το ελάχιστο επίπεδο δεν μπορεί να είναι μεγαλύτερο από το μέγιστο επίπεδο",
-		"machine": true
-	},
-	{
-		"phrase": "You are too powerful",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Είσαι πολύ δυνατός",
-		"machine": true
-	},
-	{
 		"phrase": "Your level is too low",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "This error shows if you join a custom lobby that its minimum level set to 20 and you are level 10",
 		"translation": "Το επίπεδο σας είναι πολύ χαμηλό",
 		"machine": true
 	},
 	{
-		"phrase": "Cannot claim. Lobby has players",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Δεν είναι δυνατή η αξίωση. το λόμπι έχει παίκτες",
-		"machine": true
-	},
-	{
 		"phrase": "Reserved slot expired",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "When a party leader joins a server, slots are reserved for the other party member for 1 minute. If a party member joins after this reserved slot expires, they are shown this error",
 		"translation": "Η δεσμευμένη υποδοχή έληξε",
 		"machine": true
 	},
 	{
-		"phrase": "Min level must be less than max level",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Το ελάχιστο επίπεδο πρέπει να είναι μικρότερο από το μέγιστο επίπεδο",
-		"machine": true
-	},
-	{
-		"phrase": "Bot Replacement",
-		"comment": "Reason for being disconnected from a server",
-		"translation": "Αντικατάσταση bot",
-		"machine": true
-	},
-	{
 		"phrase": "Accelerator",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that increases projectile speed",
 		"translation": "Επιταχυντής",
 		"machine": true
 	},
 	{
 		"phrase": "Beam splitter",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that splits a plasma projectile into four smaller projectiles",
 		"translation": "Διαχωριστής δέσμης",
 		"machine": true
 	},
 	{
 		"phrase": "Choke",
-		"comment": "Attachment category",
+		"comment": "This is a special kind of barrel on the front of the Combat Shotgun that tightens the spread of pellets",
 		"translation": "Πνιγομαι",
 		"machine": true
 	},
@@ -583,91 +517,85 @@
 	},
 	{
 		"phrase": "Extended",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel extension",
 		"translation": "Επεκτάθηκε",
 		"machine": true
 	},
 	{
-		"phrase": "Extendest",
-		"comment": "Barrel attachment name",
-		"translation": "Extendest",
-		"machine": true
-	},
-	{
 		"phrase": "Resonator",
-		"comment": "Barrel attachment name",
+		"comment": "Agaman weapon barrel that reduces the volume of plasma gunshots",
 		"translation": "Αντηχείο",
 		"machine": true
 	},
 	{
 		"phrase": "Silencer",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that reduces the volume of gunshots",
 		"translation": "Σιγαστήρας",
 		"machine": true
 	},
 	{
 		"phrase": "Medium",
-		"comment": "Barrel attachment name",
+		"comment": "Rail gun barrels come in three lengths: Long, Medium and Short",
 		"translation": "Μεσαίο",
 		"machine": true
 	},
 	{
 		"phrase": "Short",
-		"comment": "Barrel attachment name",
+		"comment": "Rail gun barrels come in three lengths: Long, Medium and Short",
 		"translation": "Μικρός",
 		"machine": true
 	},
 	{
 		"phrase": "Angled",
-		"comment": "Attachment name",
+		"comment": "A type of foregrip that's angled so your hand rests at a different... angle",
 		"translation": "Υπο γωνία",
 		"machine": true
 	},
 	{
 		"phrase": "Removed",
-		"comment": "Attachment name",
+		"comment": "When a gun has no foregrip",
 		"translation": "Καταργήθηκε",
 		"machine": true
 	},
 	{
 		"phrase": "Stubby",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip",
 		"translation": "Κοντόχοντρος",
 		"machine": true
 	},
 	{
 		"phrase": "Side",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip that sticks out the side of the gun",
 		"translation": "Πλευρά",
 		"machine": true
 	},
 	{
 		"phrase": "Angled Half-Grip",
-		"comment": "Foregrip attachment name",
+		"comment": "A type of foregrip that's shorter and angled",
 		"translation": "Γωνιακό μισό πιάσιμο",
 		"machine": true
 	},
 	{
 		"phrase": "Base",
-		"comment": "Loader attachment name",
+		"comment": "Base\/default",
 		"translation": "Βάση",
 		"machine": true
 	},
 	{
 		"phrase": "Vertical",
-		"comment": "Loader attachment name",
+		"comment": "A shotgun loader that's angled vertically",
 		"translation": "Κατακόρυφος",
 		"machine": true
 	},
 	{
 		"phrase": "Large",
-		"comment": "Magazine attachment name",
+		"comment": "A large magazine holds more bullets",
 		"translation": "Μεγάλο",
 		"machine": true
 	},
 	{
 		"phrase": "Heavy",
-		"comment": "Ammo type name",
+		"comment": "Heavier ammunition that fires slower but deals more damage",
 		"translation": "Βαρύς",
 		"machine": true
 	},
@@ -679,133 +607,121 @@
 	},
 	{
 		"phrase": "Piercing",
-		"comment": "Ammo type name",
+		"comment": "Ammunition type that pierces through players and blocks",
 		"translation": "Διάτρηση",
 		"machine": true
 	},
 	{
 		"phrase": "Ricochet",
-		"comment": "Ammo type name",
+		"comment": "Ammunition type that bounces off walls",
 		"translation": "Αποστρακίζομαι",
 		"machine": true
 	},
 	{
 		"phrase": "Slug",
-		"comment": "Ammo type name",
+		"comment": "A large metal slug that can be fired by a shotgun",
 		"translation": "Γυμνοσάλιαγκας",
 		"machine": true
 	},
 	{
 		"phrase": "Buckshot",
-		"comment": "Ammo type name",
+		"comment": "Default ammo for a shotgun, which consists of small tiny metal balls",
 		"translation": "Σκάγι",
 		"machine": true
 	},
 	{
 		"phrase": "Burst",
-		"comment": "Firing mechanism attachment name, e.g. single shot, burst and automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Εκρηξη",
 		"machine": true
 	},
 	{
-		"phrase": "Tow",
-		"comment": "Ammo type name",
-		"translation": "Ρυμούλκηση",
-		"machine": true
-	},
-	{
 		"phrase": "Triple",
-		"comment": "Ammo type name",
+		"comment": "Triple, three",
 		"translation": "Τριπλούς",
 		"machine": true
 	},
 	{
-		"phrase": "Lethal",
-		"comment": "Ammo type name",
-		"translation": "Θανατηφόρος",
-		"machine": true
-	},
-	{
 		"phrase": "Augmented",
-		"comment": "Ammo type name",
+		"comment": "A large plasma projectile that is slow and weak, but can fuse with other plasma projectiles to power up",
 		"translation": "Αυξημένη",
 		"machine": true
 	},
 	{
 		"phrase": "Corrosive",
-		"comment": "Payload attachment name",
+		"comment": "Corrosive acid that eats blocks",
 		"translation": "Διαβρωτικός",
 		"machine": true
 	},
 	{
 		"phrase": "Explosive",
-		"comment": "Payload attachment name",
+		"comment": "Projectile payload that explodes on impact",
 		"translation": "Εκρηκτικός",
 		"machine": true
 	},
 	{
 		"phrase": "Incendiary",
-		"comment": "Payload attachment name",
+		"comment": "Projectile payload that sets its target on fire",
 		"translation": "Εμπρηστικός",
 		"machine": true
 	},
 	{
 		"phrase": "Tactical",
-		"comment": "Stock attachment name",
+		"comment": "A tactical missile strike",
 		"translation": "Τακτικός",
 		"machine": true
 	},
 	{
 		"phrase": "Rigid",
-		"comment": "Stock attachment name",
+		"comment": "A weapon stock that weighs more and is more stable",
 		"translation": "Ακαμπτος",
 		"machine": true
 	},
 	{
 		"phrase": "Mechanical",
-		"comment": "Revolver trigger attachment name",
+		"comment": "A revolver trigger type that fires automatically when held down",
 		"translation": "Μηχανικός",
 		"machine": true
 	},
 	{
 		"phrase": "Advanced",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Advanced technology",
 		"translation": "Προχωρημένος",
 		"machine": true
 	},
 	{
 		"phrase": "Welded",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Welded shut",
 		"translation": "Συγκολλημένος",
 		"machine": true
 	},
 	{
 		"phrase": "Pneumatic",
-		"comment": "Combat Shotgun choke attachment name",
+		"comment": "Pneumatic equipment",
 		"translation": "Πνευματικός",
 		"machine": true
 	},
 	{
 		"phrase": "Single",
-		"comment": "Core attachment name, i.e. single shot vs automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Μονόκλινο",
 		"machine": true
 	},
 	{
 		"phrase": "Automatic",
-		"comment": "Core attachment name, i.e. single shot vs automatic fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Αυτόματο",
 		"machine": true
 	},
 	{
 		"phrase": "Plasma Cutter",
-		"comment": "Core attachment name",
+		"comment": "Alternate weapon name for the Orberator, it fires a short-range plasma laser that easily cuts through blocks",
 		"translation": "Κόφτης πλάσματος",
 		"machine": true
 	},
 	{
 		"phrase": "Multi-Orb",
-		"comment": "Core attachment name",
+		"comment": "This core attachment for the Orberator fires 5 smaller orbs rather than 1 large orb",
 		"translation": "Πολλαπλή σφαίρα",
 		"machine": true
 	},
@@ -997,55 +913,55 @@
 	},
 	{
 		"phrase": "Snakeskin",
-		"comment": "Weapon skin name",
+		"comment": "Camoflague pattern in the shape of hexagon-like snake skin",
 		"translation": "Δέρμα φιδιού",
 		"machine": true
 	},
 	{
 		"phrase": "Woodland",
-		"comment": "Weapon skin name",
+		"comment": "Camoflague pattern in the shape of mottled wood",
 		"translation": "Δάσος",
 		"machine": true
 	},
 	{
 		"phrase": "Hot Metal",
-		"comment": "Weapon skin name",
+		"comment": "A fire-themed metallic weapon skin",
 		"translation": "Καυτό μέταλλο",
 		"machine": true
 	},
 	{
 		"phrase": "Cold Metal",
-		"comment": "Weapon skin name",
+		"comment": "An ice-themed metallic weapon skin",
 		"translation": "Κρύο μέταλλο",
 		"machine": true
 	},
 	{
 		"phrase": "Pearl",
-		"comment": "Weapon skin name",
+		"comment": "A weapon skin that is similar to pearlescent paint applied to a car",
 		"translation": "Μαργαριτάρι",
 		"machine": true
 	},
 	{
 		"phrase": "Tracer",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks like the patterns on a CPU motherboard (circles connected by straight and diagonal lines)",
 		"translation": "Ιχνηλάτης",
 		"machine": true
 	},
 	{
 		"phrase": "Fluid",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks like liquid",
 		"translation": "Υγρό",
 		"machine": true
 	},
 	{
 		"phrase": "Ember",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin that looks embers floating away from a fire",
 		"translation": "Χόβολη",
 		"machine": true
 	},
 	{
 		"phrase": "Grid",
-		"comment": "Weapon skin name",
+		"comment": "An animated weapon skin composed of lots of dots in a grid",
 		"translation": "Πλέγμα",
 		"machine": true
 	},
@@ -1057,37 +973,37 @@
 	},
 	{
 		"phrase": "Hydraulics",
-		"comment": "Armour modification name",
+		"comment": "Hydraulics increases jump height and reduces fall damage",
 		"translation": "Υδραυλική",
 		"machine": true
 	},
 	{
 		"phrase": "Regeneration",
-		"comment": "Armour modification name",
+		"comment": "Health regeneration",
 		"translation": "Αναγέννηση",
 		"machine": true
 	},
 	{
 		"phrase": "Speed",
-		"comment": "Armour modification name",
+		"comment": "How fast something happens, i.e. 'Blade advanced on his prey at lightning speeds'",
 		"translation": "Ταχύτητα",
 		"machine": true
 	},
 	{
 		"phrase": "Stealth",
-		"comment": "Armour modification name",
+		"comment": "The act of being sneaky",
 		"translation": "Λαθραία",
 		"machine": true
 	},
 	{
 		"phrase": "Kinetic",
-		"comment": "Armour modification name",
+		"comment": "Kinetic energy",
 		"translation": "Κινητικός",
 		"machine": true
 	},
 	{
 		"phrase": "Scavenger",
-		"comment": "Armour modification name",
+		"comment": "Scavengers pick up more ammo from enemy corpses",
 		"translation": "Οδοκαθαριστής",
 		"machine": true
 	},
@@ -1111,19 +1027,19 @@
 	},
 	{
 		"phrase": "Forwards",
-		"comment": "[Keybind] Move forward",
+		"comment": "Move forward",
 		"translation": "Εμπρός",
 		"machine": true
 	},
 	{
 		"phrase": "Right",
-		"comment": "[Keybind] Move right",
+		"comment": "Move to the right",
 		"translation": "σωστά",
 		"machine": true
 	},
 	{
 		"phrase": "Backwards",
-		"comment": "[Keybind] Move backwards",
+		"comment": "Move backwards",
 		"translation": "Προς τα πίσω",
 		"machine": true
 	},
@@ -1135,7 +1051,7 @@
 	},
 	{
 		"phrase": "Jump",
-		"comment": "[Keybind]",
+		"comment": "Jump over obstacles",
 		"translation": "Αλμα",
 		"machine": true
 	},
@@ -1147,20 +1063,8 @@
 	},
 	{
 		"phrase": "Slide",
-		"comment": "[Keybind]",
+		"comment": "Slide along on the ground",
 		"translation": "Ολίσθηση",
-		"machine": true
-	},
-	{
-		"phrase": "Pick Up Primary",
-		"comment": "[Keybind]",
-		"translation": "Παραλαβή πρωτοβάθμιας",
-		"machine": true
-	},
-	{
-		"phrase": "Pick Up Secondary",
-		"comment": "[Keybind]",
-		"translation": "Παραλαβή δευτερεύοντος",
 		"machine": true
 	},
 	{
@@ -1171,19 +1075,19 @@
 	},
 	{
 		"phrase": "Ping (Enemy)",
-		"comment": "[Keybind]",
+		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
 		"translation": "Ping (εχθρός)",
 		"machine": true
 	},
 	{
 		"phrase": "Ping (Help)",
-		"comment": "[Keybind]",
+		"comment": "This ping refers to placing a 3D marker above your head, indicating you need backup",
 		"translation": "Ping (βοήθεια)",
 		"machine": true
 	},
 	{
 		"phrase": "Shoot",
-		"comment": "[Keybind]",
+		"comment": "Shoot your gun",
 		"translation": "Βλαστός",
 		"machine": true
 	},
@@ -1195,43 +1099,37 @@
 	},
 	{
 		"phrase": "Reload",
-		"comment": "[Keybind]",
+		"comment": "Reload a gun",
 		"translation": "Φορτώνω πάλι",
 		"machine": true
 	},
 	{
 		"phrase": "Melee",
-		"comment": "In-game point text",
+		"comment": "Hitting a player with knives or stabbing weapons",
 		"translation": "Πολεμική",
 		"machine": true
 	},
 	{
 		"phrase": "Grenade",
-		"comment": "[Keybind]",
+		"comment": "An explosive grenade",
 		"translation": "Χειροβομβίδα",
 		"machine": true
 	},
 	{
-		"phrase": "Midi",
-		"comment": "[Keybind]",
-		"translation": "Μίντι",
-		"machine": true
-	},
-	{
 		"phrase": "Digger",
-		"comment": "[Keybind]",
+		"comment": "A midi has two modes: builder and digger",
 		"translation": "Ανασκαφέας",
 		"machine": true
 	},
 	{
 		"phrase": "Structure (Radial)",
-		"comment": "[Keybind]",
+		"comment": "Holding this keybind displays a radial that lets you select one of your custom structures",
 		"translation": "Δομή (ακτινική)",
 		"machine": true
 	},
 	{
 		"phrase": "Structure (Toggle)",
-		"comment": "[Keybind]",
+		"comment": "If a player has three structures, they can press this keybind to change to the next structure",
 		"translation": "Δομή (εναλλαγή)",
 		"machine": true
 	},
@@ -1489,36 +1387,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Determining sector coordinates",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Καθορισμός συντεταγμένων τομέων",
-		"machine": true
-	},
-	{
-		"phrase": "Calibrating thermal dampeners",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Βαθμονόμηση θερμικών αποσβεστήρων",
-		"machine": true
-	},
-	{
-		"phrase": "Entering planet atmosphere",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Εισαγωγή στην ατμόσφαιρα του πλανήτη",
-		"machine": true
-	},
-	{
-		"phrase": "Analysing environment",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Ανάλυση περιβάλλοντος",
-		"machine": true
-	},
-	{
-		"phrase": "Commencing landing procedure",
-		"comment": "[Server connection banner] This text displays when connecting to a server",
-		"translation": "Έναρξη διαδικασίας προσγείωσης",
-		"machine": true
-	},
-	{
 		"phrase": "Respawn",
 		"comment": "[Gamemode Info] Respawn time, e.g. 10s respawn",
 		"translation": "Respawn",
@@ -1604,13 +1472,13 @@
 	},
 	{
 		"phrase": "Upload",
-		"comment": "[Mapping Screen] Upload a map to the Workshop",
+		"comment": "Upload the map",
 		"translation": "Μεταφόρτωση",
 		"machine": true
 	},
 	{
 		"phrase": "Private",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is private, meaning only I can see it",
 		"translation": "Ιδιωτικός",
 		"machine": true
 	},
@@ -1622,13 +1490,13 @@
 	},
 	{
 		"phrase": "Unlisted",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is unlisted, meaning only people with a link can see it",
 		"translation": "Ακαταχώριστος",
 		"machine": true
 	},
 	{
 		"phrase": "Public",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
+		"comment": "This item is public, meaning anyone can see it",
 		"translation": "Δημόσιο",
 		"machine": true
 	},
@@ -1676,7 +1544,7 @@
 	},
 	{
 		"phrase": "Invalid",
-		"comment": "[Workshop] The map upload has failed due to invalid map settings",
+		"comment": "The value is not valid",
 		"translation": "Μη έγκυρο",
 		"machine": true
 	},
@@ -1730,7 +1598,7 @@
 	},
 	{
 		"phrase": "Visibility",
-		"comment": "[Setting] The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
+		"comment": "The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
 		"translation": "Ορατότητα",
 		"machine": true
 	},
@@ -1739,18 +1607,6 @@
 		"context": "Not Applicable",
 		"comment": "[Term] This is an abbreviation for Not Applicable",
 		"translation": "N\/A",
-		"machine": true
-	},
-	{
-		"phrase": "ms",
-		"comment": "[Unit Prefix] Milliseconds",
-		"translation": "Κυρία",
-		"machine": true
-	},
-	{
-		"phrase": "Game Modes",
-		"comment": "A set of rules that controls how players kill Fora",
-		"translation": "Τρόποι παιχνιδιού",
 		"machine": true
 	},
 	{
@@ -1989,13 +1845,13 @@
 	},
 	{
 		"phrase": "Customise",
-		"comment": "[Killcam] [Button] Customise button below the killcam preview",
+		"comment": "The player can customise their character",
 		"translation": "Προσαρμογή",
 		"machine": true
 	},
 	{
 		"phrase": "Ship",
-		"comment": "A futuristic space ship where the player can relax",
+		"comment": "A futuristic space ship flying through the galaxy at high speeds",
 		"translation": "Πλοίο",
 		"machine": true
 	},
@@ -2025,31 +1881,31 @@
 	},
 	{
 		"phrase": "Sight",
-		"comment": "Attachment category",
+		"comment": "Weapon sights that the player looks through on top of their gun",
 		"translation": "Θέαμα",
 		"machine": true
 	},
 	{
 		"phrase": "Skin",
-		"comment": "[Progression Reward] [Weapon] e.g. Free Light Plasma Skin",
+		"comment": "A weapon skin\/pattern\/camoflague can be applied to a weapon to change its appearance",
 		"translation": "Δέρμα",
 		"machine": true
 	},
 	{
 		"phrase": "Barrel",
-		"comment": "Attachment category",
+		"comment": "The barrel on the front of a gun, e.g. a silencer",
 		"translation": "Βαρέλι",
 		"machine": true
 	},
 	{
 		"phrase": "Foregrip",
-		"comment": "Attachment category",
+		"comment": "The part of the gun that the player holds on to, e.g. stubby foregrip",
 		"translation": "Foregrip",
 		"machine": true
 	},
 	{
 		"phrase": "Stock",
-		"comment": "Attachment category",
+		"comment": "The rear part of the gun that rests against the player's shoulder for stability",
 		"translation": "Στοκ",
 		"machine": true
 	},
@@ -2159,7 +2015,7 @@
 	},
 	{
 		"phrase": "Save",
-		"comment": "1 Save, i.e. when you save a friendly from being killed",
+		"comment": "Save your changes",
 		"translation": "Σώσει",
 		"machine": true
 	},
@@ -2190,7 +2046,7 @@
 	},
 	{
 		"phrase": "Edit loadouts",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Edit loadouts'",
+		"comment": "Click this button to edit your loadouts",
 		"translation": "Επεξεργασία φορτώσεων",
 		"machine": true
 	},
@@ -2226,25 +2082,25 @@
 	},
 	{
 		"phrase": "Bronze medal",
-		"comment": "[Trial Reward]",
+		"comment": "A bronze medal",
 		"translation": "Χάλκινο μετάλλιο",
 		"machine": true
 	},
 	{
 		"phrase": "Silver medal",
-		"comment": "[Trial Reward]",
+		"comment": "A silver medal",
 		"translation": "Αργυρό μετάλιο",
 		"machine": true
 	},
 	{
 		"phrase": "Gold medal",
-		"comment": "[Trial Reward]",
+		"comment": "A gold medal",
 		"translation": "Χρυσό μετάλλιο",
 		"machine": true
 	},
 	{
 		"phrase": "Platinum medal",
-		"comment": "[Trial Reward]",
+		"comment": "A platinum medal",
 		"translation": "Πλατινένιο μετάλλιο",
 		"machine": true
 	},
@@ -2346,73 +2202,55 @@
 	},
 	{
 		"phrase": "Holster time",
-		"comment": "[Attachment Stat] The time required to put away \/ pull out a weapon",
+		"comment": "The time required to place a weapon in its holster",
 		"translation": "Holρα θήκης",
 		"machine": true
 	},
 	{
 		"phrase": "ADS time",
-		"comment": "[Attachment Stat] ADS stands for Aiming Down the Sights",
+		"comment": "The time required to aim down the sights of a gun. ADS stands for Aim Down the Sights",
 		"translation": "Ώρα ADS",
 		"machine": true
 	},
 	{
 		"phrase": "Projectile speed",
-		"comment": "[Attachment Stat] How many blocks-per-second the projectile travels",
+		"comment": "How fast the projectile travels",
 		"translation": "Ταχύτητα βλήματος",
 		"machine": true
 	},
 	{
 		"phrase": "Block damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to blocks",
+		"comment": "The amount of damage a weapon deals to blocks",
 		"translation": "Αποκλεισμός ζημιάς",
 		"machine": true
 	},
 	{
 		"phrase": "Pellet count",
-		"comment": "[Attachment Stat] How many pellets a weapon fires",
+		"comment": "How many pellets a weapon fires",
 		"translation": "Αριθμός σφαιριδίων",
 		"machine": true
 	},
 	{
 		"phrase": "Eternal",
-		"comment": "Server list info",
+		"comment": "The match will last forever",
 		"translation": "Αιώνιος",
 		"machine": true
 	},
 	{
 		"phrase": "Trailer",
-		"comment": "Server list info. This server is being used to record a video trailer",
+		"comment": "This server is being used to record a video trailer",
 		"translation": "Τροχόσπιτο",
 		"machine": true
 	},
 	{
 		"phrase": "Sandbox",
-		"comment": "Server list info",
+		"comment": "When enabling sandbox mode, players are invincible and have infinite ammo",
 		"translation": "Sandbox",
 		"machine": true
 	},
 	{
-		"phrase": "Slot 1",
-		"comment": "The first slot in your inventory",
-		"translation": "Υποδοχή 1",
-		"machine": true
-	},
-	{
-		"phrase": "Slot 2",
-		"comment": "The second slot in your inventory",
-		"translation": "Υποδοχή 2",
-		"machine": true
-	},
-	{
-		"phrase": "Slot 3",
-		"comment": "The third slot in your inventory",
-		"translation": "Υποδοχή 3",
-		"machine": true
-	},
-	{
 		"phrase": "Dig speed",
-		"comment": "[Attachment Stat] How fast the Midi can dig",
+		"comment": "How fast the Midi can dig",
 		"translation": "Ταχύτητα σκαψίματος",
 		"machine": true
 	},
@@ -2430,13 +2268,13 @@
 	},
 	{
 		"phrase": "Attachments",
-		"comment": "Weapon attachments",
+		"comment": "2 Attachments",
 		"translation": "Συνημμένα",
 		"machine": true
 	},
 	{
 		"phrase": "Sights",
-		"comment": "Weapon sights",
+		"comment": "Weapon sights that the player looks through on top of their gun",
 		"translation": "Αξιοθέατα",
 		"machine": true
 	},
@@ -2466,25 +2304,25 @@
 	},
 	{
 		"phrase": "Loader",
-		"comment": "Attachment category",
+		"comment": "This is like a foregrip but can move forwards and backwards to load a shotgun shell into the Combat Shotgun, i.e. the cliche chk chk boom of a shotgun",
 		"translation": "Φορτωτής",
 		"machine": true
 	},
 	{
 		"phrase": "Magazine",
-		"comment": "Attachment category",
+		"comment": "This is a replaceable part of a gun that holds bullets",
 		"translation": "Περιοδικό",
 		"machine": true
 	},
 	{
 		"phrase": "Payload",
-		"comment": "Attachment category",
+		"comment": "Bullets can contain different payloads, e.g. incendiary, explosive",
 		"translation": "Φορτίο επί πληρωμή",
 		"machine": true
 	},
 	{
 		"phrase": "Trigger",
-		"comment": "Attachment category",
+		"comment": "Pull the trigger to fire bullets",
 		"translation": "Δώσει το έναυσμα για",
 		"machine": true
 	},
@@ -2825,12 +2663,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Redeem key",
-		"comment": "Redeem a key to earn Protons, boosts or tokens",
-		"translation": "Εξαργύρωση κλειδιού",
-		"machine": true
-	},
-	{
 		"phrase": "Password",
 		"comment": "Server list info",
 		"translation": "Κωδικός πρόσβασης",
@@ -2922,49 +2754,49 @@
 	},
 	{
 		"phrase": "Block capacity",
-		"comment": "[Attachment Stat] How many blocks the Midi can store",
+		"comment": "How many blocks the Midi can store",
 		"translation": "Αποκλεισμός χωρητικότητας",
 		"machine": true
 	},
 	{
 		"phrase": "Movement speed",
-		"comment": "[Loadout Stat] How fast the player moves",
+		"comment": "How fast the player moves",
 		"translation": "Ταχύτητα κίνησης",
 		"machine": true
 	},
 	{
 		"phrase": "Jump velocity",
-		"comment": "[Loadout Stat] How high the player can jump",
+		"comment": "How high the player can jump",
 		"translation": "Άλμα ταχύτητας",
 		"machine": true
 	},
 	{
 		"phrase": "Fall damage",
-		"comment": "[Loadout Stat] How much fall damage a player suffers when landing on the ground",
+		"comment": "How much fall damage a player receives when landing on the ground",
 		"translation": "Ζημιά πτώσης",
 		"machine": true
 	},
 	{
 		"phrase": "Safe fall distance",
-		"comment": "[Loadout Stat] How far the player can fall before taking damage",
+		"comment": "How far the player can fall before taking damage",
 		"translation": "Ασφαλής απόσταση πτώσης",
 		"machine": true
 	},
 	{
 		"phrase": "Build distance",
-		"comment": "[Attachment Stat] How far away the Midi can build",
+		"comment": "How far away the Midi can build",
 		"translation": "Δημιουργήστε απόσταση",
 		"machine": true
 	},
 	{
 		"phrase": "Block health",
-		"comment": "[Attachment Stat] How strong a block is",
+		"comment": "How strong a block is",
 		"translation": "Αποκλεισμός της υγείας",
 		"machine": true
 	},
 	{
 		"phrase": "Build speed",
-		"comment": "[Attachment Stat] How fast the Midi can build",
+		"comment": "How fast the Midi can build",
 		"translation": "Δημιουργήστε ταχύτητα",
 		"machine": true
 	},
@@ -2994,7 +2826,7 @@
 	},
 	{
 		"phrase": "Workshop",
-		"comment": "Maps that the users has subscribed to in the workshop",
+		"comment": "This refers to the Steam Workshop, which is a place where players can upload maps for other players to try",
 		"translation": "ΕΡΓΑΣΤΗΡΙ",
 		"machine": true
 	},
@@ -3182,26 +3014,20 @@
 		"machine": true
 	},
 	{
-		"phrase": "Report Player",
-		"comment": "Report a player for cheating",
-		"translation": "Αναπαραγωγή αναφορών",
-		"machine": true
-	},
-	{
 		"phrase": "Spectators",
-		"comment": "A spectator is someone who is watching the match",
+		"comment": "Someone who is watching a battle",
 		"translation": "Θεατές",
 		"machine": true
 	},
 	{
 		"phrase": "Equipped",
-		"comment": "This weapon is equipped",
+		"comment": "This weapon skinis equipped",
 		"translation": "Εξοπλισμένο",
 		"machine": true
 	},
 	{
 		"phrase": "You have left the party",
-		"comment": "Notification that you left the party",
+		"comment": "A party is a group of 4 friends that player together. This notification shows when you leave the party or the party disbands",
 		"translation": "Έχετε φύγει από το πάρτι",
 		"machine": true
 	},
@@ -3267,25 +3093,25 @@
 	},
 	{
 		"phrase": "Platinum",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A platinum medal",
 		"translation": "Πλατίνα",
 		"machine": true
 	},
 	{
 		"phrase": "Gold",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A gold medal",
 		"translation": "Χρυσός",
 		"machine": true
 	},
 	{
 		"phrase": "Silver",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A silver medal",
 		"translation": "Ασήμι",
 		"machine": true
 	},
 	{
 		"phrase": "Bronze",
-		"comment": "[Trials] Rank that shows when completing a trial",
+		"comment": "A bronze medal",
 		"translation": "Μπρούντζος",
 		"machine": true
 	},
@@ -3379,13 +3205,13 @@
 	},
 	{
 		"phrase": "Unlock",
-		"comment": "Click to unlock this character",
+		"comment": "Click to unlock this weapon skin",
 		"translation": "Ξεκλείδωμα",
 		"machine": true
 	},
 	{
 		"phrase": "Equip",
-		"comment": "Click to equip this character",
+		"comment": "Click to equip this weapon skin",
 		"translation": "Εξοπλίζω",
 		"machine": true
 	},
@@ -3832,25 +3658,25 @@
 	},
 	{
 		"phrase": "Compensator",
-		"comment": "Barrel attachment name",
+		"comment": "Weapon barrel that reduces recoil",
 		"translation": "Ικανοποιών",
 		"machine": true
 	},
 	{
 		"phrase": "Sticky",
-		"comment": "Ammo type name - an explosive projectile sticks to the wall on impact before exploding",
+		"comment": "An explosive projectile sticks to the wall before exploding",
 		"translation": "Κολλώδης",
 		"machine": true
 	},
 	{
 		"phrase": "Cluster",
-		"comment": "Ammo type name - an explosive projectile explodes into a cluster of 3 explosives",
+		"comment": "An explosive projectile that explodes into 3 smaller projectiles",
 		"translation": "Σύμπλεγμα",
 		"machine": true
 	},
 	{
 		"phrase": "Fragmentation",
-		"comment": "Payload attachment name",
+		"comment": "A projectile type that explodes into thousands of small fragments on impact",
 		"translation": "Θρυμματισμός",
 		"machine": true
 	},
@@ -3874,7 +3700,7 @@
 	},
 	{
 		"phrase": "Boost",
-		"comment": "[Career Path] i.e. '50% Proton Boost'",
+		"comment": "1 Boost, i.e. an item a player can use to increase their Proton and XP gain for the next hour",
 		"translation": "Ωθηση",
 		"machine": true
 	},
@@ -4151,7 +3977,7 @@
 	},
 	{
 		"phrase": "The map is restoring. Try again in {0} seconds",
-		"comment": "Reason for being disconnected from a server. Parameter 0: '10'",
+		"comment": "If a player joins a server while the map is being restored to a previous version, they are shown this error",
 		"translation": "Ο χάρτης αποκαθίσταται. δοκιμάστε ξανά σε {0} δευτερόλεπτα",
 		"machine": true
 	},
@@ -4205,21 +4031,21 @@
 	},
 	{
 		"phrase": "Internal error",
-		"comment": "Reason for being disconnected from a server",
+		"comment": "If the server crashes or has a bug, this error is shown",
 		"translation": "Εσωτερικό σφάλμα",
 		"machine": true
 	},
 	{
 		"phrase": "Light",
 		"context": "Weak",
-		"comment": "Ammo type name",
+		"comment": "Smaller ammunition that fires faster but deals less damage",
 		"translation": "Φως",
 		"machine": true
 	},
 	{
 		"phrase": "Light",
 		"context": "Lightweight",
-		"comment": "Stock attachment name",
+		"comment": "A weapon stock that weighs less but is slightly unstable",
 		"translation": "Φως",
 		"machine": true
 	},
@@ -4243,7 +4069,7 @@
 	},
 	{
 		"phrase": "Home",
-		"comment": "The home screen where the player can read news and quick play",
+		"comment": "The home screen is where the player can read news and quick play",
 		"translation": "Σπίτι",
 		"machine": true
 	},
@@ -4315,13 +4141,13 @@
 	},
 	{
 		"phrase": "Ammo",
-		"comment": "Attachment category",
+		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "Πυρομαχικά",
 		"machine": true
 	},
 	{
 		"phrase": "Mechanism",
-		"comment": "Attachment category",
+		"comment": "The mechanism is inside the gun and fires bullets when the trigger is held. This changes whether the gun fires in bursts of 3, or has automatic fire",
 		"translation": "Μηχανισμός",
 		"machine": true
 	},
@@ -4339,31 +4165,31 @@
 	},
 	{
 		"phrase": "Extractor destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Extractor and destroying it. An Extractor is a deployable device that digs tunnels",
 		"translation": "Ο εξολκέας καταστράφηκε",
 		"machine": true
 	},
 	{
 		"phrase": "Reinforcer destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Reinforcer and destroying it. A Reinforcer is a deployable device that strengthens the blocks around it",
 		"translation": "Ο ενισχυτής καταστράφηκε",
 		"machine": true
 	},
 	{
 		"phrase": "Tether destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Tether and destroying it. A Tether is a device that attaches to walls and can pull them down",
 		"translation": "Η πρόσδεση καταστράφηκε",
 		"machine": true
 	},
 	{
 		"phrase": "Turret destroyed",
-		"comment": "In-game point text",
+		"comment": "Shooting an enemy Turret and destroying it. A Turret is a deployable device that shoots at enemies",
 		"translation": "Ο πυργίσκος καταστράφηκε",
 		"machine": true
 	},
 	{
 		"phrase": "Win",
-		"comment": "This player won the battle, i.e. 'You win!'",
+		"comment": "You win the battle",
 		"translation": "Νίκη",
 		"machine": true
 	},
@@ -4375,31 +4201,31 @@
 	},
 	{
 		"phrase": "Overcharged",
-		"comment": "Ammo type name",
+		"comment": "When a plasma weapon is overcharged, it fires projectiles in bursts of two",
 		"translation": "Υπερχρεωμένο",
 		"machine": true
 	},
 	{
 		"phrase": "Dispersion",
-		"comment": "Ammo type name",
+		"comment": "This is a plasma projectile type that disperses a large amount of plasma outwards on impact, dealing area-of-effect damage to blocks and players",
 		"translation": "Διασπορά",
 		"machine": true
 	},
 	{
 		"phrase": "Ion",
-		"comment": "Ammo type name",
+		"comment": "Ion projectiles alter the molecular structure of blocks to allow projectiles to temporarily pass through",
 		"translation": "Ιόν",
 		"machine": true
 	},
 	{
 		"phrase": "Impact",
-		"comment": "Payload attachment name",
+		"comment": "The Rocket Rifle projectile traditionally carries an explosive payload, but can be replaced with solid metal to deal a large amount of damage on impact",
 		"translation": "Επίπτωση",
 		"machine": true
 	},
 	{
 		"phrase": "Red Dot",
-		"comment": "Sight attachment name",
+		"comment": "Type of weapon sight",
 		"translation": "κόκκινη τελεία",
 		"machine": true
 	},
@@ -4411,25 +4237,25 @@
 	},
 	{
 		"phrase": "Dig single blocks",
-		"comment": "[Keybind]",
+		"comment": "Enable this setting to dig single blocks by default, rather than 3x3x3 chunks of blocks",
 		"translation": "Σκάψτε μεμονωμένα τετράγωνα",
 		"machine": true
 	},
 	{
 		"phrase": "Detonate",
-		"comment": "[Keybind] Detonate C4 explosives",
+		"comment": "Detonate C4 explosives",
 		"translation": "Εκπυρσοκροτώ",
 		"machine": true
 	},
 	{
 		"phrase": "Rotate structure clockwise",
-		"comment": "[Keybind]",
+		"comment": "A structure refers to a 5x5x5 group of blocks that a player can customise in their ship, then place quickly in battle. Pressing this keybind rotates the structure clockwise",
 		"translation": "Περιστρέψτε τη δομή δεξιόστροφα",
 		"machine": true
 	},
 	{
 		"phrase": "Rotate structure anticlockwise",
-		"comment": "[Keybind]",
+		"comment": "Pressing this keybind rotates the structure anticlockwise",
 		"translation": "Περιστρέψτε τη δομή αριστερόστροφα",
 		"machine": true
 	},
@@ -4513,73 +4339,73 @@
 	},
 	{
 		"phrase": "Small Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
 		"translation": "Μικρό κάνιστρο",
 		"machine": true
 	},
 	{
 		"phrase": "Medium Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A medium canister on the Midi can hold a bit more matter",
 		"translation": "Μεσαίο δοχείο",
 		"machine": true
 	},
 	{
 		"phrase": "Large Canister",
-		"comment": "The canister is a container that stores matter",
+		"comment": "A large canister on the Midi can hold a lot of stuff",
 		"translation": "Μεγάλο κάνιστρο",
 		"machine": true
 	},
 	{
 		"phrase": "Budget Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The core on the Midi fabricates matter from the particles stored in the canister. The budget core can create weak blocks",
 		"translation": "Πυρήνας προϋπολογισμού",
 		"machine": true
 	},
 	{
 		"phrase": "Ion Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The ion core can create stronger blocks while consuming less matter from the canister",
 		"translation": "Πυρήνας ιόντων",
 		"machine": true
 	},
 	{
 		"phrase": "Dual Proto Core",
-		"comment": "The core controls the strength of blocks",
+		"comment": "The Dual Proto core is the best in the market and can create very strong blocks",
 		"translation": "Διπλός πρωτοπύρηνος",
 		"machine": true
 	},
 	{
 		"phrase": "Solid Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The rod in the center of the Midi is condensed Soltrium that generates a laser that can cut through blocks",
 		"translation": "Συμπαγής ράγα",
 		"machine": true
 	},
 	{
 		"phrase": "Quad Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The Quad Rail increases the power of the laser",
 		"translation": "Quad rail",
 		"machine": true
 	},
 	{
 		"phrase": "Warped Rail",
-		"comment": "The rod in the center of the Midi that affects dig power and build and digging reach",
+		"comment": "The Warped Rail is the latest in Midi technology and produces a high-powered laser that can cut through nearly anything",
 		"translation": "Στρεβλωμένη ράγα",
 		"machine": true
 	},
 	{
 		"phrase": "Basic Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Basic Servo in the Midi spins slowly but gets the job done",
 		"translation": "Βασικό σερβομηχανισμό",
 		"machine": true
 	},
 	{
 		"phrase": "Power Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Power Servo spins much faster and increases digging speed",
 		"translation": "Power Servo",
 		"machine": true
 	},
 	{
 		"phrase": "Turbo Servo",
-		"comment": "The servo controls building and digging speed",
+		"comment": "The Turbo Servo is the fastest servo attachment for the Midi, utilising surprisingly effective primitive technology harvested from a GT-86 Human vehicle",
 		"translation": "Turbo σερβομηχανισμός",
 		"machine": true
 	},
@@ -4703,12 +4529,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Boost pack",
-		"comment": "Store pack title. A player can use a Boost to increase the amount of currency and XP they earn while playing",
-		"translation": "Boost pack",
-		"machine": true
-	},
-	{
 		"phrase": "Protons and XP are earned each match based on your performance.",
 		"comment": "Boost pack description",
 		"translation": "Τα πρωτόνια και τα XP κερδίζονται κάθε αγώνα με βάση την απόδοσή σας.",
@@ -4718,12 +4538,6 @@
 		"phrase": "XP contributes towards your player level, which is purely for display.",
 		"comment": "Boost pack description",
 		"translation": "Το XP συμβάλλει στο επίπεδο του παίκτη σας, το οποίο είναι καθαρά για προβολή.",
-		"machine": true
-	},
-	{
-		"phrase": "Proton pack",
-		"comment": "Store pack title. Protons are the in-game currency",
-		"translation": "Συσκευασία πρωτονίων",
 		"machine": true
 	},
 	{
@@ -4770,7 +4584,7 @@
 	},
 	{
 		"phrase": "Human",
-		"comment": "An inhabitant of Earth",
+		"comment": "An inhabitant of a distant planet named Earth",
 		"translation": "Ο άνθρωπος",
 		"machine": true
 	},
@@ -5034,36 +4848,37 @@
 	},
 	{
 		"phrase": "{0} {1}",
-		"comment": "e.g. '1000 Protons'. Swap this to '{1} {0}' if this language swaps the order. First parameter: '1000', second parameter: 'Protons'.",
+		"comment": "This is for a quantity of something, .e.g '5 protons'. Parameter 0: any number, Parameter 1: any item",
 		"translation": "{0} {1}",
 		"machine": true
 	},
 	{
 		"phrase": "Not owned",
-		"comment": "This character is not owned",
+		"comment": "This weapon skin is not owned",
 		"translation": "Δεν ανήκει",
 		"machine": true
 	},
 	{
 		"phrase": "Owned",
-		"comment": "This character is owned",
+		"comment": "This weapon skin is owned",
 		"translation": "Ιδιοκτήτης",
 		"machine": true
 	},
 	{
 		"phrase": "Unlocked",
-		"comment": "This character is unlocked",
+		"comment": "This weapon skin is unlocked",
 		"translation": "Ακλείδωτος",
 		"machine": true
 	},
 	{
 		"phrase": "Engineer Pack required",
-		"comment": "Block skin requirement description",
+		"comment": "The player must own the Engineer Pack to equip this block skin",
 		"translation": "Απαιτείται πακέτο μηχανικού",
 		"machine": true
 	},
 	{
 		"phrase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		"comment": "The whole alphabet, this is used for Breakthrough zones, i.e. 'Zone A', 'Zone B'. Please ensure there are 26 letters here",
 		"translation": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
 		"machine": true
 	},
@@ -5075,7 +4890,7 @@
 	},
 	{
 		"phrase": "Unlock skin",
-		"comment": "Checkout window title when unlocking a character skin",
+		"comment": "Click this button to unlock a weapon skin",
 		"translation": "Ξεκλειδώστε το δέρμα",
 		"machine": true
 	},
@@ -5110,57 +4925,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Loading next map...",
-		"comment": "[Server connection banner] This text displays when the player has connected to a server and is waiting for the map to load",
-		"translation": "Φόρτωση επόμενου χάρτη...",
-		"machine": true
-	},
-	{
 		"phrase": "Click to return to the battle",
-		"comment": "[Server connection banner] This text displays when the player has connected to a server, but backed out to change their loadouts",
+		"comment": "If a player changes to the loadout screen mid-battle, this text shows on a button at the bottom of the screen, which lets them return to the battle",
 		"translation": "Κάντε κλικ για να επιστρέψετε στη μάχη",
-		"machine": true
-	},
-	{
-		"phrase": "Updating server list",
-		"comment": "[Server connection banner] This text displays when the server list is updating",
-		"translation": "Ενημέρωση λίστας διακομιστών",
-		"machine": true
-	},
-	{
-		"phrase": "Ready - click to join",
-		"comment": "[Server connection banner] This text displays when the client has connected to a match and is ready to join",
-		"translation": "Έτοιμο - κάντε κλικ για συμμετοχή",
-		"machine": true
-	},
-	{
-		"phrase": "Left click a server to join    -    Right click a server to claim",
-		"comment": "[Server connection banner] Server list instructions. Please maintain the 4 empty spaces and hyphen between each phrase",
-		"translation": "Αριστερό κλικ σε έναν διακομιστή για συμμετοχή - δεξί κλικ σε διακομιστή για αξίωση",
-		"machine": true
-	},
-	{
-		"phrase": "Kill {0} enemies",
-		"comment": "Achievement criteria text. Parameter 0: '50'",
-		"translation": "Σκοτώστε τους εχθρούς {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Kill {0} enemies with {1}",
-		"comment": "Achievement criteria text. Parameter 0: '50', parameter 1: 'the Light Plasma'",
-		"translation": "Σκοτώστε τους εχθρούς {0} με το {1}",
-		"machine": true
-	},
-	{
-		"phrase": "Headshot {0} enemies",
-		"comment": "Achievement criteria text. Parameter 0: '50'",
-		"translation": "Headshot εχθροί {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Headshot {0} enemies with {1}",
-		"comment": "Achievement criteria text. Parameter 0: '50', parameter 1: 'the Light Plasma'",
-		"translation": "Headshot εχθροί {0} με {1}",
 		"machine": true
 	},
 	{
@@ -5177,13 +4944,13 @@
 	},
 	{
 		"phrase": "Party: {0}",
-		"comment": "Party list header. Parameter 0: how many people are in your party. e.g. 'Party: 3'",
+		"comment": "Party list header indicating how many people are in your party. Parameter 0: '3'",
 		"translation": "Πάρτι: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Online: {0}",
-		"comment": "Friend list header. Parameter 0: how many of your friends are online. e.g. 'Online: 7'",
+		"comment": "Party list header indicating how many of your friends are online. Parameter 0: '7'",
 		"translation": "Online: {0}",
 		"machine": true
 	},
@@ -5219,32 +4986,26 @@
 	},
 	{
 		"phrase": "Alpha",
-		"comment": "Alpha component of a HSL colour",
+		"comment": "The alpha\/transparency component of a colour",
 		"translation": "Αλφα",
 		"machine": true
 	},
 	{
 		"phrase": "Included",
-		"comment": "Server filter checkbox, i.e. 'empty servers are included in the list'",
+		"comment": "Checkbox setting i.e. 'empty servers are included in the list'",
 		"translation": "Περιλαμβάνεται",
 		"machine": true
 	},
 	{
 		"phrase": "Excluded",
-		"comment": "Server filter checkbox, i.e. 'empty servers are excluded from the list'",
+		"comment": "Checkbox setting, i.e. 'empty servers are excluded from the list'",
 		"translation": "Εξαιρείται",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Power",
-		"comment": "Loadout power title, i.e. '15 Power'",
+		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12'",
 		"translation": "{0} Power",
-		"machine": true
-	},
-	{
-		"phrase": "Loading custom map",
-		"comment": "[Mapping info banner] This text displays when the player is loading a custom map from their local files",
-		"translation": "Φόρτωση προσαρμοσμένου χάρτη",
 		"machine": true
 	},
 	{
@@ -5254,21 +5015,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Mute all enemies",
-		"comment": "Mute all enemies in voice chat",
-		"translation": "Σίγασε όλους τους εχθρούς",
-		"machine": true
-	},
-	{
 		"phrase": "Unmute all players",
 		"comment": "Unmute all players in voice chat",
 		"translation": "Κατάργηση σίγασης όλων των παικτών",
-		"machine": true
-	},
-	{
-		"phrase": "Mute all players",
-		"comment": "Mute all players in voice chat",
-		"translation": "Σίγαση όλων των παικτών",
 		"machine": true
 	},
 	{
@@ -5279,19 +5028,19 @@
 	},
 	{
 		"phrase": "Unlock attachment",
-		"comment": "Checkout window title when unlocking a weapon attachment",
+		"comment": "Click this button to unlock a weapon attachment",
 		"translation": "Ξεκλειδώστε το συνημμένο",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock sight",
-		"comment": "Checkout window title when unlocking a weapon sight",
+		"comment": "Click this button to unlock a weapon sight",
 		"translation": "Ξεκλειδώστε την όραση",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock crosshair",
-		"comment": "Checkout window title when unlocking a crosshair",
+		"comment": "Click this button to unlock a crosshair",
 		"translation": "Ξεκλειδώστε το σταυρόνημα",
 		"machine": true
 	},
@@ -5459,14 +5208,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Pick your active Allegiance",
-		"comment": "This text shows above the list of Allegiances that the player can choose to join",
-		"translation": "Επιλέξτε την ενεργή πίστη σας",
-		"machine": true
-	},
-	{
 		"phrase": "Category",
-		"comment": "Weapon skin category, i.e. camo, metallic, animated",
+		"comment": "Weapon skin category, i.e. camoflague, metallic, animated",
 		"translation": "Κατηγορία",
 		"machine": true
 	},
@@ -5490,19 +5233,19 @@
 	},
 	{
 		"phrase": "Reload time",
-		"comment": "[Attachment Stat] How much time it takes to reload a weapon",
+		"comment": "The time required to reload a weapon",
 		"translation": "Χρόνος επαναφόρτωσης",
 		"machine": true
 	},
 	{
 		"phrase": "Magazine size",
-		"comment": "[Attachment Stat] How many bullets fit in a magazine",
+		"comment": "How many bullets a magazine contains",
 		"translation": "Μέγεθος περιοδικού",
 		"machine": true
 	},
 	{
 		"phrase": "Rate of fire",
-		"comment": "[Attachment Stat] How many times a weapon fires per minute",
+		"comment": "How many times a weapon fires per minute",
 		"translation": "Ταχυβολία",
 		"machine": true
 	},
@@ -5520,7 +5263,7 @@
 	},
 	{
 		"phrase": "Projectile spread",
-		"comment": "[Attachment Stat] How much the projectile deviates from where the player is aiming",
+		"comment": "How much the projectile deviates from where the player is aiming",
 		"translation": "Εξάπλωση βλήματος",
 		"machine": true
 	},
@@ -5532,31 +5275,31 @@
 	},
 	{
 		"phrase": "Body TTK",
-		"comment": "[Attachment Stat] How long it takes a weapon to kill to the body",
+		"comment": "The time required for a weapon to kill to the body. TTK stands for Time To Kill",
 		"translation": "Σώμα TTK",
 		"machine": true
 	},
 	{
 		"phrase": "Head TTK",
-		"comment": "[Attachment Stat] How long it takes a weapon to kill to the head",
+		"comment": "The time required for a weapon to kill to the head",
 		"translation": "Επικεφαλής TTK",
 		"machine": true
 	},
 	{
 		"phrase": "Body damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to an enemy's body",
+		"comment": "The amount of damage a weapon deals to an enemy's body",
 		"translation": "Βλάβη στο σώμα",
 		"machine": true
 	},
 	{
 		"phrase": "Head damage",
-		"comment": "[Attachment Stat] How much damage a weapon deals to an enemy's head",
+		"comment": "The amount of damage a weapon deals to an enemy's head",
 		"translation": "Ζημιά στο κεφάλι",
 		"machine": true
 	},
 	{
 		"phrase": "Splash damage",
-		"comment": "[Attachment Stat] How much area-of-effect damage a weapon deals to blocks",
+		"comment": "The amount of area-of-effect damage a weapon deals",
 		"translation": "Ζημιά από πιτσίλισμα",
 		"machine": true
 	},
@@ -5568,19 +5311,19 @@
 	},
 	{
 		"phrase": "Gather rate",
-		"comment": "[Attachment Stat] How many blocks the Midi collects while digging",
+		"comment": "How many blocks the Midi collects while digging",
 		"translation": "Ποσοστό συγκέντρωσης",
 		"machine": true
 	},
 	{
 		"phrase": "Dig distance",
-		"comment": "[Attachment Stat] How far away the Midi can dig",
+		"comment": "How far away the Midi can dig",
 		"translation": "Σκάψτε απόσταση",
 		"machine": true
 	},
 	{
 		"phrase": "Appearance",
-		"comment": "Weapon appearance",
+		"comment": "The appearance of a weapon \/ what a weapon looks like",
 		"translation": "Εμφάνιση",
 		"machine": true
 	},
@@ -5600,12 +5343,6 @@
 		"phrase": "Intergalactic currency",
 		"comment": "Whether the player wants to unlock something using protons or tokens, i.e. 'Intergalactic currency: Protons'",
 		"translation": "Διαγαλαξιακό νόμισμα",
-		"machine": true
-	},
-	{
-		"phrase": "Protons",
-		"comment": "Protons are the main currency of Sector's Edge",
-		"translation": "Πρωτόνια",
 		"machine": true
 	},
 	{
@@ -5748,12 +5485,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Link Twitch account",
-		"comment": "Link your Sector's Edge account with your Twitch account. Do not translate: Twitch",
-		"translation": "Σύνδεση λογαριασμού twitch",
-		"machine": true
-	},
-	{
 		"phrase": "Exit game",
 		"comment": "Close the game",
 		"translation": "Έξοδος από το παιχνίδι",
@@ -5821,51 +5552,27 @@
 		"machine": true
 	},
 	{
-		"phrase": "Join the battle {0}",
-		"comment": "This button shows when a player is joining a match, i.e. 'press space to join the battle'. Parameter 0: [Space]",
-		"translation": "Μπείτε στη μάχη {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Spectate {0}",
-		"comment": "This button shows when a player is joining a match, i.e. 'press space to spectate'. Parameter 0: [Space]",
-		"translation": "Spectate {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Killfeed",
 		"comment": "The killfeed shows a history of players that have been killed",
 		"translation": "Killfeed",
 		"machine": true
 	},
 	{
-		"phrase": "Loadout overpowered - loadout must be 15 or less points to spawn",
-		"comment": "Info text that shows when a player attempts to spawn with an overpowered loadout",
-		"translation": "Loadout overpowered - Η φόρτωση πρέπει να είναι 15 ή λιγότεροι πόντους για να γεννηθεί",
-		"machine": true
-	},
-	{
 		"phrase": "Friends",
-		"comment": "People you enjoy being around",
+		"comment": "All of my friends",
 		"translation": "Οι φιλοι",
 		"machine": true
 	},
 	{
 		"phrase": "Quick play - {0}",
-		"comment": "Quick play category text. Parameter 0: Oceania",
+		"comment": "Click here to quick play in Oceania. Parameter 0: Oceania",
 		"translation": "Γρήγορο παιχνίδι - {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Boosts",
-		"comment": "A boost is an item a player can use to increase their Proton and XP gain for the next hour",
+		"comment": "2 Boosts",
 		"translation": "Ενισχύει",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Πληκτρολογήστε εδώ για αναζήτηση...",
 		"machine": true
 	},
 	{
@@ -5881,32 +5588,20 @@
 		"machine": true
 	},
 	{
-		"phrase": "Stats Colour",
-		"comment": "The colour of player statistics",
-		"translation": "Στατιστικά χρώμα",
-		"machine": true
-	},
-	{
 		"phrase": "Background Colour",
 		"comment": "The colour of the background",
 		"translation": "Χρώμα φόντου",
 		"machine": true
 	},
 	{
-		"phrase": "Scale",
-		"comment": "Magnitude, i.e. how big something is",
-		"translation": "Κλίμακα",
-		"machine": true
-	},
-	{
 		"phrase": "Type here to search titles...",
-		"comment": "Placeholder text for a search field. Titles refers to awards that the player has earned, e.g. 'Decrare, the Revolver Master'",
+		"comment": "Placeholder text for searching through a list of titles the player has earned. An example of a title is 'Revolver Master' or 'Deathbringer'",
 		"translation": "Πληκτρολογήστε εδώ για να αναζητήσετε τίτλους...",
 		"machine": true
 	},
 	{
 		"phrase": "Title",
-		"comment": "The title or header of a UI window",
+		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
 		"translation": "Τίτλος",
 		"machine": true
 	},
@@ -5918,7 +5613,7 @@
 	},
 	{
 		"phrase": "Theme",
-		"comment": "The theme of the UI",
+		"comment": "The theme of the user interface",
 		"translation": "Θέμα",
 		"machine": true
 	},
@@ -5936,91 +5631,61 @@
 	},
 	{
 		"phrase": "Mods",
-		"comment": "Short name for modifications, i.e. Armour Modification",
+		"comment": "Short name for Armour Modifications",
 		"translation": "Mods",
 		"machine": true
 	},
 	{
 		"phrase": "Slide duration",
-		"comment": "[Loadout Stat] How long the player's slide lasts for",
+		"comment": "How long the player can slide for",
 		"translation": "Διάρκεια διαφάνειας",
 		"machine": true
 	},
 	{
 		"phrase": "Regen speed",
-		"comment": "[Loadout Stat] How fast the player regenerates health",
+		"comment": "How fast the player regenerates health",
 		"translation": "Ταχύτητα Regen",
 		"machine": true
 	},
 	{
-		"phrase": "hp\/s",
-		"comment": "[Unit Prefix] Health per second",
-		"translation": "hp\/s",
-		"machine": true
-	},
-	{
-		"phrase": " blocks",
-		"comment": "[Unit Prefix] Milliseconds",
-		"translation": " μπλοκ",
-		"machine": true
-	},
-	{
 		"phrase": "Blocks per pickup",
-		"comment": "[Attachment Stat] How many blocks the player gains from an ammo bonus",
+		"comment": "How many blocks the player collects from an enemy corpse",
 		"translation": "Μπλοκ ανά παραλαβή",
 		"machine": true
 	},
 	{
 		"phrase": "Magazines per pickup",
-		"comment": "[Loadout Stat] How many gun magazines the player gains from an ammo bonus",
+		"comment": "How many weapon magazines the player picks up from an enemy corpse",
 		"translation": "Περιοδικά ανά παραλαβή",
 		"machine": true
 	},
 	{
 		"phrase": "Equipment per pickup",
-		"comment": "[Loadout Stat] How many Scanners \/ C4 \/ Disruptors the player gains from an ammo bonus",
+		"comment": "How many Scanners \/ C4 \/ Disruptors the player picks up from an enemy corpse",
 		"translation": "Εξοπλισμός ανά παραλαβή",
 		"machine": true
 	},
 	{
 		"phrase": "Health per pickup",
-		"comment": "[Loadout Stat] How much health the player regenerates from an ammo bonus",
+		"comment": "How much health the player regenerates when picking up ammo from an enemy corpse",
 		"translation": "Υγεία ανά παραλαβή",
 		"machine": true
 	},
 	{
 		"phrase": "Footstep volume",
-		"comment": "[Loadout Stat] How loud the player's footsteps are",
+		"comment": "How loud the player's footsteps are",
 		"translation": "Βηματικός όγκος",
 		"machine": true
 	},
 	{
-		"phrase": "Midi volume",
-		"comment": "[Loadout Stat] How loud the player's building and digging is (The Midi is the building and digging tool)",
-		"translation": "Μίντι όγκος",
-		"machine": true
-	},
-	{
-		"phrase": "Expl. knockback",
-		"comment": "[Loadout Stat] How much players are knocked back by explosions",
-		"translation": "Expl. χτύπημα",
-		"machine": true
-	},
-	{
-		"phrase": "Self expl. damage",
-		"comment": "[Loadout Stat] How much damage a player's takes from their own explosions",
-		"translation": "Self expl. υλικές ζημιές",
-		"machine": true
-	},
-	{
 		"phrase": "Melee cooldown",
-		"comment": "[Loadout Stat] How long the player has to wait before meleeing again",
+		"comment": "How long the player has to wait before meleeing again",
 		"translation": "Χαλαρά σώμα με σώμα",
 		"machine": true
 	},
 	{
 		"phrase": "Type here to search maps...",
-		"comment": "Placeholder text for a search field",
+		"comment": "Placeholder text for searching through a list of maps",
 		"translation": "Πληκτρολογήστε εδώ για αναζήτηση χαρτών...",
 		"machine": true
 	},
@@ -6031,26 +5696,20 @@
 		"machine": true
 	},
 	{
-		"phrase": "JPG Missing",
-		"comment": "The JPG image is missing",
-		"translation": "Λείπει το JPG",
-		"machine": true
-	},
-	{
 		"phrase": "Map controls",
-		"comment": "[Heading] Settings that let players change the gamemode or control the time remaining in the match",
+		"comment": "Settings that let players change the gamemode or control the time remaining in the match",
 		"translation": "Στοιχεία ελέγχου χάρτη",
 		"machine": true
 	},
 	{
 		"phrase": "Game Mode",
-		"comment": "Capture the flag, breakthrough, salvage, free for all, etc",
+		"comment": "A game mode is a set of rules that controls how players kill Fora, e.g. Capture the flag, breakthrough, free for all",
 		"translation": "Λειτουργία παιχνιδιού",
 		"machine": true
 	},
 	{
 		"phrase": "Time remaining",
-		"comment": "Time remaining until the round finishes",
+		"comment": "How much time is left\/remaining until the round finishes",
 		"translation": "Χρόνος που απομένει",
 		"machine": true
 	},
@@ -6068,7 +5727,7 @@
 	},
 	{
 		"phrase": "Copy ID",
-		"comment": "Copy the ID of the map",
+		"comment": "Copy the numerical ID of the map",
 		"translation": "Αντιγραφή ταυτότητας",
 		"machine": true
 	},
@@ -6080,7 +5739,7 @@
 	},
 	{
 		"phrase": "Errors",
-		"comment": "The errors encountered when loading a map",
+		"comment": "A list of errors encountered when performing an action",
 		"translation": "Σφάλματα",
 		"machine": true
 	},
@@ -6094,12 +5753,6 @@
 		"phrase": "Upload log",
 		"comment": "A list of text messages that shows the progress of a map that's being uploaded to the workshop",
 		"translation": "Μεταφόρτωση αρχείου καταγραφής",
-		"machine": true
-	},
-	{
-		"phrase": "Missing",
-		"comment": "The file is missing",
-		"translation": "Λείπει",
 		"machine": true
 	},
 	{
@@ -6122,7 +5775,7 @@
 	},
 	{
 		"phrase": "This server is password protected",
-		"comment": "Password text field label",
+		"comment": "The player must type in the correct password to enter this server",
 		"translation": "Αυτός ο διακομιστής προστατεύεται με κωδικό πρόσβασης",
 		"machine": true
 	},
@@ -6134,7 +5787,7 @@
 	},
 	{
 		"phrase": "{0} Pick up {1}",
-		"comment": "Prompt for the player to pick up a deployable item. Parameter 0: [ E ], Parameter 1: 'Disruptor', e.g. [ E ] Pick up Disruptor",
+		"comment": "Prompt for the player to pick up a deployable item. Parameter 0: '[ E ]', Parameter 1: 'Disruptor', e.g. [ E ] Pick up Disruptor",
 		"translation": "{0} Πάρτε το {1}",
 		"machine": true
 	},
@@ -6146,13 +5799,13 @@
 	},
 	{
 		"phrase": "Level {0}",
-		"comment": "The player's level, i.e. 'Level 50'. Parameter 0: 50",
+		"comment": "The player's level, which increases the more they play the game. Parameter 0: 50",
 		"translation": "Επίπεδο {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Polls",
-		"comment": "Polls that players can fill out to provide feedback",
+		"comment": "A survey that players can fill out to provide feedback",
 		"translation": "Δημοσκοπήσεις",
 		"machine": true
 	},
@@ -6236,7 +5889,7 @@
 	},
 	{
 		"phrase": "Preset name",
-		"comment": "The name of a weapon preset",
+		"comment": "The name of a weapon preset. A weapon preset is a combination of weapon attachments that the player can save and re-use later",
 		"translation": "Προκαθορισμένο όνομα",
 		"machine": true
 	},
@@ -6254,7 +5907,7 @@
 	},
 	{
 		"phrase": "Your key has been successfully redeemed. You gained:",
-		"comment": "Success message when redeeming a key",
+		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
 		"translation": "Το κλειδί σας εξαργυρώθηκε με επιτυχία. κέρδισες:",
 		"machine": true
 	},
@@ -6267,12 +5920,6 @@
 	{
 		"phrase": "Refresh server list",
 		"translation": "Ανανέωση λίστας διακομιστών",
-		"machine": true
-	},
-	{
-		"phrase": "Player name:",
-		"comment": "A person who is playing Sector's Edge",
-		"translation": "Ονομα παίκτη:",
 		"machine": true
 	},
 	{
@@ -6289,7 +5936,7 @@
 	},
 	{
 		"phrase": "Leave the cluster spawn to modify your loadouts",
-		"comment": "Respawn instructions",
+		"comment": "Respawn instructions, the player can't edit their loadouts while part of a cluster spawn",
 		"translation": "Αφήστε το cluster spawn για να τροποποιήσετε τα loadout σας",
 		"machine": true
 	},
@@ -6307,7 +5954,7 @@
 	},
 	{
 		"phrase": "Other servers",
-		"comment": "At the bottom of the server browser is a list of 'Other servers' that didn't match the player's search criteria",
+		"comment": "A list of other servers that didn't match the player's search criteria",
 		"translation": "Άλλοι διακομιστές",
 		"machine": true
 	},
@@ -6511,7 +6158,7 @@
 	},
 	{
 		"phrase": "Game modes",
-		"comment": "Server preferences tab",
+		"comment": "A list of game modes that the player can choose from. A game mode is a set of rules that controls how players kill Fora, e.g. Capture the flag, breakthrough, free for all",
 		"translation": "Τρόποι παιχνιδιού",
 		"machine": true
 	},
@@ -6529,7 +6176,7 @@
 	},
 	{
 		"phrase": "Empty servers",
-		"comment": "[Server Filter] e.g. don't show empty servers",
+		"comment": "A server with no players",
 		"translation": "Κενοί διακομιστές",
 		"machine": true
 	},
@@ -8060,7 +7707,7 @@
 	},
 	{
 		"phrase": "General",
-		"comment": "[Settings Tab] Generic settings",
+		"comment": "Generic, no category",
 		"translation": "Γενικός",
 		"machine": true
 	},
@@ -8221,12 +7868,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to filter trials...",
-		"comment": "Placeholder text for filtering single-player trials",
-		"translation": "Πληκτρολογήστε εδώ για να φιλτράρετε τις δοκιμές...",
-		"machine": true
-	},
-	{
 		"phrase": "Digging",
 		"comment": "Category tab on the Trials screen",
 		"translation": "Σκάψιμο",
@@ -8356,7 +7997,7 @@
 	},
 	{
 		"phrase": "Cluster Fragment",
-		"comment": "Ammo type name - this refers to the three small cluster projectiles that are created when the initial large cluster round detonates",
+		"comment": "This refers to the three smaller cluster projectiles that are created when the initial large cluster round detonates",
 		"translation": "Θραύσμα συμπλέγματος",
 		"machine": true
 	},
@@ -8996,6 +8637,463 @@
 		"phrase": "Texture",
 		"comment": "1 Texture, i.e. a 2D bitmap or image",
 		"translation": "Υφή",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Violation",
+		"comment": "Parameter 0: 'EAC', which stands for Easy Anti Cheat. If this anticheat detects a violation, the error 'EAC Violation' will be shown",
+		"translation": "Παραβίαση {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid lobby settings",
+		"comment": "Error message when attempting to claim a lobby with invalid settings",
+		"translation": "Μη έγκυρες ρυθμίσεις λόμπι",
+		"machine": true
+	},
+	{
+		"phrase": "TOW",
+		"comment": "Abbreviation for a TOW Missile, which moves towards where the player is looking. Can be translated to 'guided' or 'directed'",
+		"translation": "ΡΥΜΟΥΛΚΗΣΗ",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up primary",
+		"comment": "Pick up your primary\/main weapon",
+		"translation": "Παραλαβή πρωτοβάθμιας",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up secondary",
+		"comment": "Pick up your secondary\/fallback weapon",
+		"translation": "Παραλαβή δευτερεύον",
+		"machine": true
+	},
+	{
+		"phrase": "Midi",
+		"context": "Builder",
+		"comment": "A building\/digging gadget, the name is short for Miner Digger",
+		"translation": "Midi",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search trials...",
+		"comment": "Placeholder text for searching through a list of single-player trials",
+		"translation": "Πληκτρολογήστε εδώ για να αναζητήσετε δοκιμές...",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search statistics...",
+		"comment": "Placeholder text for searching through a list of statistics",
+		"translation": "Πληκτρολογήστε εδώ για αναζήτηση στατιστικών στοιχείων...",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search achievements...",
+		"comment": "Placeholder text for searching through a list of achievements the player has completed",
+		"translation": "Πληκτρολογήστε εδώ για να αναζητήσετε επιτεύγματα...",
+		"machine": true
+	},
+	{
+		"phrase": "Sao Paulo",
+		"comment": "Server location",
+		"translation": "Σάο Πάολο",
+		"machine": true
+	},
+	{
+		"phrase": "Tel Aviv",
+		"comment": "Server location",
+		"translation": "Τελ Αβίβ",
+		"machine": true
+	},
+	{
+		"phrase": "Warsaw",
+		"comment": "Server location",
+		"translation": "Βαρσοβία",
+		"machine": true
+	},
+	{
+		"phrase": "Full servers",
+		"comment": "A server with no free slots",
+		"translation": "Πλήρεις διακομιστές",
+		"machine": true
+	},
+	{
+		"phrase": "Grapics preset",
+		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
+		"translation": "Προκαθορισμένα γραφικά",
+		"machine": true
+	},
+	{
+		"phrase": "Player name: {0}",
+		"comment": "A person who is playing Sector's Edge. Parameter 0: 'deWolf'",
+		"translation": "Όνομα παίκτη: {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} missing",
+		"comment": "This error shows when a file is missing. Parameter 0: 'JPG'",
+		"translation": "Λείπει το {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid map JSON",
+		"comment": "The JSON file contains invalid syntax or properties",
+		"translation": "Μη έγκυρος χάρτης JSON",
+		"machine": true
+	},
+	{
+		"phrase": "Map dimensions: {0}",
+		"comment": "The dimensions of the map. Parameter 0: [256, 128, 512]",
+		"translation": "Διαστάσεις χάρτη: {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Loading next map",
+		"comment": "The match finished and the game is loading the next map from disk",
+		"translation": "Φόρτωση επόμενου χάρτη",
+		"machine": true
+	},
+	{
+		"phrase": "Refreshing server list",
+		"comment": "The list of servers on the play screen is being refreshed",
+		"translation": "Ανανέωση λίστας διακομιστών",
+		"machine": true
+	},
+	{
+		"phrase": "{0} volume",
+		"comment": "How loud the player's building and digging is. Parameter 0: 'Midi'",
+		"translation": "όγκος {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Explosion knockback",
+		"comment": "How much players are knocked back by explosions",
+		"translation": "Έκρηξη ανάκρουση",
+		"machine": true
+	},
+	{
+		"phrase": "Self explosion damage",
+		"comment": "How much damage a player takes from their own explosions",
+		"translation": "Ζημιά από αυτοέκρηξη",
+		"machine": true
+	},
+	{
+		"phrase": "Slot {0}",
+		"comment": "An equipment slot, i.e. 'Slot 1'. Parameter 0: '1'",
+		"translation": "Υποδοχή {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics Colour",
+		"comment": "The colour of player statistics",
+		"translation": "Χρώμα στατιστικών στοιχείων",
+		"machine": true
+	},
+	{
+		"phrase": "Select your active Allegiance",
+		"comment": "This text shows above the list of Allegiances that the player can choose to join",
+		"translation": "Επιλέξτε την ενεργή πίστη σας",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout overpowered - loadout must be {0} or less points to spawn",
+		"comment": "Info text that shows when a player attempts to spawn with an overpowered loadout. Parameter 0: '15'",
+		"translation": "Η φόρτωση υπερισχύει - η φόρτωση πρέπει να είναι {0} ή λιγότεροι πόντους για αναπαραγωγή",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Join the battle",
+		"comment": "Press this button to join the battle. Parameter 0: [ Space ]",
+		"translation": "{0} Μπείτε στη μάχη",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Spectate",
+		"comment": "Press this button to spectate the battle. Parameter 0: [ Space ]",
+		"translation": "{0} Spectate",
+		"machine": true
+	},
+	{
+		"phrase": "Mod Levels",
+		"comment": "An armour mod can either be level 1 or level 2, where level 2 has better parks. This text is a heading for all the mod levels, i.e. 'Mod Levels: Scavenger 0, Scavenger 1'",
+		"translation": "Επίπεδα Mod",
+		"machine": true
+	},
+	{
+		"phrase": "Grip",
+		"comment": "",
+		"translation": "Λαβή",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough",
+		"comment": "",
+		"translation": "Ανακάλυψη",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift",
+		"comment": "",
+		"translation": "Βάρδια ελέγχου",
+		"machine": true
+	},
+	{
+		"phrase": "Capture the Flag",
+		"comment": "",
+		"translation": "Αιχμαλωτίστε τη σημαία",
+		"machine": true
+	},
+	{
+		"phrase": "Escort",
+		"comment": "",
+		"translation": "Συνοδεία",
+		"machine": true
+	},
+	{
+		"phrase": "Gun Game",
+		"comment": "",
+		"translation": "Παιχνίδι με όπλα",
+		"machine": true
+	},
+	{
+		"phrase": "Head Hunter",
+		"comment": "",
+		"translation": "Κυνηγός κεφαλιού",
+		"machine": true
+	},
+	{
+		"phrase": "Spire",
+		"comment": "",
+		"translation": "Κωδωνοστάσιο",
+		"machine": true
+	},
+	{
+		"phrase": "Static",
+		"comment": "",
+		"translation": "Στατικός",
+		"machine": true
+	},
+	{
+		"phrase": "Wave Defence",
+		"comment": "",
+		"translation": "Κυματική άμυνα",
+		"machine": true
+	},
+	{
+		"phrase": "Bot",
+		"comment": "1 Bot, i.e. a server-controlled robot pretending to be a player",
+		"translation": "Bot",
+		"machine": true
+	},
+	{
+		"phrase": "Bots",
+		"comment": "2 Bots",
+		"translation": "Bots",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment",
+		"comment": "1 Attachment, a part of a weapon that can be added or removed",
+		"translation": "Συνημμένο",
+		"machine": true
+	},
+	{
+		"phrase": "Friend",
+		"comment": "1 Friend, i.e. a person you enjoy being around",
+		"translation": "Φίλε",
+		"machine": true
+	},
+	{
+		"phrase": "Link {0} account",
+		"comment": "Link your Sector's Edge account with your Twitch account. Parameter 0: 'Twitch'",
+		"translation": "Σύνδεση λογαριασμού {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Aiming accuracy",
+		"comment": "Weapon accuracy while aiming down the sights",
+		"translation": "Ακρίβεια στόχευσης",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire accuracy",
+		"comment": "Weapon accuracy while firing from the hip",
+		"translation": "Ακρίβεια Hipfire",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb carrier",
+		"comment": "An enemy who is holding a bomb",
+		"translation": "Φορέας βόμβας",
+		"machine": true
+	},
+	{
+		"phrase": "Flag carrier",
+		"comment": "An enemy who is holding a flag",
+		"translation": "Σημαιοφόρος",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium salvaged",
+		"comment": "How much soltrium you salvaged from enemy corpses",
+		"translation": "Το Soltrium διασώθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Soltrium extracted",
+		"comment": "How much soltrium you extracted from Soltrium-infused meteors",
+		"translation": "Εκχύλιση σολτρίου",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Title unlocked",
+		"comment": "Message when unlocking a title. Parameter 0: 'Midi Certified'",
+		"translation": "Ο τίτλος {0} ξεκλειδώθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Pickup",
+		"comment": "1 Pickup, i.e. how many flags you've picked up, e.g. '1 pickup' or '3 pickups'",
+		"translation": "Μαζεύω",
+		"machine": true
+	},
+	{
+		"phrase": "Pickups",
+		"comment": "2 Pickups",
+		"translation": "Παραλαβές",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy disrupted",
+		"comment": "1 Enemy disrupted, i.e. how many enemies have triggered a Disruptor you placed",
+		"translation": "Ο εχθρός διαταράχθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies disrupted",
+		"comment": "2 Enemies disrupted",
+		"translation": "Οι εχθροί αναστατώθηκαν",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough zone captured",
+		"comment": "1 Breakthrough zone captured, i.e. how many zones you captured in the Breakthrough game mode",
+		"translation": "Καταγράφηκε η ζώνη διάσπασης",
+		"machine": true
+	},
+	{
+		"phrase": "Breakthrough zones captured",
+		"comment": "2 Breakthrough zones captured",
+		"translation": "Κατελήφθησαν ζώνες εκτίναξης",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift zone captured",
+		"comment": "1 Control Shift zone captured, i.e. how many zones you captured in the Control Shift game mode",
+		"translation": "Η ζώνη αλλαγής ελέγχου καταγράφηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Control Shift zones captured",
+		"comment": "2 Control Shift zones captured",
+		"translation": "Οι ζώνες αλλαγής ελέγχου καταγράφηκαν",
+		"machine": true
+	},
+	{
+		"phrase": "Flag captured",
+		"comment": "1 Flag captured, i.e. how many flags you captured in the Capture The Flag game mode",
+		"translation": "Η σημαία ελήφθη",
+		"machine": true
+	},
+	{
+		"phrase": "Flags captured",
+		"comment": "2 Flags captured",
+		"translation": "Σημαίες πιάστηκαν",
+		"machine": true
+	},
+	{
+		"phrase": "Flag returned",
+		"comment": "1 Flag returned, i.e. how many flags you returned in the Capture The Flag game mode",
+		"translation": "Η σημαία επέστρεψε",
+		"machine": true
+	},
+	{
+		"phrase": "Flags returned",
+		"comment": "2 Flags returned",
+		"translation": "Οι σημαίες επέστρεψαν",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb delivered",
+		"comment": "1 Bomb delivered, i.e. how many bombs you delivered in the Escort game mode",
+		"translation": "Η βόμβα παραδόθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Bombs deliveries",
+		"comment": "2 Bombs deliveries",
+		"translation": "Παραδόσεις βομβών",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb defused",
+		"comment": "1 Bomb defused, i.e. how many bombs you delivered in the Escort game mode",
+		"translation": "Η βόμβα εξουδετερώθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Bombs defused",
+		"comment": "2 Bombs defused",
+		"translation": "Οι βόμβες εξουδετερώθηκαν",
+		"machine": true
+	},
+	{
+		"phrase": "Canisters",
+		"comment": "2 Canisters",
+		"translation": "Κάνιστρα",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy spot",
+		"comment": "1 Enemy spot, i.e. '1 enemy spot'",
+		"translation": "Εχθρικό σημείο",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies spotted",
+		"comment": "2 Enemy spotted, i.e. '3 enemies spotted'",
+		"translation": "Εντοπίστηκαν εχθροί",
+		"machine": true
+	},
+	{
+		"phrase": "Teammate saved",
+		"comment": "1 Teammate saved, i.e. '1 teammate saved'",
+		"translation": "Ο συμπαίκτης σώθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Teammates saved",
+		"comment": "2 Teammate saved, i.e. '3 teammates saved'",
+		"translation": "Οι συμπαίκτες σώθηκαν",
+		"machine": true
+	},
+	{
+		"phrase": "Teammate avenged",
+		"comment": "1 Teammate avenged, i.e. '1 teammate avenged'",
+		"translation": "Ο συμπαίκτης εκδικήθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Teammates avenged",
+		"comment": "2 Teammate avenged, i.e. '3 teammates avenged'",
+		"translation": "Οι συμπαίκτες εκδικήθηκαν",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy",
+		"comment": "1 Enemy",
+		"translation": "Εχθρός",
 		"machine": true
 	}
 ]
