@@ -75,11 +75,6 @@
 		"translation": "Vengador"
 	},
 	{
-		"phrase": "Saviour",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Salvador"
-	},
-	{
 		"phrase": "Flag capture",
 		"comment": "To capture a flag you must infiltrate the enemy base, steal their flag and return it to your base. The Flag in this game is a canister containing valuable Soltrium",
 		"translation": "Captura de bandera"
@@ -136,7 +131,7 @@
 	},
 	{
 		"phrase": "Spot assist",
-		"comment": "If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
+		"comment": "1 Spot assist. If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
 		"translation": "Asistencia posicional"
 	},
 	{
@@ -176,7 +171,7 @@
 	},
 	{
 		"phrase": "Assist",
-		"comment": "If you shoot an enemy once and a friendly kills them, you earn assist points",
+		"comment": "1 Assist. If you shoot an enemy once and a friendly kills them, you earn assist points",
 		"translation": "Asistencia"
 	},
 	{
@@ -276,7 +271,7 @@
 	},
 	{
 		"phrase": "Left",
-		"comment": "[Move to the left",
+		"comment": "The left side of the screen",
 		"translation": "Izquierda"
 	},
 	{
@@ -306,7 +301,7 @@
 	},
 	{
 		"phrase": "Disconnected",
-		"comment": "Disconnected from the server",
+		"comment": "The connection between the client and server has been terminated",
 		"translation": "Desconectado"
 	},
 	{
@@ -456,7 +451,7 @@
 	},
 	{
 		"phrase": "Light",
-		"comment": "Weapon category name",
+		"comment": "1 Light, this refers to a visual light that lights up a room",
 		"translation": "Ligera"
 	},
 	{
@@ -526,7 +521,7 @@
 	},
 	{
 		"phrase": "Automatic",
-		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
+		"comment": "Perform this task automatically",
 		"translation": "Automático"
 	},
 	{
@@ -543,11 +538,6 @@
 		"phrase": "Pistol",
 		"comment": "Weapon category name",
 		"translation": "Pistolas"
-	},
-	{
-		"phrase": "Equipment",
-		"comment": "[Keybind]",
-		"translation": "Equipo"
 	},
 	{
 		"phrase": "Other",
@@ -736,7 +726,7 @@
 	},
 	{
 		"phrase": "Building",
-		"comment": "Category tab on the Trials screen",
+		"comment": "The act of creating something",
 		"translation": "Construyendo"
 	},
 	{
@@ -770,54 +760,9 @@
 		"translation": "Carroñero"
 	},
 	{
-		"phrase": "Respawn",
-		"comment": "[Gamemode Info] Respawn time, e.g. 10s respawn",
-		"translation": "Reaparecer"
-	},
-	{
 		"phrase": "Players",
 		"comment": "Column header on the server list",
 		"translation": "Jugadores"
-	},
-	{
-		"phrase": "No respawns",
-		"comment": "[Gamemode Info] Players dont respawn in this gamemode, e.g. Arena",
-		"translation": "Sin reapariciones"
-	},
-	{
-		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
-		"comment": "[Gamemode Info] Arena gamemode description",
-		"translation": "Se ha desarrollado un mercado en la sombra en las afueras de la galaxia donde se apuesta el Soltrium. Es todo o nada en la arena donde los concursantes luchan por una ganancia y supervivencia."
-	},
-	{
-		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
-		"comment": "[Gamemode Info] [Description] [Spire]",
-		"translation": "Empieza sin nada y recoge armas para eliminar al equipo enemigo."
-	},
-	{
-		"phrase": "All players start with the same randomised loadout.",
-		"comment": "[Gamemode Info] [Description] [Static]",
-		"translation": "Todos los jugadores comienzan con el mismo equipamiento aleatorio."
-	},
-	{
-		"phrase": "Control the zone to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
-		"translation": "Controla la zona para ganar"
-	},
-	{
-		"phrase": "Get two kills with every weapon, then melee to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
-		"translation": "Consigue dos muertes con cada arma, luego una cuerpo a cuerpo para ganar."
-	},
-	{
-		"phrase": "Hold the most Soltrium to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
-		"translation": "Manten el mayor número de Soltrium para ganar"
-	},
-	{
-		"phrase": "Weapons and Mods spawn around the map",
-		"comment": "[Gamemode Info] [Description] [Head Hunter]",
-		"translation": "Aparecen armas y modificaciones en el mapa."
 	},
 	{
 		"phrase": "Not bound",
@@ -828,11 +773,6 @@
 		"phrase": "Local",
 		"comment": "Maps that are stored locally",
 		"translation": "Local"
-	},
-	{
-		"phrase": "Subscribed",
-		"comment": "[Mapping Screen] Maps that you have subscribed to on the Workshop",
-		"translation": "Suscrito"
 	},
 	{
 		"phrase": "Cancel",
@@ -850,11 +790,6 @@
 		"translation": "Privado"
 	},
 	{
-		"phrase": "Friends only",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
-		"translation": "Solo amigos"
-	},
-	{
 		"phrase": "Unlisted",
 		"comment": "This item is unlisted, meaning only people with a link can see it",
 		"translation": "No incluido en la lista"
@@ -865,74 +800,9 @@
 		"translation": "Público"
 	},
 	{
-		"phrase": "Map list",
-		"comment": "[Map List] Title",
-		"translation": "Lista de mapas"
-	},
-	{
-		"phrase": "No local maps found",
-		"comment": "[Map List] Text that shows when there are no local maps on this user's PC",
-		"translation": "No se encontraron mapas locales"
-	},
-	{
-		"phrase": "No subscribed maps",
-		"comment": "[Map List] Text that shows when the user hasn't subsribed to any maps on the Steam Workshop",
-		"translation": "No hay mapas suscritos"
-	},
-	{
-		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
-		"comment": "[Map List] Description text above the map list",
-		"translation": "Los mapas a los que te hayas suscrito en Steam Workshop aparecerán aquí. Es posible que debas de actualizar varias veces después de suscribirse a un nuevo mapa para que la lista se actualice por completo."
-	},
-	{
-		"phrase": "Loading map",
-		"comment": "[Map List] This text shows when loading a map from the Steam Workshop",
-		"translation": "Cargando mapa"
-	},
-	{
-		"phrase": "Uploading map to the Steam Workshop",
-		"comment": "[Map List] This text shows when uploading a map to the Steam Workshop",
-		"translation": "Subiendo mapa a Steam Workshop"
-	},
-	{
-		"phrase": "Committing Changes",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Confirmación de cambios"
-	},
-	{
 		"phrase": "Invalid",
 		"comment": "The value is not valid",
 		"translation": "Inválido"
-	},
-	{
-		"phrase": "Preparing Config",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Preparando la configuración"
-	},
-	{
-		"phrase": "Preparing Content",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Preparando contenido"
-	},
-	{
-		"phrase": "Uploading Content",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Subiendo contenido"
-	},
-	{
-		"phrase": "Uploading Preview Image",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Subiendo imagen de vista previa"
-	},
-	{
-		"phrase": "Upload summary",
-		"comment": "[Upload Summary] This is the title at the top of the screen when uploading a map to the Steam Workshop",
-		"translation": "Subir resumen"
-	},
-	{
-		"phrase": "Map name",
-		"comment": "[Upload Summary] This is a text label that is shown above the map name",
-		"translation": "Nombre del mapa"
 	},
 	{
 		"phrase": "Description",
@@ -940,28 +810,13 @@
 		"translation": "Descripción"
 	},
 	{
-		"phrase": "Supported game modes",
-		"comment": "[Upload Summary] This is a text label that is shown above the list of game modes that this map supports",
-		"translation": "Modos de juego compatibles"
-	},
-	{
 		"phrase": "Visibility",
 		"comment": "The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
 		"translation": "Visibilidad"
 	},
 	{
-		"phrase": "Kills",
-		"comment": "How many kills a player has",
-		"translation": "Asesinatos"
-	},
-	{
-		"phrase": "Deaths",
-		"comment": "How many times a player died",
-		"translation": "Muertes"
-	},
-	{
 		"phrase": "Assists",
-		"comment": "How many assists a player has",
+		"comment": "2 Assists",
 		"translation": "Asistencias"
 	},
 	{
@@ -990,21 +845,6 @@
 		"translation": "¡Ronda victoriosa!"
 	},
 	{
-		"phrase": "Player ready",
-		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '1 player ready'",
-		"translation": "Jugador listo"
-	},
-	{
-		"phrase": "Players ready",
-		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '15 players ready'",
-		"translation": "Jugadores listos"
-	},
-	{
-		"phrase": "Starting in",
-		"comment": "[FFA] This text shows at the start of a FFA match. The full phrase is 'Starting in 12 seconds'",
-		"translation": "Empezando en"
-	},
-	{
 		"phrase": "Second",
 		"comment": "1 Second, i.e. measurement of time",
 		"translation": "Segundo"
@@ -1013,16 +853,6 @@
 		"phrase": "Seconds",
 		"comment": "2 Seconds",
 		"translation": "Segundos"
-	},
-	{
-		"phrase": "Available",
-		"comment": "This text shows at the top of the screen in-game when customising weapons. The full text is '12000 Protons Available'",
-		"translation": "Disponibles"
-	},
-	{
-		"phrase": "Leave killcam",
-		"comment": "[Input Prompt] This text shows in-game when viewing the killcam. The full phrase is '[SPACE] Leave killcam'",
-		"translation": "Dejar la killcam"
 	},
 	{
 		"phrase": "Continue",
@@ -1076,23 +906,18 @@
 	},
 	{
 		"phrase": "Equip as primary",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as primary'",
+		"comment": "Press a key to equip this weapon as your primary\/main weapon",
 		"translation": "Equipar como primaria"
 	},
 	{
 		"phrase": "Equip as secondary",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as secondary'",
+		"comment": "Press a key to equip this weapon as your secondary\/fallback weapon",
 		"translation": "Equipar como secundaria"
 	},
 	{
 		"phrase": "Edit loadouts",
 		"comment": "Click this button to edit your loadouts",
 		"translation": "Editar equipamientos"
-	},
-	{
-		"phrase": "Level",
-		"comment": "[Killcam] The level of the player",
-		"translation": "Nivel"
 	},
 	{
 		"phrase": "Tag",
@@ -1105,19 +930,9 @@
 		"translation": "Etiquetas"
 	},
 	{
-		"phrase": "Career",
-		"comment": "[Killcam] The total progression level for this player, e.g. '300 Career'",
-		"translation": "Carrera"
-	},
-	{
 		"phrase": "Loadout",
 		"comment": "A set of weapons and armour modifications",
 		"translation": "Equipamiento"
-	},
-	{
-		"phrase": "Killed by",
-		"comment": "[Killcam] [Label] This text shows below the weapon that killed us",
-		"translation": "Asesinado por"
 	},
 	{
 		"phrase": "Join the battle",
@@ -1130,24 +945,9 @@
 		"translation": "Vinculando tu cuenta de Twitch"
 	},
 	{
-		"phrase": "Checkout",
-		"comment": "[Store Checkout Popup] [Title]",
-		"translation": "Verificar"
-	},
-	{
 		"phrase": "Summary",
 		"comment": "A... summary. Can't think of a description for this",
 		"translation": "Resumen"
-	},
-	{
-		"phrase": "Creator Code (Optional)",
-		"comment": "[Store Checkout Popup] [Text Field] Enter a creator code here",
-		"translation": "Código de creador (opcional)"
-	},
-	{
-		"phrase": "Friend username",
-		"comment": "[Store Checkout Popup] [Text Field] Enter the username of the friend you are gifting this pack too",
-		"translation": "Nombre de usuario"
 	},
 	{
 		"phrase": "Magazine",
@@ -1196,7 +996,7 @@
 	},
 	{
 		"phrase": "Trials",
-		"comment": "Keybind category for the Trials (show trial menu, restart trial)",
+		"comment": "Time trials, i.e. a place where a player can test their skills",
 		"translation": "Pruebas"
 	},
 	{
@@ -1236,7 +1036,7 @@
 	},
 	{
 		"phrase": "Save",
-		"comment": "Save your changes",
+		"comment": "1 Save, i.e. when you save a friendly from being killed",
 		"translation": "Guardar"
 	},
 	{
@@ -1315,308 +1115,13 @@
 		"translation": "Contador de balines"
 	},
 	{
-		"phrase": "Initiate",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Initiate",
-		"translation": "Iniciante"
-	},
-	{
-		"phrase": "Proficient",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Proficient",
-		"translation": "Proeficiente"
-	},
-	{
-		"phrase": "Adept",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Adept",
-		"translation": "Adepto"
-	},
-	{
-		"phrase": "Elite",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Elite",
-		"translation": "Élite"
-	},
-	{
-		"phrase": "Expert",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Expert",
-		"translation": "Experto"
-	},
-	{
-		"phrase": "Master",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Master",
-		"translation": "Maestro"
-	},
-	{
-		"phrase": "Legend",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Legend",
-		"translation": "Leyenda"
-	},
-	{
-		"phrase": "Paragon",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Paragon",
-		"translation": "Genio"
-	},
-	{
-		"phrase": "Incarnate",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Incarnate",
-		"translation": "Encarnado"
-	},
-	{
-		"phrase": "Butcher",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Carnicero"
-	},
-	{
-		"phrase": "Swordsman",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Espadachín"
-	},
-	{
-		"phrase": "Berserker",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Frenético"
-	},
-	{
-		"phrase": "Assassin",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Asesino"
-	},
-	{
-		"phrase": "Executioner",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Verdugo"
-	},
-	{
-		"phrase": "Grenadier",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Granadero"
-	},
-	{
-		"phrase": "Detonator",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Detonador"
-	},
-	{
-		"phrase": "Volatile",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Volátil"
-	},
-	{
-		"phrase": "Catalyst",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Catalizador"
-	},
-	{
-		"phrase": "Captor",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Capturador"
-	},
-	{
-		"phrase": "Invader",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Invasor"
-	},
-	{
-		"phrase": "Thief",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Ladrón"
-	},
-	{
-		"phrase": "Reinforcer",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Reforzador"
-	},
-	{
-		"phrase": "Engineer",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Ingeniero"
-	},
-	{
-		"phrase": "Fabricator",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Fabricador"
-	},
-	{
-		"phrase": "Architect",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Arquitecto"
-	},
-	{
-		"phrase": "Sentry",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Defensor"
-	},
-	{
-		"phrase": "Protector",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Protector"
-	},
-	{
-		"phrase": "Sentinel",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Centinela"
-	},
-	{
-		"phrase": "Guardian",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Guardián"
-	},
-	{
-		"phrase": "Raider",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Asaltante"
-	},
-	{
-		"phrase": "Marauder",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Merodeador"
-	},
-	{
-		"phrase": "Vanquisher",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Vencedor"
-	},
-	{
-		"phrase": "Conquerer",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Conquistador"
-	},
-	{
-		"phrase": "Terminator",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Terminator"
-	},
-	{
-		"phrase": "Gunslinger",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Pistolero"
-	},
-	{
-		"phrase": "Deadeye",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Puntería"
-	},
-	{
-		"phrase": "Sharpshooter",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Tirador élite"
-	},
-	{
-		"phrase": "Deathbringer",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Portador de la muerte"
-	},
-	{
-		"phrase": "Blaster",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Explosivo"
-	},
-	{
-		"phrase": "Collider",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Colisionador"
-	},
-	{
-		"phrase": "Obliterator",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Destructor"
-	},
-	{
-		"phrase": "Disintegrator",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Desintegrador"
-	},
-	{
-		"phrase": "Alleviator",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Aliviador"
-	},
-	{
-		"phrase": "Mitigator",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Mitigador"
-	},
-	{
-		"phrase": "Diminisher",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Reductor"
-	},
-	{
-		"phrase": "Recon",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Recon"
-	},
-	{
-		"phrase": "Luminator",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Iluminador"
-	},
-	{
-		"phrase": "Coruscator",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Analizador"
-	},
-	{
-		"phrase": "Spotter",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Observador"
-	},
-	{
-		"phrase": "Watchman",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Mirón"
-	},
-	{
-		"phrase": "Eagle Eye",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Ojo de águila"
-	},
-	{
-		"phrase": "All Seeing",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Todo lo ve"
-	},
-	{
-		"phrase": "Body Guard",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Guardaespaldas"
-	},
-	{
-		"phrase": "Slayer",
-		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Matón"
-	},
-	{
-		"phrase": "Punisher",
-		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Castigador"
-	},
-	{
-		"phrase": "Midi Certified",
-		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials",
-		"translation": "Certificado por Midi"
-	},
-	{
-		"phrase": "Maze Runner",
-		"comment": "[Killcam Tag] [Trials] Reached all Silver times in the trials",
-		"translation": "Corredor del Laberinto"
-	},
-	{
-		"phrase": "Trial Master",
-		"comment": "[Killcam Tag] [Trials] Reached all Gold times in the trials",
-		"translation": "Maestro de las Pruebas"
-	},
-	{
-		"phrase": "Trial Hard",
-		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials. This one is a word play on 'Try Hard', feel free to translate this into something more serious or keep it as a meme",
-		"translation": "Duro de probar"
-	},
-	{
 		"phrase": "Podium",
 		"comment": "The top 5 players stand on a podium",
 		"translation": "Podio"
 	},
 	{
 		"phrase": "Audio",
-		"comment": "[Settings Tab] Mouse and keyboard input settings",
+		"comment": "Audio and sounds",
 		"translation": "Audio"
 	},
 	{
@@ -1631,7 +1136,7 @@
 	},
 	{
 		"phrase": "Chat",
-		"comment": "[Keybind]",
+		"comment": "Chat UI, where players send text messages to each other",
 		"translation": "Chat"
 	},
 	{
@@ -1686,7 +1191,7 @@
 	},
 	{
 		"phrase": "Navigation",
-		"comment": "Keybind category for navigation (change to the home tab, change to the ship tab)",
+		"comment": "Navigating between different screens, i.e. change to the home tab, change to the ship tab",
 		"translation": "Navegación"
 	},
 	{
@@ -1751,7 +1256,7 @@
 	},
 	{
 		"phrase": "Right",
-		"comment": "Move to the right",
+		"comment": "The right side of the screen",
 		"translation": "Derecha"
 	},
 	{
@@ -1831,12 +1336,12 @@
 	},
 	{
 		"phrase": "Primary",
-		"comment": "[Keybind]",
+		"comment": "The primary\/main category",
 		"translation": "Primario"
 	},
 	{
 		"phrase": "Secondary",
-		"comment": "[Keybind]",
+		"comment": "The secondary\/fallback category",
 		"translation": "Secundario"
 	},
 	{
@@ -2046,12 +1551,6 @@
 		"translation": "Presiona la barra espaciadora para rotar automáticamente"
 	},
 	{
-		"phrase": "N\/A",
-		"context": "Not Applicable",
-		"comment": "[Term] This is an abbreviation for Not Applicable",
-		"translation": "N\/A"
-	},
-	{
 		"phrase": "Region",
 		"comment": "Server preferences tab. This refers to geographical region",
 		"translation": "Región"
@@ -2063,7 +1562,7 @@
 	},
 	{
 		"phrase": "Points",
-		"comment": "[Scoreboard] How many points a player has earned in game",
+		"comment": "2 Points",
 		"translation": "Puntos"
 	},
 	{
@@ -2103,13 +1602,8 @@
 	},
 	{
 		"phrase": "Hidden",
-		"comment": "Checkbox setting , i.e. 'The minimap is hidden'",
+		"comment": "Something can't be seen , i.e. 'The minimap is hidden'",
 		"translation": "Oculto"
-	},
-	{
-		"phrase": "Purchases",
-		"comment": "[Transaction Log] Category title",
-		"translation": "Compras"
 	},
 	{
 		"phrase": "Singapore",
@@ -2117,27 +1611,10 @@
 		"translation": "Singapur"
 	},
 	{
-		"phrase": "Use Title Accent Colour",
-		"context": "Display Title Accent Colour",
-		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
-		"translation": "Usar el Color Acentuado del Título"
-	},
-	{
-		"phrase": "Use Title Background",
-		"context": "Display Title Background",
-		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
-		"translation": "Usar el Título de Fondo"
-	},
-	{
 		"phrase": "ms",
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
 		"translation": "ms"
-	},
-	{
-		"phrase": "Title unlocked",
-		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
-		"translation": "Título desbloqueado"
 	},
 	{
 		"phrase": "Bronze medal",
@@ -2160,16 +1637,6 @@
 		"translation": "Medalla de platino"
 	},
 	{
-		"phrase": "Accept",
-		"comment": "[UI] [Button] Accept an invitation",
-		"translation": "Aceptar"
-	},
-	{
-		"phrase": "Decline",
-		"comment": "[UI] [Button] Decline an invitation",
-		"translation": "Declinar"
-	},
-	{
 		"phrase": "Kick",
 		"comment": "Swap the player to the other team",
 		"translation": "Expulsar"
@@ -2190,61 +1657,13 @@
 		"translation": "Razón"
 	},
 	{
-		"phrase": "Spawn",
-		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
-		"translation": "Aparecer"
-	},
-	{
-		"phrase": "Pan with mouse",
-		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
-		"translation": "Desplazate con el mouse"
-	},
-	{
-		"phrase": "Scroll to zoom",
-		"context": "Scroll wheel to zoom",
-		"comment": "[Respawn] [Input Prompt] Use the scroll wheel to zoom into the map",
-		"translation": "Usa la rueda del ratón para hacer zoom"
-	},
-	{
-		"phrase": "Loadout overpowered",
-		"context": "Loadout is too powerful",
-		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
-		"translation": "Equipamiento sobreapoderado"
-	},
-	{
-		"phrase": "s",
-		"context": "Seconds",
-		"comment": "[Unit] [Abbreviation] Abbreviation for seconds, e.g. 'Respawn in 13s'",
-		"translation": "s"
-	},
-	{
-		"phrase": "Proton boost active",
-		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
-		"translation": "Impulso de Proton activo"
-	},
-	{
-		"phrase": "No Proton boost active",
-		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
-		"translation": "No hay Impulso de Proton activo"
-	},
-	{
-		"phrase": "XP boost active",
-		"comment": "[Respawn] This text shows when you have a XP boost active",
-		"translation": "Aumento de XP activo"
-	},
-	{
-		"phrase": "No XP boost active",
-		"comment": "[Respawn] This text shows when you do not have a XP boost active",
-		"translation": "No hay aumento de XP activo"
-	},
-	{
 		"phrase": "Add Friend",
 		"comment": "Add this player as a friend on Steam",
 		"translation": "Añadir amigo"
 	},
 	{
 		"phrase": "Spectators",
-		"comment": "Someone who is watching a battle",
+		"comment": "2 Spectators, i.e. people who are watching a battle",
 		"translation": "Espectadores"
 	},
 	{
@@ -2253,28 +1672,13 @@
 		"translation": "Te has salido del grupo"
 	},
 	{
-		"phrase": "Notification",
-		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
-		"translation": "Notificación"
-	},
-	{
-		"phrase": "Notifications",
-		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
-		"translation": "Notificaciones"
-	},
-	{
-		"phrase": "Party",
-		"comment": "[Social Sidebar] Party labe. The full phrase is 'Party: 2 \/ 4'",
-		"translation": "Grupo"
-	},
-	{
 		"phrase": "Online",
 		"comment": "[Social Sidebar] Placeholder friend status",
 		"translation": "En línea"
 	},
 	{
 		"phrase": "Token",
-		"comment": "1 Token, i.e. a token\/coin that can be used to unlock something",
+		"comment": "1 Token, i.e. a token\/coin that can be used to unlock a character or weapon skin",
 		"translation": "Ficha"
 	},
 	{
@@ -2296,16 +1700,6 @@
 		"phrase": "Trials list",
 		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
 		"translation": "Lista de pruebas"
-	},
-	{
-		"phrase": "Trial",
-		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
-		"translation": "Prueba"
-	},
-	{
-		"phrase": "Medals",
-		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
-		"translation": "Medallas"
 	},
 	{
 		"phrase": "Platinum",
@@ -2408,13 +1802,8 @@
 	},
 	{
 		"phrase": "Characters",
-		"comment": "Human and Agaman player-controlled characters",
+		"comment": "2 Characters",
 		"translation": "Personajes"
-	},
-	{
-		"phrase": "Character Skins",
-		"comment": "[Transaction Log] Category title",
-		"translation": "Aspectos de Personajes"
 	},
 	{
 		"phrase": "Weapon Skins",
@@ -2557,11 +1946,6 @@
 		"translation": "Multi-orbe"
 	},
 	{
-		"phrase": "Failed to invite",
-		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": "No se pudo invitar"
-	},
-	{
 		"phrase": "Failed to join the party",
 		"comment": "Notification that you failed to join the party",
 		"translation": "No se pudo unir al grupo"
@@ -2588,7 +1972,7 @@
 	},
 	{
 		"phrase": "Canister",
-		"comment": "The section of the Midi tool that stores matter",
+		"comment": "1 Canister, i.e. 'You detonated 3 Soltrium Canisters'",
 		"translation": "Recipiente"
 	},
 	{
@@ -2622,44 +2006,9 @@
 		"translation": "Gatillo"
 	},
 	{
-		"phrase": "Invite to Party",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Invitar a un grupo"
-	},
-	{
-		"phrase": "Remove from Party",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Eliminar del grupo"
-	},
-	{
-		"phrase": "Join Match",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Unirse a la partida"
-	},
-	{
-		"phrase": "Invite to Match",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Invitar a una partida"
-	},
-	{
 		"phrase": "View Profile",
 		"comment": "View this player's Steam profile",
 		"translation": "Ver perfil"
-	},
-	{
-		"phrase": "Message",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Mensaje"
-	},
-	{
-		"phrase": "Match invitation sent to",
-		"comment": "[Social Sidebar] The full phrase is: 'Match invitation sent to Peygahreaux'",
-		"translation": "Invitación de partida enviada a"
-	},
-	{
-		"phrase": "To the match",
-		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": "A la partida"
 	},
 	{
 		"phrase": "Joining",
@@ -2667,19 +2016,9 @@
 		"translation": "Uniéndose"
 	},
 	{
-		"phrase": "Slots left",
-		"comment": "[Party Invite] The full phrase is: '1\/4 Slots left'",
-		"translation": "Ranuras restantes"
-	},
-	{
 		"phrase": "Click to join",
 		"comment": "The next map has loaded and the player can now join the next match",
 		"translation": "Haz clic para unirse"
-	},
-	{
-		"phrase": "Weapon",
-		"comment": "A gun you can shoot at enemies",
-		"translation": "Arma"
 	},
 	{
 		"phrase": "Spawn position set",
@@ -2766,18 +2105,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Attachment Point",
-		"comment": "[Career Path] [Unit] i.e. '1 Attachment Point'",
-		"translation": "Punto de fijación",
-		"machine": true
-	},
-	{
-		"phrase": "Attachment Points",
-		"comment": "[Career Path] [Unit] [Plural] i.e. '2 Attachment Points'",
-		"translation": "Puntos de sujeción",
-		"machine": true
-	},
-	{
 		"phrase": "Boost",
 		"comment": "1 Boost, i.e. an item a player can use to increase their Proton and XP gain for the next hour",
 		"translation": "Aumentar",
@@ -2787,102 +2114,6 @@
 		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
 		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
 		"translation": "[Configuración> rendimiento> máscaras de bloques animados] deben estar habilitadas para que las máscaras de bloques animados se representen correctamente",
-		"machine": true
-	},
-	{
-		"phrase": "First team to win {0} rounds",
-		"comment": "[Gamemode Info] [Win requirement] [Arena] Parameter 0: '5'",
-		"translation": "Primer equipo en ganar rondas {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
-		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
-		"translation": "El soltrio se encuentra esparcido por todo el sector exterior. Se han enviado varios batallones {0} y {1} para buscar y recolectar el preciado recurso..",
-		"machine": true
-	},
-	{
-		"phrase": "The first team to {0} points wins",
-		"comment": "[Gamemode Info] [Win Requirement] [Salvage] Parameter 0: '500'",
-		"translation": "El primer equipo en {0} puntos gana",
-		"machine": true
-	},
-	{
-		"phrase": "Capture all zones to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Breakthrough]",
-		"translation": "Captura todas las zonas para ganar",
-		"machine": true
-	},
-	{
-		"phrase": "Deliver the flag {0} times to win",
-		"comment": "[Gamemode Info] [Win requirement] [Escort] Parameter 0: '3'",
-		"translation": "Entrega la bandera {0} veces para ganar",
-		"machine": true
-	},
-	{
-		"phrase": "Deliver the bomb {0} times to win",
-		"comment": "[Gamemode Info] [Win requirement] [CTF] Parameter 0: '3'",
-		"translation": "Entrega la bomba {0} veces para ganar",
-		"machine": true
-	},
-	{
-		"phrase": "Pick up {0} from enemy corpses",
-		"comment": "[Gamemode Info] [Description] [Head Hunter] Parameter 0: 'Soltrium'",
-		"translation": "Recoge {0} de los cadáveres enemigos.",
-		"machine": true
-	},
-	{
-		"phrase": "Before uploading maps to the {0}, you must agree to the",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
-		"translation": "Antes de cargar mapas en el {0}, debe aceptar las",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Terms of Service",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
-		"translation": "Condiciones de servicio de {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Area",
-		"comment": "[Custom Maps] This refers to an area that a canister can spawn in during Salvage, i.e. 'Area 3'",
-		"translation": "Zona",
-		"machine": true
-	},
-	{
-		"phrase": "Zone",
-		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Zone B'",
-		"translation": "Zona",
-		"machine": true
-	},
-	{
-		"phrase": "Breakthrough Zone",
-		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Breakthrough Zone D'",
-		"translation": "Zona de avance",
-		"machine": true
-	},
-	{
-		"phrase": "Flag",
-		"comment": "[Custom Maps] This refers to the flag you carry in Capture the Flag",
-		"translation": "Bandera",
-		"machine": true
-	},
-	{
-		"phrase": "Bomb",
-		"comment": "[Custom Maps] This refers to the bomb you carry in Escort",
-		"translation": "Bomba",
-		"machine": true
-	},
-	{
-		"phrase": "HH",
-		"comment": "[Custom Maps] [Abbreviation] The initials of 'Head Hunter'",
-		"translation": "S.S",
-		"machine": true
-	},
-	{
-		"phrase": "FFA Spawn",
-		"comment": "[Custom Maps] This refers to an area that you can respawn in during a FFA match",
-		"translation": "Engendro FFA",
 		"machine": true
 	},
 	{
@@ -2916,171 +2147,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Has stolen our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen our flag'",
-		"translation": "Ha robado nuestra bandera",
-		"machine": true
-	},
-	{
-		"phrase": "Has stolen the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen the enemy flag'",
-		"translation": "Ha robado la bandera enemiga",
-		"machine": true
-	},
-	{
-		"phrase": "Has picked up the enemy bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
-		"translation": "Ha recogido la bomba enemiga",
-		"machine": true
-	},
-	{
-		"phrase": "Has picked up our bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up our bomb'",
-		"translation": "Ha recogido nuestra bomba",
-		"machine": true
-	},
-	{
-		"phrase": "You have picked up the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Has recogido la bandera enemiga",
-		"machine": true
-	},
-	{
-		"phrase": "You have picked up our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Has recogido nuestra bomba",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy flag carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "El portaaviones de bandera enemigo ha sido asesinado.",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy bomb carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "El portador de bombas enemigo ha muerto.",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy has dropped our flag",
-		"comment": "[Announcement]'",
-		"translation": "El enemigo ha bajado nuestra bandera",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy has dropped their bomb",
-		"comment": "[Announcement]'",
-		"translation": "El enemigo ha lanzado su bomba",
-		"machine": true
-	},
-	{
-		"phrase": "Our flag carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Nuestro portaaviones ha sido asesinado",
-		"machine": true
-	},
-	{
-		"phrase": "Our bomb carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Nuestro portabombas ha sido asesinado",
-		"machine": true
-	},
-	{
-		"phrase": "You have dropped the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Has soltado la bandera enemiga",
-		"machine": true
-	},
-	{
-		"phrase": "You have dropped our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Has tirado nuestra bomba",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Ha dejado caer la bandera enemiga",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Ha dejado caer nuestra bomba",
-		"machine": true
-	},
-	{
-		"phrase": "Has captured our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured our flag'",
-		"translation": "Ha capturado nuestra bandera",
-		"machine": true
-	},
-	{
-		"phrase": "Has delivered their bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "Ha entregado su bomba",
-		"machine": true
-	},
-	{
-		"phrase": "Has captured the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured the enemy flag'",
-		"translation": "Ha capturado la bandera enemiga",
-		"machine": true
-	},
-	{
-		"phrase": "Has delivered our bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "Ha entregado nuestra bomba",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Modo eterno habilitado",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Modo eterno desactivado",
-		"machine": true
-	},
-	{
-		"phrase": "Sandbox mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Modo de zona de pruebas habilitado",
-		"machine": true
-	},
-	{
-		"phrase": "Sandbox mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Modo de zona de pruebas deshabilitado",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Modo de remolque habilitado",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Modo de remolque deshabilitado",
-		"machine": true
-	},
-	{
 		"phrase": "Admin",
 		"comment": "Administrator abbreviation",
 		"translation": "Administración",
-		"machine": true
-	},
-	{
-		"phrase": "Movement Speed",
-		"comment": "Spectator control",
-		"translation": "Velocidad de movimiento",
 		"machine": true
 	},
 	{
@@ -3206,13 +2275,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Toggle Killfeed",
-		"context": "Toggle Kill Feed",
-		"comment": "Spectator control",
-		"translation": "Alternar killfeed",
-		"machine": true
-	},
-	{
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
 		"translation": "Alternar ayuda",
@@ -3250,7 +2312,7 @@
 	},
 	{
 		"phrase": "Team",
-		"comment": "All the players on your team",
+		"comment": "1 Team, i.e. a group of players who fight against another group of players",
 		"translation": "Equipo",
 		"machine": true
 	},
@@ -3427,18 +2489,6 @@
 		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
 		"comment": "[Admin chat message] Parameter 0: '10'",
 		"translation": "No se puede cambiar de equipo mientras se restaura el mapa. reintentar en {0} segundos",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has been kicked ({1} - {2})",
-		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
-		"translation": "{0} ha sido pateado ({1} - {2})",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has not been kicked ({1} - {2})",
-		"comment": "[Admin chat message] Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
-		"translation": "{0} no ha sido pateado ({1} - {2})",
 		"machine": true
 	},
 	{
@@ -3931,6 +2981,7 @@
 	},
 	{
 		"phrase": "Meteors have been detected",
+		"comment": "Incoming meteors have been detected and will soon crash into the planet",
 		"translation": "Se han detectado meteoritos",
 		"machine": true
 	},
@@ -4104,7 +3155,7 @@
 	},
 	{
 		"phrase": "Unlock error: {0}",
-		"comment": "This error shows when failing to unlock a weapon skin. Parameter 1: 'Not enough Protons'",
+		"comment": "This error shows when failing to unlock a weapon skin. Parameter 0: 'Not enough Protons'",
 		"translation": "Error de desbloqueo: {0}",
 		"machine": true
 	},
@@ -4206,37 +3257,37 @@
 	},
 	{
 		"phrase": "{0} has joined the party",
-		"comment": "Notification that a new member has joined the party. Parameter 0: 'Bouphen'",
+		"comment": "Notification that a new member has joined the party\/group of players. Parameter 0: 'Bouphen'",
 		"translation": "{0} se ha unido a la fiesta",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has left the party",
-		"comment": "Notification that a member has left the party. Parameter 0: 'Zero'",
+		"comment": "Notification that a member has left the party\/group of players. Parameter 0: 'ZeroHour'",
 		"translation": "{0} se ha ido de la fiesta",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has disconnected and left the party",
-		"comment": "Notification that a member has disconnected and left the party. Parameter 0: 'Dirt Master'",
+		"comment": "Notification that a member has disconnected and left the party\/group of players. Parameter 0: 'Dirt Master'",
 		"translation": "{0} se ha desconectado y se ha ido de la fiesta.",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has been kicked from the party",
-		"comment": "Notification that a member has been kicked from the party. Parameter 0: 'Vhauss'",
+		"comment": "Notification that another member has been kicked from a party\/group of players. Parameter 0: 'Vhauss'",
 		"translation": "{0} ha sido expulsado de la fiesta",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has been banned from the party",
-		"comment": "Notification that a member has been banned from the party. Parameter 0: 'Definitely Vhauss'",
+		"comment": "Notification that another member has been banned from the party\/group of players. Parameter 0: 'Definitely Vhauss'",
 		"translation": "{0} ha sido expulsado de la fiesta.",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has invited you to their match",
-		"comment": "[Social Sidebar] This notification shows when a friend invites you to join their match. Parameter 0: 'Peygahreaux'",
+		"comment": "Notification that a friend invited you to join their match. Parameter 0: 'Peygahreaux'",
 		"translation": "{0} te ha invitado a su partido",
 		"machine": true
 	},
@@ -4266,7 +3317,7 @@
 	},
 	{
 		"phrase": "You have been kicked from the party",
-		"comment": "Notification that you have been kicked from a party",
+		"comment": "Notification that you have been kicked from a party\/group of players",
 		"translation": "Te han echado de la fiesta.",
 		"machine": true
 	},
@@ -4314,7 +3365,7 @@
 	},
 	{
 		"phrase": "{0} {1}",
-		"comment": "This is for a quantity of something, .e.g '5 protons'. Parameter 0: any number, Parameter 1: any item",
+		"comment": "This is for a quantity of something, e.g. '5 Protons' or '1 Character token'. Parameter 0: any number, Parameter 1: any item",
 		"translation": "{0} {1}",
 		"machine": true
 	},
@@ -4350,31 +3401,31 @@
 	},
 	{
 		"phrase": "Unlock character",
-		"comment": "Checkout window title when unlocking a character",
+		"comment": "Click this button to unlock a humanoid character",
 		"translation": "Desbloquear personaje",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock skin",
-		"comment": "Click this button to unlock a weapon skin",
+		"comment": "Click this button to unlock a skin for a weapon or character",
 		"translation": "Desbloquear piel",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock helmet",
-		"comment": "Checkout window title when unlocking a character helmet",
+		"comment": "Click this button to unlock a new helmet for your character",
 		"translation": "Desbloquear casco",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock melee",
-		"comment": "Checkout window title when unlocking a character melee",
+		"comment": "Click this button to unlock a knife or stabbing weapon",
 		"translation": "Desbloquear cuerpo a cuerpo",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock pose",
-		"comment": "Checkout window title when unlocking a character pose",
+		"comment": "Click this button to unlock a character pose",
 		"translation": "Desbloquear pose",
 		"machine": true
 	},
@@ -4500,13 +3551,13 @@
 	},
 	{
 		"phrase": "Unlock sight",
-		"comment": "Click this button to unlock a weapon sight",
+		"comment": "Click this button to unlock a sight\/scope for your weapon",
 		"translation": "Desbloquear vista",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock crosshair",
-		"comment": "Click this button to unlock a crosshair",
+		"comment": "Click this button to unlock a crosshair for your weapon sights",
 		"translation": "Desbloquear punto de mira",
 		"machine": true
 	},
@@ -4633,7 +3684,7 @@
 	},
 	{
 		"phrase": "Visible",
-		"comment": "Checkbox setting, i.e. 'The ammo HUD is visible'",
+		"comment": "Something can be seen, i.e. 'The ammo HUD is visible'",
 		"translation": "Visible",
 		"machine": true
 	},
@@ -4891,13 +3942,13 @@
 	},
 	{
 		"phrase": "Teams",
-		"comment": "Two teams that fight against each other",
+		"comment": "2 Teams",
 		"translation": "Equipos",
 		"machine": true
 	},
 	{
 		"phrase": "Commands",
-		"comment": "Commands that a player can run",
+		"comment": "2 Commands",
 		"translation": "Comandos",
 		"machine": true
 	},
@@ -4923,13 +3974,6 @@
 		"phrase": "Crosshair Style",
 		"comment": "[Setting] Crosshair style, either circle, square or cross",
 		"translation": "estilo de punto de mira",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Voxels",
-		"comment": "The Sector's Edge worlds are composed of blocks\/voxels",
-		"translation": "Bloquear",
 		"machine": true
 	},
 	{
@@ -5025,7 +4069,7 @@
 	},
 	{
 		"phrase": "Friends",
-		"comment": "All of my friends",
+		"comment": "2 Friends",
 		"translation": "Amigos",
 		"machine": true
 	},
@@ -5039,24 +4083,6 @@
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "aumenta",
-		"machine": true
-	},
-	{
-		"phrase": "Use Allegiance Colour",
-		"comment": "[Customisation] Use the colour of your selected allegiance",
-		"translation": "Usar color de lealtad",
-		"machine": true
-	},
-	{
-		"phrase": "White Labels",
-		"comment": "Controls whether the text labels on the screen is white or black\"",
-		"translation": "Etiquetas blancas",
-		"machine": true
-	},
-	{
-		"phrase": "Background Colour",
-		"comment": "The colour of the background",
-		"translation": "Color de fondo",
 		"machine": true
 	},
 	{
@@ -5959,12 +4985,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Voice",
-		"comment": "Voice settings, i.e. push to talk, mute enemies when dead",
-		"translation": "Voz",
-		"machine": true
-	},
-	{
 		"phrase": "Push to talk",
 		"comment": "[Setting] If enabled, the player only broadcasts their voice chat when pressing a specific key",
 		"translation": "Pulsa para hablar",
@@ -6206,7 +5226,7 @@
 	},
 	{
 		"phrase": "User interface",
-		"comment": "[Settings Tab] User interface settings",
+		"comment": "UI elements on the screen, buttons, checkboxes, sliders, headers, text, etc",
 		"translation": "Interfaz de usuario",
 		"machine": true
 	},
@@ -6458,7 +5478,7 @@
 	},
 	{
 		"phrase": "Background colour",
-		"comment": "",
+		"comment": "The colour of the background",
 		"translation": "Color de fondo",
 		"machine": true
 	},
@@ -6627,7 +5647,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"comment": "Heads-up-display, e.g. in-game UI like ammo, health, killfeed, minimap, chat",
+		"comment": "Heads-up-display, i.e. in-game UI like ammo, health, killfeed, minimap, chat",
 		"translation": "HUD",
 		"machine": true
 	},
@@ -7383,13 +6403,13 @@
 	},
 	{
 		"phrase": "Friendlies",
-		"comment": "An enemy of Helix is my friend",
+		"comment": "2 Friendlies",
 		"translation": "amistosos",
 		"machine": true
 	},
 	{
 		"phrase": "Enemies",
-		"comment": "An ally of Helix is my enemy",
+		"comment": "2 Enemies",
 		"translation": "Enemigos",
 		"machine": true
 	},
@@ -7535,7 +6555,7 @@
 	},
 	{
 		"phrase": "This map does not support the game mode {0}",
-		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Este mapa no es compatible con el modo de juego {0}",
 		"machine": true
 	},
@@ -7795,7 +6815,7 @@
 	},
 	{
 		"phrase": "Block",
-		"comment": "1 Block, i.e. 1 cube",
+		"comment": "1 Block, i.e. 1 cube. The Sector's Edge worlds are composed of blocks\/cubes\/voxels",
 		"translation": "Bloquear",
 		"machine": true
 	},
@@ -8251,12 +7271,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Statistics Colour",
-		"comment": "The colour of player statistics",
-		"translation": "Color de estadísticas",
-		"machine": true
-	},
-	{
 		"phrase": "Select your active Allegiance",
 		"comment": "This text shows above the list of Allegiances that the player can choose to join",
 		"translation": "Seleccione su lealtad activa",
@@ -8284,12 +7298,6 @@
 		"phrase": "Mod Levels",
 		"comment": "An armour mod can either be level 1 or level 2, where level 2 has better parks. This text is a heading for all the mod levels, i.e. 'Mod Levels: Scavenger 0, Scavenger 1'",
 		"translation": "Niveles de modificación",
-		"machine": true
-	},
-	{
-		"phrase": "Grip",
-		"comment": "",
-		"translation": "Agarre",
 		"machine": true
 	},
 	{
@@ -8558,8 +7566,382 @@
 	},
 	{
 		"phrase": "Enemy",
-		"comment": "1 Enemy",
+		"comment": "1 Enemy, i.e. a player who is on the other team",
 		"translation": "Enemigo",
+		"machine": true
+	},
+	{
+		"phrase": "Your team captured a zone",
+		"comment": "Your team captured a zone in the Breakthrough gamemode",
+		"translation": "Tu equipo capturó una zona",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy captured a zone",
+		"comment": "The enemy team captured a zone in the Breakthrough gamemode",
+		"translation": "El enemigo capturó una zona.",
+		"machine": true
+	},
+	{
+		"phrase": "Restoration started. Weapon use and respawning disabled",
+		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration starts (it takes a few seconds to finish)",
+		"translation": "Comenzó la restauración. uso de armas y reaparición deshabilitado",
+		"machine": true
+	},
+	{
+		"phrase": "Restoration finished. Respawning and weapon use allowed",
+		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration finishes and players can continue shooting each other",
+		"translation": "Restauración terminada. Se permite la reaparición y el uso de armas.",
+		"machine": true
+	},
+	{
+		"phrase": "Our team defused the enemy bomb",
+		"comment": "Your team defused the enemy bomb in the Escort gamemode",
+		"translation": "Nuestro equipo desactivó la bomba enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy defused our bomb",
+		"comment": "The enemy team defused our bomb in the Escort gamemode",
+		"translation": "El enemigo desactivó nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "Our team returned our flag",
+		"comment": "Our team returned our flag back to our base in the Capture the Flag gamemode",
+		"translation": "Nuestro equipo devolvió nuestra bandera",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy returned their flag",
+		"comment": "The enemy team returned their flag back to their base in the Capture the Flag gamemode",
+		"translation": "El enemigo devolvió su bandera",
+		"machine": true
+	},
+	{
+		"phrase": "You picked up our bomb",
+		"comment": "You picked up your team's bomb in the Escort gamemode",
+		"translation": "recogiste nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "You picked up the enemy flag",
+		"comment": "You stole the enemies flag from their base",
+		"translation": "recogiste la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy flag carrier has died",
+		"comment": "The enemy that was carrying our flag has been killed",
+		"translation": "El portaaviones enemigo ha muerto.",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy bomb carrier has died",
+		"comment": "The enemy that was carrying their bomb has been killed",
+		"translation": "El portabombas enemigo ha muerto.",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy dropped our flag",
+		"comment": "The enemy that was carrying our flag dropped the flag on the ground",
+		"translation": "El enemigo dejó caer nuestra bandera",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy dropped their bomb",
+		"comment": "The enemy that was carrying their bomb dropped the bomb on the ground",
+		"translation": "El enemigo lanzó su bomba.",
+		"machine": true
+	},
+	{
+		"phrase": "Our flag carrier has died",
+		"comment": "The teammate that was carrying the enemies flag has been killed",
+		"translation": "Nuestro portaaviones ha muerto",
+		"machine": true
+	},
+	{
+		"phrase": "Our bomb carrier has died",
+		"comment": "The teammate that was carrying our bomb has been killed",
+		"translation": "Nuestro portabombas ha muerto",
+		"machine": true
+	},
+	{
+		"phrase": "You dropped the enemy flag",
+		"comment": "You dropped the enemies flag on the ground",
+		"translation": "Dejaste caer la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "You dropped our bomb",
+		"comment": "You dropped our bomb on the ground",
+		"translation": "Tiraste nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "You can no longer modify your structures.",
+		"comment": "When players place inappropriate structures in game, a moderator can remove their ability to modify their structures. This text appears when they attempt to modify their structures",
+		"translation": "Ya no puedes modificar tus estructuras.",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Modo de caja de arena {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Modo remolque {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Modo eterno {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} stole our flag",
+		"comment": "An enemy has stolen our flag. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} robó nuestra bandera",
+		"machine": true
+	},
+	{
+		"phrase": "{0} picked up the enemy bomb",
+		"comment": "An enemy has picked up their bomb. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} recogió la bomba enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "{0} stole the enemy flag",
+		"comment": "A friendly stole the enemy flag. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} robó la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "{0} picked up our bomb",
+		"comment": "An friendly has picked up our bomb. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} recogió nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now spectating",
+		"comment": "A player left the battle and is now spectating. Parameter 0: 'Vhauss'",
+		"translation": "{0} ahora es espectador",
+		"machine": true
+	},
+	{
+		"phrase": "{0} left the planet",
+		"comment": "A player got in their spaceship and departed the planet. Parameter 0: 'Tilitaliboss'",
+		"translation": "{0} dejó el planeta",
+		"machine": true
+	},
+	{
+		"phrase": "{0} joined the chaos",
+		"comment": "A player has arrived in a chaotic battlefield. Parameter 0: 'Potato'",
+		"translation": "{0} se unió al caos",
+		"machine": true
+	},
+	{
+		"phrase": "{0} just landed",
+		"comment": "A player has just landed in their spaceship. Parameter 0: 'nemelex'",
+		"translation": "{0} acaba de aterrizar",
+		"machine": true
+	},
+	{
+		"phrase": "{0} arrived for battle",
+		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'DemmyBane'",
+		"translation": "{0} llegó para la batalla",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is ready to fight",
+		"comment": "A player arrived at the frontlines and is ready to fight. Parameter 0: 'Spotter654'",
+		"translation": "{0} está listo para pelear",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is ready for battle",
+		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'Billium'",
+		"translation": "{0} está listo para la batalla",
+		"machine": true
+	},
+	{
+		"phrase": "{0} will never give you up",
+		"comment": "Rick Astley has joined the battle and won't give you up. Parameter 0: 'Realkill_1111'",
+		"translation": "{0} nunca te abandonará",
+		"machine": true
+	},
+	{
+		"phrase": "{0} will never let you down",
+		"comment": "Rick Astley has joined the battle and won't let you down. Parameter 0: 'Blade'",
+		"translation": "{0} nunca te defraudará",
+		"machine": true
+	},
+	{
+		"phrase": "Arena X-Ray activated - all players are now visible!",
+		"comment": "If an Arena round lasts too long, X-Ray vision is activated and players can see each other through walls",
+		"translation": "Arena X-ray activado: ahora todos los jugadores son visibles!",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has dropped the enemy flag",
+		"comment": "A friendly has dropped the enemy flag on the ground. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} ha dejado caer la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has dropped our bomb",
+		"comment": "A friendly has dropped our bomb on the ground. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} ha soltado nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has captured our flag",
+		"comment": "An enemy has stolen our flag and captured it in their base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} ha capturado nuestra bandera",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has delivered their bomb",
+		"comment": "An enemy has placed their bomb in our base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} ha entregado su bomba",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has captured the enemy flag",
+		"comment": "A friendly has stolen the enemy flag and captured it in our base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} ha capturado la bandera enemiga",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has delivered our bomb",
+		"comment": "A friendly has placed our bomb in the enemy base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} ha entregado nuestra bomba",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is on a {1} kill streak",
+		"comment": "A player is on a killstreak. Parameter 0: 'zepofan', Parameter 1: '35'",
+		"translation": "{0} está en una racha de asesinatos de {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
+		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Enemies'",
+		"translation": "Ola {0} completada. próxima ola en {1} {2}...",
+		"machine": true
+	},
+	{
+		"phrase": "Wave {0} begins. {1} {2} approach.",
+		"comment": "The next wave\/group of enemies. The next wave is imminent. Parameter 0: '6', Parameter 1: '40', Parameter 2: 'Enemies'",
+		"translation": "Comienza la onda {0}. Aproximación {1} {2}.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has ended {1}'s killstreak at {2} {3}",
+		"comment": "A player with a killstreak has died. Parameter 0: 'deWolf', Parameter 1: 'zepofan', Parameter 2: '40', Parameter 3: 'Kills'",
+		"translation": "{0} ha terminado la racha de asesinatos de {1} en {2} {3}",
+		"machine": true
+	},
+	{
+		"phrase": "Mouse wheel down",
+		"comment": "Keybind that fires when scrolling the mouse wheel down",
+		"translation": "Rueda del ratón hacia abajo",
+		"machine": true
+	},
+	{
+		"phrase": "Automatic",
+		"context": "Automatic Fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
+		"translation": "Automático",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been votekicked ({1} - {2})",
+		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
+		"translation": "{0} ha sido votado ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been votekicked ({1} - {2})",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
+		"translation": "{0} no ha sido votado ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Store",
+		"comment": "Save your changes to disk",
+		"translation": "Ahorrar",
+		"machine": true
+	},
+	{
+		"phrase": "Starting in {0} {1}",
+		"comment": "This text shows at the start of a FFA match. Parameter 0: '10', Parameter 1: 'seconds'",
+		"translation": "A partir de {0} {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment point",
+		"comment": "1 Attachment point, which is used to unlock an attachment on a weapon",
+		"translation": "Punto de fijación",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment points",
+		"comment": "2 Attachment points, which are used to unlock attachments on a weapon",
+		"translation": "Puntos de fijación",
+		"machine": true
+	},
+	{
+		"phrase": "Spectator",
+		"comment": "1 Spectator, i.e. someone who is watching a battle",
+		"translation": "Espectador",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly",
+		"comment": "1 Friendly, i.e. a player who is on your team",
+		"translation": "Amigable",
+		"machine": true
+	},
+	{
+		"phrase": "Point",
+		"comment": "1 Point. Players earn points when dealing damage, killing enemies, capturing objectives, etc",
+		"translation": "Punto",
+		"machine": true
+	},
+	{
+		"phrase": "Voice",
+		"comment": "Voice chat, where players speak with their voices",
+		"translation": "Voz",
+		"machine": true
+	},
+	{
+		"phrase": "Command",
+		"comment": "1 Command, i.e. a chat command that a player can run to perform an action, e.g. kicking a player",
+		"translation": "Dominio",
+		"machine": true
+	},
+	{
+		"phrase": "Use allegiance colour",
+		"comment": "[Customisation] Use the colour of your selected allegiance",
+		"translation": "Usar color de lealtad",
+		"machine": true
+	},
+	{
+		"phrase": "White labels",
+		"comment": "Controls whether the text labels on the screen is white or black\"",
+		"translation": "Etiquetas blancas",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics colour",
+		"comment": "The colour of player statistics",
+		"translation": "Color de estadísticas",
 		"machine": true
 	}
 ]

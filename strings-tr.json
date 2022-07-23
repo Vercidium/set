@@ -146,7 +146,7 @@
 	},
 	{
 		"phrase": "Spot assist",
-		"comment": "If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
+		"comment": "1 Spot assist. If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
 		"translation": "İşaretleme asisti"
 	},
 	{
@@ -186,7 +186,7 @@
 	},
 	{
 		"phrase": "Assist",
-		"comment": "If you shoot an enemy once and a friendly kills them, you earn assist points",
+		"comment": "1 Assist. If you shoot an enemy once and a friendly kills them, you earn assist points",
 		"translation": "Asist"
 	},
 	{
@@ -291,7 +291,7 @@
 	},
 	{
 		"phrase": "Left",
-		"comment": "[Move to the left",
+		"comment": "The left side of the screen",
 		"translation": "Ayrıldı"
 	},
 	{
@@ -321,7 +321,7 @@
 	},
 	{
 		"phrase": "Disconnected",
-		"comment": "Disconnected from the server",
+		"comment": "The connection between the client and server has been terminated",
 		"translation": "Bağlantın koptu"
 	},
 	{
@@ -471,7 +471,7 @@
 	},
 	{
 		"phrase": "Light",
-		"comment": "Weapon category name",
+		"comment": "1 Light, this refers to a visual light that lights up a room",
 		"translation": "Hafif"
 	},
 	{
@@ -566,7 +566,7 @@
 	},
 	{
 		"phrase": "Automatic",
-		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
+		"comment": "Perform this task automatically",
 		"translation": "Otomatik"
 	},
 	{
@@ -588,11 +588,6 @@
 		"phrase": "Pistol",
 		"comment": "Weapon category name",
 		"translation": "Tabanca"
-	},
-	{
-		"phrase": "Equipment",
-		"comment": "[Keybind]",
-		"translation": "Ekipman"
 	},
 	{
 		"phrase": "Other",
@@ -781,7 +776,7 @@
 	},
 	{
 		"phrase": "Building",
-		"comment": "Category tab on the Trials screen",
+		"comment": "The act of creating something",
 		"translation": "İnşa Etme"
 	},
 	{
@@ -820,11 +815,6 @@
 		"translation": "İptal Et"
 	},
 	{
-		"phrase": "Checkout",
-		"comment": "[Store Checkout Popup] [Title]",
-		"translation": "Satın Al"
-	},
-	{
 		"phrase": "Continue",
 		"comment": "Continue with an action",
 		"translation": "Devam et"
@@ -848,11 +838,6 @@
 		"phrase": "Play",
 		"comment": "Click this button to play a match",
 		"translation": "Oyna"
-	},
-	{
-		"phrase": "Career",
-		"comment": "[Killcam] The total progression level for this player, e.g. '300 Career'",
-		"translation": "Kariyer"
 	},
 	{
 		"phrase": "Customise",
@@ -886,54 +871,9 @@
 		"translation": "Otomatik döndürmek için Space tuşuna basın"
 	},
 	{
-		"phrase": "Respawn",
-		"comment": "[Gamemode Info] Respawn time, e.g. 10s respawn",
-		"translation": "Yeniden doğma süresi"
-	},
-	{
 		"phrase": "Players",
 		"comment": "Column header on the server list",
 		"translation": "Oyuncu"
-	},
-	{
-		"phrase": "No respawns",
-		"comment": "[Gamemode Info] Players dont respawn in this gamemode, e.g. Arena",
-		"translation": "Yeniden doğma yok"
-	},
-	{
-		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
-		"comment": "[Gamemode Info] Arena gamemode description",
-		"translation": "Soltriumun bahis olarak oynandığı galaksinin ücra taraflarında bir kara market kuruldu. Yarışmacıların kâr ve hayatta kalmak için savaştığı arenada ya kazan ya da öl."
-	},
-	{
-		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
-		"comment": "[Gamemode Info] [Description] [Spire]",
-		"translation": "Silahsız başlarsınız ve düşman ekibini ortadan kaldırmak için silah toplamanız gerekir."
-	},
-	{
-		"phrase": "All players start with the same randomised loadout.",
-		"comment": "[Gamemode Info] [Description] [Static]",
-		"translation": "Tüm oyuncular aynı rastgele ekipmanla başlar."
-	},
-	{
-		"phrase": "Control the zone to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
-		"translation": "Kazanmak için bölgenin kontrolünü elinde tut ve düşmanın üssüne doğru götür"
-	},
-	{
-		"phrase": "Get two kills with every weapon, then melee to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
-		"translation": "Her silahla iki düşman öldürün ve son olarak kazanmak için bir düşmanı yakın dövüşte öldürün"
-	},
-	{
-		"phrase": "Hold the most Soltrium to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
-		"translation": "Kazanmak için en fazla Soltriuma sahip olun"
-	},
-	{
-		"phrase": "Weapons and Mods spawn around the map",
-		"comment": "[Gamemode Info] [Description] [Head Hunter]",
-		"translation": "Silahlar ve modifikasyonlar haritanın içinde rastgele olarak spawnlanır"
 	},
 	{
 		"phrase": "Not bound",
@@ -946,11 +886,6 @@
 		"translation": "Yerel"
 	},
 	{
-		"phrase": "Subscribed",
-		"comment": "[Mapping Screen] Maps that you have subscribed to on the Workshop",
-		"translation": "Abone olunan"
-	},
-	{
 		"phrase": "Upload",
 		"comment": "Upload the map",
 		"translation": "Yükle"
@@ -959,11 +894,6 @@
 		"phrase": "Private",
 		"comment": "This item is private, meaning only I can see it",
 		"translation": "Gizli"
-	},
-	{
-		"phrase": "Friends only",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
-		"translation": "Sadece arkadaşlar"
 	},
 	{
 		"phrase": "Unlisted",
@@ -976,74 +906,9 @@
 		"translation": "Genel"
 	},
 	{
-		"phrase": "Map list",
-		"comment": "[Map List] Title",
-		"translation": "Harita listesi"
-	},
-	{
-		"phrase": "No local maps found",
-		"comment": "[Map List] Text that shows when there are no local maps on this user's PC",
-		"translation": "Yerel harita bulunamadı"
-	},
-	{
-		"phrase": "No subscribed maps",
-		"comment": "[Map List] Text that shows when the user hasn't subsribed to any maps on the Steam Workshop",
-		"translation": "Abone olunan harita yok"
-	},
-	{
-		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
-		"comment": "[Map List] Description text above the map list",
-		"translation": "Atölyede abone olduğunuz haritalar burada görünecektir. Listenin tamamen güncellenmesi için yeni bir haritaya abone olduktan sonra birden çok kez yenilemeniz gerekebilir."
-	},
-	{
-		"phrase": "Loading map",
-		"comment": "[Map List] This text shows when loading a map from the Steam Workshop",
-		"translation": "Harita yükleniyor"
-	},
-	{
-		"phrase": "Uploading map to the Steam Workshop",
-		"comment": "[Map List] This text shows when uploading a map to the Steam Workshop",
-		"translation": "Steam atölyesine harita yükleniyor"
-	},
-	{
-		"phrase": "Committing Changes",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Değişiklikler kabul ediliyor"
-	},
-	{
 		"phrase": "Invalid",
 		"comment": "The value is not valid",
 		"translation": "Geçersiz"
-	},
-	{
-		"phrase": "Preparing Config",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Yapılandırma hazırlanıyor"
-	},
-	{
-		"phrase": "Preparing Content",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "İçerik hazırlanıyor"
-	},
-	{
-		"phrase": "Uploading Content",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "İçerik yükleniyor"
-	},
-	{
-		"phrase": "Uploading Preview Image",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Önizleme resmi yükleniyor"
-	},
-	{
-		"phrase": "Upload summary",
-		"comment": "[Upload Summary] This is the title at the top of the screen when uploading a map to the Steam Workshop",
-		"translation": "Özeti yükle"
-	},
-	{
-		"phrase": "Map name",
-		"comment": "[Upload Summary] This is a text label that is shown above the map name",
-		"translation": "Harita adı"
 	},
 	{
 		"phrase": "Description",
@@ -1051,24 +916,13 @@
 		"translation": "Açıklama"
 	},
 	{
-		"phrase": "Supported game modes",
-		"comment": "[Upload Summary] This is a text label that is shown above the list of game modes that this map supports",
-		"translation": "Desteklenen oyun modları"
-	},
-	{
 		"phrase": "Visibility",
 		"comment": "The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
 		"translation": "Görünürlük"
 	},
 	{
-		"phrase": "N\/A",
-		"context": "Not Applicable",
-		"comment": "[Term] This is an abbreviation for Not Applicable",
-		"translation": "N\/A"
-	},
-	{
 		"phrase": "Trials",
-		"comment": "Keybind category for the Trials (show trial menu, restart trial)",
+		"comment": "Time trials, i.e. a place where a player can test their skills",
 		"translation": "Parkur"
 	},
 	{
@@ -1093,12 +947,12 @@
 	},
 	{
 		"phrase": "Audio",
-		"comment": "[Settings Tab] Mouse and keyboard input settings",
+		"comment": "Audio and sounds",
 		"translation": "Ses"
 	},
 	{
 		"phrase": "Points",
-		"comment": "[Scoreboard] How many points a player has earned in game",
+		"comment": "2 Points",
 		"translation": "Puanlar"
 	},
 	{
@@ -1113,7 +967,7 @@
 	},
 	{
 		"phrase": "Chat",
-		"comment": "[Keybind]",
+		"comment": "Chat UI, where players send text messages to each other",
 		"translation": "Sohbet"
 	},
 	{
@@ -1178,7 +1032,7 @@
 	},
 	{
 		"phrase": "Navigation",
-		"comment": "Keybind category for navigation (change to the home tab, change to the ship tab)",
+		"comment": "Navigating between different screens, i.e. change to the home tab, change to the ship tab",
 		"translation": "Navigasyon"
 	},
 	{
@@ -1267,24 +1121,9 @@
 		"translation": "Bloklar"
 	},
 	{
-		"phrase": "Kills",
-		"comment": "How many kills a player has",
-		"translation": "Öldürme"
-	},
-	{
-		"phrase": "Deaths",
-		"comment": "How many times a player died",
-		"translation": "Ölüm"
-	},
-	{
 		"phrase": "Assists",
-		"comment": "How many assists a player has",
+		"comment": "2 Assists",
 		"translation": "Asist"
-	},
-	{
-		"phrase": "Level",
-		"comment": "[Killcam] The level of the player",
-		"translation": "Seviye"
 	},
 	{
 		"phrase": "Equipped",
@@ -1342,34 +1181,9 @@
 		"translation": "Raunt kazanıldı!"
 	},
 	{
-		"phrase": "Player ready",
-		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '1 player ready'",
-		"translation": "Oyuncu hazır"
-	},
-	{
-		"phrase": "Players ready",
-		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '15 players ready'",
-		"translation": "Oyuncu hazır"
-	},
-	{
-		"phrase": "Starting in",
-		"comment": "[FFA] This text shows at the start of a FFA match. The full phrase is 'Starting in 12 seconds'",
-		"translation": "Başlamaya"
-	},
-	{
 		"phrase": "Second",
 		"comment": "1 Second, i.e. measurement of time",
 		"translation": "Saniye"
-	},
-	{
-		"phrase": "Available",
-		"comment": "This text shows at the top of the screen in-game when customising weapons. The full text is '12000 Protons Available'",
-		"translation": "Var"
-	},
-	{
-		"phrase": "Leave killcam",
-		"comment": "[Input Prompt] This text shows in-game when viewing the killcam. The full phrase is '[SPACE] Leave killcam'",
-		"translation": "Killcam'den ayrıl"
 	},
 	{
 		"phrase": "Redeploy",
@@ -1403,7 +1217,7 @@
 	},
 	{
 		"phrase": "Save",
-		"comment": "Save your changes",
+		"comment": "1 Save, i.e. when you save a friendly from being killed",
 		"translation": "Kaydet"
 	},
 	{
@@ -1413,12 +1227,12 @@
 	},
 	{
 		"phrase": "Equip as primary",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as primary'",
+		"comment": "Press a key to equip this weapon as your primary\/main weapon",
 		"translation": "Birincil olarak al"
 	},
 	{
 		"phrase": "Equip as secondary",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as secondary'",
+		"comment": "Press a key to equip this weapon as your secondary\/fallback weapon",
 		"translation": "İkincil olarak al"
 	},
 	{
@@ -1442,11 +1256,6 @@
 		"translation": "Ekipman"
 	},
 	{
-		"phrase": "Killed by",
-		"comment": "[Killcam] [Label] This text shows below the weapon that killed us",
-		"translation": "oyuncusunu öldüren oyuncu"
-	},
-	{
 		"phrase": "Join the battle",
 		"comment": "[In-Game Escape Menu] This text shows instead of 'Redeploying' when the player is spectating",
 		"translation": "Savaşa katıl"
@@ -1460,16 +1269,6 @@
 		"phrase": "Summary",
 		"comment": "A... summary. Can't think of a description for this",
 		"translation": "Özet"
-	},
-	{
-		"phrase": "Creator Code (Optional)",
-		"comment": "[Store Checkout Popup] [Text Field] Enter a creator code here",
-		"translation": "İçerik Üreticisi Kodu (isteğe bağlı)"
-	},
-	{
-		"phrase": "Friend username",
-		"comment": "[Store Checkout Popup] [Text Field] Enter the username of the friend you are gifting this pack too",
-		"translation": "Arkadaşın kullanıcı adı"
 	},
 	{
 		"phrase": "Magazine",
@@ -1518,7 +1317,7 @@
 	},
 	{
 		"phrase": "Right",
-		"comment": "Move to the right",
+		"comment": "The right side of the screen",
 		"translation": "Sağa Git"
 	},
 	{
@@ -1598,12 +1397,12 @@
 	},
 	{
 		"phrase": "Primary",
-		"comment": "[Keybind]",
+		"comment": "The primary\/main category",
 		"translation": "Birincil"
 	},
 	{
 		"phrase": "Secondary",
-		"comment": "[Keybind]",
+		"comment": "The secondary\/fallback category",
 		"translation": "İkincil"
 	},
 	{
@@ -1748,308 +1547,8 @@
 	},
 	{
 		"phrase": "Hidden",
-		"comment": "Checkbox setting , i.e. 'The minimap is hidden'",
+		"comment": "Something can't be seen , i.e. 'The minimap is hidden'",
 		"translation": "Gizli"
-	},
-	{
-		"phrase": "Initiate",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Initiate",
-		"translation": "Çaylak"
-	},
-	{
-		"phrase": "Proficient",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Proficient",
-		"translation": "Yetkin"
-	},
-	{
-		"phrase": "Adept",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Adept",
-		"translation": "Becerikli"
-	},
-	{
-		"phrase": "Elite",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Elite",
-		"translation": "Seçkin"
-	},
-	{
-		"phrase": "Expert",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Expert",
-		"translation": "Uzman"
-	},
-	{
-		"phrase": "Master",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Master",
-		"translation": "Usta"
-	},
-	{
-		"phrase": "Legend",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Legend",
-		"translation": "Efsane"
-	},
-	{
-		"phrase": "Paragon",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Paragon",
-		"translation": "Mükemmel"
-	},
-	{
-		"phrase": "Incarnate",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Incarnate",
-		"translation": "Somutlaşmış"
-	},
-	{
-		"phrase": "Butcher",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Kasap"
-	},
-	{
-		"phrase": "Swordsman",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Kılıç Ustası"
-	},
-	{
-		"phrase": "Berserker",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Çılgın"
-	},
-	{
-		"phrase": "Assassin",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Suikastçı"
-	},
-	{
-		"phrase": "Executioner",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Cellat"
-	},
-	{
-		"phrase": "Grenadier",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Bombacı"
-	},
-	{
-		"phrase": "Detonator",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Patlatıcı"
-	},
-	{
-		"phrase": "Volatile",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Uçucu"
-	},
-	{
-		"phrase": "Catalyst",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Katalizör"
-	},
-	{
-		"phrase": "Captor",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Esirci"
-	},
-	{
-		"phrase": "Invader",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "İşgalci"
-	},
-	{
-		"phrase": "Thief",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Hırsız"
-	},
-	{
-		"phrase": "Reinforcer",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Güçlendirici"
-	},
-	{
-		"phrase": "Engineer",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Mühendis"
-	},
-	{
-		"phrase": "Fabricator",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Fabrikatör"
-	},
-	{
-		"phrase": "Architect",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Mimar"
-	},
-	{
-		"phrase": "Sentry",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Nöbetçi"
-	},
-	{
-		"phrase": "Protector",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Koruyucu"
-	},
-	{
-		"phrase": "Sentinel",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Nöbetçi"
-	},
-	{
-		"phrase": "Guardian",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Muhafız"
-	},
-	{
-		"phrase": "Raider",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Baskıncı"
-	},
-	{
-		"phrase": "Marauder",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Çapulcu"
-	},
-	{
-		"phrase": "Vanquisher",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Galip"
-	},
-	{
-		"phrase": "Conquerer",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Fatih"
-	},
-	{
-		"phrase": "Terminator",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Terminatör"
-	},
-	{
-		"phrase": "Gunslinger",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Silahşör"
-	},
-	{
-		"phrase": "Deadeye",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Ölügöz"
-	},
-	{
-		"phrase": "Sharpshooter",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Keskin Nişancı"
-	},
-	{
-		"phrase": "Deathbringer",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Ölüm Getiren"
-	},
-	{
-		"phrase": "Blaster",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Patlatıcı"
-	},
-	{
-		"phrase": "Collider",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Çarpıştırıcı"
-	},
-	{
-		"phrase": "Obliterator",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Yok Edici"
-	},
-	{
-		"phrase": "Disintegrator",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Parçalayan"
-	},
-	{
-		"phrase": "Alleviator",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Hafifletici"
-	},
-	{
-		"phrase": "Mitigator",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Azaltıcı"
-	},
-	{
-		"phrase": "Diminisher",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Küçültücü"
-	},
-	{
-		"phrase": "Recon",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Kaşif"
-	},
-	{
-		"phrase": "Luminator",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Aydınlatıcı"
-	},
-	{
-		"phrase": "Coruscator",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Koruskatör"
-	},
-	{
-		"phrase": "Spotter",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Gözcü"
-	},
-	{
-		"phrase": "Watchman",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Bekçi"
-	},
-	{
-		"phrase": "Eagle Eye",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Kartal Görüşü"
-	},
-	{
-		"phrase": "All Seeing",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Her Şeyi Gören"
-	},
-	{
-		"phrase": "Body Guard",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Vücut Koruması"
-	},
-	{
-		"phrase": "Saviour",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Kurtarıcı"
-	},
-	{
-		"phrase": "Slayer",
-		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Avcı"
-	},
-	{
-		"phrase": "Punisher",
-		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Cezalandırıcı"
-	},
-	{
-		"phrase": "Midi Certified",
-		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials",
-		"translation": "Midi Sertifikalı"
-	},
-	{
-		"phrase": "Maze Runner",
-		"comment": "[Killcam Tag] [Trials] Reached all Silver times in the trials",
-		"translation": "Labirent Koşucusu"
-	},
-	{
-		"phrase": "Trial Master",
-		"comment": "[Killcam Tag] [Trials] Reached all Gold times in the trials",
-		"translation": "Deneme Ustası"
-	},
-	{
-		"phrase": "Trial Hard",
-		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials. This one is a word play on 'Try Hard', feel free to translate this into something more serious or keep it as a meme",
-		"translation": "Zorlu Deneme"
 	},
 	{
 		"phrase": "Password",
@@ -2107,37 +1606,15 @@
 		"translation": "Kilidini Aç"
 	},
 	{
-		"phrase": "Purchases",
-		"comment": "[Transaction Log] Category title",
-		"translation": "Satın Almalar"
-	},
-	{
 		"phrase": "Singapore",
 		"comment": "Server location",
 		"translation": "Singapur"
-	},
-	{
-		"phrase": "Use Title Accent Colour",
-		"context": "Display Title Accent Colour",
-		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
-		"translation": "Başlık vurgu rengini kullan"
-	},
-	{
-		"phrase": "Use Title Background",
-		"context": "Display Title Background",
-		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
-		"translation": "Başlık arka planını kullan"
 	},
 	{
 		"phrase": "ms",
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
 		"translation": "ms"
-	},
-	{
-		"phrase": "Title unlocked",
-		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
-		"translation": "Unvan açıldı"
 	},
 	{
 		"phrase": "Bronze medal",
@@ -2160,16 +1637,6 @@
 		"translation": "Platin madalya"
 	},
 	{
-		"phrase": "Accept",
-		"comment": "[UI] [Button] Accept an invitation",
-		"translation": "Kabul et"
-	},
-	{
-		"phrase": "Decline",
-		"comment": "[UI] [Button] Decline an invitation",
-		"translation": "Reddet"
-	},
-	{
 		"phrase": "Kick",
 		"comment": "Swap the player to the other team",
 		"translation": "At"
@@ -2190,61 +1657,13 @@
 		"translation": "Sebep"
 	},
 	{
-		"phrase": "Spawn",
-		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
-		"translation": "Spawnı"
-	},
-	{
-		"phrase": "Pan with mouse",
-		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
-		"translation": "Fare ile gezin"
-	},
-	{
-		"phrase": "Scroll to zoom",
-		"context": "Scroll wheel to zoom",
-		"comment": "[Respawn] [Input Prompt] Use the scroll wheel to zoom into the map",
-		"translation": "Yakınlaştırmak için kaydırın"
-	},
-	{
-		"phrase": "Loadout overpowered",
-		"context": "Loadout is too powerful",
-		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
-		"translation": "Ekipman fazla güçlü"
-	},
-	{
-		"phrase": "s",
-		"context": "Seconds",
-		"comment": "[Unit] [Abbreviation] Abbreviation for seconds, e.g. 'Respawn in 13s'",
-		"translation": "s"
-	},
-	{
-		"phrase": "Proton boost active",
-		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
-		"translation": "Proton takviyesi aktif"
-	},
-	{
-		"phrase": "No Proton boost active",
-		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
-		"translation": "Proton takviyesi aktif değil"
-	},
-	{
-		"phrase": "XP boost active",
-		"comment": "[Respawn] This text shows when you have a XP boost active",
-		"translation": "XP takviyesi aktif"
-	},
-	{
-		"phrase": "No XP boost active",
-		"comment": "[Respawn] This text shows when you do not have a XP boost active",
-		"translation": "XP takviyesi etkin değil"
-	},
-	{
 		"phrase": "Add Friend",
 		"comment": "Add this player as a friend on Steam",
 		"translation": "Arkadaş Olarak Ekle"
 	},
 	{
 		"phrase": "Spectators",
-		"comment": "Someone who is watching a battle",
+		"comment": "2 Spectators, i.e. people who are watching a battle",
 		"translation": "seyirci"
 	},
 	{
@@ -2253,28 +1672,13 @@
 		"translation": "Partiden ayrıldın"
 	},
 	{
-		"phrase": "Notification",
-		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
-		"translation": "Bildirim"
-	},
-	{
-		"phrase": "Notifications",
-		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
-		"translation": "Bildirimler"
-	},
-	{
-		"phrase": "Party",
-		"comment": "[Social Sidebar] Party labe. The full phrase is 'Party: 2 \/ 4'",
-		"translation": "Parti"
-	},
-	{
 		"phrase": "Online",
 		"comment": "[Social Sidebar] Placeholder friend status",
 		"translation": "Çevrimiçi"
 	},
 	{
 		"phrase": "Token",
-		"comment": "1 Token, i.e. a token\/coin that can be used to unlock something",
+		"comment": "1 Token, i.e. a token\/coin that can be used to unlock a character or weapon skin",
 		"translation": "Jeton"
 	},
 	{
@@ -2296,16 +1700,6 @@
 		"phrase": "Trials list",
 		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
 		"translation": "Deneme listesi"
-	},
-	{
-		"phrase": "Trial",
-		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
-		"translation": "Denemesi"
-	},
-	{
-		"phrase": "Medals",
-		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
-		"translation": "Madalyalar"
 	},
 	{
 		"phrase": "Platinum",
@@ -2408,13 +1802,8 @@
 	},
 	{
 		"phrase": "Characters",
-		"comment": "Human and Agaman player-controlled characters",
+		"comment": "2 Characters",
 		"translation": "Karakterler"
-	},
-	{
-		"phrase": "Character Skins",
-		"comment": "[Transaction Log] Category title",
-		"translation": "Karakter Görünümleri"
 	},
 	{
 		"phrase": "Weapon Skins",
@@ -2557,11 +1946,6 @@
 		"translation": "ÇokluKüre"
 	},
 	{
-		"phrase": "Failed to invite",
-		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": ""
-	},
-	{
 		"phrase": "Failed to join the party",
 		"comment": "Notification that you failed to join the party",
 		"translation": "partine katılamadı"
@@ -2588,7 +1972,7 @@
 	},
 	{
 		"phrase": "Canister",
-		"comment": "The section of the Midi tool that stores matter",
+		"comment": "1 Canister, i.e. 'You detonated 3 Soltrium Canisters'",
 		"translation": "Kutu"
 	},
 	{
@@ -2622,44 +2006,9 @@
 		"translation": "Tetik"
 	},
 	{
-		"phrase": "Invite to Party",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Partiye davet et"
-	},
-	{
-		"phrase": "Remove from Party",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Partiden çıkar"
-	},
-	{
-		"phrase": "Join Match",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Maça katıl"
-	},
-	{
-		"phrase": "Invite to Match",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Maça davet et"
-	},
-	{
 		"phrase": "View Profile",
 		"comment": "View this player's Steam profile",
 		"translation": "Profili Görüntüle"
-	},
-	{
-		"phrase": "Message",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Mesaj"
-	},
-	{
-		"phrase": "Match invitation sent to",
-		"comment": "[Social Sidebar] The full phrase is: 'Match invitation sent to Peygahreaux'",
-		"translation": "Maç davetiyesi gönderilen kişi:"
-	},
-	{
-		"phrase": "To the match",
-		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": "maça davet edilemedi"
 	},
 	{
 		"phrase": "Joining",
@@ -2667,54 +2016,9 @@
 		"translation": "Katılınıyor"
 	},
 	{
-		"phrase": "Slots left",
-		"comment": "[Party Invite] The full phrase is: '1\/4 Slots left'",
-		"translation": "Kalan yuva sayısı:"
-	},
-	{
 		"phrase": "Click to join",
 		"comment": "The next map has loaded and the player can now join the next match",
 		"translation": "Katılmak için tıklayın"
-	},
-	{
-		"phrase": "Weapon",
-		"comment": "A gun you can shoot at enemies",
-		"translation": "Silah"
-	},
-	{
-		"phrase": "Area",
-		"comment": "[Custom Maps] This refers to an area that a canister can spawn in during Salvage, i.e. 'Area 3'",
-		"translation": "Alan"
-	},
-	{
-		"phrase": "Zone",
-		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Zone B'",
-		"translation": "Alan"
-	},
-	{
-		"phrase": "Breakthrough Zone",
-		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Breakthrough Zone D'",
-		"translation": "Atılım Bölgesi"
-	},
-	{
-		"phrase": "Flag",
-		"comment": "[Custom Maps] This refers to the flag you carry in Capture the Flag",
-		"translation": "Bayrak"
-	},
-	{
-		"phrase": "Bomb",
-		"comment": "[Custom Maps] This refers to the bomb you carry in Escort",
-		"translation": "Bomba"
-	},
-	{
-		"phrase": "HH",
-		"comment": "[Custom Maps] [Abbreviation] The initials of 'Head Hunter'",
-		"translation": "KA"
-	},
-	{
-		"phrase": "FFA Spawn",
-		"comment": "[Custom Maps] This refers to an area that you can respawn in during a FFA match",
-		"translation": "FFA Spawnı"
 	},
 	{
 		"phrase": "A player",
@@ -2722,124 +2026,9 @@
 		"translation": "Bir oyuncu"
 	},
 	{
-		"phrase": "Has picked up the enemy bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
-		"translation": "düşmanın bombasını aldı"
-	},
-	{
-		"phrase": "Has picked up our bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up our bomb'",
-		"translation": "bizim bombamızı aldı"
-	},
-	{
-		"phrase": "You have picked up the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Düşmanın bayrağını aldın"
-	},
-	{
-		"phrase": "You have picked up our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Bizim bombamızı aldın"
-	},
-	{
-		"phrase": "The enemy flag carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Düşmanın bayrak gemisi öldürüldü"
-	},
-	{
-		"phrase": "The enemy bomb carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Düşmanın bomba taşıyıcısı öldürüldü"
-	},
-	{
-		"phrase": "The enemy has dropped our flag",
-		"comment": "[Announcement]'",
-		"translation": "Düşman bayrağımızı düşürdü"
-	},
-	{
-		"phrase": "The enemy has dropped their bomb",
-		"comment": "[Announcement]'",
-		"translation": "Düşman bombasını attı"
-	},
-	{
-		"phrase": "Our flag carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Bayrak taşıyıcımız öldürüldü"
-	},
-	{
-		"phrase": "Our bomb carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Bomba taşıyıcımız öldürüldü"
-	},
-	{
-		"phrase": "You have dropped the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Düşman bayrağını düşürdün"
-	},
-	{
-		"phrase": "Has dropped the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Düşman bayrağını düşürdü"
-	},
-	{
-		"phrase": "Has captured our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured our flag'",
-		"translation": "Bayrağımızı ele geçirdi"
-	},
-	{
-		"phrase": "Has delivered their bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "Bombalarını teslim ettiler"
-	},
-	{
-		"phrase": "Has captured the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured the enemy flag'",
-		"translation": "Düşman bayrağını ele geçirdi"
-	},
-	{
-		"phrase": "Has delivered our bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "Bombamızı teslim etti"
-	},
-	{
-		"phrase": "Eternal mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Ebedi mod etkin"
-	},
-	{
-		"phrase": "Eternal mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Ebedi mod devre dışı"
-	},
-	{
-		"phrase": "Sandbox mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Sandbox modu etkinleştirildi"
-	},
-	{
-		"phrase": "Sandbox mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Sandbox modu devre dışı"
-	},
-	{
-		"phrase": "Trailer mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Fragman modu etkinleştirildi"
-	},
-	{
-		"phrase": "Trailer mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Fragman modu devre dışı"
-	},
-	{
 		"phrase": "Admin",
 		"comment": "Administrator abbreviation",
 		"translation": "Admin"
-	},
-	{
-		"phrase": "Movement Speed",
-		"comment": "Spectator control",
-		"translation": "Hareket Hızı"
 	},
 	{
 		"phrase": "Clamp Y",
@@ -2944,12 +2133,6 @@
 		"translation": "Önceki Nokta"
 	},
 	{
-		"phrase": "Toggle Killfeed",
-		"context": "Toggle Kill Feed",
-		"comment": "Spectator control",
-		"translation": "Killfeed'i Aç\/Kapat"
-	},
-	{
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
 		"translation": "Yardımı Aç\/Kapat"
@@ -2981,7 +2164,7 @@
 	},
 	{
 		"phrase": "Team",
-		"comment": "All the players on your team",
+		"comment": "1 Team, i.e. a group of players who fight against another group of players",
 		"translation": "Takım"
 	},
 	{
@@ -3089,18 +2272,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Attachment Point",
-		"comment": "[Career Path] [Unit] i.e. '1 Attachment Point'",
-		"translation": "Bağlanma noktası",
-		"machine": true
-	},
-	{
-		"phrase": "Attachment Points",
-		"comment": "[Career Path] [Unit] [Plural] i.e. '2 Attachment Points'",
-		"translation": "ek noktaları",
-		"machine": true
-	},
-	{
 		"phrase": "Boost",
 		"comment": "1 Boost, i.e. an item a player can use to increase their Proton and XP gain for the next hour",
 		"translation": "Artırmak",
@@ -3110,60 +2281,6 @@
 		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
 		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
 		"translation": "[Animasyonlu blok görünümlerinin doğru şekilde oluşturulabilmesi için Ayarlar > performans > animasyonlu blok görünümleri] etkinleştirilmelidir",
-		"machine": true
-	},
-	{
-		"phrase": "First team to win {0} rounds",
-		"comment": "[Gamemode Info] [Win requirement] [Arena] Parameter 0: '5'",
-		"translation": "{0} turlarını kazanan ilk takım",
-		"machine": true
-	},
-	{
-		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
-		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
-		"translation": "Soltrium dış sektör boyunca dağılmıştır. değerli kaynağı aramak ve toplamak için çeşitli {0} ve {1} taburları gönderildi.",
-		"machine": true
-	},
-	{
-		"phrase": "The first team to {0} points wins",
-		"comment": "[Gamemode Info] [Win Requirement] [Salvage] Parameter 0: '500'",
-		"translation": "{0} puanlarına ilk ulaşan takım kazanır",
-		"machine": true
-	},
-	{
-		"phrase": "Capture all zones to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Breakthrough]",
-		"translation": "Kazanmak için tüm bölgeleri ele geçir",
-		"machine": true
-	},
-	{
-		"phrase": "Deliver the flag {0} times to win",
-		"comment": "[Gamemode Info] [Win requirement] [Escort] Parameter 0: '3'",
-		"translation": "Kazanmak için bayrağı {0} kez teslim edin",
-		"machine": true
-	},
-	{
-		"phrase": "Deliver the bomb {0} times to win",
-		"comment": "[Gamemode Info] [Win requirement] [CTF] Parameter 0: '3'",
-		"translation": "Kazanmak için bombayı {0} kez teslim edin",
-		"machine": true
-	},
-	{
-		"phrase": "Pick up {0} from enemy corpses",
-		"comment": "[Gamemode Info] [Description] [Head Hunter] Parameter 0: 'Soltrium'",
-		"translation": "Düşman cesetlerinden {0}'ı alın",
-		"machine": true
-	},
-	{
-		"phrase": "Before uploading maps to the {0}, you must agree to the",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
-		"translation": "Haritaları {0}'a yüklemeden önce şunları kabul etmelisiniz:",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Terms of Service",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
-		"translation": "{0} Hizmet Şartları",
 		"machine": true
 	},
 	{
@@ -3194,30 +2311,6 @@
 		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
 		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
 		"translation": "Bu, tüm kullanıcı arayüzünün ve oyun içi HUD'nin ölçeğini kontrol eder. 100'e sıfırlamak için {0}'a basın%",
-		"machine": true
-	},
-	{
-		"phrase": "Has stolen our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen our flag'",
-		"translation": "Bayrağımızı çaldı",
-		"machine": true
-	},
-	{
-		"phrase": "Has stolen the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen the enemy flag'",
-		"translation": "Düşman bayrağını çaldı",
-		"machine": true
-	},
-	{
-		"phrase": "You have dropped our bomb",
-		"comment": "[Announcement]'",
-		"translation": "bombamızı düşürdün",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped our bomb",
-		"comment": "[Announcement]'",
-		"translation": "bombamızı attı",
 		"machine": true
 	},
 	{
@@ -3363,18 +2456,6 @@
 		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
 		"comment": "[Admin chat message] Parameter 0: '10'",
 		"translation": "Harita geri yüklenirken takım değiştirilemez. {0} saniye içinde yeniden deneyin",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has been kicked ({1} - {2})",
-		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
-		"translation": "{0} atıldı ({1} - {2})",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has not been kicked ({1} - {2})",
-		"comment": "[Admin chat message] Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
-		"translation": "{0} başlatılmadı ({1} - {2})",
 		"machine": true
 	},
 	{
@@ -3867,6 +2948,7 @@
 	},
 	{
 		"phrase": "Meteors have been detected",
+		"comment": "Incoming meteors have been detected and will soon crash into the planet",
 		"translation": "Meteorlar tespit edildi",
 		"machine": true
 	},
@@ -4040,7 +3122,7 @@
 	},
 	{
 		"phrase": "Unlock error: {0}",
-		"comment": "This error shows when failing to unlock a weapon skin. Parameter 1: 'Not enough Protons'",
+		"comment": "This error shows when failing to unlock a weapon skin. Parameter 0: 'Not enough Protons'",
 		"translation": "Kilit açma hatası: {0}",
 		"machine": true
 	},
@@ -4142,37 +3224,37 @@
 	},
 	{
 		"phrase": "{0} has joined the party",
-		"comment": "Notification that a new member has joined the party. Parameter 0: 'Bouphen'",
+		"comment": "Notification that a new member has joined the party\/group of players. Parameter 0: 'Bouphen'",
 		"translation": "{0} partiye katıldı",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has left the party",
-		"comment": "Notification that a member has left the party. Parameter 0: 'Zero'",
+		"comment": "Notification that a member has left the party\/group of players. Parameter 0: 'ZeroHour'",
 		"translation": "{0} partiden ayrıldı",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has disconnected and left the party",
-		"comment": "Notification that a member has disconnected and left the party. Parameter 0: 'Dirt Master'",
+		"comment": "Notification that a member has disconnected and left the party\/group of players. Parameter 0: 'Dirt Master'",
 		"translation": "{0} bağlantıyı kesti ve partiden ayrıldı",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has been kicked from the party",
-		"comment": "Notification that a member has been kicked from the party. Parameter 0: 'Vhauss'",
+		"comment": "Notification that another member has been kicked from a party\/group of players. Parameter 0: 'Vhauss'",
 		"translation": "{0} partiden atıldı",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has been banned from the party",
-		"comment": "Notification that a member has been banned from the party. Parameter 0: 'Definitely Vhauss'",
+		"comment": "Notification that another member has been banned from the party\/group of players. Parameter 0: 'Definitely Vhauss'",
 		"translation": "{0} partiden yasaklandı",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has invited you to their match",
-		"comment": "[Social Sidebar] This notification shows when a friend invites you to join their match. Parameter 0: 'Peygahreaux'",
+		"comment": "Notification that a friend invited you to join their match. Parameter 0: 'Peygahreaux'",
 		"translation": "{0} sizi maçına davet etti",
 		"machine": true
 	},
@@ -4202,7 +3284,7 @@
 	},
 	{
 		"phrase": "You have been kicked from the party",
-		"comment": "Notification that you have been kicked from a party",
+		"comment": "Notification that you have been kicked from a party\/group of players",
 		"translation": "partiden atıldın",
 		"machine": true
 	},
@@ -4250,7 +3332,7 @@
 	},
 	{
 		"phrase": "{0} {1}",
-		"comment": "This is for a quantity of something, .e.g '5 protons'. Parameter 0: any number, Parameter 1: any item",
+		"comment": "This is for a quantity of something, e.g. '5 Protons' or '1 Character token'. Parameter 0: any number, Parameter 1: any item",
 		"translation": "{0} {1}",
 		"machine": true
 	},
@@ -4286,31 +3368,31 @@
 	},
 	{
 		"phrase": "Unlock character",
-		"comment": "Checkout window title when unlocking a character",
+		"comment": "Click this button to unlock a humanoid character",
 		"translation": "Karakterin kilidini aç",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock skin",
-		"comment": "Click this button to unlock a weapon skin",
+		"comment": "Click this button to unlock a skin for a weapon or character",
 		"translation": "Cildin kilidini aç",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock helmet",
-		"comment": "Checkout window title when unlocking a character helmet",
+		"comment": "Click this button to unlock a new helmet for your character",
 		"translation": "Kaskın kilidini aç",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock melee",
-		"comment": "Checkout window title when unlocking a character melee",
+		"comment": "Click this button to unlock a knife or stabbing weapon",
 		"translation": "Yakın dövüş kilidini aç",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock pose",
-		"comment": "Checkout window title when unlocking a character pose",
+		"comment": "Click this button to unlock a character pose",
 		"translation": "Poz kilidini aç",
 		"machine": true
 	},
@@ -4436,13 +3518,13 @@
 	},
 	{
 		"phrase": "Unlock sight",
-		"comment": "Click this button to unlock a weapon sight",
+		"comment": "Click this button to unlock a sight\/scope for your weapon",
 		"translation": "Görüş kilidini aç",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock crosshair",
-		"comment": "Click this button to unlock a crosshair",
+		"comment": "Click this button to unlock a crosshair for your weapon sights",
 		"translation": "Artı işaretinin kilidini aç",
 		"machine": true
 	},
@@ -4569,7 +3651,7 @@
 	},
 	{
 		"phrase": "Visible",
-		"comment": "Checkbox setting, i.e. 'The ammo HUD is visible'",
+		"comment": "Something can be seen, i.e. 'The ammo HUD is visible'",
 		"translation": "Gözle görülür",
 		"machine": true
 	},
@@ -4827,13 +3909,13 @@
 	},
 	{
 		"phrase": "Teams",
-		"comment": "Two teams that fight against each other",
+		"comment": "2 Teams",
 		"translation": "Takımlar",
 		"machine": true
 	},
 	{
 		"phrase": "Commands",
-		"comment": "Commands that a player can run",
+		"comment": "2 Commands",
 		"translation": "Komutlar",
 		"machine": true
 	},
@@ -4859,13 +3941,6 @@
 		"phrase": "Crosshair Style",
 		"comment": "[Setting] Crosshair style, either circle, square or cross",
 		"translation": "artı stili",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Voxels",
-		"comment": "The Sector's Edge worlds are composed of blocks\/voxels",
-		"translation": "Engellemek",
 		"machine": true
 	},
 	{
@@ -4961,7 +4036,7 @@
 	},
 	{
 		"phrase": "Friends",
-		"comment": "All of my friends",
+		"comment": "2 Friends",
 		"translation": "Arkadaşlar",
 		"machine": true
 	},
@@ -4975,24 +4050,6 @@
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "Destekler",
-		"machine": true
-	},
-	{
-		"phrase": "Use Allegiance Colour",
-		"comment": "[Customisation] Use the colour of your selected allegiance",
-		"translation": "Bağlılık rengini kullan",
-		"machine": true
-	},
-	{
-		"phrase": "White Labels",
-		"comment": "Controls whether the text labels on the screen is white or black\"",
-		"translation": "Beyaz etiketler",
-		"machine": true
-	},
-	{
-		"phrase": "Background Colour",
-		"comment": "The colour of the background",
-		"translation": "Arka plan rengi",
 		"machine": true
 	},
 	{
@@ -5895,12 +4952,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Voice",
-		"comment": "Voice settings, i.e. push to talk, mute enemies when dead",
-		"translation": "Ses",
-		"machine": true
-	},
-	{
 		"phrase": "Push to talk",
 		"comment": "[Setting] If enabled, the player only broadcasts their voice chat when pressing a specific key",
 		"translation": "Konuşmak için bas",
@@ -6142,7 +5193,7 @@
 	},
 	{
 		"phrase": "User interface",
-		"comment": "[Settings Tab] User interface settings",
+		"comment": "UI elements on the screen, buttons, checkboxes, sliders, headers, text, etc",
 		"translation": "Kullanıcı arayüzü",
 		"machine": true
 	},
@@ -6394,7 +5445,7 @@
 	},
 	{
 		"phrase": "Background colour",
-		"comment": "",
+		"comment": "The colour of the background",
 		"translation": "Arka plan rengi",
 		"machine": true
 	},
@@ -6563,7 +5614,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"comment": "Heads-up-display, e.g. in-game UI like ammo, health, killfeed, minimap, chat",
+		"comment": "Heads-up-display, i.e. in-game UI like ammo, health, killfeed, minimap, chat",
 		"translation": "HUD",
 		"machine": true
 	},
@@ -7319,13 +6370,13 @@
 	},
 	{
 		"phrase": "Friendlies",
-		"comment": "An enemy of Helix is my friend",
+		"comment": "2 Friendlies",
 		"translation": "dostluk",
 		"machine": true
 	},
 	{
 		"phrase": "Enemies",
-		"comment": "An ally of Helix is my enemy",
+		"comment": "2 Enemies",
 		"translation": "düşmanlar",
 		"machine": true
 	},
@@ -7471,7 +6522,7 @@
 	},
 	{
 		"phrase": "This map does not support the game mode {0}",
-		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Bu harita {0} oyun modunu desteklemiyor",
 		"machine": true
 	},
@@ -7731,7 +6782,7 @@
 	},
 	{
 		"phrase": "Block",
-		"comment": "1 Block, i.e. 1 cube",
+		"comment": "1 Block, i.e. 1 cube. The Sector's Edge worlds are composed of blocks\/cubes\/voxels",
 		"translation": "Engellemek",
 		"machine": true
 	},
@@ -8187,12 +7238,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Statistics Colour",
-		"comment": "The colour of player statistics",
-		"translation": "İstatistik rengi",
-		"machine": true
-	},
-	{
 		"phrase": "Select your active Allegiance",
 		"comment": "This text shows above the list of Allegiances that the player can choose to join",
 		"translation": "Aktif bağlılığınızı seçin",
@@ -8220,12 +7265,6 @@
 		"phrase": "Mod Levels",
 		"comment": "An armour mod can either be level 1 or level 2, where level 2 has better parks. This text is a heading for all the mod levels, i.e. 'Mod Levels: Scavenger 0, Scavenger 1'",
 		"translation": "mod seviyeleri",
-		"machine": true
-	},
-	{
-		"phrase": "Grip",
-		"comment": "",
-		"translation": "Kavramak",
 		"machine": true
 	},
 	{
@@ -8494,8 +7533,382 @@
 	},
 	{
 		"phrase": "Enemy",
-		"comment": "1 Enemy",
+		"comment": "1 Enemy, i.e. a player who is on the other team",
 		"translation": "Düşman",
+		"machine": true
+	},
+	{
+		"phrase": "Your team captured a zone",
+		"comment": "Your team captured a zone in the Breakthrough gamemode",
+		"translation": "Ekibiniz bir bölgeyi ele geçirdi",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy captured a zone",
+		"comment": "The enemy team captured a zone in the Breakthrough gamemode",
+		"translation": "Düşman bir bölgeyi ele geçirdi",
+		"machine": true
+	},
+	{
+		"phrase": "Restoration started. Weapon use and respawning disabled",
+		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration starts (it takes a few seconds to finish)",
+		"translation": "Restorasyon başladı. silah kullanımı ve yeniden doğma devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Restoration finished. Respawning and weapon use allowed",
+		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration finishes and players can continue shooting each other",
+		"translation": "Restorasyon tamamlandı. yeniden doğma ve silah kullanımına izin verilir",
+		"machine": true
+	},
+	{
+		"phrase": "Our team defused the enemy bomb",
+		"comment": "Your team defused the enemy bomb in the Escort gamemode",
+		"translation": "Ekibimiz düşman bombasını etkisiz hale getirdi",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy defused our bomb",
+		"comment": "The enemy team defused our bomb in the Escort gamemode",
+		"translation": "Düşman bombamızı etkisiz hale getirdi",
+		"machine": true
+	},
+	{
+		"phrase": "Our team returned our flag",
+		"comment": "Our team returned our flag back to our base in the Capture the Flag gamemode",
+		"translation": "Ekibimiz bayrağımızı iade etti",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy returned their flag",
+		"comment": "The enemy team returned their flag back to their base in the Capture the Flag gamemode",
+		"translation": "Düşman bayrağını iade etti",
+		"machine": true
+	},
+	{
+		"phrase": "You picked up our bomb",
+		"comment": "You picked up your team's bomb in the Escort gamemode",
+		"translation": "bombamızı aldın",
+		"machine": true
+	},
+	{
+		"phrase": "You picked up the enemy flag",
+		"comment": "You stole the enemies flag from their base",
+		"translation": "Düşman bayrağını aldın",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy flag carrier has died",
+		"comment": "The enemy that was carrying our flag has been killed",
+		"translation": "Düşman bayrak gemisi öldü",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy bomb carrier has died",
+		"comment": "The enemy that was carrying their bomb has been killed",
+		"translation": "Düşman bomba taşıyıcısı öldü",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy dropped our flag",
+		"comment": "The enemy that was carrying our flag dropped the flag on the ground",
+		"translation": "Düşman bayrağımızı düşürdü",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy dropped their bomb",
+		"comment": "The enemy that was carrying their bomb dropped the bomb on the ground",
+		"translation": "Düşman bombasını attı",
+		"machine": true
+	},
+	{
+		"phrase": "Our flag carrier has died",
+		"comment": "The teammate that was carrying the enemies flag has been killed",
+		"translation": "Bayrak taşıyıcımız öldü",
+		"machine": true
+	},
+	{
+		"phrase": "Our bomb carrier has died",
+		"comment": "The teammate that was carrying our bomb has been killed",
+		"translation": "Bomba gemimiz öldü",
+		"machine": true
+	},
+	{
+		"phrase": "You dropped the enemy flag",
+		"comment": "You dropped the enemies flag on the ground",
+		"translation": "Düşman bayrağını düşürdün",
+		"machine": true
+	},
+	{
+		"phrase": "You dropped our bomb",
+		"comment": "You dropped our bomb on the ground",
+		"translation": "bombamızı düşürdün",
+		"machine": true
+	},
+	{
+		"phrase": "You can no longer modify your structures.",
+		"comment": "When players place inappropriate structures in game, a moderator can remove their ability to modify their structures. This text appears when they attempt to modify their structures",
+		"translation": "Artık yapılarınızı değiştiremezsiniz.",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Korumalı alan modu {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Römork modu {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Ebedi mod {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} stole our flag",
+		"comment": "An enemy has stolen our flag. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} bayrağımızı çaldı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} picked up the enemy bomb",
+		"comment": "An enemy has picked up their bomb. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} düşman bombasını aldı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} stole the enemy flag",
+		"comment": "A friendly stole the enemy flag. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} düşman bayrağını çaldı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} picked up our bomb",
+		"comment": "An friendly has picked up our bomb. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} bombamızı aldı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now spectating",
+		"comment": "A player left the battle and is now spectating. Parameter 0: 'Vhauss'",
+		"translation": "{0} şimdi izliyor",
+		"machine": true
+	},
+	{
+		"phrase": "{0} left the planet",
+		"comment": "A player got in their spaceship and departed the planet. Parameter 0: 'Tilitaliboss'",
+		"translation": "{0} gezegeni terk etti",
+		"machine": true
+	},
+	{
+		"phrase": "{0} joined the chaos",
+		"comment": "A player has arrived in a chaotic battlefield. Parameter 0: 'Potato'",
+		"translation": "{0} kaosa katıldı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} just landed",
+		"comment": "A player has just landed in their spaceship. Parameter 0: 'nemelex'",
+		"translation": "{0} az önce indi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} arrived for battle",
+		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'DemmyBane'",
+		"translation": "{0} savaş için geldi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is ready to fight",
+		"comment": "A player arrived at the frontlines and is ready to fight. Parameter 0: 'Spotter654'",
+		"translation": "{0} savaşmaya hazır",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is ready for battle",
+		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'Billium'",
+		"translation": "{0} savaşa hazır",
+		"machine": true
+	},
+	{
+		"phrase": "{0} will never give you up",
+		"comment": "Rick Astley has joined the battle and won't give you up. Parameter 0: 'Realkill_1111'",
+		"translation": "{0} senden asla vazgeçmeyecek",
+		"machine": true
+	},
+	{
+		"phrase": "{0} will never let you down",
+		"comment": "Rick Astley has joined the battle and won't let you down. Parameter 0: 'Blade'",
+		"translation": "{0} sizi asla yarı yolda bırakmayacak",
+		"machine": true
+	},
+	{
+		"phrase": "Arena X-Ray activated - all players are now visible!",
+		"comment": "If an Arena round lasts too long, X-Ray vision is activated and players can see each other through walls",
+		"translation": "Arena röntgeni etkinleştirildi - tüm oyuncular artık görülebilir!",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has dropped the enemy flag",
+		"comment": "A friendly has dropped the enemy flag on the ground. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} düşman bayrağını düşürdü",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has dropped our bomb",
+		"comment": "A friendly has dropped our bomb on the ground. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} bombamızı attı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has captured our flag",
+		"comment": "An enemy has stolen our flag and captured it in their base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} bayrağımızı ele geçirdi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has delivered their bomb",
+		"comment": "An enemy has placed their bomb in our base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} bombalarını teslim etti",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has captured the enemy flag",
+		"comment": "A friendly has stolen the enemy flag and captured it in our base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} düşman bayrağını ele geçirdi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has delivered our bomb",
+		"comment": "A friendly has placed our bomb in the enemy base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} bombamızı teslim etti",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is on a {1} kill streak",
+		"comment": "A player is on a killstreak. Parameter 0: 'zepofan', Parameter 1: '35'",
+		"translation": "{0}, {1} galibiyet serisinde",
+		"machine": true
+	},
+	{
+		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
+		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Enemies'",
+		"translation": "Dalga {0} tamamlandı. {1} {2}'de bir sonraki dalga...",
+		"machine": true
+	},
+	{
+		"phrase": "Wave {0} begins. {1} {2} approach.",
+		"comment": "The next wave\/group of enemies. The next wave is imminent. Parameter 0: '6', Parameter 1: '40', Parameter 2: 'Enemies'",
+		"translation": "Dalga {0} başlar. {1} {2} yaklaşımı.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has ended {1}'s killstreak at {2} {3}",
+		"comment": "A player with a killstreak has died. Parameter 0: 'deWolf', Parameter 1: 'zepofan', Parameter 2: '40', Parameter 3: 'Kills'",
+		"translation": "{0}, {1}'in {2} {3}'teki öldürme serisini sonlandırdı",
+		"machine": true
+	},
+	{
+		"phrase": "Mouse wheel down",
+		"comment": "Keybind that fires when scrolling the mouse wheel down",
+		"translation": "Fare tekerleği aşağı",
+		"machine": true
+	},
+	{
+		"phrase": "Automatic",
+		"context": "Automatic Fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
+		"translation": "Otomatik",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been votekicked ({1} - {2})",
+		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
+		"translation": "{0} oylandı ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been votekicked ({1} - {2})",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
+		"translation": "{0} oylama yapılmadı ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Store",
+		"comment": "Save your changes to disk",
+		"translation": "Kaydetmek",
+		"machine": true
+	},
+	{
+		"phrase": "Starting in {0} {1}",
+		"comment": "This text shows at the start of a FFA match. Parameter 0: '10', Parameter 1: 'seconds'",
+		"translation": "{0} {1}'den başlayarak",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment point",
+		"comment": "1 Attachment point, which is used to unlock an attachment on a weapon",
+		"translation": "Bağlanma noktası",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment points",
+		"comment": "2 Attachment points, which are used to unlock attachments on a weapon",
+		"translation": "ek noktaları",
+		"machine": true
+	},
+	{
+		"phrase": "Spectator",
+		"comment": "1 Spectator, i.e. someone who is watching a battle",
+		"translation": "seyirci",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly",
+		"comment": "1 Friendly, i.e. a player who is on your team",
+		"translation": "Arkadaş canlısı",
+		"machine": true
+	},
+	{
+		"phrase": "Point",
+		"comment": "1 Point. Players earn points when dealing damage, killing enemies, capturing objectives, etc",
+		"translation": "Puan",
+		"machine": true
+	},
+	{
+		"phrase": "Voice",
+		"comment": "Voice chat, where players speak with their voices",
+		"translation": "Ses",
+		"machine": true
+	},
+	{
+		"phrase": "Command",
+		"comment": "1 Command, i.e. a chat command that a player can run to perform an action, e.g. kicking a player",
+		"translation": "Emretmek",
+		"machine": true
+	},
+	{
+		"phrase": "Use allegiance colour",
+		"comment": "[Customisation] Use the colour of your selected allegiance",
+		"translation": "Bağlılık rengini kullan",
+		"machine": true
+	},
+	{
+		"phrase": "White labels",
+		"comment": "Controls whether the text labels on the screen is white or black\"",
+		"translation": "Beyaz etiketler",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics colour",
+		"comment": "The colour of player statistics",
+		"translation": "İstatistik rengi",
 		"machine": true
 	}
 ]

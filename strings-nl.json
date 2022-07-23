@@ -90,12 +90,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Saviour",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Redder",
-		"machine": true
-	},
-	{
 		"phrase": "Flag capture",
 		"comment": "To capture a flag you must infiltrate the enemy base, steal their flag and return it to your base. The Flag in this game is a canister containing valuable Soltrium",
 		"translation": "Vlag vastleggen",
@@ -163,7 +157,7 @@
 	},
 	{
 		"phrase": "Spot assist",
-		"comment": "If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
+		"comment": "1 Spot assist. If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
 		"translation": "Spothulp",
 		"machine": true
 	},
@@ -211,7 +205,7 @@
 	},
 	{
 		"phrase": "Assist",
-		"comment": "If you shoot an enemy once and a friendly kills them, you earn assist points",
+		"comment": "1 Assist. If you shoot an enemy once and a friendly kills them, you earn assist points",
 		"translation": "Helpen",
 		"machine": true
 	},
@@ -331,7 +325,7 @@
 	},
 	{
 		"phrase": "Left",
-		"comment": "[Move to the left",
+		"comment": "The left side of the screen",
 		"translation": "Links",
 		"machine": true
 	},
@@ -367,7 +361,7 @@
 	},
 	{
 		"phrase": "Disconnected",
-		"comment": "Disconnected from the server",
+		"comment": "The connection between the client and server has been terminated",
 		"translation": "Verbinding verbroken",
 		"machine": true
 	},
@@ -547,7 +541,7 @@
 	},
 	{
 		"phrase": "Light",
-		"comment": "Weapon category name",
+		"comment": "1 Light, this refers to a visual light that lights up a room",
 		"translation": "Licht",
 		"machine": true
 	},
@@ -631,7 +625,7 @@
 	},
 	{
 		"phrase": "Automatic",
-		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
+		"comment": "Perform this task automatically",
 		"translation": "automatisch",
 		"machine": true
 	},
@@ -651,12 +645,6 @@
 		"phrase": "Pistol",
 		"comment": "Weapon category name",
 		"translation": "Pistool",
-		"machine": true
-	},
-	{
-		"phrase": "Equipment",
-		"comment": "[Keybind]",
-		"translation": "Apparatuur",
 		"machine": true
 	},
 	{
@@ -883,7 +871,7 @@
 	},
 	{
 		"phrase": "Building",
-		"comment": "Category tab on the Trials screen",
+		"comment": "The act of creating something",
 		"translation": "Gebouw",
 		"machine": true
 	},
@@ -924,63 +912,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Respawn",
-		"comment": "[Gamemode Info] Respawn time, e.g. 10s respawn",
-		"translation": "respawn",
-		"machine": true
-	},
-	{
 		"phrase": "Players",
 		"comment": "Column header on the server list",
 		"translation": "Spelers",
-		"machine": true
-	},
-	{
-		"phrase": "No respawns",
-		"comment": "[Gamemode Info] Players dont respawn in this gamemode, e.g. Arena",
-		"translation": "Geen respawns",
-		"machine": true
-	},
-	{
-		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
-		"comment": "[Gamemode Info] Arena gamemode description",
-		"translation": "Er heeft zich een schaduwmarkt ontwikkeld aan de rand van de melkweg waar soltrium wordt ingezet. het is alles of niets in de arena waar deelnemers vechten voor winst en overleving.",
-		"machine": true
-	},
-	{
-		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
-		"comment": "[Gamemode Info] [Description] [Spire]",
-		"translation": "Begin met niets en verzamel wapens om het vijandelijke team te elimineren.",
-		"machine": true
-	},
-	{
-		"phrase": "All players start with the same randomised loadout.",
-		"comment": "[Gamemode Info] [Description] [Static]",
-		"translation": "Alle spelers beginnen met dezelfde willekeurige uitrusting.",
-		"machine": true
-	},
-	{
-		"phrase": "Control the zone to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
-		"translation": "Beheers de zone om te winnen",
-		"machine": true
-	},
-	{
-		"phrase": "Get two kills with every weapon, then melee to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
-		"translation": "Krijg twee moorden met elk wapen, dan melee om te winnen",
-		"machine": true
-	},
-	{
-		"phrase": "Hold the most Soltrium to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
-		"translation": "Houd het meeste Soltrium om te winnen",
-		"machine": true
-	},
-	{
-		"phrase": "Weapons and Mods spawn around the map",
-		"comment": "[Gamemode Info] [Description] [Head Hunter]",
-		"translation": "Wapens en mods verschijnen op de kaart",
 		"machine": true
 	},
 	{
@@ -993,12 +927,6 @@
 		"phrase": "Local",
 		"comment": "Maps that are stored locally",
 		"translation": "lokaal",
-		"machine": true
-	},
-	{
-		"phrase": "Subscribed",
-		"comment": "[Mapping Screen] Maps that you have subscribed to on the Workshop",
-		"translation": "Geabonneerd",
 		"machine": true
 	},
 	{
@@ -1020,12 +948,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Friends only",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
-		"translation": "Alleen vrienden",
-		"machine": true
-	},
-	{
 		"phrase": "Unlisted",
 		"comment": "This item is unlisted, meaning only people with a link can see it",
 		"translation": "niet vermeld",
@@ -1038,87 +960,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Map list",
-		"comment": "[Map List] Title",
-		"translation": "Kaart lijst",
-		"machine": true
-	},
-	{
-		"phrase": "No local maps found",
-		"comment": "[Map List] Text that shows when there are no local maps on this user's PC",
-		"translation": "Geen lokale kaarten gevonden",
-		"machine": true
-	},
-	{
-		"phrase": "No subscribed maps",
-		"comment": "[Map List] Text that shows when the user hasn't subsribed to any maps on the Steam Workshop",
-		"translation": "Geen geabonneerde kaarten",
-		"machine": true
-	},
-	{
-		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
-		"comment": "[Map List] Description text above the map list",
-		"translation": "Kaarten waarop u zich in de workshop hebt geabonneerd, verschijnen hier. je moet mogelijk meerdere keren vernieuwen nadat je je hebt geabonneerd op een nieuwe kaart om de lijst volledig bij te werken.",
-		"machine": true
-	},
-	{
-		"phrase": "Loading map",
-		"comment": "[Map List] This text shows when loading a map from the Steam Workshop",
-		"translation": "Kaart laden",
-		"machine": true
-	},
-	{
-		"phrase": "Uploading map to the Steam Workshop",
-		"comment": "[Map List] This text shows when uploading a map to the Steam Workshop",
-		"translation": "Kaart uploaden naar de stoomworkshop",
-		"machine": true
-	},
-	{
-		"phrase": "Committing Changes",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Wijzigingen doorvoeren",
-		"machine": true
-	},
-	{
 		"phrase": "Invalid",
 		"comment": "The value is not valid",
 		"translation": "Ongeldig",
-		"machine": true
-	},
-	{
-		"phrase": "Preparing Config",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Configuratie voorbereiden",
-		"machine": true
-	},
-	{
-		"phrase": "Preparing Content",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Inhoud voorbereiden",
-		"machine": true
-	},
-	{
-		"phrase": "Uploading Content",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Inhoud uploaden",
-		"machine": true
-	},
-	{
-		"phrase": "Uploading Preview Image",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Voorbeeldafbeelding uploaden",
-		"machine": true
-	},
-	{
-		"phrase": "Upload summary",
-		"comment": "[Upload Summary] This is the title at the top of the screen when uploading a map to the Steam Workshop",
-		"translation": "Samenvatting uploaden",
-		"machine": true
-	},
-	{
-		"phrase": "Map name",
-		"comment": "[Upload Summary] This is a text label that is shown above the map name",
-		"translation": "Kaartnaam",
 		"machine": true
 	},
 	{
@@ -1128,32 +972,14 @@
 		"machine": true
 	},
 	{
-		"phrase": "Supported game modes",
-		"comment": "[Upload Summary] This is a text label that is shown above the list of game modes that this map supports",
-		"translation": "Ondersteunde spelmodi",
-		"machine": true
-	},
-	{
 		"phrase": "Visibility",
 		"comment": "The visibility of the custom map uploaded to steam, i.e. private, unlisted, public",
 		"translation": "Zichtbaarheid",
 		"machine": true
 	},
 	{
-		"phrase": "Kills",
-		"comment": "How many kills a player has",
-		"translation": "doodt",
-		"machine": true
-	},
-	{
-		"phrase": "Deaths",
-		"comment": "How many times a player died",
-		"translation": "Sterfgevallen",
-		"machine": true
-	},
-	{
 		"phrase": "Assists",
-		"comment": "How many assists a player has",
+		"comment": "2 Assists",
 		"translation": "assists",
 		"machine": true
 	},
@@ -1188,24 +1014,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Player ready",
-		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '1 player ready'",
-		"translation": "Speler klaar",
-		"machine": true
-	},
-	{
-		"phrase": "Players ready",
-		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '15 players ready'",
-		"translation": "Spelers klaar",
-		"machine": true
-	},
-	{
-		"phrase": "Starting in",
-		"comment": "[FFA] This text shows at the start of a FFA match. The full phrase is 'Starting in 12 seconds'",
-		"translation": "beginnend in",
-		"machine": true
-	},
-	{
 		"phrase": "Second",
 		"comment": "1 Second, i.e. measurement of time",
 		"translation": "Tweede",
@@ -1215,18 +1023,6 @@
 		"phrase": "Seconds",
 		"comment": "2 Seconds",
 		"translation": "seconden",
-		"machine": true
-	},
-	{
-		"phrase": "Available",
-		"comment": "This text shows at the top of the screen in-game when customising weapons. The full text is '12000 Protons Available'",
-		"translation": "Beschikbaar",
-		"machine": true
-	},
-	{
-		"phrase": "Leave killcam",
-		"comment": "[Input Prompt] This text shows in-game when viewing the killcam. The full phrase is '[SPACE] Leave killcam'",
-		"translation": "Verlaat killcam",
 		"machine": true
 	},
 	{
@@ -1291,13 +1087,13 @@
 	},
 	{
 		"phrase": "Equip as primary",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as primary'",
+		"comment": "Press a key to equip this weapon as your primary\/main weapon",
 		"translation": "Uitrusten als primair",
 		"machine": true
 	},
 	{
 		"phrase": "Equip as secondary",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as secondary'",
+		"comment": "Press a key to equip this weapon as your secondary\/fallback weapon",
 		"translation": "Uitrusten als secundair",
 		"machine": true
 	},
@@ -1305,12 +1101,6 @@
 		"phrase": "Edit loadouts",
 		"comment": "Click this button to edit your loadouts",
 		"translation": "Uitrustingen bewerken",
-		"machine": true
-	},
-	{
-		"phrase": "Level",
-		"comment": "[Killcam] The level of the player",
-		"translation": "Niveau",
 		"machine": true
 	},
 	{
@@ -1326,21 +1116,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Career",
-		"comment": "[Killcam] The total progression level for this player, e.g. '300 Career'",
-		"translation": "Carrière",
-		"machine": true
-	},
-	{
 		"phrase": "Loadout",
 		"comment": "A set of weapons and armour modifications",
 		"translation": "Uitlading",
-		"machine": true
-	},
-	{
-		"phrase": "Killed by",
-		"comment": "[Killcam] [Label] This text shows below the weapon that killed us",
-		"translation": "Gedood door",
 		"machine": true
 	},
 	{
@@ -1356,27 +1134,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Checkout",
-		"comment": "[Store Checkout Popup] [Title]",
-		"translation": "Uitchecken",
-		"machine": true
-	},
-	{
 		"phrase": "Summary",
 		"comment": "A... summary. Can't think of a description for this",
 		"translation": "Overzicht",
-		"machine": true
-	},
-	{
-		"phrase": "Creator Code (Optional)",
-		"comment": "[Store Checkout Popup] [Text Field] Enter a creator code here",
-		"translation": "Makercode (optioneel)",
-		"machine": true
-	},
-	{
-		"phrase": "Friend username",
-		"comment": "[Store Checkout Popup] [Text Field] Enter the username of the friend you are gifting this pack too",
-		"translation": "gebruikersnaam van vriend",
 		"machine": true
 	},
 	{
@@ -1435,7 +1195,7 @@
 	},
 	{
 		"phrase": "Trials",
-		"comment": "Keybind category for the Trials (show trial menu, restart trial)",
+		"comment": "Time trials, i.e. a place where a player can test their skills",
 		"translation": "Proeven",
 		"machine": true
 	},
@@ -1483,7 +1243,7 @@
 	},
 	{
 		"phrase": "Save",
-		"comment": "Save your changes",
+		"comment": "1 Save, i.e. when you save a friendly from being killed",
 		"translation": "Sparen",
 		"machine": true
 	},
@@ -1578,360 +1338,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Initiate",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Initiate",
-		"translation": "initiëren",
-		"machine": true
-	},
-	{
-		"phrase": "Proficient",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Proficient",
-		"translation": "bekwaam",
-		"machine": true
-	},
-	{
-		"phrase": "Adept",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Adept",
-		"translation": "Bedreven",
-		"machine": true
-	},
-	{
-		"phrase": "Elite",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Elite",
-		"translation": "Elite",
-		"machine": true
-	},
-	{
-		"phrase": "Expert",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Expert",
-		"translation": "Deskundige",
-		"machine": true
-	},
-	{
-		"phrase": "Master",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Master",
-		"translation": "Meester",
-		"machine": true
-	},
-	{
-		"phrase": "Legend",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Legend",
-		"translation": "Legende",
-		"machine": true
-	},
-	{
-		"phrase": "Paragon",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Paragon",
-		"translation": "Toonbeeld",
-		"machine": true
-	},
-	{
-		"phrase": "Incarnate",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Incarnate",
-		"translation": "vleesgeworden",
-		"machine": true
-	},
-	{
-		"phrase": "Butcher",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "slager",
-		"machine": true
-	},
-	{
-		"phrase": "Swordsman",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "zwaardvechter",
-		"machine": true
-	},
-	{
-		"phrase": "Berserker",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Berserker",
-		"machine": true
-	},
-	{
-		"phrase": "Assassin",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Sluipmoordenaar",
-		"machine": true
-	},
-	{
-		"phrase": "Executioner",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Beul",
-		"machine": true
-	},
-	{
-		"phrase": "Grenadier",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Grenadier",
-		"machine": true
-	},
-	{
-		"phrase": "Detonator",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "ontsteker",
-		"machine": true
-	},
-	{
-		"phrase": "Volatile",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Vluchtig",
-		"machine": true
-	},
-	{
-		"phrase": "Catalyst",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Katalysator",
-		"machine": true
-	},
-	{
-		"phrase": "Captor",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "ontvoerder",
-		"machine": true
-	},
-	{
-		"phrase": "Invader",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "indringer",
-		"machine": true
-	},
-	{
-		"phrase": "Thief",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Dief",
-		"machine": true
-	},
-	{
-		"phrase": "Reinforcer",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Versterker",
-		"machine": true
-	},
-	{
-		"phrase": "Engineer",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Ingenieur",
-		"machine": true
-	},
-	{
-		"phrase": "Fabricator",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Constructeur",
-		"machine": true
-	},
-	{
-		"phrase": "Architect",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Architect",
-		"machine": true
-	},
-	{
-		"phrase": "Sentry",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Schildwacht",
-		"machine": true
-	},
-	{
-		"phrase": "Protector",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Beschermer",
-		"machine": true
-	},
-	{
-		"phrase": "Sentinel",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Sentinel",
-		"machine": true
-	},
-	{
-		"phrase": "Guardian",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Voogd",
-		"machine": true
-	},
-	{
-		"phrase": "Raider",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Raider",
-		"machine": true
-	},
-	{
-		"phrase": "Marauder",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Stroper",
-		"machine": true
-	},
-	{
-		"phrase": "Vanquisher",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Overwinnaar",
-		"machine": true
-	},
-	{
-		"phrase": "Conquerer",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "veroveraar",
-		"machine": true
-	},
-	{
-		"phrase": "Terminator",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Terminator",
-		"machine": true
-	},
-	{
-		"phrase": "Gunslinger",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Geweerslinger",
-		"machine": true
-	},
-	{
-		"phrase": "Deadeye",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Deadeye",
-		"machine": true
-	},
-	{
-		"phrase": "Sharpshooter",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Scherpschutter",
-		"machine": true
-	},
-	{
-		"phrase": "Deathbringer",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Dood brenger",
-		"machine": true
-	},
-	{
-		"phrase": "Blaster",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Blaster",
-		"machine": true
-	},
-	{
-		"phrase": "Collider",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Collider",
-		"machine": true
-	},
-	{
-		"phrase": "Obliterator",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Vernietiger",
-		"machine": true
-	},
-	{
-		"phrase": "Disintegrator",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "desintegrator",
-		"machine": true
-	},
-	{
-		"phrase": "Alleviator",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Verlichter",
-		"machine": true
-	},
-	{
-		"phrase": "Mitigator",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Mitigator",
-		"machine": true
-	},
-	{
-		"phrase": "Diminisher",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Verkleiner",
-		"machine": true
-	},
-	{
-		"phrase": "Recon",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Verkennen",
-		"machine": true
-	},
-	{
-		"phrase": "Luminator",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Luminator",
-		"machine": true
-	},
-	{
-		"phrase": "Coruscator",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Coruscator",
-		"machine": true
-	},
-	{
-		"phrase": "Spotter",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Spotter",
-		"machine": true
-	},
-	{
-		"phrase": "Watchman",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Wachter",
-		"machine": true
-	},
-	{
-		"phrase": "Eagle Eye",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Adelaarsoog",
-		"machine": true
-	},
-	{
-		"phrase": "All Seeing",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Allesziend",
-		"machine": true
-	},
-	{
-		"phrase": "Body Guard",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "lijfwacht",
-		"machine": true
-	},
-	{
-		"phrase": "Slayer",
-		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Moordenaar",
-		"machine": true
-	},
-	{
-		"phrase": "Punisher",
-		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Punisher",
-		"machine": true
-	},
-	{
-		"phrase": "Midi Certified",
-		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials",
-		"translation": "Midi gecertificeerd",
-		"machine": true
-	},
-	{
-		"phrase": "Maze Runner",
-		"comment": "[Killcam Tag] [Trials] Reached all Silver times in the trials",
-		"translation": "doolhof loper",
-		"machine": true
-	},
-	{
-		"phrase": "Trial Master",
-		"comment": "[Killcam Tag] [Trials] Reached all Gold times in the trials",
-		"translation": "Proefmeester",
-		"machine": true
-	},
-	{
-		"phrase": "Trial Hard",
-		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials. This one is a word play on 'Try Hard', feel free to translate this into something more serious or keep it as a meme",
-		"translation": "Moeilijke proef",
-		"machine": true
-	},
-	{
 		"phrase": "Podium",
 		"comment": "The top 5 players stand on a podium",
 		"translation": "Podium",
@@ -1939,7 +1345,7 @@
 	},
 	{
 		"phrase": "Audio",
-		"comment": "[Settings Tab] Mouse and keyboard input settings",
+		"comment": "Audio and sounds",
 		"translation": "Audio",
 		"machine": true
 	},
@@ -1957,7 +1363,7 @@
 	},
 	{
 		"phrase": "Chat",
-		"comment": "[Keybind]",
+		"comment": "Chat UI, where players send text messages to each other",
 		"translation": "Chatten",
 		"machine": true
 	},
@@ -2023,7 +1429,7 @@
 	},
 	{
 		"phrase": "Navigation",
-		"comment": "Keybind category for navigation (change to the home tab, change to the ship tab)",
+		"comment": "Navigating between different screens, i.e. change to the home tab, change to the ship tab",
 		"translation": "Navigatie",
 		"machine": true
 	},
@@ -2101,7 +1507,7 @@
 	},
 	{
 		"phrase": "Right",
-		"comment": "Move to the right",
+		"comment": "The right side of the screen",
 		"translation": "Rechts",
 		"machine": true
 	},
@@ -2197,13 +1603,13 @@
 	},
 	{
 		"phrase": "Primary",
-		"comment": "[Keybind]",
+		"comment": "The primary\/main category",
 		"translation": "primair",
 		"machine": true
 	},
 	{
 		"phrase": "Secondary",
-		"comment": "[Keybind]",
+		"comment": "The secondary\/fallback category",
 		"translation": "Ondergeschikt",
 		"machine": true
 	},
@@ -2436,12 +1842,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Purchases",
-		"comment": "[Transaction Log] Category title",
-		"translation": "Aankopen",
-		"machine": true
-	},
-	{
 		"phrase": "Blocks",
 		"context": "Cubes",
 		"comment": "The amount of 3d voxels, e.g. '50 Blocks'. This text shows when looking at a structure in the ship",
@@ -2458,13 +1858,6 @@
 		"phrase": "Press space to auto rotate",
 		"comment": "[Block Customisation] Press space on your keyboard to make the block automatically rotate",
 		"translation": "Druk op de spatiebalk om automatisch te draaien",
-		"machine": true
-	},
-	{
-		"phrase": "N\/A",
-		"context": "Not Applicable",
-		"comment": "[Term] This is an abbreviation for Not Applicable",
-		"translation": "Nvt",
 		"machine": true
 	},
 	{
@@ -2487,7 +1880,7 @@
 	},
 	{
 		"phrase": "Points",
-		"comment": "[Scoreboard] How many points a player has earned in game",
+		"comment": "2 Points",
 		"translation": "Punten",
 		"machine": true
 	},
@@ -2522,30 +1915,10 @@
 		"machine": true
 	},
 	{
-		"phrase": "Use Title Accent Colour",
-		"context": "Display Title Accent Colour",
-		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
-		"translation": "Titelaccentkleur gebruiken",
-		"machine": true
-	},
-	{
-		"phrase": "Use Title Background",
-		"context": "Display Title Background",
-		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
-		"translation": "Titelachtergrond gebruiken",
-		"machine": true
-	},
-	{
 		"phrase": "ms",
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
 		"translation": "Mevrouw",
-		"machine": true
-	},
-	{
-		"phrase": "Title unlocked",
-		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
-		"translation": "Titel ontgrendeld",
 		"machine": true
 	},
 	{
@@ -2573,18 +1946,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Accept",
-		"comment": "[UI] [Button] Accept an invitation",
-		"translation": "Aanvaarden",
-		"machine": true
-	},
-	{
-		"phrase": "Decline",
-		"comment": "[UI] [Button] Decline an invitation",
-		"translation": "Afwijzen",
-		"machine": true
-	},
-	{
 		"phrase": "Kick",
 		"comment": "Swap the player to the other team",
 		"translation": "Trap",
@@ -2598,7 +1959,7 @@
 	},
 	{
 		"phrase": "Hidden",
-		"comment": "Checkbox setting , i.e. 'The minimap is hidden'",
+		"comment": "Something can't be seen , i.e. 'The minimap is hidden'",
 		"translation": "Verborgen",
 		"machine": true
 	},
@@ -2615,63 +1976,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Spawn",
-		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
-		"translation": "Paaien",
-		"machine": true
-	},
-	{
-		"phrase": "Pan with mouse",
-		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
-		"translation": "Pannen met muis",
-		"machine": true
-	},
-	{
-		"phrase": "Scroll to zoom",
-		"context": "Scroll wheel to zoom",
-		"comment": "[Respawn] [Input Prompt] Use the scroll wheel to zoom into the map",
-		"translation": "Scroll om te zoomen",
-		"machine": true
-	},
-	{
-		"phrase": "Loadout overpowered",
-		"context": "Loadout is too powerful",
-		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
-		"translation": "Belasting overmeesterd",
-		"machine": true
-	},
-	{
-		"phrase": "s",
-		"context": "Seconds",
-		"comment": "[Unit] [Abbreviation] Abbreviation for seconds, e.g. 'Respawn in 13s'",
-		"translation": "s",
-		"machine": true
-	},
-	{
-		"phrase": "Proton boost active",
-		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
-		"translation": "Protonboost actief",
-		"machine": true
-	},
-	{
-		"phrase": "No Proton boost active",
-		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
-		"translation": "Geen protonboost actief",
-		"machine": true
-	},
-	{
-		"phrase": "XP boost active",
-		"comment": "[Respawn] This text shows when you have a XP boost active",
-		"translation": "XP-boost actief",
-		"machine": true
-	},
-	{
-		"phrase": "No XP boost active",
-		"comment": "[Respawn] This text shows when you do not have a XP boost active",
-		"translation": "Geen XP-boost actief",
-		"machine": true
-	},
-	{
 		"phrase": "Add Friend",
 		"comment": "Add this player as a friend on Steam",
 		"translation": "Vriend toevoegen",
@@ -2679,7 +1983,7 @@
 	},
 	{
 		"phrase": "Spectators",
-		"comment": "Someone who is watching a battle",
+		"comment": "2 Spectators, i.e. people who are watching a battle",
 		"translation": "Toeschouwers",
 		"machine": true
 	},
@@ -2690,24 +1994,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Notification",
-		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
-		"translation": "Kennisgeving",
-		"machine": true
-	},
-	{
-		"phrase": "Notifications",
-		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
-		"translation": "Meldingen",
-		"machine": true
-	},
-	{
-		"phrase": "Party",
-		"comment": "[Social Sidebar] Party labe. The full phrase is 'Party: 2 \/ 4'",
-		"translation": "Partij",
-		"machine": true
-	},
-	{
 		"phrase": "Online",
 		"comment": "[Social Sidebar] Placeholder friend status",
 		"translation": "Online",
@@ -2715,7 +2001,7 @@
 	},
 	{
 		"phrase": "Token",
-		"comment": "1 Token, i.e. a token\/coin that can be used to unlock something",
+		"comment": "1 Token, i.e. a token\/coin that can be used to unlock a character or weapon skin",
 		"translation": "token",
 		"machine": true
 	},
@@ -2741,18 +2027,6 @@
 		"phrase": "Trials list",
 		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
 		"translation": "Proeflijst",
-		"machine": true
-	},
-	{
-		"phrase": "Trial",
-		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
-		"translation": "Proces",
-		"machine": true
-	},
-	{
-		"phrase": "Medals",
-		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
-		"translation": "medailles",
 		"machine": true
 	},
 	{
@@ -2887,14 +2161,8 @@
 	},
 	{
 		"phrase": "Characters",
-		"comment": "Human and Agaman player-controlled characters",
+		"comment": "2 Characters",
 		"translation": "karakters",
-		"machine": true
-	},
-	{
-		"phrase": "Character Skins",
-		"comment": "[Transaction Log] Category title",
-		"translation": "Karakter skins",
 		"machine": true
 	},
 	{
@@ -3066,12 +2334,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Failed to invite",
-		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": "Kan niet uitnodigen",
-		"machine": true
-	},
-	{
 		"phrase": "Failed to join the party",
 		"comment": "Notification that you failed to join the party",
 		"translation": "Kan niet deelnemen aan het feest",
@@ -3103,7 +2365,7 @@
 	},
 	{
 		"phrase": "Canister",
-		"comment": "The section of the Midi tool that stores matter",
+		"comment": "1 Canister, i.e. 'You detonated 3 Soltrium Canisters'",
 		"translation": "busje",
 		"machine": true
 	},
@@ -3144,51 +2406,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Invite to Party",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Uitnodigen voor het feestje",
-		"machine": true
-	},
-	{
-		"phrase": "Remove from Party",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Verwijderen van feest",
-		"machine": true
-	},
-	{
-		"phrase": "Join Match",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Deelnemen aan wedstrijd",
-		"machine": true
-	},
-	{
-		"phrase": "Invite to Match",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Uitnodigen om te matchen",
-		"machine": true
-	},
-	{
 		"phrase": "View Profile",
 		"comment": "View this player's Steam profile",
 		"translation": "Bekijk profiel",
-		"machine": true
-	},
-	{
-		"phrase": "Message",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Bericht",
-		"machine": true
-	},
-	{
-		"phrase": "Match invitation sent to",
-		"comment": "[Social Sidebar] The full phrase is: 'Match invitation sent to Peygahreaux'",
-		"translation": "Match-uitnodiging verzonden naar",
-		"machine": true
-	},
-	{
-		"phrase": "To the match",
-		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": "Naar de wedstrijd",
 		"machine": true
 	},
 	{
@@ -3198,63 +2418,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Slots left",
-		"comment": "[Party Invite] The full phrase is: '1\/4 Slots left'",
-		"translation": "Slots over",
-		"machine": true
-	},
-	{
 		"phrase": "Click to join",
 		"comment": "The next map has loaded and the player can now join the next match",
 		"translation": "Klik om mee te doen",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon",
-		"comment": "A gun you can shoot at enemies",
-		"translation": "Wapen",
-		"machine": true
-	},
-	{
-		"phrase": "Area",
-		"comment": "[Custom Maps] This refers to an area that a canister can spawn in during Salvage, i.e. 'Area 3'",
-		"translation": "Gebied",
-		"machine": true
-	},
-	{
-		"phrase": "Zone",
-		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Zone B'",
-		"translation": "Zone",
-		"machine": true
-	},
-	{
-		"phrase": "Breakthrough Zone",
-		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Breakthrough Zone D'",
-		"translation": "Doorbraakzone",
-		"machine": true
-	},
-	{
-		"phrase": "Flag",
-		"comment": "[Custom Maps] This refers to the flag you carry in Capture the Flag",
-		"translation": "Vlag",
-		"machine": true
-	},
-	{
-		"phrase": "Bomb",
-		"comment": "[Custom Maps] This refers to the bomb you carry in Escort",
-		"translation": "Bom",
-		"machine": true
-	},
-	{
-		"phrase": "HH",
-		"comment": "[Custom Maps] [Abbreviation] The initials of 'Head Hunter'",
-		"translation": "HH",
-		"machine": true
-	},
-	{
-		"phrase": "FFA Spawn",
-		"comment": "[Custom Maps] This refers to an area that you can respawn in during a FFA match",
-		"translation": "FFA-spawn",
 		"machine": true
 	},
 	{
@@ -3264,147 +2430,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Has picked up the enemy bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
-		"translation": "Heeft de vijandelijke bom opgepikt",
-		"machine": true
-	},
-	{
-		"phrase": "Has picked up our bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up our bomb'",
-		"translation": "Heeft onze bom opgepikt",
-		"machine": true
-	},
-	{
-		"phrase": "You have picked up the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Je hebt de vijandelijke vlag opgepikt",
-		"machine": true
-	},
-	{
-		"phrase": "You have picked up our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Je hebt onze bom opgepikt",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy flag carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "De vijandelijke vlaggendrager is gedood",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy bomb carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "De vijandelijke bommendrager is gedood",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy has dropped our flag",
-		"comment": "[Announcement]'",
-		"translation": "De vijand heeft onze vlag laten vallen",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy has dropped their bomb",
-		"comment": "[Announcement]'",
-		"translation": "De vijand heeft zijn bom laten vallen",
-		"machine": true
-	},
-	{
-		"phrase": "Our flag carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Onze nationale luchtvaartmaatschappij is vermoord",
-		"machine": true
-	},
-	{
-		"phrase": "Our bomb carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Onze bommendrager is gesneuveld",
-		"machine": true
-	},
-	{
-		"phrase": "You have dropped the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Je hebt de vijandelijke vlag laten vallen",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Heeft de vijandelijke vlag laten vallen",
-		"machine": true
-	},
-	{
-		"phrase": "Has captured our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured our flag'",
-		"translation": "Heeft onze vlag veroverd",
-		"machine": true
-	},
-	{
-		"phrase": "Has delivered their bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "Heeft hun bom afgeleverd",
-		"machine": true
-	},
-	{
-		"phrase": "Has captured the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured the enemy flag'",
-		"translation": "Heeft de vijandelijke vlag veroverd",
-		"machine": true
-	},
-	{
-		"phrase": "Has delivered our bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "Heeft onze bom afgeleverd",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Eeuwige modus ingeschakeld",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Eeuwige modus uitgeschakeld",
-		"machine": true
-	},
-	{
-		"phrase": "Sandbox mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Sandbox-modus ingeschakeld",
-		"machine": true
-	},
-	{
-		"phrase": "Sandbox mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Sandbox-modus uitgeschakeld",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Trailermodus ingeschakeld",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Trailermodus uitgeschakeld",
-		"machine": true
-	},
-	{
 		"phrase": "Admin",
 		"comment": "Administrator abbreviation",
 		"translation": "beheerder",
-		"machine": true
-	},
-	{
-		"phrase": "Movement Speed",
-		"comment": "Spectator control",
-		"translation": "Bewegingssnelheid",
 		"machine": true
 	},
 	{
@@ -3530,13 +2558,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Toggle Killfeed",
-		"context": "Toggle Kill Feed",
-		"comment": "Spectator control",
-		"translation": "Schakel killfeed in",
-		"machine": true
-	},
-	{
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
 		"translation": "Hulp in-\/uitschakelen",
@@ -3574,7 +2595,7 @@
 	},
 	{
 		"phrase": "Team",
-		"comment": "All the players on your team",
+		"comment": "1 Team, i.e. a group of players who fight against another group of players",
 		"translation": "Team",
 		"machine": true
 	},
@@ -3687,18 +2708,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Attachment Point",
-		"comment": "[Career Path] [Unit] i.e. '1 Attachment Point'",
-		"translation": "Aangrijpingspunt",
-		"machine": true
-	},
-	{
-		"phrase": "Attachment Points",
-		"comment": "[Career Path] [Unit] [Plural] i.e. '2 Attachment Points'",
-		"translation": "Bevestigingspunten",
-		"machine": true
-	},
-	{
 		"phrase": "Boost",
 		"comment": "1 Boost, i.e. an item a player can use to increase their Proton and XP gain for the next hour",
 		"translation": "Boost",
@@ -3708,60 +2717,6 @@
 		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
 		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
 		"translation": "[Instellingen > prestaties > geanimeerde blokskins] moeten zijn ingeschakeld om geanimeerde blokskins correct weer te geven",
-		"machine": true
-	},
-	{
-		"phrase": "First team to win {0} rounds",
-		"comment": "[Gamemode Info] [Win requirement] [Arena] Parameter 0: '5'",
-		"translation": "Eerste team dat {0}-rondes wint",
-		"machine": true
-	},
-	{
-		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
-		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
-		"translation": "Soltrium is verspreid over de buitenste sector. verschillende {0}- en {1}-bataljons zijn uitgezonden om de kostbare hulpbron te zoeken en te verzamelen.",
-		"machine": true
-	},
-	{
-		"phrase": "The first team to {0} points wins",
-		"comment": "[Gamemode Info] [Win Requirement] [Salvage] Parameter 0: '500'",
-		"translation": "Het eerste team met {0} punten wint",
-		"machine": true
-	},
-	{
-		"phrase": "Capture all zones to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Breakthrough]",
-		"translation": "Leg alle zones vast om te winnen",
-		"machine": true
-	},
-	{
-		"phrase": "Deliver the flag {0} times to win",
-		"comment": "[Gamemode Info] [Win requirement] [Escort] Parameter 0: '3'",
-		"translation": "Lever de vlag {0} keer om te winnen",
-		"machine": true
-	},
-	{
-		"phrase": "Deliver the bomb {0} times to win",
-		"comment": "[Gamemode Info] [Win requirement] [CTF] Parameter 0: '3'",
-		"translation": "Lever de bom {0} keer om te winnen",
-		"machine": true
-	},
-	{
-		"phrase": "Pick up {0} from enemy corpses",
-		"comment": "[Gamemode Info] [Description] [Head Hunter] Parameter 0: 'Soltrium'",
-		"translation": "Pak {0} op van vijandelijke lijken",
-		"machine": true
-	},
-	{
-		"phrase": "Before uploading maps to the {0}, you must agree to the",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
-		"translation": "Voordat u kaarten naar de {0} uploadt, moet u akkoord gaan met de",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Terms of Service",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
-		"translation": "{0} Servicevoorwaarden",
 		"machine": true
 	},
 	{
@@ -3786,30 +2741,6 @@
 		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
 		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
 		"translation": "Dit regelt de schaal van alle UI en in-game HUD. druk op {0} om het terug te zetten naar 100%",
-		"machine": true
-	},
-	{
-		"phrase": "Has stolen our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen our flag'",
-		"translation": "Heeft onze vlag gestolen",
-		"machine": true
-	},
-	{
-		"phrase": "Has stolen the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen the enemy flag'",
-		"translation": "Heeft de vijandelijke vlag gestolen",
-		"machine": true
-	},
-	{
-		"phrase": "You have dropped our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Je hebt onze bom laten vallen",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Heeft onze bom laten vallen",
 		"machine": true
 	},
 	{
@@ -3961,18 +2892,6 @@
 		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
 		"comment": "[Admin chat message] Parameter 0: '10'",
 		"translation": "Kan niet van team wisselen terwijl de kaart wordt hersteld. probeer het opnieuw in {0} seconden",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has been kicked ({1} - {2})",
-		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
-		"translation": "{0} is getrapt ({1} - {2})",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has not been kicked ({1} - {2})",
-		"comment": "[Admin chat message] Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
-		"translation": "{0} is niet getrapt ({1} - {2})",
 		"machine": true
 	},
 	{
@@ -4465,6 +3384,7 @@
 	},
 	{
 		"phrase": "Meteors have been detected",
+		"comment": "Incoming meteors have been detected and will soon crash into the planet",
 		"translation": "Er zijn meteoren gedetecteerd",
 		"machine": true
 	},
@@ -4638,7 +3558,7 @@
 	},
 	{
 		"phrase": "Unlock error: {0}",
-		"comment": "This error shows when failing to unlock a weapon skin. Parameter 1: 'Not enough Protons'",
+		"comment": "This error shows when failing to unlock a weapon skin. Parameter 0: 'Not enough Protons'",
 		"translation": "Ontgrendelingsfout: {0}",
 		"machine": true
 	},
@@ -4740,37 +3660,37 @@
 	},
 	{
 		"phrase": "{0} has joined the party",
-		"comment": "Notification that a new member has joined the party. Parameter 0: 'Bouphen'",
+		"comment": "Notification that a new member has joined the party\/group of players. Parameter 0: 'Bouphen'",
 		"translation": "{0} is van de partij",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has left the party",
-		"comment": "Notification that a member has left the party. Parameter 0: 'Zero'",
+		"comment": "Notification that a member has left the party\/group of players. Parameter 0: 'ZeroHour'",
 		"translation": "{0} heeft het feest verlaten",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has disconnected and left the party",
-		"comment": "Notification that a member has disconnected and left the party. Parameter 0: 'Dirt Master'",
+		"comment": "Notification that a member has disconnected and left the party\/group of players. Parameter 0: 'Dirt Master'",
 		"translation": "{0} heeft de verbinding verbroken en het feest verlaten",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has been kicked from the party",
-		"comment": "Notification that a member has been kicked from the party. Parameter 0: 'Vhauss'",
+		"comment": "Notification that another member has been kicked from a party\/group of players. Parameter 0: 'Vhauss'",
 		"translation": "{0} is van het feest getrapt",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has been banned from the party",
-		"comment": "Notification that a member has been banned from the party. Parameter 0: 'Definitely Vhauss'",
+		"comment": "Notification that another member has been banned from the party\/group of players. Parameter 0: 'Definitely Vhauss'",
 		"translation": "{0} is verbannen van het feest",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has invited you to their match",
-		"comment": "[Social Sidebar] This notification shows when a friend invites you to join their match. Parameter 0: 'Peygahreaux'",
+		"comment": "Notification that a friend invited you to join their match. Parameter 0: 'Peygahreaux'",
 		"translation": "{0} heeft je uitgenodigd voor hun wedstrijd",
 		"machine": true
 	},
@@ -4800,7 +3720,7 @@
 	},
 	{
 		"phrase": "You have been kicked from the party",
-		"comment": "Notification that you have been kicked from a party",
+		"comment": "Notification that you have been kicked from a party\/group of players",
 		"translation": "Je bent van het feest getrapt",
 		"machine": true
 	},
@@ -4848,7 +3768,7 @@
 	},
 	{
 		"phrase": "{0} {1}",
-		"comment": "This is for a quantity of something, .e.g '5 protons'. Parameter 0: any number, Parameter 1: any item",
+		"comment": "This is for a quantity of something, e.g. '5 Protons' or '1 Character token'. Parameter 0: any number, Parameter 1: any item",
 		"translation": "{0} {1}",
 		"machine": true
 	},
@@ -4884,31 +3804,31 @@
 	},
 	{
 		"phrase": "Unlock character",
-		"comment": "Checkout window title when unlocking a character",
+		"comment": "Click this button to unlock a humanoid character",
 		"translation": "Ontgrendel karakter",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock skin",
-		"comment": "Click this button to unlock a weapon skin",
+		"comment": "Click this button to unlock a skin for a weapon or character",
 		"translation": "Ontgrendel de huid",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock helmet",
-		"comment": "Checkout window title when unlocking a character helmet",
+		"comment": "Click this button to unlock a new helmet for your character",
 		"translation": "Helm ontgrendelen",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock melee",
-		"comment": "Checkout window title when unlocking a character melee",
+		"comment": "Click this button to unlock a knife or stabbing weapon",
 		"translation": "Ontgrendel melee",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock pose",
-		"comment": "Checkout window title when unlocking a character pose",
+		"comment": "Click this button to unlock a character pose",
 		"translation": "Ontgrendel pose",
 		"machine": true
 	},
@@ -5034,13 +3954,13 @@
 	},
 	{
 		"phrase": "Unlock sight",
-		"comment": "Click this button to unlock a weapon sight",
+		"comment": "Click this button to unlock a sight\/scope for your weapon",
 		"translation": "Zicht ontgrendelen",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock crosshair",
-		"comment": "Click this button to unlock a crosshair",
+		"comment": "Click this button to unlock a crosshair for your weapon sights",
 		"translation": "Kruisdraad ontgrendelen",
 		"machine": true
 	},
@@ -5167,7 +4087,7 @@
 	},
 	{
 		"phrase": "Visible",
-		"comment": "Checkbox setting, i.e. 'The ammo HUD is visible'",
+		"comment": "Something can be seen, i.e. 'The ammo HUD is visible'",
 		"translation": "Zichtbaar",
 		"machine": true
 	},
@@ -5425,13 +4345,13 @@
 	},
 	{
 		"phrase": "Teams",
-		"comment": "Two teams that fight against each other",
+		"comment": "2 Teams",
 		"translation": "teams",
 		"machine": true
 	},
 	{
 		"phrase": "Commands",
-		"comment": "Commands that a player can run",
+		"comment": "2 Commands",
 		"translation": "Commando's",
 		"machine": true
 	},
@@ -5457,13 +4377,6 @@
 		"phrase": "Crosshair Style",
 		"comment": "[Setting] Crosshair style, either circle, square or cross",
 		"translation": "Crosshair-stijl",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Voxels",
-		"comment": "The Sector's Edge worlds are composed of blocks\/voxels",
-		"translation": "Blok",
 		"machine": true
 	},
 	{
@@ -5559,7 +4472,7 @@
 	},
 	{
 		"phrase": "Friends",
-		"comment": "All of my friends",
+		"comment": "2 Friends",
 		"translation": "Vrienden",
 		"machine": true
 	},
@@ -5573,24 +4486,6 @@
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "Boosts",
-		"machine": true
-	},
-	{
-		"phrase": "Use Allegiance Colour",
-		"comment": "[Customisation] Use the colour of your selected allegiance",
-		"translation": "Trouwkleur gebruiken",
-		"machine": true
-	},
-	{
-		"phrase": "White Labels",
-		"comment": "Controls whether the text labels on the screen is white or black\"",
-		"translation": "Witte etiketten",
-		"machine": true
-	},
-	{
-		"phrase": "Background Colour",
-		"comment": "The colour of the background",
-		"translation": "Achtergrond kleur",
 		"machine": true
 	},
 	{
@@ -6493,12 +5388,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Voice",
-		"comment": "Voice settings, i.e. push to talk, mute enemies when dead",
-		"translation": "Stem",
-		"machine": true
-	},
-	{
 		"phrase": "Push to talk",
 		"comment": "[Setting] If enabled, the player only broadcasts their voice chat when pressing a specific key",
 		"translation": "Duwen om te praten",
@@ -6740,7 +5629,7 @@
 	},
 	{
 		"phrase": "User interface",
-		"comment": "[Settings Tab] User interface settings",
+		"comment": "UI elements on the screen, buttons, checkboxes, sliders, headers, text, etc",
 		"translation": "Gebruikersomgeving",
 		"machine": true
 	},
@@ -6992,7 +5881,7 @@
 	},
 	{
 		"phrase": "Background colour",
-		"comment": "",
+		"comment": "The colour of the background",
 		"translation": "Achtergrond kleur",
 		"machine": true
 	},
@@ -7161,7 +6050,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"comment": "Heads-up-display, e.g. in-game UI like ammo, health, killfeed, minimap, chat",
+		"comment": "Heads-up-display, i.e. in-game UI like ammo, health, killfeed, minimap, chat",
 		"translation": "HUD",
 		"machine": true
 	},
@@ -7917,13 +6806,13 @@
 	},
 	{
 		"phrase": "Friendlies",
-		"comment": "An enemy of Helix is my friend",
+		"comment": "2 Friendlies",
 		"translation": "Vriendschappelijk",
 		"machine": true
 	},
 	{
 		"phrase": "Enemies",
-		"comment": "An ally of Helix is my enemy",
+		"comment": "2 Enemies",
 		"translation": "vijanden",
 		"machine": true
 	},
@@ -8069,7 +6958,7 @@
 	},
 	{
 		"phrase": "This map does not support the game mode {0}",
-		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Deze kaart ondersteunt de spelmodus {0}. niet",
 		"machine": true
 	},
@@ -8329,7 +7218,7 @@
 	},
 	{
 		"phrase": "Block",
-		"comment": "1 Block, i.e. 1 cube",
+		"comment": "1 Block, i.e. 1 cube. The Sector's Edge worlds are composed of blocks\/cubes\/voxels",
 		"translation": "Blok",
 		"machine": true
 	},
@@ -8785,12 +7674,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Statistics Colour",
-		"comment": "The colour of player statistics",
-		"translation": "Statistieken kleur",
-		"machine": true
-	},
-	{
 		"phrase": "Select your active Allegiance",
 		"comment": "This text shows above the list of Allegiances that the player can choose to join",
 		"translation": "Selecteer uw actieve loyaliteit",
@@ -8818,12 +7701,6 @@
 		"phrase": "Mod Levels",
 		"comment": "An armour mod can either be level 1 or level 2, where level 2 has better parks. This text is a heading for all the mod levels, i.e. 'Mod Levels: Scavenger 0, Scavenger 1'",
 		"translation": "Mod-niveaus",
-		"machine": true
-	},
-	{
-		"phrase": "Grip",
-		"comment": "",
-		"translation": "greep",
 		"machine": true
 	},
 	{
@@ -9092,8 +7969,382 @@
 	},
 	{
 		"phrase": "Enemy",
-		"comment": "1 Enemy",
+		"comment": "1 Enemy, i.e. a player who is on the other team",
 		"translation": "Vijand",
+		"machine": true
+	},
+	{
+		"phrase": "Your team captured a zone",
+		"comment": "Your team captured a zone in the Breakthrough gamemode",
+		"translation": "Je team heeft een zone veroverd",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy captured a zone",
+		"comment": "The enemy team captured a zone in the Breakthrough gamemode",
+		"translation": "De vijand veroverde een zone",
+		"machine": true
+	},
+	{
+		"phrase": "Restoration started. Weapon use and respawning disabled",
+		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration starts (it takes a few seconds to finish)",
+		"translation": "Restauratie begonnen. wapengebruik en respawnen uitgeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Restoration finished. Respawning and weapon use allowed",
+		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration finishes and players can continue shooting each other",
+		"translation": "Restauratie voltooid. respawnen en wapengebruik toegestaan",
+		"machine": true
+	},
+	{
+		"phrase": "Our team defused the enemy bomb",
+		"comment": "Your team defused the enemy bomb in the Escort gamemode",
+		"translation": "Ons team heeft de vijandelijke bom onschadelijk gemaakt",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy defused our bomb",
+		"comment": "The enemy team defused our bomb in the Escort gamemode",
+		"translation": "De vijand heeft onze bom onschadelijk gemaakt",
+		"machine": true
+	},
+	{
+		"phrase": "Our team returned our flag",
+		"comment": "Our team returned our flag back to our base in the Capture the Flag gamemode",
+		"translation": "Ons team heeft onze vlag teruggegeven",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy returned their flag",
+		"comment": "The enemy team returned their flag back to their base in the Capture the Flag gamemode",
+		"translation": "De vijand keerde hun vlag terug",
+		"machine": true
+	},
+	{
+		"phrase": "You picked up our bomb",
+		"comment": "You picked up your team's bomb in the Escort gamemode",
+		"translation": "Je pakte onze bom op",
+		"machine": true
+	},
+	{
+		"phrase": "You picked up the enemy flag",
+		"comment": "You stole the enemies flag from their base",
+		"translation": "Je pakte de vijandelijke vlag",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy flag carrier has died",
+		"comment": "The enemy that was carrying our flag has been killed",
+		"translation": "De vijandelijke vlaggendrager is overleden",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy bomb carrier has died",
+		"comment": "The enemy that was carrying their bomb has been killed",
+		"translation": "De vijandelijke bommendrager is overleden",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy dropped our flag",
+		"comment": "The enemy that was carrying our flag dropped the flag on the ground",
+		"translation": "De vijand liet onze vlag vallen",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy dropped their bomb",
+		"comment": "The enemy that was carrying their bomb dropped the bomb on the ground",
+		"translation": "De vijand liet zijn bom vallen",
+		"machine": true
+	},
+	{
+		"phrase": "Our flag carrier has died",
+		"comment": "The teammate that was carrying the enemies flag has been killed",
+		"translation": "Onze nationale luchtvaartmaatschappij is overleden",
+		"machine": true
+	},
+	{
+		"phrase": "Our bomb carrier has died",
+		"comment": "The teammate that was carrying our bomb has been killed",
+		"translation": "Onze bommendrager is overleden",
+		"machine": true
+	},
+	{
+		"phrase": "You dropped the enemy flag",
+		"comment": "You dropped the enemies flag on the ground",
+		"translation": "Je hebt de vijandelijke vlag laten vallen",
+		"machine": true
+	},
+	{
+		"phrase": "You dropped our bomb",
+		"comment": "You dropped our bomb on the ground",
+		"translation": "Je hebt onze bom laten vallen",
+		"machine": true
+	},
+	{
+		"phrase": "You can no longer modify your structures.",
+		"comment": "When players place inappropriate structures in game, a moderator can remove their ability to modify their structures. This text appears when they attempt to modify their structures",
+		"translation": "U kunt uw structuren niet meer wijzigen.",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Sandbox-modus {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Aanhangermodus {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Eeuwige modus {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} stole our flag",
+		"comment": "An enemy has stolen our flag. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} heeft onze vlag gestolen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} picked up the enemy bomb",
+		"comment": "An enemy has picked up their bomb. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} pakte de vijandelijke bom op",
+		"machine": true
+	},
+	{
+		"phrase": "{0} stole the enemy flag",
+		"comment": "A friendly stole the enemy flag. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} stal de vijandelijke vlag",
+		"machine": true
+	},
+	{
+		"phrase": "{0} picked up our bomb",
+		"comment": "An friendly has picked up our bomb. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} pakte onze bom op",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now spectating",
+		"comment": "A player left the battle and is now spectating. Parameter 0: 'Vhauss'",
+		"translation": "{0} kijkt nu toe",
+		"machine": true
+	},
+	{
+		"phrase": "{0} left the planet",
+		"comment": "A player got in their spaceship and departed the planet. Parameter 0: 'Tilitaliboss'",
+		"translation": "{0} verliet de planeet",
+		"machine": true
+	},
+	{
+		"phrase": "{0} joined the chaos",
+		"comment": "A player has arrived in a chaotic battlefield. Parameter 0: 'Potato'",
+		"translation": "{0} voegde zich bij de chaos",
+		"machine": true
+	},
+	{
+		"phrase": "{0} just landed",
+		"comment": "A player has just landed in their spaceship. Parameter 0: 'nemelex'",
+		"translation": "{0} is net geland",
+		"machine": true
+	},
+	{
+		"phrase": "{0} arrived for battle",
+		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'DemmyBane'",
+		"translation": "{0} arriveerde voor de strijd",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is ready to fight",
+		"comment": "A player arrived at the frontlines and is ready to fight. Parameter 0: 'Spotter654'",
+		"translation": "{0} is klaar om te vechten",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is ready for battle",
+		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'Billium'",
+		"translation": "{0} is klaar voor de strijd",
+		"machine": true
+	},
+	{
+		"phrase": "{0} will never give you up",
+		"comment": "Rick Astley has joined the battle and won't give you up. Parameter 0: 'Realkill_1111'",
+		"translation": "{0} zal je nooit opgeven",
+		"machine": true
+	},
+	{
+		"phrase": "{0} will never let you down",
+		"comment": "Rick Astley has joined the battle and won't let you down. Parameter 0: 'Blade'",
+		"translation": "{0} zal je nooit teleurstellen",
+		"machine": true
+	},
+	{
+		"phrase": "Arena X-Ray activated - all players are now visible!",
+		"comment": "If an Arena round lasts too long, X-Ray vision is activated and players can see each other through walls",
+		"translation": "Arena x-ray geactiveerd - alle spelers zijn nu zichtbaar!",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has dropped the enemy flag",
+		"comment": "A friendly has dropped the enemy flag on the ground. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} heeft de vijandelijke vlag laten vallen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has dropped our bomb",
+		"comment": "A friendly has dropped our bomb on the ground. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} heeft onze bom laten vallen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has captured our flag",
+		"comment": "An enemy has stolen our flag and captured it in their base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} heeft onze vlag veroverd",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has delivered their bomb",
+		"comment": "An enemy has placed their bomb in our base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} heeft hun bom afgeleverd",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has captured the enemy flag",
+		"comment": "A friendly has stolen the enemy flag and captured it in our base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} heeft de vijandelijke vlag veroverd",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has delivered our bomb",
+		"comment": "A friendly has placed our bomb in the enemy base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} heeft onze bom afgeleverd",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is on a {1} kill streak",
+		"comment": "A player is on a killstreak. Parameter 0: 'zepofan', Parameter 1: '35'",
+		"translation": "{0} heeft een {1} kill streak",
+		"machine": true
+	},
+	{
+		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
+		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Enemies'",
+		"translation": "Golf {0} voltooid. volgende golf in {1} {2}...",
+		"machine": true
+	},
+	{
+		"phrase": "Wave {0} begins. {1} {2} approach.",
+		"comment": "The next wave\/group of enemies. The next wave is imminent. Parameter 0: '6', Parameter 1: '40', Parameter 2: 'Enemies'",
+		"translation": "Golf {0} begint. {1} {2} nadering.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has ended {1}'s killstreak at {2} {3}",
+		"comment": "A player with a killstreak has died. Parameter 0: 'deWolf', Parameter 1: 'zepofan', Parameter 2: '40', Parameter 3: 'Kills'",
+		"translation": "{0} heeft de killstreak van {1} beëindigd bij {2} {3}",
+		"machine": true
+	},
+	{
+		"phrase": "Mouse wheel down",
+		"comment": "Keybind that fires when scrolling the mouse wheel down",
+		"translation": "Muiswiel omlaag",
+		"machine": true
+	},
+	{
+		"phrase": "Automatic",
+		"context": "Automatic Fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
+		"translation": "automatisch",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been votekicked ({1} - {2})",
+		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
+		"translation": "{0} is gestemd ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been votekicked ({1} - {2})",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
+		"translation": "{0} is niet gestemd ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Store",
+		"comment": "Save your changes to disk",
+		"translation": "Opslaan",
+		"machine": true
+	},
+	{
+		"phrase": "Starting in {0} {1}",
+		"comment": "This text shows at the start of a FFA match. Parameter 0: '10', Parameter 1: 'seconds'",
+		"translation": "Beginnend in {0} {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment point",
+		"comment": "1 Attachment point, which is used to unlock an attachment on a weapon",
+		"translation": "Aangrijpingspunt",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment points",
+		"comment": "2 Attachment points, which are used to unlock attachments on a weapon",
+		"translation": "Bevestigingspunten",
+		"machine": true
+	},
+	{
+		"phrase": "Spectator",
+		"comment": "1 Spectator, i.e. someone who is watching a battle",
+		"translation": "Toeschouwer",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly",
+		"comment": "1 Friendly, i.e. a player who is on your team",
+		"translation": "Vriendelijk",
+		"machine": true
+	},
+	{
+		"phrase": "Point",
+		"comment": "1 Point. Players earn points when dealing damage, killing enemies, capturing objectives, etc",
+		"translation": "Punt",
+		"machine": true
+	},
+	{
+		"phrase": "Voice",
+		"comment": "Voice chat, where players speak with their voices",
+		"translation": "Stem",
+		"machine": true
+	},
+	{
+		"phrase": "Command",
+		"comment": "1 Command, i.e. a chat command that a player can run to perform an action, e.g. kicking a player",
+		"translation": "Opdracht",
+		"machine": true
+	},
+	{
+		"phrase": "Use allegiance colour",
+		"comment": "[Customisation] Use the colour of your selected allegiance",
+		"translation": "Trouwkleur gebruiken",
+		"machine": true
+	},
+	{
+		"phrase": "White labels",
+		"comment": "Controls whether the text labels on the screen is white or black\"",
+		"translation": "Witte etiketten",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics colour",
+		"comment": "The colour of player statistics",
+		"translation": "Statistieken kleur",
 		"machine": true
 	}
 ]
