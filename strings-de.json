@@ -2226,12 +2226,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "s",
-		"comment": "[Unit Prefix] Seconds",
-		"translation": "S",
-		"machine": true
-	},
-	{
 		"phrase": "Health",
 		"comment": "How much health the player has",
 		"translation": "Die Gesundheit",
@@ -2559,13 +2553,13 @@
 	},
 	{
 		"phrase": "Loading textures",
-		"comment": "The game is loading textures",
+		"comment": "The game is loading textures\/bitmaps\/images from disk",
 		"translation": "Texturen laden",
 		"machine": true
 	},
 	{
 		"phrase": "Loading models",
-		"comment": "The game is loading 3D models",
+		"comment": "The game is loading 3D models from disk",
 		"translation": "Laden von Modellen",
 		"machine": true
 	},
@@ -3330,7 +3324,7 @@
 	},
 	{
 		"phrase": "Distance must be between {0} and {1}",
-		"comment": "Error message",
+		"comment": "Error message when setting the camera distance. Parameter 0: '0.5', Parameter 1: '800'",
 		"translation": "Der Abstand muss zwischen {0} und {1} liegen",
 		"machine": true
 	},
@@ -4051,37 +4045,37 @@
 	},
 	{
 		"phrase": "{0} started a votekick against {1} for the reason: '{2}'",
-		"comment": "Votekick description. Parameter 0: 'Vhauss', parameter 1: 'Bouphen', parameter 2: 'Jealousy'",
+		"comment": "Description for why player A is choosing to votekick player B. Parameter 0: 'Vhauss', parameter 1: 'Bouphen', parameter 2: 'I am jealous of him'",
 		"translation": "{0} startete einen Votekick gegen {1} aus dem Grund: „{2}'",
 		"machine": true
 	},
 	{
 		"phrase": "{0} yes votes",
-		"comment": "Votekick results. Parameter 0: '3'",
+		"comment": "There are 8 yes votes for kicking this player, i.e. 8 players have voted to kick this player. Parameter 0: '8'",
 		"translation": "{0} Ja-Stimmen",
 		"machine": true
 	},
 	{
 		"phrase": "{0} no votes",
-		"comment": "Votekick results. Parameter 0: '5'",
+		"comment": "There are 3 no votes for kicking this player, i.e. 3 players have voted to not kick this player. Parameter 0: '3'",
 		"translation": "{0} keine Stimmen",
 		"machine": true
 	},
 	{
 		"phrase": "Vote yes: {0}",
-		"comment": "Votekick instructions. Parameter 0: 'F1'",
+		"comment": "Keybind for voting to kick a player. Parameter 0: '[ F1 ]'",
 		"translation": "Stimme ja: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Vote no: {0}",
-		"comment": "Votekick instructions. Parameter 0: 'F2'",
+		"comment": "Keybind for voting to not kick a player. Parameter 0: '[ F2 ]'",
 		"translation": "Stimme nein: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Ignore: {0}",
-		"comment": "Votekick instructions. Parameter 0: 'F3'",
+		"comment": "Keybind for ignoring a votekick. Parameter 0: '[ F3 ]'",
 		"translation": "Ignorieren: {0}",
 		"machine": true
 	},
@@ -4134,21 +4128,9 @@
 		"machine": true
 	},
 	{
-		"phrase": " bps",
-		"comment": "[Unit Prefix] Blocks-per-second",
-		"translation": " bps",
-		"machine": true
-	},
-	{
 		"phrase": "Projectile spread",
 		"comment": "How much the projectile deviates from where the player is aiming",
 		"translation": "Projektil verbreitet",
-		"machine": true
-	},
-	{
-		"phrase": "°",
-		"comment": "[Unit Prefix] Angle",
-		"translation": "°",
 		"machine": true
 	},
 	{
@@ -8303,6 +8285,24 @@
 		"phrase": "Statistics colour",
 		"comment": "The colour of player statistics",
 		"translation": "Statistikfarbe",
+		"machine": true
+	},
+	{
+		"phrase": "Click a server to join",
+		"comment": "Prompt telling the player to click any server in the list to join it",
+		"translation": "Klicken Sie auf einen Server, um ihm beizutreten",
+		"machine": true
+	},
+	{
+		"phrase": "Quick play",
+		"comment": "",
+		"translation": "Schnelles Spiel",
+		"machine": true
+	},
+	{
+		"phrase": "Server list",
+		"comment": "",
+		"translation": "Serverliste",
 		"machine": true
 	}
 ]
