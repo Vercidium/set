@@ -1688,7 +1688,7 @@
 	},
 	{
 		"phrase": "Leaderboard",
-		"comment": "[Trial] [Title]",
+		"comment": "A list of all the fastest trial times",
 		"translation": "Sıralamalar"
 	},
 	{
@@ -1751,44 +1751,19 @@
 		"translation": "Ödüller"
 	},
 	{
-		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
-		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Denemelerde inşa ve kazı becerilerinizi geliştirin!\nProton kazanmak ve killcam unvanları elde etmek için her denemeyi belirtilen süre içinde tamamlayın.\n"
-	},
-	{
 		"phrase": "Yellow",
-		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "Sarı"
 	},
 	{
-		"phrase": "Platform to win, avoid touching the",
-		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "platforma ulaşarak kazanın"
-	},
-	{
 		"phrase": "Red",
-		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "kırmızı"
 	},
 	{
-		"phrase": "Blocks and build off the",
-		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "bloklardan uzak durun ve"
-	},
-	{
 		"phrase": "Purple",
-		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "mor bloklar üzerine inşa edin."
-	},
-	{
-		"phrase": "Leaderboards are updated every 30 seconds.",
-		"comment": "[Trials] Leaderboard description",
-		"translation": "Sıralamalar her 30 saniyede bir güncellenir."
-	},
-	{
-		"phrase": "\nLoading personal times and leaderboards",
-		"comment": "[Trials] Text that shows while loading the leaderboard",
-		"translation": "\nKişisel rekorlar ve sıralamalar yükleniyor"
 	},
 	{
 		"phrase": "Supporter",
@@ -7902,14 +7877,56 @@
 	},
 	{
 		"phrase": "Quick play",
-		"comment": "",
+		"comment": "Click this button to join a random low-ping server with players in it",
 		"translation": "Hızlı Oynat",
 		"machine": true
 	},
 	{
 		"phrase": "Server list",
-		"comment": "",
+		"comment": "A list of servers that a player can connect to to play Sector's Edge",
 		"translation": "Sunucu listesi",
+		"machine": true
+	},
+	{
+		"phrase": "Back",
+		"comment": "Go back to the previous screen",
+		"translation": "Geri",
+		"machine": true
+	},
+	{
+		"phrase": "Finished",
+		"comment": "The trial is finished",
+		"translation": "bitmiş",
+		"machine": true
+	},
+	{
+		"phrase": "Instructions",
+		"comment": "",
+		"translation": "Talimatlar",
+		"machine": true
+	},
+	{
+		"phrase": "Complete each trial within the specified time to earn Protons and licence titles",
+		"comment": "",
+		"translation": "Proton ve lisans ünvanları kazanmak için her denemeyi belirtilen süre içinde tamamlayın",
+		"machine": true
+	},
+	{
+		"phrase": "Reach the",
+		"comment": "",
+		"translation": "ulaşmak",
+		"machine": true
+	},
+	{
+		"phrase": "platform to win\nAvoid touching the",
+		"comment": "",
+		"translation": "kazanma platformu\ndokunmaktan kaçının",
+		"machine": true
+	},
+	{
+		"phrase": "blocks\nBuild off the",
+		"comment": "",
+		"translation": "bloklar\ninşa etmek",
 		"machine": true
 	}
 ]

@@ -1862,7 +1862,7 @@
 	},
 	{
 		"phrase": "Leaderboard",
-		"comment": "[Trial] [Title]",
+		"comment": "A list of all the fastest trial times",
 		"translation": "Classement",
 		"machine": true
 	},
@@ -1937,51 +1937,21 @@
 		"machine": true
 	},
 	{
-		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
-		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Pratiquez vos compétences de construction et de creusement dans les essais!\nTerminez chaque essai dans le temps imparti pour gagner des protons et tuer des titres de caméra.\nAtteindre le ",
-		"machine": true
-	},
-	{
 		"phrase": "Yellow",
-		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "Jaune",
 		"machine": true
 	},
 	{
-		"phrase": "Platform to win, avoid touching the",
-		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Plateforme pour gagner, évitez de toucher le",
-		"machine": true
-	},
-	{
 		"phrase": "Red",
-		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "rouge",
 		"machine": true
 	},
 	{
-		"phrase": "Blocks and build off the",
-		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Bloque et construit à partir du",
-		"machine": true
-	},
-	{
 		"phrase": "Purple",
-		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "Mauve",
-		"machine": true
-	},
-	{
-		"phrase": "Leaderboards are updated every 30 seconds.",
-		"comment": "[Trials] Leaderboard description",
-		"translation": "Les classements sont mis à jour toutes les 30 secondes.",
-		"machine": true
-	},
-	{
-		"phrase": "\nLoading personal times and leaderboards",
-		"comment": "[Trials] Text that shows while loading the leaderboard",
-		"translation": "\nChargement des temps personnels et des classements",
 		"machine": true
 	},
 	{
@@ -8174,14 +8144,56 @@
 	},
 	{
 		"phrase": "Quick play",
-		"comment": "",
+		"comment": "Click this button to join a random low-ping server with players in it",
 		"translation": "Jeu rapide",
 		"machine": true
 	},
 	{
 		"phrase": "Server list",
-		"comment": "",
+		"comment": "A list of servers that a player can connect to to play Sector's Edge",
 		"translation": "Liste des serveurs",
+		"machine": true
+	},
+	{
+		"phrase": "Back",
+		"comment": "Go back to the previous screen",
+		"translation": "Retour",
+		"machine": true
+	},
+	{
+		"phrase": "Finished",
+		"comment": "The trial is finished",
+		"translation": "Achevé",
+		"machine": true
+	},
+	{
+		"phrase": "Instructions",
+		"comment": "",
+		"translation": "Des instructions",
+		"machine": true
+	},
+	{
+		"phrase": "Complete each trial within the specified time to earn Protons and licence titles",
+		"comment": "",
+		"translation": "Terminez chaque essai dans le délai imparti pour gagner des protons et des titres de licence",
+		"machine": true
+	},
+	{
+		"phrase": "Reach the",
+		"comment": "",
+		"translation": "Atteindre le",
+		"machine": true
+	},
+	{
+		"phrase": "platform to win\nAvoid touching the",
+		"comment": "",
+		"translation": "plate-forme pour gagner\nEvitez de toucher le",
+		"machine": true
+	},
+	{
+		"phrase": "blocks\nBuild off the",
+		"comment": "",
+		"translation": "blocs\nConstruire à partir de",
 		"machine": true
 	}
 ]

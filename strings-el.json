@@ -2277,7 +2277,7 @@
 	},
 	{
 		"phrase": "Leaderboard",
-		"comment": "[Trial] [Title]",
+		"comment": "A list of all the fastest trial times",
 		"translation": "Leaderboard",
 		"machine": true
 	},
@@ -2352,51 +2352,21 @@
 		"machine": true
 	},
 	{
-		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
-		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Εξασκηθείτε στις δεξιότητες κατασκευής και σκαψίματος στις δοκιμές!\nΟλοκληρώστε κάθε δοκιμή εντός του καθορισμένου χρόνου για να κερδίσετε πρωτόνια και να σκοτώσετε τίτλους κάμερας.\nΦτασε το ",
-		"machine": true
-	},
-	{
 		"phrase": "Yellow",
-		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "Κίτρινος",
 		"machine": true
 	},
 	{
-		"phrase": "Platform to win, avoid touching the",
-		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Πλατφόρμα για να κερδίσετε, αποφύγετε να αγγίξετε το",
-		"machine": true
-	},
-	{
 		"phrase": "Red",
-		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "το κόκκινο",
 		"machine": true
 	},
 	{
-		"phrase": "Blocks and build off the",
-		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Αποκλείει και χτίζει το",
-		"machine": true
-	},
-	{
 		"phrase": "Purple",
-		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "Μωβ",
-		"machine": true
-	},
-	{
-		"phrase": "Leaderboards are updated every 30 seconds.",
-		"comment": "[Trials] Leaderboard description",
-		"translation": "Οι πίνακες κατάταξης ενημερώνονται κάθε 30 δευτερόλεπτα.",
-		"machine": true
-	},
-	{
-		"phrase": "\nLoading personal times and leaderboards",
-		"comment": "[Trials] Text that shows while loading the leaderboard",
-		"translation": "\nΦόρτωση προσωπικών ωρών και βαθμολογιών",
 		"machine": true
 	},
 	{
@@ -8337,14 +8307,56 @@
 	},
 	{
 		"phrase": "Quick play",
-		"comment": "",
+		"comment": "Click this button to join a random low-ping server with players in it",
 		"translation": "Γρήγορο παιχνίδι",
 		"machine": true
 	},
 	{
 		"phrase": "Server list",
-		"comment": "",
+		"comment": "A list of servers that a player can connect to to play Sector's Edge",
 		"translation": "Λίστα διακομιστών",
+		"machine": true
+	},
+	{
+		"phrase": "Back",
+		"comment": "Go back to the previous screen",
+		"translation": "Πίσω",
+		"machine": true
+	},
+	{
+		"phrase": "Finished",
+		"comment": "The trial is finished",
+		"translation": "Πεπερασμένος",
+		"machine": true
+	},
+	{
+		"phrase": "Instructions",
+		"comment": "",
+		"translation": "Οδηγίες",
+		"machine": true
+	},
+	{
+		"phrase": "Complete each trial within the specified time to earn Protons and licence titles",
+		"comment": "",
+		"translation": "Ολοκληρώστε κάθε δοκιμή εντός του καθορισμένου χρόνου για να κερδίσετε πρωτόνια και τίτλους άδειας χρήσης",
+		"machine": true
+	},
+	{
+		"phrase": "Reach the",
+		"comment": "",
+		"translation": "Φτασε το",
+		"machine": true
+	},
+	{
+		"phrase": "platform to win\nAvoid touching the",
+		"comment": "",
+		"translation": "πλατφόρμα για να κερδίσετε\nΑποφύγετε να αγγίξετε το",
+		"machine": true
+	},
+	{
+		"phrase": "blocks\nBuild off the",
+		"comment": "",
+		"translation": "μπλοκ\nΧτίστε από το",
 		"machine": true
 	}
 ]
