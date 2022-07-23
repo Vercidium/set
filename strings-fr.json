@@ -83,12 +83,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Saviour",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Sauveur",
-		"machine": true
-	},
-	{
 		"phrase": "Flag capture",
 		"comment": "To capture a flag you must infiltrate the enemy base, steal their flag and return it to your base. The Flag in this game is a canister containing valuable Soltrium",
 		"translation": "Capture de drapeau",
@@ -152,7 +146,7 @@
 	},
 	{
 		"phrase": "Spot assist",
-		"comment": "If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
+		"comment": "1 Spot assist. If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
 		"translation": "Aide à la localisation"
 	},
 	{
@@ -192,7 +186,7 @@
 	},
 	{
 		"phrase": "Assist",
-		"comment": "If you shoot an enemy once and a friendly kills them, you earn assist points",
+		"comment": "1 Assist. If you shoot an enemy once and a friendly kills them, you earn assist points",
 		"translation": "Aide"
 	},
 	{
@@ -304,7 +298,7 @@
 	},
 	{
 		"phrase": "Left",
-		"comment": "[Move to the left",
+		"comment": "The left side of the screen",
 		"translation": "à quitté"
 	},
 	{
@@ -339,7 +333,7 @@
 	},
 	{
 		"phrase": "Disconnected",
-		"comment": "Disconnected from the server",
+		"comment": "The connection between the client and server has been terminated",
 		"translation": "déconnecté"
 	},
 	{
@@ -509,7 +503,7 @@
 	},
 	{
 		"phrase": "Light",
-		"comment": "Weapon category name",
+		"comment": "1 Light, this refers to a visual light that lights up a room",
 		"translation": "Léger",
 		"machine": true
 	},
@@ -591,7 +585,7 @@
 	},
 	{
 		"phrase": "Automatic",
-		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
+		"comment": "Perform this task automatically",
 		"translation": "Automatique",
 		"machine": true
 	},
@@ -610,12 +604,6 @@
 		"phrase": "Pistol",
 		"comment": "Weapon category name",
 		"translation": "Pistolet",
-		"machine": true
-	},
-	{
-		"phrase": "Equipment",
-		"comment": "[Keybind]",
-		"translation": "Équipement",
 		"machine": true
 	},
 	{
@@ -840,7 +828,7 @@
 	},
 	{
 		"phrase": "Building",
-		"comment": "Category tab on the Trials screen",
+		"comment": "The act of creating something",
 		"translation": "construction"
 	},
 	{
@@ -884,12 +872,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Checkout",
-		"comment": "[Store Checkout Popup] [Title]",
-		"translation": "Vérifier",
-		"machine": true
-	},
-	{
 		"phrase": "Continue",
 		"comment": "Continue with an action",
 		"translation": "Continuer",
@@ -914,12 +896,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Career",
-		"comment": "[Killcam] The total progression level for this player, e.g. '300 Career'",
-		"translation": "Carrière",
-		"machine": true
-	},
-	{
 		"phrase": "Customise",
 		"comment": "The player can customise their character",
 		"translation": "Personnaliser",
@@ -932,62 +908,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Respawn",
-		"comment": "[Gamemode Info] Respawn time, e.g. 10s respawn",
-		"translation": "Réapparaître",
-		"machine": true
-	},
-	{
 		"phrase": "Players",
 		"comment": "Column header on the server list",
 		"translation": "Joueurs",
-		"machine": true
-	},
-	{
-		"phrase": "No respawns",
-		"comment": "[Gamemode Info] Players dont respawn in this gamemode, e.g. Arena",
-		"translation": "Pas de réapparition",
-		"machine": true
-	},
-	{
-		"phrase": "A shadow market has developed at the outskirts of the galaxy where Soltrium is wagered. It's all or nothing in the arena where contestants fight for profit and survival.",
-		"comment": "[Gamemode Info] Arena gamemode description",
-		"translation": "Un marché fantôme s'est développé à la périphérie de la galaxie où le soltrium est misé. c'est tout ou rien dans l'arène où les concurrents se battent pour le profit et la survie.",
-		"machine": true
-	},
-	{
-		"phrase": "Start with nothing and collect weapons to eliminate the enemy team.",
-		"comment": "[Gamemode Info] [Description] [Spire]",
-		"translation": "Commencez avec rien et récupérez des armes pour éliminer l'équipe ennemie.",
-		"machine": true
-	},
-	{
-		"phrase": "All players start with the same randomised loadout.",
-		"comment": "[Gamemode Info] [Description] [Static]",
-		"translation": "Tous les joueurs commencent avec le même equipement aléatoire."
-	},
-	{
-		"phrase": "Control the zone to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Control Shift] A team must control and push the zone back into the enemy spawn to win",
-		"translation": "Contrôlez la zone pour gagner",
-		"machine": true
-	},
-	{
-		"phrase": "Get two kills with every weapon, then melee to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Gun Game]",
-		"translation": "Obtenez deux éliminations avec chaque arme, puis combattez au corps à corps pour gagner",
-		"machine": true
-	},
-	{
-		"phrase": "Hold the most Soltrium to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Head Hunter]",
-		"translation": "Tenez le plus de soltrium pour gagner",
-		"machine": true
-	},
-	{
-		"phrase": "Weapons and Mods spawn around the map",
-		"comment": "[Gamemode Info] [Description] [Head Hunter]",
-		"translation": "Des armes et des mods apparaissent sur la carte",
 		"machine": true
 	},
 	{
@@ -1003,12 +926,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Subscribed",
-		"comment": "[Mapping Screen] Maps that you have subscribed to on the Workshop",
-		"translation": "Abonné",
-		"machine": true
-	},
-	{
 		"phrase": "Upload",
 		"comment": "Upload the map",
 		"translation": "Télécharger",
@@ -1018,12 +935,6 @@
 		"phrase": "Private",
 		"comment": "This item is private, meaning only I can see it",
 		"translation": "Privé",
-		"machine": true
-	},
-	{
-		"phrase": "Friends only",
-		"comment": "[Mapping Screen] Workshop item visibility, i.e. private, friendly only, unlisted or public",
-		"translation": "Réservé aux amis",
 		"machine": true
 	},
 	{
@@ -1039,96 +950,15 @@
 		"machine": true
 	},
 	{
-		"phrase": "Map list",
-		"comment": "[Map List] Title",
-		"translation": "Liste des cartes",
-		"machine": true
-	},
-	{
-		"phrase": "No local maps found",
-		"comment": "[Map List] Text that shows when there are no local maps on this user's PC",
-		"translation": "Aucune carte locale trouvée",
-		"machine": true
-	},
-	{
-		"phrase": "No subscribed maps",
-		"comment": "[Map List] Text that shows when the user hasn't subsribed to any maps on the Steam Workshop",
-		"translation": "Aucune carte souscrite",
-		"machine": true
-	},
-	{
-		"phrase": "Maps you have subscribed to in the workshop will appear here. You may need to refresh multiple times after subscribing to a new map for the list to update fully.",
-		"comment": "[Map List] Description text above the map list",
-		"translation": "Les cartes auxquelles vous vous êtes abonné dans le Workshop apparaîtront ici. vous devrez peut-être actualiser plusieurs fois après vous être abonné à une nouvelle carte pour que la liste se mette à jour complètement.",
-		"machine": true
-	},
-	{
-		"phrase": "Loading map",
-		"comment": "[Map List] This text shows when loading a map from the Steam Workshop",
-		"translation": "Chargement de la carte",
-		"machine": true
-	},
-	{
-		"phrase": "Uploading map to the Steam Workshop",
-		"comment": "[Map List] This text shows when uploading a map to the Steam Workshop",
-		"translation": "Téléchargement de la carte vers le Steam Workshop"
-	},
-	{
-		"phrase": "Committing Changes",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Application des changements"
-	},
-	{
 		"phrase": "Invalid",
 		"comment": "The value is not valid",
 		"translation": "Invalide",
 		"machine": true
 	},
 	{
-		"phrase": "Preparing Config",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Préparation de la configuration",
-		"machine": true
-	},
-	{
-		"phrase": "Preparing Content",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Préparation du contenu",
-		"machine": true
-	},
-	{
-		"phrase": "Uploading Content",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Téléchargement de contenu",
-		"machine": true
-	},
-	{
-		"phrase": "Uploading Preview Image",
-		"comment": "[Workshop] The status of the current map upload",
-		"translation": "Téléchargement de l'image d'aperçu",
-		"machine": true
-	},
-	{
-		"phrase": "Upload summary",
-		"comment": "[Upload Summary] This is the title at the top of the screen when uploading a map to the Steam Workshop",
-		"translation": "Téléchargement du résumé"
-	},
-	{
-		"phrase": "Map name",
-		"comment": "[Upload Summary] This is a text label that is shown above the map name",
-		"translation": "Nom de la carte",
-		"machine": true
-	},
-	{
 		"phrase": "Description",
 		"comment": "Column header on the server list",
 		"translation": "La description",
-		"machine": true
-	},
-	{
-		"phrase": "Supported game modes",
-		"comment": "[Upload Summary] This is a text label that is shown above the list of game modes that this map supports",
-		"translation": "Modes de jeu pris en charge",
 		"machine": true
 	},
 	{
@@ -1139,7 +969,7 @@
 	},
 	{
 		"phrase": "Trials",
-		"comment": "Keybind category for the Trials (show trial menu, restart trial)",
+		"comment": "Time trials, i.e. a place where a player can test their skills",
 		"translation": "Essais",
 		"machine": true
 	},
@@ -1157,7 +987,7 @@
 	},
 	{
 		"phrase": "Audio",
-		"comment": "[Settings Tab] Mouse and keyboard input settings",
+		"comment": "Audio and sounds",
 		"translation": "audio"
 	},
 	{
@@ -1174,7 +1004,7 @@
 	},
 	{
 		"phrase": "Chat",
-		"comment": "[Keybind]",
+		"comment": "Chat UI, where players send text messages to each other",
 		"translation": "Discuter",
 		"machine": true
 	},
@@ -1252,7 +1082,7 @@
 	},
 	{
 		"phrase": "Navigation",
-		"comment": "Keybind category for navigation (change to the home tab, change to the ship tab)",
+		"comment": "Navigating between different screens, i.e. change to the home tab, change to the ship tab",
 		"translation": "La navigation",
 		"machine": true
 	},
@@ -1349,19 +1179,8 @@
 		"translation": "Blocs"
 	},
 	{
-		"phrase": "Kills",
-		"comment": "How many kills a player has",
-		"translation": "Tue",
-		"machine": true
-	},
-	{
-		"phrase": "Deaths",
-		"comment": "How many times a player died",
-		"translation": "Morts"
-	},
-	{
 		"phrase": "Assists",
-		"comment": "How many assists a player has",
+		"comment": "2 Assists",
 		"translation": "Aides"
 	},
 	{
@@ -1397,34 +1216,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Player ready",
-		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '1 player ready'",
-		"translation": "Joueur prêt"
-	},
-	{
-		"phrase": "Players ready",
-		"comment": "This text shows in the bottom-right when a new match is starting up. The full phrase is '15 players ready'",
-		"translation": "Joueurs prêts"
-	},
-	{
-		"phrase": "Starting in",
-		"comment": "[FFA] This text shows at the start of a FFA match. The full phrase is 'Starting in 12 seconds'",
-		"translation": "Démarrage dans"
-	},
-	{
 		"phrase": "Second",
 		"comment": "1 Second, i.e. measurement of time",
 		"translation": "Seconde"
-	},
-	{
-		"phrase": "Available",
-		"comment": "This text shows at the top of the screen in-game when customising weapons. The full text is '12000 Protons Available'",
-		"translation": "Disponible"
-	},
-	{
-		"phrase": "Leave killcam",
-		"comment": "[Input Prompt] This text shows in-game when viewing the killcam. The full phrase is '[SPACE] Leave killcam'",
-		"translation": "Quitter la killcam"
 	},
 	{
 		"phrase": "Redeploy",
@@ -1463,7 +1257,7 @@
 	},
 	{
 		"phrase": "Save",
-		"comment": "Save your changes",
+		"comment": "1 Save, i.e. when you save a friendly from being killed",
 		"translation": "sauver",
 		"machine": true
 	},
@@ -1475,23 +1269,18 @@
 	},
 	{
 		"phrase": "Equip as primary",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as primary'",
+		"comment": "Press a key to equip this weapon as your primary\/main weapon",
 		"translation": "Équiper en tant que primaire"
 	},
 	{
 		"phrase": "Equip as secondary",
-		"comment": "[Input Prompt] This text shows in the Ship when looking at the gun rack, e.g. '[V] Equip as secondary'",
+		"comment": "Press a key to equip this weapon as your secondary\/fallback weapon",
 		"translation": "Équiper en tant que secondaire"
 	},
 	{
 		"phrase": "Edit loadouts",
 		"comment": "Click this button to edit your loadouts",
 		"translation": "Modifier les chargements"
-	},
-	{
-		"phrase": "Level",
-		"comment": "[Killcam] The level of the player",
-		"translation": "Niveau"
 	},
 	{
 		"phrase": "Tag",
@@ -1509,11 +1298,6 @@
 		"translation": "Chargement"
 	},
 	{
-		"phrase": "Killed by",
-		"comment": "[Killcam] [Label] This text shows below the weapon that killed us",
-		"translation": "Tué par"
-	},
-	{
 		"phrase": "Join the battle",
 		"comment": "[In-Game Escape Menu] This text shows instead of 'Redeploying' when the player is spectating",
 		"translation": "Rejoignez la bataille"
@@ -1527,16 +1311,6 @@
 		"phrase": "Summary",
 		"comment": "A... summary. Can't think of a description for this",
 		"translation": "Résumé"
-	},
-	{
-		"phrase": "Creator Code (Optional)",
-		"comment": "[Store Checkout Popup] [Text Field] Enter a creator code here",
-		"translation": "Code créateur (facultatif)"
-	},
-	{
-		"phrase": "Friend username",
-		"comment": "[Store Checkout Popup] [Text Field] Enter the username of the friend you are gifting this pack too",
-		"translation": "Nom d'utilisateur de l'ami"
 	},
 	{
 		"phrase": "Magazine",
@@ -1585,7 +1359,7 @@
 	},
 	{
 		"phrase": "Right",
-		"comment": "Move to the right",
+		"comment": "The right side of the screen",
 		"translation": "Droite"
 	},
 	{
@@ -1665,12 +1439,12 @@
 	},
 	{
 		"phrase": "Primary",
-		"comment": "[Keybind]",
+		"comment": "The primary\/main category",
 		"translation": "Primaire"
 	},
 	{
 		"phrase": "Secondary",
-		"comment": "[Keybind]",
+		"comment": "The secondary\/fallback category",
 		"translation": "Secondaire"
 	},
 	{
@@ -1814,301 +1588,6 @@
 		"translation": "Redémarrer l'essai"
 	},
 	{
-		"phrase": "Initiate",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Initiate",
-		"translation": "Initié"
-	},
-	{
-		"phrase": "Proficient",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Proficient",
-		"translation": "Compétent"
-	},
-	{
-		"phrase": "Adept",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Adept",
-		"translation": "Adepte"
-	},
-	{
-		"phrase": "Elite",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Elite",
-		"translation": "Élite"
-	},
-	{
-		"phrase": "Expert",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Expert",
-		"translation": "Expert"
-	},
-	{
-		"phrase": "Master",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Master",
-		"translation": "Maître"
-	},
-	{
-		"phrase": "Legend",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Legend",
-		"translation": "Légende"
-	},
-	{
-		"phrase": "Paragon",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Paragon",
-		"translation": "Parangon"
-	},
-	{
-		"phrase": "Incarnate",
-		"comment": "[Killcam Tag] [Weapon] e.g. Light Plasma Incarnate",
-		"translation": "Incarné"
-	},
-	{
-		"phrase": "Butcher",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Boucher"
-	},
-	{
-		"phrase": "Swordsman",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Épéiste"
-	},
-	{
-		"phrase": "Berserker",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Berserker"
-	},
-	{
-		"phrase": "Assassin",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Assassin"
-	},
-	{
-		"phrase": "Executioner",
-		"comment": "[Killcam Tag] [Melee]",
-		"translation": "Bourreau"
-	},
-	{
-		"phrase": "Grenadier",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Grenadier"
-	},
-	{
-		"phrase": "Detonator",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Détonateur"
-	},
-	{
-		"phrase": "Volatile",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Volatil"
-	},
-	{
-		"phrase": "Catalyst",
-		"comment": "[Killcam Tag] [Grenade Kills]",
-		"translation": "Catalyseur"
-	},
-	{
-		"phrase": "Captor",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Ravisseur"
-	},
-	{
-		"phrase": "Invader",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Envahisseur"
-	},
-	{
-		"phrase": "Thief",
-		"comment": "[Killcam Tag] [Capturing Enemy Flags]",
-		"translation": "Voleur"
-	},
-	{
-		"phrase": "Reinforcer",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Renforceur"
-	},
-	{
-		"phrase": "Engineer",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Ingénieur"
-	},
-	{
-		"phrase": "Fabricator",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Fabricant"
-	},
-	{
-		"phrase": "Architect",
-		"comment": "[Killcam Tag] [Building]",
-		"translation": "Architecte"
-	},
-	{
-		"phrase": "Sentry",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Tourelle"
-	},
-	{
-		"phrase": "Protector",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Protecteur"
-	},
-	{
-		"phrase": "Sentinel",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Sentinelle"
-	},
-	{
-		"phrase": "Guardian",
-		"comment": "[Killcam Tag] [Defending]",
-		"translation": "Gardien"
-	},
-	{
-		"phrase": "Raider",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Raider"
-	},
-	{
-		"phrase": "Marauder",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Maraudeur"
-	},
-	{
-		"phrase": "Vanquisher",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Vainqueur"
-	},
-	{
-		"phrase": "Conquerer",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Conquérant"
-	},
-	{
-		"phrase": "Terminator",
-		"comment": "[Killcam Tag] [Attacking]",
-		"translation": "Terminateur"
-	},
-	{
-		"phrase": "Gunslinger",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Pistolero"
-	},
-	{
-		"phrase": "Deadeye",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Œil mort"
-	},
-	{
-		"phrase": "Sharpshooter",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Tireur d'élite"
-	},
-	{
-		"phrase": "Deathbringer",
-		"comment": "[Killcam Tag] [Headshot Kills]",
-		"translation": "Porteur de mort"
-	},
-	{
-		"phrase": "Blaster",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Blaster"
-	},
-	{
-		"phrase": "Collider",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Collisionneur"
-	},
-	{
-		"phrase": "Obliterator",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Oblitérateur"
-	},
-	{
-		"phrase": "Disintegrator",
-		"comment": "[Killcam Tag] [Direct Explosive Kills]",
-		"translation": "Désintégrateur"
-	},
-	{
-		"phrase": "Alleviator",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Allégeur"
-	},
-	{
-		"phrase": "Mitigator",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Atténuateur"
-	},
-	{
-		"phrase": "Diminisher",
-		"comment": "[Killcam Tag] [Kill Assists]",
-		"translation": "Réducteur"
-	},
-	{
-		"phrase": "Recon",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Reconnaissance"
-	},
-	{
-		"phrase": "Luminator",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Luminateur"
-	},
-	{
-		"phrase": "Coruscator",
-		"comment": "[Killcam Tag] [Scanner Assists]",
-		"translation": "Coruscateur"
-	},
-	{
-		"phrase": "Spotter",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Observateur"
-	},
-	{
-		"phrase": "Watchman",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Veilleur"
-	},
-	{
-		"phrase": "Eagle Eye",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Œil de lynx"
-	},
-	{
-		"phrase": "All Seeing",
-		"comment": "[Killcam Tag] [Spot Assists]",
-		"translation": "Qui voit tout"
-	},
-	{
-		"phrase": "Body Guard",
-		"comment": "[Killcam Tag] [Saviour Points]",
-		"translation": "Garde du corps"
-	},
-	{
-		"phrase": "Slayer",
-		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "Tueur"
-	},
-	{
-		"phrase": "Punisher",
-		"comment": "[Killcam Tag] [Avenger Points]",
-		"translation": "punisseur"
-	},
-	{
-		"phrase": "Midi Certified",
-		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials",
-		"translation": "Midi certifié"
-	},
-	{
-		"phrase": "Maze Runner",
-		"comment": "[Killcam Tag] [Trials] Reached all Silver times in the trials",
-		"translation": "coureur de labyrinthe"
-	},
-	{
-		"phrase": "Trial Master",
-		"comment": "[Killcam Tag] [Trials] Reached all Gold times in the trials",
-		"translation": "Maître d'essai"
-	},
-	{
-		"phrase": "Trial Hard",
-		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials. This one is a word play on 'Try Hard', feel free to translate this into something more serious or keep it as a meme",
-		"translation": "Essai dur"
-	},
-	{
 		"phrase": "Password",
 		"comment": "Server list info",
 		"translation": "Mot de passe"
@@ -2230,12 +1709,6 @@
 		"translation": "Appuyez sur espace pour faire pivoter automatiquement"
 	},
 	{
-		"phrase": "N\/A",
-		"context": "Not Applicable",
-		"comment": "[Term] This is an abbreviation for Not Applicable",
-		"translation": "S\/O"
-	},
-	{
 		"phrase": "Region",
 		"comment": "Server preferences tab. This refers to geographical region",
 		"translation": "Région"
@@ -2247,7 +1720,7 @@
 	},
 	{
 		"phrase": "Points",
-		"comment": "[Scoreboard] How many points a player has earned in game",
+		"comment": "2 Points",
 		"translation": "Points"
 	},
 	{
@@ -2287,14 +1760,8 @@
 	},
 	{
 		"phrase": "Hidden",
-		"comment": "Checkbox setting , i.e. 'The minimap is hidden'",
+		"comment": "Something can't be seen , i.e. 'The minimap is hidden'",
 		"translation": "Caché"
-	},
-	{
-		"phrase": "Purchases",
-		"comment": "[Transaction Log] Category title",
-		"translation": "Achats",
-		"machine": true
 	},
 	{
 		"phrase": "Singapore",
@@ -2303,30 +1770,10 @@
 		"machine": true
 	},
 	{
-		"phrase": "Use Title Accent Colour",
-		"context": "Display Title Accent Colour",
-		"comment": "[Killcam] [Checkbox] Controls whether the tag or title colour is displayed",
-		"translation": "Utiliser la couleur d'accent du titre",
-		"machine": true
-	},
-	{
-		"phrase": "Use Title Background",
-		"context": "Display Title Background",
-		"comment": "[Killcam] [Checkbox] Controls whether the tag or title background is displayed",
-		"translation": "Utiliser l'arrière-plan du titre",
-		"machine": true
-	},
-	{
 		"phrase": "ms",
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
 		"translation": "Mme",
-		"machine": true
-	},
-	{
-		"phrase": "Title unlocked",
-		"comment": "[Trial Reward] The full phrase is: 'Midi Certified' title unlocked",
-		"translation": "Titre débloqué",
 		"machine": true
 	},
 	{
@@ -2354,18 +1801,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Accept",
-		"comment": "[UI] [Button] Accept an invitation",
-		"translation": "J'accepte",
-		"machine": true
-	},
-	{
-		"phrase": "Decline",
-		"comment": "[UI] [Button] Decline an invitation",
-		"translation": "Déclin",
-		"machine": true
-	},
-	{
 		"phrase": "Kick",
 		"comment": "Swap the player to the other team",
 		"translation": "Coup",
@@ -2390,63 +1825,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Spawn",
-		"comment": "[Respawn] [Input Prompt] The full phrase is: [Left Click] Spawn",
-		"translation": "Frayer",
-		"machine": true
-	},
-	{
-		"phrase": "Pan with mouse",
-		"comment": "[Respawn] [Input Prompt] Move the mouse around the look around the map",
-		"translation": "Panoramique avec la souris",
-		"machine": true
-	},
-	{
-		"phrase": "Scroll to zoom",
-		"context": "Scroll wheel to zoom",
-		"comment": "[Respawn] [Input Prompt] Use the scroll wheel to zoom into the map",
-		"translation": "Faites défiler pour zoomer",
-		"machine": true
-	},
-	{
-		"phrase": "Loadout overpowered",
-		"context": "Loadout is too powerful",
-		"comment": "[Respawn] [Input Prompt] This text shows when the player attempts to respawn with loadout that is too strong",
-		"translation": "Charge surpuissante",
-		"machine": true
-	},
-	{
-		"phrase": "s",
-		"context": "Seconds",
-		"comment": "[Unit] [Abbreviation] Abbreviation for seconds, e.g. 'Respawn in 13s'",
-		"translation": "s",
-		"machine": true
-	},
-	{
-		"phrase": "Proton boost active",
-		"comment": "[Respawn] This text shows when you have a proton boost active. Do not translate 'Proton'",
-		"translation": "Boost de protons actif",
-		"machine": true
-	},
-	{
-		"phrase": "No Proton boost active",
-		"comment": "[Respawn] This text shows when you do not have a proton boost active. Do not translate 'Proton'",
-		"translation": "Pas de boost de protons actif",
-		"machine": true
-	},
-	{
-		"phrase": "XP boost active",
-		"comment": "[Respawn] This text shows when you have a XP boost active",
-		"translation": "Boost d'XP actif",
-		"machine": true
-	},
-	{
-		"phrase": "No XP boost active",
-		"comment": "[Respawn] This text shows when you do not have a XP boost active",
-		"translation": "Pas de boost d'XP actif",
-		"machine": true
-	},
-	{
 		"phrase": "Add Friend",
 		"comment": "Add this player as a friend on Steam",
 		"translation": "Ajouter un ami",
@@ -2454,7 +1832,7 @@
 	},
 	{
 		"phrase": "Spectators",
-		"comment": "Someone who is watching a battle",
+		"comment": "2 Spectators, i.e. people who are watching a battle",
 		"translation": "Spectateurs",
 		"machine": true
 	},
@@ -2465,24 +1843,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Notification",
-		"comment": "[Social Sidebar] Notifications label. The full phrase is '1 Notification'",
-		"translation": "Notification",
-		"machine": true
-	},
-	{
-		"phrase": "Notifications",
-		"comment": "[Social Sidebar] Notifications label. The full phrase is '3 Notifications'",
-		"translation": "Notifications",
-		"machine": true
-	},
-	{
-		"phrase": "Party",
-		"comment": "[Social Sidebar] Party labe. The full phrase is 'Party: 2 \/ 4'",
-		"translation": "Fête",
-		"machine": true
-	},
-	{
 		"phrase": "Online",
 		"comment": "[Social Sidebar] Placeholder friend status",
 		"translation": "En ligne",
@@ -2490,7 +1850,7 @@
 	},
 	{
 		"phrase": "Token",
-		"comment": "1 Token, i.e. a token\/coin that can be used to unlock something",
+		"comment": "1 Token, i.e. a token\/coin that can be used to unlock a character or weapon skin",
 		"translation": "Jeton",
 		"machine": true
 	},
@@ -2502,7 +1862,7 @@
 	},
 	{
 		"phrase": "Leaderboard",
-		"comment": "[Trial] [Title]",
+		"comment": "A list of all the fastest trial times",
 		"translation": "Classement",
 		"machine": true
 	},
@@ -2516,18 +1876,6 @@
 		"phrase": "Trials list",
 		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
 		"translation": "Liste des essais",
-		"machine": true
-	},
-	{
-		"phrase": "Trial",
-		"comment": "[Trial] [Title] The full name of the trial, e.g. 'Building 1 Trial'",
-		"translation": "Procès",
-		"machine": true
-	},
-	{
-		"phrase": "Medals",
-		"comment": "[Trial] [Title] Below this title is a list of the times required to achieve each medal for this trial",
-		"translation": "Médailles",
 		"machine": true
 	},
 	{
@@ -2589,51 +1937,21 @@
 		"machine": true
 	},
 	{
-		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
-		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Pratiquez vos compétences de construction et de creusement dans les essais!\nTerminez chaque essai dans le temps imparti pour gagner des protons et tuer des titres de caméra.\nAtteindre le ",
-		"machine": true
-	},
-	{
 		"phrase": "Yellow",
-		"comment": "[Trial Instructions] [2\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "Jaune",
 		"machine": true
 	},
 	{
-		"phrase": "Platform to win, avoid touching the",
-		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Plateforme pour gagner, évitez de toucher le",
-		"machine": true
-	},
-	{
 		"phrase": "Red",
-		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "rouge",
 		"machine": true
 	},
 	{
-		"phrase": "Blocks and build off the",
-		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Bloque et construit à partir du",
-		"machine": true
-	},
-	{
 		"phrase": "Purple",
-		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
+		"comment": "",
 		"translation": "Mauve",
-		"machine": true
-	},
-	{
-		"phrase": "Leaderboards are updated every 30 seconds.",
-		"comment": "[Trials] Leaderboard description",
-		"translation": "Les classements sont mis à jour toutes les 30 secondes.",
-		"machine": true
-	},
-	{
-		"phrase": "\nLoading personal times and leaderboards",
-		"comment": "[Trials] Text that shows while loading the leaderboard",
-		"translation": "\nChargement des temps personnels et des classements",
 		"machine": true
 	},
 	{
@@ -2650,14 +1968,8 @@
 	},
 	{
 		"phrase": "Characters",
-		"comment": "Human and Agaman player-controlled characters",
+		"comment": "2 Characters",
 		"translation": "Personnages",
-		"machine": true
-	},
-	{
-		"phrase": "Character Skins",
-		"comment": "[Transaction Log] Category title",
-		"translation": "Peaux de personnages",
 		"machine": true
 	},
 	{
@@ -2763,12 +2075,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "s",
-		"comment": "[Unit Prefix] Seconds",
-		"translation": "s",
-		"machine": true
-	},
-	{
 		"phrase": "Health",
 		"comment": "How much health the player has",
 		"translation": "Santé",
@@ -2829,12 +2135,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Failed to invite",
-		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": "Échec de l'invitation",
-		"machine": true
-	},
-	{
 		"phrase": "Failed to join the party",
 		"comment": "Notification that you failed to join the party",
 		"translation": "Échec de l'adhésion à la fête",
@@ -2866,7 +2166,7 @@
 	},
 	{
 		"phrase": "Canister",
-		"comment": "The section of the Midi tool that stores matter",
+		"comment": "1 Canister, i.e. 'You detonated 3 Soltrium Canisters'",
 		"translation": "Boîte",
 		"machine": true
 	},
@@ -2907,51 +2207,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Invite to Party",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Inviter à faire la fête",
-		"machine": true
-	},
-	{
-		"phrase": "Remove from Party",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Retirer de la fête",
-		"machine": true
-	},
-	{
-		"phrase": "Join Match",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Rejoindre le match",
-		"machine": true
-	},
-	{
-		"phrase": "Invite to Match",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Inviter à correspondre",
-		"machine": true
-	},
-	{
 		"phrase": "View Profile",
 		"comment": "View this player's Steam profile",
 		"translation": "Voir le profil",
-		"machine": true
-	},
-	{
-		"phrase": "Message",
-		"comment": "[Social Sidebar] [Button] Friend dropdown action",
-		"translation": "Un message",
-		"machine": true
-	},
-	{
-		"phrase": "Match invitation sent to",
-		"comment": "[Social Sidebar] The full phrase is: 'Match invitation sent to Peygahreaux'",
-		"translation": "Invitation de match envoyée à",
-		"machine": true
-	},
-	{
-		"phrase": "To the match",
-		"comment": "[Social Sidebar] [1\/2] The full phrase is: 'Failed to invite Peygahreaux to the match'",
-		"translation": "Au match",
 		"machine": true
 	},
 	{
@@ -2961,63 +2219,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Slots left",
-		"comment": "[Party Invite] The full phrase is: '1\/4 Slots left'",
-		"translation": "Places restantes",
-		"machine": true
-	},
-	{
 		"phrase": "Click to join",
 		"comment": "The next map has loaded and the player can now join the next match",
 		"translation": "Cliquez pour rejoindre",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon",
-		"comment": "A gun you can shoot at enemies",
-		"translation": "Arme",
-		"machine": true
-	},
-	{
-		"phrase": "Area",
-		"comment": "[Custom Maps] This refers to an area that a canister can spawn in during Salvage, i.e. 'Area 3'",
-		"translation": "Surface",
-		"machine": true
-	},
-	{
-		"phrase": "Zone",
-		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Zone B'",
-		"translation": "Zone",
-		"machine": true
-	},
-	{
-		"phrase": "Breakthrough Zone",
-		"comment": "[Custom Maps] This refers to a zone that you capture in Breakthrough, i.e. 'Breakthrough Zone D'",
-		"translation": "Zone de percée",
-		"machine": true
-	},
-	{
-		"phrase": "Flag",
-		"comment": "[Custom Maps] This refers to the flag you carry in Capture the Flag",
-		"translation": "Drapeau",
-		"machine": true
-	},
-	{
-		"phrase": "Bomb",
-		"comment": "[Custom Maps] This refers to the bomb you carry in Escort",
-		"translation": "Bombe",
-		"machine": true
-	},
-	{
-		"phrase": "HH",
-		"comment": "[Custom Maps] [Abbreviation] The initials of 'Head Hunter'",
-		"translation": "HH",
-		"machine": true
-	},
-	{
-		"phrase": "FFA Spawn",
-		"comment": "[Custom Maps] This refers to an area that you can respawn in during a FFA match",
-		"translation": "FFA spawn",
 		"machine": true
 	},
 	{
@@ -3027,147 +2231,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Has picked up the enemy bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up the enemy bomb'",
-		"translation": "A ramassé la bombe ennemie",
-		"machine": true
-	},
-	{
-		"phrase": "Has picked up our bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has picked up our bomb'",
-		"translation": "A ramassé notre bombe",
-		"machine": true
-	},
-	{
-		"phrase": "You have picked up the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Vous avez ramassé le drapeau ennemi",
-		"machine": true
-	},
-	{
-		"phrase": "You have picked up our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Tu as ramassé notre bombe",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy flag carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Le porte-drapeau ennemi a été tué",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy bomb carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Le porte-bombes ennemi a été tué",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy has dropped our flag",
-		"comment": "[Announcement]'",
-		"translation": "L'ennemi a lâché notre drapeau",
-		"machine": true
-	},
-	{
-		"phrase": "The enemy has dropped their bomb",
-		"comment": "[Announcement]'",
-		"translation": "L'ennemi a largué sa bombe",
-		"machine": true
-	},
-	{
-		"phrase": "Our flag carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Notre porte-drapeau a été tué",
-		"machine": true
-	},
-	{
-		"phrase": "Our bomb carrier has been killed",
-		"comment": "[Announcement]'",
-		"translation": "Notre porteur de bombe a été tué",
-		"machine": true
-	},
-	{
-		"phrase": "You have dropped the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "Vous avez laissé tomber le drapeau ennemi",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped the enemy flag",
-		"comment": "[Announcement]'",
-		"translation": "A fait tomber le drapeau ennemi",
-		"machine": true
-	},
-	{
-		"phrase": "Has captured our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured our flag'",
-		"translation": "A capturé notre drapeau",
-		"machine": true
-	},
-	{
-		"phrase": "Has delivered their bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "A livré leur bombe",
-		"machine": true
-	},
-	{
-		"phrase": "Has captured the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has captured the enemy flag'",
-		"translation": "A capturé le drapeau ennemi",
-		"machine": true
-	},
-	{
-		"phrase": "Has delivered our bomb",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has delivered their bomb'",
-		"translation": "A livré notre bombe",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Mode éternel activé",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Mode éternel désactivé",
-		"machine": true
-	},
-	{
-		"phrase": "Sandbox mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Mode bac à sable activé",
-		"machine": true
-	},
-	{
-		"phrase": "Sandbox mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Mode bac à sable désactivé",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode enabled",
-		"comment": "[Announcement]",
-		"translation": "Mode remorque activé",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode disabled",
-		"comment": "[Announcement]",
-		"translation": "Mode remorque désactivé",
-		"machine": true
-	},
-	{
 		"phrase": "Admin",
 		"comment": "Administrator abbreviation",
 		"translation": "Administrateur",
-		"machine": true
-	},
-	{
-		"phrase": "Movement Speed",
-		"comment": "Spectator control",
-		"translation": "Vitesse de mouvement",
 		"machine": true
 	},
 	{
@@ -3293,13 +2359,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Toggle Killfeed",
-		"context": "Toggle Kill Feed",
-		"comment": "Spectator control",
-		"translation": "Basculer le killfeed",
-		"machine": true
-	},
-	{
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
 		"translation": "Basculer l'aide",
@@ -3337,19 +2396,19 @@
 	},
 	{
 		"phrase": "Team",
-		"comment": "All the players on your team",
+		"comment": "1 Team, i.e. a group of players who fight against another group of players",
 		"translation": "Équipe",
 		"machine": true
 	},
 	{
 		"phrase": "Loading textures",
-		"comment": "The game is loading textures",
+		"comment": "The game is loading textures\/bitmaps\/images from disk",
 		"translation": "Chargement des textures",
 		"machine": true
 	},
 	{
 		"phrase": "Loading models",
-		"comment": "The game is loading 3D models",
+		"comment": "The game is loading 3D models from disk",
 		"translation": "Chargement des modèles",
 		"machine": true
 	},
@@ -3450,18 +2509,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Attachment Point",
-		"comment": "[Career Path] [Unit] i.e. '1 Attachment Point'",
-		"translation": "Point de fixation",
-		"machine": true
-	},
-	{
-		"phrase": "Attachment Points",
-		"comment": "[Career Path] [Unit] [Plural] i.e. '2 Attachment Points'",
-		"translation": "Points d'attache",
-		"machine": true
-	},
-	{
 		"phrase": "Boost",
 		"comment": "1 Boost, i.e. an item a player can use to increase their Proton and XP gain for the next hour",
 		"translation": "Renforcer",
@@ -3471,60 +2518,6 @@
 		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
 		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
 		"translation": "[Paramètres > performances > habillages de blocs animés] doit être activé pour que les habillages de blocs animés s'affichent correctement",
-		"machine": true
-	},
-	{
-		"phrase": "First team to win {0} rounds",
-		"comment": "[Gamemode Info] [Win requirement] [Arena] Parameter 0: '5'",
-		"translation": "Première équipe à remporter les manches {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Soltrium is scattered throughout the outer sector. Various {0} and {1} battalions have been dispatched to search for and collect the precious resource.",
-		"comment": "[Gamemode Info] [Description] [Salvage] Parameter 0: 'Aegis', parameter 1: 'Helix'",
-		"translation": "Soltrium est dispersé dans tout le secteur extérieur. divers bataillons {0} et {1} ont été dépêchés pour rechercher et collecter la précieuse ressource.",
-		"machine": true
-	},
-	{
-		"phrase": "The first team to {0} points wins",
-		"comment": "[Gamemode Info] [Win Requirement] [Salvage] Parameter 0: '500'",
-		"translation": "La première équipe à {0} points gagne",
-		"machine": true
-	},
-	{
-		"phrase": "Capture all zones to win",
-		"comment": "[Gamemode Info] [Win Requirement] [Breakthrough]",
-		"translation": "Capturez toutes les zones pour gagner",
-		"machine": true
-	},
-	{
-		"phrase": "Deliver the flag {0} times to win",
-		"comment": "[Gamemode Info] [Win requirement] [Escort] Parameter 0: '3'",
-		"translation": "Livrez le drapeau {0} fois pour gagner",
-		"machine": true
-	},
-	{
-		"phrase": "Deliver the bomb {0} times to win",
-		"comment": "[Gamemode Info] [Win requirement] [CTF] Parameter 0: '3'",
-		"translation": "Livrez la bombe {0} fois pour gagner",
-		"machine": true
-	},
-	{
-		"phrase": "Pick up {0} from enemy corpses",
-		"comment": "[Gamemode Info] [Description] [Head Hunter] Parameter 0: 'Soltrium'",
-		"translation": "Ramassez {0} sur les cadavres ennemis",
-		"machine": true
-	},
-	{
-		"phrase": "Before uploading maps to the {0}, you must agree to the",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [1\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
-		"translation": "Avant de télécharger des cartes sur le {0}, vous devez accepter les",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Terms of Service",
-		"comment": "[Map List] [Steam Workshop Terms of Service] [2\/2] The full phrase is: Before uploading maps to the {Steam Workshop}, you must agree to the {Steam Workshop} Terms of Service",
-		"translation": "Conditions d'utilisation de {0}",
 		"machine": true
 	},
 	{
@@ -3549,30 +2542,6 @@
 		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
 		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
 		"translation": "Cela contrôle l'échelle de toutes les interfaces utilisateur et HUD dans le jeu. appuyez sur {0} pour le réinitialiser à 100%",
-		"machine": true
-	},
-	{
-		"phrase": "Has stolen our flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen our flag'",
-		"translation": "A volé notre drapeau",
-		"machine": true
-	},
-	{
-		"phrase": "Has stolen the enemy flag",
-		"comment": "[Announcement] The full phrase is: 'SlippyTheSlime has stolen the enemy flag'",
-		"translation": "A volé le drapeau ennemi",
-		"machine": true
-	},
-	{
-		"phrase": "You have dropped our bomb",
-		"comment": "[Announcement]'",
-		"translation": "Tu as largué notre bombe",
-		"machine": true
-	},
-	{
-		"phrase": "Has dropped our bomb",
-		"comment": "[Announcement]'",
-		"translation": "A largué notre bombe",
 		"machine": true
 	},
 	{
@@ -3724,18 +2693,6 @@
 		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
 		"comment": "[Admin chat message] Parameter 0: '10'",
 		"translation": "Impossible de changer d'équipe pendant la restauration de la carte. réessayer dans {0} secondes",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has been kicked ({1} - {2})",
-		"comment": "[Admin chat message] Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
-		"translation": "{0} a été expulsé ({1} - {2})",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has not been kicked ({1} - {2})",
-		"comment": "[Admin chat message] Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
-		"translation": "{0} n'a pas été kické ({1} - {2})",
 		"machine": true
 	},
 	{
@@ -4216,7 +3173,7 @@
 	},
 	{
 		"phrase": "Distance must be between {0} and {1}",
-		"comment": "Error message",
+		"comment": "Error message when setting the camera distance. Parameter 0: '0.5', Parameter 1: '800'",
 		"translation": "La distance doit être comprise entre {0} et {1}",
 		"machine": true
 	},
@@ -4228,6 +3185,7 @@
 	},
 	{
 		"phrase": "Meteors have been detected",
+		"comment": "Incoming meteors have been detected and will soon crash into the planet",
 		"translation": "Des météores ont été détectés",
 		"machine": true
 	},
@@ -4401,7 +3359,7 @@
 	},
 	{
 		"phrase": "Unlock error: {0}",
-		"comment": "This error shows when failing to unlock a weapon skin. Parameter 1: 'Not enough Protons'",
+		"comment": "This error shows when failing to unlock a weapon skin. Parameter 0: 'Not enough Protons'",
 		"translation": "Erreur de déverrouillage : {0}",
 		"machine": true
 	},
@@ -4503,37 +3461,37 @@
 	},
 	{
 		"phrase": "{0} has joined the party",
-		"comment": "Notification that a new member has joined the party. Parameter 0: 'Bouphen'",
+		"comment": "Notification that a new member has joined the party\/group of players. Parameter 0: 'Bouphen'",
 		"translation": "{0} a rejoint la fête",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has left the party",
-		"comment": "Notification that a member has left the party. Parameter 0: 'Zero'",
+		"comment": "Notification that a member has left the party\/group of players. Parameter 0: 'ZeroHour'",
 		"translation": "{0} a quitté la fête",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has disconnected and left the party",
-		"comment": "Notification that a member has disconnected and left the party. Parameter 0: 'Dirt Master'",
+		"comment": "Notification that a member has disconnected and left the party\/group of players. Parameter 0: 'Dirt Master'",
 		"translation": "{0} s'est déconnecté et a quitté la fête",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has been kicked from the party",
-		"comment": "Notification that a member has been kicked from the party. Parameter 0: 'Vhauss'",
+		"comment": "Notification that another member has been kicked from a party\/group of players. Parameter 0: 'Vhauss'",
 		"translation": "{0} a été expulsé de la fête",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has been banned from the party",
-		"comment": "Notification that a member has been banned from the party. Parameter 0: 'Definitely Vhauss'",
+		"comment": "Notification that another member has been banned from the party\/group of players. Parameter 0: 'Definitely Vhauss'",
 		"translation": "{0} a été banni de la fête",
 		"machine": true
 	},
 	{
 		"phrase": "{0} has invited you to their match",
-		"comment": "[Social Sidebar] This notification shows when a friend invites you to join their match. Parameter 0: 'Peygahreaux'",
+		"comment": "Notification that a friend invited you to join their match. Parameter 0: 'Peygahreaux'",
 		"translation": "{0} vous a invité à leur match",
 		"machine": true
 	},
@@ -4563,7 +3521,7 @@
 	},
 	{
 		"phrase": "You have been kicked from the party",
-		"comment": "Notification that you have been kicked from a party",
+		"comment": "Notification that you have been kicked from a party\/group of players",
 		"translation": "Vous avez été expulsé de la fête",
 		"machine": true
 	},
@@ -4611,7 +3569,7 @@
 	},
 	{
 		"phrase": "{0} {1}",
-		"comment": "This is for a quantity of something, .e.g '5 protons'. Parameter 0: any number, Parameter 1: any item",
+		"comment": "This is for a quantity of something, e.g. '5 Protons' or '1 Character token'. Parameter 0: any number, Parameter 1: any item",
 		"translation": "{0} {1}",
 		"machine": true
 	},
@@ -4647,31 +3605,31 @@
 	},
 	{
 		"phrase": "Unlock character",
-		"comment": "Checkout window title when unlocking a character",
+		"comment": "Click this button to unlock a humanoid character",
 		"translation": "Déverrouiller le personnage",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock skin",
-		"comment": "Click this button to unlock a weapon skin",
+		"comment": "Click this button to unlock a skin for a weapon or character",
 		"translation": "Déverrouiller la peau",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock helmet",
-		"comment": "Checkout window title when unlocking a character helmet",
+		"comment": "Click this button to unlock a new helmet for your character",
 		"translation": "Déverrouiller le casque",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock melee",
-		"comment": "Checkout window title when unlocking a character melee",
+		"comment": "Click this button to unlock a knife or stabbing weapon",
 		"translation": "Débloquer la mêlée",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock pose",
-		"comment": "Checkout window title when unlocking a character pose",
+		"comment": "Click this button to unlock a character pose",
 		"translation": "Déverrouiller la pose",
 		"machine": true
 	},
@@ -4797,13 +3755,13 @@
 	},
 	{
 		"phrase": "Unlock sight",
-		"comment": "Click this button to unlock a weapon sight",
+		"comment": "Click this button to unlock a sight\/scope for your weapon",
 		"translation": "Déverrouiller la vue",
 		"machine": true
 	},
 	{
 		"phrase": "Unlock crosshair",
-		"comment": "Click this button to unlock a crosshair",
+		"comment": "Click this button to unlock a crosshair for your weapon sights",
 		"translation": "Déverrouiller le réticule",
 		"machine": true
 	},
@@ -4930,43 +3888,43 @@
 	},
 	{
 		"phrase": "Visible",
-		"comment": "Checkbox setting, i.e. 'The ammo HUD is visible'",
+		"comment": "Something can be seen, i.e. 'The ammo HUD is visible'",
 		"translation": "Visible",
 		"machine": true
 	},
 	{
 		"phrase": "{0} started a votekick against {1} for the reason: '{2}'",
-		"comment": "Votekick description. Parameter 0: 'Vhauss', parameter 1: 'Bouphen', parameter 2: 'Jealousy'",
+		"comment": "Description for why player A is choosing to votekick player B. Parameter 0: 'Vhauss', parameter 1: 'Bouphen', parameter 2: 'I am jealous of him'",
 		"translation": "{0} a commencé un votekick contre {1} pour la raison : '{2}'",
 		"machine": true
 	},
 	{
 		"phrase": "{0} yes votes",
-		"comment": "Votekick results. Parameter 0: '3'",
+		"comment": "There are 8 yes votes for kicking this player, i.e. 8 players have voted to kick this player. Parameter 0: '8'",
 		"translation": "{0} oui vote",
 		"machine": true
 	},
 	{
 		"phrase": "{0} no votes",
-		"comment": "Votekick results. Parameter 0: '5'",
+		"comment": "There are 3 no votes for kicking this player, i.e. 3 players have voted to not kick this player. Parameter 0: '3'",
 		"translation": "{0} aucun vote",
 		"machine": true
 	},
 	{
 		"phrase": "Vote yes: {0}",
-		"comment": "Votekick instructions. Parameter 0: 'F1'",
+		"comment": "Keybind for voting to kick a player. Parameter 0: '[ F1 ]'",
 		"translation": "Votez oui : {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Vote no: {0}",
-		"comment": "Votekick instructions. Parameter 0: 'F2'",
+		"comment": "Keybind for voting to not kick a player. Parameter 0: '[ F2 ]'",
 		"translation": "Votez non : {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Ignore: {0}",
-		"comment": "Votekick instructions. Parameter 0: 'F3'",
+		"comment": "Keybind for ignoring a votekick. Parameter 0: '[ F3 ]'",
 		"translation": "Ignorer : {0}",
 		"machine": true
 	},
@@ -5019,21 +3977,9 @@
 		"machine": true
 	},
 	{
-		"phrase": " bps",
-		"comment": "[Unit Prefix] Blocks-per-second",
-		"translation": " points de base",
-		"machine": true
-	},
-	{
 		"phrase": "Projectile spread",
 		"comment": "How much the projectile deviates from where the player is aiming",
 		"translation": "Propagation des projectiles",
-		"machine": true
-	},
-	{
-		"phrase": "°",
-		"comment": "[Unit Prefix] Angle",
-		"translation": "°",
 		"machine": true
 	},
 	{
@@ -5188,13 +4134,13 @@
 	},
 	{
 		"phrase": "Teams",
-		"comment": "Two teams that fight against each other",
+		"comment": "2 Teams",
 		"translation": "Équipes",
 		"machine": true
 	},
 	{
 		"phrase": "Commands",
-		"comment": "Commands that a player can run",
+		"comment": "2 Commands",
 		"translation": "Commandes",
 		"machine": true
 	},
@@ -5220,13 +4166,6 @@
 		"phrase": "Crosshair Style",
 		"comment": "[Setting] Crosshair style, either circle, square or cross",
 		"translation": "Style de croix",
-		"machine": true
-	},
-	{
-		"phrase": "Block",
-		"context": "Voxels",
-		"comment": "The Sector's Edge worlds are composed of blocks\/voxels",
-		"translation": "Bloquer",
 		"machine": true
 	},
 	{
@@ -5322,7 +4261,7 @@
 	},
 	{
 		"phrase": "Friends",
-		"comment": "All of my friends",
+		"comment": "2 Friends",
 		"translation": "Amis",
 		"machine": true
 	},
@@ -5336,24 +4275,6 @@
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "Boosts",
-		"machine": true
-	},
-	{
-		"phrase": "Use Allegiance Colour",
-		"comment": "[Customisation] Use the colour of your selected allegiance",
-		"translation": "Utiliser la couleur d'allégeance",
-		"machine": true
-	},
-	{
-		"phrase": "White Labels",
-		"comment": "Controls whether the text labels on the screen is white or black\"",
-		"translation": "Marques blanches",
-		"machine": true
-	},
-	{
-		"phrase": "Background Colour",
-		"comment": "The colour of the background",
-		"translation": "La couleur de fond",
 		"machine": true
 	},
 	{
@@ -6256,12 +5177,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Voice",
-		"comment": "Voice settings, i.e. push to talk, mute enemies when dead",
-		"translation": "Voix",
-		"machine": true
-	},
-	{
 		"phrase": "Push to talk",
 		"comment": "[Setting] If enabled, the player only broadcasts their voice chat when pressing a specific key",
 		"translation": "Pousser pour parler",
@@ -6503,7 +5418,7 @@
 	},
 	{
 		"phrase": "User interface",
-		"comment": "[Settings Tab] User interface settings",
+		"comment": "UI elements on the screen, buttons, checkboxes, sliders, headers, text, etc",
 		"translation": "Interface utilisateur",
 		"machine": true
 	},
@@ -6755,7 +5670,7 @@
 	},
 	{
 		"phrase": "Background colour",
-		"comment": "",
+		"comment": "The colour of the background",
 		"translation": "La couleur de fond",
 		"machine": true
 	},
@@ -6924,7 +5839,7 @@
 	},
 	{
 		"phrase": "HUD",
-		"comment": "Heads-up-display, e.g. in-game UI like ammo, health, killfeed, minimap, chat",
+		"comment": "Heads-up-display, i.e. in-game UI like ammo, health, killfeed, minimap, chat",
 		"translation": "HUD",
 		"machine": true
 	},
@@ -7680,13 +6595,13 @@
 	},
 	{
 		"phrase": "Friendlies",
-		"comment": "An enemy of Helix is my friend",
+		"comment": "2 Friendlies",
 		"translation": "Matches amicaux",
 		"machine": true
 	},
 	{
 		"phrase": "Enemies",
-		"comment": "An ally of Helix is my enemy",
+		"comment": "2 Enemies",
 		"translation": "Ennemis",
 		"machine": true
 	},
@@ -7832,7 +6747,7 @@
 	},
 	{
 		"phrase": "This map does not support the game mode {0}",
-		"comment": "[Admin chat message] Parameter 0: 'Capture the Flag'",
+		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Cette carte ne prend pas en charge le mode de jeu {0}",
 		"machine": true
 	},
@@ -8092,7 +7007,7 @@
 	},
 	{
 		"phrase": "Block",
-		"comment": "1 Block, i.e. 1 cube",
+		"comment": "1 Block, i.e. 1 cube. The Sector's Edge worlds are composed of blocks\/cubes\/voxels",
 		"translation": "Bloquer",
 		"machine": true
 	},
@@ -8548,12 +7463,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Statistics Colour",
-		"comment": "The colour of player statistics",
-		"translation": "Couleur des statistiques",
-		"machine": true
-	},
-	{
 		"phrase": "Select your active Allegiance",
 		"comment": "This text shows above the list of Allegiances that the player can choose to join",
 		"translation": "Sélectionnez votre allégeance active",
@@ -8581,12 +7490,6 @@
 		"phrase": "Mod Levels",
 		"comment": "An armour mod can either be level 1 or level 2, where level 2 has better parks. This text is a heading for all the mod levels, i.e. 'Mod Levels: Scavenger 0, Scavenger 1'",
 		"translation": "Niveaux de modules",
-		"machine": true
-	},
-	{
-		"phrase": "Grip",
-		"comment": "",
-		"translation": "Saisir",
 		"machine": true
 	},
 	{
@@ -8855,8 +7758,442 @@
 	},
 	{
 		"phrase": "Enemy",
-		"comment": "1 Enemy",
+		"comment": "1 Enemy, i.e. a player who is on the other team",
 		"translation": "Ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "Your team captured a zone",
+		"comment": "Your team captured a zone in the Breakthrough gamemode",
+		"translation": "Votre équipe a capturé une zone",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy captured a zone",
+		"comment": "The enemy team captured a zone in the Breakthrough gamemode",
+		"translation": "L'ennemi a capturé une zone",
+		"machine": true
+	},
+	{
+		"phrase": "Restoration started. Weapon use and respawning disabled",
+		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration starts (it takes a few seconds to finish)",
+		"translation": "La restauration a commencé. utilisation d'armes et réapparition désactivées",
+		"machine": true
+	},
+	{
+		"phrase": "Restoration finished. Respawning and weapon use allowed",
+		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration finishes and players can continue shooting each other",
+		"translation": "Restauration terminée. réapparition et utilisation d'armes autorisées",
+		"machine": true
+	},
+	{
+		"phrase": "Our team defused the enemy bomb",
+		"comment": "Your team defused the enemy bomb in the Escort gamemode",
+		"translation": "Notre équipe a désamorcé la bombe ennemie",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy defused our bomb",
+		"comment": "The enemy team defused our bomb in the Escort gamemode",
+		"translation": "L'ennemi a désamorcé notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "Our team returned our flag",
+		"comment": "Our team returned our flag back to our base in the Capture the Flag gamemode",
+		"translation": "Notre équipe a rendu notre drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy returned their flag",
+		"comment": "The enemy team returned their flag back to their base in the Capture the Flag gamemode",
+		"translation": "L'ennemi a rendu son drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "You picked up our bomb",
+		"comment": "You picked up your team's bomb in the Escort gamemode",
+		"translation": "Tu as ramassé notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "You picked up the enemy flag",
+		"comment": "You stole the enemies flag from their base",
+		"translation": "Tu as ramassé le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy flag carrier has died",
+		"comment": "The enemy that was carrying our flag has been killed",
+		"translation": "Le porte-drapeau ennemi est mort",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy bomb carrier has died",
+		"comment": "The enemy that was carrying their bomb has been killed",
+		"translation": "Le porte-bombe ennemi est mort",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy dropped our flag",
+		"comment": "The enemy that was carrying our flag dropped the flag on the ground",
+		"translation": "L'ennemi a baissé notre drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "The enemy dropped their bomb",
+		"comment": "The enemy that was carrying their bomb dropped the bomb on the ground",
+		"translation": "L'ennemi a lâché sa bombe",
+		"machine": true
+	},
+	{
+		"phrase": "Our flag carrier has died",
+		"comment": "The teammate that was carrying the enemies flag has been killed",
+		"translation": "Notre porte-drapeau est mort",
+		"machine": true
+	},
+	{
+		"phrase": "Our bomb carrier has died",
+		"comment": "The teammate that was carrying our bomb has been killed",
+		"translation": "Notre porte-bombes est mort",
+		"machine": true
+	},
+	{
+		"phrase": "You dropped the enemy flag",
+		"comment": "You dropped the enemies flag on the ground",
+		"translation": "Tu as laissé tomber le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "You dropped our bomb",
+		"comment": "You dropped our bomb on the ground",
+		"translation": "Tu as largué notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "You can no longer modify your structures.",
+		"comment": "When players place inappropriate structures in game, a moderator can remove their ability to modify their structures. This text appears when they attempt to modify their structures",
+		"translation": "Vous ne pouvez plus modifier vos structures.",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Mode bac à sable {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Mode remorque {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode {0}",
+		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
+		"translation": "Mode éternel {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} stole our flag",
+		"comment": "An enemy has stolen our flag. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a volé notre drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "{0} picked up the enemy bomb",
+		"comment": "An enemy has picked up their bomb. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a ramassé la bombe ennemie",
+		"machine": true
+	},
+	{
+		"phrase": "{0} stole the enemy flag",
+		"comment": "A friendly stole the enemy flag. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a volé le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} picked up our bomb",
+		"comment": "An friendly has picked up our bomb. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a ramassé notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now spectating",
+		"comment": "A player left the battle and is now spectating. Parameter 0: 'Vhauss'",
+		"translation": "{0} est maintenant spectateur",
+		"machine": true
+	},
+	{
+		"phrase": "{0} left the planet",
+		"comment": "A player got in their spaceship and departed the planet. Parameter 0: 'Tilitaliboss'",
+		"translation": "{0} a quitté la planète",
+		"machine": true
+	},
+	{
+		"phrase": "{0} joined the chaos",
+		"comment": "A player has arrived in a chaotic battlefield. Parameter 0: 'Potato'",
+		"translation": "{0} rejoint le chaos",
+		"machine": true
+	},
+	{
+		"phrase": "{0} just landed",
+		"comment": "A player has just landed in their spaceship. Parameter 0: 'nemelex'",
+		"translation": "{0} vient d'atterrir",
+		"machine": true
+	},
+	{
+		"phrase": "{0} arrived for battle",
+		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'DemmyBane'",
+		"translation": "{0} est arrivé pour la bataille",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is ready to fight",
+		"comment": "A player arrived at the frontlines and is ready to fight. Parameter 0: 'Spotter654'",
+		"translation": "{0} est prêt à se battre",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is ready for battle",
+		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'Billium'",
+		"translation": "{0} est prêt pour la bataille",
+		"machine": true
+	},
+	{
+		"phrase": "{0} will never give you up",
+		"comment": "Rick Astley has joined the battle and won't give you up. Parameter 0: 'Realkill_1111'",
+		"translation": "{0} ne t'abandonnera jamais",
+		"machine": true
+	},
+	{
+		"phrase": "{0} will never let you down",
+		"comment": "Rick Astley has joined the battle and won't let you down. Parameter 0: 'Blade'",
+		"translation": "{0} ne vous laissera jamais tomber",
+		"machine": true
+	},
+	{
+		"phrase": "Arena X-Ray activated - all players are now visible!",
+		"comment": "If an Arena round lasts too long, X-Ray vision is activated and players can see each other through walls",
+		"translation": "Rayons X de l'arène activés - tous les joueurs sont maintenant visibles!",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has dropped the enemy flag",
+		"comment": "A friendly has dropped the enemy flag on the ground. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a laissé tomber le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has dropped our bomb",
+		"comment": "A friendly has dropped our bomb on the ground. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a lâché notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has captured our flag",
+		"comment": "An enemy has stolen our flag and captured it in their base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a capturé notre drapeau",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has delivered their bomb",
+		"comment": "An enemy has placed their bomb in our base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a livré sa bombe",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has captured the enemy flag",
+		"comment": "A friendly has stolen the enemy flag and captured it in our base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a capturé le drapeau ennemi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has delivered our bomb",
+		"comment": "A friendly has placed our bomb in the enemy base. Parameter 0: 'SlippyTheSlime'",
+		"translation": "{0} a livré notre bombe",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is on a {1} kill streak",
+		"comment": "A player is on a killstreak. Parameter 0: 'zepofan', Parameter 1: '35'",
+		"translation": "{0} est sur une séquence de victimes {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
+		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Enemies'",
+		"translation": "Vague {0} terminée. prochaine vague en {1} {2}...",
+		"machine": true
+	},
+	{
+		"phrase": "Wave {0} begins. {1} {2} approach.",
+		"comment": "The next wave\/group of enemies. The next wave is imminent. Parameter 0: '6', Parameter 1: '40', Parameter 2: 'Enemies'",
+		"translation": "La vague {0} commence. Approche {1} {2}.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has ended {1}'s killstreak at {2} {3}",
+		"comment": "A player with a killstreak has died. Parameter 0: 'deWolf', Parameter 1: 'zepofan', Parameter 2: '40', Parameter 3: 'Kills'",
+		"translation": "{0} a terminé le killstreak de {1} à {2} {3}",
+		"machine": true
+	},
+	{
+		"phrase": "Mouse wheel down",
+		"comment": "Keybind that fires when scrolling the mouse wheel down",
+		"translation": "Molette de la souris vers le bas",
+		"machine": true
+	},
+	{
+		"phrase": "Automatic",
+		"context": "Automatic Fire",
+		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
+		"translation": "Automatique",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been votekicked ({1} - {2})",
+		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
+		"translation": "{0} a été expulsé ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been votekicked ({1} - {2})",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
+		"translation": "{0} n'a pas été expulsé ({1} - {2})",
+		"machine": true
+	},
+	{
+		"phrase": "Save",
+		"context": "Store",
+		"comment": "Save your changes to disk",
+		"translation": "sauvegarder",
+		"machine": true
+	},
+	{
+		"phrase": "Starting in {0} {1}",
+		"comment": "This text shows at the start of a FFA match. Parameter 0: '10', Parameter 1: 'seconds'",
+		"translation": "À partir de {0} {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment point",
+		"comment": "1 Attachment point, which is used to unlock an attachment on a weapon",
+		"translation": "Point de fixation",
+		"machine": true
+	},
+	{
+		"phrase": "Attachment points",
+		"comment": "2 Attachment points, which are used to unlock attachments on a weapon",
+		"translation": "Points d'attache",
+		"machine": true
+	},
+	{
+		"phrase": "Spectator",
+		"comment": "1 Spectator, i.e. someone who is watching a battle",
+		"translation": "Spectateur",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly",
+		"comment": "1 Friendly, i.e. a player who is on your team",
+		"translation": "Amical",
+		"machine": true
+	},
+	{
+		"phrase": "Point",
+		"comment": "1 Point. Players earn points when dealing damage, killing enemies, capturing objectives, etc",
+		"translation": "Indiquer",
+		"machine": true
+	},
+	{
+		"phrase": "Voice",
+		"comment": "Voice chat, where players speak with their voices",
+		"translation": "Voix",
+		"machine": true
+	},
+	{
+		"phrase": "Command",
+		"comment": "1 Command, i.e. a chat command that a player can run to perform an action, e.g. kicking a player",
+		"translation": "Commande",
+		"machine": true
+	},
+	{
+		"phrase": "Use allegiance colour",
+		"comment": "[Customisation] Use the colour of your selected allegiance",
+		"translation": "Utiliser la couleur d'allégeance",
+		"machine": true
+	},
+	{
+		"phrase": "White labels",
+		"comment": "Controls whether the text labels on the screen is white or black\"",
+		"translation": "Marques blanches",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics colour",
+		"comment": "The colour of player statistics",
+		"translation": "Couleur des statistiques",
+		"machine": true
+	},
+	{
+		"phrase": "Click a server to join",
+		"comment": "Prompt telling the player to click any server in the list to join it",
+		"translation": "Cliquez sur un serveur pour rejoindre",
+		"machine": true
+	},
+	{
+		"phrase": "Quick play",
+		"comment": "Click this button to join a random low-ping server with players in it",
+		"translation": "Jeu rapide",
+		"machine": true
+	},
+	{
+		"phrase": "Server list",
+		"comment": "A list of servers that a player can connect to to play Sector's Edge",
+		"translation": "Liste des serveurs",
+		"machine": true
+	},
+	{
+		"phrase": "Back",
+		"comment": "Go back to the previous screen",
+		"translation": "Retour",
+		"machine": true
+	},
+	{
+		"phrase": "Finished",
+		"comment": "The trial is finished",
+		"translation": "Achevé",
+		"machine": true
+	},
+	{
+		"phrase": "Instructions",
+		"comment": "",
+		"translation": "Des instructions",
+		"machine": true
+	},
+	{
+		"phrase": "Complete each trial within the specified time to earn Protons and licence titles",
+		"comment": "",
+		"translation": "Terminez chaque essai dans le délai imparti pour gagner des protons et des titres de licence",
+		"machine": true
+	},
+	{
+		"phrase": "Reach the",
+		"comment": "",
+		"translation": "Atteindre le",
+		"machine": true
+	},
+	{
+		"phrase": "platform to win\nAvoid touching the",
+		"comment": "",
+		"translation": "plate-forme pour gagner\nEvitez de toucher le",
+		"machine": true
+	},
+	{
+		"phrase": "blocks\nBuild off the",
+		"comment": "",
+		"translation": "blocs\nConstruire à partir de",
 		"machine": true
 	}
 ]
