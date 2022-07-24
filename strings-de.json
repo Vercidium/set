@@ -991,7 +991,7 @@
 	},
 	{
 		"phrase": "Redeploy",
-		"comment": "[In-Game Escape Menu]",
+		"comment": "Kill your character and go back to the respawn screen",
 		"translation": "Erneut bereitstellen",
 		"machine": true
 	},
@@ -1081,7 +1081,7 @@
 	},
 	{
 		"phrase": "Join the battle",
-		"comment": "[In-Game Escape Menu] This text shows instead of 'Redeploying' when the player is spectating",
+		"comment": "Change from a spectator to a player fighting in the battle",
 		"translation": "Schließ dich dem Kampf an",
 		"machine": true
 	},
@@ -3101,14 +3101,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Join Battle",
-		"comment": "[Keybind] Button on the scoreboard that the player can click to join the battle",
-		"translation": "Nimm am Kampf teil",
-		"machine": true
-	},
-	{
 		"phrase": "Spectate Battle",
-		"comment": "[Keybind] Button on the scoreboard that the player can click to spectate the battle",
+		"comment": "Abandon Helix and spectate the battle from afar. A smart choice",
 		"translation": "Schlacht zuschauen",
 		"machine": true
 	},
@@ -8315,6 +8309,18 @@
 		"phrase": "blocks\nBuild off the",
 		"comment": "",
 		"translation": "Blöcke\nBauen Sie die ab",
+		"machine": true
+	},
+	{
+		"phrase": "Scoreboard",
+		"comment": "A list of players in game sorted descending by the amount of points they have",
+		"translation": "Anzeigetafel",
+		"machine": true
+	},
+	{
+		"phrase": "You must wait {0}s before initiating another votekick",
+		"comment": "Warning message when a player attempts to votekick another player during the votekick cooldown",
+		"translation": "Sie müssen {0}s warten, bevor Sie einen weiteren Votekick auslösen",
 		"machine": true
 	}
 ]
