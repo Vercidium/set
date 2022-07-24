@@ -779,7 +779,7 @@
 	},
 	{
 		"phrase": "Players",
-		"comment": "Column header on the server list",
+		"comment": "2 Players",
 		"translation": "Игроков"
 	},
 	{
@@ -1773,7 +1773,7 @@
 	},
 	{
 		"phrase": "Restart",
-		"comment": "[Trials] [Button] Click this button to restart the trial",
+		"comment": "Start the current trial again",
 		"translation": "Перезапустить"
 	},
 	{
@@ -1827,22 +1827,22 @@
 	},
 	{
 		"phrase": "Rewards",
-		"comment": "[Trial] [Title] This text shows above the rewards you earned for completing this trial",
+		"comment": "A list of rewards the player gets for completing a trial",
 		"translation": "Награды"
 	},
 	{
 		"phrase": "Yellow",
-		"comment": "",
+		"comment": "The colour yellow",
 		"translation": "желтой"
 	},
 	{
 		"phrase": "Red",
-		"comment": "",
+		"comment": "The colour red",
 		"translation": "красным"
 	},
 	{
 		"phrase": "Purple",
-		"comment": "",
+		"comment": "The colour purple",
 		"translation": "фиолетовых"
 	},
 	{
@@ -3698,12 +3698,6 @@
 		"phrase": "Modifications - [{0}]",
 		"comment": "Armour modifications. Parameter 0: '3'",
 		"translation": "Модификации - [{0}]",
-		"machine": true
-	},
-	{
-		"phrase": "Not attempted",
-		"comment": "This trial has not been attempted",
-		"translation": "Не пытался",
 		"machine": true
 	},
 	{
@@ -7970,24 +7964,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Reach the",
-		"comment": "",
-		"translation": "Достичь",
-		"machine": true
-	},
-	{
-		"phrase": "platform to win\nAvoid touching the",
-		"comment": "",
-		"translation": "платформа для победы\nИзбегайте прикосновения к",
-		"machine": true
-	},
-	{
-		"phrase": "blocks\nBuild off the",
-		"comment": "",
-		"translation": "блоки\nПостроить из",
-		"machine": true
-	},
-	{
 		"phrase": "Scoreboard",
 		"comment": "A list of players in game sorted descending by the amount of points they have",
 		"translation": "Табло",
@@ -7997,6 +7973,78 @@
 		"phrase": "You must wait {0}s before initiating another votekick",
 		"comment": "Warning message when a player attempts to votekick another player during the votekick cooldown",
 		"translation": "Вы должны подождать {0}s, прежде чем инициировать другой голосование",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Complete",
+		"comment": "The player has completed the time trial",
+		"translation": "Пробная версия завершена",
+		"machine": true
+	},
+	{
+		"phrase": "Not completed",
+		"comment": "This trial has not been completed",
+		"translation": "Не завершен",
+		"machine": true
+	},
+	{
+		"phrase": "This time",
+		"comment": "How long it just took for the player to complete the trial, i.e. 'This time' vs 'Best time'",
+		"translation": "В это время",
+		"machine": true
+	},
+	{
+		"phrase": "Best time",
+		"comment": "The fastest time the player completed the trial, i.e. 'This time' vs 'Best time'",
+		"translation": "Лучшее время",
+		"machine": true
+	},
+	{
+		"phrase": "Saving time",
+		"comment": "Loading text that shows while the server is saving\/storing the player's time",
+		"translation": "Экономия времени",
+		"machine": true
+	},
+	{
+		"phrase": "Time saved",
+		"comment": "The player's time has been saved\/stored by the server",
+		"translation": "Сэкономленное время",
+		"machine": true
+	},
+	{
+		"phrase": "Leave",
+		"comment": "Exit \/ leave the trials",
+		"translation": "Оставлять",
+		"machine": true
+	},
+	{
+		"phrase": "TBD",
+		"comment": "Acronym for 'to be determined'",
+		"translation": "подлежит уточнению",
+		"machine": true
+	},
+	{
+		"phrase": "Player",
+		"comment": "1 Player, i.e. someone who is playing Sector's Edge",
+		"translation": "Игрок",
+		"machine": true
+	},
+	{
+		"phrase": "Reach the {0} platform to finish",
+		"comment": "Trial instructions, the player needs to stand on the yellow platform to complete the trial. Parameter 0: 'Yellow'",
+		"translation": "Доберитесь до платформы {0}, чтобы закончить",
+		"machine": true
+	},
+	{
+		"phrase": "Avoid touching the {0} blocks",
+		"comment": "Trial instructions, the player fails if they touch any red blocks. Parameter 0: 'Red",
+		"translation": "Не прикасайтесь к блокам {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Build off the {0} blocks",
+		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks",
+		"translation": "Соберите блоки {0}",
 		"machine": true
 	}
 ]

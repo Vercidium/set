@@ -1223,7 +1223,7 @@
 	},
 	{
 		"phrase": "Players",
-		"comment": "Column header on the server list",
+		"comment": "2 Players",
 		"translation": "Giocatori",
 		"machine": true
 	},
@@ -1938,7 +1938,7 @@
 	},
 	{
 		"phrase": "Restart",
-		"comment": "[Trials] [Button] Click this button to restart the trial",
+		"comment": "Start the current trial again",
 		"translation": "Ricomincia",
 		"machine": true
 	},
@@ -2002,25 +2002,25 @@
 	},
 	{
 		"phrase": "Rewards",
-		"comment": "[Trial] [Title] This text shows above the rewards you earned for completing this trial",
+		"comment": "A list of rewards the player gets for completing a trial",
 		"translation": "ricompense",
 		"machine": true
 	},
 	{
 		"phrase": "Yellow",
-		"comment": "",
+		"comment": "The colour yellow",
 		"translation": "Giallo",
 		"machine": true
 	},
 	{
 		"phrase": "Red",
-		"comment": "",
+		"comment": "The colour red",
 		"translation": "rosso",
 		"machine": true
 	},
 	{
 		"phrase": "Purple",
-		"comment": "",
+		"comment": "The colour purple",
 		"translation": "Viola",
 		"machine": true
 	},
@@ -3942,12 +3942,6 @@
 		"phrase": "Modifications - [{0}]",
 		"comment": "Armour modifications. Parameter 0: '3'",
 		"translation": "Modifiche - [{0}]",
-		"machine": true
-	},
-	{
-		"phrase": "Not attempted",
-		"comment": "This trial has not been attempted",
-		"translation": "Non tentato",
 		"machine": true
 	},
 	{
@@ -8261,24 +8255,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Reach the",
-		"comment": "",
-		"translation": "Arriva a",
-		"machine": true
-	},
-	{
-		"phrase": "platform to win\nAvoid touching the",
-		"comment": "",
-		"translation": "piattaforma per vincere\nEvitare di toccare il",
-		"machine": true
-	},
-	{
-		"phrase": "blocks\nBuild off the",
-		"comment": "",
-		"translation": "blocchi\nCostruisci il",
-		"machine": true
-	},
-	{
 		"phrase": "Scoreboard",
 		"comment": "A list of players in game sorted descending by the amount of points they have",
 		"translation": "Quadro di valutazione",
@@ -8288,6 +8264,78 @@
 		"phrase": "You must wait {0}s before initiating another votekick",
 		"comment": "Warning message when a player attempts to votekick another player during the votekick cooldown",
 		"translation": "È necessario attendere {0} prima di avviare un'altra votazione",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Complete",
+		"comment": "The player has completed the time trial",
+		"translation": "Prova completata",
+		"machine": true
+	},
+	{
+		"phrase": "Not completed",
+		"comment": "This trial has not been completed",
+		"translation": "Non completato",
+		"machine": true
+	},
+	{
+		"phrase": "This time",
+		"comment": "How long it just took for the player to complete the trial, i.e. 'This time' vs 'Best time'",
+		"translation": "Questa volta",
+		"machine": true
+	},
+	{
+		"phrase": "Best time",
+		"comment": "The fastest time the player completed the trial, i.e. 'This time' vs 'Best time'",
+		"translation": "Miglior tempo",
+		"machine": true
+	},
+	{
+		"phrase": "Saving time",
+		"comment": "Loading text that shows while the server is saving\/storing the player's time",
+		"translation": "Risparmio di tempo",
+		"machine": true
+	},
+	{
+		"phrase": "Time saved",
+		"comment": "The player's time has been saved\/stored by the server",
+		"translation": "Tempo risparmiato",
+		"machine": true
+	},
+	{
+		"phrase": "Leave",
+		"comment": "Exit \/ leave the trials",
+		"translation": "Lasciare",
+		"machine": true
+	},
+	{
+		"phrase": "TBD",
+		"comment": "Acronym for 'to be determined'",
+		"translation": "TBD",
+		"machine": true
+	},
+	{
+		"phrase": "Player",
+		"comment": "1 Player, i.e. someone who is playing Sector's Edge",
+		"translation": "Giocatore",
+		"machine": true
+	},
+	{
+		"phrase": "Reach the {0} platform to finish",
+		"comment": "Trial instructions, the player needs to stand on the yellow platform to complete the trial. Parameter 0: 'Yellow'",
+		"translation": "Raggiungi la piattaforma {0} per finire",
+		"machine": true
+	},
+	{
+		"phrase": "Avoid touching the {0} blocks",
+		"comment": "Trial instructions, the player fails if they touch any red blocks. Parameter 0: 'Red",
+		"translation": "Evitare di toccare i blocchi {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Build off the {0} blocks",
+		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks",
+		"translation": "Costruisci i blocchi {0}",
 		"machine": true
 	}
 ]
