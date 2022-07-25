@@ -957,12 +957,12 @@
 	},
 	{
 		"phrase": "Peacekeeper",
-		"comment": "[Setting] This is a setting that players can adjust to deal less damage to new players but earn more rewards",
+		"comment": "This is a setting that players can enable to deal less damage to new players but earn more rewards",
 		"translation": "Peacekeeper"
 	},
 	{
 		"phrase": "Networking",
-		"comment": "[Settings Tab] Networking settings",
+		"comment": "Networking\/communication\/internet",
 		"translation": "Ağ"
 	},
 	{
@@ -994,11 +994,6 @@
 		"phrase": "Show HUD",
 		"comment": "[Setting] [Radio Element] Controls whether HUD should be visible",
 		"translation": "HUD'ı Göster"
-	},
-	{
-		"phrase": "Secret",
-		"comment": "[Setting] This is a secret setting, look away!",
-		"translation": "Gizli"
 	},
 	{
 		"phrase": "Brightness",
@@ -2515,12 +2510,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Sunucudan oyuncu verilerini ne sıklıkta alacağınızı değiştirir. kararsız veya düşük bant genişliğine sahip internetteyseniz bu değeri düşürün.",
-		"machine": true
-	},
-	{
 		"phrase": "Home",
 		"comment": "The home screen is where the player can read news and quick play",
 		"translation": "Ev",
@@ -3130,12 +3119,6 @@
 		"phrase": "Unable to connect to the Steam servers, please relaunch the game. {persists}",
 		"comment": "Steam error",
 		"translation": "Steam sunucularına bağlanılamıyor, lütfen oyunu yeniden başlatın. {persists}",
-		"machine": true
-	},
-	{
-		"phrase": "Steam error - this social sidebar will no longer update.",
-		"comment": "Steam error message",
-		"translation": "Steam hatası - bu sosyal kenar çubuğu artık güncellenmeyecek.",
 		"machine": true
 	},
 	{
@@ -3999,14 +3982,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search titles...",
-		"comment": "Placeholder text for searching through a list of titles the player has earned. An example of a title is 'Revolver Master' or 'Deathbringer'",
-		"translation": "Başlık aramak için buraya yazın...",
-		"machine": true
-	},
-	{
 		"phrase": "Title",
-		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
+		"comment": "1 Title. Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
 		"translation": "Başlık",
 		"machine": true
 	},
@@ -4086,12 +4063,6 @@
 		"phrase": "Melee cooldown",
 		"comment": "How long the player has to wait before meleeing again",
 		"translation": "Yakın dövüş bekleme süresi",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search maps...",
-		"comment": "Placeholder text for searching through a list of maps",
-		"translation": "Haritaları aramak için buraya yazın...",
 		"machine": true
 	},
 	{
@@ -4586,12 +4557,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search settings...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Ayarları aramak için buraya yazın...",
-		"machine": true
-	},
-	{
 		"phrase": "Manual",
 		"comment": "Perform this task manually",
 		"translation": "Manuel",
@@ -4635,7 +4600,7 @@
 	},
 	{
 		"phrase": "Networking rate",
-		"comment": "[Setting] Controls how often the server sends data to the client, either 30 FPS or 60 FPS",
+		"comment": "How often the server sends data to the client, either 30 FPS or 60 FPS",
 		"translation": "ağ hızı",
 		"machine": true
 	},
@@ -5319,62 +5284,67 @@
 	},
 	{
 		"phrase": "Border",
-		"comment": "Rectangle border colour",
+		"comment": "The border\/stroke\/outline\/edge of a rectangle",
 		"translation": "Sınır",
 		"machine": true
 	},
 	{
 		"phrase": "Outside",
-		"comment": "How much ammo is in the player's gun",
+		"comment": "The opposite of inside",
 		"translation": "Dışarıda",
 		"machine": true
 	},
 	{
 		"phrase": "Overlap",
-		"comment": "How many blocks the player has",
+		"comment": "Two objects overlapping each other",
 		"translation": "Üst üste gelmek",
 		"machine": true
 	},
 	{
 		"phrase": "CW",
-		"comment": "How much ammo is in the player's gun",
+		"comment": "Abbreviation for clockwise",
 		"translation": "CW",
 		"machine": true
 	},
 	{
 		"phrase": "CCW",
-		"comment": "How many blocks the player has",
+		"comment": "Abbreviation for counter-clockwise",
 		"translation": "CCW",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair fill",
-		"comment": "[Setting]",
+		"comment": "Fill the crosshair circle with a solid colour",
 		"translation": "Artı işareti dolgusu",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair radius",
+		"comment": "The radius of the crosshair circle",
 		"translation": "artı yarıçapı",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair thickness",
+		"comment": "The thickness of the border of the crosshair circle",
 		"translation": "artı kalınlığı",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair length",
+		"comment": "This refers to the length of each line in a plus-shaped crosshair",
 		"translation": "artı uzunluğu",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair spacing",
+		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
 		"translation": "Artı işareti aralığı",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair width",
+		"comment": "This refers to the width of each line in a plus-shaped crosshair",
 		"translation": "Artı işareti genişliği",
 		"machine": true
 	},
@@ -5386,6 +5356,7 @@
 	},
 	{
 		"phrase": "Background thickness",
+		"comment": "The thickness of the dark transparent background behind the crosshair",
 		"translation": "Arka plan kalınlığı",
 		"machine": true
 	},
@@ -5397,32 +5368,37 @@
 	},
 	{
 		"phrase": "Info background thickness",
+		"comment": "The thickness of the dark transparent background behind the ammo\/health info UI",
 		"translation": "Bilgi arka plan kalınlığı",
 		"machine": true
 	},
 	{
 		"phrase": "Info background colour",
-		"comment": "",
+		"comment": "The colour of the dark transparent background behind the ammo\/health info UI around the crosshair",
 		"translation": "Bilgi arka plan rengi",
 		"machine": true
 	},
 	{
 		"phrase": "Left edge type",
+		"comment": "The player can show their ammo\/health around the crosshair. This setting controls what info (ammo or health or nothing) gets displayed on the left side of their crosshair",
 		"translation": "Sol kenar tipi",
 		"machine": true
 	},
 	{
 		"phrase": "Right edge type",
+		"comment": "This setting controls what info gets displayed on the right side of their crosshair",
 		"translation": "Sağ kenar tipi",
 		"machine": true
 	},
 	{
 		"phrase": "Top edge type",
+		"comment": "This setting controls what info gets displayed on the top side of their crosshair",
 		"translation": "Üst kenar tipi",
 		"machine": true
 	},
 	{
 		"phrase": "Bottom edge type",
+		"comment": "This setting controls what info gets displayed on the bottom side of their crosshair",
 		"translation": "Alt kenar tipi",
 		"machine": true
 	},
@@ -7076,24 +7052,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search trials...",
-		"comment": "Placeholder text for searching through a list of single-player trials",
-		"translation": "Denemeleri aramak için buraya yazın...",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search statistics...",
-		"comment": "Placeholder text for searching through a list of statistics",
-		"translation": "İstatistikleri aramak için buraya yazın...",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search achievements...",
-		"comment": "Placeholder text for searching through a list of achievements the player has completed",
-		"translation": "Başarıları aramak için buraya yazın...",
-		"machine": true
-	},
-	{
 		"phrase": "Sao Paulo",
 		"comment": "Server location",
 		"translation": "Sao Paulo",
@@ -7981,6 +7939,54 @@
 		"phrase": "Build off the {0} blocks",
 		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks",
 		"translation": "{0} bloklarını oluşturun",
+		"machine": true
+	},
+	{
+		"phrase": "Achievements",
+		"comment": "Something the player can achieve",
+		"translation": "Başarılar",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search {0}...",
+		"comment": "Placeholder text for a search field. Parameter 0: 'Settings'",
+		"translation": "{0}'ı aramak için buraya yazın...",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics",
+		"comment": "Data",
+		"translation": "İstatistik",
+		"machine": true
+	},
+	{
+		"phrase": "Networking rate changes how often you receive data from the server. Set this to 30 FPS if you have unstable or slow internet",
+		"comment": "Tooltip for the Networking Rate setting",
+		"translation": "Ağ hızı, sunucudan ne sıklıkta veri aldığınızı değiştirir. kararsız veya yavaş internetiniz varsa bunu 30 FPS'ye ayarlayın",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to connect to {0}",
+		"comment": "Error message to show the client could not communicate with a server. Parameter 0: 'Fremont-1'",
+		"translation": "{0}'a bağlanılamadı",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to load resource {0}",
+		"comment": "Error message to show the client failed to load a file from disk. Parameter 0: 'help.png'",
+		"translation": "{0} kaynağı yüklenemedi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} error - this social sidebar will no longer update.",
+		"comment": "Steam error message that indicates the friends on the sidebar on the right side of the screen will no longer update. Parameter 0: 'Steam'",
+		"translation": "{0} hatası - bu sosyal kenar çubuğu artık güncellenmeyecek.",
+		"machine": true
+	},
+	{
+		"phrase": "Titles",
+		"comment": "2 Titles",
+		"translation": "Başlıklar",
 		"machine": true
 	}
 ]

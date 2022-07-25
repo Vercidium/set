@@ -1351,13 +1351,13 @@
 	},
 	{
 		"phrase": "Peacekeeper",
-		"comment": "[Setting] This is a setting that players can adjust to deal less damage to new players but earn more rewards",
+		"comment": "This is a setting that players can enable to deal less damage to new players but earn more rewards",
 		"translation": "Vredestichter",
 		"machine": true
 	},
 	{
 		"phrase": "Networking",
-		"comment": "[Settings Tab] Networking settings",
+		"comment": "Networking\/communication\/internet",
 		"translation": "Netwerken",
 		"machine": true
 	},
@@ -1389,12 +1389,6 @@
 		"phrase": "Show HUD",
 		"comment": "[Setting] [Radio Element] Controls whether HUD should be visible",
 		"translation": "Toon HUD",
-		"machine": true
-	},
-	{
-		"phrase": "Secret",
-		"comment": "[Setting] This is a secret setting, look away!",
-		"translation": "Geheim",
 		"machine": true
 	},
 	{
@@ -2945,12 +2939,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Wijzigt hoe vaak u spelergegevens van de server ontvangt. verlaag deze waarde als u een onstabiel internet of internet met een lage bandbreedte gebruikt.",
-		"machine": true
-	},
-	{
 		"phrase": "Home",
 		"comment": "The home screen is where the player can read news and quick play",
 		"translation": "Huis",
@@ -3560,12 +3548,6 @@
 		"phrase": "Unable to connect to the Steam servers, please relaunch the game. {persists}",
 		"comment": "Steam error",
 		"translation": "Kan geen verbinding maken met de Steam-servers, start het spel opnieuw. {persists}",
-		"machine": true
-	},
-	{
-		"phrase": "Steam error - this social sidebar will no longer update.",
-		"comment": "Steam error message",
-		"translation": "Steam-fout - deze sociale zijbalk wordt niet langer bijgewerkt.",
 		"machine": true
 	},
 	{
@@ -4429,14 +4411,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search titles...",
-		"comment": "Placeholder text for searching through a list of titles the player has earned. An example of a title is 'Revolver Master' or 'Deathbringer'",
-		"translation": "Typ hier om titels te zoeken...",
-		"machine": true
-	},
-	{
 		"phrase": "Title",
-		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
+		"comment": "1 Title. Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
 		"translation": "Titel",
 		"machine": true
 	},
@@ -4516,12 +4492,6 @@
 		"phrase": "Melee cooldown",
 		"comment": "How long the player has to wait before meleeing again",
 		"translation": "Melee afkoeling",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search maps...",
-		"comment": "Placeholder text for searching through a list of maps",
-		"translation": "Typ hier om kaarten te zoeken...",
 		"machine": true
 	},
 	{
@@ -5016,12 +4986,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search settings...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Typ hier om instellingen te zoeken...",
-		"machine": true
-	},
-	{
 		"phrase": "Manual",
 		"comment": "Perform this task manually",
 		"translation": "Handleiding",
@@ -5065,7 +5029,7 @@
 	},
 	{
 		"phrase": "Networking rate",
-		"comment": "[Setting] Controls how often the server sends data to the client, either 30 FPS or 60 FPS",
+		"comment": "How often the server sends data to the client, either 30 FPS or 60 FPS",
 		"translation": "Netwerksnelheid",
 		"machine": true
 	},
@@ -5749,62 +5713,67 @@
 	},
 	{
 		"phrase": "Border",
-		"comment": "Rectangle border colour",
+		"comment": "The border\/stroke\/outline\/edge of a rectangle",
 		"translation": "Grens",
 		"machine": true
 	},
 	{
 		"phrase": "Outside",
-		"comment": "How much ammo is in the player's gun",
+		"comment": "The opposite of inside",
 		"translation": "Buiten",
 		"machine": true
 	},
 	{
 		"phrase": "Overlap",
-		"comment": "How many blocks the player has",
+		"comment": "Two objects overlapping each other",
 		"translation": "Overlappen",
 		"machine": true
 	},
 	{
 		"phrase": "CW",
-		"comment": "How much ammo is in the player's gun",
+		"comment": "Abbreviation for clockwise",
 		"translation": "CW",
 		"machine": true
 	},
 	{
 		"phrase": "CCW",
-		"comment": "How many blocks the player has",
+		"comment": "Abbreviation for counter-clockwise",
 		"translation": "CCW",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair fill",
-		"comment": "[Setting]",
+		"comment": "Fill the crosshair circle with a solid colour",
 		"translation": "Crosshair-vulling",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair radius",
+		"comment": "The radius of the crosshair circle",
 		"translation": "Draadkruis straal",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair thickness",
+		"comment": "The thickness of the border of the crosshair circle",
 		"translation": "Dikte dradenkruis",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair length",
+		"comment": "This refers to the length of each line in a plus-shaped crosshair",
 		"translation": "Dradenkruis lengte",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair spacing",
+		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
 		"translation": "Crosshair-afstand",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair width",
+		"comment": "This refers to the width of each line in a plus-shaped crosshair",
 		"translation": "Breedte dradenkruis",
 		"machine": true
 	},
@@ -5816,6 +5785,7 @@
 	},
 	{
 		"phrase": "Background thickness",
+		"comment": "The thickness of the dark transparent background behind the crosshair",
 		"translation": "Achtergronddikte:",
 		"machine": true
 	},
@@ -5827,32 +5797,37 @@
 	},
 	{
 		"phrase": "Info background thickness",
+		"comment": "The thickness of the dark transparent background behind the ammo\/health info UI",
 		"translation": "Info achtergrond dikte:",
 		"machine": true
 	},
 	{
 		"phrase": "Info background colour",
-		"comment": "",
+		"comment": "The colour of the dark transparent background behind the ammo\/health info UI around the crosshair",
 		"translation": "Info achtergrondkleur",
 		"machine": true
 	},
 	{
 		"phrase": "Left edge type",
+		"comment": "The player can show their ammo\/health around the crosshair. This setting controls what info (ammo or health or nothing) gets displayed on the left side of their crosshair",
 		"translation": "Type linkerrand",
 		"machine": true
 	},
 	{
 		"phrase": "Right edge type",
+		"comment": "This setting controls what info gets displayed on the right side of their crosshair",
 		"translation": "Type rechterrand",
 		"machine": true
 	},
 	{
 		"phrase": "Top edge type",
+		"comment": "This setting controls what info gets displayed on the top side of their crosshair",
 		"translation": "Type bovenrand",
 		"machine": true
 	},
 	{
 		"phrase": "Bottom edge type",
+		"comment": "This setting controls what info gets displayed on the bottom side of their crosshair",
 		"translation": "Type onderrand",
 		"machine": true
 	},
@@ -7506,24 +7481,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search trials...",
-		"comment": "Placeholder text for searching through a list of single-player trials",
-		"translation": "Typ hier om proeven te zoeken...",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search statistics...",
-		"comment": "Placeholder text for searching through a list of statistics",
-		"translation": "Typ hier om statistieken te zoeken...",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search achievements...",
-		"comment": "Placeholder text for searching through a list of achievements the player has completed",
-		"translation": "Typ hier om prestaties te zoeken...",
-		"machine": true
-	},
-	{
 		"phrase": "Sao Paulo",
 		"comment": "Server location",
 		"translation": "Sao Paulo",
@@ -8411,6 +8368,54 @@
 		"phrase": "Build off the {0} blocks",
 		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks",
 		"translation": "Bouw de {0}-blokken op",
+		"machine": true
+	},
+	{
+		"phrase": "Achievements",
+		"comment": "Something the player can achieve",
+		"translation": "Prestaties",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search {0}...",
+		"comment": "Placeholder text for a search field. Parameter 0: 'Settings'",
+		"translation": "Typ hier om {0}. te zoeken...",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics",
+		"comment": "Data",
+		"translation": "Statistieken",
+		"machine": true
+	},
+	{
+		"phrase": "Networking rate changes how often you receive data from the server. Set this to 30 FPS if you have unstable or slow internet",
+		"comment": "Tooltip for the Networking Rate setting",
+		"translation": "De netwerksnelheid verandert hoe vaak u gegevens van de server ontvangt. stel dit in op 30 FPS als je onstabiel of traag internet hebt",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to connect to {0}",
+		"comment": "Error message to show the client could not communicate with a server. Parameter 0: 'Fremont-1'",
+		"translation": "Kan geen verbinding maken met {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to load resource {0}",
+		"comment": "Error message to show the client failed to load a file from disk. Parameter 0: 'help.png'",
+		"translation": "Kan bron {0} niet laden",
+		"machine": true
+	},
+	{
+		"phrase": "{0} error - this social sidebar will no longer update.",
+		"comment": "Steam error message that indicates the friends on the sidebar on the right side of the screen will no longer update. Parameter 0: 'Steam'",
+		"translation": "{0}-fout - deze sociale zijbalk wordt niet meer bijgewerkt.",
+		"machine": true
+	},
+	{
+		"phrase": "Titles",
+		"comment": "2 Titles",
+		"translation": "Titels",
 		"machine": true
 	}
 ]

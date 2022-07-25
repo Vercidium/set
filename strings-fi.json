@@ -1162,12 +1162,12 @@
 	},
 	{
 		"phrase": "Peacekeeper",
-		"comment": "[Setting] This is a setting that players can adjust to deal less damage to new players but earn more rewards",
+		"comment": "This is a setting that players can enable to deal less damage to new players but earn more rewards",
 		"translation": "Rauhanturvaaja"
 	},
 	{
 		"phrase": "Networking",
-		"comment": "[Settings Tab] Networking settings",
+		"comment": "Networking\/communication\/internet",
 		"translation": "Verkostoituminen"
 	},
 	{
@@ -1194,11 +1194,6 @@
 		"phrase": "Show HUD",
 		"comment": "[Setting] [Radio Element] Controls whether HUD should be visible",
 		"translation": "Näytä HUD"
-	},
-	{
-		"phrase": "Secret",
-		"comment": "[Setting] This is a secret setting, look away!",
-		"translation": "Salaisuus"
 	},
 	{
 		"phrase": "Brightness",
@@ -2618,12 +2613,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Changes how often you receive player data from the server. Lower this value if you are on unstable or low-bandwidth internet.",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Muuttaa, kuinka usein vastaanotat pelaajatietoja palvelimelta. alenna tätä arvoa, jos käytössäsi on epävakaa tai matalan kaistanleveyden internet.",
-		"machine": true
-	},
-	{
 		"phrase": "Home",
 		"comment": "The home screen is where the player can read news and quick play",
 		"translation": "Koti",
@@ -3233,12 +3222,6 @@
 		"phrase": "Unable to connect to the Steam servers, please relaunch the game. {persists}",
 		"comment": "Steam error",
 		"translation": "Ei voi muodostaa yhteyttä steam-palvelimiin, käynnistä peli uudelleen. {persists}",
-		"machine": true
-	},
-	{
-		"phrase": "Steam error - this social sidebar will no longer update.",
-		"comment": "Steam error message",
-		"translation": "Steam-virhe – tämä sosiaalinen sivupalkki ei enää päivity.",
 		"machine": true
 	},
 	{
@@ -4102,14 +4085,8 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search titles...",
-		"comment": "Placeholder text for searching through a list of titles the player has earned. An example of a title is 'Revolver Master' or 'Deathbringer'",
-		"translation": "Kirjoita tähän etsiäksesi otsikoita...",
-		"machine": true
-	},
-	{
 		"phrase": "Title",
-		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
+		"comment": "1 Title. Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
 		"translation": "Otsikko",
 		"machine": true
 	},
@@ -4189,12 +4166,6 @@
 		"phrase": "Melee cooldown",
 		"comment": "How long the player has to wait before meleeing again",
 		"translation": "Lähitaistelun jäähtyminen",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search maps...",
-		"comment": "Placeholder text for searching through a list of maps",
-		"translation": "Kirjoita tähän etsiäksesi karttoja...",
 		"machine": true
 	},
 	{
@@ -4689,12 +4660,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search settings...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Kirjoita tähän etsiäksesi asetuksia...",
-		"machine": true
-	},
-	{
 		"phrase": "Manual",
 		"comment": "Perform this task manually",
 		"translation": "Manuaalinen",
@@ -4738,7 +4703,7 @@
 	},
 	{
 		"phrase": "Networking rate",
-		"comment": "[Setting] Controls how often the server sends data to the client, either 30 FPS or 60 FPS",
+		"comment": "How often the server sends data to the client, either 30 FPS or 60 FPS",
 		"translation": "Verkostoitumisnopeus",
 		"machine": true
 	},
@@ -5422,62 +5387,67 @@
 	},
 	{
 		"phrase": "Border",
-		"comment": "Rectangle border colour",
+		"comment": "The border\/stroke\/outline\/edge of a rectangle",
 		"translation": "Raja",
 		"machine": true
 	},
 	{
 		"phrase": "Outside",
-		"comment": "How much ammo is in the player's gun",
+		"comment": "The opposite of inside",
 		"translation": "Ulkopuolella",
 		"machine": true
 	},
 	{
 		"phrase": "Overlap",
-		"comment": "How many blocks the player has",
+		"comment": "Two objects overlapping each other",
 		"translation": "Päällekkäisyys",
 		"machine": true
 	},
 	{
 		"phrase": "CW",
-		"comment": "How much ammo is in the player's gun",
+		"comment": "Abbreviation for clockwise",
 		"translation": "CW",
 		"machine": true
 	},
 	{
 		"phrase": "CCW",
-		"comment": "How many blocks the player has",
+		"comment": "Abbreviation for counter-clockwise",
 		"translation": "CCW",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair fill",
-		"comment": "[Setting]",
+		"comment": "Fill the crosshair circle with a solid colour",
 		"translation": "Hiusristikkotäyttö",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair radius",
+		"comment": "The radius of the crosshair circle",
 		"translation": "Hiusristikon säde",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair thickness",
+		"comment": "The thickness of the border of the crosshair circle",
 		"translation": "Hiusristikon paksuus",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair length",
+		"comment": "This refers to the length of each line in a plus-shaped crosshair",
 		"translation": "Hiusristikon pituus",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair spacing",
+		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
 		"translation": "Hiusristikkoväli",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair width",
+		"comment": "This refers to the width of each line in a plus-shaped crosshair",
 		"translation": "Hiusristikon leveys",
 		"machine": true
 	},
@@ -5489,6 +5459,7 @@
 	},
 	{
 		"phrase": "Background thickness",
+		"comment": "The thickness of the dark transparent background behind the crosshair",
 		"translation": "Taustan paksuus",
 		"machine": true
 	},
@@ -5500,32 +5471,37 @@
 	},
 	{
 		"phrase": "Info background thickness",
+		"comment": "The thickness of the dark transparent background behind the ammo\/health info UI",
 		"translation": "Tietojen taustan paksuus",
 		"machine": true
 	},
 	{
 		"phrase": "Info background colour",
-		"comment": "",
+		"comment": "The colour of the dark transparent background behind the ammo\/health info UI around the crosshair",
 		"translation": "Tietojen taustaväri",
 		"machine": true
 	},
 	{
 		"phrase": "Left edge type",
+		"comment": "The player can show their ammo\/health around the crosshair. This setting controls what info (ammo or health or nothing) gets displayed on the left side of their crosshair",
 		"translation": "Vasemman reunan tyyppi",
 		"machine": true
 	},
 	{
 		"phrase": "Right edge type",
+		"comment": "This setting controls what info gets displayed on the right side of their crosshair",
 		"translation": "Oikean reunan tyyppi",
 		"machine": true
 	},
 	{
 		"phrase": "Top edge type",
+		"comment": "This setting controls what info gets displayed on the top side of their crosshair",
 		"translation": "Yläreunan tyyppi",
 		"machine": true
 	},
 	{
 		"phrase": "Bottom edge type",
+		"comment": "This setting controls what info gets displayed on the bottom side of their crosshair",
 		"translation": "Alareunan tyyppi",
 		"machine": true
 	},
@@ -7179,24 +7155,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search trials...",
-		"comment": "Placeholder text for searching through a list of single-player trials",
-		"translation": "Kirjoita tähän etsiäksesi kokeiluversioita...",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search statistics...",
-		"comment": "Placeholder text for searching through a list of statistics",
-		"translation": "Kirjoita tähän etsiäksesi tilastoja...",
-		"machine": true
-	},
-	{
-		"phrase": "Type here to search achievements...",
-		"comment": "Placeholder text for searching through a list of achievements the player has completed",
-		"translation": "Kirjoita tähän etsiäksesi saavutuksia...",
-		"machine": true
-	},
-	{
 		"phrase": "Sao Paulo",
 		"comment": "Server location",
 		"translation": "Sao Paulo",
@@ -8084,6 +8042,54 @@
 		"phrase": "Build off the {0} blocks",
 		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks",
 		"translation": "Rakenna {0}-lohkoista",
+		"machine": true
+	},
+	{
+		"phrase": "Achievements",
+		"comment": "Something the player can achieve",
+		"translation": "Saavutukset",
+		"machine": true
+	},
+	{
+		"phrase": "Type here to search {0}...",
+		"comment": "Placeholder text for a search field. Parameter 0: 'Settings'",
+		"translation": "Kirjoita tähän etsiäksesi {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "Statistics",
+		"comment": "Data",
+		"translation": "Tilastot",
+		"machine": true
+	},
+	{
+		"phrase": "Networking rate changes how often you receive data from the server. Set this to 30 FPS if you have unstable or slow internet",
+		"comment": "Tooltip for the Networking Rate setting",
+		"translation": "Verkkonopeus muuttaa sitä, kuinka usein vastaanotat tietoja palvelimelta. aseta tämä arvoon 30 FPS, jos internetyhteys on epävakaa tai hidas",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to connect to {0}",
+		"comment": "Error message to show the client could not communicate with a server. Parameter 0: 'Fremont-1'",
+		"translation": "Yhteyden muodostaminen {0}:een epäonnistui",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to load resource {0}",
+		"comment": "Error message to show the client failed to load a file from disk. Parameter 0: 'help.png'",
+		"translation": "Resurssin {0} lataaminen epäonnistui",
+		"machine": true
+	},
+	{
+		"phrase": "{0} error - this social sidebar will no longer update.",
+		"comment": "Steam error message that indicates the friends on the sidebar on the right side of the screen will no longer update. Parameter 0: 'Steam'",
+		"translation": "{0}-virhe – tämä sosiaalinen sivupalkki ei enää päivity.",
+		"machine": true
+	},
+	{
+		"phrase": "Titles",
+		"comment": "2 Titles",
+		"translation": "Otsikot",
 		"machine": true
 	}
 ]
