@@ -1428,12 +1428,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
-		"comment": "Description for the 'Streamer mode' setting",
-		"translation": "De servernaam wordt niet weergegeven op het scorebord en de namen en niveaus van andere spelers worden willekeurig voor je verdeeld.",
-		"machine": true
-	},
-	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
 		"comment": "Description for the 'Particle amount' setting",
 		"translation": "Deeltjes worden geproduceerd wanneer objecten worden geraakt of vernietigd. het verlagen van dit percentage zal de FPS verhogen",
@@ -2353,7 +2347,7 @@
 	},
 	{
 		"phrase": "Admin",
-		"comment": "Administrator abbreviation",
+		"comment": "Administrator",
 		"translation": "beheerder",
 		"machine": true
 	},
@@ -2655,14 +2649,8 @@
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parametes are lots of numbers",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
 		"translation": "Vijanden worden gemarkeerd als ze niveau {0} of lager zijn en een KDR van {1} of minder hebben.\n\nZolang vredeshandhaver is ingeschakeld, kun je {2} schade toebrengen aan deze spelers en {3} extra XP en protonen verdienen.\n\nWijzigingen worden van kracht bij respawn. vredeshandhaver heeft geen effect in gratis voor alle spelmodi.",
-		"machine": true
-	},
-	{
-		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
-		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
-		"translation": "Dit regelt de schaal van alle UI en in-game HUD. druk op {0} om het terug te zetten naar 100%",
 		"machine": true
 	},
 	{
@@ -3491,30 +3479,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Failed to locate the Steam API",
-		"comment": "Steam error",
-		"translation": "Kan de Steam-API niet vinden",
-		"machine": true
-	},
-	{
-		"phrase": "The game has not been run through steam and will now restart. Please wait until the EAC launcher appears",
-		"comment": "Steam error",
-		"translation": "Het spel is nog niet door stoom gelopen en zal nu opnieuw opstarten. wacht a.u.b. tot het EAC-opstartprogramma verschijnt",
-		"machine": true
-	},
-	{
-		"phrase": "Failed to initialise the Steam API. {persists}",
-		"comment": "Steam error",
-		"translation": "Kan de Steam-API niet initialiseren. {persists}",
-		"machine": true
-	},
-	{
-		"phrase": "Unable to connect to the Steam servers, please relaunch the game. {persists}",
-		"comment": "Steam error",
-		"translation": "Kan geen verbinding maken met de Steam-servers, start het spel opnieuw. {persists}",
-		"machine": true
-	},
-	{
 		"phrase": "Creating a weapon preset",
 		"comment": "Rich presence",
 		"translation": "Een wapenvoorinstelling maken",
@@ -3642,25 +3606,25 @@
 	},
 	{
 		"phrase": "Allowed",
-		"comment": "Checkbox setting, i.e. 'Spectators are allowed'",
+		"comment": "Spectators are allowed",
 		"translation": "Toegestaan",
 		"machine": true
 	},
 	{
 		"phrase": "Denied",
-		"comment": "Checkbox setting , i.e. 'Spectators are denied'",
+		"comment": "Spectators are denied",
 		"translation": "Geweigerd",
 		"machine": true
 	},
 	{
 		"phrase": "Splash radius",
-		"comment": "[Attachment Stat] The radius that players take splash damage within",
+		"comment": "Splash \/ area of effect refers to small damage the player will take when standing near an explosion",
 		"translation": "Spatstraal",
 		"machine": true
 	},
 	{
 		"phrase": "Explosion radius",
-		"comment": "[Attachment Stat] The radius that players take explosive damage within",
+		"comment": "The radius\/size of an explosion. Blocks and players within this radius will take large damage",
 		"translation": "Explosiestraal",
 		"machine": true
 	},
@@ -3734,18 +3698,6 @@
 		"phrase": "Unlock pose",
 		"comment": "Click this button to unlock a character pose",
 		"translation": "Ontgrendel pose",
-		"machine": true
-	},
-	{
-		"phrase": "[ {0} ] Send team message",
-		"comment": "Chat field instructions. Parameter 0: 'Enter'",
-		"translation": "[ {0} ] Stuur teambericht",
-		"machine": true
-	},
-	{
-		"phrase": "[ {0} ] Send global message",
-		"comment": "Chat field instructions. Parameter 0: 'Enter'",
-		"translation": "[ {0} ] Globaal bericht verzenden",
 		"machine": true
 	},
 	{
@@ -3870,49 +3822,43 @@
 	},
 	{
 		"phrase": "{0} Move camera",
-		"comment": "[Respawn Instructions], i.e. [ CLICK + DRAG ] Move camera",
+		"comment": "Players can move the respawn camera that's looking down on the map by clicking and dragging. Parameter 0: '[ CLICK + DRAG ]'",
 		"translation": "{0} Verplaats camera",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Zoom",
-		"comment": "[Respawn Instructions], i.e.  [ SCROLL ] Zoom",
+		"comment": "Press a key to zoom in and out. Parameter 0: '[ SCROLL ]'",
 		"translation": "{0} Zoom",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Fine zoom control",
-		"comment": "[Respawn Instructions] Lets the player zoom in smaller increments, i.e. [ SHIFT ] Fine zoom control",
+		"comment": "Lets the player zoom in finer\/smaller increments. Parameter 0: '[ SHIFT ]'",
 		"translation": "{0} Fijne zoomregeling",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Spawn near last death",
-		"comment": "[Respawn Instructions], i.e. [ SPACE ] Spawn near last death",
+		"comment": "Players can press a key to spawn near where they died. Parameter 0: '[ SPACE ]'",
 		"translation": "{0} Spawn bijna laatste dood",
 		"machine": true
 	},
 	{
-		"phrase": "{0} Join teammate cluster spawn",
-		"comment": "[Respawn Instructions], i.e. [ CTRL ] Join teammate cluster spawn",
-		"translation": "{0} Word lid van teamgenoot cluster spawn",
-		"machine": true
-	},
-	{
 		"phrase": "Right click to leave the cluster spawn",
-		"comment": "Respawn instructions",
+		"comment": "When a player joins a cluster spawn (multiple players spawning in the same location), they can leave it by right clicking",
 		"translation": "Klik met de rechtermuisknop om de clusterspawn te verlaten",
 		"machine": true
 	},
 	{
 		"phrase": "Left click to respawn",
-		"comment": "Respawn instructions",
+		"comment": "The player can left click to respawn",
 		"translation": "Klik met de linkermuisknop om te respawnen",
 		"machine": true
 	},
 	{
 		"phrase": "Respawn in {0}s...",
-		"comment": "Respawn timer, e.g. 'Respawn in 8.3s...'. 's' is an abbreviation for 'seconds'",
+		"comment": "Respawn timer where 's' is an abbreviation for 'seconds'. Parameter 0: '8.3'",
 		"translation": "Respawn in {0}s...",
 		"machine": true
 	},
@@ -3967,19 +3913,19 @@
 	},
 	{
 		"phrase": "Draw",
-		"comment": "The match was a draw",
+		"comment": "The match was a draw\/stalemate",
 		"translation": "Tekenen",
 		"machine": true
 	},
 	{
 		"phrase": "Victory",
-		"comment": "This team won the match",
+		"comment": "Your team won the match",
 		"translation": "zege",
 		"machine": true
 	},
 	{
 		"phrase": "Defeat",
-		"comment": "This team lost the match",
+		"comment": "Your team lost the match",
 		"translation": "Verlies",
 		"machine": true
 	},
@@ -4065,12 +4011,6 @@
 		"phrase": "Rate of fire",
 		"comment": "How many times a weapon fires per minute",
 		"translation": "Vuursnelheid",
-		"machine": true
-	},
-	{
-		"phrase": " rpm",
-		"comment": "[Unit Prefix] Revs-per-minute",
-		"translation": " toeren",
 		"machine": true
 	},
 	{
@@ -4224,12 +4164,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search setting...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Typ hier om de instelling te zoeken...",
-		"machine": true
-	},
-	{
 		"phrase": "Teams",
 		"comment": "2 Teams",
 		"translation": "teams",
@@ -4243,7 +4177,7 @@
 	},
 	{
 		"phrase": "Custom Lobby",
-		"comment": "Custom lobbies are private matches that players can invite their friends to",
+		"comment": "Custom lobbies are private matches that players can customise and invite their friends to",
 		"translation": "Aangepaste lobby",
 		"machine": true
 	},
@@ -4255,13 +4189,13 @@
 	},
 	{
 		"phrase": "Info Style",
-		"comment": "[Setting] Crosshair info style, i.e. bars that show how many blocks\/ammo\/health the player has",
+		"comment": "The player's health\/ammo (info) can be displayed around the crosshair in a plus\/cross or as an arc",
 		"translation": "Infostijl",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair Style",
-		"comment": "[Setting] Crosshair style, either circle, square or cross",
+		"comment": "The crosshair shape can either be a circle, square or plus\/cross",
 		"translation": "Crosshair-stijl",
 		"machine": true
 	},
@@ -4321,7 +4255,7 @@
 	},
 	{
 		"phrase": "Please type {0} more letters",
-		"comment": "Feedback form requirement - the user needs to type at least 30 letters\/characters\/numbers before they can submit the form. Parameter 0: '30'",
+		"comment": "The user needs to type at least 30 letters\/characters before they can submit the form. Parameter 0: '30'",
 		"translation": "Typ {0} meer letters",
 		"machine": true
 	},
@@ -4339,14 +4273,14 @@
 	},
 	{
 		"phrase": "Send message",
-		"comment": "Send a friend a message",
+		"comment": "Send a message to a friend",
 		"translation": "Bericht versturen",
 		"machine": true
 	},
 	{
 		"phrase": "Balance",
 		"context": "Funds",
-		"comment": "Funds balance, i.e. how many protons the player has",
+		"comment": "How much currency the player has",
 		"translation": "Evenwicht",
 		"machine": true
 	},
@@ -4576,78 +4510,6 @@
 		"phrase": "Polls",
 		"comment": "A survey that players can fill out to provide feedback",
 		"translation": "peilingen",
-		"machine": true
-	},
-	{
-		"phrase": "Let us know how things are going! Your answers are recorded automagically",
-		"comment": "Poll description",
-		"translation": "Laat ons weten hoe het gaat! je antwoorden worden automatisch geregistreerd",
-		"machine": true
-	},
-	{
-		"phrase": "Rate your enjoyment in the Beta so far",
-		"comment": "Poll question",
-		"translation": "Beoordeel je plezier in de bèta tot nu toe",
-		"machine": true
-	},
-	{
-		"phrase": "Is there anything that frustrates you or should be improved?",
-		"comment": "Poll question",
-		"translation": "Is er iets dat je frustreert of verbeterd moet worden??",
-		"machine": true
-	},
-	{
-		"phrase": "What would you like to see added to Sector's Edge?",
-		"comment": "Poll question",
-		"translation": "Wat zou je graag toegevoegd willen zien aan de edge van de sector??",
-		"machine": true
-	},
-	{
-		"phrase": "Interesting and fair maps are important to us, let us know how your experience has been so far.",
-		"comment": "Poll description",
-		"translation": "Interessante en eerlijke kaarten zijn belangrijk voor ons, laat ons weten hoe je ervaring tot nu toe is geweest.",
-		"machine": true
-	},
-	{
-		"phrase": "Did you feel the need to use a specific weapon on any map?",
-		"comment": "Poll question",
-		"translation": "Had je de behoefte om een specifiek wapen op een kaart te gebruiken??",
-		"machine": true
-	},
-	{
-		"phrase": "Were you were spawncamped on any map?",
-		"comment": "Poll question",
-		"translation": "Was je spawncamped op een kaart?",
-		"machine": true
-	},
-	{
-		"phrase": "Which maps did you enjoy?",
-		"comment": "Poll question",
-		"translation": "Welke kaarten vond je leuk?",
-		"machine": true
-	},
-	{
-		"phrase": "We want to make sure weapons are fun to use and reasonable to fight against.",
-		"comment": "Poll description",
-		"translation": "We willen ervoor zorgen dat wapens leuk zijn om te gebruiken en redelijk zijn om tegen te vechten.",
-		"machine": true
-	},
-	{
-		"phrase": "Is the attachment system confusing or excessive?",
-		"comment": "Poll question",
-		"translation": "Is het bevestigingssysteem verwarrend of overdreven??",
-		"machine": true
-	},
-	{
-		"phrase": "Which weapons are overpowered or difficult to play against?",
-		"comment": "Poll question",
-		"translation": "Welke wapens zijn overmeesterd of moeilijk om tegen te spelen??",
-		"machine": true
-	},
-	{
-		"phrase": "Which weapons do you enjoy using?",
-		"comment": "Poll question",
-		"translation": "Welke wapens gebruik je graag??",
 		"machine": true
 	},
 	{
@@ -5457,12 +5319,6 @@
 		"phrase": "Show player outlines through walls",
 		"comment": "Setting that controls whether friendly player outlines should be visible through walls",
 		"translation": "Spelercontouren door muren laten zien",
-		"machine": true
-	},
-	{
-		"phrase": "Party outline colour",
-		"comment": "Setting that controls whether party member outlines should be a different colour",
-		"translation": "Kleur partijomtrek",
 		"machine": true
 	},
 	{
@@ -7640,14 +7496,8 @@
 	},
 	{
 		"phrase": "Instructions",
-		"comment": "",
+		"comment": "Instructions on how to complete a task",
 		"translation": "instructies:",
-		"machine": true
-	},
-	{
-		"phrase": "Complete each trial within the specified time to earn Protons and licence titles",
-		"comment": "",
-		"translation": "Voltooi elke proef binnen de opgegeven tijd om protonen en licentietitels te verdienen",
 		"machine": true
 	},
 	{
@@ -7730,7 +7580,7 @@
 	},
 	{
 		"phrase": "Build off the {0} blocks",
-		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks",
+		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks. Parameter 0: 'Purple'",
 		"translation": "Bouw de {0}-blokken op",
 		"machine": true
 	},
@@ -8106,6 +7956,66 @@
 		"phrase": "Player name size",
 		"comment": "Setting that controls the size of friendly player names",
 		"translation": "Grootte van de naam van de speler",
+		"machine": true
+	},
+	{
+		"phrase": "Complete each trial within the specified time to earn {0} and licence titles",
+		"comment": "Time trials description. Parameter 0: 'Protons'",
+		"translation": "Voltooi elke proef binnen de opgegeven tijd om {0} en licentietitels te verdienen",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
+		"comment": "Description for the 'UI scale' setting. Parameter 0: '[ Ctrl+R ]'",
+		"translation": "Deze instelling regelt de schaal van alle UI en in-game HUD. druk op {0} om het terug te zetten naar 100%",
+		"machine": true
+	},
+	{
+		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised",
+		"comment": "Description for the 'Streamer mode' setting",
+		"translation": "De servernaam wordt niet weergegeven op het scorebord en andere spelersnamen en niveaus worden willekeurig verdeeld",
+		"machine": true
+	},
+	{
+		"phrase": "Different party outline",
+		"comment": "Setting that controls whether party member outlines should be a different colour",
+		"translation": "Ander partijoverzicht",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Send team message",
+		"comment": "Press enter to send a message to your team. Parameter 0: '[ Enter ]'",
+		"translation": "{0} Stuur teambericht",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Send global message",
+		"comment": "Press enter to send a message to everyone. Parameter 0: '[ Enter ]'",
+		"translation": "{0} Algemeen bericht verzenden",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Join a cluster spawn",
+		"comment": "Players can press a key to join an existing cluster spawn. Parameter 0: '[ CTRL ]'",
+		"translation": "{0} Word lid van een clusterspawn",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to initialise the {0}",
+		"comment": "Error that shows when a file can't be processed. Parameter 0: 'Steam API'",
+		"translation": "Kan de {0}. niet initialiseren",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to connect to the {0} servers, please relaunch the game",
+		"comment": "Error that shows when the game can't connect to Steam. Parameter 0: 'Steam'",
+		"translation": "Kan geen verbinding maken met de {0}-servers, start het spel opnieuw",
+		"machine": true
+	},
+	{
+		"phrase": "The game has not been run through {0} and will now restart. Please wait until the {1} launcher appears",
+		"comment": "Startup error. Parameter 0: 'Steam', Parameter 1: 'EAC'",
+		"translation": "Het spel is nog niet door {0} gelopen en zal nu herstarten. wacht a.u.b. tot de {1} launcher verschijnt",
 		"machine": true
 	}
 ]

@@ -1041,11 +1041,6 @@
 		"translation": "Burada oyun içinde kazandığınız puanların nasıl görüntüleneceğini özelleştirebilirsiniz. Birincil puanlar puan kümesinin en üstüne yerleştirilir ve ikincil puanlar puan kümesinin altına yerleştirilir."
 	},
 	{
-		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
-		"comment": "Description for the 'Streamer mode' setting",
-		"translation": "Sunucu adı puan tablosunda görüntülenmeyecek ve diğer oyuncu adları ve seviyeleri sizin için rastgele seçilecektir."
-	},
-	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
 		"comment": "Description for the 'Particle amount' setting",
 		"translation": "Parçacıklar, objeler parçalandığında ortaya çıkar. Bu yüzdeyi düşürmek FPS'i arttıracaktır"
@@ -1962,7 +1957,7 @@
 	},
 	{
 		"phrase": "Admin",
-		"comment": "Administrator abbreviation",
+		"comment": "Administrator",
 		"translation": "Admin"
 	},
 	{
@@ -2238,14 +2233,8 @@
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parametes are lots of numbers",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
 		"translation": "Düşmanlar, seviye {0} veya daha düşükse ve KDR'si {1} veya daha düşükse vurgulanacaktır..\n\nPeacekeeper'ın etkin olduğu süre boyunca, bu oyunculara {2} hasar verin ve fazladan {3} DP ve proton kazanın.\n\nDeğişiklikler yeniden doğuşta etkili olur. Peacekeeper'ın tüm oyun modları için ücretsiz olarak hiçbir etkisi yoktur.",
-		"machine": true
-	},
-	{
-		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
-		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
-		"translation": "Bu, tüm kullanıcı arayüzünün ve oyun içi HUD'nin ölçeğini kontrol eder. 100'e sıfırlamak için {0}'a basın%",
 		"machine": true
 	},
 	{
@@ -3068,30 +3057,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Failed to locate the Steam API",
-		"comment": "Steam error",
-		"translation": "Steam API'si bulunamadı",
-		"machine": true
-	},
-	{
-		"phrase": "The game has not been run through steam and will now restart. Please wait until the EAC launcher appears",
-		"comment": "Steam error",
-		"translation": "Oyun steam üzerinden çalıştırılmadı ve şimdi yeniden başlayacak. lütfen EAC başlatıcısı görünene kadar bekleyin",
-		"machine": true
-	},
-	{
-		"phrase": "Failed to initialise the Steam API. {persists}",
-		"comment": "Steam error",
-		"translation": "Steam API'si başlatılamadı. {persists}",
-		"machine": true
-	},
-	{
-		"phrase": "Unable to connect to the Steam servers, please relaunch the game. {persists}",
-		"comment": "Steam error",
-		"translation": "Steam sunucularına bağlanılamıyor, lütfen oyunu yeniden başlatın. {persists}",
-		"machine": true
-	},
-	{
 		"phrase": "Creating a weapon preset",
 		"comment": "Rich presence",
 		"translation": "Bir silah ön ayarı oluşturma",
@@ -3219,25 +3184,25 @@
 	},
 	{
 		"phrase": "Allowed",
-		"comment": "Checkbox setting, i.e. 'Spectators are allowed'",
+		"comment": "Spectators are allowed",
 		"translation": "İzin verilmiş",
 		"machine": true
 	},
 	{
 		"phrase": "Denied",
-		"comment": "Checkbox setting , i.e. 'Spectators are denied'",
+		"comment": "Spectators are denied",
 		"translation": "reddedildi",
 		"machine": true
 	},
 	{
 		"phrase": "Splash radius",
-		"comment": "[Attachment Stat] The radius that players take splash damage within",
+		"comment": "Splash \/ area of effect refers to small damage the player will take when standing near an explosion",
 		"translation": "sıçrama yarıçapı",
 		"machine": true
 	},
 	{
 		"phrase": "Explosion radius",
-		"comment": "[Attachment Stat] The radius that players take explosive damage within",
+		"comment": "The radius\/size of an explosion. Blocks and players within this radius will take large damage",
 		"translation": "Patlama yarıçapı",
 		"machine": true
 	},
@@ -3311,18 +3276,6 @@
 		"phrase": "Unlock pose",
 		"comment": "Click this button to unlock a character pose",
 		"translation": "Poz kilidini aç",
-		"machine": true
-	},
-	{
-		"phrase": "[ {0} ] Send team message",
-		"comment": "Chat field instructions. Parameter 0: 'Enter'",
-		"translation": "[ {0} ] Takım mesajı gönder",
-		"machine": true
-	},
-	{
-		"phrase": "[ {0} ] Send global message",
-		"comment": "Chat field instructions. Parameter 0: 'Enter'",
-		"translation": "[ {0} ] Genel mesaj gönder",
 		"machine": true
 	},
 	{
@@ -3447,49 +3400,43 @@
 	},
 	{
 		"phrase": "{0} Move camera",
-		"comment": "[Respawn Instructions], i.e. [ CLICK + DRAG ] Move camera",
+		"comment": "Players can move the respawn camera that's looking down on the map by clicking and dragging. Parameter 0: '[ CLICK + DRAG ]'",
 		"translation": "{0} Kamerayı hareket ettir",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Zoom",
-		"comment": "[Respawn Instructions], i.e.  [ SCROLL ] Zoom",
+		"comment": "Press a key to zoom in and out. Parameter 0: '[ SCROLL ]'",
 		"translation": "{0} Yakınlaştırma",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Fine zoom control",
-		"comment": "[Respawn Instructions] Lets the player zoom in smaller increments, i.e. [ SHIFT ] Fine zoom control",
+		"comment": "Lets the player zoom in finer\/smaller increments. Parameter 0: '[ SHIFT ]'",
 		"translation": "{0} Hassas yakınlaştırma kontrolü",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Spawn near last death",
-		"comment": "[Respawn Instructions], i.e. [ SPACE ] Spawn near last death",
+		"comment": "Players can press a key to spawn near where they died. Parameter 0: '[ SPACE ]'",
 		"translation": "{0} Son ölümün yakınında ortaya çıkıyor",
 		"machine": true
 	},
 	{
-		"phrase": "{0} Join teammate cluster spawn",
-		"comment": "[Respawn Instructions], i.e. [ CTRL ] Join teammate cluster spawn",
-		"translation": "{0} Takım arkadaşı küme spawnına katıl",
-		"machine": true
-	},
-	{
 		"phrase": "Right click to leave the cluster spawn",
-		"comment": "Respawn instructions",
+		"comment": "When a player joins a cluster spawn (multiple players spawning in the same location), they can leave it by right clicking",
 		"translation": "Kümeyi ortaya çıkarmak için sağ tıklayın",
 		"machine": true
 	},
 	{
 		"phrase": "Left click to respawn",
-		"comment": "Respawn instructions",
+		"comment": "The player can left click to respawn",
 		"translation": "Yeniden doğmak için sol tıklayın",
 		"machine": true
 	},
 	{
 		"phrase": "Respawn in {0}s...",
-		"comment": "Respawn timer, e.g. 'Respawn in 8.3s...'. 's' is an abbreviation for 'seconds'",
+		"comment": "Respawn timer where 's' is an abbreviation for 'seconds'. Parameter 0: '8.3'",
 		"translation": "{0}'larda yeniden doğma...",
 		"machine": true
 	},
@@ -3544,19 +3491,19 @@
 	},
 	{
 		"phrase": "Draw",
-		"comment": "The match was a draw",
+		"comment": "The match was a draw\/stalemate",
 		"translation": "Çizmek",
 		"machine": true
 	},
 	{
 		"phrase": "Victory",
-		"comment": "This team won the match",
+		"comment": "Your team won the match",
 		"translation": "Zafer",
 		"machine": true
 	},
 	{
 		"phrase": "Defeat",
-		"comment": "This team lost the match",
+		"comment": "Your team lost the match",
 		"translation": "Yenilgi",
 		"machine": true
 	},
@@ -3642,12 +3589,6 @@
 		"phrase": "Rate of fire",
 		"comment": "How many times a weapon fires per minute",
 		"translation": "ateş hızı",
-		"machine": true
-	},
-	{
-		"phrase": " rpm",
-		"comment": "[Unit Prefix] Revs-per-minute",
-		"translation": " rpm",
 		"machine": true
 	},
 	{
@@ -3801,12 +3742,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Type here to search setting...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Ayar aramak için buraya yazın...",
-		"machine": true
-	},
-	{
 		"phrase": "Teams",
 		"comment": "2 Teams",
 		"translation": "Takımlar",
@@ -3820,7 +3755,7 @@
 	},
 	{
 		"phrase": "Custom Lobby",
-		"comment": "Custom lobbies are private matches that players can invite their friends to",
+		"comment": "Custom lobbies are private matches that players can customise and invite their friends to",
 		"translation": "Özel lobi",
 		"machine": true
 	},
@@ -3832,13 +3767,13 @@
 	},
 	{
 		"phrase": "Info Style",
-		"comment": "[Setting] Crosshair info style, i.e. bars that show how many blocks\/ammo\/health the player has",
+		"comment": "The player's health\/ammo (info) can be displayed around the crosshair in a plus\/cross or as an arc",
 		"translation": "bilgi stili",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair Style",
-		"comment": "[Setting] Crosshair style, either circle, square or cross",
+		"comment": "The crosshair shape can either be a circle, square or plus\/cross",
 		"translation": "artı stili",
 		"machine": true
 	},
@@ -3898,7 +3833,7 @@
 	},
 	{
 		"phrase": "Please type {0} more letters",
-		"comment": "Feedback form requirement - the user needs to type at least 30 letters\/characters\/numbers before they can submit the form. Parameter 0: '30'",
+		"comment": "The user needs to type at least 30 letters\/characters before they can submit the form. Parameter 0: '30'",
 		"translation": "Lütfen {0} daha fazla harf yazın",
 		"machine": true
 	},
@@ -3916,14 +3851,14 @@
 	},
 	{
 		"phrase": "Send message",
-		"comment": "Send a friend a message",
+		"comment": "Send a message to a friend",
 		"translation": "Mesaj gönder",
 		"machine": true
 	},
 	{
 		"phrase": "Balance",
 		"context": "Funds",
-		"comment": "Funds balance, i.e. how many protons the player has",
+		"comment": "How much currency the player has",
 		"translation": "Denge",
 		"machine": true
 	},
@@ -4153,78 +4088,6 @@
 		"phrase": "Polls",
 		"comment": "A survey that players can fill out to provide feedback",
 		"translation": "anketler",
-		"machine": true
-	},
-	{
-		"phrase": "Let us know how things are going! Your answers are recorded automagically",
-		"comment": "Poll description",
-		"translation": "İşlerin nasıl gittiğini bize bildirin! cevaplarınız otomatik olarak kaydedilir",
-		"machine": true
-	},
-	{
-		"phrase": "Rate your enjoyment in the Beta so far",
-		"comment": "Poll question",
-		"translation": "Şimdiye kadar betada ne kadar keyif aldığınızı değerlendirin",
-		"machine": true
-	},
-	{
-		"phrase": "Is there anything that frustrates you or should be improved?",
-		"comment": "Poll question",
-		"translation": "Sizi hayal kırıklığına uğratan veya iyileştirilmesi gereken bir şey var mı??",
-		"machine": true
-	},
-	{
-		"phrase": "What would you like to see added to Sector's Edge?",
-		"comment": "Poll question",
-		"translation": "Sektörün kenarına nelerin eklenmesini istersiniz??",
-		"machine": true
-	},
-	{
-		"phrase": "Interesting and fair maps are important to us, let us know how your experience has been so far.",
-		"comment": "Poll description",
-		"translation": "İlginç ve adil haritalar bizim için önemlidir, şimdiye kadarki deneyiminizin nasıl olduğunu bize bildirin.",
-		"machine": true
-	},
-	{
-		"phrase": "Did you feel the need to use a specific weapon on any map?",
-		"comment": "Poll question",
-		"translation": "Herhangi bir haritada belirli bir silahı kullanma ihtiyacı hissettiniz mi??",
-		"machine": true
-	},
-	{
-		"phrase": "Were you were spawncamped on any map?",
-		"comment": "Poll question",
-		"translation": "Herhangi bir haritada doğdunuz mu??",
-		"machine": true
-	},
-	{
-		"phrase": "Which maps did you enjoy?",
-		"comment": "Poll question",
-		"translation": "Hangi haritalardan hoşlandın?",
-		"machine": true
-	},
-	{
-		"phrase": "We want to make sure weapons are fun to use and reasonable to fight against.",
-		"comment": "Poll description",
-		"translation": "Silahların kullanımının eğlenceli ve bunlara karşı savaşmanın makul olduğundan emin olmak istiyoruz..",
-		"machine": true
-	},
-	{
-		"phrase": "Is the attachment system confusing or excessive?",
-		"comment": "Poll question",
-		"translation": "Bağlanma sistemi kafa karıştırıcı mı yoksa aşırı mı??",
-		"machine": true
-	},
-	{
-		"phrase": "Which weapons are overpowered or difficult to play against?",
-		"comment": "Poll question",
-		"translation": "Hangi silahlara karşı aşırı güçlü veya oynaması zor?",
-		"machine": true
-	},
-	{
-		"phrase": "Which weapons do you enjoy using?",
-		"comment": "Poll question",
-		"translation": "hangi silahları kullanmaktan zevk alırsın?",
 		"machine": true
 	},
 	{
@@ -5034,12 +4897,6 @@
 		"phrase": "Show player outlines through walls",
 		"comment": "Setting that controls whether friendly player outlines should be visible through walls",
 		"translation": "Duvarlardan oyuncu ana hatlarını göster",
-		"machine": true
-	},
-	{
-		"phrase": "Party outline colour",
-		"comment": "Setting that controls whether party member outlines should be a different colour",
-		"translation": "Parti anahat rengi",
 		"machine": true
 	},
 	{
@@ -7217,14 +7074,8 @@
 	},
 	{
 		"phrase": "Instructions",
-		"comment": "",
+		"comment": "Instructions on how to complete a task",
 		"translation": "Talimatlar",
-		"machine": true
-	},
-	{
-		"phrase": "Complete each trial within the specified time to earn Protons and licence titles",
-		"comment": "",
-		"translation": "Proton ve lisans ünvanları kazanmak için her denemeyi belirtilen süre içinde tamamlayın",
 		"machine": true
 	},
 	{
@@ -7307,7 +7158,7 @@
 	},
 	{
 		"phrase": "Build off the {0} blocks",
-		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks",
+		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks. Parameter 0: 'Purple'",
 		"translation": "{0} bloklarını oluşturun",
 		"machine": true
 	},
@@ -7683,6 +7534,66 @@
 		"phrase": "Player name size",
 		"comment": "Setting that controls the size of friendly player names",
 		"translation": "Oyuncu adı boyutu",
+		"machine": true
+	},
+	{
+		"phrase": "Complete each trial within the specified time to earn {0} and licence titles",
+		"comment": "Time trials description. Parameter 0: 'Protons'",
+		"translation": "{0} ve lisans başlıkları kazanmak için her denemeyi belirtilen süre içinde tamamlayın",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
+		"comment": "Description for the 'UI scale' setting. Parameter 0: '[ Ctrl+R ]'",
+		"translation": "Bu ayar, tüm kullanıcı arayüzünün ve oyun içi HUD'nin ölçeğini kontrol eder. 100'e sıfırlamak için {0}'a basın%",
+		"machine": true
+	},
+	{
+		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised",
+		"comment": "Description for the 'Streamer mode' setting",
+		"translation": "Sunucu adı puan tablosunda görüntülenmeyecek ve diğer oyuncu adları ve seviyeleri rastgele seçilecektir.",
+		"machine": true
+	},
+	{
+		"phrase": "Different party outline",
+		"comment": "Setting that controls whether party member outlines should be a different colour",
+		"translation": "Farklı parti anahattı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Send team message",
+		"comment": "Press enter to send a message to your team. Parameter 0: '[ Enter ]'",
+		"translation": "{0} Takım mesajı gönder",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Send global message",
+		"comment": "Press enter to send a message to everyone. Parameter 0: '[ Enter ]'",
+		"translation": "{0} Genel mesaj gönder",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Join a cluster spawn",
+		"comment": "Players can press a key to join an existing cluster spawn. Parameter 0: '[ CTRL ]'",
+		"translation": "{0} Bir küme oluşumuna katılın",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to initialise the {0}",
+		"comment": "Error that shows when a file can't be processed. Parameter 0: 'Steam API'",
+		"translation": "{0} başlatılamadı",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to connect to the {0} servers, please relaunch the game",
+		"comment": "Error that shows when the game can't connect to Steam. Parameter 0: 'Steam'",
+		"translation": "{0} sunucularına bağlanılamıyor, lütfen oyunu yeniden başlatın",
+		"machine": true
+	},
+	{
+		"phrase": "The game has not been run through {0} and will now restart. Please wait until the {1} launcher appears",
+		"comment": "Startup error. Parameter 0: 'Steam', Parameter 1: 'EAC'",
+		"translation": "Oyun {0} üzerinden çalıştırılmadı ve şimdi yeniden başlayacak. lütfen {1} başlatıcısı görünene kadar bekleyin",
 		"machine": true
 	}
 ]

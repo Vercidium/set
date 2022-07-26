@@ -1218,12 +1218,6 @@
 		"translation": "Навигация"
 	},
 	{
-		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
-		"comment": "Description for the 'Streamer mode' setting",
-		"translation": "Имя сервера не будет отображаться на табло, а имена других игроков и уровни будут рандомизированы для вас..",
-		"machine": true
-	},
-	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
 		"comment": "Description for the 'Particle amount' setting",
 		"translation": "Частицы образуются при ударе или разрушении объектов. снижение этого процента увеличит FPS",
@@ -2060,7 +2054,7 @@
 	},
 	{
 		"phrase": "Admin",
-		"comment": "Administrator abbreviation",
+		"comment": "Administrator",
 		"translation": "Админ"
 	},
 	{
@@ -2353,14 +2347,8 @@
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parametes are lots of numbers",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
 		"translation": "Враги будут подсвечены, если они имеют уровень {0} или ниже и имеют KDR {1} или меньше..\n\nПока включен миротворец, нанесите этим игрокам {2} урона и заработайте {3} дополнительного опыта и протонов..\n\nИзменения вступают в силу при возрождении. Миротворец не действует бесплатно во всех режимах игры.",
-		"machine": true
-	},
-	{
-		"phrase": "This controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
-		"comment": "[Setting] [Tooltip] UI Scale tooltip. Parameter 0: '[ Ctrl+R ]'",
-		"translation": "Это контролирует масштаб всего пользовательского интерфейса и игрового HUD. нажмите {0}, чтобы сбросить его до 100%",
 		"machine": true
 	},
 	{
@@ -3176,30 +3164,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Failed to locate the Steam API",
-		"comment": "Steam error",
-		"translation": "Не удалось найти API Steam.",
-		"machine": true
-	},
-	{
-		"phrase": "The game has not been run through steam and will now restart. Please wait until the EAC launcher appears",
-		"comment": "Steam error",
-		"translation": "Игра не запускалась через Steam и теперь будет перезапущена. пожалуйста, подождите, пока не появится программа запуска EAC",
-		"machine": true
-	},
-	{
-		"phrase": "Failed to initialise the Steam API. {persists}",
-		"comment": "Steam error",
-		"translation": "Не удалось инициализировать API Steam. {persists}",
-		"machine": true
-	},
-	{
-		"phrase": "Unable to connect to the Steam servers, please relaunch the game. {persists}",
-		"comment": "Steam error",
-		"translation": "Не удается подключиться к серверам Steam, перезапустите игру. {persists}",
-		"machine": true
-	},
-	{
 		"phrase": "Creating a weapon preset",
 		"comment": "Rich presence",
 		"translation": "Создание пресета оружия",
@@ -3327,25 +3291,25 @@
 	},
 	{
 		"phrase": "Allowed",
-		"comment": "Checkbox setting, i.e. 'Spectators are allowed'",
+		"comment": "Spectators are allowed",
 		"translation": "Допустимый",
 		"machine": true
 	},
 	{
 		"phrase": "Denied",
-		"comment": "Checkbox setting , i.e. 'Spectators are denied'",
+		"comment": "Spectators are denied",
 		"translation": "Отклонен",
 		"machine": true
 	},
 	{
 		"phrase": "Splash radius",
-		"comment": "[Attachment Stat] The radius that players take splash damage within",
+		"comment": "Splash \/ area of effect refers to small damage the player will take when standing near an explosion",
 		"translation": "Радиус разбрызгивания",
 		"machine": true
 	},
 	{
 		"phrase": "Explosion radius",
-		"comment": "[Attachment Stat] The radius that players take explosive damage within",
+		"comment": "The radius\/size of an explosion. Blocks and players within this radius will take large damage",
 		"translation": "Радиус взрыва",
 		"machine": true
 	},
@@ -3419,18 +3383,6 @@
 		"phrase": "Unlock pose",
 		"comment": "Click this button to unlock a character pose",
 		"translation": "Разблокировать позу",
-		"machine": true
-	},
-	{
-		"phrase": "[ {0} ] Send team message",
-		"comment": "Chat field instructions. Parameter 0: 'Enter'",
-		"translation": "[ {0} ] Отправить командное сообщение",
-		"machine": true
-	},
-	{
-		"phrase": "[ {0} ] Send global message",
-		"comment": "Chat field instructions. Parameter 0: 'Enter'",
-		"translation": "[ {0} ] Отправить глобальное сообщение",
 		"machine": true
 	},
 	{
@@ -3553,49 +3505,43 @@
 	},
 	{
 		"phrase": "{0} Move camera",
-		"comment": "[Respawn Instructions], i.e. [ CLICK + DRAG ] Move camera",
+		"comment": "Players can move the respawn camera that's looking down on the map by clicking and dragging. Parameter 0: '[ CLICK + DRAG ]'",
 		"translation": "{0} Переместить камеру",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Zoom",
-		"comment": "[Respawn Instructions], i.e.  [ SCROLL ] Zoom",
+		"comment": "Press a key to zoom in and out. Parameter 0: '[ SCROLL ]'",
 		"translation": "{0} Зум",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Fine zoom control",
-		"comment": "[Respawn Instructions] Lets the player zoom in smaller increments, i.e. [ SHIFT ] Fine zoom control",
+		"comment": "Lets the player zoom in finer\/smaller increments. Parameter 0: '[ SHIFT ]'",
 		"translation": "{0} Точное управление зумом",
 		"machine": true
 	},
 	{
 		"phrase": "{0} Spawn near last death",
-		"comment": "[Respawn Instructions], i.e. [ SPACE ] Spawn near last death",
+		"comment": "Players can press a key to spawn near where they died. Parameter 0: '[ SPACE ]'",
 		"translation": "{0} Спаун рядом с последней смертью",
 		"machine": true
 	},
 	{
-		"phrase": "{0} Join teammate cluster spawn",
-		"comment": "[Respawn Instructions], i.e. [ CTRL ] Join teammate cluster spawn",
-		"translation": "{0} Присоединяйтесь к спавну кластера товарищей по команде",
-		"machine": true
-	},
-	{
 		"phrase": "Right click to leave the cluster spawn",
-		"comment": "Respawn instructions",
+		"comment": "When a player joins a cluster spawn (multiple players spawning in the same location), they can leave it by right clicking",
 		"translation": "Щелкните правой кнопкой мыши, чтобы выйти из спавна кластера",
 		"machine": true
 	},
 	{
 		"phrase": "Left click to respawn",
-		"comment": "Respawn instructions",
+		"comment": "The player can left click to respawn",
 		"translation": "Щелкните левой кнопкой мыши, чтобы возродиться",
 		"machine": true
 	},
 	{
 		"phrase": "Respawn in {0}s...",
-		"comment": "Respawn timer, e.g. 'Respawn in 8.3s...'. 's' is an abbreviation for 'seconds'",
+		"comment": "Respawn timer where 's' is an abbreviation for 'seconds'. Parameter 0: '8.3'",
 		"translation": "Возрождение в {0}s...",
 		"machine": true
 	},
@@ -3650,19 +3596,19 @@
 	},
 	{
 		"phrase": "Draw",
-		"comment": "The match was a draw",
+		"comment": "The match was a draw\/stalemate",
 		"translation": "Рисовать",
 		"machine": true
 	},
 	{
 		"phrase": "Victory",
-		"comment": "This team won the match",
+		"comment": "Your team won the match",
 		"translation": "Победа",
 		"machine": true
 	},
 	{
 		"phrase": "Defeat",
-		"comment": "This team lost the match",
+		"comment": "Your team lost the match",
 		"translation": "Поражение",
 		"machine": true
 	},
@@ -3747,12 +3693,6 @@
 		"phrase": "Rate of fire",
 		"comment": "How many times a weapon fires per minute",
 		"translation": "Скорострельность",
-		"machine": true
-	},
-	{
-		"phrase": " rpm",
-		"comment": "[Unit Prefix] Revs-per-minute",
-		"translation": " об\/мин",
 		"machine": true
 	},
 	{
@@ -3885,12 +3825,6 @@
 		"translation": "Максимум игроков"
 	},
 	{
-		"phrase": "Type here to search setting...",
-		"comment": "Placeholder text for a search field",
-		"translation": "Введите здесь для настройки поиска...",
-		"machine": true
-	},
-	{
 		"phrase": "Teams",
 		"comment": "2 Teams",
 		"translation": "Команды",
@@ -3904,7 +3838,7 @@
 	},
 	{
 		"phrase": "Custom Lobby",
-		"comment": "Custom lobbies are private matches that players can invite their friends to",
+		"comment": "Custom lobbies are private matches that players can customise and invite their friends to",
 		"translation": "Пользовательское лобби"
 	},
 	{
@@ -3914,13 +3848,13 @@
 	},
 	{
 		"phrase": "Info Style",
-		"comment": "[Setting] Crosshair info style, i.e. bars that show how many blocks\/ammo\/health the player has",
+		"comment": "The player's health\/ammo (info) can be displayed around the crosshair in a plus\/cross or as an arc",
 		"translation": "Информационный стиль",
 		"machine": true
 	},
 	{
 		"phrase": "Crosshair Style",
-		"comment": "[Setting] Crosshair style, either circle, square or cross",
+		"comment": "The crosshair shape can either be a circle, square or plus\/cross",
 		"translation": "Стиль перекрестия"
 	},
 	{
@@ -3972,7 +3906,7 @@
 	},
 	{
 		"phrase": "Please type {0} more letters",
-		"comment": "Feedback form requirement - the user needs to type at least 30 letters\/characters\/numbers before they can submit the form. Parameter 0: '30'",
+		"comment": "The user needs to type at least 30 letters\/characters before they can submit the form. Parameter 0: '30'",
 		"translation": "Пожалуйста, введите {0} больше букв",
 		"machine": true
 	},
@@ -3990,14 +3924,14 @@
 	},
 	{
 		"phrase": "Send message",
-		"comment": "Send a friend a message",
+		"comment": "Send a message to a friend",
 		"translation": "Отправить сообщение",
 		"machine": true
 	},
 	{
 		"phrase": "Balance",
 		"context": "Funds",
-		"comment": "Funds balance, i.e. how many protons the player has",
+		"comment": "How much currency the player has",
 		"translation": "Остаток средств",
 		"machine": true
 	},
@@ -4213,78 +4147,6 @@
 		"phrase": "Polls",
 		"comment": "A survey that players can fill out to provide feedback",
 		"translation": "Опросы",
-		"machine": true
-	},
-	{
-		"phrase": "Let us know how things are going! Your answers are recorded automagically",
-		"comment": "Poll description",
-		"translation": "Дайте нам знать, как идут дела! ваши ответы записываются автоматически",
-		"machine": true
-	},
-	{
-		"phrase": "Rate your enjoyment in the Beta so far",
-		"comment": "Poll question",
-		"translation": "Оцените свое удовольствие от бета-тестирования",
-		"machine": true
-	},
-	{
-		"phrase": "Is there anything that frustrates you or should be improved?",
-		"comment": "Poll question",
-		"translation": "Есть ли что-то, что вас расстраивает или что нужно улучшить?",
-		"machine": true
-	},
-	{
-		"phrase": "What would you like to see added to Sector's Edge?",
-		"comment": "Poll question",
-		"translation": "Что бы вы хотели видеть добавленным к краю сектора?",
-		"machine": true
-	},
-	{
-		"phrase": "Interesting and fair maps are important to us, let us know how your experience has been so far.",
-		"comment": "Poll description",
-		"translation": "Интересные и честные карты важны для нас, дайте нам знать, каков ваш опыт.",
-		"machine": true
-	},
-	{
-		"phrase": "Did you feel the need to use a specific weapon on any map?",
-		"comment": "Poll question",
-		"translation": "Испытывали ли вы необходимость использовать конкретное оружие на какой-либо карте??",
-		"machine": true
-	},
-	{
-		"phrase": "Were you were spawncamped on any map?",
-		"comment": "Poll question",
-		"translation": "Были ли вы спавнкемпингом на какой-либо карте??",
-		"machine": true
-	},
-	{
-		"phrase": "Which maps did you enjoy?",
-		"comment": "Poll question",
-		"translation": "Какие карты вам понравились?",
-		"machine": true
-	},
-	{
-		"phrase": "We want to make sure weapons are fun to use and reasonable to fight against.",
-		"comment": "Poll description",
-		"translation": "Мы хотим убедиться, что оружие интересно использовать и с ним разумно бороться..",
-		"machine": true
-	},
-	{
-		"phrase": "Is the attachment system confusing or excessive?",
-		"comment": "Poll question",
-		"translation": "Является ли система крепления запутанной или чрезмерной?",
-		"machine": true
-	},
-	{
-		"phrase": "Which weapons are overpowered or difficult to play against?",
-		"comment": "Poll question",
-		"translation": "Какое оружие слишком мощное или против которого трудно играть?",
-		"machine": true
-	},
-	{
-		"phrase": "Which weapons do you enjoy using?",
-		"comment": "Poll question",
-		"translation": "Какое оружие вам нравится использовать?",
 		"machine": true
 	},
 	{
@@ -5094,12 +4956,6 @@
 		"phrase": "Show player outlines through walls",
 		"comment": "Setting that controls whether friendly player outlines should be visible through walls",
 		"translation": "Показывать очертания игрока сквозь стены",
-		"machine": true
-	},
-	{
-		"phrase": "Party outline colour",
-		"comment": "Setting that controls whether party member outlines should be a different colour",
-		"translation": "Цвет контура вечеринки",
 		"machine": true
 	},
 	{
@@ -7276,14 +7132,8 @@
 	},
 	{
 		"phrase": "Instructions",
-		"comment": "",
+		"comment": "Instructions on how to complete a task",
 		"translation": "инструкции",
-		"machine": true
-	},
-	{
-		"phrase": "Complete each trial within the specified time to earn Protons and licence titles",
-		"comment": "",
-		"translation": "Завершите каждое испытание в течение указанного времени, чтобы заработать протоны и лицензионные титулы.",
 		"machine": true
 	},
 	{
@@ -7366,7 +7216,7 @@
 	},
 	{
 		"phrase": "Build off the {0} blocks",
-		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks",
+		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks. Parameter 0: 'Purple'",
 		"translation": "Соберите блоки {0}",
 		"machine": true
 	},
@@ -7742,6 +7592,66 @@
 		"phrase": "Player name size",
 		"comment": "Setting that controls the size of friendly player names",
 		"translation": "Размер имени игрока",
+		"machine": true
+	},
+	{
+		"phrase": "Complete each trial within the specified time to earn {0} and licence titles",
+		"comment": "Time trials description. Parameter 0: 'Protons'",
+		"translation": "Завершите каждую пробную версию за указанное время, чтобы заработать {0} и лицензионные титулы.",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
+		"comment": "Description for the 'UI scale' setting. Parameter 0: '[ Ctrl+R ]'",
+		"translation": "Этот параметр управляет масштабом всего пользовательского интерфейса и внутриигрового HUD. нажмите {0}, чтобы сбросить его обратно на 100%",
+		"machine": true
+	},
+	{
+		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised",
+		"comment": "Description for the 'Streamer mode' setting",
+		"translation": "Имя сервера не будет отображаться на табло, а имена и уровни других игроков будут выбраны случайным образом.",
+		"machine": true
+	},
+	{
+		"phrase": "Different party outline",
+		"comment": "Setting that controls whether party member outlines should be a different colour",
+		"translation": "Другой план партии",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Send team message",
+		"comment": "Press enter to send a message to your team. Parameter 0: '[ Enter ]'",
+		"translation": "{0} Отправить командное сообщение",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Send global message",
+		"comment": "Press enter to send a message to everyone. Parameter 0: '[ Enter ]'",
+		"translation": "{0} Отправить глобальное сообщение",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Join a cluster spawn",
+		"comment": "Players can press a key to join an existing cluster spawn. Parameter 0: '[ CTRL ]'",
+		"translation": "{0} Присоединяйтесь к спавну кластера",
+		"machine": true
+	},
+	{
+		"phrase": "Failed to initialise the {0}",
+		"comment": "Error that shows when a file can't be processed. Parameter 0: 'Steam API'",
+		"translation": "Не удалось инициализировать {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to connect to the {0} servers, please relaunch the game",
+		"comment": "Error that shows when the game can't connect to Steam. Parameter 0: 'Steam'",
+		"translation": "Не удалось подключиться к серверам {0}, перезапустите игру.",
+		"machine": true
+	},
+	{
+		"phrase": "The game has not been run through {0} and will now restart. Please wait until the {1} launcher appears",
+		"comment": "Startup error. Parameter 0: 'Steam', Parameter 1: 'EAC'",
+		"translation": "Игра не запускалась через {0} и теперь перезапустится. пожалуйста, подождите, пока не появится программа запуска {1}",
 		"machine": true
 	}
 ]
