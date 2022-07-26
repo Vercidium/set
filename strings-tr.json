@@ -977,27 +977,27 @@
 	},
 	{
 		"phrase": "Rendering",
-		"comment": "[Settings Tab] Performance settings",
+		"comment": "3D rendering, i.e. shaders and textures",
 		"translation": "Render Tercihleri"
 	},
 	{
 		"phrase": "Input",
-		"comment": "[Settings Tab] Mouse and keyboard input settings",
+		"comment": "This refers to digital input from a mouse and keyboard",
 		"translation": "Girdi"
 	},
 	{
 		"phrase": "Minimap",
-		"comment": "Minimap UI in-game, i.e. a top-down view of the map",
+		"comment": "A top-down view of the map that renders in the bottom right of the screen",
 		"translation": "Mini Harita"
 	},
 	{
 		"phrase": "Show HUD",
-		"comment": "[Setting] [Radio Element] Controls whether HUD should be visible",
+		"comment": "Setting that controls whether the HUD (heads up display UI, i.e. ammo, minimap, chat) should be visible",
 		"translation": "HUD'ı Göster"
 	},
 	{
 		"phrase": "Brightness",
-		"comment": "[Setting] Controls the brightness of rendering in-game",
+		"comment": "Controls the brightness of the world in-game",
 		"translation": "Parlaklık"
 	},
 	{
@@ -1007,22 +1007,22 @@
 	},
 	{
 		"phrase": "Movement",
-		"comment": "Keybind category for player movement (walk, jump, crouch)",
+		"comment": "Player movement like walking, jumping and crouching",
 		"translation": "Hareket"
 	},
 	{
 		"phrase": "Actions",
-		"comment": "Keybind category for player actions (pick up weapon, place extraction device, ping enemy)",
+		"comment": "Actions a player can do, e.g. pick up a weapon, place C4, ping an enemy location",
 		"translation": "Eylemler"
 	},
 	{
 		"phrase": "Weaponry",
-		"comment": "Keybind category for player weapon actions (shoot, reload, melee)",
+		"comment": "Weapon-related things",
 		"translation": "Silah"
 	},
 	{
 		"phrase": "Tools",
-		"comment": "Keybind category for tools (swap to primary, switch to last tool)",
+		"comment": "Tools that a player can use in battle, e.g. Midi, Extractors, Fora, C4, Scanners",
 		"translation": "Aletler"
 	},
 	{
@@ -1037,62 +1037,47 @@
 	},
 	{
 		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
-		"comment": "[Settings Header Title] This is a summary about how the points UI customisation works",
+		"comment": "Instructions on how points UI customisation works",
 		"translation": "Burada oyun içinde kazandığınız puanların nasıl görüntüleneceğini özelleştirebilirsiniz. Birincil puanlar puan kümesinin en üstüne yerleştirilir ve ikincil puanlar puan kümesinin altına yerleştirilir."
 	},
 	{
 		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Streamer mode' setting",
 		"translation": "Sunucu adı puan tablosunda görüntülenmeyecek ve diğer oyuncu adları ve seviyeleri sizin için rastgele seçilecektir."
 	},
 	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Particle amount' setting",
 		"translation": "Parçacıklar, objeler parçalandığında ortaya çıkar. Bu yüzdeyi düşürmek FPS'i arttıracaktır"
 	},
 	{
-		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Harita, 32x32x32 bloklardan oluşan parçalara bölünmüştür. Bunu azaltmak FPS'yi arttıracaktır."
-	},
-	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Max lights' setting",
 		"translation": "Dünya güneş ışıkları, blok ışıkları ve silahlardan çıkan namlu ateşleriyle aydınlatılır. Renderlanabilecek maksimum ışık adedini azaltmak FPS'i arttıracaktır"
 	},
 	{
 		"phrase": "Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Max FPS' setting",
 		"translation": "Saniyedeki kare sayısı (FPS), oyunun her saniye güncellenme sayısıdır. bu değeri düşürmek CPU ve GPU kullanımını azaltacaktır"
 	},
 	{
-		"phrase": "Controls whether Disruptors, C4, Scanners and Canisters cast shadows",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Disruptor'ların, C4'lerin, Scanner'ların ve Kutuların gölge oluşturup oluşturmadığını kontrol eder"
-	},
-	{
 		"phrase": "Controls whether particles cast shadows",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Particle shadows' setting",
 		"translation": "Parçacıkların gölgesinin olup olmayacağını kontrol eder"
 	},
 	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "\/*Description for the 'VSync' setting",
 		"translation": "Dikey senkronizasyon (VSync), oyunun güncelleme hızını monitörünüzün yenileme hızıyla eşleştirir. bunu etkinleştirmek ekran yırtılmasını düzeltebilir"
 	},
 	{
-		"phrase": "Increasing this will improve the quality of Ambient Occlusion postprocessing",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu arttırmak, Ambient Occlusion kalitesini arttıracaktır."
-	},
-	{
 		"phrase": "Automatically pause the game when you change to another window",
-		"comment": "[Tooltip]",
+		"comment": "Description for the 'pause on leave' setting",
 		"translation": "Başka bir pencereye geçtiğinizde oyunu otomatik olarak duraklatın"
 	},
 	{
 		"phrase": "Replace swear words in chat messages with delicious food",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Profanity filter' setting",
 		"translation": "Sohbet mesajlarındaki küfürleri lezzetli yemeklerle değiştirin"
 	},
 	{
@@ -1339,21 +1324,6 @@
 		"phrase": "Slide",
 		"comment": "Slide along on the ground",
 		"translation": "Kay"
-	},
-	{
-		"phrase": "Ping",
-		"comment": "Column header on the server list",
-		"translation": "Ping"
-	},
-	{
-		"phrase": "Ping (Enemy)",
-		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
-		"translation": "Ping (Düşman)"
-	},
-	{
-		"phrase": "Ping (Help)",
-		"comment": "This ping refers to placing a 3D marker above your head, indicating you need backup",
-		"translation": "Ping (Yardım)"
 	},
 	{
 		"phrase": "Shoot",
@@ -4605,134 +4575,56 @@
 		"machine": true
 	},
 	{
-		"phrase": "Toggle scope",
-		"comment": "[Setting] Controls whether players have to hold right mouse button to stay scoped",
-		"translation": "Kapsamı değiştir",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether players have to hold right mouse button to stay scoped",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyuncuların dürbünlü kalmak için farenin sağ tuşunu basılı tutup tutmayacağını kontrol eder",
-		"machine": true
-	},
-	{
-		"phrase": "Toggle crouch",
-		"comment": "[Setting] Controls whether players have to hold a key to stay crouched",
-		"translation": "Çömelmeyi aç\/kapat",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether players have to hold a key to stay crouched",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyuncuların çömelmek için bir tuşa basılı tutmaları gerekip gerekmediğini kontrol eder",
-		"machine": true
-	},
-	{
-		"phrase": "Toggle sprint",
-		"comment": "[Setting] Controls whether players have to hold a key to continually sprint",
-		"translation": "Sprint'i aç\/kapat",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether players have to hold a key to continually sprint",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyuncuların sürekli olarak koşmak için bir tuşa basılı tutmaları gerekip gerekmediğini kontrol eder",
-		"machine": true
-	},
-	{
-		"phrase": "Sprint vs scope priority",
-		"comment": "[Setting] Controls what should happen when the player presses both Sprint and Scope keybinds",
-		"translation": "Sprint vs kapsam önceliği",
-		"machine": true
-	},
-	{
-		"phrase": "Controls what should happen when pressing both Sprint and Scope keybinds",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Hem sprint hem de kapsam tuş bağlantılarına basıldığında ne olacağını kontrol eder",
-		"machine": true
-	},
-	{
-		"phrase": "Sprint vs crouch priority",
-		"comment": "[Setting] Controls what should happen when the player presses both Sprint and Crouch keybinds",
-		"translation": "Sprint vs çömelme önceliği",
-		"machine": true
-	},
-	{
-		"phrase": "Controls what should happen when pressing both Sprint and Crouch keybinds",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Hem sprint hem de çömelme tuş bağlantılarına basıldığında ne olacağını kontrol eder",
-		"machine": true
-	},
-	{
 		"phrase": "Rotate structures",
-		"comment": "[Setting] Controls whether the game should automatically rotate the player's structure while they look around",
+		"comment": "Setting that controls whether the player's structure automatically rotates as they look around",
 		"translation": "Yapıları döndür",
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether the game should automatically rotate the player's structure while they look around",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyuncu etrafa bakarken oyunun yapısını otomatik olarak döndürüp döndürmeyeceğini kontrol eder",
-		"machine": true
-	},
-	{
-		"phrase": "Skip Midi on swap",
-		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Do not translate 'Midi'.",
-		"translation": "Takas sırasında midi'yi atla",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Skip Midi on swap' setting",
 		"translation": "Kaydırırken veya son araç tuş takımına basarken oynatıcının midi'ye geçiş yapıp yapmayacağını kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "Single block digging",
-		"comment": "[Setting] Controls whether players left or right click to dig a single block",
+		"comment": "By default, players dig 3x3x3 chunks of blocks with left click. This setting makes players dig 1x1x1 blocks (single blocks) instead",
 		"translation": "Tek blok kazma",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether players left or right click to dig a single block",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Single block digging' setting",
 		"translation": "Oyuncuların tek bir blok kazmak için sol veya sağ tıklayıp tıklamayacağını kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "Raw mouse input",
-		"comment": "[Setting] Controls whether the game should use raw mouse input to control the player's aim",
+		"comment": "This setting controls whether the game should use raw mouse input (directly talk to the mouse hardware) to control the player's aim",
 		"translation": "Ham fare girişi",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether the game should use raw mouse input to control the player's aim",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Raw mouse input' setting",
 		"translation": "Oyuncunun amacını kontrol etmek için oyunun ham fare girişi kullanıp kullanmayacağını kontrol eder",
 		"machine": true
 	},
 	{
-		"phrase": "Sensitivity multiplies",
-		"comment": "[Setting] Controls whether ironsights\/2X\/4X sensitivity is multiplied by look sensitivity",
-		"translation": "Hassasiyet çoğalır",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether ironsights\/2X\/4X sensitivity is multiplied by look sensitivity",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Sensitivity multiplies' setting",
 		"translation": "Demir görüş\/2x\/4x hassasiyetinin görünüm hassasiyetiyle çarpılıp çarpılmayacağını kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "Invert y axis",
-		"comment": "[Setting] Controls whether vertical mouse input should be inverted",
+		"comment": "Setting that inverts vertical mouse input",
 		"translation": "Y eksenini tersine çevir",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether vertical mouse input should be inverted",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Invert y axis' setting",
 		"translation": "Dikey fare girişinin ters çevrilmesi gerekip gerekmediğini kontrol eder",
 		"machine": true
 	},
@@ -4768,133 +4660,109 @@
 	},
 	{
 		"phrase": "Output device",
-		"comment": "[Setting] This setting controls which audio device the game will send its audio output to",
+		"comment": "Setting that controls which audio device the game will send its audio output to",
 		"translation": "Çıkış aygıtı",
 		"machine": true
 	},
 	{
-		"phrase": "Voice Input device",
-		"comment": "[Setting] This setting controls which voice input device the game will send its audio output to",
-		"translation": "Ses giriş cihazı",
-		"machine": true
-	},
-	{
 		"phrase": "Raycasted audio FPS",
-		"comment": "[Setting] Controls how many times the audio thread updates per frame",
+		"comment": "Setting that controls how many times the audio thread updates per frame",
 		"translation": "Raycasted ses FPS",
 		"machine": true
 	},
 	{
 		"phrase": "Controls how many times the audio thread updates per frame",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Raycasted audio FPS' setting",
 		"translation": "Ses dizisinin kare başına kaç kez güncellendiğini kontrol eder",
 		"machine": true
 	},
 	{
-		"phrase": "Pew pew mode",
-		"comment": "[Setting] This setting changes all particles into rainbows and replaces game sounds with acapella sounds",
-		"translation": "sıra modu",
-		"machine": true
-	},
-	{
-		"phrase": "Replaces in-game sounds with community-created acapella versions",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Oyun içi sesleri topluluk tarafından oluşturulan acapella sürümleriyle değiştirir",
-		"machine": true
-	},
-	{
 		"phrase": "Master volume",
-		"comment": "[Setting] Controls how loud all sounds are",
+		"comment": "Setting that controls how loud all sounds are",
 		"translation": "Ana ses",
 		"machine": true
 	},
 	{
 		"phrase": "Sound volume",
-		"comment": "[Setting] Controls how loud in-game sounds are, e.g gunshots and explosions",
+		"comment": "Setting that controls how loud in-game sounds are, e.g gunshots and explosions",
 		"translation": "Ses seviyesi",
 		"machine": true
 	},
 	{
 		"phrase": "UI volume",
-		"comment": "[Setting] Controls how loud user interface sounds are, e.g. button clicks",
+		"comment": "Setting that controls how loud user interface sounds are, e.g. button clicks",
 		"translation": "kullanıcı arayüzü hacmi",
 		"machine": true
 	},
 	{
 		"phrase": "Ambient volume",
-		"comment": "[Setting] Controls how loud ambient sounds are, e.g. wind and rain",
+		"comment": "Setting that controls how loud ambient sounds are, e.g. wind and rain",
 		"translation": "Ortam hacmi",
 		"machine": true
 	},
 	{
 		"phrase": "Music volume (in-game)",
-		"comment": "[Setting] Controls how loud the in-game underscoring music is",
+		"comment": "Setting that controls how loud the in-game underscoring music is",
 		"translation": "Müzik sesi (oyun içi)",
 		"machine": true
 	},
 	{
 		"phrase": "Music volume (menu)",
-		"comment": "[Setting] Controls how load the main menu music is",
+		"comment": "Setting that controls how load the main menu music is",
 		"translation": "Müzik sesi (menü)",
 		"machine": true
 	},
 	{
 		"phrase": "Personal footsteps volume",
-		"comment": "[Setting] Controls how load your personal footsteps are",
+		"comment": "Setting that controls how load your personal footsteps are",
 		"translation": "Kişisel ayak sesleri hacmi",
 		"machine": true
 	},
 	{
 		"phrase": "Teammate footsteps volume",
-		"comment": "[Setting] Controls how load your teammate's footsteps are",
+		"comment": "Setting that controls how load your teammate's footsteps are",
 		"translation": "Takım arkadaşı ayak sesleri hacmi",
 		"machine": true
 	},
 	{
 		"phrase": "Damage volume",
-		"comment": "[Setting] Controls how load the damage sound plays when you take damage",
+		"comment": "Setting that controls how load the damage sound plays when you take damage",
 		"translation": "Hasar hacmi",
 		"machine": true
 	},
 	{
 		"phrase": "Voice chat volume",
-		"comment": "[Setting] Controls how load incoming proximity voice chat is",
+		"comment": "Setting that controls how load incoming proximity voice chat is",
 		"translation": "Sesli sohbet hacmi",
 		"machine": true
 	},
 	{
 		"phrase": "Push to talk",
-		"comment": "[Setting] If enabled, the player only broadcasts their voice chat when pressing a specific key",
+		"comment": "Setting that controls whether the player must hold a key to talk in voice chat",
 		"translation": "Konuşmak için bas",
 		"machine": true
 	},
 	{
 		"phrase": "Only send voice chat while pressing the {0} keybind",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Push to talk' setting. Parameter 0: '[ V ]'",
 		"translation": "Yalnızca {0} tuş takımına basarken sesli sohbet gönderin",
 		"machine": true
 	},
 	{
 		"phrase": "Mute enemies when dead",
-		"comment": "[Setting] If enabled, enemies will be muted when the player is dead",
+		"comment": "Setting that mutes enemies when you're dead",
 		"translation": "Ölüyken düşmanları sessize al",
 		"machine": true
 	},
 	{
 		"phrase": "Enemies will be muted when you die so you can't hear them say mean things",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Mute enemies when dead' setting",
 		"translation": "Öldüğünüzde düşmanların sesi kapatılacak, böylece kötü şeyler söylediklerini duyamayacaksınız.",
 		"machine": true
 	},
 	{
-		"phrase": "Texture quality",
-		"comment": "[Setting] Controls the quality of textures",
-		"translation": "Doku kalitesi",
-		"machine": true
-	},
-	{
 		"phrase": "Max FPS",
-		"comment": "[Setting] Controls the maximum frames-per-second that the game should run at",
+		"comment": "Setting that controls the maximum frames-per-second that the game should run at",
 		"translation": "Maksimum FPS",
 		"machine": true
 	},
@@ -4912,194 +4780,140 @@
 	},
 	{
 		"phrase": "VSync",
-		"comment": "[Setting] Controls whether vertical sync is enabled",
+		"comment": "Controls whether vertical sync is enabled. Vertical sync means the game will wait for the monitor to display the rendered frame before rendering the next",
 		"translation": "VSync",
 		"machine": true
 	},
 	{
-		"phrase": "Custom game resolution",
-		"comment": "[Setting] Controls whether a custom game resolution should be used, rather than the current window resolution",
-		"translation": "Özel oyun çözünürlüğü",
-		"machine": true
-	},
-	{
-		"phrase": "Enabling this will make the game render at the specified resolution, then stretch it to the size of the game window",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Bunu etkinleştirmek, oyunun belirtilen çözünürlükte oluşturulmasını sağlar ve ardından oyun penceresinin boyutuna kadar uzatır.",
-		"machine": true
-	},
-	{
 		"phrase": "X resolution",
-		"comment": "[Setting] Controls the custom horizontal screen resolution value",
+		"comment": "[Setting] Controls the custom horizontal screen resolution",
 		"translation": "X çözünürlük",
 		"machine": true
 	},
 	{
 		"phrase": "Y resolution",
-		"comment": "[Setting] Controls the custom vertical screen resolution value",
+		"comment": "[Setting] Controls the custom vertical screen resolution",
 		"translation": "Y çözünürlüğü",
 		"machine": true
 	},
 	{
 		"phrase": "Upscale quality",
-		"comment": "[Setting] Controls the quality of upscaling shaders",
+		"comment": "Setting that controls the quality of shaders that resize smaller images into larger images",
 		"translation": "lüks kalite",
 		"machine": true
 	},
 	{
 		"phrase": "High upscale quality will reduce pixelation when using a reduced custom game resolution",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Upscale quality' setting",
 		"translation": "Yüksek kaliteli, azaltılmış özel oyun çözünürlüğü kullanıldığında pikselleşmeyi azaltacaktır",
 		"machine": true
 	},
 	{
 		"phrase": "Anti-aliasing",
-		"comment": "[Setting] Controls whether anti-aliasing is enabled",
+		"comment": "Setting that controls whether anti-aliasing is enabled, which reduces pixelation by smoothing the edges of objects",
 		"translation": "kenar yumuşatma",
 		"machine": true
 	},
 	{
 		"phrase": "Anti-aliasing reduces pixelation by smoothing the edges of objects",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Anti-aliasing' setting",
 		"translation": "Kenar yumuşatma, nesnelerin kenarlarını yumuşatarak pikselleşmeyi azaltır",
 		"machine": true
 	},
 	{
 		"phrase": "Render distance",
-		"comment": "[Setting] Controls the in-game render distance",
+		"comment": "Setting that controls the cut-off distance for rendering distant objects, e.g. 'Render distance: 6 chunks'",
 		"translation": "render mesafesi",
 		"machine": true
 	},
 	{
-		"phrase": "Max lights",
-		"comment": "[Setting] Controls the max amount of lights that should be rendered",
-		"translation": "Maksimum ışıklar",
-		"machine": true
-	},
-	{
-		"phrase": "SSAO quality",
-		"comment": "[Setting] Controls the quality of screen space ambient occlusion",
-		"translation": "SSAO kalitesi",
-		"machine": true
-	},
-	{
 		"phrase": "Bloom strength",
-		"comment": "[Setting] Controls the strength of bloom on bright objects",
+		"comment": "Setting that makes bright surfaces brighter",
 		"translation": "çiçek gücü",
 		"machine": true
 	},
 	{
-		"phrase": "Bloom brightens and blurs emissive surfaces",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Bloom, yayılan yüzeyleri aydınlatır ve bulanıklaştırır",
-		"machine": true
-	},
-	{
 		"phrase": "Bloom on sights",
-		"comment": "[Setting] Controls whether bloom should render on weapon sights",
+		"comment": "Setting that controls whether bloom should render on weapon sights",
 		"translation": "Görülecek yerler üzerinde çiçek",
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether bloom effects apply to  weapon sights",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Çiçeklenme efektlerinin silah nişangahlarına uygulanıp uygulanmayacağını kontrol eder",
-		"machine": true
-	},
-	{
 		"phrase": "Crepuscular rays",
-		"comment": "[Setting] Controls whether crepuscular rays are enabled",
+		"comment": "Setting that controls whether crepuscular rays\/god rays\/light shafts are enabled",
 		"translation": "alacakaranlık ışınları",
 		"machine": true
 	},
 	{
 		"phrase": "Crepuscular rays are shafts of light that originate from a bright light source",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Crepuscular rays' setting",
 		"translation": "Alacakaranlık ışınları, parlak bir ışık kaynağından kaynaklanan ışık demetleridir.",
 		"machine": true
 	},
 	{
 		"phrase": "Particle amount",
-		"comment": "[Setting] Controls the percentage of particles that should be spawned",
+		"comment": "Setting that controls the percentage of particles that should be spawned",
 		"translation": "parçacık miktarı",
 		"machine": true
 	},
 	{
 		"phrase": "Shadow quality",
-		"comment": "[Setting] Controls the quality of shadows",
+		"comment": "Setting that controls the quality of shadows. Higher quality shadows are smoother and flicker less",
 		"translation": "Gölge kalitesi",
 		"machine": true
 	},
 	{
 		"phrase": "Reducing the quality of shadows will increase FPS but cause shadows to flicker",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Shadow quality' setting",
 		"translation": "Gölgelerin kalitesini düşürmek FPS'yi artırır ancak gölgelerin titremesine neden olur",
 		"machine": true
 	},
 	{
 		"phrase": "Player shadows",
-		"comment": "[Setting] Controls whether players should cast shadows",
+		"comment": "Setting that controls whether players should cast shadows",
 		"translation": "Oyuncu gölgeleri",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether players cast shadows",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Player shadows' setting",
 		"translation": "Oyuncuların gölge yapıp yapmayacağını kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "Entity shadows",
-		"comment": "[Setting] Controls whether entities and objects should cast shadows",
+		"comment": "Setting that controls whether entities (C4, Scanners, Disruptors) should cast shadows",
 		"translation": "Varlık gölgeleri",
 		"machine": true
 	},
 	{
 		"phrase": "Particle shadows",
-		"comment": "[Setting] Controls whether particles should cast shadows",
+		"comment": "Setting that controls whether particles should cast shadows",
 		"translation": "parçacık gölgeleri",
 		"machine": true
 	},
 	{
 		"phrase": "Falling block shadows",
-		"comment": "[Setting] Controls whether falling blocks should cast shadows",
+		"comment": "Setting that controls whether falling blocks should cast shadows",
 		"translation": "Düşen blok gölgeler",
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether falling blocks and landing pods cast shadows",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Düşen blokların ve iniş bölmelerinin gölge oluşturup oluşturmayacağını kontrol eder",
-		"machine": true
-	},
-	{
 		"phrase": "Animated block skins",
-		"comment": "[Setting] Controls whether animated block skins should be animated",
+		"comment": "Setting that controls whether animated block skins should be animated",
 		"translation": "Hareketli blok görünümleri",
 		"machine": true
 	},
 	{
 		"phrase": "Bare minimum",
-		"comment": "[Setting] Controls whether the bare minimum rendering pipeline should be enabled",
+		"comment": "The bare minimum rendering pipeline skips all postprocessing and effects and runs the game as fast as possible",
 		"translation": "Çıplak minimum",
 		"machine": true
 	},
 	{
-		"phrase": "The Bare Minimum rendering pipeline skips all postprocessing and renders objects directly to the screen. This setting will produce the highest frames-per-second.",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Çıplak minimum işleme hattı, tüm son işlemeyi atlar ve nesneleri doğrudan ekrana işler. bu ayar saniyede en yüksek kare sayısını üretecektir.",
-		"machine": true
-	},
-	{
 		"phrase": "Log OpenGL Errors",
-		"comment": "[Setting] Advanced rendering setting",
+		"comment": "Setting that controls whether OpenGL errors are logged to a file that the developer can analyse",
 		"translation": "openGL hatalarını günlüğe kaydet",
-		"machine": true
-	},
-	{
-		"phrase": "Disabling OpenGL error logging may increase FPS.",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "OpenGL hata kaydını devre dışı bırakmak FPS'yi artırabilir.",
 		"machine": true
 	},
 	{
@@ -5110,169 +4924,139 @@
 	},
 	{
 		"phrase": "Controls whether the in-game HUD is rendered",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Show HUD' setting",
 		"translation": "Oyun içi HUD'nin oluşturulup oluşturulmayacağını kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "UI scale",
-		"comment": "[Setting] Controls the size of the user interface",
+		"comment": "Setting that controls the size of the user interface",
 		"translation": "kullanıcı arayüzü ölçeği",
 		"machine": true
 	},
 	{
 		"phrase": "Streamer mode",
-		"comment": "[Setting] Replaces the player's name with a random name and hides the current lobby name",
+		"comment": "Setting that replaces the player's name with a random name and hides the current lobby name",
 		"translation": "yayıncı modu",
 		"machine": true
 	},
 	{
 		"phrase": "Profanity filter",
-		"comment": "[Setting] Replaces all swear words with delicious food",
+		"comment": "Setting that replaces all swear words with delicious food",
 		"translation": "Küfür Filtresi",
 		"machine": true
 	},
 	{
 		"phrase": "3D ping display",
-		"comment": "[Setting] [Radio Element] Controls whether only party member 3D pings should be displayed",
+		"comment": "Setting that controls whether only party member 3D pings should be displayed",
 		"translation": "3D ping ekranı",
 		"machine": true
 	},
 	{
-		"phrase": "Show ping owner",
-		"comment": "[Setting] Controls whether a 3D ping should have it's owners name next to it",
-		"translation": "Ping sahibini göster",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether a 3D ping should have it's owners name next to it",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "3B ping'in yanında sahibinin adının olup olmayacağını kontrol eder",
-		"machine": true
-	},
-	{
-		"phrase": "Max ping distance",
-		"comment": "[Setting] Controls the render distance cutoff for 3D pings",
-		"translation": "Maksimum ping mesafesi",
-		"machine": true
-	},
-	{
-		"phrase": "Controls the render distance cutoff for 3D pings",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "3B ping'ler için işleme mesafesi kesmesini kontrol eder",
-		"machine": true
-	},
-	{
 		"phrase": "Player name distance",
-		"comment": "[Setting] Controls the render distance cutoff for friendly player names",
+		"comment": "Setting that controls the render distance cutoff for friendly player names",
 		"translation": "Oyuncu adı mesafesi",
 		"machine": true
 	},
 	{
 		"phrase": "Controls the render distance cutoff for friendly player names",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Player name distance' setting",
 		"translation": "Dost oyuncu adları için oluşturma mesafesi kesmesini kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "Entity icon distance",
-		"comment": "[Setting] Controls the render distance cutoff for entity icons (C4, scanner, etc)",
+		"comment": "Setting that controls the render distance cutoff for entity icons (C4, scanner, etc)",
 		"translation": "Varlık simgesi mesafesi",
 		"machine": true
 	},
 	{
 		"phrase": "Controls the render distance cutoff for entity icons (C4, scanner, etc)",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Entity icon distance' setting",
 		"translation": "Varlık simgeleri (c4, tarayıcı, vb.) için işleme mesafesi kesmesini kontrol eder)",
 		"machine": true
 	},
 	{
-		"phrase": "Player name scale",
-		"comment": "[Setting] Controls the size of friendly player names",
-		"translation": "Oyuncu adı ölçeği",
-		"machine": true
-	},
-	{
 		"phrase": "Controls the size of friendly player names",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Player name scale' setting",
 		"translation": "Dost oyuncu adlarının boyutunu kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "Damage numbers",
-		"comment": "[Setting] [Radio Element] Controls whether damage numbers should render",
+		"comment": "Setting that controls whether damage numbers should be shown. When enabled, numbers indicating the amount of damage you dealt to an enemy are shown next to the enemy",
 		"translation": "Hasar numaraları",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether damage numbers should render",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Damage numbers' setting",
 		"translation": "Hasar numaralarının oluşturulup oluşturulmayacağını kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "Personal colour",
-		"comment": "[Setting] Controls the colour of personal UI elements",
+		"comment": "Setting that controls the colour of personal UI elements",
 		"translation": "Kişisel renk",
 		"machine": true
 	},
 	{
 		"phrase": "Team colour",
-		"comment": "[Setting] Controls the colour of friendly UI elements",
+		"comment": "Setting that controls the colour of friendly UI elements",
 		"translation": "Takım rengi",
 		"machine": true
 	},
 	{
 		"phrase": "Party colour",
-		"comment": "[Setting] Controls the colour of party UI elements",
+		"comment": "Setting that controls the colour of party UI elements",
 		"translation": "Parti rengi",
 		"machine": true
 	},
 	{
 		"phrase": "Enemy colour",
-		"comment": "[Setting] Controls the colour of enemy UI elements",
+		"comment": "Setting that controls the colour of enemy UI elements",
 		"translation": "düşman rengi",
 		"machine": true
 	},
 	{
 		"phrase": "Noob colour",
-		"comment": "[Setting] Controls the colour of inexperienced enemy UI elements",
+		"comment": "Setting that controls the colour of inexperienced enemy UI elements",
 		"translation": "çaylak rengi",
 		"machine": true
 	},
 	{
 		"phrase": "Neutral colour",
-		"comment": "[Setting] Controls the colour of neutral UI elements",
+		"comment": "Setting that controls the colour of neutral UI elements",
 		"translation": "nötr renk",
 		"machine": true
 	},
 	{
 		"phrase": "Show player outlines through walls",
-		"comment": "[Setting] Controls whether friendly player outlines should be visible through walls",
+		"comment": "Setting that controls whether friendly player outlines should be visible through walls",
 		"translation": "Duvarlardan oyuncu ana hatlarını göster",
 		"machine": true
 	},
 	{
 		"phrase": "Party outline colour",
-		"comment": "[Setting] Controls whether party member's outlines should be a different colour",
+		"comment": "Setting that controls whether party member outlines should be a different colour",
 		"translation": "Parti anahat rengi",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether party member's outlines should be a different colour",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Party outline colour' setting",
 		"translation": "Parti üyesinin ana hatlarının farklı bir renk olup olmayacağını kontrol eder",
 		"machine": true
 	},
 	{
 		"phrase": "Show enemy outlines",
-		"comment": "[Setting] Controls whether outlines should render around enemies",
+		"comment": "Setting that controls whether outlines should render around enemies",
 		"translation": "Düşman ana hatlarını göster",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether outlines should render around enemies",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Show enemy outlines' setting",
 		"translation": "Ana hatların düşmanların etrafında oluşturulup oluşturulmayacağını kontrol eder",
 		"machine": true
 	},
@@ -5337,12 +5121,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Crosshair spacing",
-		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
-		"translation": "Artı işareti aralığı",
-		"machine": true
-	},
-	{
 		"phrase": "Crosshair width",
 		"comment": "This refers to the width of each line in a plus-shaped crosshair",
 		"translation": "Artı işareti genişliği",
@@ -5386,139 +5164,127 @@
 	},
 	{
 		"phrase": "Right edge type",
-		"comment": "This setting controls what info gets displayed on the right side of their crosshair",
+		"comment": "Setting that controls what info gets displayed on the right side of their crosshair",
 		"translation": "Sağ kenar tipi",
 		"machine": true
 	},
 	{
 		"phrase": "Top edge type",
-		"comment": "This setting controls what info gets displayed on the top side of their crosshair",
+		"comment": "Setting that controls what info gets displayed on the top side of their crosshair",
 		"translation": "Üst kenar tipi",
 		"machine": true
 	},
 	{
 		"phrase": "Bottom edge type",
-		"comment": "This setting controls what info gets displayed on the bottom side of their crosshair",
+		"comment": "Setting that controls what info gets displayed on the bottom side of their crosshair",
 		"translation": "Alt kenar tipi",
 		"machine": true
 	},
 	{
 		"phrase": "Edge overlap",
+		"comment": "Setting that controls whether the ammo\/health info around the edge of the crosshair should overlap the plus-shaped crosshair in the center of the screen",
 		"translation": "Kenar örtüşmesi",
 		"machine": true
 	},
 	{
-		"phrase": "Edge Width",
-		"translation": "Kenar genişliği",
-		"machine": true
-	},
-	{
-		"phrase": "Edge Length",
-		"translation": "Kenar uzunluğu",
-		"machine": true
-	},
-	{
-		"phrase": "Edge Spacing",
-		"translation": "Kenar aralığı",
-		"machine": true
-	},
-	{
 		"phrase": "Info circle radius",
+		"comment": "Setting that controls the radius of the circle around the crosshair, which contains ammo\/health info",
 		"translation": "Bilgi çemberi yarıçapı",
 		"machine": true
 	},
 	{
 		"phrase": "Info circle thickness",
+		"comment": "Setting that controls the thickness of the circle around the crosshair, which contains ammo\/health info",
 		"translation": "Bilgi çemberi kalınlığı",
 		"machine": true
 	},
 	{
 		"phrase": "Show ammo",
-		"comment": "This setting controls whether the amount of ammo the player has should be displayed as an arc around the crosshair",
+		"comment": "Setting that controls whether the amount of ammo the player has should be displayed as an arc (partial circle) around the crosshair",
 		"translation": "cephane göster",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo direction",
-		"comment": "Controls whether the ammo UI arc should increase clockwise or anticlockwise",
+		"comment": "Setting that controls whether the ammo arc UI should increase clockwise or anticlockwise",
 		"translation": "cephane yönü",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo size",
-		"comment": "Controls the UI size\/scale of the ammo arc UI",
+		"comment": "Setting that controls the size\/scale of the ammo arc UI around the crosshair",
 		"translation": "cephane boyutu",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo angle",
-		"comment": "How much ammo the player has can be shown in a thin arc around the crosshair. This setting controls the angle that the arc should start, e.g. '90 degrees'",
+		"comment": "Setting that controls the angle that the ammo arc UI should start, e.g. '60 degrees'",
 		"translation": "cephane açısı",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo colour",
-		"comment": "The colour of the weapon ammo UI",
+		"comment": "The colour of the ammo UI",
 		"translation": "cephane rengi",
 		"machine": true
 	},
 	{
 		"phrase": "Show blocks",
-		"comment": "Players start with 100 blocks and can build with them. This setting controls whether the amount of blocks the player has should be displayed as an arc around the crosshair",
+		"comment": "Setting that controls whether the amount of blocks the player is holding should be displayed as an arc (partial circle) around the crosshair",
 		"translation": "Blokları göster",
 		"machine": true
 	},
 	{
 		"phrase": "Blocks direction",
-		"comment": "Controls whether the block UI arc should increase clockwise or anticlockwise",
+		"comment": "Setting that controls whether the blocks arc UI should increase clockwise or anticlockwise",
 		"translation": "Blok yönü",
 		"machine": true
 	},
 	{
 		"phrase": "Blocks size",
-		"comment": "Controls the UI size\/scale of the blocks arc UI",
+		"comment": "Setting that controls the size\/scale of the blocks arc UI around the crosshair",
 		"translation": "Blok boyutu",
 		"machine": true
 	},
 	{
 		"phrase": "Blocks angle",
-		"comment": "The amount of blocks a player has can be shown in a thin arc around the crosshair. This setting controls the angle that the arc should start, e.g. '90 degrees'",
+		"comment": "Setting that controls the angle that the blocks arc UI should start, e.g. '60 degrees'",
 		"translation": "Blok açısı",
 		"machine": true
 	},
 	{
 		"phrase": "Blocks colour",
-		"comment": "The colour of the blocks arc UI",
+		"comment": "The colour of the blocks UI",
 		"translation": "Blok rengi",
 		"machine": true
 	},
 	{
 		"phrase": "Show health",
-		"comment": "This setting controls whether the player's health should be displayed as an arc around the crosshair",
+		"comment": "Setting that controls whether the player's health should be displayed as an arc (partial circle) around the crosshair",
 		"translation": "Sağlığı göster",
 		"machine": true
 	},
 	{
 		"phrase": "Health direction",
-		"comment": "Controls whether the block UI arc should increase clockwise or anticlockwise",
+		"comment": "Setting that controls whether the health arc UI should increase clockwise or anticlockwise",
 		"translation": "Sağlık yönü",
 		"machine": true
 	},
 	{
 		"phrase": "Health size",
-		"comment": "Controls the UI size\/scale of the health arc UI",
+		"comment": "Setting that controls the size\/scale of the health arc UI around the crosshair",
 		"translation": "Sağlık boyutu",
 		"machine": true
 	},
 	{
 		"phrase": "Health angle",
-		"comment": "The player's health can be shown in a thin arc around the crosshair. This setting controls the angle that the arc should start, e.g. '90 degrees'",
+		"comment": "Setting that controls the angle that the health arc UI should start, e.g. '60 degrees'",
 		"translation": "Sağlık açısı",
 		"machine": true
 	},
 	{
 		"phrase": "Health colour",
-		"comment": "The colour of the player's health UI",
+		"comment": "The colour of the health UI",
 		"translation": "Sağlık rengi",
 		"machine": true
 	},
@@ -5542,541 +5308,151 @@
 	},
 	{
 		"phrase": "Ammo HUD",
-		"comment": "[Setting] Controls whether the ammo HUD should be visible",
+		"comment": "Setting that controls whether the ammo HUD is visible",
 		"translation": "cephane HUD",
 		"machine": true
 	},
 	{
 		"phrase": "Mods HUD",
-		"comment": "[Setting] Controls whether your armour modifications should show on the ammo HUD",
+		"comment": "Setting that controls whether the mods (armour modification) HUD is visible",
 		"translation": "Modlar HUD",
 		"machine": true
 	},
 	{
-		"phrase": "Ammo - horizontal edge",
-		"comment": "[Setting] Controls whether the ammo HUD should snap to the left or right of the screen",
-		"translation": "Cephane - yatay kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Ammo - vertical edge",
-		"comment": "[Setting] Controls whether the ammo HUD should snap to the top or bottom of the screen",
-		"translation": "Cephane - dikey kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Ammo - horizontal margin",
-		"comment": "[Setting] Controls the distance between the ammo HUD and the edge of the screen",
-		"translation": "Cephane - yatay kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the ammo HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Cephane HUD ile ekranın sol\/sağ tarafı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Ammo - vertical margin",
-		"comment": "[Setting] Controls the distance between the ammo HUD and the edge of the screen",
-		"translation": "Cephane - dikey kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the ammo HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Cephane HUD ile ekranın üst\/alt kısmı arasındaki mesafe",
-		"machine": true
-	},
-	{
 		"phrase": "Chat HUD",
-		"comment": "[Setting] Controls whether the chat HUD should be visible",
+		"comment": "Setting that controls whether the chat HUD is visible",
 		"translation": "Sohbet HUD'si",
 		"machine": true
 	},
 	{
-		"phrase": "Chat - horizontal edge",
-		"comment": "[Setting] Controls whether the chat HUD should snap to the left or right of the screen",
-		"translation": "Sohbet - yatay kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - vertical edge",
-		"comment": "[Setting] Controls whether the chat HUD should snap to the top or bottom of the screen",
-		"translation": "Sohbet - dikey kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - horizontal margin",
-		"comment": "[Setting] Controls the distance between the chat HUD and the edge of the screen",
-		"translation": "Sohbet - yatay kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the chat HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Sohbet HUD'si ile ekranın solu\/sağı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - vertical margin",
-		"comment": "[Setting] Controls the distance between the chat HUD and the edge of the screen",
-		"translation": "Sohbet - dikey kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the chat HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Sohbet HUD'si ile ekranın üst\/alt kısmı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - max width",
-		"comment": "[Setting] Controls the max width of the chat",
-		"translation": "Sohbet - maksimum genişlik",
-		"machine": true
-	},
-	{
-		"phrase": "The max width of the chat",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "sohbetin maksimum genişliği",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - max height",
-		"comment": "[Setting] Controls the max height of the chat",
-		"translation": "Sohbet - maksimum yükseklik",
-		"machine": true
-	},
-	{
-		"phrase": "The max height of the chat",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Sohbetin maksimum yüksekliği",
-		"machine": true
-	},
-	{
-		"phrase": "Chat timeout",
-		"comment": "[Setting] Controls how long chat messages display for before disappearing",
-		"translation": "sohbet zaman aşımı",
-		"machine": true
-	},
-	{
-		"phrase": "Controls how long chat messages display for before disappearing",
-		"comment": "[Setting] [ToolTip]",
-		"translation": "Kaybolmadan önce sohbet mesajlarının ne kadar süreyle görüntüleneceğini kontrol eder",
-		"machine": true
-	},
-	{
 		"phrase": "Killfeed HUD",
-		"comment": "[Setting] Controls whether the killfeed HUD should be visible",
+		"comment": "Setting that controls whether the killfeed HUD is visible",
 		"translation": "Öldürme HUD'si",
 		"machine": true
 	},
 	{
-		"phrase": "Killfeed - horizontal edge",
-		"comment": "[Setting] Controls whether the killfeed HUD should snap to the left or right of the screen",
-		"translation": "Killfeed - yatay kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed - vertical edge",
-		"comment": "[Setting] Controls whether the killfeed HUD should snap to the top or bottom of the screen",
-		"translation": "Killfeed - dikey kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed - horizontal margin",
-		"comment": "[Setting] Controls the distance between the killfeed HUD and the edge of the screen",
-		"translation": "Killfeed - yatay kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the killfeed HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Killfeed HUD ile ekranın solu\/sağı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed - vertical margin",
-		"comment": "[Setting] Controls the distance between the killfeed HUD and the edge of the screen",
-		"translation": "Killfeed - dikey kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the killfeed HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Killfeed HUD ile ekranın üst\/alt kısmı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed - max height",
-		"comment": "[Setting] Controls the max height of the killfeed",
-		"translation": "Killfeed - maksimum yükseklik",
-		"machine": true
-	},
-	{
-		"phrase": "The max height of the killfeed",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Killfeed'in maksimum yüksekliği",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed timeout",
-		"comment": "[Setting] Controls how long killfeed messages display for before disappearing",
-		"translation": "Killfeed zaman aşımı",
-		"machine": true
-	},
-	{
-		"phrase": "Controls how long killfeed messages display for before disappearing",
-		"comment": "[Setting] [ToolTip]",
-		"translation": "Killfeed mesajlarının kaybolmadan önce ne kadar süreyle görüntüleneceğini kontrol eder",
-		"machine": true
-	},
-	{
 		"phrase": "Minimap HUD",
-		"comment": "[Setting] Controls whether the minimap HUD should be visible",
+		"comment": "Setting that controls whether the minimap HUD is visible",
 		"translation": "Mini harita HUD'si",
 		"machine": true
 	},
 	{
-		"phrase": "Minimap - horizontal edge",
-		"comment": "[Setting] Controls whether the minimap HUD should snap to the left or right of the screen",
-		"translation": "Mini harita - yatay kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - vertical edge",
-		"comment": "[Setting] Controls whether the minimap HUD should snap to the top or bottom of the screen",
-		"translation": "Mini harita - dikey kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - horizontal margin",
-		"comment": "[Setting] Controls the distance between the killfeed HUD and the edge of the screen",
-		"translation": "Mini harita - yatay kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the minimap HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Mini harita HUD'si ile ekranın sol\/sağ tarafı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - vertical margin",
-		"comment": "[Setting] Controls the distance between the killfeed HUD and the edge of the screen",
-		"translation": "Mini harita - dikey kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the minimap HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Mini harita HUD'si ile ekranın üst\/alt kısmı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - width",
-		"comment": "[Setting] Controls the width of the minimap",
-		"translation": "Mini harita - genişlik",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - height",
-		"comment": "[Setting] Controls the height of the minimap",
-		"translation": "Mini harita - yükseklik",
-		"machine": true
-	},
-	{
 		"phrase": "Minimap zoom",
-		"comment": "[Setting] Controls the inner zoom of the minimap",
+		"comment": "Setting that controls how zoomed in the minimap is",
 		"translation": "Mini harita yakınlaştırma",
 		"machine": true
 	},
 	{
-		"phrase": "The internal scale of the minimap",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Mini haritanın iç ölçeği",
-		"machine": true
-	},
-	{
 		"phrase": "Minimap icon size",
-		"comment": "[Setting] Controls the size of icons on the minimap",
+		"comment": "Setting that controls the size\/scale of icons on the minimap",
 		"translation": "Mini harita simgesi boyutu",
 		"machine": true
 	},
 	{
-		"phrase": "The size of icons on the minimap",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Mini haritadaki simgelerin boyutu",
-		"machine": true
-	},
-	{
 		"phrase": "Show yourself",
-		"comment": "[Setting] Controls whether you should be visible on the minimap",
+		"comment": "Setting that controls whether you should be visible on the minimap",
 		"translation": "Kendini göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show friendlies",
-		"comment": "[Setting] Controls whether friendlies should be visible on the minimap",
+		"comment": "Setting that controls whether friendlies should be visible on the minimap",
 		"translation": "Dostlukları göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show enemies",
-		"comment": "[Setting] Controls whether enemies should be visible on the minimap",
+		"comment": "Setting that controls whether enemies should be visible on the minimap",
 		"translation": "Düşmanları göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show dead players",
-		"comment": "[Setting] Controls whether dead players should be visible on the minimap",
+		"comment": "Setting that controls whether dead players should be visible on the minimap",
 		"translation": "Ölü oyuncuları göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show projectiles",
-		"comment": "[Setting] Controls whether projectiles should be visible on the minimap",
+		"comment": "Setting that controls whether projectiles should be visible on the minimap",
 		"translation": "Mermileri göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show scanners",
-		"comment": "[Setting] Controls whether scanners should be visible on the minimap",
+		"comment": "Setting that controls whether scanners should be visible on the minimap",
 		"translation": "Tarayıcıları göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show meteors",
-		"comment": "[Setting] Controls whether meteors should be visible on the minimap",
+		"comment": "Setting that controls whether meteors should be visible on the minimap",
 		"translation": "Meteorları göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show C4",
-		"comment": "[Setting] Controls whether C4 should be visible on the minimap",
+		"comment": "Setting that controls whether C4 should be visible on the minimap",
 		"translation": "c4'ü göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show disruptors",
-		"comment": "[Setting] Controls whether disruptors should be visible on the minimap",
+		"comment": "Setting that controls whether disruptors should be visible on the minimap",
 		"translation": "Engelleyicileri göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show extractors",
-		"comment": "[Setting] Controls whether extractors should be visible on the minimap",
+		"comment": "Setting that controls whether extractors should be visible on the minimap",
 		"translation": "Çıkarıcıları göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show reinforcers",
-		"comment": "[Setting] Controls whether extractors should be visible on the minimap",
+		"comment": "Setting that controls whether extractors should be visible on the minimap",
 		"translation": "pekiştireçleri göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show grenades",
-		"comment": "[Setting] Controls whether grenades should be visible on the minimap",
+		"comment": "Setting that controls whether grenades should be visible on the minimap",
 		"translation": "El bombalarını göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show flags",
-		"comment": "[Setting] Controls whether flags should be visible on the minimap",
+		"comment": "Setting that controls whether flags should be visible on the minimap",
 		"translation": "Bayrakları göster",
 		"machine": true
 	},
 	{
 		"phrase": "Show zones",
-		"comment": "[Setting] Controls whether zones should be visible on the minimap",
+		"comment": "Setting that controls whether zones should be visible on the minimap",
 		"translation": "Bölgeleri göster",
 		"machine": true
 	},
 	{
-		"phrase": "Show pings",
-		"comment": "[Setting] Controls whether pings should be visible on the minimap",
-		"translation": "Pingleri göster",
-		"machine": true
-	},
-	{
 		"phrase": "Voice HUD",
-		"comment": "[Setting] Controls whether the voice HUD should be visible",
+		"comment": "Setting that controls whether the voice HUD is visible",
 		"translation": "Ses HUD'si",
 		"machine": true
 	},
 	{
-		"phrase": "Voice - horizontal edge",
-		"comment": "[Setting] Controls whether the voice HUD should snap to the left or right of the screen",
-		"translation": "Ses - yatay kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Voice - vertical edge",
-		"comment": "[Setting] Controls whether the voice HUD should snap to the top or bottom of the screen",
-		"translation": "Ses - dikey kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Voice - horizontal margin",
-		"comment": "[Setting] Controls the distance between the voice HUD and the edge of the screen",
-		"translation": "Ses - yatay kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the voice HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Ses HUD'si ile ekranın solu\/sağı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Voice - vertical margin",
-		"comment": "[Setting] Controls the distance between the voice HUD and the edge of the screen",
-		"translation": "Ses - dikey kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the voice HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Ses HUD'si ile ekranın üst\/alt kısmı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Voice - max height",
-		"comment": "[Setting] Controls the max height of the voice HUD",
-		"translation": "Ses - maksimum yükseklik",
-		"machine": true
-	},
-	{
-		"phrase": "The max height of the voice",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Sesin maksimum yüksekliği",
-		"machine": true
-	},
-	{
-		"phrase": "Voice timeout",
-		"comment": "[Setting] Controls how long voice indicators display for before disappearing",
-		"translation": "Ses zaman aşımı",
-		"machine": true
-	},
-	{
-		"phrase": "Controls how long voice messages display for before disappearing",
-		"comment": "[Setting] [ToolTip]",
-		"translation": "Sesli mesajların kaybolmadan önce ne kadar süreyle görüntüleneceğini kontrol eder",
-		"machine": true
-	},
-	{
-		"phrase": "Points timeout",
-		"comment": "[Setting] Controls how long point messages display for before disappearing",
-		"translation": "Puan zaman aşımı",
-		"machine": true
-	},
-	{
-		"phrase": "Controls how long point messages display for before disappearing",
-		"comment": "[Setting] [ToolTip]",
-		"translation": "Nokta mesajlarının kaybolmadan önce ne kadar süreyle görüntüleneceğini kontrol eder",
-		"machine": true
-	},
-	{
 		"phrase": "Team Info",
-		"comment": "Team Info UI in-game, i.e. how many points each team has",
+		"comment": "UI that shows the status\/info of each team",
 		"translation": "Takım bilgisi",
 		"machine": true
 	},
 	{
-		"phrase": "Team info HUD",
-		"comment": "[Setting] Controls whether the team info HUD should be visible",
-		"translation": "Takım bilgisi HUD",
-		"machine": true
-	},
-	{
-		"phrase": "Team info - horizontal edge",
-		"comment": "[Setting] Controls whether the team info HUD should snap to the left or right of the screen",
-		"translation": "Takım bilgisi - yatay kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Team info - vertical edge",
-		"comment": "[Setting] Controls whether the team info HUD should snap to the top or bottom of the screen",
-		"translation": "Takım bilgisi - dikey kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Team info - horizontal margin",
-		"comment": "[Setting] Controls the distance between the team info HUD and the edge of the screen",
-		"translation": "Takım bilgisi - yatay kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the team info HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Takım bilgisi HUD'si ile ekranın sol\/sağ tarafı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Team info - vertical margin",
-		"comment": "[Setting] Controls the distance between the team info HUD and the edge of the screen",
-		"translation": "Takım bilgisi - dikey kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the team info HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Takım bilgisi HUD'si ile ekranın üst\/alt kısmı arasındaki mesafe",
-		"machine": true
-	},
-	{
 		"phrase": "Match Time",
-		"comment": "Match Time UI in-game, i.e. the amount of time remaining in the match",
+		"comment": "UI that shows how much time is remaining in the current match\/battle",
 		"translation": "Maç zamanı",
 		"machine": true
 	},
 	{
-		"phrase": "Match time HUD",
-		"comment": "[Setting] Controls whether the match info HUD should be visible",
-		"translation": "Maç zamanı HUD",
-		"machine": true
-	},
-	{
-		"phrase": "Match time - horizontal edge",
-		"comment": "[Setting] Controls whether the match time HUD should snap to the left or right of the screen",
-		"translation": "Maç zamanı - yatay kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Match time - vertical edge",
-		"comment": "[Setting] Controls whether the match time HUD should snap to the top or bottom of the screen",
-		"translation": "Maç zamanı - dikey kenar",
-		"machine": true
-	},
-	{
-		"phrase": "Match time - horizontal margin",
-		"comment": "[Setting] Controls the distance between the match time HUD and the edge of the screen",
-		"translation": "Maç zamanı - yatay kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the match time HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Maç zamanı HUD'si ile ekranın sol\/sağ tarafı arasındaki mesafe",
-		"machine": true
-	},
-	{
-		"phrase": "Match time - vertical margin",
-		"comment": "[Setting] Controls the distance between the match info HUD and the edge of the screen",
-		"translation": "Maç zamanı - dikey kenar boşluğu",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the match time HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Maç zamanı HUD'si ile ekranın üst\/alt kısmı arasındaki mesafe",
-		"machine": true
-	},
-	{
 		"phrase": "Keybinds",
-		"comment": "Mouse and keyboard settings",
+		"comment": "Binding an action to a keyboard key\/mouse button, e.g. binding sprint to shift and shoot to the left mouse button",
 		"translation": "tuş bağlantıları",
 		"machine": true
 	},
@@ -6088,31 +5464,25 @@
 	},
 	{
 		"phrase": "Pause on leave",
-		"comment": "[Setting] Pause when the game window is no longer active",
+		"comment": "Setting that pauses when the game window is no longer active",
 		"translation": "İzinde duraklat",
 		"machine": true
 	},
 	{
 		"phrase": "Camera sway",
-		"comment": "[Setting] Controls whether the camera sways left and right while sprinting",
+		"comment": "Setting that controls whether the camera should sway left and right while sprinting",
 		"translation": "kamera sallanması",
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether the camera sways left and right while sprinting",
-		"comment": "[Tooltip]",
-		"translation": "Depar atarken kameranın sola ve sağa sallanıp sallanmayacağını kontrol eder",
-		"machine": true
-	},
-	{
 		"phrase": "Roly Poly Mode",
-		"comment": "[Setting] Makes the player's view spin",
+		"comment": "Setting that makes the player's view spin",
 		"translation": "Şahane poli modu",
 		"machine": true
 	},
 	{
 		"phrase": "Enjoy your headache",
-		"comment": "[Tooltip]",
+		"comment": "Description for the 'Roly Poly Mode' setting",
 		"translation": "baş ağrısının tadını çıkar",
 		"machine": true
 	},
@@ -7987,6 +7357,332 @@
 		"phrase": "Titles",
 		"comment": "2 Titles",
 		"translation": "Başlıklar",
+		"machine": true
+	},
+	{
+		"phrase": "Ping (Enemy)",
+		"context": "Marker (Enemy)",
+		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
+		"translation": "Ping (düşman)",
+		"machine": true
+	},
+	{
+		"phrase": "Ping (Help)",
+		"context": "Marker (Help)",
+		"comment": "This ping refers to placing a 3D marker above your head, indicating you need help\/backup\/support\/assistance from your team",
+		"translation": "Ping (yardım)",
+		"machine": true
+	},
+	{
+		"phrase": "Ping",
+		"context": "Marker",
+		"comment": "Column header on the server list",
+		"translation": "Ping",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the camera should sway left and right while sprinting",
+		"comment": "Description for the 'Camera sway' setting",
+		"translation": "Depar atarken kameranın sola ve sağa sallanıp sallanmayacağını kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Voice input device",
+		"comment": "Setting that controls which voice input device\/microphone the game will use",
+		"translation": "Ses giriş cihazı",
+		"machine": true
+	},
+	{
+		"phrase": "Pew Pew Mode",
+		"context": "Acapella mode",
+		"comment": "Setting that replaces sounds with community-made acapella versions",
+		"translation": "sıra modu",
+		"machine": true
+	},
+	{
+		"phrase": "Replaces sounds with community-made acapella versions",
+		"comment": "Description for the 'Pew Pew Mode' setting",
+		"translation": "Sesleri topluluk yapımı acapella sürümleriyle değiştirir",
+		"machine": true
+	},
+	{
+		"phrase": "Crosshair spacing",
+		"context": "Crosshair distance",
+		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
+		"translation": "Artı işareti aralığı",
+		"machine": true
+	},
+	{
+		"phrase": "Edge width",
+		"comment": "Setting that controls the width of the ammo\/health info around the edge of the crosshair",
+		"translation": "Kenar genişliği",
+		"machine": true
+	},
+	{
+		"phrase": "Edge length",
+		"comment": "Setting that controls the length of the ammo\/health info around the edge of the crosshair",
+		"translation": "Kenar uzunluğu",
+		"machine": true
+	},
+	{
+		"phrase": "Edge spacing",
+		"context": "Edge distance",
+		"comment": "Setting that controls the spacing\/distance between the ammo\/health info around the edge of the crosshair, and the crosshair",
+		"translation": "Kenar aralığı",
+		"machine": true
+	},
+	{
+		"phrase": "Match Time HUD",
+		"comment": "Setting that controls whether the remaining time left in the match is visible on the HUD",
+		"translation": "Maç zamanı HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Team Info HUD",
+		"comment": "Setting that controls whether the team information HUD is visible",
+		"translation": "Takım bilgisi HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Show pings",
+		"context": "Show markers",
+		"comment": "Setting that controls whether pings\/markers should be visible on the minimap",
+		"translation": "Pingleri göster",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - horizontal edge",
+		"comment": "Setting that controls whether the ammo\/chat\/minimap\/etc HUD should snap to the left or right of the screen. Parameter 0: 'Ammo'",
+		"translation": "{0} - yatay kenar",
+		"machine": true
+	},
+	{
+		"phrase": "Whether the {0} HUD should snap to the left or right of the screen",
+		"comment": "Description for the 'Ammo - horizontal edge' setting. Parameter 0: 'Ammo'",
+		"translation": "{0} HUD'nin ekranın soluna mı sağına mı oturması gerektiği",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - vertical edge",
+		"comment": "Setting that controls whether the ammo\/chat\/minimap\/etc HUD should snap to the top or bottom of the screen",
+		"translation": "{0} - dikey kenar",
+		"machine": true
+	},
+	{
+		"phrase": "Whether the {0} HUD should snap to the top or bottom of the screen",
+		"comment": "Description for the 'Ammo - vertical edge' setting",
+		"translation": "{0} HUD'nin ekranın üstüne mi yoksa altına mı oturacağı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - horizontal margin",
+		"comment": "[Setting] Setting that controls the distance between the ammo\/chat\/minimap\/etc HUD and the edge of the screen. Parameter 0: 'Ammo'",
+		"translation": "{0} - yatay kenar boşluğu",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - vertical margin",
+		"comment": "[Setting] Setting that controls the distance between the ammo\/chat\/minimap\/etc HUD and the edge of the screen. Parameter 0: 'Ammo'",
+		"translation": "{0} - dikey kenar boşluğu",
+		"machine": true
+	},
+	{
+		"phrase": "The distance between the {0} HUD and the edge of the screen",
+		"comment": "Description for the 'Ammo - horizontal margin' setting. Parameter 0: 'Ammo'",
+		"translation": "{0} HUD ile ekranın kenarı arasındaki mesafe",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - max width",
+		"context": "{0} - maximum width",
+		"comment": "Setting that controls the maximum width of the ammo\/chat\/minimap\/etc HUD",
+		"translation": "{0} - maksimum genişlik",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - max height",
+		"context": "{0} - maximum height",
+		"comment": "Setting that controls the maximum height of the ammo\/chat\/minimap\/etc HUD",
+		"translation": "{0} - maksimum yükseklik",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - width",
+		"comment": "Setting that controls the width of the ammo\/chat\/minimap\/etc HUD",
+		"translation": "{0} - genişlik",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - height",
+		"comment": "Setting that controls the height of the ammo\/chat\/minimap\/etc HUD",
+		"translation": "{0} - yükseklik",
+		"machine": true
+	},
+	{
+		"phrase": "{0} timeout",
+		"comment": "Setting that controls how long chat\/killfeed messages display before disappearing",
+		"translation": "{0} zaman aşımı",
+		"machine": true
+	},
+	{
+		"phrase": "How long {0} messages display before disappearing",
+		"comment": "Description for the 'Chat timeout' setting",
+		"translation": "{0} mesajları kaybolmadan önce ne kadar süreyle görüntülenir?",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle {0}",
+		"comment": "Setting that Controls whether you need to hold a key down to continually perform an action, e.g. scoping\/crouching\/sprinting. Parameter 0: 'Scope'",
+		"translation": "{0}'ı aç\/kapat",
+		"machine": true
+	},
+	{
+		"phrase": "Whether you need to hold a key down to continually {0}",
+		"comment": "Description for the 'Toggle Scope' setting. Parameter 0: 'Scope'",
+		"translation": "Sürekli olarak {0} için bir tuşu basılı tutmanız gerekip gerekmediği",
+		"machine": true
+	},
+	{
+		"phrase": "{0} vs {1} priority",
+		"comment": "Setting that controls what happens when the player presses two keys at the same time. Parameter 0: 'Sprint', Parameter 1: 'Scope'",
+		"translation": "{0} vs {1} önceliği",
+		"machine": true
+	},
+	{
+		"phrase": "Controls what should happen when pressing both {0} and {1} at the same time",
+		"comment": "Description for the 'Sprint vs Scope priority' setting",
+		"translation": "Hem {0} hem de {1}'e aynı anda basıldığında ne olacağını kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your structure automatically rotates as you look around",
+		"comment": "Description for the 'Rotate structures' keybind",
+		"translation": "Etrafınıza bakarken yapınızın otomatik olarak dönüp dönmediğini kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Skip {0} on swap",
+		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'Midi'",
+		"translation": "Takas sırasında {0}'ı atla",
+		"machine": true
+	},
+	{
+		"phrase": "Relative sensitivity",
+		"comment": "This setting means that the player's ironsights\/2X\/4X sensitivity is relative to their base look sensitivity",
+		"translation": "göreli duyarlılık",
+		"machine": true
+	},
+	{
+		"phrase": "Texture resolution",
+		"comment": "Controls the size of textures, i.e. full, half or quarter resolution",
+		"translation": "Doku çözünürlüğü",
+		"machine": true
+	},
+	{
+		"phrase": "Custom resolution",
+		"comment": "Setting that controls whether a custom resolution should be used, rather than the current window resolution",
+		"translation": "Özel çözünürlük",
+		"machine": true
+	},
+	{
+		"phrase": "Enabling this to render the game at the specified resolution. The final image will then be stretched to the size of the window",
+		"comment": "\/*Description for the 'Custom resolution' setting",
+		"translation": "Oyunu belirtilen çözünürlükte işlemek için bunu etkinleştirmek. son görüntü daha sonra pencerenin boyutuna kadar uzatılacaktır",
+		"machine": true
+	},
+	{
+		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing render distance will increase FPS",
+		"comment": "Description for the 'Render distance' setting",
+		"translation": "Harita, 32x32x32 bloklardan oluşan parçalara bölünmüştür. render mesafesini azaltmak FPS'yi artıracaktır",
+		"machine": true
+	},
+	{
+		"phrase": "Max lights",
+		"context": "Maximum light count",
+		"comment": "Setting that controls the maximum amount of lights that can be rendered",
+		"translation": "Maksimum ışıklar",
+		"machine": true
+	},
+	{
+		"phrase": "Ambient occlusion quality",
+		"comment": "Setting that controls the quality of ambient occlusion, which is a technical term for a shader that simulates light by darkening the crevices between objects",
+		"translation": "Ortam kapatma kalitesi",
+		"machine": true
+	},
+	{
+		"phrase": "Ambient occlusion darkens the crevices between objects",
+		"comment": "Description for the 'Ambient occlusion quality' setting",
+		"translation": "Ortam tıkanıklığı, nesneler arasındaki yarıkları koyulaştırır",
+		"machine": true
+	},
+	{
+		"phrase": "Bloom makes bright surfaces brighter",
+		"comment": "Description for the 'Bloom strength' setting",
+		"translation": "Bloom, parlak yüzeyleri daha parlak hale getirir",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether bloom effects apply to weapon sights",
+		"comment": "Description for the 'Bloom on sights' setting",
+		"translation": "Çiçeklenme efektlerinin silah nişangahlarına uygulanıp uygulanmayacağını kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether Disruptors, C4, Scanners and Disruptors cast shadows",
+		"comment": "Description for the 'Entity block shadows' setting",
+		"translation": "Bozucuların, c4, tarayıcıların ve bozucuların gölge oluşturup oluşturmadığını kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether falling blocks cast shadows",
+		"comment": "Description for the 'Falling block shadows' setting",
+		"translation": "Düşen blokların gölge oluşturup oluşturmayacağını kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "The bare minimum rendering pipeline skips all postprocessing and effects and runs the game as fast as possible. This setting will produce the highest frames-per-second.",
+		"comment": "Description for the 'Bare minimum' settings",
+		"translation": "Çıplak minimum işleme hattı, tüm son işleme ve efektleri atlar ve oyunu olabildiğince hızlı çalıştırır. bu ayar saniyede en yüksek kare sayısını üretecektir.",
+		"machine": true
+	},
+	{
+		"phrase": "OpenGL errors are logged to a file that the developer can analyse. Disabling this may increase FPS.",
+		"comment": "Description for the 'Log OpenGL Errors' settings",
+		"translation": "OpenGL hataları, geliştiricinin analiz edebileceği bir dosyaya kaydedilir. bunu devre dışı bırakmak FPS'yi artırabilir.",
+		"machine": true
+	},
+	{
+		"phrase": "Show ping owner",
+		"context": "Show marker owner",
+		"comment": "Setting that controls whether a 3D ping should have the name of its owners next to it. Owner refers to the player who created the ping\/marker",
+		"translation": "Ping sahibini göster",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether a 3D ping should the name of its owner next to it",
+		"context": "Controls whether a 3D marker should have the name of its owner next to it",
+		"comment": "Description for the 'Show ping owner' setting. Owner refers to the player who created the ping\/marker",
+		"translation": "3B ping'in sahibinin adının yanında olup olmayacağını kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Max ping distance",
+		"context": "Max marker distance",
+		"comment": "Setting that controls the render distance cutoff for 3D pings\/markers",
+		"translation": "Maksimum ping mesafesi",
+		"machine": true
+	},
+	{
+		"phrase": "Controls the render distance cutoff for 3D pings",
+		"context": "Controls the render distance cutoff for 3D markers",
+		"comment": "Description for the 'Max ping distance' setting",
+		"translation": "3B ping'ler için işleme mesafesi kesmesini kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Player name size",
+		"comment": "Setting that controls the size of friendly player names",
+		"translation": "Oyuncu adı boyutu",
 		"machine": true
 	}
 ]

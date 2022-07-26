@@ -1141,47 +1141,47 @@
 	},
 	{
 		"phrase": "Rendering",
-		"comment": "[Settings Tab] Performance settings",
+		"comment": "3D rendering, i.e. shaders and textures",
 		"translation": "Renderizando"
 	},
 	{
 		"phrase": "Input",
-		"comment": "[Settings Tab] Mouse and keyboard input settings",
+		"comment": "This refers to digital input from a mouse and keyboard",
 		"translation": "Entrada"
 	},
 	{
 		"phrase": "Minimap",
-		"comment": "Minimap UI in-game, i.e. a top-down view of the map",
+		"comment": "A top-down view of the map that renders in the bottom right of the screen",
 		"translation": "Minimapa"
 	},
 	{
 		"phrase": "Show HUD",
-		"comment": "[Setting] [Radio Element] Controls whether HUD should be visible",
+		"comment": "Setting that controls whether the HUD (heads up display UI, i.e. ammo, minimap, chat) should be visible",
 		"translation": "Mostrar el HUD"
 	},
 	{
 		"phrase": "Brightness",
-		"comment": "[Setting] Controls the brightness of rendering in-game",
+		"comment": "Controls the brightness of the world in-game",
 		"translation": "Brillo"
 	},
 	{
 		"phrase": "Movement",
-		"comment": "Keybind category for player movement (walk, jump, crouch)",
+		"comment": "Player movement like walking, jumping and crouching",
 		"translation": "Movimiento"
 	},
 	{
 		"phrase": "Actions",
-		"comment": "Keybind category for player actions (pick up weapon, place extraction device, ping enemy)",
+		"comment": "Actions a player can do, e.g. pick up a weapon, place C4, ping an enemy location",
 		"translation": "Acciones"
 	},
 	{
 		"phrase": "Weaponry",
-		"comment": "Keybind category for player weapon actions (shoot, reload, melee)",
+		"comment": "Weapon-related things",
 		"translation": "Arsenal"
 	},
 	{
 		"phrase": "Tools",
-		"comment": "Keybind category for tools (swap to primary, switch to last tool)",
+		"comment": "Tools that a player can use in battle, e.g. Midi, Extractors, Fora, C4, Scanners",
 		"translation": "Herramientas"
 	},
 	{
@@ -1191,57 +1191,42 @@
 	},
 	{
 		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised for you.",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Streamer mode' setting",
 		"translation": "El nombre del servidor no se mostrará en el marcador y los nombres y niveles de otros jugadores se asignarán al azar"
 	},
 	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Particle amount' setting",
 		"translation": "Las partículas se producen cuando se golpean o destruyen objetos. Reducir este porcentaje aumentará los FPS"
 	},
 	{
-		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing this will increase FPS",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "El mapa está dividido en bloques de 32x32x32. Reducir esto aumentará los FPS"
-	},
-	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Max lights' setting",
 		"translation": "El mundo está iluminado por luces solares, luces de bloque y destellos de fuego de la boca de las armas. Reducir la cantidad máxima de luces que se pueden renderizar aumentará los FPS"
 	},
 	{
 		"phrase": "Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Max FPS' setting",
 		"translation": "Los Fotogramas Por Segundo (FPS) es la cantidad de veces que el juego se actualizará cada segundo. Reducir este valor disminuirá el uso de CPU y GPU"
 	},
 	{
-		"phrase": "Controls whether Disruptors, C4, Scanners and Canisters cast shadows",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla si los Disruptores, C4, Escáneres y Recipientes proyectan sombras"
-	},
-	{
 		"phrase": "Controls whether particles cast shadows",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Particle shadows' setting",
 		"translation": "Controla si las partículas proyectan sombras"
 	},
 	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "\/*Description for the 'VSync' setting",
 		"translation": "La sincronización vertical hace coincidir la frecuencia de actualización del juego con la frecuencia de actualización de tu monitor. Habilitar esto puede arreglar el desgarramiento de la pantalla"
 	},
 	{
-		"phrase": "Increasing this will improve the quality of Ambient Occlusion postprocessing",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Aumentar esto mejorará la calidad del posprocesamiento de Oclusión Ambiental."
-	},
-	{
 		"phrase": "Automatically pause the game when you change to another window",
-		"comment": "[Tooltip]",
+		"comment": "Description for the 'pause on leave' setting",
 		"translation": "Pausa automáticamente el juego cuando cambias a otra ventana"
 	},
 	{
 		"phrase": "Replace swear words in chat messages with delicious food",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Profanity filter' setting",
 		"translation": "Reemplaza las malas palabras en los mensajes de chat con comida deliciosa"
 	},
 	{
@@ -1278,21 +1263,6 @@
 		"phrase": "Slide",
 		"comment": "Slide along on the ground",
 		"translation": "Deslizarse"
-	},
-	{
-		"phrase": "Ping",
-		"comment": "Column header on the server list",
-		"translation": "Ping"
-	},
-	{
-		"phrase": "Ping (Enemy)",
-		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
-		"translation": "Ping (enemigo)"
-	},
-	{
-		"phrase": "Ping (Help)",
-		"comment": "This ping refers to placing a 3D marker above your head, indicating you need backup",
-		"translation": "Ping (ayuda)"
 	},
 	{
 		"phrase": "Shoot",
@@ -1562,7 +1532,7 @@
 	},
 	{
 		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
-		"comment": "[Settings Header Title] This is a summary about how the points UI customisation works",
+		"comment": "Instructions on how points UI customisation works",
 		"translation": "Aquí puedes personalizar cómo se mostrarán los puntos que ganes en el juego. Los puntos primarios se colocan en la parte superior de la pila de puntos y los puntos secundarios se colocan en la parte inferior de la pila de puntos."
 	},
 	{
@@ -4638,134 +4608,56 @@
 		"machine": true
 	},
 	{
-		"phrase": "Toggle scope",
-		"comment": "[Setting] Controls whether players have to hold right mouse button to stay scoped",
-		"translation": "Alternar alcance",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether players have to hold right mouse button to stay scoped",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla si los jugadores deben mantener presionado el botón derecho del mouse para permanecer en el alcance",
-		"machine": true
-	},
-	{
-		"phrase": "Toggle crouch",
-		"comment": "[Setting] Controls whether players have to hold a key to stay crouched",
-		"translation": "Alternar agacharse",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether players have to hold a key to stay crouched",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla si los jugadores deben mantener presionada una tecla para permanecer agachados",
-		"machine": true
-	},
-	{
-		"phrase": "Toggle sprint",
-		"comment": "[Setting] Controls whether players have to hold a key to continually sprint",
-		"translation": "Alternar carrera",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether players have to hold a key to continually sprint",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla si los jugadores deben mantener presionada una tecla para correr continuamente",
-		"machine": true
-	},
-	{
-		"phrase": "Sprint vs scope priority",
-		"comment": "[Setting] Controls what should happen when the player presses both Sprint and Scope keybinds",
-		"translation": "Sprint vs prioridad de alcance",
-		"machine": true
-	},
-	{
-		"phrase": "Controls what should happen when pressing both Sprint and Scope keybinds",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla lo que debería suceder al presionar las combinaciones de teclas sprint y scope",
-		"machine": true
-	},
-	{
-		"phrase": "Sprint vs crouch priority",
-		"comment": "[Setting] Controls what should happen when the player presses both Sprint and Crouch keybinds",
-		"translation": "Prioridad Sprint vs Agacharse",
-		"machine": true
-	},
-	{
-		"phrase": "Controls what should happen when pressing both Sprint and Crouch keybinds",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla lo que debería suceder al presionar las combinaciones de teclas Sprint y Agacharse",
-		"machine": true
-	},
-	{
 		"phrase": "Rotate structures",
-		"comment": "[Setting] Controls whether the game should automatically rotate the player's structure while they look around",
+		"comment": "Setting that controls whether the player's structure automatically rotates as they look around",
 		"translation": "Rotar estructuras",
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether the game should automatically rotate the player's structure while they look around",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla si el juego debe rotar automáticamente la estructura del jugador mientras mira a su alrededor.",
-		"machine": true
-	},
-	{
-		"phrase": "Skip Midi on swap",
-		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Do not translate 'Midi'.",
-		"translation": "Saltar midi en el intercambio",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Skip Midi on swap' setting",
 		"translation": "Controla si el jugador debe cambiar al midi cuando se desplaza o presiona la última combinación de teclas de herramientas",
 		"machine": true
 	},
 	{
 		"phrase": "Single block digging",
-		"comment": "[Setting] Controls whether players left or right click to dig a single block",
+		"comment": "By default, players dig 3x3x3 chunks of blocks with left click. This setting makes players dig 1x1x1 blocks (single blocks) instead",
 		"translation": "Excavación de un solo bloque",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether players left or right click to dig a single block",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Single block digging' setting",
 		"translation": "Controla si los jugadores hacen clic izquierdo o derecho para cavar un solo bloque",
 		"machine": true
 	},
 	{
 		"phrase": "Raw mouse input",
-		"comment": "[Setting] Controls whether the game should use raw mouse input to control the player's aim",
+		"comment": "This setting controls whether the game should use raw mouse input (directly talk to the mouse hardware) to control the player's aim",
 		"translation": "Entrada del ratón en bruto",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether the game should use raw mouse input to control the player's aim",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Raw mouse input' setting",
 		"translation": "Controla si el juego debe usar la entrada del mouse sin procesar para controlar el objetivo del jugador.",
 		"machine": true
 	},
 	{
-		"phrase": "Sensitivity multiplies",
-		"comment": "[Setting] Controls whether ironsights\/2X\/4X sensitivity is multiplied by look sensitivity",
-		"translation": "La sensibilidad se multiplica",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether ironsights\/2X\/4X sensitivity is multiplied by look sensitivity",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Sensitivity multiplies' setting",
 		"translation": "Controla si la sensibilidad ironsights\/2x\/4x se multiplica por la sensibilidad visual",
 		"machine": true
 	},
 	{
 		"phrase": "Invert y axis",
-		"comment": "[Setting] Controls whether vertical mouse input should be inverted",
+		"comment": "Setting that inverts vertical mouse input",
 		"translation": "Invertir eje y",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether vertical mouse input should be inverted",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Invert y axis' setting",
 		"translation": "Controla si la entrada vertical del mouse debe invertirse",
 		"machine": true
 	},
@@ -4801,133 +4693,109 @@
 	},
 	{
 		"phrase": "Output device",
-		"comment": "[Setting] This setting controls which audio device the game will send its audio output to",
+		"comment": "Setting that controls which audio device the game will send its audio output to",
 		"translation": "Dispositivo de salida",
 		"machine": true
 	},
 	{
-		"phrase": "Voice Input device",
-		"comment": "[Setting] This setting controls which voice input device the game will send its audio output to",
-		"translation": "Dispositivo de entrada de voz",
-		"machine": true
-	},
-	{
 		"phrase": "Raycasted audio FPS",
-		"comment": "[Setting] Controls how many times the audio thread updates per frame",
+		"comment": "Setting that controls how many times the audio thread updates per frame",
 		"translation": "FPS de audio transmitido por rayos",
 		"machine": true
 	},
 	{
 		"phrase": "Controls how many times the audio thread updates per frame",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Raycasted audio FPS' setting",
 		"translation": "Controla cuántas veces se actualiza el hilo de audio por cuadro",
 		"machine": true
 	},
 	{
-		"phrase": "Pew pew mode",
-		"comment": "[Setting] This setting changes all particles into rainbows and replaces game sounds with acapella sounds",
-		"translation": "Modo banco banco",
-		"machine": true
-	},
-	{
-		"phrase": "Replaces in-game sounds with community-created acapella versions",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Reemplaza los sonidos del juego con versiones acapella creadas por la comunidad",
-		"machine": true
-	},
-	{
 		"phrase": "Master volume",
-		"comment": "[Setting] Controls how loud all sounds are",
+		"comment": "Setting that controls how loud all sounds are",
 		"translation": "Volumen principal",
 		"machine": true
 	},
 	{
 		"phrase": "Sound volume",
-		"comment": "[Setting] Controls how loud in-game sounds are, e.g gunshots and explosions",
+		"comment": "Setting that controls how loud in-game sounds are, e.g gunshots and explosions",
 		"translation": "Volumen de sonido",
 		"machine": true
 	},
 	{
 		"phrase": "UI volume",
-		"comment": "[Setting] Controls how loud user interface sounds are, e.g. button clicks",
+		"comment": "Setting that controls how loud user interface sounds are, e.g. button clicks",
 		"translation": "volumen de la interfaz de usuario",
 		"machine": true
 	},
 	{
 		"phrase": "Ambient volume",
-		"comment": "[Setting] Controls how loud ambient sounds are, e.g. wind and rain",
+		"comment": "Setting that controls how loud ambient sounds are, e.g. wind and rain",
 		"translation": "Volumen ambiente",
 		"machine": true
 	},
 	{
 		"phrase": "Music volume (in-game)",
-		"comment": "[Setting] Controls how loud the in-game underscoring music is",
+		"comment": "Setting that controls how loud the in-game underscoring music is",
 		"translation": "Volumen de la música (en el juego)",
 		"machine": true
 	},
 	{
 		"phrase": "Music volume (menu)",
-		"comment": "[Setting] Controls how load the main menu music is",
+		"comment": "Setting that controls how load the main menu music is",
 		"translation": "Volumen de la música (menú)",
 		"machine": true
 	},
 	{
 		"phrase": "Personal footsteps volume",
-		"comment": "[Setting] Controls how load your personal footsteps are",
+		"comment": "Setting that controls how load your personal footsteps are",
 		"translation": "Volumen de pasos personales",
 		"machine": true
 	},
 	{
 		"phrase": "Teammate footsteps volume",
-		"comment": "[Setting] Controls how load your teammate's footsteps are",
+		"comment": "Setting that controls how load your teammate's footsteps are",
 		"translation": "Volumen de pasos de compañeros de equipo",
 		"machine": true
 	},
 	{
 		"phrase": "Damage volume",
-		"comment": "[Setting] Controls how load the damage sound plays when you take damage",
+		"comment": "Setting that controls how load the damage sound plays when you take damage",
 		"translation": "Volumen de daño",
 		"machine": true
 	},
 	{
 		"phrase": "Voice chat volume",
-		"comment": "[Setting] Controls how load incoming proximity voice chat is",
+		"comment": "Setting that controls how load incoming proximity voice chat is",
 		"translation": "Volumen del chat de voz",
 		"machine": true
 	},
 	{
 		"phrase": "Push to talk",
-		"comment": "[Setting] If enabled, the player only broadcasts their voice chat when pressing a specific key",
+		"comment": "Setting that controls whether the player must hold a key to talk in voice chat",
 		"translation": "Pulsa para hablar",
 		"machine": true
 	},
 	{
 		"phrase": "Only send voice chat while pressing the {0} keybind",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Push to talk' setting. Parameter 0: '[ V ]'",
 		"translation": "Solo envíe chat de voz mientras presiona la combinación de teclas {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Mute enemies when dead",
-		"comment": "[Setting] If enabled, enemies will be muted when the player is dead",
+		"comment": "Setting that mutes enemies when you're dead",
 		"translation": "Silenciar a los enemigos cuando estén muertos.",
 		"machine": true
 	},
 	{
 		"phrase": "Enemies will be muted when you die so you can't hear them say mean things",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Mute enemies when dead' setting",
 		"translation": "Los enemigos se silenciarán cuando mueras para que no puedas escucharlos decir cosas malas.",
 		"machine": true
 	},
 	{
-		"phrase": "Texture quality",
-		"comment": "[Setting] Controls the quality of textures",
-		"translation": "Calidad de textura",
-		"machine": true
-	},
-	{
 		"phrase": "Max FPS",
-		"comment": "[Setting] Controls the maximum frames-per-second that the game should run at",
+		"comment": "Setting that controls the maximum frames-per-second that the game should run at",
 		"translation": "FPS máx.",
 		"machine": true
 	},
@@ -4945,194 +4813,140 @@
 	},
 	{
 		"phrase": "VSync",
-		"comment": "[Setting] Controls whether vertical sync is enabled",
+		"comment": "Controls whether vertical sync is enabled. Vertical sync means the game will wait for the monitor to display the rendered frame before rendering the next",
 		"translation": "VSync",
 		"machine": true
 	},
 	{
-		"phrase": "Custom game resolution",
-		"comment": "[Setting] Controls whether a custom game resolution should be used, rather than the current window resolution",
-		"translation": "Resolución de juego personalizada",
-		"machine": true
-	},
-	{
-		"phrase": "Enabling this will make the game render at the specified resolution, then stretch it to the size of the game window",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Habilitar esto hará que el juego se renderice a la resolución especificada, luego lo estirará al tamaño de la ventana del juego.",
-		"machine": true
-	},
-	{
 		"phrase": "X resolution",
-		"comment": "[Setting] Controls the custom horizontal screen resolution value",
+		"comment": "[Setting] Controls the custom horizontal screen resolution",
 		"translation": "resolución X",
 		"machine": true
 	},
 	{
 		"phrase": "Y resolution",
-		"comment": "[Setting] Controls the custom vertical screen resolution value",
+		"comment": "[Setting] Controls the custom vertical screen resolution",
 		"translation": "resolución Y",
 		"machine": true
 	},
 	{
 		"phrase": "Upscale quality",
-		"comment": "[Setting] Controls the quality of upscaling shaders",
+		"comment": "Setting that controls the quality of shaders that resize smaller images into larger images",
 		"translation": "Calidad de lujo",
 		"machine": true
 	},
 	{
 		"phrase": "High upscale quality will reduce pixelation when using a reduced custom game resolution",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Upscale quality' setting",
 		"translation": "La calidad de alta calidad reducirá la pixelación al usar una resolución de juego personalizada reducida",
 		"machine": true
 	},
 	{
 		"phrase": "Anti-aliasing",
-		"comment": "[Setting] Controls whether anti-aliasing is enabled",
+		"comment": "Setting that controls whether anti-aliasing is enabled, which reduces pixelation by smoothing the edges of objects",
 		"translation": "Suavizado",
 		"machine": true
 	},
 	{
 		"phrase": "Anti-aliasing reduces pixelation by smoothing the edges of objects",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Anti-aliasing' setting",
 		"translation": "El suavizado reduce la pixelación al suavizar los bordes de los objetos",
 		"machine": true
 	},
 	{
 		"phrase": "Render distance",
-		"comment": "[Setting] Controls the in-game render distance",
+		"comment": "Setting that controls the cut-off distance for rendering distant objects, e.g. 'Render distance: 6 chunks'",
 		"translation": "Distancia de renderizado",
 		"machine": true
 	},
 	{
-		"phrase": "Max lights",
-		"comment": "[Setting] Controls the max amount of lights that should be rendered",
-		"translation": "Luces máximas",
-		"machine": true
-	},
-	{
-		"phrase": "SSAO quality",
-		"comment": "[Setting] Controls the quality of screen space ambient occlusion",
-		"translation": "calidad SSAO",
-		"machine": true
-	},
-	{
 		"phrase": "Bloom strength",
-		"comment": "[Setting] Controls the strength of bloom on bright objects",
+		"comment": "Setting that makes bright surfaces brighter",
 		"translation": "Fuerza de floración",
 		"machine": true
 	},
 	{
-		"phrase": "Bloom brightens and blurs emissive surfaces",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Bloom ilumina y difumina superficies emisivas",
-		"machine": true
-	},
-	{
 		"phrase": "Bloom on sights",
-		"comment": "[Setting] Controls whether bloom should render on weapon sights",
+		"comment": "Setting that controls whether bloom should render on weapon sights",
 		"translation": "Florece en las vistas",
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether bloom effects apply to  weapon sights",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla si los efectos de floración se aplican a las miras de las armas.",
-		"machine": true
-	},
-	{
 		"phrase": "Crepuscular rays",
-		"comment": "[Setting] Controls whether crepuscular rays are enabled",
+		"comment": "Setting that controls whether crepuscular rays\/god rays\/light shafts are enabled",
 		"translation": "rayos crepusculares",
 		"machine": true
 	},
 	{
 		"phrase": "Crepuscular rays are shafts of light that originate from a bright light source",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Crepuscular rays' setting",
 		"translation": "Los rayos crepusculares son haces de luz que se originan en una fuente de luz brillante.",
 		"machine": true
 	},
 	{
 		"phrase": "Particle amount",
-		"comment": "[Setting] Controls the percentage of particles that should be spawned",
+		"comment": "Setting that controls the percentage of particles that should be spawned",
 		"translation": "cantidad de partículas",
 		"machine": true
 	},
 	{
 		"phrase": "Shadow quality",
-		"comment": "[Setting] Controls the quality of shadows",
+		"comment": "Setting that controls the quality of shadows. Higher quality shadows are smoother and flicker less",
 		"translation": "Calidad sombra",
 		"machine": true
 	},
 	{
 		"phrase": "Reducing the quality of shadows will increase FPS but cause shadows to flicker",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Shadow quality' setting",
 		"translation": "Reducir la calidad de las sombras aumentará el FPS pero hará que las sombras parpadeen",
 		"machine": true
 	},
 	{
 		"phrase": "Player shadows",
-		"comment": "[Setting] Controls whether players should cast shadows",
+		"comment": "Setting that controls whether players should cast shadows",
 		"translation": "Sombras del jugador",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether players cast shadows",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Player shadows' setting",
 		"translation": "Controla si los jugadores proyectan sombras",
 		"machine": true
 	},
 	{
 		"phrase": "Entity shadows",
-		"comment": "[Setting] Controls whether entities and objects should cast shadows",
+		"comment": "Setting that controls whether entities (C4, Scanners, Disruptors) should cast shadows",
 		"translation": "Sombras de entidad",
 		"machine": true
 	},
 	{
 		"phrase": "Particle shadows",
-		"comment": "[Setting] Controls whether particles should cast shadows",
+		"comment": "Setting that controls whether particles should cast shadows",
 		"translation": "Sombras de partículas",
 		"machine": true
 	},
 	{
 		"phrase": "Falling block shadows",
-		"comment": "[Setting] Controls whether falling blocks should cast shadows",
+		"comment": "Setting that controls whether falling blocks should cast shadows",
 		"translation": "Caída de sombras en bloque",
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether falling blocks and landing pods cast shadows",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla si los bloques que caen y las cápsulas de aterrizaje proyectan sombras",
-		"machine": true
-	},
-	{
 		"phrase": "Animated block skins",
-		"comment": "[Setting] Controls whether animated block skins should be animated",
+		"comment": "Setting that controls whether animated block skins should be animated",
 		"translation": "Máscaras de bloque animadas",
 		"machine": true
 	},
 	{
 		"phrase": "Bare minimum",
-		"comment": "[Setting] Controls whether the bare minimum rendering pipeline should be enabled",
+		"comment": "The bare minimum rendering pipeline skips all postprocessing and effects and runs the game as fast as possible",
 		"translation": "Mínimo",
 		"machine": true
 	},
 	{
-		"phrase": "The Bare Minimum rendering pipeline skips all postprocessing and renders objects directly to the screen. This setting will produce the highest frames-per-second.",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La canalización de representación mínima básica omite todo el posprocesamiento y representa los objetos directamente en la pantalla. esta configuración producirá los fotogramas por segundo más altos.",
-		"machine": true
-	},
-	{
 		"phrase": "Log OpenGL Errors",
-		"comment": "[Setting] Advanced rendering setting",
+		"comment": "Setting that controls whether OpenGL errors are logged to a file that the developer can analyse",
 		"translation": "Registrar errores de openGL",
-		"machine": true
-	},
-	{
-		"phrase": "Disabling OpenGL error logging may increase FPS.",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Deshabilitar el registro de errores de openGL puede aumentar el FPS.",
 		"machine": true
 	},
 	{
@@ -5143,169 +4957,139 @@
 	},
 	{
 		"phrase": "Controls whether the in-game HUD is rendered",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Show HUD' setting",
 		"translation": "Controla si se renderiza el HUD del juego",
 		"machine": true
 	},
 	{
 		"phrase": "UI scale",
-		"comment": "[Setting] Controls the size of the user interface",
+		"comment": "Setting that controls the size of the user interface",
 		"translation": "escala de interfaz de usuario",
 		"machine": true
 	},
 	{
 		"phrase": "Streamer mode",
-		"comment": "[Setting] Replaces the player's name with a random name and hides the current lobby name",
+		"comment": "Setting that replaces the player's name with a random name and hides the current lobby name",
 		"translation": "Modo de transmisión",
 		"machine": true
 	},
 	{
 		"phrase": "Profanity filter",
-		"comment": "[Setting] Replaces all swear words with delicious food",
+		"comment": "Setting that replaces all swear words with delicious food",
 		"translation": "Filtro de blasfemias",
 		"machine": true
 	},
 	{
 		"phrase": "3D ping display",
-		"comment": "[Setting] [Radio Element] Controls whether only party member 3D pings should be displayed",
+		"comment": "Setting that controls whether only party member 3D pings should be displayed",
 		"translation": "visualización de ping 3D",
 		"machine": true
 	},
 	{
-		"phrase": "Show ping owner",
-		"comment": "[Setting] Controls whether a 3D ping should have it's owners name next to it",
-		"translation": "Mostrar propietario de ping",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether a 3D ping should have it's owners name next to it",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla si un ping 3d debe tener el nombre del propietario junto a él",
-		"machine": true
-	},
-	{
-		"phrase": "Max ping distance",
-		"comment": "[Setting] Controls the render distance cutoff for 3D pings",
-		"translation": "Distancia máxima de ping",
-		"machine": true
-	},
-	{
-		"phrase": "Controls the render distance cutoff for 3D pings",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "Controla el corte de distancia de renderizado para pings 3d",
-		"machine": true
-	},
-	{
 		"phrase": "Player name distance",
-		"comment": "[Setting] Controls the render distance cutoff for friendly player names",
+		"comment": "Setting that controls the render distance cutoff for friendly player names",
 		"translation": "Distancia del nombre del jugador",
 		"machine": true
 	},
 	{
 		"phrase": "Controls the render distance cutoff for friendly player names",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Player name distance' setting",
 		"translation": "Controla el límite de distancia de renderizado para nombres de jugadores amigables",
 		"machine": true
 	},
 	{
 		"phrase": "Entity icon distance",
-		"comment": "[Setting] Controls the render distance cutoff for entity icons (C4, scanner, etc)",
+		"comment": "Setting that controls the render distance cutoff for entity icons (C4, scanner, etc)",
 		"translation": "Distancia del icono de la entidad",
 		"machine": true
 	},
 	{
 		"phrase": "Controls the render distance cutoff for entity icons (C4, scanner, etc)",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Entity icon distance' setting",
 		"translation": "Controla el corte de la distancia de renderizado para los íconos de entidad (c4, escáner, etc.))",
 		"machine": true
 	},
 	{
-		"phrase": "Player name scale",
-		"comment": "[Setting] Controls the size of friendly player names",
-		"translation": "Escala de nombre del jugador",
-		"machine": true
-	},
-	{
 		"phrase": "Controls the size of friendly player names",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Player name scale' setting",
 		"translation": "Controla el tamaño de los nombres amistosos de los jugadores.",
 		"machine": true
 	},
 	{
 		"phrase": "Damage numbers",
-		"comment": "[Setting] [Radio Element] Controls whether damage numbers should render",
+		"comment": "Setting that controls whether damage numbers should be shown. When enabled, numbers indicating the amount of damage you dealt to an enemy are shown next to the enemy",
 		"translation": "Números de daños",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether damage numbers should render",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Damage numbers' setting",
 		"translation": "Controla si los números de daño deben mostrarse",
 		"machine": true
 	},
 	{
 		"phrase": "Personal colour",
-		"comment": "[Setting] Controls the colour of personal UI elements",
+		"comment": "Setting that controls the colour of personal UI elements",
 		"translation": "color personalizado",
 		"machine": true
 	},
 	{
 		"phrase": "Team colour",
-		"comment": "[Setting] Controls the colour of friendly UI elements",
+		"comment": "Setting that controls the colour of friendly UI elements",
 		"translation": "color del equipo",
 		"machine": true
 	},
 	{
 		"phrase": "Party colour",
-		"comment": "[Setting] Controls the colour of party UI elements",
+		"comment": "Setting that controls the colour of party UI elements",
 		"translation": "color de fiesta",
 		"machine": true
 	},
 	{
 		"phrase": "Enemy colour",
-		"comment": "[Setting] Controls the colour of enemy UI elements",
+		"comment": "Setting that controls the colour of enemy UI elements",
 		"translation": "color enemigo",
 		"machine": true
 	},
 	{
 		"phrase": "Noob colour",
-		"comment": "[Setting] Controls the colour of inexperienced enemy UI elements",
+		"comment": "Setting that controls the colour of inexperienced enemy UI elements",
 		"translation": "color novato",
 		"machine": true
 	},
 	{
 		"phrase": "Neutral colour",
-		"comment": "[Setting] Controls the colour of neutral UI elements",
+		"comment": "Setting that controls the colour of neutral UI elements",
 		"translation": "color neutro",
 		"machine": true
 	},
 	{
 		"phrase": "Show player outlines through walls",
-		"comment": "[Setting] Controls whether friendly player outlines should be visible through walls",
+		"comment": "Setting that controls whether friendly player outlines should be visible through walls",
 		"translation": "Mostrar contornos de jugadores a través de las paredes",
 		"machine": true
 	},
 	{
 		"phrase": "Party outline colour",
-		"comment": "[Setting] Controls whether party member's outlines should be a different colour",
+		"comment": "Setting that controls whether party member outlines should be a different colour",
 		"translation": "Color del contorno de la fiesta",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether party member's outlines should be a different colour",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Party outline colour' setting",
 		"translation": "Controla si los contornos de los miembros del grupo deben ser de un color diferente",
 		"machine": true
 	},
 	{
 		"phrase": "Show enemy outlines",
-		"comment": "[Setting] Controls whether outlines should render around enemies",
+		"comment": "Setting that controls whether outlines should render around enemies",
 		"translation": "Mostrar contornos enemigos",
 		"machine": true
 	},
 	{
 		"phrase": "Controls whether outlines should render around enemies",
-		"comment": "[Setting] [Tooltip]",
+		"comment": "Description for the 'Show enemy outlines' setting",
 		"translation": "Controla si los contornos deben mostrarse alrededor de los enemigos.",
 		"machine": true
 	},
@@ -5370,12 +5154,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Crosshair spacing",
-		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
-		"translation": "Espaciado en cruz",
-		"machine": true
-	},
-	{
 		"phrase": "Crosshair width",
 		"comment": "This refers to the width of each line in a plus-shaped crosshair",
 		"translation": "Ancho de la mira",
@@ -5419,139 +5197,127 @@
 	},
 	{
 		"phrase": "Right edge type",
-		"comment": "This setting controls what info gets displayed on the right side of their crosshair",
+		"comment": "Setting that controls what info gets displayed on the right side of their crosshair",
 		"translation": "Tipo de borde derecho",
 		"machine": true
 	},
 	{
 		"phrase": "Top edge type",
-		"comment": "This setting controls what info gets displayed on the top side of their crosshair",
+		"comment": "Setting that controls what info gets displayed on the top side of their crosshair",
 		"translation": "Tipo de borde superior",
 		"machine": true
 	},
 	{
 		"phrase": "Bottom edge type",
-		"comment": "This setting controls what info gets displayed on the bottom side of their crosshair",
+		"comment": "Setting that controls what info gets displayed on the bottom side of their crosshair",
 		"translation": "Tipo de borde inferior",
 		"machine": true
 	},
 	{
 		"phrase": "Edge overlap",
+		"comment": "Setting that controls whether the ammo\/health info around the edge of the crosshair should overlap the plus-shaped crosshair in the center of the screen",
 		"translation": "Superposición de bordes",
 		"machine": true
 	},
 	{
-		"phrase": "Edge Width",
-		"translation": "Ancho del borde",
-		"machine": true
-	},
-	{
-		"phrase": "Edge Length",
-		"translation": "Longitud de borde",
-		"machine": true
-	},
-	{
-		"phrase": "Edge Spacing",
-		"translation": "Espaciado de bordes",
-		"machine": true
-	},
-	{
 		"phrase": "Info circle radius",
+		"comment": "Setting that controls the radius of the circle around the crosshair, which contains ammo\/health info",
 		"translation": "Radio del círculo de información",
 		"machine": true
 	},
 	{
 		"phrase": "Info circle thickness",
+		"comment": "Setting that controls the thickness of the circle around the crosshair, which contains ammo\/health info",
 		"translation": "Grosor del círculo de información",
 		"machine": true
 	},
 	{
 		"phrase": "Show ammo",
-		"comment": "This setting controls whether the amount of ammo the player has should be displayed as an arc around the crosshair",
+		"comment": "Setting that controls whether the amount of ammo the player has should be displayed as an arc (partial circle) around the crosshair",
 		"translation": "Mostrar munición",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo direction",
-		"comment": "Controls whether the ammo UI arc should increase clockwise or anticlockwise",
+		"comment": "Setting that controls whether the ammo arc UI should increase clockwise or anticlockwise",
 		"translation": "Dirección de munición",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo size",
-		"comment": "Controls the UI size\/scale of the ammo arc UI",
+		"comment": "Setting that controls the size\/scale of the ammo arc UI around the crosshair",
 		"translation": "Tamaño de munición",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo angle",
-		"comment": "How much ammo the player has can be shown in a thin arc around the crosshair. This setting controls the angle that the arc should start, e.g. '90 degrees'",
+		"comment": "Setting that controls the angle that the ammo arc UI should start, e.g. '60 degrees'",
 		"translation": "ángulo de munición",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo colour",
-		"comment": "The colour of the weapon ammo UI",
+		"comment": "The colour of the ammo UI",
 		"translation": "Color de munición",
 		"machine": true
 	},
 	{
 		"phrase": "Show blocks",
-		"comment": "Players start with 100 blocks and can build with them. This setting controls whether the amount of blocks the player has should be displayed as an arc around the crosshair",
+		"comment": "Setting that controls whether the amount of blocks the player is holding should be displayed as an arc (partial circle) around the crosshair",
 		"translation": "Mostrar bloques",
 		"machine": true
 	},
 	{
 		"phrase": "Blocks direction",
-		"comment": "Controls whether the block UI arc should increase clockwise or anticlockwise",
+		"comment": "Setting that controls whether the blocks arc UI should increase clockwise or anticlockwise",
 		"translation": "Dirección de bloques",
 		"machine": true
 	},
 	{
 		"phrase": "Blocks size",
-		"comment": "Controls the UI size\/scale of the blocks arc UI",
+		"comment": "Setting that controls the size\/scale of the blocks arc UI around the crosshair",
 		"translation": "Tamaño de bloques",
 		"machine": true
 	},
 	{
 		"phrase": "Blocks angle",
-		"comment": "The amount of blocks a player has can be shown in a thin arc around the crosshair. This setting controls the angle that the arc should start, e.g. '90 degrees'",
+		"comment": "Setting that controls the angle that the blocks arc UI should start, e.g. '60 degrees'",
 		"translation": "ángulo de bloques",
 		"machine": true
 	},
 	{
 		"phrase": "Blocks colour",
-		"comment": "The colour of the blocks arc UI",
+		"comment": "The colour of the blocks UI",
 		"translation": "color de los bloques",
 		"machine": true
 	},
 	{
 		"phrase": "Show health",
-		"comment": "This setting controls whether the player's health should be displayed as an arc around the crosshair",
+		"comment": "Setting that controls whether the player's health should be displayed as an arc (partial circle) around the crosshair",
 		"translation": "Mostrar salud",
 		"machine": true
 	},
 	{
 		"phrase": "Health direction",
-		"comment": "Controls whether the block UI arc should increase clockwise or anticlockwise",
+		"comment": "Setting that controls whether the health arc UI should increase clockwise or anticlockwise",
 		"translation": "dirección de salud",
 		"machine": true
 	},
 	{
 		"phrase": "Health size",
-		"comment": "Controls the UI size\/scale of the health arc UI",
+		"comment": "Setting that controls the size\/scale of the health arc UI around the crosshair",
 		"translation": "Tamaño de la salud",
 		"machine": true
 	},
 	{
 		"phrase": "Health angle",
-		"comment": "The player's health can be shown in a thin arc around the crosshair. This setting controls the angle that the arc should start, e.g. '90 degrees'",
+		"comment": "Setting that controls the angle that the health arc UI should start, e.g. '60 degrees'",
 		"translation": "ángulo de salud",
 		"machine": true
 	},
 	{
 		"phrase": "Health colour",
-		"comment": "The colour of the player's health UI",
+		"comment": "The colour of the health UI",
 		"translation": "color de la salud",
 		"machine": true
 	},
@@ -5575,541 +5341,151 @@
 	},
 	{
 		"phrase": "Ammo HUD",
-		"comment": "[Setting] Controls whether the ammo HUD should be visible",
+		"comment": "Setting that controls whether the ammo HUD is visible",
 		"translation": "HUD de munición",
 		"machine": true
 	},
 	{
 		"phrase": "Mods HUD",
-		"comment": "[Setting] Controls whether your armour modifications should show on the ammo HUD",
+		"comment": "Setting that controls whether the mods (armour modification) HUD is visible",
 		"translation": "Modos HUD",
 		"machine": true
 	},
 	{
-		"phrase": "Ammo - horizontal edge",
-		"comment": "[Setting] Controls whether the ammo HUD should snap to the left or right of the screen",
-		"translation": "Munición - borde horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "Ammo - vertical edge",
-		"comment": "[Setting] Controls whether the ammo HUD should snap to the top or bottom of the screen",
-		"translation": "Munición - borde vertical",
-		"machine": true
-	},
-	{
-		"phrase": "Ammo - horizontal margin",
-		"comment": "[Setting] Controls the distance between the ammo HUD and the edge of the screen",
-		"translation": "Munición - margen horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the ammo HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el HUD de munición y la izquierda\/derecha de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Ammo - vertical margin",
-		"comment": "[Setting] Controls the distance between the ammo HUD and the edge of the screen",
-		"translation": "Munición - margen vertical",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the ammo HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el HUD de munición y la parte superior\/inferior de la pantalla",
-		"machine": true
-	},
-	{
 		"phrase": "Chat HUD",
-		"comment": "[Setting] Controls whether the chat HUD should be visible",
+		"comment": "Setting that controls whether the chat HUD is visible",
 		"translation": "HUD de chat",
 		"machine": true
 	},
 	{
-		"phrase": "Chat - horizontal edge",
-		"comment": "[Setting] Controls whether the chat HUD should snap to the left or right of the screen",
-		"translation": "Chat - borde horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - vertical edge",
-		"comment": "[Setting] Controls whether the chat HUD should snap to the top or bottom of the screen",
-		"translation": "Chat - borde vertical",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - horizontal margin",
-		"comment": "[Setting] Controls the distance between the chat HUD and the edge of the screen",
-		"translation": "Chat - margen horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the chat HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el chat HUD y la izquierda\/derecha de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - vertical margin",
-		"comment": "[Setting] Controls the distance between the chat HUD and the edge of the screen",
-		"translation": "Chat - margen vertical",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the chat HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el chat HUD y la parte superior\/inferior de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - max width",
-		"comment": "[Setting] Controls the max width of the chat",
-		"translation": "Chat - ancho máximo",
-		"machine": true
-	},
-	{
-		"phrase": "The max width of the chat",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "El ancho máximo del chat.",
-		"machine": true
-	},
-	{
-		"phrase": "Chat - max height",
-		"comment": "[Setting] Controls the max height of the chat",
-		"translation": "Chat - altura máxima",
-		"machine": true
-	},
-	{
-		"phrase": "The max height of the chat",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La altura máxima del chat.",
-		"machine": true
-	},
-	{
-		"phrase": "Chat timeout",
-		"comment": "[Setting] Controls how long chat messages display for before disappearing",
-		"translation": "Tiempo de espera de chat",
-		"machine": true
-	},
-	{
-		"phrase": "Controls how long chat messages display for before disappearing",
-		"comment": "[Setting] [ToolTip]",
-		"translation": "Controla cuánto tiempo se muestran los mensajes de chat antes de desaparecer",
-		"machine": true
-	},
-	{
 		"phrase": "Killfeed HUD",
-		"comment": "[Setting] Controls whether the killfeed HUD should be visible",
+		"comment": "Setting that controls whether the killfeed HUD is visible",
 		"translation": "HUD de alimentación mortal",
 		"machine": true
 	},
 	{
-		"phrase": "Killfeed - horizontal edge",
-		"comment": "[Setting] Controls whether the killfeed HUD should snap to the left or right of the screen",
-		"translation": "Killfeed - borde horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed - vertical edge",
-		"comment": "[Setting] Controls whether the killfeed HUD should snap to the top or bottom of the screen",
-		"translation": "Killfeed - borde vertical",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed - horizontal margin",
-		"comment": "[Setting] Controls the distance between the killfeed HUD and the edge of the screen",
-		"translation": "Killfeed - margen horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the killfeed HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el HUD killfeed y la izquierda\/derecha de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed - vertical margin",
-		"comment": "[Setting] Controls the distance between the killfeed HUD and the edge of the screen",
-		"translation": "Killfeed - margen vertical",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the killfeed HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el HUD killfeed y la parte superior\/inferior de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed - max height",
-		"comment": "[Setting] Controls the max height of the killfeed",
-		"translation": "Killfeed - altura máxima",
-		"machine": true
-	},
-	{
-		"phrase": "The max height of the killfeed",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La altura máxima del killfeed",
-		"machine": true
-	},
-	{
-		"phrase": "Killfeed timeout",
-		"comment": "[Setting] Controls how long killfeed messages display for before disappearing",
-		"translation": "Tiempo de espera de muerte",
-		"machine": true
-	},
-	{
-		"phrase": "Controls how long killfeed messages display for before disappearing",
-		"comment": "[Setting] [ToolTip]",
-		"translation": "Controla cuánto tiempo se muestran los mensajes de killfeed antes de desaparecer",
-		"machine": true
-	},
-	{
 		"phrase": "Minimap HUD",
-		"comment": "[Setting] Controls whether the minimap HUD should be visible",
+		"comment": "Setting that controls whether the minimap HUD is visible",
 		"translation": "Minimapa HUD",
 		"machine": true
 	},
 	{
-		"phrase": "Minimap - horizontal edge",
-		"comment": "[Setting] Controls whether the minimap HUD should snap to the left or right of the screen",
-		"translation": "Minimapa - borde horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - vertical edge",
-		"comment": "[Setting] Controls whether the minimap HUD should snap to the top or bottom of the screen",
-		"translation": "Minimapa - borde vertical",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - horizontal margin",
-		"comment": "[Setting] Controls the distance between the killfeed HUD and the edge of the screen",
-		"translation": "Minimapa - margen horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the minimap HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el minimapa HUD y la izquierda\/derecha de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - vertical margin",
-		"comment": "[Setting] Controls the distance between the killfeed HUD and the edge of the screen",
-		"translation": "Minimapa - margen vertical",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the minimap HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el minimapa HUD y la parte superior\/inferior de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - width",
-		"comment": "[Setting] Controls the width of the minimap",
-		"translation": "Minimapa - ancho",
-		"machine": true
-	},
-	{
-		"phrase": "Minimap - height",
-		"comment": "[Setting] Controls the height of the minimap",
-		"translation": "Minimapa - altura",
-		"machine": true
-	},
-	{
 		"phrase": "Minimap zoom",
-		"comment": "[Setting] Controls the inner zoom of the minimap",
+		"comment": "Setting that controls how zoomed in the minimap is",
 		"translation": "Zoom del minimapa",
 		"machine": true
 	},
 	{
-		"phrase": "The internal scale of the minimap",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La escala interna del minimapa",
-		"machine": true
-	},
-	{
 		"phrase": "Minimap icon size",
-		"comment": "[Setting] Controls the size of icons on the minimap",
+		"comment": "Setting that controls the size\/scale of icons on the minimap",
 		"translation": "Tamaño del icono del minimapa",
 		"machine": true
 	},
 	{
-		"phrase": "The size of icons on the minimap",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "El tamaño de los iconos en el minimapa",
-		"machine": true
-	},
-	{
 		"phrase": "Show yourself",
-		"comment": "[Setting] Controls whether you should be visible on the minimap",
+		"comment": "Setting that controls whether you should be visible on the minimap",
 		"translation": "Muéstrate",
 		"machine": true
 	},
 	{
 		"phrase": "Show friendlies",
-		"comment": "[Setting] Controls whether friendlies should be visible on the minimap",
+		"comment": "Setting that controls whether friendlies should be visible on the minimap",
 		"translation": "Mostrar amistosos",
 		"machine": true
 	},
 	{
 		"phrase": "Show enemies",
-		"comment": "[Setting] Controls whether enemies should be visible on the minimap",
+		"comment": "Setting that controls whether enemies should be visible on the minimap",
 		"translation": "Mostrar enemigos",
 		"machine": true
 	},
 	{
 		"phrase": "Show dead players",
-		"comment": "[Setting] Controls whether dead players should be visible on the minimap",
+		"comment": "Setting that controls whether dead players should be visible on the minimap",
 		"translation": "Mostrar jugadores muertos",
 		"machine": true
 	},
 	{
 		"phrase": "Show projectiles",
-		"comment": "[Setting] Controls whether projectiles should be visible on the minimap",
+		"comment": "Setting that controls whether projectiles should be visible on the minimap",
 		"translation": "Mostrar proyectiles",
 		"machine": true
 	},
 	{
 		"phrase": "Show scanners",
-		"comment": "[Setting] Controls whether scanners should be visible on the minimap",
+		"comment": "Setting that controls whether scanners should be visible on the minimap",
 		"translation": "Mostrar escáneres",
 		"machine": true
 	},
 	{
 		"phrase": "Show meteors",
-		"comment": "[Setting] Controls whether meteors should be visible on the minimap",
+		"comment": "Setting that controls whether meteors should be visible on the minimap",
 		"translation": "Mostrar meteoros",
 		"machine": true
 	},
 	{
 		"phrase": "Show C4",
-		"comment": "[Setting] Controls whether C4 should be visible on the minimap",
+		"comment": "Setting that controls whether C4 should be visible on the minimap",
 		"translation": "Mostrar c4",
 		"machine": true
 	},
 	{
 		"phrase": "Show disruptors",
-		"comment": "[Setting] Controls whether disruptors should be visible on the minimap",
+		"comment": "Setting that controls whether disruptors should be visible on the minimap",
 		"translation": "Mostrar disruptores",
 		"machine": true
 	},
 	{
 		"phrase": "Show extractors",
-		"comment": "[Setting] Controls whether extractors should be visible on the minimap",
+		"comment": "Setting that controls whether extractors should be visible on the minimap",
 		"translation": "Mostrar extractores",
 		"machine": true
 	},
 	{
 		"phrase": "Show reinforcers",
-		"comment": "[Setting] Controls whether extractors should be visible on the minimap",
+		"comment": "Setting that controls whether extractors should be visible on the minimap",
 		"translation": "Mostrar reforzadores",
 		"machine": true
 	},
 	{
 		"phrase": "Show grenades",
-		"comment": "[Setting] Controls whether grenades should be visible on the minimap",
+		"comment": "Setting that controls whether grenades should be visible on the minimap",
 		"translation": "mostrar granadas",
 		"machine": true
 	},
 	{
 		"phrase": "Show flags",
-		"comment": "[Setting] Controls whether flags should be visible on the minimap",
+		"comment": "Setting that controls whether flags should be visible on the minimap",
 		"translation": "Mostrar banderas",
 		"machine": true
 	},
 	{
 		"phrase": "Show zones",
-		"comment": "[Setting] Controls whether zones should be visible on the minimap",
+		"comment": "Setting that controls whether zones should be visible on the minimap",
 		"translation": "Mostrar zonas",
 		"machine": true
 	},
 	{
-		"phrase": "Show pings",
-		"comment": "[Setting] Controls whether pings should be visible on the minimap",
-		"translation": "Mostrar pings",
-		"machine": true
-	},
-	{
 		"phrase": "Voice HUD",
-		"comment": "[Setting] Controls whether the voice HUD should be visible",
+		"comment": "Setting that controls whether the voice HUD is visible",
 		"translation": "HUD de voz",
 		"machine": true
 	},
 	{
-		"phrase": "Voice - horizontal edge",
-		"comment": "[Setting] Controls whether the voice HUD should snap to the left or right of the screen",
-		"translation": "Voz - borde horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "Voice - vertical edge",
-		"comment": "[Setting] Controls whether the voice HUD should snap to the top or bottom of the screen",
-		"translation": "Voz - borde vertical",
-		"machine": true
-	},
-	{
-		"phrase": "Voice - horizontal margin",
-		"comment": "[Setting] Controls the distance between the voice HUD and the edge of the screen",
-		"translation": "Voz - margen horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the voice HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el HUD de voz y la izquierda\/derecha de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Voice - vertical margin",
-		"comment": "[Setting] Controls the distance between the voice HUD and the edge of the screen",
-		"translation": "Voz - margen vertical",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the voice HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el HUD de voz y la parte superior\/inferior de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Voice - max height",
-		"comment": "[Setting] Controls the max height of the voice HUD",
-		"translation": "Voz - altura máxima",
-		"machine": true
-	},
-	{
-		"phrase": "The max height of the voice",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La altura máxima de la voz",
-		"machine": true
-	},
-	{
-		"phrase": "Voice timeout",
-		"comment": "[Setting] Controls how long voice indicators display for before disappearing",
-		"translation": "Tiempo de espera de voz",
-		"machine": true
-	},
-	{
-		"phrase": "Controls how long voice messages display for before disappearing",
-		"comment": "[Setting] [ToolTip]",
-		"translation": "Controla cuánto tiempo se muestran los mensajes de voz antes de desaparecer",
-		"machine": true
-	},
-	{
-		"phrase": "Points timeout",
-		"comment": "[Setting] Controls how long point messages display for before disappearing",
-		"translation": "Tiempo de espera de puntos",
-		"machine": true
-	},
-	{
-		"phrase": "Controls how long point messages display for before disappearing",
-		"comment": "[Setting] [ToolTip]",
-		"translation": "Controla cuánto tiempo se muestran los mensajes de puntos antes de desaparecer",
-		"machine": true
-	},
-	{
 		"phrase": "Team Info",
-		"comment": "Team Info UI in-game, i.e. how many points each team has",
+		"comment": "UI that shows the status\/info of each team",
 		"translation": "información del equipo",
 		"machine": true
 	},
 	{
-		"phrase": "Team info HUD",
-		"comment": "[Setting] Controls whether the team info HUD should be visible",
-		"translation": "Información del equipo HUD",
-		"machine": true
-	},
-	{
-		"phrase": "Team info - horizontal edge",
-		"comment": "[Setting] Controls whether the team info HUD should snap to the left or right of the screen",
-		"translation": "Información del equipo - borde horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "Team info - vertical edge",
-		"comment": "[Setting] Controls whether the team info HUD should snap to the top or bottom of the screen",
-		"translation": "Información del equipo - borde vertical",
-		"machine": true
-	},
-	{
-		"phrase": "Team info - horizontal margin",
-		"comment": "[Setting] Controls the distance between the team info HUD and the edge of the screen",
-		"translation": "Información del equipo - margen horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the team info HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el HUD de información del equipo y la izquierda\/derecha de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Team info - vertical margin",
-		"comment": "[Setting] Controls the distance between the team info HUD and the edge of the screen",
-		"translation": "Información del equipo - margen vertical",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the team info HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el HUD de información del equipo y la parte superior\/inferior de la pantalla",
-		"machine": true
-	},
-	{
 		"phrase": "Match Time",
-		"comment": "Match Time UI in-game, i.e. the amount of time remaining in the match",
+		"comment": "UI that shows how much time is remaining in the current match\/battle",
 		"translation": "tiempo de partido",
 		"machine": true
 	},
 	{
-		"phrase": "Match time HUD",
-		"comment": "[Setting] Controls whether the match info HUD should be visible",
-		"translation": "HUD de tiempo de partido",
-		"machine": true
-	},
-	{
-		"phrase": "Match time - horizontal edge",
-		"comment": "[Setting] Controls whether the match time HUD should snap to the left or right of the screen",
-		"translation": "Tiempo de partido - borde horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "Match time - vertical edge",
-		"comment": "[Setting] Controls whether the match time HUD should snap to the top or bottom of the screen",
-		"translation": "Tiempo de partido - borde vertical",
-		"machine": true
-	},
-	{
-		"phrase": "Match time - horizontal margin",
-		"comment": "[Setting] Controls the distance between the match time HUD and the edge of the screen",
-		"translation": "Tiempo de partido - margen horizontal",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the match time HUD and the left\/right of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el tiempo de partido HUD y la izquierda\/derecha de la pantalla",
-		"machine": true
-	},
-	{
-		"phrase": "Match time - vertical margin",
-		"comment": "[Setting] Controls the distance between the match info HUD and the edge of the screen",
-		"translation": "Tiempo de partido - margen vertical",
-		"machine": true
-	},
-	{
-		"phrase": "The distance between the match time HUD and the top\/bottom of the screen",
-		"comment": "[Setting] [Tooltip]",
-		"translation": "La distancia entre el tiempo de partido HUD y la parte superior\/inferior de la pantalla",
-		"machine": true
-	},
-	{
 		"phrase": "Keybinds",
-		"comment": "Mouse and keyboard settings",
+		"comment": "Binding an action to a keyboard key\/mouse button, e.g. binding sprint to shift and shoot to the left mouse button",
 		"translation": "combinaciones de teclas",
 		"machine": true
 	},
@@ -6121,31 +5497,25 @@
 	},
 	{
 		"phrase": "Pause on leave",
-		"comment": "[Setting] Pause when the game window is no longer active",
+		"comment": "Setting that pauses when the game window is no longer active",
 		"translation": "Pausa en la licencia",
 		"machine": true
 	},
 	{
 		"phrase": "Camera sway",
-		"comment": "[Setting] Controls whether the camera sways left and right while sprinting",
+		"comment": "Setting that controls whether the camera should sway left and right while sprinting",
 		"translation": "balanceo de la cámara",
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether the camera sways left and right while sprinting",
-		"comment": "[Tooltip]",
-		"translation": "Controla si la cámara se balancea hacia la izquierda y hacia la derecha mientras corre",
-		"machine": true
-	},
-	{
 		"phrase": "Roly Poly Mode",
-		"comment": "[Setting] Makes the player's view spin",
+		"comment": "Setting that makes the player's view spin",
 		"translation": "Modo Roly Poly",
 		"machine": true
 	},
 	{
 		"phrase": "Enjoy your headache",
-		"comment": "[Tooltip]",
+		"comment": "Description for the 'Roly Poly Mode' setting",
 		"translation": "Disfruta tu dolor de cabeza",
 		"machine": true
 	},
@@ -8020,6 +7390,332 @@
 		"phrase": "Titles",
 		"comment": "2 Titles",
 		"translation": "Títulos",
+		"machine": true
+	},
+	{
+		"phrase": "Ping (Enemy)",
+		"context": "Marker (Enemy)",
+		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
+		"translation": "Ping (enemigo)",
+		"machine": true
+	},
+	{
+		"phrase": "Ping (Help)",
+		"context": "Marker (Help)",
+		"comment": "This ping refers to placing a 3D marker above your head, indicating you need help\/backup\/support\/assistance from your team",
+		"translation": "ping (ayuda)",
+		"machine": true
+	},
+	{
+		"phrase": "Ping",
+		"context": "Marker",
+		"comment": "Column header on the server list",
+		"translation": "Silbido",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the camera should sway left and right while sprinting",
+		"comment": "Description for the 'Camera sway' setting",
+		"translation": "Controla si la cámara debe balancearse hacia la izquierda y hacia la derecha mientras corre",
+		"machine": true
+	},
+	{
+		"phrase": "Voice input device",
+		"comment": "Setting that controls which voice input device\/microphone the game will use",
+		"translation": "Dispositivo de entrada de voz",
+		"machine": true
+	},
+	{
+		"phrase": "Pew Pew Mode",
+		"context": "Acapella mode",
+		"comment": "Setting that replaces sounds with community-made acapella versions",
+		"translation": "Modo banco banco",
+		"machine": true
+	},
+	{
+		"phrase": "Replaces sounds with community-made acapella versions",
+		"comment": "Description for the 'Pew Pew Mode' setting",
+		"translation": "Reemplaza los sonidos con versiones acapella hechas por la comunidad",
+		"machine": true
+	},
+	{
+		"phrase": "Crosshair spacing",
+		"context": "Crosshair distance",
+		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
+		"translation": "Espaciado de punto de mira",
+		"machine": true
+	},
+	{
+		"phrase": "Edge width",
+		"comment": "Setting that controls the width of the ammo\/health info around the edge of the crosshair",
+		"translation": "Ancho del borde",
+		"machine": true
+	},
+	{
+		"phrase": "Edge length",
+		"comment": "Setting that controls the length of the ammo\/health info around the edge of the crosshair",
+		"translation": "Longitud de borde",
+		"machine": true
+	},
+	{
+		"phrase": "Edge spacing",
+		"context": "Edge distance",
+		"comment": "Setting that controls the spacing\/distance between the ammo\/health info around the edge of the crosshair, and the crosshair",
+		"translation": "Espaciado de bordes",
+		"machine": true
+	},
+	{
+		"phrase": "Match Time HUD",
+		"comment": "Setting that controls whether the remaining time left in the match is visible on the HUD",
+		"translation": "HUD de tiempo de partido",
+		"machine": true
+	},
+	{
+		"phrase": "Team Info HUD",
+		"comment": "Setting that controls whether the team information HUD is visible",
+		"translation": "Información del equipo HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Show pings",
+		"context": "Show markers",
+		"comment": "Setting that controls whether pings\/markers should be visible on the minimap",
+		"translation": "Mostrar pings",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - horizontal edge",
+		"comment": "Setting that controls whether the ammo\/chat\/minimap\/etc HUD should snap to the left or right of the screen. Parameter 0: 'Ammo'",
+		"translation": "{0} - borde horizontal",
+		"machine": true
+	},
+	{
+		"phrase": "Whether the {0} HUD should snap to the left or right of the screen",
+		"comment": "Description for the 'Ammo - horizontal edge' setting. Parameter 0: 'Ammo'",
+		"translation": "Si el {0} HUD debe ajustarse a la izquierda o a la derecha de la pantalla",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - vertical edge",
+		"comment": "Setting that controls whether the ammo\/chat\/minimap\/etc HUD should snap to the top or bottom of the screen",
+		"translation": "{0} - borde vertical",
+		"machine": true
+	},
+	{
+		"phrase": "Whether the {0} HUD should snap to the top or bottom of the screen",
+		"comment": "Description for the 'Ammo - vertical edge' setting",
+		"translation": "Si el {0} HUD debe ajustarse a la parte superior o inferior de la pantalla",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - horizontal margin",
+		"comment": "[Setting] Setting that controls the distance between the ammo\/chat\/minimap\/etc HUD and the edge of the screen. Parameter 0: 'Ammo'",
+		"translation": "{0} - margen horizontal",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - vertical margin",
+		"comment": "[Setting] Setting that controls the distance between the ammo\/chat\/minimap\/etc HUD and the edge of the screen. Parameter 0: 'Ammo'",
+		"translation": "{0} - margen vertical",
+		"machine": true
+	},
+	{
+		"phrase": "The distance between the {0} HUD and the edge of the screen",
+		"comment": "Description for the 'Ammo - horizontal margin' setting. Parameter 0: 'Ammo'",
+		"translation": "La distancia entre el {0} HUD y el borde de la pantalla",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - max width",
+		"context": "{0} - maximum width",
+		"comment": "Setting that controls the maximum width of the ammo\/chat\/minimap\/etc HUD",
+		"translation": "{0} - ancho máximo",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - max height",
+		"context": "{0} - maximum height",
+		"comment": "Setting that controls the maximum height of the ammo\/chat\/minimap\/etc HUD",
+		"translation": "{0} - altura máxima",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - width",
+		"comment": "Setting that controls the width of the ammo\/chat\/minimap\/etc HUD",
+		"translation": "{0} - ancho",
+		"machine": true
+	},
+	{
+		"phrase": "{0} - height",
+		"comment": "Setting that controls the height of the ammo\/chat\/minimap\/etc HUD",
+		"translation": "{0} - altura",
+		"machine": true
+	},
+	{
+		"phrase": "{0} timeout",
+		"comment": "Setting that controls how long chat\/killfeed messages display before disappearing",
+		"translation": "tiempo de espera {0}",
+		"machine": true
+	},
+	{
+		"phrase": "How long {0} messages display before disappearing",
+		"comment": "Description for the 'Chat timeout' setting",
+		"translation": "Cuánto tiempo se muestran los mensajes {0} antes de desaparecer",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle {0}",
+		"comment": "Setting that Controls whether you need to hold a key down to continually perform an action, e.g. scoping\/crouching\/sprinting. Parameter 0: 'Scope'",
+		"translation": "Alternar {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Whether you need to hold a key down to continually {0}",
+		"comment": "Description for the 'Toggle Scope' setting. Parameter 0: 'Scope'",
+		"translation": "Si necesita mantener presionada una tecla para {0} continuamente",
+		"machine": true
+	},
+	{
+		"phrase": "{0} vs {1} priority",
+		"comment": "Setting that controls what happens when the player presses two keys at the same time. Parameter 0: 'Sprint', Parameter 1: 'Scope'",
+		"translation": "Prioridad {0} frente a {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Controls what should happen when pressing both {0} and {1} at the same time",
+		"comment": "Description for the 'Sprint vs Scope priority' setting",
+		"translation": "Controla lo que debería suceder al presionar {0} y {1} al mismo tiempo",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your structure automatically rotates as you look around",
+		"comment": "Description for the 'Rotate structures' keybind",
+		"translation": "Controla si tu estructura gira automáticamente mientras miras a tu alrededor",
+		"machine": true
+	},
+	{
+		"phrase": "Skip {0} on swap",
+		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'Midi'",
+		"translation": "Omitir {0} en el intercambio",
+		"machine": true
+	},
+	{
+		"phrase": "Relative sensitivity",
+		"comment": "This setting means that the player's ironsights\/2X\/4X sensitivity is relative to their base look sensitivity",
+		"translation": "Sensibilidad relativa",
+		"machine": true
+	},
+	{
+		"phrase": "Texture resolution",
+		"comment": "Controls the size of textures, i.e. full, half or quarter resolution",
+		"translation": "Resolución de textura",
+		"machine": true
+	},
+	{
+		"phrase": "Custom resolution",
+		"comment": "Setting that controls whether a custom resolution should be used, rather than the current window resolution",
+		"translation": "Resolución personalizada",
+		"machine": true
+	},
+	{
+		"phrase": "Enabling this to render the game at the specified resolution. The final image will then be stretched to the size of the window",
+		"comment": "\/*Description for the 'Custom resolution' setting",
+		"translation": "Habilitar esto para renderizar el juego a la resolución especificada. la imagen final se estirará al tamaño de la ventana",
+		"machine": true
+	},
+	{
+		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing render distance will increase FPS",
+		"comment": "Description for the 'Render distance' setting",
+		"translation": "El mapa está dividido en trozos de 32x32x32 bloques. reducir la distancia de renderizado aumentará el FPS",
+		"machine": true
+	},
+	{
+		"phrase": "Max lights",
+		"context": "Maximum light count",
+		"comment": "Setting that controls the maximum amount of lights that can be rendered",
+		"translation": "Luces máximas",
+		"machine": true
+	},
+	{
+		"phrase": "Ambient occlusion quality",
+		"comment": "Setting that controls the quality of ambient occlusion, which is a technical term for a shader that simulates light by darkening the crevices between objects",
+		"translation": "Calidad de la oclusión ambiental",
+		"machine": true
+	},
+	{
+		"phrase": "Ambient occlusion darkens the crevices between objects",
+		"comment": "Description for the 'Ambient occlusion quality' setting",
+		"translation": "La oclusión ambiental oscurece las grietas entre los objetos.",
+		"machine": true
+	},
+	{
+		"phrase": "Bloom makes bright surfaces brighter",
+		"comment": "Description for the 'Bloom strength' setting",
+		"translation": "Bloom hace que las superficies brillantes sean más brillantes",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether bloom effects apply to weapon sights",
+		"comment": "Description for the 'Bloom on sights' setting",
+		"translation": "Controla si los efectos de floración se aplican a las miras de las armas.",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether Disruptors, C4, Scanners and Disruptors cast shadows",
+		"comment": "Description for the 'Entity block shadows' setting",
+		"translation": "Controla si los disruptores, c4, escáneres y disruptores proyectan sombras",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether falling blocks cast shadows",
+		"comment": "Description for the 'Falling block shadows' setting",
+		"translation": "Controla si los bloques que caen proyectan sombras",
+		"machine": true
+	},
+	{
+		"phrase": "The bare minimum rendering pipeline skips all postprocessing and effects and runs the game as fast as possible. This setting will produce the highest frames-per-second.",
+		"comment": "Description for the 'Bare minimum' settings",
+		"translation": "La canalización de representación mínima básica omite todo el posprocesamiento y los efectos y ejecuta el juego lo más rápido posible. esta configuración producirá los fotogramas por segundo más altos.",
+		"machine": true
+	},
+	{
+		"phrase": "OpenGL errors are logged to a file that the developer can analyse. Disabling this may increase FPS.",
+		"comment": "Description for the 'Log OpenGL Errors' settings",
+		"translation": "Los errores de OpenGL se registran en un archivo que el desarrollador puede analizar. deshabilitar esto puede aumentar el FPS.",
+		"machine": true
+	},
+	{
+		"phrase": "Show ping owner",
+		"context": "Show marker owner",
+		"comment": "Setting that controls whether a 3D ping should have the name of its owners next to it. Owner refers to the player who created the ping\/marker",
+		"translation": "Mostrar propietario de ping",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether a 3D ping should the name of its owner next to it",
+		"context": "Controls whether a 3D marker should have the name of its owner next to it",
+		"comment": "Description for the 'Show ping owner' setting. Owner refers to the player who created the ping\/marker",
+		"translation": "Controla si un ping 3d debe tener el nombre de su propietario junto a él",
+		"machine": true
+	},
+	{
+		"phrase": "Max ping distance",
+		"context": "Max marker distance",
+		"comment": "Setting that controls the render distance cutoff for 3D pings\/markers",
+		"translation": "Distancia máxima de ping",
+		"machine": true
+	},
+	{
+		"phrase": "Controls the render distance cutoff for 3D pings",
+		"context": "Controls the render distance cutoff for 3D markers",
+		"comment": "Description for the 'Max ping distance' setting",
+		"translation": "Controla el corte de distancia de renderizado para pings 3d",
+		"machine": true
+	},
+	{
+		"phrase": "Player name size",
+		"comment": "Setting that controls the size of friendly player names",
+		"translation": "Tamaño del nombre del jugador",
 		"machine": true
 	}
 ]
