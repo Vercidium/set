@@ -6717,24 +6717,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Sandbox mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "Korumalı alan modu {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "Römork modu {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "Ebedi mod {0}",
-		"machine": true
-	},
-	{
 		"phrase": "{0} stole our flag",
 		"comment": "An enemy has stolen our flag. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} bayrağımızı çaldı",
@@ -6862,7 +6844,7 @@
 	},
 	{
 		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
-		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Enemies'",
+		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Seconds' (or 'Second', or the correct language-specific plural)",
 		"translation": "Dalga {0} tamamlandı. {1} {2}'de bir sonraki dalga...",
 		"machine": true
 	},
@@ -7780,6 +7762,120 @@
 		"phrase": "{0} has not been votekicked",
 		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
 		"translation": "{0} oylama yapılmadı",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode enabled",
+		"comment": "Sandbox mode is enabled, meaning players take no damage and have infinite ammo",
+		"translation": "Korumalı alan modu etkinleştirildi",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode disabled",
+		"comment": "Sandbox mode is disabled, meaning the opposite of the above",
+		"translation": "Korumalı alan modu devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode enabled",
+		"comment": "Trailer mode is enabled, meaning players can respawn instantly",
+		"translation": "Fragman modu etkinleştirildi",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode disabled",
+		"comment": "Trailer mode is disabled, meaning the opposite of the above",
+		"translation": "Fragman modu devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode enabled",
+		"comment": "Eternal mode is enabled, meaning the match will not finish",
+		"translation": "Ebedi mod etkin",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode disabled",
+		"comment": "Eternal mode is disabled, meaning the opposite of the above",
+		"translation": "Ebedi mod devre dışı",
+		"machine": true
+	},
+	{
+		"phrase": "Advancing to the next stage",
+		"comment": "This message appears when the battle is advancing to the next stage\/phase",
+		"translation": "Bir sonraki aşamaya ilerleme",
+		"machine": true
+	},
+	{
+		"phrase": "Player not found",
+		"comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+		"translation": "Oyuncu bulunamadı",
+		"machine": true
+	},
+	{
+		"phrase": "Bots enabled permanently",
+		"comment": "This message appears when the lobby owner permanently enables bots in the lobby, which means the bots won't leave when the match finishes",
+		"translation": "Botlar kalıcı olarak etkinleştirildi",
+		"machine": true
+	},
+	{
+		"phrase": "Bots disabled permanently",
+		"comment": "This message appears when the lobby owner permanently disables bots in the lobby, which means the bots leave when the match finishes",
+		"translation": "Botlar kalıcı olarak devre dışı bırakıldı",
+		"machine": true
+	},
+	{
+		"phrase": "All players and spectators have been kicked",
+		"comment": "This message appears when everyone is misbehaving so a moderator kicks everyone out of the server",
+		"translation": "Tüm oyuncular ve seyirciler tekmelendi",
+		"machine": true
+	},
+	{
+		"phrase": "Kicked",
+		"comment": "You have been kicked out of the lobby",
+		"translation": "tekmelendi",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now muted",
+		"comment": "This message appears when muting another player. Parameter 0: 'PadreToto'",
+		"translation": "{0} artık sessiz",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now unmuted",
+		"comment": "This message appears when unmuting another player. Parameter 0: 'Tilitaliboss'",
+		"translation": "{0} artık sessiz",
+		"machine": true
+	},
+	{
+		"phrase": "Successfully removed the timeout for {0}",
+		"comment": "This message appears when removing a player's timeout\/temporary ban. Parameter 0: 'Dolpenguin'",
+		"translation": "{0} için zaman aşımı başarıyla kaldırıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Player {0} is not timed out",
+		"comment": "This error message appears when attempting to remove a player's timeout\/temporary ban, but they are not timed out. Parameter 0: 'Apoc'",
+		"translation": "Oyuncu {0} zaman aşımına uğramadı",
+		"machine": true
+	},
+	{
+		"phrase": "Bot amount set to {0}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
+		"translation": "Bot miktarı {0} olarak ayarlandı",
+		"machine": true
+	},
+	{
+		"phrase": "Now playing {0} on {1}",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
+		"translation": "Şimdi {1}'de {0} çalınıyor",
+		"machine": true
+	},
+	{
+		"phrase": "Player {0} has been timed out for {1} {2}",
+		"comment": "This message shows when a player is timed out \/ temporarily banned, meaning they can't join a server for X hours. Parameter 0: 'Decrare', Parameter 1: '3', Parameter 2: 'Hours' (or 'Hour', or the correct language-specific plural)",
+		"translation": "Oyuncu {0}, {1} {2} için zaman aşımına uğradı",
 		"machine": true
 	}
 ]

@@ -7134,24 +7134,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Sandbox mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "サンドボックスモード{0}",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "トレーラーモード{0}",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "エターナルモード{0}",
-		"machine": true
-	},
-	{
 		"phrase": "{0} stole our flag",
 		"comment": "An enemy has stolen our flag. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0}は私たちの旗を盗んだ",
@@ -7279,7 +7261,7 @@
 	},
 	{
 		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
-		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Enemies'",
+		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Seconds' (or 'Second', or the correct language-specific plural)",
 		"translation": "ウェーブ{0}が完成しました。 {1}の次の波{2}...",
 		"machine": true
 	},
@@ -8197,6 +8179,120 @@
 		"phrase": "{0} has not been votekicked",
 		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
 		"translation": "{0}は投票されていません",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode enabled",
+		"comment": "Sandbox mode is enabled, meaning players take no damage and have infinite ammo",
+		"translation": "サンドボックスモードが有効",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode disabled",
+		"comment": "Sandbox mode is disabled, meaning the opposite of the above",
+		"translation": "サンドボックスモードが無効",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode enabled",
+		"comment": "Trailer mode is enabled, meaning players can respawn instantly",
+		"translation": "トレーラーモードが有効",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode disabled",
+		"comment": "Trailer mode is disabled, meaning the opposite of the above",
+		"translation": "トレーラーモードが無効",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode enabled",
+		"comment": "Eternal mode is enabled, meaning the match will not finish",
+		"translation": "エターナルモードが有効",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode disabled",
+		"comment": "Eternal mode is disabled, meaning the opposite of the above",
+		"translation": "エターナルモードが無効",
+		"machine": true
+	},
+	{
+		"phrase": "Advancing to the next stage",
+		"comment": "This message appears when the battle is advancing to the next stage\/phase",
+		"translation": "次の段階に進む",
+		"machine": true
+	},
+	{
+		"phrase": "Player not found",
+		"comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+		"translation": "プレイヤーが見つかりません",
+		"machine": true
+	},
+	{
+		"phrase": "Bots enabled permanently",
+		"comment": "This message appears when the lobby owner permanently enables bots in the lobby, which means the bots won't leave when the match finishes",
+		"translation": "ボットは永続的に有効になります",
+		"machine": true
+	},
+	{
+		"phrase": "Bots disabled permanently",
+		"comment": "This message appears when the lobby owner permanently disables bots in the lobby, which means the bots leave when the match finishes",
+		"translation": "ボットは永続的に無効になります",
+		"machine": true
+	},
+	{
+		"phrase": "All players and spectators have been kicked",
+		"comment": "This message appears when everyone is misbehaving so a moderator kicks everyone out of the server",
+		"translation": "すべてのプレイヤーと観客が蹴られました",
+		"machine": true
+	},
+	{
+		"phrase": "Kicked",
+		"comment": "You have been kicked out of the lobby",
+		"translation": "蹴られた",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now muted",
+		"comment": "This message appears when muting another player. Parameter 0: 'PadreToto'",
+		"translation": "{0}がミュートになりました",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now unmuted",
+		"comment": "This message appears when unmuting another player. Parameter 0: 'Tilitaliboss'",
+		"translation": "{0}のミュートが解除されました",
+		"machine": true
+	},
+	{
+		"phrase": "Successfully removed the timeout for {0}",
+		"comment": "This message appears when removing a player's timeout\/temporary ban. Parameter 0: 'Dolpenguin'",
+		"translation": "{0}のタイムアウトを正常に削除しました",
+		"machine": true
+	},
+	{
+		"phrase": "Player {0} is not timed out",
+		"comment": "This error message appears when attempting to remove a player's timeout\/temporary ban, but they are not timed out. Parameter 0: 'Apoc'",
+		"translation": "プレーヤー{0}がタイムアウトしていません",
+		"machine": true
+	},
+	{
+		"phrase": "Bot amount set to {0}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
+		"translation": "ボット量を{0}に設定",
+		"machine": true
+	},
+	{
+		"phrase": "Now playing {0} on {1}",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
+		"translation": "{1}で{0}を再生しています",
+		"machine": true
+	},
+	{
+		"phrase": "Player {0} has been timed out for {1} {2}",
+		"comment": "This message shows when a player is timed out \/ temporarily banned, meaning they can't join a server for X hours. Parameter 0: 'Decrare', Parameter 1: '3', Parameter 2: 'Hours' (or 'Hour', or the correct language-specific plural)",
+		"translation": "プレーヤー{0}は{1}{2}でタイムアウトになりました",
 		"machine": true
 	}
 ]

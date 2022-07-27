@@ -7134,24 +7134,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Sandbox mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "Sandbox-modus {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Trailer mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "Aanhangermodus {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Eternal mode {0}",
-		"comment": "Parameter 0: 'Enabled' or 'Disabled'",
-		"translation": "Eeuwige modus {0}",
-		"machine": true
-	},
-	{
 		"phrase": "{0} stole our flag",
 		"comment": "An enemy has stolen our flag. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} heeft onze vlag gestolen",
@@ -7279,7 +7261,7 @@
 	},
 	{
 		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
-		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Enemies'",
+		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Seconds' (or 'Second', or the correct language-specific plural)",
 		"translation": "Golf {0} voltooid. volgende golf in {1} {2}...",
 		"machine": true
 	},
@@ -8197,6 +8179,120 @@
 		"phrase": "{0} has not been votekicked",
 		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
 		"translation": "{0} is niet gestemd",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode enabled",
+		"comment": "Sandbox mode is enabled, meaning players take no damage and have infinite ammo",
+		"translation": "Sandbox-modus ingeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Sandbox mode disabled",
+		"comment": "Sandbox mode is disabled, meaning the opposite of the above",
+		"translation": "Sandbox-modus uitgeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode enabled",
+		"comment": "Trailer mode is enabled, meaning players can respawn instantly",
+		"translation": "Trailermodus ingeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer mode disabled",
+		"comment": "Trailer mode is disabled, meaning the opposite of the above",
+		"translation": "Trailermodus uitgeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode enabled",
+		"comment": "Eternal mode is enabled, meaning the match will not finish",
+		"translation": "Eeuwige modus ingeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Eternal mode disabled",
+		"comment": "Eternal mode is disabled, meaning the opposite of the above",
+		"translation": "Eeuwige modus uitgeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Advancing to the next stage",
+		"comment": "This message appears when the battle is advancing to the next stage\/phase",
+		"translation": "Op weg naar de volgende fase",
+		"machine": true
+	},
+	{
+		"phrase": "Player not found",
+		"comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+		"translation": "Speler niet gevonden",
+		"machine": true
+	},
+	{
+		"phrase": "Bots enabled permanently",
+		"comment": "This message appears when the lobby owner permanently enables bots in the lobby, which means the bots won't leave when the match finishes",
+		"translation": "Bots permanent ingeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Bots disabled permanently",
+		"comment": "This message appears when the lobby owner permanently disables bots in the lobby, which means the bots leave when the match finishes",
+		"translation": "Bots permanent uitgeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "All players and spectators have been kicked",
+		"comment": "This message appears when everyone is misbehaving so a moderator kicks everyone out of the server",
+		"translation": "Alle spelers en toeschouwers zijn getrapt",
+		"machine": true
+	},
+	{
+		"phrase": "Kicked",
+		"comment": "You have been kicked out of the lobby",
+		"translation": "geschopt",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now muted",
+		"comment": "This message appears when muting another player. Parameter 0: 'PadreToto'",
+		"translation": "{0} is nu gedempt",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is now unmuted",
+		"comment": "This message appears when unmuting another player. Parameter 0: 'Tilitaliboss'",
+		"translation": "{0} is nu uitgeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Successfully removed the timeout for {0}",
+		"comment": "This message appears when removing a player's timeout\/temporary ban. Parameter 0: 'Dolpenguin'",
+		"translation": "De time-out voor {0}. is verwijderd",
+		"machine": true
+	},
+	{
+		"phrase": "Player {0} is not timed out",
+		"comment": "This error message appears when attempting to remove a player's timeout\/temporary ban, but they are not timed out. Parameter 0: 'Apoc'",
+		"translation": "Speler {0} heeft geen time-out",
+		"machine": true
+	},
+	{
+		"phrase": "Bot amount set to {0}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
+		"translation": "Botbedrag ingesteld op {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Now playing {0} on {1}",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
+		"translation": "Speelt nu {0} op {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Player {0} has been timed out for {1} {2}",
+		"comment": "This message shows when a player is timed out \/ temporarily banned, meaning they can't join a server for X hours. Parameter 0: 'Decrare', Parameter 1: '3', Parameter 2: 'Hours' (or 'Hour', or the correct language-specific plural)",
+		"translation": "Speler {0} heeft een time-out gekregen voor {1} {2}",
 		"machine": true
 	}
 ]
