@@ -1186,24 +1186,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Drag to rotate",
-		"comment": "[Block Customisation] Click and drag with the mouse to rotate the block",
-		"translation": "Trascina per ruotare",
-		"machine": true
-	},
-	{
-		"phrase": "Scroll to zoom",
-		"comment": "[Block Customisation] Use the scroll wheel to move the camera closer to the block",
-		"translation": "Scorri per ingrandire",
-		"machine": true
-	},
-	{
-		"phrase": "Press space to auto rotate",
-		"comment": "[Block Customisation] Press space on your keyboard to make the block automatically rotate",
-		"translation": "Premi lo spazio per ruotare automaticamente",
-		"machine": true
-	},
-	{
 		"phrase": "Players",
 		"comment": "2 Players",
 		"translation": "Giocatori",
@@ -2515,12 +2497,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
-		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
-		"translation": "[Impostazioni > prestazioni > skin di blocchi animati] devono essere abilitate affinché le skin di blocchi animati vengano visualizzate correttamente",
-		"machine": true
-	},
-	{
 		"phrase": "Toaster",
 		"comment": "Garbage quality graphics",
 		"translation": "Tostapane",
@@ -3090,12 +3066,6 @@
 		"phrase": "Turbo Servo",
 		"comment": "The Turbo Servo is the fastest servo attachment for the Midi, utilising surprisingly effective primitive technology harvested from a GT-86 Human vehicle",
 		"translation": "Servomotore turbo",
-		"machine": true
-	},
-	{
-		"phrase": "{0} bots",
-		"comment": "Server list info, i.e. '4 bots'",
-		"translation": "{0} bot",
 		"machine": true
 	},
 	{
@@ -8218,6 +8188,54 @@
 		"phrase": "Player {0} has been timed out for {1} {2}",
 		"comment": "This message shows when a player is timed out \/ temporarily banned, meaning they can't join a server for X hours. Parameter 0: 'Decrare', Parameter 1: '3', Parameter 2: 'Hours' (or 'Hour', or the correct language-specific plural)",
 		"translation": "Il giocatore {0} è scaduto per {1} {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Support",
+		"comment": "Supporting another player in battle",
+		"translation": "Supporto",
+		"machine": true
+	},
+	{
+		"phrase": "This GPU may not be compatible with the game. Please follow the instructions at {0} for help fixing this problem.",
+		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Questa GPU potrebbe non essere compatibile con il gioco. si prega di seguire le istruzioni in {0} per aiutare a risolvere questo problema.",
+		"machine": true
+	},
+	{
+		"phrase": "This computer does not have the required {0} version installed. Please follow the instructions at {1} for help fixing this problem.",
+		"comment": "Startup error. Parameter 0: '.NET', Parameter 1: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Questo computer non ha la versione {0} richiesta installata. si prega di seguire le istruzioni in {1} per aiutare a risolvere questo problema.",
+		"machine": true
+	},
+	{
+		"phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
+		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Il margine del settore ha smesso di rispondere. se il gioco si arresta spesso in modo anomalo, segui le istruzioni su {0} per aiutarti a risolvere questo problema.",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now shut down for a system update. You do not need to update your client and can continue playing on another server.",
+		"comment": "This message appears to let players know that the server is going to shut down",
+		"translation": "Questo server verrà ora spento per un aggiornamento del sistema. non è necessario aggiornare il client e puoi continuare a giocare su un altro server.",
+		"machine": true
+	},
+	{
+		"phrase": "Your party cannot fit on one team and has been split up",
+		"comment": "This error message appears when the player's party of 4 players can't all fit on one team",
+		"translation": "Il tuo gruppo non può stare in una squadra ed è stato diviso",
+		"machine": true
+	},
+	{
+		"phrase": "This lobby doesn't allow spectators",
+		"comment": "This error message appears when attempting to spectate in a lobby, but the lobby owner disabled spectators",
+		"translation": "Questa lobby non ammette spettatori",
+		"machine": true
+	},
+	{
+		"phrase": "{0} tried to start a votekick against {1}. It had no effect",
+		"comment": "This error message appears when a player attempts to kick a moderator. Parameter 0: 'Guffyfish', Parameter 1: 'Fora'",
+		"translation": "{0} ha cercato di avviare una votazione contro {1}. Non ha avuto effetto",
 		"machine": true
 	}
 ]

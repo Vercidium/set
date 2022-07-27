@@ -996,12 +996,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Drag to rotate",
-		"comment": "[Block Customisation] Click and drag with the mouse to rotate the block",
-		"translation": "Sleep om te draaien",
-		"machine": true
-	},
-	{
 		"phrase": "Join",
 		"comment": "[Spectate Text] This shows in the bottom left of the Arena. The full phrase is: '[B] Join Aegis'",
 		"translation": "Meedoen",
@@ -1801,18 +1795,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Scroll to zoom",
-		"comment": "[Block Customisation] Use the scroll wheel to move the camera closer to the block",
-		"translation": "Scroll om te zoomen",
-		"machine": true
-	},
-	{
-		"phrase": "Press space to auto rotate",
-		"comment": "[Block Customisation] Press space on your keyboard to make the block automatically rotate",
-		"translation": "Druk op de spatiebalk om automatisch te draaien",
-		"machine": true
-	},
-	{
 		"phrase": "Singapore",
 		"comment": "Server location",
 		"translation": "Singapore",
@@ -2590,12 +2572,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "[Settings > Performance > Animated Block Skins] must be enabled for animated block skins to render correctly",
-		"comment": "[Setting] [3\/3]  This is a warning that shows when a setting is disabled. Please preserve the [, >, and ] characters when translating.",
-		"translation": "[Instellingen > prestaties > geanimeerde blokskins] moeten zijn ingeschakeld om geanimeerde blokskins correct weer te geven",
-		"machine": true
-	},
-	{
 		"phrase": "Toaster",
 		"comment": "Garbage quality graphics",
 		"translation": "Tosti apparaat",
@@ -3165,12 +3141,6 @@
 		"phrase": "Turbo Servo",
 		"comment": "The Turbo Servo is the fastest servo attachment for the Midi, utilising surprisingly effective primitive technology harvested from a GT-86 Human vehicle",
 		"translation": "Turbo-servo",
-		"machine": true
-	},
-	{
-		"phrase": "{0} bots",
-		"comment": "Server list info, i.e. '4 bots'",
-		"translation": "{0}-bots",
 		"machine": true
 	},
 	{
@@ -8293,6 +8263,54 @@
 		"phrase": "Player {0} has been timed out for {1} {2}",
 		"comment": "This message shows when a player is timed out \/ temporarily banned, meaning they can't join a server for X hours. Parameter 0: 'Decrare', Parameter 1: '3', Parameter 2: 'Hours' (or 'Hour', or the correct language-specific plural)",
 		"translation": "Speler {0} heeft een time-out gekregen voor {1} {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Support",
+		"comment": "Supporting another player in battle",
+		"translation": "Steun",
+		"machine": true
+	},
+	{
+		"phrase": "This GPU may not be compatible with the game. Please follow the instructions at {0} for help fixing this problem.",
+		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Deze GPU is mogelijk niet compatibel met de game. volg de instructies bij {0} voor hulp bij het oplossen van dit probleem.",
+		"machine": true
+	},
+	{
+		"phrase": "This computer does not have the required {0} version installed. Please follow the instructions at {1} for help fixing this problem.",
+		"comment": "Startup error. Parameter 0: '.NET', Parameter 1: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Op deze computer is niet de vereiste {0}-versie geïnstalleerd. volg de instructies bij {1} voor hulp bij het oplossen van dit probleem.",
+		"machine": true
+	},
+	{
+		"phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
+		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Sector's edge reageert niet meer. als het spel vaak crasht, volg dan de instructies bij {0} voor hulp bij het oplossen van dit probleem.",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now shut down for a system update. You do not need to update your client and can continue playing on another server.",
+		"comment": "This message appears to let players know that the server is going to shut down",
+		"translation": "Deze server wordt nu afgesloten voor een systeemupdate. je hoeft je client niet bij te werken en kunt doorgaan met spelen op een andere server.",
+		"machine": true
+	},
+	{
+		"phrase": "Your party cannot fit on one team and has been split up",
+		"comment": "This error message appears when the player's party of 4 players can't all fit on one team",
+		"translation": "Je gezelschap past niet in één team en is opgesplitst",
+		"machine": true
+	},
+	{
+		"phrase": "This lobby doesn't allow spectators",
+		"comment": "This error message appears when attempting to spectate in a lobby, but the lobby owner disabled spectators",
+		"translation": "In deze lobby zijn geen toeschouwers toegestaan",
+		"machine": true
+	},
+	{
+		"phrase": "{0} tried to start a votekick against {1}. It had no effect",
+		"comment": "This error message appears when a player attempts to kick a moderator. Parameter 0: 'Guffyfish', Parameter 1: 'Fora'",
+		"translation": "{0} probeerde een votekick te starten tegen {1}. Het had geen effect",
 		"machine": true
 	}
 ]
