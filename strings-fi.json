@@ -162,7 +162,7 @@
 	},
 	{
 		"phrase": "Salvage",
-		"comment": "When you pick up lost Soltrium for your team, you are salvaging it",
+		"comment": "A gamemode where meteors crash into the planet, leaving deposits of Soltrium. Players must salvage as much Soltrium as they can",
 		"translation": "Pelastus",
 		"machine": true
 	},
@@ -289,7 +289,7 @@
 	},
 	{
 		"phrase": "All",
-		"comment": "Show all items",
+		"comment": "All\/everything",
 		"translation": "Kaikki"
 	},
 	{
@@ -1693,11 +1693,6 @@
 		"translation": "Kokeile uudestaan"
 	},
 	{
-		"phrase": "Trials list",
-		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
-		"translation": "Koeajo lista"
-	},
-	{
 		"phrase": "Platinum",
 		"comment": "A platinum medal",
 		"translation": "Platina"
@@ -1716,30 +1711,6 @@
 		"phrase": "Bronze",
 		"comment": "A bronze medal",
 		"translation": "Pronssi"
-	},
-	{
-		"phrase": "Last attempt",
-		"context": "Previous attempt",
-		"comment": "[Trial] [Title] The full phrase is: 'Last attempt: 5:223'",
-		"translation": "Viimeinen yritys"
-	},
-	{
-		"phrase": "Saving time",
-		"context": "Storing time",
-		"comment": "[Trial] [Loading Text] This text shows when your trial time is being saved",
-		"translation": "Säästää aikaa"
-	},
-	{
-		"phrase": "Time saved",
-		"context": "Time stored",
-		"comment": "[Trial] [Loading Text] This text shows when your trial time has been saved",
-		"translation": "Aikaa säästetty"
-	},
-	{
-		"phrase": "Best time",
-		"context": "Fastest time",
-		"comment": "[Trial] This text shows next to your best time for this trial, e.g. 'Best time: 4:873'",
-		"translation": "Paras aika"
 	},
 	{
 		"phrase": "Rewards",
@@ -2222,55 +2193,49 @@
 	},
 	{
 		"phrase": "Spawn position set",
-		"comment": "[Admin chat message]",
+		"comment": "This text appears when a player sets a custom respawn location, which they can only do when recording trailers",
 		"translation": "Spawn -asento",
 		"machine": true
 	},
 	{
 		"phrase": "You must wait for the tournament to commence before respawning",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when a player attempts to respawn before a tournament round commences",
 		"translation": "Sinun on odotettava turnauksen alkamista ennen uudelleen aloittamista",
 		"machine": true
 	},
 	{
 		"phrase": "Unable to change teams before the match has started",
-		"comment": "[Admin chat message]",
+		"comment": "This error appears when attempting to change teams while waiting for an Arena round to begin",
 		"translation": "Joukkuetta ei voi vaihtaa ennen ottelun alkua",
 		"machine": true
 	},
 	{
 		"phrase": "Unable to change teams during the tournament",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when attempting to change teams during a tournament, which isn't allowed as the teams are set in stone at the beginning of the round",
 		"translation": "Joukkuetta ei voi vaihtaa turnauksen aikana",
 		"machine": true
 	},
 	{
-		"phrase": "Unable to change teams while spawning",
-		"comment": "[Admin chat message]",
-		"translation": "Joukkuetta ei voi vaihtaa kutun aikana",
-		"machine": true
-	},
-	{
 		"phrase": "Unable to change teams while the round is running",
-		"comment": "[Admin chat message] This shows during Arena matches",
+		"comment": "This error message appears when attempting to change teams mid-round in the Arena",
 		"translation": "Joukkuetta ei voi vaihtaa kierroksen ollessa käynnissä",
 		"machine": true
 	},
 	{
 		"phrase": "Your votekick permissions have been revoked",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when attempting to votekick someone, but your votekick permissions have been revoked by a moderator",
 		"translation": "Äänioikeuskäyttöoikeutesi on peruutettu",
 		"machine": true
 	},
 	{
 		"phrase": "A tournament is currently running",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when you attempt to join a server that's hosting a tournament you're not competing in",
 		"translation": "Turnaus on parhaillaan käynnissä",
 		"machine": true
 	},
 	{
 		"phrase": "The server is full",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when you attempt to connect to a full server",
 		"translation": "Palvelin on täynnä",
 		"machine": true
 	},
@@ -2350,13 +2315,6 @@
 		"phrase": "Respawning in {0}s",
 		"comment": "Respawn text in the ship.",
 		"translation": "Uudelleenpalautus {0}: ssa",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Reset Ship",
-		"context": "{0} Reset the Ship",
-		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. Parameter 0: '[ F ]'",
-		"translation": "{0} Palauta lähetys",
 		"machine": true
 	},
 	{
@@ -2468,21 +2426,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Map is still syncing. Retry in {0} seconds",
-		"comment": "[Admin chat message] The player is still loading the map and cant spawn yet. Parameter 0: '10'",
-		"translation": "Kartta synkronoidaan edelleen. yritä uudelleen {0} sekunnin kuluttua",
-		"machine": true
-	},
-	{
 		"phrase": "Unable to respawn while the map is restoring. Retry in {0} seconds",
-		"comment": "[Admin chat message] This shows during trailer mode while the map is being restored to a previous state. Parameter 0: '10'",
+		"comment": "This error message appears when a player attempts to respawn while the map is being restored to a previous state, which occurs when recording trailers. Parameter 0: '10'",
 		"translation": "Uudelleenpalautus ei onnistu kartan palautuksen aikana. yritä uudelleen {0} sekunnin kuluttua",
-		"machine": true
-	},
-	{
-		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
-		"comment": "[Admin chat message] Parameter 0: '10'",
-		"translation": "Ryhmien vaihtaminen ei onnistu, kun kartta palautetaan. yritä uudelleen {0} sekunnin kuluttua",
 		"machine": true
 	},
 	{
@@ -2968,57 +2914,45 @@
 		"machine": true
 	},
 	{
-		"phrase": "Workshop item already exists with ID {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '123'",
-		"translation": "Työpajatuote on jo olemassa ID:llä {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Creating a new workshop item",
-		"comment": "Steam Workshop log message. Parameter 0: '123'",
+		"comment": "Loading message that appears when uploading a map to the workshop",
 		"translation": "Uuden työpajatuotteen luominen",
 		"machine": true
 	},
 	{
 		"phrase": "Successfully created a new workshop item with ID {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '123'",
+		"comment": "Success message that appears after uploading a map to the workshop. Parameter 0: '123'",
 		"translation": "Uuden työpajatuotteen luominen ID:llä {0} onnistui",
 		"machine": true
 	},
 	{
 		"phrase": "Error creating workshop item: {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '123'",
+		"comment": "Error message when uploading a map to the workshop fails. Parameter 0: '7'",
 		"translation": "Virhe luotaessa työpajakohdetta: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Uploading map with visibility {0} and path {1}",
-		"comment": "Steam Workshop log message. Parameter 0: 'Public'. Parameter 1: 'maps\/mapname'",
+		"comment": "Loading message that appears when uploading a map to the workshop. Parameter 0: 'Public'. Parameter 1: 'maps\/foldername'",
 		"translation": "Ladataan kartta näkyvyyden {0} ja polun {1} kanssa",
 		"machine": true
 	},
 	{
 		"phrase": "Upload progress: {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '45%'",
+		"comment": "Loading message that shows the progress of a map upload to the Steam workshop. Parameter 0: '45%'",
 		"translation": "Lähetyksen edistyminen: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Upload failed with error: {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '4'",
+		"comment": "Error message when uploading a map to the workshop fails. Parameter 0: '4'",
 		"translation": "Lataus epäonnistui virheen vuoksi: {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Upload complete",
-		"comment": "Steam Workshop log message",
+		"comment": "The map successfully uploaded to the Steam workshop",
 		"translation": "Lataus valmis",
-		"machine": true
-	},
-	{
-		"phrase": "Version {0} has been released! Close the game and update it through {1} to continue playing",
-		"comment": "[Notification banner] Parameter 0: '1.4.0', Parameter 1: 'Steam'",
-		"translation": "Versio {0} on julkaistu! sulje peli ja päivitä se {1}:n kautta jatkaaksesi pelaamista",
 		"machine": true
 	},
 	{
@@ -3197,13 +3131,13 @@
 	},
 	{
 		"phrase": "Party invitation sent to {0}",
-		"comment": "Notification that shows when inviting a friend to your party. Parameter 0: 'Blade'",
+		"comment": "Notification that you invited a friend to your party. Parameter 0: 'Reekta'",
 		"translation": "Juhlakutsu lähetetty {0}:lle",
 		"machine": true
 	},
 	{
 		"phrase": "Failed to invite {0} to the party",
-		"comment": "Notification that shows when failing to invite a friend to your party. Parameter 0: 'Frost'",
+		"comment": "Notification that you failed to invite a friend to your party. Parameter 0: 'Blade'",
 		"translation": "{0}:n kutsuminen juhliin epäonnistui",
 		"machine": true
 	},
@@ -3257,7 +3191,7 @@
 	},
 	{
 		"phrase": "Unable to join the party",
-		"comment": "Notification that you failed to join the party",
+		"comment": "Notification that you failed to join the party because the party is full",
 		"translation": "Ei voi liittyä puolueeseen",
 		"machine": true
 	},
@@ -5726,49 +5660,49 @@
 	},
 	{
 		"phrase": "Only the lobby owner can run commands",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears when a player in a lobby attempts to run commands like \/kick",
 		"translation": "Vain aulan omistaja voi suorittaa komentoja",
 		"machine": true
 	},
 	{
 		"phrase": "This lobby is already claimed",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when you attempt to claim a lobby that someone else has already claimed",
 		"translation": "Tämä aula on jo lunastettu",
 		"machine": true
 	},
 	{
 		"phrase": "This server will restart at the end of the round for maintenance",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears to let players know that the server will restart at the end of the round",
 		"translation": "Tämä palvelin käynnistyy uudelleen kierroksen lopussa huoltoa varten",
 		"machine": true
 	},
 	{
 		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
-		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"comment": "This message appears to let players know that the server will update at the end of the round. Parameter 0: 'Version 1.6'",
 		"translation": "Tämä palvelin päivittyy {0}:ksi ottelun lopussa. sinun TÄYTYY päivittää asiakkaasi Steamin kautta liittyäksesi uudelleen palvelimiin",
 		"machine": true
 	},
 	{
 		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears to let players know that the server will update\/patch\/upgrade at the end of the round",
 		"translation": "Tämä palvelin käynnistyy nopeasti uudelleen tämän kierroksen lopussa. voit jäädä tälle palvelimelle, eikä sinun tarvitse päivittää asiakasohjelmaasi",
 		"machine": true
 	},
 	{
 		"phrase": "This server will now restart for maintenance",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears to let players know that the server is going to restart",
 		"translation": "Tämä palvelin käynnistyy nyt uudelleen huoltoa varten",
 		"machine": true
 	},
 	{
 		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
-		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"comment": "This message appears to let players know that the server will now update. Parameter 0: 'Version 1.6'",
 		"translation": "Tämä palvelin päivitetään nyt {0}:ksi. sinun TÄYTYY päivittää asiakkaasi Steamin kautta liittyäksesi uudelleen palvelimiin",
 		"machine": true
 	},
 	{
 		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears to let players know that the server is going to restart",
 		"translation": "Tämä palvelin käynnistyy nyt nopeasti uudelleen. voit jäädä tälle palvelimelle, eikä sinun tarvitse päivittää asiakasohjelmaasi",
 		"machine": true
 	},
@@ -6503,55 +6437,55 @@
 	},
 	{
 		"phrase": "Breakthrough",
-		"comment": "",
+		"comment": "A game mode where your team must capture all 5 zones in order",
 		"translation": "Läpimurto",
 		"machine": true
 	},
 	{
 		"phrase": "Control Shift",
-		"comment": "",
+		"comment": "A game mode with one zone that moves towards team B's spawn if team A has more players in the zone. The game mode ends when the zone is pushed all the way back into the enemy's spawn",
 		"translation": "Ohjausvaihteisto",
 		"machine": true
 	},
 	{
 		"phrase": "Capture the Flag",
-		"comment": "",
+		"comment": "A gamemode where you steal a canister of Soltrium from the enemy base and drop it back in your base",
 		"translation": "Lipunryöstö",
 		"machine": true
 	},
 	{
 		"phrase": "Escort",
-		"comment": "",
+		"comment": "A gamemode where you pick up a bomb from your base and must plant it in the enemy's base",
 		"translation": "Saattaja",
 		"machine": true
 	},
 	{
 		"phrase": "Gun Game",
-		"comment": "",
+		"comment": "A gamemode where you start with a strong gun and change to progressively weaker guns as you get more kills. To win you need to get 15 kills, the last kill being a melee kill.",
 		"translation": "Ase peli",
 		"machine": true
 	},
 	{
 		"phrase": "Head Hunter",
-		"comment": "",
+		"comment": "A gamemode where you hold Soltrium and gain Soltrium from enemy corpses. The player with the most Soltrium (the head) is revealed to other players",
 		"translation": "Päämetsästäjä",
 		"machine": true
 	},
 	{
 		"phrase": "Spire",
-		"comment": "",
+		"comment": "An arena gamemode where players start with no weapons and must build up into the sky to get weapons. The most valuable weapons are at the top",
 		"translation": "Torni",
 		"machine": true
 	},
 	{
 		"phrase": "Static",
-		"comment": "",
+		"comment": "An arena gamemode where all players start with the same randomised loadout (weapons and armour modifications). The loadout is then randomised each round.",
 		"translation": "Staattinen",
 		"machine": true
 	},
 	{
 		"phrase": "Wave Defence",
-		"comment": "",
+		"comment": "A PvE gamemode where players defend their base against wave of enemies",
 		"translation": "Aaltopuolustus",
 		"machine": true
 	},
@@ -7058,18 +6992,6 @@
 		"context": "Automatic Fire",
 		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Automaattinen",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has been votekicked ({1} - {2})",
-		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
-		"translation": "{0} on äänestetty ({1} - {2})",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has not been votekicked ({1} - {2})",
-		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
-		"translation": "{0}:ta ei ole äänestetty ({1} - {2})",
 		"machine": true
 	},
 	{
@@ -7697,6 +7619,270 @@
 		"phrase": "The game has not been run through {0} and will now restart. Please wait until the {1} launcher appears",
 		"comment": "Startup error. Parameter 0: 'Steam', Parameter 1: 'EAC'",
 		"translation": "Peliä ei ole ajettu {0}:n kautta ja se käynnistyy nyt uudelleen. odota, kunnes {1}-kantoraketti tulee näkyviin",
+		"machine": true
+	},
+	{
+		"phrase": "An update has released, please close the game and update it through {0} to continue playing",
+		"comment": "This notification text appears when a new version of Sector's Edge is available. Parameter 0: 'Steam'",
+		"translation": "Päivitys on julkaistu, sulje peli ja päivitä se {0}:n kautta jatkaaksesi pelaamista",
+		"machine": true
+	},
+	{
+		"phrase": "A workshop item already exists with the ID {0}",
+		"comment": "This error occurs when a user attempts to upload a map over the top of an existing one. Parameter 0: '123'",
+		"translation": "Työpajatuote on jo olemassa ID:llä {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Reset Ship",
+		"comment": "The player can press a button to remove all blocks they placed in their ship. Parameter 0: '[ F ]'",
+		"translation": "{0} Nollaa lähetys",
+		"machine": true
+	},
+	{
+		"phrase": "The map is still loading, please try again in {0} seconds",
+		"comment": "This error message appears when the player attempts to join a server, but the server is still loading the map. Parameter 0: '10'",
+		"translation": "Kartta latautuu edelleen. Yritä uudelleen {0} sekunnin kuluttua",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams during free-for-all gamemodes",
+		"comment": "Error message that displays when a player attempts to change teams during a free for all, gun game or head hunter match (there are no teams in this game mode)",
+		"translation": "Ei voida vaihtaa joukkuetta kaikille ilmaisten pelitilojen aikana",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams due to the lobby whitelist",
+		"comment": "Custom lobbies can have a whitelist, where certain players can only join a certain team",
+		"translation": "Ei voida vaihtaa joukkuetta aulan sallittujen luettelon vuoksi",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot kick moderators",
+		"comment": "This error message appears when a player attempts to kick a moderator",
+		"translation": "Et voi potkia moderaattoreita",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot change to the larger team",
+		"comment": "This error message appears when a player attempts to swap from the smaller team to the larger team",
+		"translation": "Et voi vaihtaa isompaan joukkueeseen",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to join as both teams are full",
+		"comment": "This error message appears when the player attempts to join a server that's full",
+		"translation": "Ei voi liittyä, koska molemmat joukkueet ovat täynnä",
+		"machine": true
+	},
+	{
+		"phrase": "Lobby settings updated",
+		"comment": "This message appears when the lobby owner changes the lobby settings, e.g. enables sandbox or changes the team size",
+		"translation": "Aulan asetukset päivitetty",
+		"machine": true
+	},
+	{
+		"phrase": "You do not have permission to modify this lobby",
+		"comment": "This message appears when the someone other than the lobby owner attempts to change the lobby settings, e.g. enables sandbox or changes the team size",
+		"translation": "Sinulla ei ole lupaa muokata tätä aulaa",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot modify this lobby as it is not claimed",
+		"comment": "This error message appears when someone attempts to change the lobby settings in an unclaimed lobby",
+		"translation": "Et voi muokata tätä aulaa, koska sitä ei ole vaadittu",
+		"machine": true
+	},
+	{
+		"phrase": "Unknown command",
+		"comment": "This error message appears when the player runs an unknown command, e.g. \/gorkblorf",
+		"translation": "Tuntematon komento",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has been disbanded due to an internal error",
+		"comment": "This error message appears when the player's party of 4 players is disbanded and therefore not all placed on the same team",
+		"translation": "Puolueesi on hajotettu sisäisen virheen vuoksi",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has been disbanded to keep the teams balanced",
+		"comment": "This error message appears when the player's party of 4 players is disbanded to keep the teams balanced",
+		"translation": "Puolueesi on hajotettu, jotta joukkueet pysyisivät tasapainossa",
+		"machine": true
+	},
+	{
+		"phrase": "Expected parameters: {0}",
+		"comment": "This error message appears when running a command with invalid parameters. Parameter 0: 'mapCode gameMode'",
+		"translation": "Odotetut parametrit: {0}",
+		"machine": true
+	},
+	{
+		"phrase": "The map {0} does not exist",
+		"comment": "This error message appears when attempting to switch to a map that doesn't exist. Parameter 0: 'Thrashed Crater'",
+		"translation": "Karttaa {0} ei ole olemassa",
+		"machine": true
+	},
+	{
+		"phrase": "The game mode {0} does not exist",
+		"comment": "This error message appears when attempting to switch to a game mode that doesn't exist. Parameter 0: 'Control Alt Delete'",
+		"translation": "Pelitilaa {0} ei ole olemassa",
+		"machine": true
+	},
+	{
+		"phrase": "{0} must be an integer",
+		"comment": "This error message appears when a player runs a command with invalid parameters, e.g. '\/magsize smg blah' instead of '\/magsize smg 50'. Parameter 0: 'magazineSize'",
+		"translation": "{0} on oltava kokonaisluku",
+		"machine": true
+	},
+	{
+		"phrase": "Player with {0} {1} not found",
+		"comment": "This error message appears when a player is not found, Parameter 0: 'Steam ID'. Parameter 1: '8712947194514253",
+		"translation": "{0} {1} -soitinta ei löydy",
+		"machine": true
+	},
+	{
+		"phrase": "Downloading workshop map {0}... The next game mode will be: {1}",
+		"comment": "This message shows when the lobby owner tells the server to download a workshop map",
+		"translation": "Ladataan työpajakartta {0}... seuraava pelitila on: {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Next map: {0}. Next game mode: {1}",
+		"comment": "This message appears when map voting finishes. Parameter 0: 'Railway', Parameter 1: 'Control Shift'",
+		"translation": "Seuraava kartta: {0}. seuraava pelitila: {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Setting ban level for {0} to {1}",
+		"comment": "This message appears when successfully banning a player. Parameter 0: 'zepofan', Parameter 1: '4'. Different ban levels represent different severities, e.g. ban level 2 means they can only join their own custom lobbies and ban level 4 means they cannot join any servers",
+		"translation": "Asetetaan eston taso {0} - {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} must be an integer between {1} and {2} (inclusive)",
+		"comment": "This error message appears when a player runs a command with invalid parameters, e.g. '\/magsize smg -7' instead of '\/magsize smg 50'. Parameter 0: 'magazineSize', Parameter 1: 1, Parameter 2: 9999",
+		"translation": "{0} on oltava kokonaisluku välillä {1} ja {2} (mukaan lukien)",
+		"machine": true
+	},
+	{
+		"phrase": "Source index must be between 1 and 9",
+		"translation": "Lähdeindeksin on oltava välillä 1–9",
+		"machine": true
+	},
+	{
+		"phrase": "Destination index must be between 1 and 9",
+		"translation": "Kohdeindeksin on oltava välillä 1–9",
+		"machine": true
+	},
+	{
+		"phrase": "Source path has no waypoints",
+		"translation": "Lähdepolulla ei ole reittipisteitä",
+		"machine": true
+	},
+	{
+		"phrase": "Path successfully copied",
+		"translation": "Polku kopioitu onnistuneesti",
+		"machine": true
+	},
+	{
+		"phrase": "Destination index invalid",
+		"translation": "Kohdeindeksi virheellinen",
+		"machine": true
+	},
+	{
+		"phrase": "Source index invalid",
+		"translation": "Lähdeindeksi on virheellinen",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full and you are now spectating",
+		"comment": "This message appears when you attempt to join the battle but the server is full",
+		"translation": "Palvelin on täynnä ja katselet nyt",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid number",
+		"comment": "This error message appears when running a command with a non-numerical parameter, e.g. '\/speed hello' instead of '\/speed 5.5'",
+		"translation": "Väärä numero",
+		"machine": true
+	},
+	{
+		"phrase": "You must wait for the match to start before swapping teams",
+		"comment": "This error message appears when attempting to swap teams before the round\/match\/battle has started",
+		"translation": "Sinun on odotettava ottelun alkamista ennen joukkueen vaihtoa",
+		"machine": true
+	},
+	{
+		"phrase": "Your report has been submitted",
+		"comment": "This message appears when successfully reporting another player for cheating\/scamming\/etc",
+		"translation": "Raporttisi on lähetetty",
+		"machine": true
+	},
+	{
+		"phrase": "Map preserved successfully",
+		"comment": "This message appears when successfully preserving the current state of the map (i.e. taking a copy of it). This is useful for recording trailers as we often want to revert back to a previous version of the map to re-record a shot",
+		"translation": "Kartan säilytys onnistui",
+		"machine": true
+	},
+	{
+		"phrase": "The map is not preserved",
+		"comment": "This error message appears when attempting to revert back to a previous version of the map, before the \/preserve command has been run",
+		"translation": "Kartta ei ole säilynyt",
+		"machine": true
+	},
+	{
+		"phrase": "Restoring is already in progress",
+		"comment": "This error message appears when running the \/restore command when a previous version of the map is already being restored",
+		"translation": "Kunnostus on jo käynnissä",
+		"machine": true
+	},
+	{
+		"phrase": "Map restoration started",
+		"comment": "This message appears when the map is being restored to a previously preserved state",
+		"translation": "Kartan kunnostus aloitettu",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is already spectating",
+		"comment": "This error message appears when attempting to make another player spectate (moderator ability) when they are already spectating. Parameter 0: 'fowenix'",
+		"translation": "{0} katselee jo",
+		"machine": true
+	},
+	{
+		"phrase": "{0} damage modifier set to {2}",
+		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
+		"translation": "{0}-vaurion muuntaja asetettu arvoon {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid argument {0}. Expected {1}",
+		"comment": "This error message appears when running a command with an invalid argument, e.g. '\/forcemap aegis' instead of '\/forcemap ad' (ad stands for aegis desert). Parameter 0: 'mapCode', Parameter 1: 'ad|cf|is|mc|st'",
+		"translation": "Virheellinen argumentti {0}. odotettu {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is already on {1}",
+		"comment": "This error message appears when attempting to move a player to the same team. Parameter 0: 'Blade', Parameter 1: 'Aegis'",
+		"translation": "{0} on jo {1}:ssä",
+		"machine": true
+	},
+	{
+		"phrase": "Moved {0} to {1}",
+		"comment": "This message appears when successfully moving a player to another team. Parameter 0: 'Blade', Parameter 1: 'Aegis'",
+		"translation": "Siirrettiin {0} {1}:een",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been votekicked",
+		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER'",
+		"translation": "{0} on äänestetty",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been votekicked",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
+		"translation": "{0}:ta ei ole äänestetty",
 		"machine": true
 	}
 ]

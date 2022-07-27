@@ -171,7 +171,7 @@
 	},
 	{
 		"phrase": "Salvage",
-		"comment": "When you pick up lost Soltrium for your team, you are salvaging it",
+		"comment": "A gamemode where meteors crash into the planet, leaving deposits of Soltrium. Players must salvage as much Soltrium as they can",
 		"translation": "Salvage"
 	},
 	{
@@ -303,7 +303,7 @@
 	},
 	{
 		"phrase": "All",
-		"comment": "Show all items",
+		"comment": "All\/everything",
 		"translation": "Tous",
 		"machine": true
 	},
@@ -1828,12 +1828,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Trials list",
-		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
-		"translation": "Liste des essais",
-		"machine": true
-	},
-	{
 		"phrase": "Platinum",
 		"comment": "A platinum medal",
 		"translation": "Platine",
@@ -1855,34 +1849,6 @@
 		"phrase": "Bronze",
 		"comment": "A bronze medal",
 		"translation": "Bronze",
-		"machine": true
-	},
-	{
-		"phrase": "Last attempt",
-		"context": "Previous attempt",
-		"comment": "[Trial] [Title] The full phrase is: 'Last attempt: 5:223'",
-		"translation": "Dernière tentative",
-		"machine": true
-	},
-	{
-		"phrase": "Saving time",
-		"context": "Storing time",
-		"comment": "[Trial] [Loading Text] This text shows when your trial time is being saved",
-		"translation": "Gagner du temps",
-		"machine": true
-	},
-	{
-		"phrase": "Time saved",
-		"context": "Time stored",
-		"comment": "[Trial] [Loading Text] This text shows when your trial time has been saved",
-		"translation": "Temps gagné",
-		"machine": true
-	},
-	{
-		"phrase": "Best time",
-		"context": "Fastest time",
-		"comment": "[Trial] This text shows next to your best time for this trial, e.g. 'Best time: 4:873'",
-		"translation": "Meilleur temps",
 		"machine": true
 	},
 	{
@@ -2381,55 +2347,49 @@
 	},
 	{
 		"phrase": "Spawn position set",
-		"comment": "[Admin chat message]",
+		"comment": "This text appears when a player sets a custom respawn location, which they can only do when recording trailers",
 		"translation": "Position d'apparition définie",
 		"machine": true
 	},
 	{
 		"phrase": "You must wait for the tournament to commence before respawning",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when a player attempts to respawn before a tournament round commences",
 		"translation": "Vous devez attendre le début du tournoi avant de réapparaître",
 		"machine": true
 	},
 	{
 		"phrase": "Unable to change teams before the match has started",
-		"comment": "[Admin chat message]",
+		"comment": "This error appears when attempting to change teams while waiting for an Arena round to begin",
 		"translation": "Impossible de changer d'équipe avant le début du match",
 		"machine": true
 	},
 	{
 		"phrase": "Unable to change teams during the tournament",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when attempting to change teams during a tournament, which isn't allowed as the teams are set in stone at the beginning of the round",
 		"translation": "Impossible de changer d'équipe pendant le tournoi",
 		"machine": true
 	},
 	{
-		"phrase": "Unable to change teams while spawning",
-		"comment": "[Admin chat message]",
-		"translation": "Impossible de changer d'équipe pendant le frai",
-		"machine": true
-	},
-	{
 		"phrase": "Unable to change teams while the round is running",
-		"comment": "[Admin chat message] This shows during Arena matches",
+		"comment": "This error message appears when attempting to change teams mid-round in the Arena",
 		"translation": "Impossible de changer d'équipe pendant le tour",
 		"machine": true
 	},
 	{
 		"phrase": "Your votekick permissions have been revoked",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when attempting to votekick someone, but your votekick permissions have been revoked by a moderator",
 		"translation": "Vos autorisations de vote ont été révoquées",
 		"machine": true
 	},
 	{
 		"phrase": "A tournament is currently running",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when you attempt to join a server that's hosting a tournament you're not competing in",
 		"translation": "Un tournoi est en cours",
 		"machine": true
 	},
 	{
 		"phrase": "The server is full",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when you attempt to connect to a full server",
 		"translation": "Le serveur est plein",
 		"machine": true
 	},
@@ -2509,13 +2469,6 @@
 		"phrase": "Respawning in {0}s",
 		"comment": "Respawn text in the ship.",
 		"translation": "Réapparition dans {0}s",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Reset Ship",
-		"context": "{0} Reset the Ship",
-		"comment": "[Input Prompt] This text shows when looking at the reset button in the ship. Parameter 0: '[ F ]'",
-		"translation": "{0} Réinitialiser le navire",
 		"machine": true
 	},
 	{
@@ -2627,21 +2580,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Map is still syncing. Retry in {0} seconds",
-		"comment": "[Admin chat message] The player is still loading the map and cant spawn yet. Parameter 0: '10'",
-		"translation": "La carte est toujours en cours de synchronisation. réessayer dans {0} secondes",
-		"machine": true
-	},
-	{
 		"phrase": "Unable to respawn while the map is restoring. Retry in {0} seconds",
-		"comment": "[Admin chat message] This shows during trailer mode while the map is being restored to a previous state. Parameter 0: '10'",
+		"comment": "This error message appears when a player attempts to respawn while the map is being restored to a previous state, which occurs when recording trailers. Parameter 0: '10'",
 		"translation": "Impossible de réapparaître pendant la restauration de la carte. réessayer dans {0} secondes",
-		"machine": true
-	},
-	{
-		"phrase": "Unable to change teams while the map is restoring. Retry in {0} seconds",
-		"comment": "[Admin chat message] Parameter 0: '10'",
-		"translation": "Impossible de changer d'équipe pendant la restauration de la carte. réessayer dans {0} secondes",
 		"machine": true
 	},
 	{
@@ -3127,57 +3068,45 @@
 		"machine": true
 	},
 	{
-		"phrase": "Workshop item already exists with ID {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '123'",
-		"translation": "L'article de l'atelier existe déjà avec l'ID {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Creating a new workshop item",
-		"comment": "Steam Workshop log message. Parameter 0: '123'",
+		"comment": "Loading message that appears when uploading a map to the workshop",
 		"translation": "Création d'un nouvel objet d'atelier",
 		"machine": true
 	},
 	{
 		"phrase": "Successfully created a new workshop item with ID {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '123'",
+		"comment": "Success message that appears after uploading a map to the workshop. Parameter 0: '123'",
 		"translation": "Création réussie d'un nouvel élément d'atelier avec l'ID {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Error creating workshop item: {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '123'",
+		"comment": "Error message when uploading a map to the workshop fails. Parameter 0: '7'",
 		"translation": "Erreur lors de la création de l'élément de l'atelier : {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Uploading map with visibility {0} and path {1}",
-		"comment": "Steam Workshop log message. Parameter 0: 'Public'. Parameter 1: 'maps\/mapname'",
+		"comment": "Loading message that appears when uploading a map to the workshop. Parameter 0: 'Public'. Parameter 1: 'maps\/foldername'",
 		"translation": "Téléchargement de la carte avec visibilité {0} et chemin {1}",
 		"machine": true
 	},
 	{
 		"phrase": "Upload progress: {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '45%'",
+		"comment": "Loading message that shows the progress of a map upload to the Steam workshop. Parameter 0: '45%'",
 		"translation": "Progression du téléchargement : {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Upload failed with error: {0}",
-		"comment": "Steam Workshop log message. Parameter 0: '4'",
+		"comment": "Error message when uploading a map to the workshop fails. Parameter 0: '4'",
 		"translation": "Le téléchargement a échoué avec l'erreur : {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Upload complete",
-		"comment": "Steam Workshop log message",
+		"comment": "The map successfully uploaded to the Steam workshop",
 		"translation": "Téléchargement complet",
-		"machine": true
-	},
-	{
-		"phrase": "Version {0} has been released! Close the game and update it through {1} to continue playing",
-		"comment": "[Notification banner] Parameter 0: '1.4.0', Parameter 1: 'Steam'",
-		"translation": "La version {0} est sortie ! fermez le jeu et mettez-le à jour via {1} pour continuer à jouer",
 		"machine": true
 	},
 	{
@@ -3356,13 +3285,13 @@
 	},
 	{
 		"phrase": "Party invitation sent to {0}",
-		"comment": "Notification that shows when inviting a friend to your party. Parameter 0: 'Blade'",
+		"comment": "Notification that you invited a friend to your party. Parameter 0: 'Reekta'",
 		"translation": "Invitation à une fête envoyée à {0}",
 		"machine": true
 	},
 	{
 		"phrase": "Failed to invite {0} to the party",
-		"comment": "Notification that shows when failing to invite a friend to your party. Parameter 0: 'Frost'",
+		"comment": "Notification that you failed to invite a friend to your party. Parameter 0: 'Blade'",
 		"translation": "Échec de l'invitation de {0} à la fête",
 		"machine": true
 	},
@@ -3416,7 +3345,7 @@
 	},
 	{
 		"phrase": "Unable to join the party",
-		"comment": "Notification that you failed to join the party",
+		"comment": "Notification that you failed to join the party because the party is full",
 		"translation": "Impossible de rejoindre la fête",
 		"machine": true
 	},
@@ -5885,49 +5814,49 @@
 	},
 	{
 		"phrase": "Only the lobby owner can run commands",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears when a player in a lobby attempts to run commands like \/kick",
 		"translation": "Seul le propriétaire du lobby peut exécuter des commandes",
 		"machine": true
 	},
 	{
 		"phrase": "This lobby is already claimed",
-		"comment": "[Admin chat message]",
+		"comment": "This error message appears when you attempt to claim a lobby that someone else has already claimed",
 		"translation": "Ce lobby est déjà revendiqué",
 		"machine": true
 	},
 	{
 		"phrase": "This server will restart at the end of the round for maintenance",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears to let players know that the server will restart at the end of the round",
 		"translation": "Ce serveur redémarrera à la fin du tour pour maintenance",
 		"machine": true
 	},
 	{
 		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
-		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"comment": "This message appears to let players know that the server will update at the end of the round. Parameter 0: 'Version 1.6'",
 		"translation": "Ce serveur sera mis à jour vers {0} à la fin du match. vous DEVEZ mettre à jour votre client via steam pour rejoindre les serveurs",
 		"machine": true
 	},
 	{
 		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears to let players know that the server will update\/patch\/upgrade at the end of the round",
 		"translation": "Ce serveur redémarrera rapidement à la fin de ce tour. vous pouvez rester sur ce serveur et n'avez PAS besoin de mettre à jour votre client",
 		"machine": true
 	},
 	{
 		"phrase": "This server will now restart for maintenance",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears to let players know that the server is going to restart",
 		"translation": "Ce serveur va maintenant redémarrer pour maintenance",
 		"machine": true
 	},
 	{
 		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
-		"comment": "[Admin chat message] Parameter 0: 'Version 1.4.0'",
+		"comment": "This message appears to let players know that the server will now update. Parameter 0: 'Version 1.6'",
 		"translation": "Ce serveur va maintenant être mis à jour vers {0}. vous DEVEZ mettre à jour votre client via steam pour rejoindre les serveurs",
 		"machine": true
 	},
 	{
 		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
-		"comment": "[Admin chat message]",
+		"comment": "This message appears to let players know that the server is going to restart",
 		"translation": "Ce serveur va maintenant redémarrer rapidement. vous pouvez rester sur ce serveur et n'avez PAS besoin de mettre à jour votre client",
 		"machine": true
 	},
@@ -6662,55 +6591,55 @@
 	},
 	{
 		"phrase": "Breakthrough",
-		"comment": "",
+		"comment": "A game mode where your team must capture all 5 zones in order",
 		"translation": "Percée",
 		"machine": true
 	},
 	{
 		"phrase": "Control Shift",
-		"comment": "",
+		"comment": "A game mode with one zone that moves towards team B's spawn if team A has more players in the zone. The game mode ends when the zone is pushed all the way back into the enemy's spawn",
 		"translation": "Changement de contrôle",
 		"machine": true
 	},
 	{
 		"phrase": "Capture the Flag",
-		"comment": "",
+		"comment": "A gamemode where you steal a canister of Soltrium from the enemy base and drop it back in your base",
 		"translation": "Capturer le drapeau",
 		"machine": true
 	},
 	{
 		"phrase": "Escort",
-		"comment": "",
+		"comment": "A gamemode where you pick up a bomb from your base and must plant it in the enemy's base",
 		"translation": "Escorte",
 		"machine": true
 	},
 	{
 		"phrase": "Gun Game",
-		"comment": "",
+		"comment": "A gamemode where you start with a strong gun and change to progressively weaker guns as you get more kills. To win you need to get 15 kills, the last kill being a melee kill.",
 		"translation": "Jeu d'armes à feu",
 		"machine": true
 	},
 	{
 		"phrase": "Head Hunter",
-		"comment": "",
+		"comment": "A gamemode where you hold Soltrium and gain Soltrium from enemy corpses. The player with the most Soltrium (the head) is revealed to other players",
 		"translation": "Chasseur de têtes",
 		"machine": true
 	},
 	{
 		"phrase": "Spire",
-		"comment": "",
+		"comment": "An arena gamemode where players start with no weapons and must build up into the sky to get weapons. The most valuable weapons are at the top",
 		"translation": "Flèche",
 		"machine": true
 	},
 	{
 		"phrase": "Static",
-		"comment": "",
+		"comment": "An arena gamemode where all players start with the same randomised loadout (weapons and armour modifications). The loadout is then randomised each round.",
 		"translation": "Statique",
 		"machine": true
 	},
 	{
 		"phrase": "Wave Defence",
-		"comment": "",
+		"comment": "A PvE gamemode where players defend their base against wave of enemies",
 		"translation": "Défense contre les vagues",
 		"machine": true
 	},
@@ -7217,18 +7146,6 @@
 		"context": "Automatic Fire",
 		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
 		"translation": "Automatique",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has been votekicked ({1} - {2})",
-		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER', parameter 1: '7', parameter 2: '5'",
-		"translation": "{0} a été expulsé ({1} - {2})",
-		"machine": true
-	},
-	{
-		"phrase": "{0} has not been votekicked ({1} - {2})",
-		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez', parameter 1: '9', parameter 2: '11'",
-		"translation": "{0} n'a pas été expulsé ({1} - {2})",
 		"machine": true
 	},
 	{
@@ -7856,6 +7773,270 @@
 		"phrase": "The game has not been run through {0} and will now restart. Please wait until the {1} launcher appears",
 		"comment": "Startup error. Parameter 0: 'Steam', Parameter 1: 'EAC'",
 		"translation": "Le jeu n'a pas été exécuté via {0} et va maintenant redémarrer. veuillez patienter jusqu'à ce que le lanceur {1} apparaisse",
+		"machine": true
+	},
+	{
+		"phrase": "An update has released, please close the game and update it through {0} to continue playing",
+		"comment": "This notification text appears when a new version of Sector's Edge is available. Parameter 0: 'Steam'",
+		"translation": "Une mise à jour est sortie, veuillez fermer le jeu et le mettre à jour via {0} pour continuer à jouer",
+		"machine": true
+	},
+	{
+		"phrase": "A workshop item already exists with the ID {0}",
+		"comment": "This error occurs when a user attempts to upload a map over the top of an existing one. Parameter 0: '123'",
+		"translation": "Un article de l'atelier existe déjà avec l'ID {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Reset Ship",
+		"comment": "The player can press a button to remove all blocks they placed in their ship. Parameter 0: '[ F ]'",
+		"translation": "{0} Réinitialiser Navire",
+		"machine": true
+	},
+	{
+		"phrase": "The map is still loading, please try again in {0} seconds",
+		"comment": "This error message appears when the player attempts to join a server, but the server is still loading the map. Parameter 0: '10'",
+		"translation": "La carte est toujours en cours de chargement, veuillez réessayer dans {0} secondes",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams during free-for-all gamemodes",
+		"comment": "Error message that displays when a player attempts to change teams during a free for all, gun game or head hunter match (there are no teams in this game mode)",
+		"translation": "Impossible de changer d'équipe pendant les modes de jeu chacun pour soi",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to change teams due to the lobby whitelist",
+		"comment": "Custom lobbies can have a whitelist, where certain players can only join a certain team",
+		"translation": "Impossible de changer d'équipe en raison de la liste blanche du lobby",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot kick moderators",
+		"comment": "This error message appears when a player attempts to kick a moderator",
+		"translation": "Vous ne pouvez pas expulser les modérateurs",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot change to the larger team",
+		"comment": "This error message appears when a player attempts to swap from the smaller team to the larger team",
+		"translation": "Vous ne pouvez pas passer à l'équipe plus grande",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to join as both teams are full",
+		"comment": "This error message appears when the player attempts to join a server that's full",
+		"translation": "Impossible de rejoindre car les deux équipes sont complètes",
+		"machine": true
+	},
+	{
+		"phrase": "Lobby settings updated",
+		"comment": "This message appears when the lobby owner changes the lobby settings, e.g. enables sandbox or changes the team size",
+		"translation": "Paramètres du lobby mis à jour",
+		"machine": true
+	},
+	{
+		"phrase": "You do not have permission to modify this lobby",
+		"comment": "This message appears when the someone other than the lobby owner attempts to change the lobby settings, e.g. enables sandbox or changes the team size",
+		"translation": "Vous n'êtes pas autorisé à modifier ce lobby",
+		"machine": true
+	},
+	{
+		"phrase": "You cannot modify this lobby as it is not claimed",
+		"comment": "This error message appears when someone attempts to change the lobby settings in an unclaimed lobby",
+		"translation": "Vous ne pouvez pas modifier ce lobby car il n'est pas revendiqué",
+		"machine": true
+	},
+	{
+		"phrase": "Unknown command",
+		"comment": "This error message appears when the player runs an unknown command, e.g. \/gorkblorf",
+		"translation": "Commande inconnue",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has been disbanded due to an internal error",
+		"comment": "This error message appears when the player's party of 4 players is disbanded and therefore not all placed on the same team",
+		"translation": "Votre groupe a été dissous en raison d'une erreur interne",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has been disbanded to keep the teams balanced",
+		"comment": "This error message appears when the player's party of 4 players is disbanded to keep the teams balanced",
+		"translation": "Votre groupe a été dissous pour maintenir l'équilibre des équipes",
+		"machine": true
+	},
+	{
+		"phrase": "Expected parameters: {0}",
+		"comment": "This error message appears when running a command with invalid parameters. Parameter 0: 'mapCode gameMode'",
+		"translation": "Paramètres attendus : {0}",
+		"machine": true
+	},
+	{
+		"phrase": "The map {0} does not exist",
+		"comment": "This error message appears when attempting to switch to a map that doesn't exist. Parameter 0: 'Thrashed Crater'",
+		"translation": "La carte {0} n'existe pas",
+		"machine": true
+	},
+	{
+		"phrase": "The game mode {0} does not exist",
+		"comment": "This error message appears when attempting to switch to a game mode that doesn't exist. Parameter 0: 'Control Alt Delete'",
+		"translation": "Le mode de jeu {0} n'existe pas",
+		"machine": true
+	},
+	{
+		"phrase": "{0} must be an integer",
+		"comment": "This error message appears when a player runs a command with invalid parameters, e.g. '\/magsize smg blah' instead of '\/magsize smg 50'. Parameter 0: 'magazineSize'",
+		"translation": "{0} doit être un entier",
+		"machine": true
+	},
+	{
+		"phrase": "Player with {0} {1} not found",
+		"comment": "This error message appears when a player is not found, Parameter 0: 'Steam ID'. Parameter 1: '8712947194514253",
+		"translation": "Joueur avec {0} {1} introuvable",
+		"machine": true
+	},
+	{
+		"phrase": "Downloading workshop map {0}... The next game mode will be: {1}",
+		"comment": "This message shows when the lobby owner tells the server to download a workshop map",
+		"translation": "Téléchargement de la carte de l'atelier {0}... le prochain mode de jeu sera: {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Next map: {0}. Next game mode: {1}",
+		"comment": "This message appears when map voting finishes. Parameter 0: 'Railway', Parameter 1: 'Control Shift'",
+		"translation": "Carte suivante: {0}. mode de jeu suivant: {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Setting ban level for {0} to {1}",
+		"comment": "This message appears when successfully banning a player. Parameter 0: 'zepofan', Parameter 1: '4'. Different ban levels represent different severities, e.g. ban level 2 means they can only join their own custom lobbies and ban level 4 means they cannot join any servers",
+		"translation": "Réglage du niveau d'interdiction pour {0} à {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} must be an integer between {1} and {2} (inclusive)",
+		"comment": "This error message appears when a player runs a command with invalid parameters, e.g. '\/magsize smg -7' instead of '\/magsize smg 50'. Parameter 0: 'magazineSize', Parameter 1: 1, Parameter 2: 9999",
+		"translation": "{0} doit être un entier compris entre {1} et {2} (inclus)",
+		"machine": true
+	},
+	{
+		"phrase": "Source index must be between 1 and 9",
+		"translation": "L'index source doit être compris entre 1 et 9",
+		"machine": true
+	},
+	{
+		"phrase": "Destination index must be between 1 and 9",
+		"translation": "L'index de destination doit être compris entre 1 et 9",
+		"machine": true
+	},
+	{
+		"phrase": "Source path has no waypoints",
+		"translation": "Le chemin source n'a pas de waypoints",
+		"machine": true
+	},
+	{
+		"phrase": "Path successfully copied",
+		"translation": "Chemin copié avec succès",
+		"machine": true
+	},
+	{
+		"phrase": "Destination index invalid",
+		"translation": "Index de destination invalide",
+		"machine": true
+	},
+	{
+		"phrase": "Source index invalid",
+		"translation": "Index source invalide",
+		"machine": true
+	},
+	{
+		"phrase": "The server is full and you are now spectating",
+		"comment": "This message appears when you attempt to join the battle but the server is full",
+		"translation": "Le serveur est plein et vous êtes maintenant spectateur",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid number",
+		"comment": "This error message appears when running a command with a non-numerical parameter, e.g. '\/speed hello' instead of '\/speed 5.5'",
+		"translation": "Numéro invalide",
+		"machine": true
+	},
+	{
+		"phrase": "You must wait for the match to start before swapping teams",
+		"comment": "This error message appears when attempting to swap teams before the round\/match\/battle has started",
+		"translation": "Vous devez attendre que le match commence avant d'échanger des équipes",
+		"machine": true
+	},
+	{
+		"phrase": "Your report has been submitted",
+		"comment": "This message appears when successfully reporting another player for cheating\/scamming\/etc",
+		"translation": "Votre rapport a été soumis",
+		"machine": true
+	},
+	{
+		"phrase": "Map preserved successfully",
+		"comment": "This message appears when successfully preserving the current state of the map (i.e. taking a copy of it). This is useful for recording trailers as we often want to revert back to a previous version of the map to re-record a shot",
+		"translation": "Carte conservée avec succès",
+		"machine": true
+	},
+	{
+		"phrase": "The map is not preserved",
+		"comment": "This error message appears when attempting to revert back to a previous version of the map, before the \/preserve command has been run",
+		"translation": "La carte n'est pas conservée",
+		"machine": true
+	},
+	{
+		"phrase": "Restoring is already in progress",
+		"comment": "This error message appears when running the \/restore command when a previous version of the map is already being restored",
+		"translation": "La restauration est déjà en cours",
+		"machine": true
+	},
+	{
+		"phrase": "Map restoration started",
+		"comment": "This message appears when the map is being restored to a previously preserved state",
+		"translation": "La restauration de la carte a commencé",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is already spectating",
+		"comment": "This error message appears when attempting to make another player spectate (moderator ability) when they are already spectating. Parameter 0: 'fowenix'",
+		"translation": "{0} est déjà spectateur",
+		"machine": true
+	},
+	{
+		"phrase": "{0} damage modifier set to {2}",
+		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
+		"translation": "Modificateur de dégâts {0} réglé sur {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Invalid argument {0}. Expected {1}",
+		"comment": "This error message appears when running a command with an invalid argument, e.g. '\/forcemap aegis' instead of '\/forcemap ad' (ad stands for aegis desert). Parameter 0: 'mapCode', Parameter 1: 'ad|cf|is|mc|st'",
+		"translation": "Argument invalide {0}. attendu {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is already on {1}",
+		"comment": "This error message appears when attempting to move a player to the same team. Parameter 0: 'Blade', Parameter 1: 'Aegis'",
+		"translation": "{0} est déjà sur {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Moved {0} to {1}",
+		"comment": "This message appears when successfully moving a player to another team. Parameter 0: 'Blade', Parameter 1: 'Aegis'",
+		"translation": "Déplacement de {0} vers {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has been votekicked",
+		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER'",
+		"translation": "{0} a été expulsé",
+		"machine": true
+	},
+	{
+		"phrase": "{0} has not been votekicked",
+		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
+		"translation": "{0} n'a pas été expulsé",
 		"machine": true
 	}
 ]
