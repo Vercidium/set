@@ -549,18 +549,17 @@
 	{
 		"phrase": "Ironsights",
 		"comment": "Type of weapon sight",
-		"translation": "Целик"
+		"translation": "Стандартный"
 	},
 	{
 		"phrase": "Broken Circle",
 		"comment": "Crosshair name",
-		"translation": "Разорванное перекрестие"
+		"translation": "Разорванный круг"
 	},
 	{
 		"phrase": "Broken Square",
 		"comment": "Crosshair name",
 		"translation": "Разбитый квадрат",
-		"machine": true
 	},
 	{
 		"phrase": "Chevron",
@@ -621,37 +620,31 @@
 		"phrase": "Flat Dot",
 		"comment": "Crosshair name",
 		"translation": "Плоская точка",
-		"machine": true
 	},
 	{
 		"phrase": "Dot Plus",
 		"comment": "Crosshair name",
 		"translation": "Точка плюс",
-		"machine": true
 	},
 	{
 		"phrase": "Dot Plus Circle",
 		"comment": "Crosshair name",
 		"translation": "Точка плюс круг",
-		"machine": true
 	},
 	{
 		"phrase": "Dot T",
 		"comment": "Crosshair name",
 		"translation": "Точка Т",
-		"machine": true
 	},
 	{
 		"phrase": "Empty Plus",
 		"comment": "Crosshair name",
 		"translation": "Пустой плюс",
-		"machine": true
 	},
 	{
 		"phrase": "Empty T",
 		"comment": "Crosshair name",
 		"translation": "Пустой T",
-		"machine": true
 	},
 	{
 		"phrase": "T Point",
@@ -684,7 +677,6 @@
 		"phrase": "Digital",
 		"comment": "Camoflague pattern in the shape of squares",
 		"translation": "Цифровой",
-		"machine": true
 	},
 	{
 		"phrase": "Tiger",
@@ -699,8 +691,7 @@
 	{
 		"phrase": "Woodland",
 		"comment": "Camoflague pattern in the shape of mottled wood",
-		"translation": "Woodland",
-		"machine": true
+		"translation": "Лесной",
 	},
 	{
 		"phrase": "Hot Metal",
@@ -720,7 +711,7 @@
 	{
 		"phrase": "Tracer",
 		"comment": "An animated weapon skin that looks like the patterns on a CPU motherboard (circles connected by straight and diagonal lines)",
-		"translation": "Линии"
+		"translation": "Трассер"
 	},
 	{
 		"phrase": "Fluid",
@@ -815,8 +806,7 @@
 	{
 		"phrase": "Invalid",
 		"comment": "The value is not valid",
-		"translation": "Недействительным",
-		"machine": true
+		"translation": "Недопустимое",
 	},
 	{
 		"phrase": "Description",
@@ -941,7 +931,7 @@
 	{
 		"phrase": "Loadout",
 		"comment": "A set of weapons and armour modifications",
-		"translation": "Экипировка"
+		"translation": "Снаряжение"
 	},
 	{
 		"phrase": "Join the battle",
@@ -956,8 +946,7 @@
 	{
 		"phrase": "Summary",
 		"comment": "A... summary. Can't think of a description for this",
-		"translation": "Резюме",
-		"machine": true
+		"translation": "Итоги",
 	},
 	{
 		"phrase": "Magazine",
@@ -982,8 +971,7 @@
 	{
 		"phrase": "Submit",
 		"comment": "Submit the form",
-		"translation": "Представлять на рассмотрение",
-		"machine": true
+		"translation": "Отправить",
 	},
 	{
 		"phrase": "Store",
@@ -998,8 +986,7 @@
 	{
 		"phrase": "Customise",
 		"comment": "The player can customise their character",
-		"translation": "Настроить",
-		"machine": true
+		"translation": "Персонаж",
 	},
 	{
 		"phrase": "Blocks",
@@ -1059,7 +1046,7 @@
 	{
 		"phrase": "Cheating",
 		"comment": "This player is cheating or hacking",
-		"translation": "Читерство"
+		"translation": "Читы"
 	},
 	{
 		"phrase": "Exploiting",
@@ -1124,8 +1111,7 @@
 	{
 		"phrase": "Pellet count",
 		"comment": "How many pellets a weapon fires",
-		"translation": "Количество пеллет",
-		"machine": true
+		"translation": "Количество дроби",
 	},
 	{
 		"phrase": "Podium",
@@ -1290,7 +1276,7 @@
 	{
 		"phrase": "Scope",
 		"comment": "Look at an enemy through the 2x scope on your gun",
-		"translation": "Прцелиться"
+		"translation": "Прицелиться"
 	},
 	{
 		"phrase": "Melee",
