@@ -227,7 +227,7 @@
 	{
 		"phrase": "Resilient",
 		"comment": "The player who has the most deaths",
-		"translation": "Устойчивый",
+		"translation": "Стойкий",
 	},
 	{
 		"phrase": "Assistance",
@@ -243,8 +243,7 @@
 	{
 		"phrase": "Infiltrator",
 		"comment": "The player who stole the most flags or planted the most bombs",
-		"translation": "Разведчик",
-		"machine": true
+		"translation": "Диверсант",
 	},
 	{
 		"phrase": "Connecting",
@@ -269,7 +268,7 @@
 	{
 		"phrase": "Spectating",
 		"comment": "Watching other people fight",
-		"translation": "Наблюдение"
+		"translation": "Наблюдает"
 	},
 	{
 		"phrase": "Left",
@@ -370,8 +369,7 @@
 	{
 		"phrase": "Reserved slot expired",
 		"comment": "When a party leader joins a server, slots are reserved for the other party member for 1 minute. If a party member joins after this reserved slot expires, they are shown this error",
-		"translation": "Зарезервированный слот истек",
-		"machine": true
+		"translation": "Истек срок резервного слота",
 	},
 	{
 		"phrase": "Accelerator",
@@ -381,7 +379,7 @@
 	{
 		"phrase": "Beam splitter",
 		"comment": "Weapon barrel that splits a plasma projectile into four smaller projectiles",
-		"translation": "Разделитель луча"
+		"translation": "Лучевой разделитель"
 	},
 	{
 		"phrase": "Choke",
@@ -396,7 +394,7 @@
 	{
 		"phrase": "Extended",
 		"comment": "Weapon barrel extension",
-		"translation": "Длинный"
+		"translation": "Удлиненный"
 	},
 	{
 		"phrase": "Resonator",
@@ -421,7 +419,7 @@
 	{
 		"phrase": "Angled",
 		"comment": "A type of foregrip that's angled so your hand rests at a different... angle",
-		"translation": "Угловое"
+		"translation": "Угловая"
 	},
 	{
 		"phrase": "Removed",
@@ -431,13 +429,12 @@
 	{
 		"phrase": "Stubby",
 		"comment": "A type of foregrip",
-		"translation": "Корткое"
+		"translation": "Вертикальная"
 	},
 	{
 		"phrase": "Augmented",
 		"comment": "A large plasma projectile that is slow and weak, but can fuse with other plasma projectiles to power up",
-		"translation": "Дополненный",
-		"machine": true
+		"translation": "Аугментированный",
 	},
 	{
 		"phrase": "Buckshot",
@@ -452,7 +449,7 @@
 	{
 		"phrase": "Heavy",
 		"comment": "Heavier ammunition that fires slower but deals more damage",
-		"translation": "Тяжелое"
+		"translation": "Тяжелые"
 	},
 	{
 		"phrase": "Light",
@@ -467,22 +464,22 @@
 	{
 		"phrase": "Ricochet",
 		"comment": "Ammunition type that bounces off walls",
-		"translation": "Рикошет"
+		"translation": "Рикошетящие"
 	},
 	{
 		"phrase": "Slug",
 		"comment": "A large metal slug that can be fired by a shotgun",
-		"translation": "Жакан"
+		"translation": "Пуля"
 	},
 	{
 		"phrase": "Corrosive",
 		"comment": "Corrosive acid that eats blocks",
-		"translation": "Едкие"
+		"translation": "Коррозивные"
 	},
 	{
 		"phrase": "Explosive",
 		"comment": "Projectile payload that explodes on impact",
-		"translation": "Взрывные"
+		"translation": "Разрывные"
 	},
 	{
 		"phrase": "Incendiary",
@@ -492,12 +489,12 @@
 	{
 		"phrase": "Base",
 		"comment": "Base\/default",
-		"translation": "Базовый"
+		"translation": "Базовая"
 	},
 	{
 		"phrase": "Tactical",
 		"comment": "A tactical missile strike",
-		"translation": "Тактический"
+		"translation": "Тактическая"
 	},
 	{
 		"phrase": "Mechanical",
