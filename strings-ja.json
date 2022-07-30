@@ -8116,12 +8116,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} damage modifier set to {2}",
-		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
-		"translation": "{2}に設定された{0}ダメージ修正",
-		"machine": true
-	},
-	{
 		"phrase": "Invalid argument {0}. Expected {1}",
 		"comment": "This error message appears when running a command with an invalid argument, e.g. '\/forcemap aegis' instead of '\/forcemap ad' (ad stands for aegis desert). Parameter 0: 'mapCode', Parameter 1: 'ad|cf|is|mc|st'",
 		"translation": "引数{0}が無効です。予想される{1}",
@@ -8311,6 +8305,24 @@
 		"phrase": "{0} tried to start a votekick against {1}. It had no effect",
 		"comment": "This error message appears when a player attempts to kick a moderator. Parameter 0: 'Guffyfish', Parameter 1: 'Fora'",
 		"translation": "{0}は{1}に対して投票キックを開始しようとしました。効果はありませんでした",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to restart",
+		"comment": "Trial instructions on how to restart the trial. Parameter 0: '[ R ]'",
+		"translation": "{0} を押して再起動します",
+		"machine": true
+	},
+	{
+		"phrase": "Fire",
+		"comment": "Hot burning fire",
+		"translation": "火",
+		"machine": true
+	},
+	{
+		"phrase": "{0} damage modifier set to {1}",
+		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
+		"translation": "{0} ダメージ修正値を {1} に設定",
 		"machine": true
 	}
 ]

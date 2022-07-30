@@ -7805,12 +7805,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} damage modifier set to {2}",
-		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
-		"translation": "{0}-vaurion muuntaja asetettu arvoon {2}",
-		"machine": true
-	},
-	{
 		"phrase": "Invalid argument {0}. Expected {1}",
 		"comment": "This error message appears when running a command with an invalid argument, e.g. '\/forcemap aegis' instead of '\/forcemap ad' (ad stands for aegis desert). Parameter 0: 'mapCode', Parameter 1: 'ad|cf|is|mc|st'",
 		"translation": "Virheellinen argumentti {0}. odotettu {1}",
@@ -8000,6 +7994,24 @@
 		"phrase": "{0} tried to start a votekick against {1}. It had no effect",
 		"comment": "This error message appears when a player attempts to kick a moderator. Parameter 0: 'Guffyfish', Parameter 1: 'Fora'",
 		"translation": "{0} yritti aloittaa äänestyksen {1}:tä vastaan. Sillä ei ollut vaikutusta",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to restart",
+		"comment": "Trial instructions on how to restart the trial. Parameter 0: '[ R ]'",
+		"translation": "Käynnistä uudelleen painamalla {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Fire",
+		"comment": "Hot burning fire",
+		"translation": "Antaa potkut",
+		"machine": true
+	},
+	{
+		"phrase": "{0} damage modifier set to {1}",
+		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
+		"translation": "{0}-vaurion muuntaja asetettu arvoon {1}",
 		"machine": true
 	}
 ]
