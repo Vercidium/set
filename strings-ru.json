@@ -2,7 +2,7 @@
 	{
 		"phrase": "Cluster spawn",
 		"comment": "When multiple friendlies choose to respawn in the same location, they are combined into a cluster spawn, which lets them respawn faster",
-		"translation": "Групповое возрождение"
+		"translation": "Кластерное возрождение"
 	},
 	{
 		"phrase": "Damage",
@@ -57,7 +57,7 @@
 	{
 		"phrase": "Scanner assist",
 		"comment": "If a friendly kills an enemy that was revealed by your Scanner, you get Scanner Assist points",
-		"translation": "Обнаружение"
+		"translation": "Помощь сканером"
 	},
 	{
 		"phrase": "C4 destroyed",
@@ -72,7 +72,7 @@
 	{
 		"phrase": "Avenger",
 		"comment": "When you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate",
-		"translation": "Месть"
+		"translation": "Мститель"
 	},
 	{
 		"phrase": "Flag capture",
@@ -82,7 +82,7 @@
 	{
 		"phrase": "Flag carry",
 		"comment": "When you steal a flag and carry it to your base, you earn points based on the distance you carry it",
-		"translation": "Перенос флаг"
+		"translation": "Перенос флага"
 	},
 	{
 		"phrase": "Flag return",
@@ -132,8 +132,7 @@
 	{
 		"phrase": "Spot assist",
 		"comment": "1 Spot assist. If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
-		"translation": "Точечная помощь",
-		"machine": true
+		"translation": "Обнаружение",
 	},
 	{
 		"phrase": "Attacking",
@@ -178,7 +177,7 @@
 	{
 		"phrase": "Assist counts as kill",
 		"comment": "If you deal 80 or more damage to an enemy, and then a friendly kills them, you earn a kill rather than an assist",
-		"translation": "Убийство с помощью"
+		"translation": "Почти убийство"
 	},
 	{
 		"phrase": "Fortifying",
@@ -188,7 +187,7 @@
 	{
 		"phrase": "Most Valuable Player",
 		"comment": "The player who earned the most points on their team",
-		"translation": "Самый ценный игрок"
+		"translation": "Самый Ценный Игрок"
 	},
 	{
 		"phrase": "Annihilator",
@@ -198,7 +197,7 @@
 	{
 		"phrase": "Marksman",
 		"comment": "The player who has the most headshot kills",
-		"translation": "Стрелок"
+		"translation": "Снайпер"
 	},
 	{
 		"phrase": "Creator",
@@ -223,13 +222,12 @@
 	{
 		"phrase": "Impaler",
 		"comment": "The player who has the most melee kills",
-		"translation": "Боец"
+		"translation": "Рубака"
 	},
 	{
 		"phrase": "Resilient",
 		"comment": "The player who has the most deaths",
 		"translation": "Устойчивый",
-		"machine": true
 	},
 	{
 		"phrase": "Assistance",
