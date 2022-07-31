@@ -1566,19 +1566,16 @@
 		"phrase": "2X",
 		"comment": "A weapon sight that has 2.0x zoom",
 		"translation": "2X",
-		"machine": true
 	},
 	{
 		"phrase": "4X",
 		"comment": "A weapon sight that has 2.0x zoom",
 		"translation": "4X",
-		"machine": true
 	},
 	{
 		"phrase": "Foregrip",
 		"comment": "The part of the gun that the player holds on to, e.g. stubby foregrip",
-		"translation": "Цевье",
-		"machine": true
+		"translation": "Рукоять",
 	},
 	{
 		"phrase": "Stock",
@@ -1594,7 +1591,6 @@
 		"phrase": "Hidden",
 		"comment": "Something can't be seen , i.e. 'The minimap is hidden'",
 		"translation": "Скрытый",
-		"machine": true
 	},
 	{
 		"phrase": "Singapore",
@@ -1630,7 +1626,7 @@
 	{
 		"phrase": "Kick",
 		"comment": "Swap the player to the other team",
-		"translation": "Пинать",
+		"translation": "Выгнать",
 		"machine": true
 	},
 	{
@@ -1643,19 +1639,16 @@
 		"phrase": "Type here",
 		"comment": "Default placeholder for a text field",
 		"translation": "Введите здесь",
-		"machine": true
 	},
 	{
 		"phrase": "Reason",
 		"comment": "The reason that this player is being reported",
 		"translation": "Причина",
-		"machine": true
 	},
 	{
 		"phrase": "Add Friend",
 		"comment": "Add this player as a friend on Steam",
 		"translation": "Добавить друга",
-		"machine": true
 	},
 	{
 		"phrase": "Spectators",
@@ -1665,8 +1658,7 @@
 	{
 		"phrase": "You have left the party",
 		"comment": "A party is a group of 4 friends that player together. This notification shows when you leave the party or the party disbands",
-		"translation": "Вы покинули вечеринку",
-		"machine": true
+		"translation": "Вы покинули отряд",
 	},
 	{
 		"phrase": "Online",
@@ -1899,20 +1891,17 @@
 	{
 		"phrase": "Failed to join the party",
 		"comment": "Notification that you failed to join the party",
-		"translation": "Не удалось присоединиться к вечеринке",
-		"machine": true
+		"translation": "Не удалось присоединиться к отряду",
 	},
 	{
 		"phrase": "Crosshair",
 		"comment": "A crosshair on a gun scope",
 		"translation": "Перекрестие",
-		"machine": true
 	},
 	{
 		"phrase": "Skin colour",
 		"comment": "The colour of a weapon skin",
-		"translation": "Цвет кожи",
-		"machine": true
+		"translation": "Цвет скина",
 	},
 	{
 		"phrase": "Attachments",
@@ -1928,7 +1917,6 @@
 		"phrase": "Canister",
 		"comment": "1 Canister, i.e. 'You detonated 3 Soltrium Canisters'",
 		"translation": "Канистра",
-		"machine": true
 	},
 	{
 		"phrase": "Core",
@@ -1939,7 +1927,6 @@
 		"phrase": "Servo",
 		"comment": "The part of the Midi tool that spins",
 		"translation": "Сервопривод",
-		"machine": true
 	},
 	{
 		"phrase": "Rail",
@@ -1966,25 +1953,21 @@
 		"phrase": "View Profile",
 		"comment": "View this player's Steam profile",
 		"translation": "Просмотреть профиль",
-		"machine": true
 	},
 	{
 		"phrase": "Joining",
 		"comment": "This player is 'joining' the server",
 		"translation": "Присоединение",
-		"machine": true
 	},
 	{
 		"phrase": "Click to join",
 		"comment": "The next map has loaded and the player can now join the next match",
 		"translation": "Нажмите, чтобы присоединиться",
-		"machine": true
 	},
 	{
 		"phrase": "A player",
 		"comment": "[Placeholder] Placeholder name for a player, e.g. 'A player has taken our flag'",
 		"translation": "Игрок",
-		"machine": true
 	},
 	{
 		"phrase": "Admin",
@@ -2001,134 +1984,113 @@
 	{
 		"phrase": "X-Ray",
 		"comment": "Spectator control",
-		"translation": "Рентгеновский",
-		"machine": true
+		"translation": "Рентген",
 	},
 	{
 		"phrase": "Smooth",
 		"comment": "Spectator control. Smooth camera movement",
-		"translation": "Гладкий",
-		"machine": true
+		"translation": "Гладкость",
 	},
 	{
 		"phrase": "Cycle Players",
 		"comment": "Spectator control. The full phrase is: 'Cycle Players [ Q \/ E ]'",
-		"translation": "Велосипедные игроки",
-		"machine": true
+		"translation": "Переключить игрока",
 	},
 	{
 		"phrase": "Third Person",
 		"comment": "Spectator control. Change to third person camera",
-		"translation": "Третий человек",
-		"machine": true
+		"translation": "Третье лицо",
 	},
 	{
 		"phrase": "First Person",
 		"comment": "Spectator control. Change to first person camera",
 		"translation": "Первое лицо",
-		"machine": true
 	},
 	{
 		"phrase": "Fly camera",
 		"comment": "Spectator control. Change to free camera mode",
-		"translation": "Fly камера",
-		"machine": true
+		"translation": "Режим полета",
 	},
 	{
 		"phrase": "Anchored",
 		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-		"translation": "Якорь",
-		"machine": true
+		"translation": "Прикрепленная",
 	},
 	{
 		"phrase": "Select Player",
 		"comment": "Spectator control. Enter first-person spectate mode for the player you are looking",
 		"translation": "Выберите игрока",
-		"machine": true
 	},
 	{
 		"phrase": "Show Paths",
 		"comment": "Spectator control. Show waypoint paths that you have created",
 		"translation": "Показать пути",
-		"machine": true
 	},
 	{
 		"phrase": "Show Full Paths",
 		"context": "Show Detailed Paths",
 		"comment": "Spectator control. Show every position in waypoint paths",
 		"translation": "Показать полные пути",
-		"machine": true
 	},
 	{
 		"phrase": "Play Path",
 		"comment": "Spectator control. Make the camera follow a path",
-		"translation": "Путь игры",
-		"machine": true
+		"translation": "Пустить по пути",
 	},
 	{
 		"phrase": "Create Path",
 		"comment": "Spectator control. Start creating a new path",
 		"translation": "Создать путь",
-		"machine": true
 	},
 	{
 		"phrase": "Edit Path",
 		"comment": "Spectator control. Edit an existing path",
 		"translation": "Изменить путь",
-		"machine": true
 	},
 	{
 		"phrase": "Set Waypoint",
 		"comment": "Spectator control. Add a waypoint to the path you are currently editing",
-		"translation": "Установить путевую точку",
-		"machine": true
+		"translation": "Установить точку",
 	},
 	{
 		"phrase": "Delete Waypoint",
 		"comment": "Spectator control. Delete a waypoint from the path you are currently editing",
-		"translation": "Удалить путевую точку",
-		"machine": true
+		"translation": "Удалить точку",
 	},
 	{
 		"phrase": "Undo Changes",
 		"comment": "Spectator control. Stop editing a path and don't save changes",
 		"translation": "Отменить изменения",
-		"machine": true
 	},
 	{
 		"phrase": "Save Changes",
 		"comment": "Spectator control. Stop editing a path and save the changes you made",
 		"translation": "Сохранить изменения",
-		"machine": true
 	},
 	{
 		"phrase": "Next Waypoint",
 		"comment": "Spectator control. When editing an existing path, advance to the next waypoint",
-		"translation": "Следующая путевая точка",
-		"machine": true
+		"translation": "Следующая точка",
 	},
 	{
 		"phrase": "Previous Waypoint",
 		"comment": "Spectator control. When editing an existing path, go back to the previous waypoint",
-		"translation": "Предыдущая путевая точка",
-		"machine": true
+		"translation": "Предыдущая точка",
 	},
 	{
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
-		"translation": "Переключить помощь",
-		"machine": true
+		"translation": "Вкл/Выкл помощь",
 	},
 	{
 		"phrase": "Anchor Distance",
 		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
-		"translation": "Якорное расстояние",
-		"machine": true
+		"translation": "Расстояние",
 	},
 	{
 		"phrase": "Select Aegis",
 		"comment": "Spectator control. Spectate an Aegis player so you can learn to play well",
-		"translation": "Выберите Aegis"
+		"translation": "Выбрать Aegis"
 	},
 	{
 		"phrase": "Select Helix",
@@ -2139,7 +2101,6 @@
 		"phrase": "Creating path",
 		"comment": "[Spectate UI] The full phrase is: 'Creating path 1'",
 		"translation": "Создание пути",
-		"machine": true
 	},
 	{
 		"phrase": "Editing path",
@@ -2150,7 +2111,6 @@
 		"phrase": "Team",
 		"comment": "1 Team, i.e. a group of players who fight against another group of players",
 		"translation": "Команда",
-		"machine": true
 	},
 	{
 		"phrase": "Loading textures",
@@ -2175,8 +2135,7 @@
 	{
 		"phrase": "Spawn position set",
 		"comment": "This text appears when a player sets a custom respawn location, which they can only do when recording trailers",
-		"translation": "Позиция появления установлена",
-		"machine": true
+		"translation": "Позиция возрождения установлена",
 	},
 	{
 		"phrase": "You must wait for the tournament to commence before respawning",
@@ -2223,49 +2182,41 @@
 		"phrase": "Compensator",
 		"comment": "Weapon barrel that reduces recoil",
 		"translation": "Компенсатор",
-		"machine": true
 	},
 	{
 		"phrase": "Sticky",
 		"comment": "An explosive projectile sticks to the wall before exploding",
-		"translation": "Липкий",
-		"machine": true
+		"translation": "Липкая",
 	},
 	{
 		"phrase": "Cluster",
 		"comment": "An explosive projectile that explodes into 3 smaller projectiles",
 		"translation": "Кластер",
-		"machine": true
 	},
 	{
 		"phrase": "Fragmentation",
 		"comment": "A projectile type that explodes into thousands of small fragments on impact",
-		"translation": "Фрагментация",
-		"machine": true
+		"translation": "Осколочный",
 	},
 	{
 		"phrase": "Bounce",
 		"comment": "Bounce off the walls",
-		"translation": "Подпрыгивать",
-		"machine": true
+		"translation": "Отскачить",
 	},
 	{
 		"phrase": "Boost",
 		"comment": "1 Boost, i.e. an item a player can use to increase their Proton and XP gain for the next hour",
-		"translation": "Увеличение",
-		"machine": true
+		"translation": "Бустер",
 	},
 	{
 		"phrase": "Toaster",
 		"comment": "Garbage quality graphics",
 		"translation": "Тостер",
-		"machine": true
 	},
 	{
 		"phrase": "Full",
 		"comment": "The full amount (100%)",
 		"translation": "Полный",
-		"machine": true
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
