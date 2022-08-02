@@ -1515,12 +1515,11 @@
 	{
 		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
 		"comment": "Instructions on how points UI customisation works",
-		"translation": "Здесь вы можете настроить отображение очков, которые вы зарабатываете в игре. первичные точки помещаются вверху стека точек, а второстепенные точки помещаются внизу стека точек.",
-		"machine": true
+		"translation": "Здесь вы можете настроить отображение очков, которые вы зарабатываете в игре. Главные очки помещаются вверху, а второстепенные - внизу стека точек.",
 	},
 	{
 		"phrase": "Equipped",
-		"comment": "This weapon skinis equipped",
+		"comment": "This weapon skin is equipped",
 		"translation": "Экипировано"
 	},
 	{
@@ -1588,13 +1587,11 @@
 		"phrase": "Kick",
 		"comment": "Swap the player to the other team",
 		"translation": "Выгнать",
-		"machine": true
 	},
 	{
 		"phrase": "Swap",
 		"comment": "Swap the player to the other team",
-		"translation": "Менять",
-		"machine": true
+		"translation": "Сменить команду",
 	},
 	{
 		"phrase": "Type here",
@@ -1614,7 +1611,7 @@
 	{
 		"phrase": "Spectators",
 		"comment": "2 Spectators, i.e. people who are watching a battle",
-		"translation": "Зрителя"
+		"translation": "Зрителей"
 	},
 	{
 		"phrase": "You have left the party",
@@ -1689,44 +1686,37 @@
 	{
 		"phrase": "Supporter",
 		"comment": "A player who supports Sector's Edge financially",
-		"translation": "Сторонник",
-		"machine": true
+		"translation": "Спонсор",
 	},
 	{
 		"phrase": "Holographic",
 		"comment": "Type of weapon sight",
 		"translation": "Голографический",
-		"machine": true
 	},
 	{
 		"phrase": "Characters",
 		"comment": "2 Characters",
-		"translation": "Персонажи",
-		"machine": true
+		"translation": "Персонажей",
 	},
 	{
 		"phrase": "Weapon Skins",
 		"comment": "Skins (e.g. camoflague, metallic, animated) for a gun",
 		"translation": "Скины оружия",
-		"machine": true
 	},
 	{
 		"phrase": "Crosshairs",
 		"comment": "Crosshairs on a gun scope",
 		"translation": "Перекрестие",
-		"machine": true
 	},
 	{
 		"phrase": "Weapon Skin Token",
 		"comment": "[Inventory] Weapon skin token display name",
 		"translation": "Жетон скина оружия",
-		"machine": true
 	},
 	{
 		"phrase": "Copied",
 		"comment": "[Hex Field] This text is displayed when the user copies a value from a hex field",
 		"translation": "Скопировано",
-		"machine": true
 	},
 	{
 		"phrase": "Inventory",
@@ -1801,14 +1791,12 @@
 	{
 		"phrase": "Infinite",
 		"comment": "This text is displayed on a setting that has an infinite value",
-		"translation": "Бесконечный",
-		"machine": true
+		"translation": "Бесконечность",
 	},
 	{
 		"phrase": "Player List",
 		"comment": "A list of all players",
 		"translation": "Список игроков",
-		"machine": true
 	},
 	{
 		"phrase": "Downloading",
@@ -1824,19 +1812,16 @@
 		"phrase": "Eternal",
 		"comment": "The match will last forever",
 		"translation": "Вечный",
-		"machine": true
 	},
 	{
 		"phrase": "Trailer",
 		"comment": "This server is being used to record a video trailer",
 		"translation": "Трейлер",
-		"machine": true
 	},
 	{
 		"phrase": "Sandbox",
 		"comment": "When enabling sandbox mode, players are invincible and have infinite ammo",
 		"translation": "Песочница",
-		"machine": true
 	},
 	{
 		"phrase": "Vertical",
@@ -1847,7 +1832,6 @@
 		"phrase": "Multi-Orb",
 		"comment": "This core attachment for the Orberator fires 5 smaller orbs rather than 1 large orb",
 		"translation": "Мульти-сфера",
-		"machine": true
 	},
 	{
 		"phrase": "Failed to join the party",
@@ -1908,7 +1892,6 @@
 		"phrase": "Trigger",
 		"comment": "Pull the trigger to fire bullets",
 		"translation": "Спусковой крючок",
-		"machine": true
 	},
 	{
 		"phrase": "View Profile",
@@ -2102,37 +2085,31 @@
 		"phrase": "You must wait for the tournament to commence before respawning",
 		"comment": "This error message appears when a player attempts to respawn before a tournament round commences",
 		"translation": "Вы должны дождаться начала турнира, прежде чем возродиться",
-		"machine": true
 	},
 	{
 		"phrase": "Unable to change teams before the match has started",
 		"comment": "This error appears when attempting to change teams while waiting for an Arena round to begin",
 		"translation": "Невозможно сменить команду до начала матча",
-		"machine": true
 	},
 	{
 		"phrase": "Unable to change teams during the tournament",
 		"comment": "This error message appears when attempting to change teams during a tournament, which isn't allowed as the teams are set in stone at the beginning of the round",
 		"translation": "Невозможно сменить команду во время турнира",
-		"machine": true
 	},
 	{
 		"phrase": "Unable to change teams while the round is running",
 		"comment": "This error message appears when attempting to change teams mid-round in the Arena",
 		"translation": "Невозможно сменить команду во время раунда",
-		"machine": true
 	},
 	{
 		"phrase": "Your votekick permissions have been revoked",
 		"comment": "This error message appears when attempting to votekick someone, but your votekick permissions have been revoked by a moderator",
-		"translation": "Ваши разрешения на голосование были отозваны",
-		"machine": true
+		"translation": "Вы больше не можете голосовать за исключение игрока",
 	},
 	{
 		"phrase": "A tournament is currently running",
 		"comment": "This error message appears when you attempt to join a server that's hosting a tournament you're not competing in",
-		"translation": "Турнир в данный момент проходит",
-		"machine": true
+		"translation": "В данный момент на сервере проходит турнир",
 	},
 	{
 		"phrase": "The server is full",
@@ -2182,32 +2159,27 @@
 	{
 		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
 		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
-		"translation": "Враги будут подсвечены, если они имеют уровень {0} или ниже и имеют KDR {1} или меньше..\n\nПока включен миротворец, нанесите этим игрокам {2} урона и заработайте {3} дополнительного опыта и протонов..\n\nИзменения вступают в силу при возрождении. Миротворец не действует бесплатно во всех режимах игры.",
-		"machine": true
+		"translation": "Враги будут подсвечены, если они имеют уровень {0} или ниже и имеют KDR {1} или меньше..\n\nПока включен миротворец, вы наносите этим игрокам {2} урона и зарабатываете {3} дополнительного опыта и Протонов..\n\nИзменения вступают в силу при возрождении. Миротворец не действует в режиме Бой На Смерть.",
 	},
 	{
 		"phrase": "There was an error initialising shaders. Please follow the instructions at {0} to submit your log files and help solve this issue",
 		"comment": "[Error] [Message Popup] Parameter 0: 'https:\/\/sectorsedge.com\/support'",
-		"translation": "При инициализации шейдеров произошла ошибка. следуйте инструкциям на {0}, чтобы отправить файлы журнала и помочь решить эту проблему.",
-		"machine": true
+		"translation": "При инициализации шейдеров произошла ошибка. Следуйте инструкциям на {0}, чтобы отправить файлы логов и помочь решить эту проблему.",
 	},
 	{
 		"phrase": "Press {0} or {1} to change team mates",
 		"comment": "Arena spectator text. Parameter 0: '[ Q ]', Parameter 1: '[ E ]'",
-		"translation": "Нажмите {0} или {1}, чтобы сменить товарищей по команде.",
-		"machine": true
+		"translation": "Нажмите {0} или {1}, чтобы переключаться между товарищами по команде.",
 	},
 	{
 		"phrase": "Respawning in {0}s",
 		"comment": "Respawn text in the ship.",
-		"translation": "Возрождение в {0}s",
-		"machine": true
+		"translation": "Возрождение через {0}s",
 	},
 	{
 		"phrase": "Waiting for players",
 		"comment": "Waiting for players to join a server",
-		"translation": "Жду игроков",
-		"machine": true
+		"translation": "Ожидание игроков",
 	},
 	{
 		"phrase": "Customising their character",
@@ -2292,80 +2264,68 @@
 	{
 		"phrase": "Yes",
 		"comment": "Yes I would like to play Sector's Edge",
-		"translation": "да",
+		"translation": "Да",
 	},
 	{
 		"phrase": "Unable to respawn while the map is restoring. Retry in {0} seconds",
 		"comment": "This error message appears when a player attempts to respawn while the map is being restored to a previous state, which occurs when recording trailers. Parameter 0: '10'",
-		"translation": "Невозможно возродиться во время восстановления карты. повторить попытку через {0} секунд",
-		"machine": true
+		"translation": "Невозможно возродиться во время восстановления карты. Повторите попытку через {0} секунд",
 	},
 	{
 		"phrase": "The map is restoring. Try again in {0} seconds",
 		"comment": "If a player joins a server while the map is being restored to a previous version, they are shown this error",
-		"translation": "Карта восстанавливается. попробуйте еще раз через {0} секунд",
-		"machine": true
+		"translation": "Карта восстанавливается. Попробуйте еще раз через {0} секунд",
 	},
 	{
 		"phrase": "Building {0}",
 		"comment": "[Trial Name] Parameter 0: '1'",
-		"translation": "Корпус {0}",
-		"machine": true
+		"translation": "Строительство {0}",
 	},
 	{
 		"phrase": "Digging {0}",
 		"comment": "[Trial Name] Parameter 0: '1'",
-		"translation": "Копаем {0}",
-		"machine": true
+		"translation": "Копание {0}",
 	},
 	{
 		"phrase": "Build + Dig {0}",
 		"comment": "[Trial Name] Parameter 0: '1'",
-		"translation": "Строить + копать {0}",
-		"machine": true
+		"translation": "Строительство + Копание {0}",
 	},
 	{
 		"phrase": "{0} Protons. Lasts for {1} hour",
 		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "{0} Протоны. Длится {1} час",
-		"machine": true
+		"translation": "{0} Протонов. Длится {1} час",
 	},
 	{
 		"phrase": "{0} XP. Lasts for {1} hour",
 		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "{0} XP. Длится {1} час",
-		"machine": true
+		"translation": "{0} опыта. Длится {1} час",
 	},
 	{
 		"phrase": "Use this to unlock weapon skins on the Weapons screen",
 		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Используйте это, чтобы разблокировать скины оружия на экране оружия.",
-		"machine": true
+		"translation": "Используйте, чтобы разблокировать скины на оружие. Разблокировать скин можно на вкладке Оружие",
 	},
 	{
 		"phrase": "Select a graphics preset to continue",
 		"comment": "Onboarding instructions. The user has to select one of the high\/medium\/low\/toaster presets to continue",
-		"translation": "Чтобы продолжить, выберите набор настроек графики.",
-		"machine": true
+		"translation": "Чтобы продолжить, выберите настройки графики.",
 	},
 	{
 		"phrase": "Waypoints",
 		"comment": "2 Waypoints",
 		"translation": "Путевые точки",
-		"machine": true
 	},
 	{
 		"phrase": "Internal error",
 		"comment": "If the server crashes or has a bug, this error is shown",
 		"translation": "Внутренняя ошибка",
-		"machine": true
 	},
 	{
 		"phrase": "Light",
 		"context": "Weak",
 		"comment": "Smaller ammunition that fires faster but deals less damage",
-		"translation": "Свет",
-		"machine": true
+		"translation": "Легкие",
 	},
 	{
 		"phrase": "Light",
