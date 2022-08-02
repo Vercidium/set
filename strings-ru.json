@@ -157,7 +157,7 @@
 	{
 		"phrase": "Salvage",
 		"comment": "A gamemode where meteors crash into the planet, leaving deposits of Soltrium. Players must salvage as much Soltrium as they can",
-		"translation": "Спасение"
+		"translation": "Сбор ресурса"
 	},
 	{
 		"phrase": "Round win",
@@ -649,14 +649,12 @@
 	{
 		"phrase": "T Point",
 		"comment": "Crosshair name",
-		"translation": "Точка",
-		"machine": true
+		"translation": "Т-точка",
 	},
 	{
 		"phrase": "T Point Round",
 		"comment": "Crosshair name",
-		"translation": "Т-точка раунд",
-		"machine": true
+		"translation": "Круглая Т-точка",
 	},
 	{
 		"phrase": "Camoflague",
@@ -761,7 +759,7 @@
 	{
 		"phrase": "Scavenger",
 		"comment": "Scavengers pick up more ammo from enemy corpses",
-		"translation": "Собирательство"
+		"translation": "Мародерство"
 	},
 	{
 		"phrase": "Players",
@@ -1122,7 +1120,6 @@
 		"phrase": "Audio",
 		"comment": "Audio and sounds",
 		"translation": "Аудио",
-		"machine": true
 	},
 	{
 		"phrase": "Peacekeeper",
@@ -1158,7 +1155,6 @@
 		"phrase": "Show HUD",
 		"comment": "Setting that controls whether the HUD (heads up display UI, i.e. ammo, minimap, chat) should be visible",
 		"translation": "Показать HUD",
-		"machine": true
 	},
 	{
 		"phrase": "Brightness",
@@ -1169,13 +1165,11 @@
 		"phrase": "Movement",
 		"comment": "Player movement like walking, jumping and crouching",
 		"translation": "Движение",
-		"machine": true
 	},
 	{
 		"phrase": "Actions",
 		"comment": "Actions a player can do, e.g. pick up a weapon, place C4, ping an enemy location",
 		"translation": "Действия",
-		"machine": true
 	},
 	{
 		"phrase": "Weaponry",
@@ -1195,20 +1189,17 @@
 	{
 		"phrase": "Particles are produced when objects are hit or destroyed. Lowering this percentage will increase FPS",
 		"comment": "Description for the 'Particle amount' setting",
-		"translation": "Частицы образуются при ударе или разрушении объектов. снижение этого процента увеличит FPS",
-		"machine": true
+		"translation": "Частицы образуются при ударе или разрушении объектов. Уменьшение количества частиц увеличит FPS",
 	},
 	{
 		"phrase": "The world is illuminated by sun lights, block lights and muzzle flashes from guns. Reducing the maximum amount of lights that can be rendered will increase FPS",
 		"comment": "Description for the 'Max lights' setting",
-		"translation": "Мир освещен солнечными огнями, блокирующими огнями и дульными вспышками орудий. уменьшение максимального количества света, которое может быть визуализировано, увеличит FPS",
-		"machine": true
+		"translation": "Мир освещен солнечными лучами, светом от блоков и дульными вспышками орудий. Уменьшение максимального количества источников света, которое может быть визуализировано, увеличит FPS",
 	},
 	{
 		"phrase": "Frames per Second (FPS) is the amount of times the game will update each second. Lowering this value will decrease CPU and GPU usage",
 		"comment": "Description for the 'Max FPS' setting",
-		"translation": "Количество кадров в секунду (FPS) - это количество раз, которое игра будет обновлять каждую секунду. уменьшение этого значения уменьшит использование ЦП и графического процессора.",
-		"machine": true
+		"translation": "Количество кадров в секунду (FPS) - это количество обновлений игры в секунду. Уменьшение этого значения уменьшит использование ЦП и графического процессора.",
 	},
 	{
 		"phrase": "Controls whether particles cast shadows",
@@ -1218,20 +1209,17 @@
 	{
 		"phrase": "Vertical sync matches the update rate of the game to the refresh rate of your monitor. Enabling this may fix screen tearing",
 		"comment": "\/*Description for the 'VSync' setting",
-		"translation": "Вертикальная синхронизация сопоставляет частоту обновления игры с частотой обновления вашего монитора. включение этого может исправить разрыв экрана",
-		"machine": true
+		"translation": "Вертикальная синхронизация сопоставляет частоту обновления игры с частотой обновления вашего монитора. Включение этого параметра может исправить разрыв изображения при повороте камеры",
 	},
 	{
 		"phrase": "Automatically pause the game when you change to another window",
 		"comment": "Description for the 'pause on leave' setting",
 		"translation": "Автоматически ставить игру на паузу при переходе в другое окно",
-		"machine": true
 	},
 	{
 		"phrase": "Replace swear words in chat messages with delicious food",
 		"comment": "Description for the 'Profanity filter' setting",
-		"translation": "Замени ругательства в сообщениях чата вкусной едой",
-		"machine": true
+		"translation": "Заменить ругательства в чате вкусной едой",
 	},
 	{
 		"phrase": "Forwards",
@@ -1271,7 +1259,7 @@
 	{
 		"phrase": "Shoot",
 		"comment": "Shoot your gun",
-		"translation": "Стрелять"
+		"translation": "Выстрелить"
 	},
 	{
 		"phrase": "Scope",
@@ -1287,7 +1275,6 @@
 		"phrase": "Grenade",
 		"comment": "An explosive grenade",
 		"translation": "Граната",
-		"machine": true
 	},
 	{
 		"phrase": "Digger",
@@ -1297,14 +1284,12 @@
 	{
 		"phrase": "Structure (Radial)",
 		"comment": "Holding this keybind displays a radial that lets you select one of your custom structures",
-		"translation": "Структура (радиальная)",
-		"machine": true
+		"translation": "Колесо выбора строений",
 	},
 	{
 		"phrase": "Structure (Toggle)",
 		"comment": "If a player has three structures, they can press this keybind to change to the next structure",
-		"translation": "Структура (переключить)",
-		"machine": true
+		"translation": "Следующее строение",
 	},
 	{
 		"phrase": "Primary",
@@ -1319,7 +1304,7 @@
 	{
 		"phrase": "Switch To Last Tool",
 		"comment": "[Keybind]",
-		"translation": "Перейти к последнему инструменту"
+		"translation": "Переключиться на последний инструмент"
 	},
 	{
 		"phrase": "Next Tool",
@@ -1340,25 +1325,21 @@
 		"phrase": "View Scoreboard",
 		"comment": "[Keybind]",
 		"translation": "Посмотреть табло",
-		"machine": true
 	},
 	{
 		"phrase": "Unlock Scoreboard",
 		"comment": "[Keybind] Allow cursor interaction with the scoreboard",
 		"translation": "Разблокировать табло",
-		"machine": true
 	},
 	{
 		"phrase": "View Map",
 		"comment": "[Keybind] Show the map in game",
 		"translation": "Посмотреть карту",
-		"machine": true
 	},
 	{
 		"phrase": "Menu",
 		"comment": "[Keybind] Press escape to view the menu",
 		"translation": "Меню",
-		"machine": true
 	},
 	{
 		"phrase": "Toggle Fullscreen",
@@ -1378,90 +1359,77 @@
 	{
 		"phrase": "Toggle Killfeed",
 		"comment": "[Keybind]",
-		"translation": "Переключить список убийств"
+		"translation": "Вкл/выкл список убийств"
 	},
 	{
 		"phrase": "Toggle Names",
 		"comment": "[Keybind]",
-		"translation": "Переключить имена"
+		"translation": "Вкл/выкл имена"
 	},
 	{
 		"phrase": "Toggle Info Overlay",
 		"comment": "[Keybind]",
-		"translation": "Переключить наложение информации",
-		"machine": true
+		"translation": "Вкл/выкл оверлей",
 	},
 	{
 		"phrase": "Reset UI Scale",
 		"comment": "[Keybind]",
 		"translation": "Сбросить масштаб пользовательского интерфейса",
-		"machine": true
 	},
 	{
 		"phrase": "Provide Feedback",
 		"comment": "[Keybind]",
-		"translation": "Обеспечить обратную связь",
-		"machine": true
+		"translation": "Обратная связь",
 	},
 	{
 		"phrase": "News Tab",
 		"comment": "[Keybind] Change to the News screen",
 		"translation": "Вкладка новостей",
-		"machine": true
 	},
 	{
 		"phrase": "Store Tab",
 		"comment": "[Keybind] Change to the Store screen",
 		"translation": "Вкладка \"Магазин\"",
-		"machine": true
 	},
 	{
 		"phrase": "Career Tab",
 		"comment": "[Keybind] Change to the Career screen",
 		"translation": "Вкладка \"Карьера\"",
-		"machine": true
 	},
 	{
 		"phrase": "Play Tab",
 		"comment": "[Keybind] Change to the Play screen",
-		"translation": "Вкладка Play",
-		"machine": true
+		"translation": "Вкладка \"Играть\"",
 	},
 	{
 		"phrase": "Clan Tab",
 		"comment": "[Keybind] Change to the Clan screen",
-		"translation": "Вкладка клана",
-		"machine": true
+		"translation": "Вкладка \"Кланы\"",
 	},
 	{
 		"phrase": "Character Tab",
 		"comment": "[Keybind] Change to the Character screen",
-		"translation": "Вкладка персонажа",
-		"machine": true
+		"translation": "Вкладка \"Персонаж\"",
 	},
 	{
 		"phrase": "Weapons Tab",
 		"comment": "[Keybind] Change to the Weapons screen",
 		"translation": "Вкладка \"Оружие\"",
-		"machine": true
 	},
 	{
 		"phrase": "Loadouts Tab",
 		"comment": "[Keybind] Change to the Loadouts screen",
 		"translation": "Вкладка \"Снаряжение\"",
-		"machine": true
 	},
 	{
 		"phrase": "Ship Tab",
 		"comment": "[Keybind] Change to the Ship screen",
-		"translation": "Вкладка Корабль",
-		"machine": true
+		"translation": "Вкладка \"Корабль\"",
 	},
 	{
 		"phrase": "Mapping Tab",
 		"comment": "[Keybind] Change to the Mapping screen",
-		"translation": "Вкладка \"Отображение\"",
-		"machine": true
+		"translation": "Вкладка \"Карты\"",
 	},
 	{
 		"phrase": "Open Trial Window",
@@ -1496,20 +1464,17 @@
 	{
 		"phrase": "Side",
 		"comment": "A type of foregrip that sticks out the side of the gun",
-		"translation": "Боковая сторона",
-		"machine": true
+		"translation": "Боковое",
 	},
 	{
 		"phrase": "Angled Half-Grip",
 		"comment": "A type of foregrip that's shorter and angled",
-		"translation": "Угловая полузахват",
-		"machine": true
+		"translation": "Угловая короткая",
 	},
 	{
 		"phrase": "Large",
 		"comment": "A large magazine holds more bullets",
 		"translation": "Большой",
-		"machine": true
 	},
 	{
 		"phrase": "Triple",
@@ -1525,31 +1490,27 @@
 		"phrase": "Plasma Cutter",
 		"comment": "Alternate weapon name for the Orberator, it fires a short-range plasma laser that easily cuts through blocks",
 		"translation": "Плазменный резак",
-		"machine": true
 	},
 	{
 		"phrase": "Blocks",
 		"context": "Cubes",
 		"comment": "The amount of 3d voxels, e.g. '50 Blocks'. This text shows when looking at a structure in the ship",
-		"translation": "Блоки"
+		"translation": "Блоков"
 	},
 	{
 		"phrase": "Region",
 		"comment": "Server preferences tab. This refers to geographical region",
-		"translation": "Область",
-		"machine": true
+		"translation": "Регион",
 	},
 	{
 		"phrase": "Time",
 		"comment": "Column header on the server list",
 		"translation": "Время",
-		"machine": true
 	},
 	{
 		"phrase": "Points",
 		"comment": "2 Points",
 		"translation": "Точки",
-		"machine": true
 	},
 	{
 		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
