@@ -1284,12 +1284,12 @@
 	{
 		"phrase": "Structure (Radial)",
 		"comment": "Holding this keybind displays a radial that lets you select one of your custom structures",
-		"translation": "Колесо выбора строений",
+		"translation": "Колесо выбора построек",
 	},
 	{
 		"phrase": "Structure (Toggle)",
 		"comment": "If a player has three structures, they can press this keybind to change to the next structure",
-		"translation": "Следующее строение",
+		"translation": "Следующая постройка
 	},
 	{
 		"phrase": "Primary",
@@ -2029,7 +2029,7 @@
 	{
 		"phrase": "Anchor Distance",
 		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
-		"translation": "Расстояние",
+		"translation": "Расстояние до точки прикрепления",
 	},
 	{
 		"phrase": "Select Aegis",
@@ -2239,7 +2239,7 @@
 	{
 		"phrase": "Modifying their structures",
 		"comment": "Rich presence",
-		"translation": "Изменение свои строения",
+		"translation": "Изменяет свои постройки",
 	},
 	{
 		"phrase": "In the parkour room",
@@ -2336,14 +2336,12 @@
 	{
 		"phrase": "Base Metal",
 		"comment": "Default metal texture",
-		"translation": "Основной металл",
-		"machine": true
+		"translation": "Металл",
 	},
 	{
 		"phrase": "Human Reactive",
 		"comment": "A Human-themed reactive block skin that ripples when shot",
-		"translation": "Реактивный человек",
-		"machine": true
+		"translation": "Человеческий пульсирующий",
 	},
 	{
 		"phrase": "Home",
@@ -2353,278 +2351,234 @@
 	{
 		"phrase": "Mute",
 		"comment": "Mute a Helix player in voice chat so you don't have to listen to them talking about conquering the galaxy for the 8th time",
-		"translation": "Немой",
-		"machine": true
+		"translation": "Заглушить
 	},
 	{
 		"phrase": "Your audio output device is set to {0} Hz. Change this to 48000 Hz in the Windows Sound Control Panel to prevent audio lag and stutters.",
 		"comment": "Warning message that displays when the player's audio settings aren't optimal. Parameter 0: 192000",
-		"translation": "Ваше аудиовыходное устройство настроено на {0} Гц. измените это значение на 48000 Гц в панели управления звуком Windows, чтобы предотвратить задержку и заикание звука..",
-		"machine": true
+		"translation": "Ваше аудиовыходное устройство настроено на {0} Гц. Измените это значение на 48000 Гц в панели управления звуком Windows, чтобы предотвратить задержку и заикание звука.",
 	},
 	{
 		"phrase": "Alt",
 		"comment": "The alt on the keyboard",
-		"translation": "Альт",
-		"machine": true
+		"translation": "Alt"
 	},
 	{
 		"phrase": "Shift",
 		"comment": "The alt on the keyboard",
-		"translation": "Сдвиг",
-		"machine": true
+		"translation": "Shift
 	},
 	{
 		"phrase": "Mouse",
 		"comment": "Mouse and keyboard",
-		"translation": "мышь",
-		"machine": true
+		"translation": "Мышь",
 	},
 	{
 		"phrase": "Mouse wheel up",
 		"comment": "Keybind that fires when scrolling the mouse wheel up",
 		"translation": "Колесико мыши вверх",
-		"machine": true
 	},
 	{
 		"phrase": "Enter",
 		"comment": "The enter key on the keyboard",
-		"translation": "Войти",
-		"machine": true
+		"translation": "Enter",
 	},
 	{
 		"phrase": "Backspace",
 		"comment": "The backspace key on the keyboard",
 		"translation": "Backspace",
-		"machine": true
 	},
 	{
 		"phrase": "Escape",
 		"comment": "The escape key on the keyboard",
-		"translation": "Побег",
-		"machine": true
+		"translation": "Escape",
 	},
 	{
 		"phrase": "Tab",
 		"comment": "The tab key on the keyboard",
-		"translation": "Вкладка",
-		"machine": true
+		"translation": "Tab",
 	},
 	{
 		"phrase": "Your party has joined a {0} match on {1}. Click here to join",
 		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'",
-		"translation": "Ваша группа присоединилась к матчу {0} на {1}. нажмите здесь, чтобы присоединиться",
+		"translation": "Ваша группа присоединилась к матчу. Режим - {0}, карта - {1}. Нажмите здесь, чтобы присоединиться",
 		"machine": true
 	},
 	{
 		"phrase": "Ammo",
 		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "Боеприпасы",
-		"machine": true
 	},
 	{
 		"phrase": "Mechanism",
 		"comment": "The mechanism is inside the gun and fires bullets when the trigger is held. This changes whether the gun fires in bursts of 3, or has automatic fire",
 		"translation": "Механизм",
-		"machine": true
 	},
 	{
 		"phrase": "Onwards!",
 		"comment": "The game has started up, lets begin",
-		"translation": "вперед!",
-		"machine": true
+		"translation": "Вперед!",
 	},
 	{
 		"phrase": "Swap teams",
 		"comment": "Swap from Helix to Aegis. A smart choice",
-		"translation": "Поменяться командами",
-		"machine": true
+		"translation": "Сменить команду",
+
 	},
 	{
 		"phrase": "Extractor destroyed",
 		"comment": "Shooting an enemy Extractor and destroying it. An Extractor is a deployable device that digs tunnels",
 		"translation": "Экстрактор уничтожен",
-		"machine": true
 	},
 	{
 		"phrase": "Reinforcer destroyed",
 		"comment": "Shooting an enemy Reinforcer and destroying it. A Reinforcer is a deployable device that strengthens the blocks around it",
-		"translation": "Подкрепление уничтожено",
-		"machine": true
+		"translation": "Упрочнитель уничтожен",
 	},
 	{
 		"phrase": "Tether destroyed",
 		"comment": "Shooting an enemy Tether and destroying it. A Tether is a device that attaches to walls and can pull them down",
-		"translation": "Привязь уничтожена",
-		"machine": true
+		"translation": "Тезер уничтожен",
 	},
 	{
 		"phrase": "Turret destroyed",
 		"comment": "Shooting an enemy Turret and destroying it. A Turret is a deployable device that shoots at enemies",
-		"translation": "Башня уничтожена",
-		"machine": true
+		"translation": "Турель уничтожена",
 	},
 	{
 		"phrase": "Win",
 		"comment": "You win the battle",
-		"translation": "Победить",
-		"machine": true
+		"translation": "Победа",
 	},
 	{
 		"phrase": "Verifying",
 		"comment": "A player's identity is being verified",
 		"translation": "Проверка",
-		"machine": true
 	},
 	{
 		"phrase": "Overcharged",
 		"comment": "When a plasma weapon is overcharged, it fires projectiles in bursts of two",
-		"translation": "Перезаряжен",
-		"machine": true
+		"translation": "Перегруженное",
 	},
 	{
 		"phrase": "Dispersion",
 		"comment": "This is a plasma projectile type that disperses a large amount of plasma outwards on impact, dealing area-of-effect damage to blocks and players",
-		"translation": "Рассеивание",
-		"machine": true
+		"translation": "Дисперсионные",
 	},
 	{
 		"phrase": "Ion",
 		"comment": "Ion projectiles alter the molecular structure of blocks to allow projectiles to temporarily pass through",
-		"translation": "Ион",
-		"machine": true
+		"translation": "Ионные",
 	},
 	{
 		"phrase": "Impact",
 		"comment": "The Rocket Rifle projectile traditionally carries an explosive payload, but can be replaced with solid metal to deal a large amount of damage on impact",
-		"translation": "Влияние",
-		"machine": true
+		"translation": "Ударные",
 	},
 	{
 		"phrase": "Red Dot",
 		"comment": "Type of weapon sight",
 		"translation": "Красная точка",
-		"machine": true
 	},
 	{
 		"phrase": "Smoke",
 		"comment": "A large cloud of smoke",
 		"translation": "Дым",
-		"machine": true
 	},
 	{
 		"phrase": "Dig single blocks",
 		"comment": "Enable this setting to dig single blocks by default, rather than 3x3x3 chunks of blocks",
-		"translation": "Копать отдельные блоки",
-		"machine": true
+		"translation": "Копать по одному блоку",
 	},
 	{
 		"phrase": "Detonate",
 		"comment": "Detonate C4 explosives",
-		"translation": "Взорвать",
-		"machine": true
+		"translation": "Взорвать C4",
 	},
 	{
 		"phrase": "Rotate structure clockwise",
 		"comment": "A structure refers to a 5x5x5 group of blocks that a player can customise in their ship, then place quickly in battle. Pressing this keybind rotates the structure clockwise",
-		"translation": "Повернуть структуру по часовой стрелке",
-		"machine": true
+		"translation": "Повернуть постройку по часовой стрелке",
 	},
 	{
 		"phrase": "Rotate structure anticlockwise",
 		"comment": "Pressing this keybind rotates the structure anticlockwise",
-		"translation": "Повернуть структуру против часовой стрелки",
-		"machine": true
+		"translation": "Повернуть постройку против часовой стрелки",
 	},
 	{
 		"phrase": "Spectate Battle",
 		"comment": "Abandon Helix and spectate the battle from afar. A smart choice",
-		"translation": "Наблюдайте за битвой",
-		"machine": true
+		"translation": "Наблюдать за боем",
 	},
 	{
 		"phrase": "Unstuck",
 		"comment": "[Keybind] If you get stuck, press this keybind to teleport to the center of the map",
-		"translation": "Отклеить",
-		"machine": true
+		"translation": "Нажать при застревании",
 	},
 	{
 		"phrase": "Reload Map",
 		"comment": "[Keybind] Reloads the map the player is testing locally",
 		"translation": "Перезагрузить карту",
-		"machine": true
 	},
 	{
 		"phrase": "Toggle Fall Damage",
 		"comment": "[Keybind]",
-		"translation": "Переключить урон от падения",
-		"machine": true
+		"translation": "Вкл/выкл урон от падения",
 	},
 	{
 		"phrase": "Teleport",
 		"comment": "[Keybind]",
 		"translation": "Телепорт",
-		"machine": true
 	},
 	{
 		"phrase": "Select block type",
 		"comment": "[Keybind] If a player looks at a block and selects it, they will build with that block type from then on",
-		"translation": "Выберите тип блока",
-		"machine": true
+		"translation": "Выбрать тип блока",
 	},
 	{
 		"phrase": "Toggle Fly Camera",
 		"comment": "[Keybind]",
-		"translation": "Включить летучую камеру",
-		"machine": true
+		"translation": "Вкл/выкл полет камеры",
 	},
 	{
 		"phrase": "Show settings",
 		"comment": "[Keybind] Show the settings window",
 		"translation": "Показать настройки",
-		"machine": true
 	},
 	{
 		"phrase": "Voice Chat \/ Push To Talk",
 		"comment": "[Keybind]",
 		"translation": "Голосовой чат\/push to talk",
-		"machine": true
 	},
 	{
 		"phrase": "Mute All Players",
 		"comment": "[Keybind] Mute all players in voice chat",
 		"translation": "Заглушить всех игроков",
-		"machine": true
 	},
 	{
 		"phrase": "Mute All Enemies",
 		"comment": "[Keybind] Mute all enemies in voice chat",
 		"translation": "Заглушить всех врагов",
-		"machine": true
 	},
 	{
 		"phrase": "Pick Up Deployable",
 		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
-		"translation": "Подобрать развертываемый",
-		"machine": true
+		"translation": "Подобрать снаряжение",
 	},
 	{
 		"phrase": "Small Canister",
 		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
-		"translation": "Маленькая канистра",
-		"machine": true
+		"translation": "Маленькая Канистра",
 	},
 	{
 		"phrase": "Medium Canister",
 		"comment": "A medium canister on the Midi can hold a bit more matter",
-		"translation": "Средняя канистра",
-		"machine": true
+		"translation": "Средняя Канистра",
 	},
 	{
 		"phrase": "Large Canister",
 		"comment": "A large canister on the Midi can hold a lot of stuff",
-		"translation": "Большая канистра",
-		"machine": true
+		"translation": "Большая Канистра",
 	},
 	{
 		"phrase": "Budget Core",
@@ -2639,7 +2593,7 @@
 	{
 		"phrase": "Dual Proto Core",
 		"comment": "The Dual Proto core is the best in the market and can create very strong blocks",
-		"translation": "Двойное протоядро"
+		"translation": "Двойное Протоядро"
 	},
 	{
 		"phrase": "Solid Rail",
@@ -2660,7 +2614,6 @@
 		"phrase": "Basic Servo",
 		"comment": "The Basic Servo in the Midi spins slowly but gets the job done",
 		"translation": "Базовый сервопривод",
-		"machine": true
 	},
 	{
 		"phrase": "Power Servo",
@@ -2686,445 +2639,371 @@
 		"phrase": "Loading {0} {1}",
 		"comment": "Loading text, e.g. 'Loading 15 textures'",
 		"translation": "Загрузка {0} {1}",
-		"machine": true
 	},
 	{
 		"phrase": "Loadout list",
 		"comment": "A list of loadouts",
-		"translation": "Список снаряжения",
-		"machine": true
+		"translation": "Список наборов снаряжения",
 	},
 	{
 		"phrase": "Weapon list",
 		"comment": "A list of weapons",
 		"translation": "Список оружия",
-		"machine": true
 	},
 	{
 		"phrase": "Lost connection to the server",
 		"comment": "Error message that shows when losing connection to the game server",
 		"translation": "Потеряно соединение с сервером",
-		"machine": true
 	},
 	{
 		"phrase": "Distance must be between {0} and {1}",
 		"comment": "Error message when setting the camera distance. Parameter 0: '0.5', Parameter 1: '800'",
 		"translation": "Расстояние должно быть между {0} и {1}",
-		"machine": true
 	},
 	{
 		"phrase": "Anchor mode must be enabled to use this command",
 		"comment": "Error message. 'Anchor mode' refers to a camera mode where the camera rotates around a 3d point on the map",
-		"translation": "Для использования этой команды должен быть включен режим привязки.",
-		"machine": true
+		"translation": "Для использования этой команды должен быть включен режим прикрепления.",
 	},
 	{
 		"phrase": "Meteors have been detected",
 		"comment": "Incoming meteors have been detected and will soon crash into the planet",
 		"translation": "Метеоры были обнаружены",
-		"machine": true
 	},
 	{
 		"phrase": "Creating a new workshop item",
 		"comment": "Loading message that appears when uploading a map to the workshop",
-		"translation": "Создание нового предмета мастерской",
-		"machine": true
+		"translation": "Создание новой страницы в мастерской",
 	},
 	{
 		"phrase": "Successfully created a new workshop item with ID {0}",
 		"comment": "Success message that appears after uploading a map to the workshop. Parameter 0: '123'",
-		"translation": "Успешно создан новый предмет мастерской с идентификатором {0}.",
-		"machine": true
+		"translation": "Успешно создана новая страница в мастерской с идентификатором {0}.",
 	},
 	{
 		"phrase": "Error creating workshop item: {0}",
 		"comment": "Error message when uploading a map to the workshop fails. Parameter 0: '7'",
-		"translation": "Ошибка при создании предмета мастерской: {0}",
-		"machine": true
+		"translation": "Ошибка при создании страницы в мастерской: {0}",
 	},
 	{
 		"phrase": "Uploading map with visibility {0} and path {1}",
 		"comment": "Loading message that appears when uploading a map to the workshop. Parameter 0: 'Public'. Parameter 1: 'maps\/foldername'",
-		"translation": "Загрузка карты с видимостью {0} и путем {1}",
-		"machine": true
+		"translation": "Загрузка карты с доступностью {0} и путем {1}",
 	},
 	{
 		"phrase": "Upload progress: {0}",
 		"comment": "Loading message that shows the progress of a map upload to the Steam workshop. Parameter 0: '45%'",
 		"translation": "Прогресс загрузки: {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Upload failed with error: {0}",
 		"comment": "Error message when uploading a map to the workshop fails. Parameter 0: '4'",
 		"translation": "Загрузка не удалась из-за ошибки: {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Upload complete",
 		"comment": "The map successfully uploaded to the Steam workshop",
 		"translation": "Загрузка завершена",
-		"machine": true
 	},
 	{
 		"phrase": "Initialising",
 		"comment": "[Loading Text] The game is initialising",
 		"translation": "Инициализация",
-		"machine": true
 	},
 	{
 		"phrase": "Protons and XP are earned each match based on your performance.",
 		"comment": "Boost pack description",
-		"translation": "Протоны и XP зарабатываются за каждый матч в зависимости от вашей производительности..",
-		"machine": true
+		"translation": "Протоны и XP зарабатываются за каждый матч в зависимости от вашей эффективности.",
 	},
 	{
 		"phrase": "XP contributes towards your player level, which is purely for display.",
 		"comment": "Boost pack description",
-		"translation": "XP влияет на ваш уровень игрока, который предназначен исключительно для отображения..",
-		"machine": true
+		"translation": "XP влияет на ваш уровень игрока, который предназначен исключительно для отображения.",
 	},
 	{
 		"phrase": "Supporter pack",
 		"comment": "Store pack title. A supporter is someone who financially supports Sector's Edge",
-		"translation": "Пакет поддержки",
-		"machine": true
+		"translation": "Набор Спонсора",
 	},
 	{
 		"phrase": "Devoid of allegiance, some mercenaries fight for their own cause.",
 		"comment": "Supporter pack description",
-		"translation": "Лишенные преданности, некоторые наемники сражаются за свое дело.",
-		"machine": true
+		"translation": "Отринутые всеми, некоторые наемники сражаются только ради своей выгоды.",
 	},
 	{
 		"phrase": "Metallic Pearl",
 		"comment": "This is the name of a weapon skin which is similar to pearlescent paint applied to a car",
 		"translation": "Металлический жемчуг",
-		"machine": true
 	},
 	{
 		"phrase": "Licence title",
 		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
-		"translation": "Название лицензии",
-		"machine": true
+		"translation": "Заголовок лицензии",
 	},
 	{
 		"phrase": "Fabric",
 		"comment": "Fabric\/cloth\/material",
 		"translation": "Ткань",
-		"machine": true
 	},
 	{
 		"phrase": "Licence background",
 		"comment": "The background pattern on a player's customisable Soltrium Handling Licence",
-		"translation": "История лицензии",
-		"machine": true
+		"translation": "Фон лицензии",
 	},
 	{
 		"phrase": "Engineer pack",
 		"comment": "Store pack title. The Engineer is an Agaman character who builds weapons. Do not translate: 'Engineer'",
-		"translation": "Пакет инженера",
-		"machine": true
+		"translation": "Набор инженера",
 	},
 	{
 		"phrase": "Human",
 		"comment": "An inhabitant of a distant planet named Earth",
 		"translation": "Человек",
-		"machine": true
 	},
 	{
 		"phrase": "Purchase pack",
 		"comment": "Purchase\/buy a pack (collection of items) from the store",
-		"translation": "Пакет покупки",
-		"machine": true
+		"translation": "Купить набор",
 	},
 	{
 		"phrase": "Success! Gifted the {0} to {1}",
 		"comment": "Success message when gifting a store item to a friend. Parameter 0: 'Engineer Pack', Parameter 1: 'Fora'",
-		"translation": "Успех! подарил {0} {1}",
-		"machine": true
+		"translation": "Успех! Подарок в виде {0} успешно отправлен {1}",
 	},
 	{
 		"phrase": "Click to continue",
 		"comment": "Click this button to continue to the next stage",
 		"translation": "Нажмите для продолжения",
-		"machine": true
 	},
 	{
 		"phrase": "Success! Unlocked the {0}",
 		"comment": "Success message when purchasing an item from the store. Parameter 0: 'Engineer Pack',",
-		"translation": "Успех! разблокировал {0}",
-		"machine": true
+		"translation": "Успех! Разблокирован {0}",
 	},
 	{
 		"phrase": "Unlocking character",
 		"comment": "In the process of unlocking a character",
 		"translation": "Разблокировка персонажа",
-		"machine": true
 	},
 	{
 		"phrase": "Cancelling",
 		"comment": "Cancelling a transaction",
 		"translation": "Отмена",
-		"machine": true
 	},
 	{
 		"phrase": "Invalid creator code",
 		"comment": "A creator code is a short phrase that represents a partnered Sector's Edge content creator. This error is shown if a user enters a creator code that doesn't exist",
-		"translation": "Неверный код создателя",
-		"machine": true
+		"translation": "Неверный код",
 	},
 	{
 		"phrase": "Unknown error",
 		"comment": "An unknown error occurred when completing an action",
 		"translation": "Неизвестная ошибка",
-		"machine": true
 	},
 	{
 		"phrase": "Unlock error: {0}",
 		"comment": "This error shows when failing to unlock a weapon skin. Parameter 0: 'Not enough Protons'",
 		"translation": "Ошибка разблокировки: {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Successfully unlocked the {0} weapon skin",
 		"comment": "This message shows when unlocking a weapon skin. Parameter 0: 'Digital'",
 		"translation": "Вы успешно разблокировали скин оружия {0}.",
-		"machine": true
 	},
 	{
 		"phrase": "Error code",
 		"comment": "A number that represents an internal error, i.e. 'Error code 5 occurred'",
 		"translation": "Код ошибки",
-		"machine": true
 	},
 	{
 		"phrase": "If the issue persists please follow the instructions at www.sectorsedge.com\/support",
 		"comment": "Error message that shows on startup",
 		"translation": "Если проблема не устранена, следуйте инструкциям на странице www.sectorsedge.com\/support.",
-		"machine": true
 	},
 	{
 		"phrase": "Creating a weapon preset",
 		"comment": "Rich presence",
-		"translation": "Создание пресета оружия",
-		"machine": true
+		"translation": "Создает пресет оружия",
 	},
 	{
 		"phrase": "Viewing their weapons",
 		"comment": "Rich presence",
-		"translation": "Просмотр своего оружия",
-		"machine": true
+		"translation": "Смотрит свое оружие",
 	},
 	{
 		"phrase": "Viewing their loadouts",
 		"comment": "Rich presence",
-		"translation": "Просмотр их снаряжения",
-		"machine": true
+		"translation": "Смотрит свое снаряжение",
 	},
 	{
 		"phrase": "Customising their licence",
 		"comment": "Rich presence",
-		"translation": "Настройка их лицензии",
-		"machine": true
+		"translation": "Настраивает свою лицензию",
 	},
 	{
 		"phrase": "Viewing custom maps",
 		"comment": "Rich presence",
-		"translation": "Просмотр пользовательских карт",
-		"machine": true
+		"translation": "Смотрит пользовательские карты",
 	},
 	{
 		"phrase": "Testing a custom map",
 		"comment": "Rich presence",
-		"translation": "Тестирование пользовательской карты",
-		"machine": true
+		"translation": "Тестирует пользовательскую карту",
 	},
 	{
 		"phrase": "Party invitation sent to {0}",
 		"comment": "Notification that you invited a friend to your party. Parameter 0: 'Reekta'",
-		"translation": "Приглашение на вечеринку отправлено {0}",
-		"machine": true
+		"translation": "Приглашение в отряд отправлено {0}",
 	},
 	{
 		"phrase": "Failed to invite {0} to the party",
 		"comment": "Notification that you failed to invite a friend to your party. Parameter 0: 'Blade'",
-		"translation": "Не удалось пригласить {0} на вечеринку",
-		"machine": true
+		"translation": "Не удалось пригласить {0} в отряд",
 	},
 	{
 		"phrase": "{0} has joined the party",
 		"comment": "Notification that a new member has joined the party\/group of players. Parameter 0: 'Bouphen'",
-		"translation": "{0} присоединился к вечеринке",
-		"machine": true
+		"translation": "{0} присоединился к отряду",
 	},
 	{
 		"phrase": "{0} has left the party",
 		"comment": "Notification that a member has left the party\/group of players. Parameter 0: 'ZeroHour'",
-		"translation": "{0} покинул вечеринку",
-		"machine": true
+		"translation": "{0} покинул отряд",
 	},
 	{
 		"phrase": "{0} has disconnected and left the party",
 		"comment": "Notification that a member has disconnected and left the party\/group of players. Parameter 0: 'Dirt Master'",
-		"translation": "{0} отключился и покинул вечеринку",
-		"machine": true
+		"translation": "{0} отключился и покинул отряд",
 	},
 	{
 		"phrase": "{0} has been kicked from the party",
 		"comment": "Notification that another member has been kicked from a party\/group of players. Parameter 0: 'Vhauss'",
-		"translation": "{0} выгнали с вечеринки",
-		"machine": true
+		"translation": "{0} выгнан из отряда",
 	},
 	{
 		"phrase": "{0} has been banned from the party",
 		"comment": "Notification that another member has been banned from the party\/group of players. Parameter 0: 'Definitely Vhauss'",
-		"translation": "{0} был забанен на вечеринке",
-		"machine": true
+		"translation": "{0} был заблокирован в отряде",
 	},
 	{
 		"phrase": "{0} has invited you to their match",
 		"comment": "Notification that a friend invited you to join their match. Parameter 0: 'Peygahreaux'",
-		"translation": "{0} пригласил вас на свой матч",
-		"machine": true
+		"translation": "{0} пригласил вас в свой матч",
 	},
 	{
 		"phrase": "You have joined a party of {0}",
 		"comment": "Notification that you have joined a new party. Parameter 0: '4'",
-		"translation": "Вы присоединились к группе {0}",
-		"machine": true
+		"translation": "Вы присоединились к отряду {0}",
 	},
 	{
 		"phrase": "This party no longer exists",
 		"comment": "Notification that the party you attempted to join no longer exists",
-		"translation": "Эта партия больше не существует",
-		"machine": true
+		"translation": "Этот отряд больше не существует",
 	},
 	{
 		"phrase": "Unable to join the party",
 		"comment": "Notification that you failed to join the party because the party is full",
-		"translation": "Невозможно присоединиться к вечеринке",
-		"machine": true
+		"translation": "Невозможно присоединиться к отряду",
 	},
 	{
 		"phrase": "{0} has invited you to their party",
 		"comment": "[Social Sidebar] This notification shows when a friend invites you to join their party. Parameter 0: 'Peygahreaux'",
-		"translation": "{0} пригласил вас на свою вечеринку",
-		"machine": true
+		"translation": "{0} пригласил вас в свой отряд",
 	},
 	{
 		"phrase": "You have been kicked from the party",
 		"comment": "Notification that you have been kicked from a party\/group of players",
-		"translation": "Вас выгнали с вечеринки",
-		"machine": true
+		"translation": "Вас выгнали из отряда",
 	},
 	{
 		"phrase": "Unmute in chat",
 		"comment": "No longer mute this player",
-		"translation": "Включить звук в чате",
-		"machine": true
+		"translation": "Больше не глушить в чате",
 	},
 	{
 		"phrase": "Mute in chat",
 		"comment": "Mute this player so we can't see their chat messages anymore",
-		"translation": "Отключить звук в чате",
-		"machine": true
+		"translation": "Заглушить в чате",
 	},
 	{
 		"phrase": "Allowed",
 		"comment": "Spectators are allowed",
-		"translation": "Допустимый",
-		"machine": true
+		"translation": "Разрешены",
 	},
 	{
 		"phrase": "Denied",
 		"comment": "Spectators are denied",
-		"translation": "Отклонен",
-		"machine": true
+		"translation": "Не разрешены",
 	},
 	{
 		"phrase": "Splash radius",
 		"comment": "Splash \/ area of effect refers to small damage the player will take when standing near an explosion",
-		"translation": "Радиус разбрызгивания",
-		"machine": true
+		"translation": "Радиус взрывной волны",
 	},
 	{
 		"phrase": "Explosion radius",
 		"comment": "The radius\/size of an explosion. Blocks and players within this radius will take large damage",
 		"translation": "Радиус взрыва",
-		"machine": true
 	},
 	{
 		"phrase": "Instant",
 		"comment": "When something happens instantly",
 		"translation": "Мгновенный",
-		"machine": true
 	},
 	{
 		"phrase": "{0} {1}",
 		"comment": "This is for a quantity of something, e.g. '5 Protons' or '1 Character token'. Parameter 0: any number, Parameter 1: any item",
 		"translation": "{0} {1}",
-		"machine": true
 	},
 	{
 		"phrase": "Not owned",
 		"comment": "This weapon skin is not owned",
-		"translation": "Не принадлежит",
-		"machine": true
+		"translation": "Не куплен",
 	},
 	{
 		"phrase": "Owned",
 		"comment": "This weapon skin is owned",
-		"translation": "Принадлежит",
-		"machine": true
+		"translation": "Есть",
 	},
 	{
 		"phrase": "Unlocked",
 		"comment": "This weapon skin is unlocked",
-		"translation": "разблокирован",
-		"machine": true
+		"translation": "Разблокирован",
 	},
 	{
 		"phrase": "Engineer Pack required",
 		"comment": "The player must own the Engineer Pack to equip this block skin",
-		"translation": "Требуется инженерный пакет",
-		"machine": true
+		"translation": "Требуется Набор Инженера",
 	},
 	{
 		"phrase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
 		"comment": "The whole alphabet, this is used for Breakthrough zones, i.e. 'Zone A', 'Zone B'. Please ensure there are 26 letters here",
-		"translation": "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЫЭЮЯ",
-		"machine": true
+		"translation": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
 	},
 	{
 		"phrase": "Unlock character",
 		"comment": "Click this button to unlock a humanoid character",
 		"translation": "Разблокировать персонажа",
-		"machine": true
 	},
 	{
 		"phrase": "Unlock skin",
 		"comment": "Click this button to unlock a skin for a weapon or character",
 		"translation": "Разблокировать скин",
-		"machine": true
 	},
 	{
 		"phrase": "Unlock helmet",
 		"comment": "Click this button to unlock a new helmet for your character",
 		"translation": "Разблокировать шлем",
-		"machine": true
 	},
 	{
 		"phrase": "Unlock melee",
 		"comment": "Click this button to unlock a knife or stabbing weapon",
-		"translation": "Разблокировать ближний бой",
-		"machine": true
+		"translation": "Разблокировать оружие ближнего боя",
 	},
 	{
 		"phrase": "Unlock pose",
 		"comment": "Click this button to unlock a character pose",
 		"translation": "Разблокировать позу",
-		"machine": true
 	},
 	{
 		"phrase": "Click to return to the battle",
