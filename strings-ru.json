@@ -3113,111 +3113,93 @@
 	{
 		"phrase": "{0} Zoom",
 		"comment": "Press a key to zoom in and out. Parameter 0: '[ SCROLL ]'",
-		"translation": "{0} Зум",
-		"machine": true
+		"translation": "{0} Приближение",
 	},
 	{
 		"phrase": "{0} Fine zoom control",
 		"comment": "Lets the player zoom in finer\/smaller increments. Parameter 0: '[ SHIFT ]'",
-		"translation": "{0} Точное управление зумом",
-		"machine": true
+		"translation": "{0} Точное управление приближением",
 	},
 	{
 		"phrase": "{0} Spawn near last death",
 		"comment": "Players can press a key to spawn near where they died. Parameter 0: '[ SPACE ]'",
-		"translation": "{0} Спаун рядом с последней смертью",
-		"machine": true
+		"translation": "{0} Возрождение рядом с последней смертью",
 	},
 	{
 		"phrase": "Right click to leave the cluster spawn",
 		"comment": "When a player joins a cluster spawn (multiple players spawning in the same location), they can leave it by right clicking",
-		"translation": "Щелкните правой кнопкой мыши, чтобы выйти из спавна кластера",
-		"machine": true
+		"translation": "Щелкните правой кнопкой мыши, чтобы выйти из кластерного возрождения",
 	},
 	{
 		"phrase": "Left click to respawn",
 		"comment": "The player can left click to respawn",
 		"translation": "Щелкните левой кнопкой мыши, чтобы возродиться",
-		"machine": true
 	},
 	{
 		"phrase": "Respawn in {0}s...",
 		"comment": "Respawn timer where 's' is an abbreviation for 'seconds'. Parameter 0: '8.3'",
-		"translation": "Возрождение в {0}s...",
-		"machine": true
+		"translation": "Возрождение через {0}s...",
 	},
 	{
 		"phrase": "Top player",
 		"context": "Best player",
 		"comment": "The best player on this team",
 		"translation": "Лучший игрок",
-		"machine": true
 	},
 	{
 		"phrase": "HY {0}",
 		"comment": "Mod power, i.e. 'HY 2' means the player has the level 2 Hydraulics armour modification equipped",
-		"translation": "HY {0}",
-		"machine": true
+		"translation": "ГИД {0}",
 	},
 	{
 		"phrase": "KI {0}",
 		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 KI armour modification equipped",
-		"translation": "КИ {0}",
-		"machine": true
+		"translation": "КИН {0}",
 	},
 	{
 		"phrase": "RE {0}",
 		"comment": "Mod power, i.e. 'RE 2' means the player has the level 2 RE armour modification equipped",
-		"translation": "RE {0}",
-		"machine": true
+		"translation": "РЕГ {0}",
 	},
 	{
 		"phrase": "SC {0}",
 		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 SC armour modification equipped",
-		"translation": "СК {0}",
-		"machine": true
+		"translation": "МАР {0}",
 	},
 	{
 		"phrase": "SP {0}",
 		"comment": "Mod power, i.e. 'SP 2' means the player has the level 2 SP armour modification equipped",
-		"translation": "СП {0}",
-		"machine": true
+		"translation": "СКОР {0}",
 	},
 	{
 		"phrase": "ST {0}",
 		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 ST armour modification equipped",
-		"translation": "СТ {0}",
-		"machine": true
+		"translation": "СКР {0}",
 	},
 	{
 		"phrase": "Modifications - [{0}]",
 		"comment": "Armour modifications. Parameter 0: '3'",
 		"translation": "Модификации - [{0}]",
-		"machine": true
 	},
 	{
 		"phrase": "Draw",
 		"comment": "The match was a draw\/stalemate",
-		"translation": "Рисовать",
-		"machine": true
+		"translation": "Ничья",
 	},
 	{
 		"phrase": "Victory",
 		"comment": "Your team won the match",
 		"translation": "Победа",
-		"machine": true
 	},
 	{
 		"phrase": "Defeat",
 		"comment": "Your team lost the match",
 		"translation": "Поражение",
-		"machine": true
 	},
 	{
 		"phrase": "Visible",
 		"comment": "Something can be seen, i.e. 'The ammo HUD is visible'",
 		"translation": "Видимый",
-		"machine": true
 	},
 	{
 		"phrase": "{0} started a votekick against {1} for the reason: '{2}'",
