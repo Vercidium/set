@@ -3009,61 +3009,51 @@
 		"phrase": "Click to return to the battle",
 		"comment": "If a player changes to the loadout screen mid-battle, this text shows on a button at the bottom of the screen, which lets them return to the battle",
 		"translation": "Нажмите, чтобы вернуться в бой",
-		"machine": true
 	},
 	{
 		"phrase": "Enabled",
 		"comment": "This setting is enabled \/ turned on",
 		"translation": "Включено",
-		"machine": true
 	},
 	{
 		"phrase": "Disabled",
 		"comment": "This setting is disabled \/ turned off",
-		"translation": "Неполноценный",
-		"machine": true
+		"translation": "Отключено",
 	},
 	{
 		"phrase": "Party: {0}",
 		"comment": "Party list header indicating how many people are in your party. Parameter 0: '3'",
-		"translation": "Партия: {0}",
-		"machine": true
+		"translation": "Отряд: {0}",
 	},
 	{
 		"phrase": "Online: {0}",
 		"comment": "Party list header indicating how many of your friends are online. Parameter 0: '7'",
 		"translation": "Онлайн: {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Remove from party",
 		"comment": "Remove this player from your party",
-		"translation": "Удалить из группы",
-		"machine": true
+		"translation": "Удалить из отряда",
 	},
 	{
 		"phrase": "Invite to party",
 		"comment": "Invite this player to your party",
-		"translation": "Пригласить на вечеринку",
-		"machine": true
+		"translation": "Пригласить в отряд",
 	},
 	{
 		"phrase": "Hue",
 		"comment": "The hue of a colour",
-		"translation": "оттенок",
-		"machine": true
+		"translation": "Тон",
 	},
 	{
 		"phrase": "Saturation",
 		"comment": "The saturation of a colour",
 		"translation": "Насыщенность",
-		"machine": true
 	},
 	{
 		"phrase": "Lightness",
 		"comment": "The lightness of a colour",
 		"translation": "Легкость",
-		"machine": true
 	},
 	{
 		"phrase": "Alpha",
