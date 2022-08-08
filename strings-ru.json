@@ -3058,20 +3058,17 @@
 	{
 		"phrase": "Alpha",
 		"comment": "The alpha\/transparency component of a colour",
-		"translation": "Альфа",
-		"machine": true
+		"translation": "Прозрачность",
 	},
 	{
 		"phrase": "Included",
 		"comment": "Checkbox setting i.e. 'empty servers are included in the list'",
-		"translation": "Включено",
-		"machine": true
+		"translation": "Включены",
 	},
 	{
 		"phrase": "Excluded",
 		"comment": "Checkbox setting, i.e. 'empty servers are excluded from the list'",
-		"translation": "Исключенный",
-		"machine": true
+		"translation": "Исключены",
 	},
 	{
 		"phrase": "{0} Power",
@@ -3081,14 +3078,12 @@
 	{
 		"phrase": "Unmute all enemies",
 		"comment": "Unmute all enemies in voice chat",
-		"translation": "Включить всех врагов",
-		"machine": true
+		"translation": "Не заглушать врагов",
 	},
 	{
 		"phrase": "Unmute all players",
 		"comment": "Unmute all players in voice chat",
-		"translation": "Включить звук всех игроков",
-		"machine": true
+		"translation": "Не заглушать всех игроков",
 	},
 	{
 		"phrase": "Return to battle [{0}]",
@@ -3098,26 +3093,22 @@
 	{
 		"phrase": "Unlock attachment",
 		"comment": "Click this button to unlock a weapon attachment",
-		"translation": "Разблокировать вложение",
-		"machine": true
+		"translation": "Разблокировать обвес",
 	},
 	{
 		"phrase": "Unlock sight",
 		"comment": "Click this button to unlock a sight\/scope for your weapon",
 		"translation": "Разблокировать прицел",
-		"machine": true
 	},
 	{
 		"phrase": "Unlock crosshair",
 		"comment": "Click this button to unlock a crosshair for your weapon sights",
-		"translation": "Разблокировать прицел",
-		"machine": true
+		"translation": "Разблокировать перекрестие",
 	},
 	{
 		"phrase": "{0} Move camera",
 		"comment": "Players can move the respawn camera that's looking down on the map by clicking and dragging. Parameter 0: '[ CLICK + DRAG ]'",
 		"translation": "{0} Переместить камеру",
-		"machine": true
 	},
 	{
 		"phrase": "{0} Zoom",
