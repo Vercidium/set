@@ -3204,62 +3204,53 @@
 	{
 		"phrase": "{0} started a votekick against {1} for the reason: '{2}'",
 		"comment": "Description for why player A is choosing to votekick player B. Parameter 0: 'Vhauss', parameter 1: 'Bouphen', parameter 2: 'I am jealous of him'",
-		"translation": "{0} начал голосование против {1} по причине: «{2}'",
-		"machine": true
+		"translation": "{0} начал хочет выгнать {1} по причине: «{2}'",
 	},
 	{
 		"phrase": "{0} yes votes",
 		"comment": "There are 8 yes votes for kicking this player, i.e. 8 players have voted to kick this player. Parameter 0: '8'",
-		"translation": "{0} да голоса",
+		"translation": "{0} за",
 		"machine": true
 	},
 	{
 		"phrase": "{0} no votes",
 		"comment": "There are 3 no votes for kicking this player, i.e. 3 players have voted to not kick this player. Parameter 0: '3'",
-		"translation": "{0} нет голосов",
-		"machine": true
+		"translation": "{0} против",
 	},
 	{
 		"phrase": "Vote yes: {0}",
 		"comment": "Keybind for voting to kick a player. Parameter 0: '[ F1 ]'",
 		"translation": "Голосовать за: {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Vote no: {0}",
 		"comment": "Keybind for voting to not kick a player. Parameter 0: '[ F2 ]'",
-		"translation": "Голосовать нет: {0}",
-		"machine": true
+		"translation": "Голосовать против: {0}",
 	},
 	{
 		"phrase": "Ignore: {0}",
 		"comment": "Keybind for ignoring a votekick. Parameter 0: '[ F3 ]'",
-		"translation": "Игнорировать: {0}",
-		"machine": true
+		"translation": "Не голосовать: {0}",
 	},
 	{
 		"phrase": "Category",
 		"comment": "Weapon skin category, i.e. camoflague, metallic, animated",
 		"translation": "Категория",
-		"machine": true
 	},
 	{
 		"phrase": "Damage over distance",
 		"comment": "Damage graph heading. This graph shows how projectile damage reduces over distance",
 		"translation": "Урон на расстоянии",
-		"machine": true
 	},
 	{
 		"phrase": "Recoil over time",
 		"comment": "Recoil graph heading. This graph shows how recoil increases over time while firing a weapon",
 		"translation": "Отдача с течением времени",
-		"machine": true
 	},
 	{
 		"phrase": "Scoping",
 		"comment": "Looking into a weapon scope",
-		"translation": "Обзор",
-		"machine": true
+		"translation": "Прицеливания",
 	},
 	{
 		"phrase": "Reload time",
@@ -3270,19 +3261,16 @@
 		"phrase": "Magazine size",
 		"comment": "How many bullets a magazine contains",
 		"translation": "Размер магазина",
-		"machine": true
 	},
 	{
 		"phrase": "Rate of fire",
 		"comment": "How many times a weapon fires per minute",
 		"translation": "Скорострельность",
-		"machine": true
 	},
 	{
 		"phrase": "Projectile spread",
 		"comment": "How much the projectile deviates from where the player is aiming",
 		"translation": "Разброс снарядов",
-		"machine": true
 	},
 	{
 		"phrase": "Body TTK",
@@ -3307,14 +3295,12 @@
 	{
 		"phrase": "Splash damage",
 		"comment": "The amount of area-of-effect damage a weapon deals",
-		"translation": "Всплеск урона",
-		"machine": true
+		"translation": "Урон по области",
 	},
 	{
 		"phrase": "Knockback strength",
 		"comment": "[Attachment Stat] How strongly players are pushed away by explosions",
 		"translation": "Сила отбрасывания",
-		"machine": true
 	},
 	{
 		"phrase": "Gather rate",
@@ -3324,7 +3310,7 @@
 	{
 		"phrase": "Dig distance",
 		"comment": "How far away the Midi can dig",
-		"translation": "Расстояние добычи"
+		"translation": "Расстояние копания"
 	},
 	{
 		"phrase": "Appearance",
@@ -3349,8 +3335,7 @@
 	{
 		"phrase": "Begin",
 		"comment": "Commence the match",
-		"translation": "Начинать",
-		"machine": true
+		"translation": "Начать",
 	},
 	{
 		"phrase": "Invincibility, infinite ammo, instant respawn",
@@ -3411,13 +3396,11 @@
 		"phrase": "Teams",
 		"comment": "2 Teams",
 		"translation": "Команды",
-		"machine": true
 	},
 	{
 		"phrase": "Commands",
 		"comment": "2 Commands",
 		"translation": "Команды",
-		"machine": true
 	},
 	{
 		"phrase": "Custom Lobby",
