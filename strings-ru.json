@@ -3415,8 +3415,7 @@
 	{
 		"phrase": "Info Style",
 		"comment": "The player's health\/ammo (info) can be displayed around the crosshair in a plus\/cross or as an arc",
-		"translation": "Информационный стиль",
-		"machine": true
+		"translation": "Вид отображения информации",
 	},
 	{
 		"phrase": "Crosshair Style",
@@ -3462,91 +3461,77 @@
 		"phrase": "Let us know how things are going. Anything you type here will be visible to the Sector's Edge moderators and dev team.",
 		"comment": "Poll instruction text",
 		"translation": "Оставьте свое впечатление об игре! Все, что вы наберете здесь, будет видно модераторам и команде разработчиков Sector's Edge.",
-		"machine": true
 	},
 	{
 		"phrase": "Your feedback has been successfully submitted",
 		"comment": "Poll instruction text",
 		"translation": "Ваш отзыв успешно отправлен",
-		"machine": true
 	},
 	{
 		"phrase": "Please type {0} more letters",
 		"comment": "The user needs to type at least 30 letters\/characters before they can submit the form. Parameter 0: '30'",
-		"translation": "Пожалуйста, введите {0} больше букв",
-		"machine": true
+		"translation": "Пожалуйста, введите еще {0} символов",
 	},
 	{
 		"phrase": "Join match",
 		"comment": "Join a friend's match",
-		"translation": "Присоединиться к матчу",
-		"machine": true
+		"translation": "Присоединиться к игре",
 	},
 	{
 		"phrase": "Invite to match",
 		"comment": "Invite a friend to join your match",
-		"translation": "Пригласить на матч",
-		"machine": true
+		"translation": "Пригласить в игру",
 	},
 	{
 		"phrase": "Send message",
 		"comment": "Send a message to a friend",
 		"translation": "Отправить сообщение",
-		"machine": true
 	},
 	{
 		"phrase": "Balance",
 		"context": "Funds",
 		"comment": "How much currency the player has",
-		"translation": "Остаток средств",
-		"machine": true
+		"translation": "Баланс",
 	},
 	{
 		"phrase": "Killfeed",
 		"comment": "The killfeed shows a history of players that have been killed",
 		"translation": "Киллфид",
-		"machine": true
 	},
 	{
 		"phrase": "Friends",
 		"comment": "2 Friends",
-		"translation": "Друзья",
-		"machine": true
+		"translation": "Друзей",
 	},
 	{
 		"phrase": "Quick play - {0}",
 		"comment": "Click here to quick play in Oceania. Parameter 0: Oceania",
 		"translation": "Быстрая игра - {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "Бусты",
-		"machine": true
 	},
 	{
 		"phrase": "Title",
 		"comment": "1 Title. Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
 		"translation": "Заголовок",
-		"machine": true
 	},
 	{
 		"phrase": "Showcase",
 		"comment": "A place for a player to showcase their achievements",
-		"translation": "Витрина",
-		"machine": true
+		"translation": "Витрина достижений",
 	},
 	{
 		"phrase": "Theme",
 		"comment": "The theme of the user interface",
 		"translation": "Тема",
-		"machine": true
 	},
 	{
 		"phrase": "Loadout name",
 		"comment": "The name of a loadout",
-		"translation": "Название экипировки"
+		"translation": "Название набора снаряжения"
 	},
 	{
 		"phrase": "Utility",
@@ -3561,7 +3546,7 @@
 	{
 		"phrase": "Slide duration",
 		"comment": "How long the player can slide for",
-		"translation": "Продолжительность подката"
+		"translation": "Продолжительность скольжения"
 	},
 	{
 		"phrase": "Regen speed",
@@ -3571,22 +3556,22 @@
 	{
 		"phrase": "Blocks per pickup",
 		"comment": "How many blocks the player collects from an enemy corpse",
-		"translation": "Блоков за сбор"
+		"translation": "Блоков за подбор"
 	},
 	{
 		"phrase": "Magazines per pickup",
 		"comment": "How many weapon magazines the player picks up from an enemy corpse",
-		"translation": "Магазинов за сбор"
+		"translation": "Магазинов за подбор"
 	},
 	{
 		"phrase": "Equipment per pickup",
 		"comment": "How many Scanners \/ C4 \/ Disruptors the player picks up from an enemy corpse",
-		"translation": "Оборудование за сбор"
+		"translation": "Оборудование за подбор"
 	},
 	{
 		"phrase": "Health per pickup",
 		"comment": "How much health the player regenerates when picking up ammo from an enemy corpse",
-		"translation": "Здоровье за сбор"
+		"translation": "Здоровье за подбор"
 	},
 	{
 		"phrase": "Footstep volume",
@@ -3602,13 +3587,11 @@
 		"phrase": "Textures",
 		"comment": "2 Textures",
 		"translation": "Текстуры",
-		"machine": true
 	},
 	{
 		"phrase": "Map controls",
 		"comment": "Settings that let players change the gamemode or control the time remaining in the match",
 		"translation": "Элементы управления картой",
-		"machine": true
 	},
 	{
 		"phrase": "Game Mode",
@@ -3619,31 +3602,26 @@
 		"phrase": "Time remaining",
 		"comment": "How much time is left\/remaining until the round finishes",
 		"translation": "Оставшееся время",
-		"machine": true
 	},
 	{
 		"phrase": "Spawn a meteor",
 		"comment": "Click this button to make a meteor fall from the sky",
-		"translation": "Породить метеор",
-		"machine": true
+		"translation": "Создать метеорит",
 	},
 	{
 		"phrase": "Test",
 		"comment": "Test the map",
-		"translation": "Тест",
-		"machine": true
+		"translation": "Тестировать",
 	},
 	{
 		"phrase": "Copy ID",
 		"comment": "Copy the numerical ID of the map",
 		"translation": "Копировать идентификатор",
-		"machine": true
 	},
 	{
 		"phrase": "Details",
 		"comment": "The fine details",
 		"translation": "Подробности",
-		"machine": true
 	},
 	{
 		"phrase": "Errors",
