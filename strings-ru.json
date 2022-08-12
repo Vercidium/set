@@ -3962,26 +3962,22 @@
 	{
 		"phrase": "Swapped",
 		"comment": "Swap two settings around",
-		"translation": "Поменял местами",
-		"machine": true
+		"translation": "Поменялись местами",
 	},
 	{
 		"phrase": "Recent",
 		"comment": "The most recent key that was pressed",
-		"translation": "Недавний",
-		"machine": true
+		"translation": "Последний",
 	},
 	{
 		"phrase": "Networking rate",
 		"comment": "How often the server sends data to the client, either 30 FPS or 60 FPS",
 		"translation": "Скорость сети",
-		"machine": true
 	},
 	{
 		"phrase": "Rotate structures",
 		"comment": "Setting that controls whether the player's structure automatically rotates as they look around",
-		"translation": "Поворот структур",
-		"machine": true
+		"translation": "Повернуть конструкцию",
 	},
 	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
