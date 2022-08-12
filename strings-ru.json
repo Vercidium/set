@@ -3636,98 +3636,82 @@
 	{
 		"phrase": "Upload log",
 		"comment": "A list of text messages that shows the progress of a map that's being uploaded to the workshop",
-		"translation": "Загрузить журнал",
-		"machine": true
+		"translation": "Загрузить логи",
 	},
 	{
 		"phrase": "Armour modifications",
 		"comment": "Enhancements players can apply to their armour to boost their speed, jump height, regeneration speed, etc",
 		"translation": "Модификации брони",
-		"machine": true
 	},
 	{
 		"phrase": "High",
 		"comment": "High quality graphics",
-		"translation": "Высокая",
-		"machine": true
+		"translation": "Высокое",
 	},
 	{
 		"phrase": "Low",
 		"comment": "Low quality graphics",
-		"translation": "Низкий",
-		"machine": true
+		"translation": "Низкое",
 	},
 	{
 		"phrase": "This server is password protected",
 		"comment": "The player must type in the correct password to enter this server",
 		"translation": "Этот сервер защищен паролем",
-		"machine": true
 	},
 	{
 		"phrase": "Connect",
 		"comment": "Server connect button",
-		"translation": "Соединять",
-		"machine": true
+		"translation": "Присоединиться",
 	},
 	{
 		"phrase": "{0} Pick up {1}",
 		"comment": "Prompt for the player to pick up a deployable item. Parameter 0: '[ E ]', Parameter 1: 'Disruptor', e.g. [ E ] Pick up Disruptor",
-		"translation": "{0} Забрать {1}",
-		"machine": true
+		"translation": "{0} Подобрать {1}",
 	},
 	{
 		"phrase": "Unequip",
 		"comment": "Weapon category name",
 		"translation": "Снять",
-		"machine": true
 	},
 	{
 		"phrase": "Level {0}",
 		"comment": "The player's level, which increases the more they play the game. Parameter 0: 50",
 		"translation": "Уровень {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Polls",
 		"comment": "A survey that players can fill out to provide feedback",
 		"translation": "Опросы",
-		"machine": true
 	},
 	{
 		"phrase": "Copy",
 		"comment": "Copy the value of this text field",
 		"translation": "Копировать",
-		"machine": true
 	},
 	{
 		"phrase": "Preset name",
 		"comment": "The name of a weapon preset. A weapon preset is a combination of weapon attachments that the player can save and re-use later",
-		"translation": "Предустановленное имя",
-		"machine": true
+		"translation": "Название",
 	},
 	{
 		"phrase": "Redeem Key",
 		"comment": "Players can redeem keys for in-game Protons and skins",
 		"translation": "Активировать ключ",
-		"machine": true
 	},
 	{
 		"phrase": "Enter your key below to redeem it for Protons, skins and more",
 		"comment": "Instruction text for redeeming keys",
-		"translation": "Введите свой ключ ниже, чтобы обменять его на протоны, скины и многое другое",
-		"machine": true
+		"translation": "Введите свой ключ ниже, чтобы обменять его на Протоны, скины и многое другое",
 	},
 	{
 		"phrase": "Your key has been successfully redeemed. You gained:",
 		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
-		"translation": "Ваш ключ успешно погашен. вы получили:",
-		"machine": true
+		"translation": "Ваш ключ успешно активирован. вы получили:",
 	},
 	{
 		"phrase": "The key does not exist",
 		"comment": "Failure message when failing to redeem a key",
-		"translation": "Ключ не существует",
-		"machine": true
+		"translation": "Неверный ключ",
 	},
 	{
 		"phrase": "Refresh server list",
@@ -3743,284 +3727,237 @@
 	{
 		"phrase": "Create loadout",
 		"comment": "Press this button to edit your loadouts",
-		"translation": "Создать снаряжение",
-		"machine": true
+		"translation": "Создать набор снаряжения",
 	},
 	{
 		"phrase": "Leave the cluster spawn to modify your loadouts",
 		"comment": "Respawn instructions, the player can't edit their loadouts while part of a cluster spawn",
-		"translation": "Оставьте спавн кластера, чтобы изменить свои загрузки",
-		"machine": true
+		"translation": "Выйдите из кластерного возрождения, чтобы изменить свои наборы снаряжения",
 	},
 	{
 		"phrase": "Scanned",
 		"comment": "The player is within range of a Scanner and can bee seen by enemies",
-		"translation": "Отсканировано",
-		"machine": true
+		"translation": "Вас сканируют",
 	},
 	{
 		"phrase": "Name",
 		"comment": "Column header on the server list",
-		"translation": "Имя",
-		"machine": true
+		"translation": "Название",
 	},
 	{
 		"phrase": "Other servers",
 		"comment": "A list of other servers that didn't match the player's search criteria",
-		"translation": "Другие серверы",
-		"machine": true
+		"translation": "Остальные серверы",
 	},
 	{
 		"phrase": "Game mode",
 		"comment": "Column header on the server list",
 		"translation": "Игровой режим",
-		"machine": true
 	},
 	{
 		"phrase": "Info",
 		"comment": "Column header on the server list",
 		"translation": "Информация",
-		"machine": true
 	},
 	{
 		"phrase": "Preferences",
 		"comment": "Server list preferences, i.e. don't show empty servers",
 		"translation": "Настройки",
-		"machine": true
 	},
 	{
 		"phrase": "Europe",
 		"comment": "Server region category",
 		"translation": "Европа",
-		"machine": true
 	},
 	{
 		"phrase": "Amsterdam",
 		"comment": "Server location",
 		"translation": "Амстердам",
-		"machine": true
 	},
 	{
 		"phrase": "Athens",
 		"comment": "Server location",
 		"translation": "Афины",
-		"machine": true
 	},
 	{
 		"phrase": "Frankfurt",
 		"comment": "Server location",
 		"translation": "Франкфурт",
-		"machine": true
 	},
 	{
 		"phrase": "Helsinki",
 		"comment": "Server location",
 		"translation": "Хельсинки",
-		"machine": true
 	},
 	{
 		"phrase": "London",
 		"comment": "Server location",
 		"translation": "Лондон",
-		"machine": true
 	},
 	{
 		"phrase": "Madrid",
 		"comment": "Server location",
 		"translation": "Мадрид",
-		"machine": true
 	},
 	{
 		"phrase": "Moscow",
 		"comment": "Server location",
 		"translation": "Москва",
-		"machine": true
 	},
 	{
 		"phrase": "Paris",
 		"comment": "Server location",
 		"translation": "Париж",
-		"machine": true
 	},
 	{
 		"phrase": "Stockholm",
 		"comment": "Server location",
 		"translation": "Стокгольм",
-		"machine": true
 	},
 	{
 		"phrase": "NA West",
 		"comment": "Server region category. NA = North America",
-		"translation": "Северная Америка запад",
-		"machine": true
+		"translation": "Западная Северная Америка",
 	},
 	{
 		"phrase": "Fremont",
 		"comment": "Server location",
 		"translation": "Фремонт",
-		"machine": true
 	},
 	{
 		"phrase": "Seattle",
 		"comment": "Server location",
 		"translation": "Сиэтл",
-		"machine": true
 	},
 	{
 		"phrase": "Silicon Valley",
 		"comment": "Server location",
 		"translation": "Кремниевая долина",
-		"machine": true
 	},
 	{
 		"phrase": "NA Central",
 		"comment": "Server region category. NA = North America",
 		"translation": "Центральная Северная Америка",
-		"machine": true
 	},
 	{
 		"phrase": "Chicago",
 		"comment": "Server location",
 		"translation": "Чикаго",
-		"machine": true
 	},
 	{
 		"phrase": "Dallas",
 		"comment": "Server location",
 		"translation": "Даллас",
-		"machine": true
 	},
 	{
 		"phrase": "Toronto",
 		"comment": "Server location",
 		"translation": "Торонто",
-		"machine": true
 	},
 	{
 		"phrase": "NA East",
 		"comment": "Server region category. NA = North America",
-		"translation": "Северная Америка восток",
-		"machine": true
+		"translation": "Восточная Северная Америка",
 	},
 	{
 		"phrase": "Atlanta",
 		"comment": "Server location",
 		"translation": "Атланта",
-		"machine": true
 	},
 	{
 		"phrase": "Miami",
 		"comment": "Server location",
 		"translation": "Майами",
-		"machine": true
 	},
 	{
 		"phrase": "Newark",
 		"comment": "Server location",
 		"translation": "Ньюарк",
-		"machine": true
 	},
 	{
 		"phrase": "Oceania",
 		"comment": "Server region category",
 		"translation": "Океания",
-		"machine": true
 	},
 	{
 		"phrase": "Mumbai",
 		"comment": "Server location",
 		"translation": "Мумбаи",
-		"machine": true
 	},
 	{
 		"phrase": "Seoul",
 		"comment": "Server location",
 		"translation": "Сеул",
-		"machine": true
 	},
 	{
 		"phrase": "Sydney",
 		"comment": "Server location",
 		"translation": "Сидней",
-		"machine": true
 	},
 	{
 		"phrase": "Tokyo",
 		"comment": "Server location",
 		"translation": "Токио",
-		"machine": true
 	},
 	{
 		"phrase": "Dubai",
 		"comment": "Server location",
 		"translation": "Дубай",
-		"machine": true
 	},
 	{
 		"phrase": "Johannesburg",
 		"comment": "Server location",
 		"translation": "Йоханнесбург",
-		"machine": true
 	},
 	{
 		"phrase": "São Paulo",
 		"comment": "Server location",
 		"translation": "Сан-Паулу",
-		"machine": true
 	},
 	{
 		"phrase": "Game modes",
 		"comment": "A list of game modes that the player can choose from. A game mode is a set of rules that controls how players kill Fora, e.g. Capture the flag, breakthrough, free for all",
 		"translation": "Режимы игры",
-		"machine": true
 	},
 	{
 		"phrase": "Free for all",
 		"comment": "A game mode where every player fights against every other player",
-		"translation": "Бесплатно для всех",
-		"machine": true
+		"translation": "Каждый сам за себя",
 	},
 	{
 		"phrase": "Filters",
 		"comment": "A settings that filters data",
 		"translation": "Фильтры",
-		"machine": true
 	},
 	{
 		"phrase": "Empty servers",
 		"comment": "A server with no players",
 		"translation": "Пустые серверы",
-		"machine": true
 	},
 	{
 		"phrase": "Manual",
 		"comment": "Perform this task manually",
-		"translation": "Руководство",
-		"machine": true
+		"translation": "Вручную",
 	},
 	{
 		"phrase": "Party only",
 		"comment": "Only display 3D markers that were placed by your party members",
-		"translation": "Только вечеринка",
-		"machine": true
+		"translation": "Только отряд",
 	},
 	{
 		"phrase": "Ship only",
 		"comment": "Only display damage numbers in the ship",
-		"translation": "Только доставка",
-		"machine": true
+		"translation": "Только корабль",
 	},
 	{
 		"phrase": "Quarter",
 		"comment": "One quarter (1\/4)",
 		"translation": "Четверть",
-		"machine": true
 	},
 	{
 		"phrase": "Half",
 		"comment": "One half (1\/2)",
 		"translation": "Половина",
-		"machine": true
 	},
 	{
 		"phrase": "Swapped",
