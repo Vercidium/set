@@ -3977,31 +3977,27 @@
 	{
 		"phrase": "Rotate structures",
 		"comment": "Setting that controls whether the player's structure automatically rotates as they look around",
-		"translation": "Повернуть конструкцию",
+		"translation": "Повернуть постройку",
 	},
 	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
 		"comment": "Description for the 'Skip Midi on swap' setting",
-		"translation": "Определяет, должен ли игрок переключиться на миди при прокрутке или нажатии последней привязки клавиш инструмента.",
-		"machine": true
+		"translation": "Определяет, должен ли игрок переключиться на КС при прокрутке колеса мыши или нажатии клавиши Последнего Инструмента.",
 	},
 	{
 		"phrase": "Single block digging",
 		"comment": "By default, players dig 3x3x3 chunks of blocks with left click. This setting makes players dig 1x1x1 blocks (single blocks) instead",
-		"translation": "Копание одного блока",
-		"machine": true
+		"translation": "Копать один блок",
 	},
 	{
 		"phrase": "Controls whether players left or right click to dig a single block",
 		"comment": "Description for the 'Single block digging' setting",
-		"translation": "Контролирует, щелкают ли игроки левой или правой кнопкой мыши, чтобы копать один блок",
-		"machine": true
+		"translation": "Определяет, какой кнопкой мыши игрок копает один блок",
 	},
 	{
 		"phrase": "Raw mouse input",
 		"comment": "This setting controls whether the game should use raw mouse input (directly talk to the mouse hardware) to control the player's aim",
-		"translation": "Необработанный ввод мыши",
-		"machine": true
+		"translation": "Прямое подключение мыши",
 	},
 	{
 		"phrase": "Controls whether the game should use raw mouse input to control the player's aim",
