@@ -4002,536 +4002,448 @@
 	{
 		"phrase": "Controls whether the game should use raw mouse input to control the player's aim",
 		"comment": "Description for the 'Raw mouse input' setting",
-		"translation": "Определяет, должна ли игра использовать необработанный ввод с помощью мыши для управления целью игрока.",
-		"machine": true
+		"translation": "Определяет, должна ли игра использовать необработанный сигнал мыши для управления камерой.",
 	},
 	{
 		"phrase": "Controls whether ironsights\/2X\/4X sensitivity is multiplied by look sensitivity",
 		"comment": "Description for the 'Sensitivity multiplies' setting",
-		"translation": "Определяет, умножается ли чувствительность железного прицела\/2x\/4x на чувствительность взгляда",
-		"machine": true
+		"translation": "Определяет, умножается ли чувствительность прицелов (мушка, 2X, 4X) на чувствительность камеры",
 	},
 	{
 		"phrase": "Invert y axis",
 		"comment": "Setting that inverts vertical mouse input",
-		"translation": "Инвертный Y-ось",
-		"machine": true
+		"translation": "Инвертировать ось Y",
 	},
 	{
 		"phrase": "Controls whether vertical mouse input should be inverted",
 		"comment": "Description for the 'Invert y axis' setting",
-		"translation": "Управляет инвертированием вертикального ввода мыши.",
-		"machine": true
+		"translation": "Инвертирует вертикальный сигнал мыши.",
 	},
 	{
 		"phrase": "Look sensitivity",
 		"comment": "[Setting] Controls the player's sensitivity when not scoped",
-		"translation": "Искать чувствительность",
-		"machine": true
+		"translation": "Чувствительность камеры",
 	},
 	{
 		"phrase": "Ironsights sensitivity",
 		"comment": "[Setting] Controls the player's sensitivity when scoping with ironsights",
-		"translation": "Чувствительность прицела",
-		"machine": true
+		"translation": "Чувствительность обычного прицела",
 	},
 	{
 		"phrase": "2X scope sensitivity",
 		"comment": "[Setting] Controls the player's sensitivity when scoping with a 2X scope",
-		"translation": "Двукратная чувствительность прицела",
-		"machine": true
+		"translation": "Чувствительность прицела 2X",
 	},
 	{
 		"phrase": "4X scope sensitivity",
 		"comment": "[Setting] Controls the player's sensitivity when scoping with a 4X scope",
-		"translation": "4-кратная чувствительность прицела",
-		"machine": true
+		"translation": "Чувствительность прицела 4X",
 	},
 	{
 		"phrase": "Camera sensitivity",
 		"comment": "[Setting] Controls the camera sensitivity when spectating a match",
-		"translation": "Чувствительность камеры",
-		"machine": true
+		"translation": "Чувствительность камеры наблюдателя",
 	},
 	{
 		"phrase": "Output device",
 		"comment": "Setting that controls which audio device the game will send its audio output to",
 		"translation": "Устройство вывода",
-		"machine": true
 	},
 	{
 		"phrase": "Raycasted audio FPS",
 		"comment": "Setting that controls how many times the audio thread updates per frame",
-		"translation": "Аудио с рейкастом FPS",
-		"machine": true
+		"translation": "Частота обновлений аудио с рейкастингом",
 	},
 	{
 		"phrase": "Controls how many times the audio thread updates per frame",
 		"comment": "Description for the 'Raycasted audio FPS' setting",
-		"translation": "Управляет тем, сколько раз аудиопоток обновляется за кадр.",
-		"machine": true
+		"translation": "Определяет, сколько раз аудиопоток обновляется за один кадр.",
 	},
 	{
 		"phrase": "Master volume",
 		"comment": "Setting that controls how loud all sounds are",
 		"translation": "Основная громкость",
-		"machine": true
 	},
 	{
 		"phrase": "Sound volume",
 		"comment": "Setting that controls how loud in-game sounds are, e.g gunshots and explosions",
-		"translation": "Громкость",
-		"machine": true
+		"translation": "Громкость звуков",
 	},
 	{
 		"phrase": "UI volume",
 		"comment": "Setting that controls how loud user interface sounds are, e.g. button clicks",
-		"translation": "Громкость пользовательского интерфейса",
-		"machine": true
+		"translation": "Громкость интерфейса",
 	},
 	{
 		"phrase": "Ambient volume",
 		"comment": "Setting that controls how loud ambient sounds are, e.g. wind and rain",
-		"translation": "Объем окружающей среды",
-		"machine": true
+		"translation": "Громкость окружения",
 	},
 	{
 		"phrase": "Music volume (in-game)",
 		"comment": "Setting that controls how loud the in-game underscoring music is",
 		"translation": "Громкость музыки (в игре)",
-		"machine": true
 	},
 	{
 		"phrase": "Music volume (menu)",
 		"comment": "Setting that controls how load the main menu music is",
 		"translation": "Громкость музыки (меню)",
-		"machine": true
 	},
 	{
 		"phrase": "Personal footsteps volume",
 		"comment": "Setting that controls how load your personal footsteps are",
-		"translation": "Громкость личных шагов",
-		"machine": true
+		"translation": "Громкость своих шагов",
 	},
 	{
 		"phrase": "Teammate footsteps volume",
 		"comment": "Setting that controls how load your teammate's footsteps are",
-		"translation": "Громкость шагов товарища по команде",
-		"machine": true
+		"translation": "Громкость шагов товарищей по команде",
 	},
 	{
 		"phrase": "Damage volume",
 		"comment": "Setting that controls how load the damage sound plays when you take damage",
-		"translation": "Объем урона",
-		"machine": true
+		"translation": "Громкость получения урона",
 	},
 	{
 		"phrase": "Voice chat volume",
 		"comment": "Setting that controls how load incoming proximity voice chat is",
 		"translation": "Громкость голосового чата",
-		"machine": true
 	},
 	{
 		"phrase": "Push to talk",
 		"comment": "Setting that controls whether the player must hold a key to talk in voice chat",
-		"translation": "Нажми чтобы говорить",
-		"machine": true
+		"translation": "Push to talk",
 	},
 	{
 		"phrase": "Only send voice chat while pressing the {0} keybind",
 		"comment": "Description for the 'Push to talk' setting. Parameter 0: '[ V ]'",
-		"translation": "Отправлять голосовой чат только при нажатии клавиши {0}",
-		"machine": true
+		"translation": "Включать голосовой чат только при нажатии клавиши {0}",
 	},
 	{
 		"phrase": "Mute enemies when dead",
 		"comment": "Setting that mutes enemies when you're dead",
-		"translation": "Заглушить врагов, когда они мертвы",
-		"machine": true
+		"translation": "Заглушить врагов во время смерти",
 	},
 	{
 		"phrase": "Enemies will be muted when you die so you can't hear them say mean things",
 		"comment": "Description for the 'Mute enemies when dead' setting",
 		"translation": "Когда вы умрете, враги будут заглушены, чтобы вы не слышали, как они говорят неприятные вещи.",
-		"machine": true
 	},
 	{
 		"phrase": "Max FPS",
 		"comment": "Setting that controls the maximum frames-per-second that the game should run at",
-		"translation": "Макс. кадр\/с",
-		"machine": true
+		"translation": "Макс. FPS",
 	},
 	{
 		"phrase": "Field of view",
 		"comment": "[Setting] Controls the player's field of view",
 		"translation": "Поле зрения",
-		"machine": true
 	},
 	{
 		"phrase": "Field of view (ADS)",
 		"comment": "[Setting] Controls the player's field of view when aiming down the sights (ADS) with ironsights or a red dot scope",
-		"translation": "Поле зрения (ADS)",
-		"machine": true
+		"translation": "Поле зрения (Прицел)",
 	},
 	{
 		"phrase": "VSync",
 		"comment": "Controls whether vertical sync is enabled. Vertical sync means the game will wait for the monitor to display the rendered frame before rendering the next",
-		"translation": "вертикальная синхронизация",
-		"machine": true
+		"translation": "Вертикальная Синхронизация",
 	},
 	{
 		"phrase": "X resolution",
 		"comment": "[Setting] Controls the custom horizontal screen resolution",
-		"translation": "X-разрешение",
-		"machine": true
+		"translation": "Горизонтальное разрешение",
 	},
 	{
 		"phrase": "Y resolution",
 		"comment": "[Setting] Controls the custom vertical screen resolution",
-		"translation": "Y-разрешение",
-		"machine": true
+		"translation": "Вертикальное разрешение",
 	},
 	{
 		"phrase": "Upscale quality",
 		"comment": "Setting that controls the quality of shaders that resize smaller images into larger images",
-		"translation": "Высококлассное качество",
-		"machine": true
+		"translation": "Качество апскейлинга",
 	},
 	{
 		"phrase": "High upscale quality will reduce pixelation when using a reduced custom game resolution",
 		"comment": "Description for the 'Upscale quality' setting",
-		"translation": "Высокое качество изображения уменьшит пикселизацию при использовании уменьшенного пользовательского разрешения игры.",
+		"translation": "Высокое качество апскейлинга уменьшит пикселизацию при использовании уменьшенного пользовательского разрешения экрана.",
 		"machine": true
 	},
 	{
 		"phrase": "Anti-aliasing",
 		"comment": "Setting that controls whether anti-aliasing is enabled, which reduces pixelation by smoothing the edges of objects",
 		"translation": "Сглаживание",
-		"machine": true
 	},
 	{
 		"phrase": "Anti-aliasing reduces pixelation by smoothing the edges of objects",
 		"comment": "Description for the 'Anti-aliasing' setting",
-		"translation": "Сглаживание уменьшает пикселизацию за счет сглаживания краев объектов.",
-		"machine": true
+		"translation": "Уменьшает пикселизацию за счет сглаживания краев объектов.",
 	},
 	{
 		"phrase": "Render distance",
 		"comment": "Setting that controls the cut-off distance for rendering distant objects, e.g. 'Render distance: 6 chunks'",
-		"translation": "Расстояние рендеринга",
-		"machine": true
+		"translation": "Дальность прорисовки",
 	},
 	{
 		"phrase": "Bloom strength",
 		"comment": "Setting that makes bright surfaces brighter",
-		"translation": "Сила цветения",
-		"machine": true
+		"translation": "Сила блума",
 	},
 	{
 		"phrase": "Bloom on sights",
 		"comment": "Setting that controls whether bloom should render on weapon sights",
-		"translation": "Блум на достопримечательностях",
-		"machine": true
+		"translation": "Блум на прицелах",
 	},
 	{
 		"phrase": "Crepuscular rays",
 		"comment": "Setting that controls whether crepuscular rays\/god rays\/light shafts are enabled",
 		"translation": "Сумеречные лучи",
-		"machine": true
 	},
 	{
 		"phrase": "Crepuscular rays are shafts of light that originate from a bright light source",
 		"comment": "Description for the 'Crepuscular rays' setting",
-		"translation": "Сумеречные лучи — это лучи света, исходящие от яркого источника света.",
-		"machine": true
+		"translation": "Сумеречные лучи — это видимые лучи света, исходящие от яркого источника.",
 	},
 	{
 		"phrase": "Particle amount",
 		"comment": "Setting that controls the percentage of particles that should be spawned",
 		"translation": "Количество частиц",
-		"machine": true
 	},
 	{
 		"phrase": "Shadow quality",
 		"comment": "Setting that controls the quality of shadows. Higher quality shadows are smoother and flicker less",
 		"translation": "Качество теней",
-		"machine": true
 	},
 	{
 		"phrase": "Reducing the quality of shadows will increase FPS but cause shadows to flicker",
 		"comment": "Description for the 'Shadow quality' setting",
 		"translation": "Уменьшение качества теней повысит FPS, но вызовет мерцание теней.",
-		"machine": true
 	},
 	{
 		"phrase": "Player shadows",
 		"comment": "Setting that controls whether players should cast shadows",
 		"translation": "Тени игрока",
-		"machine": true
 	},
 	{
 		"phrase": "Controls whether players cast shadows",
 		"comment": "Description for the 'Player shadows' setting",
 		"translation": "Определяет, отбрасывают ли игроки тени",
-		"machine": true
 	},
 	{
 		"phrase": "Entity shadows",
 		"comment": "Setting that controls whether entities (C4, Scanners, Disruptors) should cast shadows",
-		"translation": "Тени сущностей",
-		"machine": true
+		"translation": "Тени объектов",
 	},
 	{
 		"phrase": "Particle shadows",
 		"comment": "Setting that controls whether particles should cast shadows",
 		"translation": "Тени частиц",
-		"machine": true
 	},
 	{
 		"phrase": "Falling block shadows",
 		"comment": "Setting that controls whether falling blocks should cast shadows",
-		"translation": "Падающие блочные тени",
-		"machine": true
+		"translation": "Тени падающих блоков",
 	},
 	{
 		"phrase": "Animated block skins",
 		"comment": "Setting that controls whether animated block skins should be animated",
 		"translation": "Анимированные скины блоков",
-		"machine": true
 	},
 	{
 		"phrase": "Bare minimum",
 		"comment": "The bare minimum rendering pipeline skips all postprocessing and effects and runs the game as fast as possible",
-		"translation": "Минимум",
-		"machine": true
+		"translation": "Абсолютный минимум",
 	},
 	{
 		"phrase": "Log OpenGL Errors",
 		"comment": "Setting that controls whether OpenGL errors are logged to a file that the developer can analyse",
-		"translation": "Журнал ошибок openGL",
-		"machine": true
+		"translation": "Журнал ошибок OpenGL",
 	},
 	{
 		"phrase": "User interface",
 		"comment": "UI elements on the screen, buttons, checkboxes, sliders, headers, text, etc",
 		"translation": "Пользовательский интерфейс",
-		"machine": true
 	},
 	{
 		"phrase": "Controls whether the in-game HUD is rendered",
 		"comment": "Description for the 'Show HUD' setting",
 		"translation": "Определяет, отображается ли внутриигровой HUD.",
-		"machine": true
 	},
 	{
 		"phrase": "UI scale",
 		"comment": "Setting that controls the size of the user interface",
 		"translation": "Масштаб пользовательского интерфейса",
-		"machine": true
 	},
 	{
 		"phrase": "Streamer mode",
 		"comment": "Setting that replaces the player's name with a random name and hides the current lobby name",
 		"translation": "Режим стримера",
-		"machine": true
 	},
 	{
 		"phrase": "Profanity filter",
 		"comment": "Setting that replaces all swear words with delicious food",
 		"translation": "Фильтр ненормативной лексики",
-		"machine": true
 	},
 	{
 		"phrase": "3D ping display",
 		"comment": "Setting that controls whether only party member 3D pings should be displayed",
-		"translation": "3D-отображение пинга",
-		"machine": true
+		"translation": "3D-отображение отметок",
 	},
 	{
 		"phrase": "Player name distance",
 		"comment": "Setting that controls the render distance cutoff for friendly player names",
-		"translation": "Расстояние до имени игрока",
-		"machine": true
+		"translation": "Дальность прорисовки имен",
 	},
 	{
 		"phrase": "Controls the render distance cutoff for friendly player names",
 		"comment": "Description for the 'Player name distance' setting",
-		"translation": "Управляет отсечкой расстояния рендеринга для дружественных имён игроков.",
-		"machine": true
+		"translation": "Определяет, насколько далеко будут отображаться имена товарищей по команде.",
 	},
 	{
 		"phrase": "Entity icon distance",
 		"comment": "Setting that controls the render distance cutoff for entity icons (C4, scanner, etc)",
-		"translation": "Расстояние до значка объекта",
-		"machine": true
+		"translation": "Дальность прорисовки иконок объектов",
 	},
 	{
 		"phrase": "Controls the render distance cutoff for entity icons (C4, scanner, etc)",
 		"comment": "Description for the 'Entity icon distance' setting",
-		"translation": "Управляет отсечкой расстояния рендеринга для значков сущностей (c4, сканер и т. д.).)",
-		"machine": true
+		"translation": "Определяет, насколько далеко будут отображаться иконки объектов (C4, сканер и т.д.).",
 	},
 	{
 		"phrase": "Controls the size of friendly player names",
 		"comment": "Description for the 'Player name scale' setting",
-		"translation": "Управляет размером имен дружественных игроков",
-		"machine": true
+		"translation": "Управляет размером имен товарищей по команде",
 	},
 	{
 		"phrase": "Damage numbers",
 		"comment": "Setting that controls whether damage numbers should be shown. When enabled, numbers indicating the amount of damage you dealt to an enemy are shown next to the enemy",
-		"translation": "Номера повреждений",
-		"machine": true
+		"translation": "Цифры урона",
 	},
 	{
 		"phrase": "Controls whether damage numbers should render",
 		"comment": "Description for the 'Damage numbers' setting",
-		"translation": "Определяет, должны ли отображаться числа повреждений",
-		"machine": true
+		"translation": "Определяет, должны ли отображаться цифры урона",
 	},
 	{
 		"phrase": "Personal colour",
 		"comment": "Setting that controls the colour of personal UI elements",
 		"translation": "Персональный цвет",
-		"machine": true
 	},
 	{
 		"phrase": "Team colour",
 		"comment": "Setting that controls the colour of friendly UI elements",
 		"translation": "Цвет команды",
-		"machine": true
 	},
 	{
 		"phrase": "Party colour",
 		"comment": "Setting that controls the colour of party UI elements",
-		"translation": "Цвет вечеринки",
-		"machine": true
+		"translation": "Цвет отряда",
 	},
 	{
 		"phrase": "Enemy colour",
 		"comment": "Setting that controls the colour of enemy UI elements",
-		"translation": "Цвет врага",
-		"machine": true
+		"translation": "Цвет вражеской команды",
 	},
 	{
 		"phrase": "Noob colour",
 		"comment": "Setting that controls the colour of inexperienced enemy UI elements",
-		"translation": "Нуб цвет",
-		"machine": true
+		"translation": "Цвет нубов",
 	},
 	{
 		"phrase": "Neutral colour",
 		"comment": "Setting that controls the colour of neutral UI elements",
 		"translation": "Нейтральный цвет",
-		"machine": true
 	},
 	{
 		"phrase": "Show player outlines through walls",
 		"comment": "Setting that controls whether friendly player outlines should be visible through walls",
-		"translation": "Показывать очертания игрока сквозь стены",
-		"machine": true
+		"translation": "Показывать очертания игроков сквозь стены",
 	},
 	{
 		"phrase": "Controls whether party member's outlines should be a different colour",
 		"comment": "Description for the 'Party outline colour' setting",
-		"translation": "Определяет, должны ли контуры членов группы быть другого цвета.",
-		"machine": true
+		"translation": "Определяет, должны ли очертания членов отряда быть другого цвета.",
 	},
 	{
 		"phrase": "Show enemy outlines",
 		"comment": "Setting that controls whether outlines should render around enemies",
-		"translation": "Показать очертания врага",
-		"machine": true
+		"translation": "Показывать очертания врагов",
 	},
 	{
 		"phrase": "Controls whether outlines should render around enemies",
 		"comment": "Description for the 'Show enemy outlines' setting",
-		"translation": "Определяет, должны ли контуры отображаться вокруг врагов",
-		"machine": true
+		"translation": "Определяет, должны ли очертания отображаться вокруг врагов",
 	},
 	{
 		"phrase": "Fill",
 		"comment": "Fill a rectangle with a solid colour",
-		"translation": "Наполнять",
-		"machine": true
+		"translation": "Заливка",
 	},
 	{
 		"phrase": "Border",
 		"comment": "The border\/stroke\/outline\/edge of a rectangle",
 		"translation": "Граница",
-		"machine": true
 	},
 	{
 		"phrase": "Outside",
 		"comment": "The opposite of inside",
 		"translation": "Снаружи",
-		"machine": true
 	},
 	{
 		"phrase": "Overlap",
 		"comment": "Two objects overlapping each other",
 		"translation": "Перекрывать",
-		"machine": true
 	},
 	{
 		"phrase": "CW",
 		"comment": "Abbreviation for clockwise",
-		"translation": "CW",
-		"machine": true
+		"translation": "По ч.с.",
 	},
 	{
 		"phrase": "CCW",
 		"comment": "Abbreviation for counter-clockwise",
-		"translation": "против часовой стрелки",
-		"machine": true
+		"translation": "Против ч.с.",
 	},
 	{
 		"phrase": "Crosshair fill",
 		"comment": "Fill the crosshair circle with a solid colour",
-		"translation": "Заполнение перекрестия",
-		"machine": true
+		"translation": "Заливка перекрестия",
 	},
 	{
 		"phrase": "Crosshair radius",
 		"comment": "The radius of the crosshair circle",
 		"translation": "Радиус перекрестия",
-		"machine": true
 	},
 	{
 		"phrase": "Crosshair thickness",
 		"comment": "The thickness of the border of the crosshair circle",
 		"translation": "Толщина перекрестия",
-		"machine": true
 	},
 	{
 		"phrase": "Crosshair length",
 		"comment": "This refers to the length of each line in a plus-shaped crosshair",
 		"translation": "Длина перекрестия",
-		"machine": true
 	},
 	{
 		"phrase": "Crosshair width",
 		"comment": "This refers to the width of each line in a plus-shaped crosshair",
 		"translation": "Ширина перекрестия",
-		"machine": true
 	},
 	{
 		"phrase": "Crosshair colour",
 		"comment": "The colour of the crosshair on weapon sights",
 		"translation": "Цвет перекрестия",
-		"machine": true
 	},
 	{
 		"phrase": "Background thickness",
 		"comment": "The thickness of the dark transparent background behind the crosshair",
 		"translation": "Толщина фона",
-		"machine": true
 	},
 	{
 		"phrase": "Background colour",
 		"comment": "The colour of the background",
 		"translation": "Цвет фона",
-		"machine": true
 	},
 	{
 		"phrase": "Info background thickness",
