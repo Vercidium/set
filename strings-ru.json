@@ -4863,142 +4863,119 @@
 	{
 		"phrase": "Objective Time",
 		"comment": "How long a player spent contesting an objective",
-		"translation": "Объективное время",
-		"machine": true
+		"translation": "Общее время захвата",
 	},
 	{
 		"phrase": "Best Weapon",
 		"comment": "The weapon with the most kills",
 		"translation": "Лучшее оружие",
-		"machine": true
 	},
 	{
 		"phrase": "Best Mercenary",
 		"comment": "The player with the most points",
 		"translation": "Лучший наемник",
-		"machine": true
 	},
 	{
 		"phrase": "Friendlies",
 		"comment": "2 Friendlies",
-		"translation": "Товарищеские матчи",
-		"machine": true
+		"translation": "Союзники",
 	},
 	{
 		"phrase": "Enemies",
 		"comment": "2 Enemies",
 		"translation": "Враги",
-		"machine": true
 	},
 	{
 		"phrase": "The next game mode will be {0}",
 		"comment": "[Map Vote Sidebar] Parameter 0: 'Breakthrough'",
 		"translation": "Следующий игровой режим будет {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Vote for the next map",
 		"comment": "[Map Vote Sidebar] Header text above the list of game modes that the player can vote for",
 		"translation": "Проголосовать за следующую карту",
-		"machine": true
 	},
 	{
 		"phrase": "Vote for the next game mode",
 		"comment": "[Mode Vote Sidebar] Header text above the list of game modes that the player can vote for",
-		"translation": "Голосуйте за следующий игровой режим",
-		"machine": true
+		"translation": "Проголосовать за следующий игровой режим",
 	},
 	{
 		"phrase": "The next map will be {0}",
 		"comment": "[Map Vote Sidebar] Parameter 0: 'Canyon'",
 		"translation": "Следующая карта будет {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Space",
 		"context": "Space bar",
 		"comment": "The space bar on the keyboard",
-		"translation": "Пространство",
-		"machine": true
+		"translation": "Пробел",
 	},
 	{
 		"phrase": "Caps",
 		"context": "Caps lock",
 		"comment": "The caps lock key on the keyboard",
-		"translation": "Шапки",
-		"machine": true
+		"translation": "Caps lock",
 	},
 	{
 		"phrase": "Up arrow",
 		"comment": "The up arrow key on the keyboard",
 		"translation": "Стрелка вверх",
-		"machine": true
 	},
 	{
 		"phrase": "Down arrow",
 		"comment": "The down arrow key on the keyboard",
-		"translation": "Кнопка \"Стрелка вниз",
-		"machine": true
+		"translation": "Стрелка вниз",
 	},
 	{
 		"phrase": "Left arrow",
 		"comment": "The left arrow key on the keyboard",
 		"translation": "Стрелка влево",
-		"machine": true
 	},
 	{
 		"phrase": "Right arrow",
 		"comment": "The right arrow key on the keyboard",
-		"translation": "Правая стрелка",
-		"machine": true
+		"translation": "Стрелка вправо",
 	},
 	{
 		"phrase": "Syncing {0}",
 		"comment": "A player is syncing with the server. Parameter 0: '[1\/2]'",
 		"translation": "Синхронизация {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Cluster Fragment",
 		"comment": "This refers to the three smaller cluster projectiles that are created when the initial large cluster round detonates",
 		"translation": "Фрагмент кластера",
-		"machine": true
 	},
 	{
 		"phrase": "{0} Reactive",
 		"comment": "An Agaman-themed reactive block skin that ripples when shot. Parameter 0: 'Agaman'",
 		"translation": "{0} Реактивный",
-		"machine": true
 	},
 	{
 		"phrase": "Polygon",
 		"comment": "Camoflague pattern in the shape of shapes and polygons",
 		"translation": "Полигон",
-		"machine": true
 	},
 	{
 		"phrase": "Structure {0}",
 		"comment": "A structure is a group of blocks that a player can place. Parameter 0: '#1'",
-		"translation": "Структура {0}",
-		"machine": true
+		"translation": "Постройка {0}",
 	},
 	{
 		"phrase": "Only the lobby owner can run commands",
 		"comment": "This message appears when a player in a lobby attempts to run commands like \/kick",
 		"translation": "Только владелец лобби может выполнять команды",
-		"machine": true
 	},
 	{
 		"phrase": "This lobby is already claimed",
 		"comment": "This error message appears when you attempt to claim a lobby that someone else has already claimed",
 		"translation": "Это лобби уже занято",
-		"machine": true
 	},
 	{
 		"phrase": "This server will restart at the end of the round for maintenance",
 		"comment": "This message appears to let players know that the server will restart at the end of the round",
-		"translation": "Этот сервер будет перезапущен в конце раунда для обслуживания.",
-		"machine": true
+		"translation": "Этот сервер будет перезапущен в конце раунда для техобслуживания.",
 	},
 	{
 		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
