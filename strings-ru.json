@@ -4448,500 +4448,417 @@
 	{
 		"phrase": "Info background thickness",
 		"comment": "The thickness of the dark transparent background behind the ammo\/health info UI",
-		"translation": "Толщина информационного фона",
-		"machine": true
+		"translation": "Толщина фона информационной панели",
 	},
 	{
 		"phrase": "Info background colour",
 		"comment": "The colour of the dark transparent background behind the ammo\/health info UI around the crosshair",
-		"translation": "Цвет фона информации",
-		"machine": true
+		"translation": "Цвет фона информационной панели",
 	},
 	{
 		"phrase": "Left edge type",
 		"comment": "The player can show their ammo\/health around the crosshair. This setting controls what info (ammo or health or nothing) gets displayed on the left side of their crosshair",
-		"translation": "Тип левого края",
-		"machine": true
+		"translation": "Левая сторона. Тип",
 	},
 	{
 		"phrase": "Right edge type",
 		"comment": "Setting that controls what info gets displayed on the right side of their crosshair",
-		"translation": "Тип правого края",
-		"machine": true
+		"translation": "Правая сорона. Тип",
 	},
 	{
 		"phrase": "Top edge type",
 		"comment": "Setting that controls what info gets displayed on the top side of their crosshair",
-		"translation": "Тип верхней кромки",
-		"machine": true
+		"translation": "Верхняя сторона. Тип",
 	},
 	{
 		"phrase": "Bottom edge type",
 		"comment": "Setting that controls what info gets displayed on the bottom side of their crosshair",
-		"translation": "Тип нижней кромки",
-		"machine": true
+		"translation": "Нижняя сторона. Тип",
 	},
 	{
 		"phrase": "Edge overlap",
 		"comment": "Setting that controls whether the ammo\/health info around the edge of the crosshair should overlap the plus-shaped crosshair in the center of the screen",
-		"translation": "Перекрытие краев",
-		"machine": true
+		"translation": "Перекрытие перекрестия",
 	},
 	{
 		"phrase": "Info circle radius",
 		"comment": "Setting that controls the radius of the circle around the crosshair, which contains ammo\/health info",
-		"translation": "Радиус информационного круга",
-		"machine": true
+		"translation": "Радиус круга информации",
 	},
 	{
 		"phrase": "Info circle thickness",
 		"comment": "Setting that controls the thickness of the circle around the crosshair, which contains ammo\/health info",
-		"translation": "Информация о толщине окружности",
-		"machine": true
+		"translation": "Толщина круга информации",
 	},
 	{
 		"phrase": "Show ammo",
 		"comment": "Setting that controls whether the amount of ammo the player has should be displayed as an arc (partial circle) around the crosshair",
-		"translation": "Показать патроны",
-		"machine": true
+		"translation": "Показать счетчик боеприпасов",
 	},
 	{
 		"phrase": "Ammo direction",
 		"comment": "Setting that controls whether the ammo arc UI should increase clockwise or anticlockwise",
-		"translation": "направление боеприпасов",
-		"machine": true
+		"translation": "Направление счетчика боеприпасов",
 	},
 	{
 		"phrase": "Ammo size",
 		"comment": "Setting that controls the size\/scale of the ammo arc UI around the crosshair",
-		"translation": "Размер боеприпасов",
-		"machine": true
+		"translation": "Размер счетчика боеприпасов",
 	},
 	{
 		"phrase": "Ammo angle",
 		"comment": "Setting that controls the angle that the ammo arc UI should start, e.g. '60 degrees'",
-		"translation": "Угол боеприпасов",
-		"machine": true
+		"translation": "Угол счетчика боеприпасов",
 	},
 	{
 		"phrase": "Ammo colour",
 		"comment": "The colour of the ammo UI",
-		"translation": "Цвет патронов",
-		"machine": true
+		"translation": "Цвет счетчика боеприпасов",
 	},
 	{
 		"phrase": "Show blocks",
 		"comment": "Setting that controls whether the amount of blocks the player is holding should be displayed as an arc (partial circle) around the crosshair",
-		"translation": "Показать блоки",
-		"machine": true
+		"translation": "Показать счетчик блоков",
 	},
 	{
 		"phrase": "Blocks direction",
 		"comment": "Setting that controls whether the blocks arc UI should increase clockwise or anticlockwise",
-		"translation": "Направление блоков",
-		"machine": true
+		"translation": "Направление счетчика блоков",
 	},
 	{
 		"phrase": "Blocks size",
 		"comment": "Setting that controls the size\/scale of the blocks arc UI around the crosshair",
-		"translation": "Размер блоков",
-		"machine": true
+		"translation": "Размер счетчика блоков",
 	},
 	{
 		"phrase": "Blocks angle",
 		"comment": "Setting that controls the angle that the blocks arc UI should start, e.g. '60 degrees'",
-		"translation": "Блоки угол",
-		"machine": true
+		"translation": "Угол счетчика блоков",
 	},
 	{
 		"phrase": "Blocks colour",
 		"comment": "The colour of the blocks UI",
-		"translation": "Цвет блоков",
-		"machine": true
+		"translation": "Цвет счетчика блоков",
 	},
 	{
 		"phrase": "Show health",
 		"comment": "Setting that controls whether the player's health should be displayed as an arc (partial circle) around the crosshair",
-		"translation": "Показать здоровье",
-		"machine": true
+		"translation": "Показать счетчик здоровья",
 	},
 	{
 		"phrase": "Health direction",
 		"comment": "Setting that controls whether the health arc UI should increase clockwise or anticlockwise",
-		"translation": "Направление здоровья",
-		"machine": true
+		"translation": "Направление счетчика здоровья",
 	},
 	{
 		"phrase": "Health size",
 		"comment": "Setting that controls the size\/scale of the health arc UI around the crosshair",
-		"translation": "Размер здоровья",
-		"machine": true
+		"translation": "Размер счетчика здоровья",
 	},
 	{
 		"phrase": "Health angle",
 		"comment": "Setting that controls the angle that the health arc UI should start, e.g. '60 degrees'",
-		"translation": "Угол здоровья",
-		"machine": true
+		"translation": "Угол счетчика здоровья",
 	},
 	{
 		"phrase": "Health colour",
 		"comment": "The colour of the health UI",
-		"translation": "Цвет здоровья",
-		"machine": true
+		"translation": "Цвет счетчика здоровья",
 	},
 	{
 		"phrase": "Top",
 		"comment": "The top of the screen",
-		"translation": "верхний",
-		"machine": true
+		"translation": "Верх",
 	},
 	{
 		"phrase": "Bottom",
 		"comment": "The bottom of the screen",
-		"translation": "Нижний",
-		"machine": true
+		"translation": "Низ",
 	},
 	{
 		"phrase": "HUD",
 		"comment": "Heads-up-display, i.e. in-game UI like ammo, health, killfeed, minimap, chat",
 		"translation": "HUD",
-		"machine": true
 	},
 	{
 		"phrase": "Ammo HUD",
 		"comment": "Setting that controls whether the ammo HUD is visible",
-		"translation": "Боеприпасы HUD",
-		"machine": true
+		"translation": "HUD боеприпасов",
 	},
 	{
 		"phrase": "Mods HUD",
 		"comment": "Setting that controls whether the mods (armour modification) HUD is visible",
-		"translation": "HUD модов",
-		"machine": true
+		"translation": "HUD модификаций",
 	},
 	{
 		"phrase": "Chat HUD",
 		"comment": "Setting that controls whether the chat HUD is visible",
 		"translation": "HUD чата",
-		"machine": true
 	},
 	{
 		"phrase": "Killfeed HUD",
 		"comment": "Setting that controls whether the killfeed HUD is visible",
-		"translation": "Килфид HUD",
-		"machine": true
+		"translation": "HUD киллфида",
 	},
 	{
 		"phrase": "Minimap HUD",
 		"comment": "Setting that controls whether the minimap HUD is visible",
-		"translation": "HUD на миникарте",
-		"machine": true
+		"translation": "HUD миникарты",
 	},
 	{
 		"phrase": "Minimap zoom",
 		"comment": "Setting that controls how zoomed in the minimap is",
-		"translation": "Увеличение миникарты",
-		"machine": true
+		"translation": "Приближение миникарты",
 	},
 	{
 		"phrase": "Minimap icon size",
 		"comment": "Setting that controls the size\/scale of icons on the minimap",
-		"translation": "Размер значка миникарты",
-		"machine": true
+		"translation": "Размер иконок на миникарте",
 	},
 	{
 		"phrase": "Show yourself",
 		"comment": "Setting that controls whether you should be visible on the minimap",
-		"translation": "Покажи себя",
-		"machine": true
+		"translation": "Показать себя",
 	},
 	{
 		"phrase": "Show friendlies",
 		"comment": "Setting that controls whether friendlies should be visible on the minimap",
-		"translation": "Показать товарищеские матчи",
-		"machine": true
+		"translation": "Показывать союзников",
 	},
 	{
 		"phrase": "Show enemies",
 		"comment": "Setting that controls whether enemies should be visible on the minimap",
-		"translation": "Показать врагов",
-		"machine": true
+		"translation": "Показывать врагов",
 	},
 	{
 		"phrase": "Show dead players",
 		"comment": "Setting that controls whether dead players should be visible on the minimap",
-		"translation": "Показать мертвых игроков",
-		"machine": true
+		"translation": "Показывать мертвых игроков",
 	},
 	{
 		"phrase": "Show projectiles",
 		"comment": "Setting that controls whether projectiles should be visible on the minimap",
-		"translation": "Показать снаряды",
-		"machine": true
+		"translation": "Показывать снаряды",
 	},
 	{
 		"phrase": "Show scanners",
 		"comment": "Setting that controls whether scanners should be visible on the minimap",
-		"translation": "Показать сканеры",
-		"machine": true
+		"translation": "Показывать сканеры",
 	},
 	{
 		"phrase": "Show meteors",
 		"comment": "Setting that controls whether meteors should be visible on the minimap",
-		"translation": "Показать метеоры",
-		"machine": true
+		"translation": "Показывать метеоры",
 	},
 	{
 		"phrase": "Show C4",
 		"comment": "Setting that controls whether C4 should be visible on the minimap",
-		"translation": "Показать с4",
-		"machine": true
+		"translation": "Показывать с4",
 	},
 	{
 		"phrase": "Show disruptors",
 		"comment": "Setting that controls whether disruptors should be visible on the minimap",
-		"translation": "Показать разрушителей",
-		"machine": true
+		"translation": "Показывать мины-ловушки",
 	},
 	{
 		"phrase": "Show extractors",
 		"comment": "Setting that controls whether extractors should be visible on the minimap",
-		"translation": "Показать экстракторы",
-		"machine": true
+		"translation": "Показывать экстракторы",
 	},
 	{
 		"phrase": "Show reinforcers",
 		"comment": "Setting that controls whether extractors should be visible on the minimap",
-		"translation": "Показать подкрепление",
-		"machine": true
+		"translation": "Показывать усилители",
 	},
 	{
 		"phrase": "Show grenades",
 		"comment": "Setting that controls whether grenades should be visible on the minimap",
-		"translation": "Показать гранаты",
-		"machine": true
+		"translation": "Показывать гранаты",
 	},
 	{
 		"phrase": "Show flags",
 		"comment": "Setting that controls whether flags should be visible on the minimap",
-		"translation": "Показать флаги",
-		"machine": true
+		"translation": "Показывать флаги",
 	},
 	{
 		"phrase": "Show zones",
 		"comment": "Setting that controls whether zones should be visible on the minimap",
-		"translation": "Показать зоны",
-		"machine": true
+		"translation": "Показывать зоны",
 	},
 	{
 		"phrase": "Voice HUD",
 		"comment": "Setting that controls whether the voice HUD is visible",
-		"translation": "Голосовой интерфейс",
-		"machine": true
+		"translation": "HUD голоса",
 	},
 	{
 		"phrase": "Team Info",
 		"comment": "UI that shows the status\/info of each team",
 		"translation": "Информация о команде",
-		"machine": true
 	},
 	{
 		"phrase": "Match Time",
 		"comment": "UI that shows how much time is remaining in the current match\/battle",
 		"translation": "Время матча",
-		"machine": true
 	},
 	{
 		"phrase": "Keybinds",
 		"comment": "Binding an action to a keyboard key\/mouse button, e.g. binding sprint to shift and shoot to the left mouse button",
 		"translation": "Связки клавиш",
-		"machine": true
 	},
 	{
 		"phrase": "General",
 		"comment": "Generic, no category",
-		"translation": "Общий",
-		"machine": true
+		"translation": "Общие",
 	},
 	{
 		"phrase": "Pause on leave",
 		"comment": "Setting that pauses when the game window is no longer active",
-		"translation": "Пауза в отпуске",
-		"machine": true
+		"translation": "Пауза при свертывании окна",
 	},
 	{
 		"phrase": "Camera sway",
 		"comment": "Setting that controls whether the camera should sway left and right while sprinting",
-		"translation": "Качание камеры",
-		"machine": true
+		"translation": "Покачивание камеры",
 	},
 	{
 		"phrase": "Roly Poly Mode",
 		"comment": "Setting that makes the player's view spin",
 		"translation": "Роли-поли режим",
-		"machine": true
 	},
 	{
 		"phrase": "Enjoy your headache",
 		"comment": "Description for the 'Roly Poly Mode' setting",
 		"translation": "Наслаждайтесь головной болью",
-		"machine": true
 	},
 	{
 		"phrase": "Soltrium colour",
 		"comment": "The colour of Soltrium within the player's gun",
-		"translation": "Солтриум цвет",
-		"machine": true
+		"translation": "Цвет Солтриума",
 	},
 	{
 		"phrase": "Primary colour",
 		"comment": "The primary colour of the player's weapon skin",
 		"translation": "Основной цвет",
-		"machine": true
 	},
 	{
 		"phrase": "Secondary colour",
 		"comment": "The secondary colour of the player's weapon skin",
-		"translation": "Вторичный цвет",
-		"machine": true
+		"translation": "Дополнительный цвет",
 	},
 	{
 		"phrase": "Animation speed",
 		"comment": "The speed that the player's animated weapon skin animates",
 		"translation": "Скорость анимации",
-		"machine": true
 	},
 	{
 		"phrase": "Recipient",
 		"comment": "The recipient of a gift",
 		"translation": "Получатель",
-		"machine": true
 	},
 	{
 		"phrase": "Me",
 		"comment": "Me, myself and I",
-		"translation": "Мне",
-		"machine": true
+		"translation": "Я",
 	},
 	{
 		"phrase": "A friend",
 		"comment": "A friend who is cool and plays Sector's Edge",
 		"translation": "Друг",
-		"machine": true
 	},
 	{
 		"phrase": "Friend name",
 		"comment": "A word you can say to summon the presence of a person you like",
 		"translation": "Имя друга",
-		"machine": true
 	},
 	{
 		"phrase": "Creator code (optional)",
 		"comment": "A creator code is an alphanumeric code that can be used to give a content creator (Streamer, Youtuber, Influencer) a percentage of a sale",
-		"translation": "Код создателя (необязательно)",
-		"machine": true
+		"translation": "Код контент-мейкера (необязательно)",
 	},
 	{
 		"phrase": "Overview",
 		"comment": "An overview of what's in the Boost Pack",
 		"translation": "Обзор",
-		"machine": true
 	},
 	{
 		"phrase": "Contents",
 		"comment": "The contents of the Proton Pack",
 		"translation": "Содержание",
-		"machine": true
 	},
 	{
 		"phrase": "Price",
 		"comment": "The price of the Supporter Pack",
 		"translation": "Цена",
-		"machine": true
 	},
 	{
 		"phrase": "Reset",
 		"comment": "Reset a setting back to its default value",
-		"translation": "Перезагрузить",
-		"machine": true
+		"translation": "Сбросить",
 	},
 	{
 		"phrase": "Boost Pack",
 		"comment": "A store pack is a collection of items the player can purchase. A player can use a Boost to increase the amount of Peorona and XP they earn while playing",
-		"translation": "Буст-пакет",
-		"machine": true
+		"translation": "Буст-набор",
 	},
 	{
 		"phrase": "N\/A",
 		"comment": "[Abbreviation] Not applicable",
 		"translation": "Н\/Д",
-		"machine": true
 	},
 	{
 		"phrase": "Type",
 		"comment": "Column header on the server list",
 		"translation": "Тип",
-		"machine": true
 	},
 	{
 		"phrase": "Amount",
 		"comment": "Column header on the server list",
 		"translation": "Количество",
-		"machine": true
 	},
 	{
 		"phrase": "Date",
 		"comment": "Column header on the server list",
-		"translation": "Свидание",
-		"machine": true
+		"translation": "Дата",
 	},
 	{
 		"phrase": "Packs",
 		"comment": "Packs are groups of items that can be bought in the in-game store",
-		"translation": "Пакеты",
-		"machine": true
+		"translation": "Наборы",
 	},
 	{
 		"phrase": "Keys",
 		"comment": "Keys are codes (e.g. H4W15) that can be redeemed for Protons or Character Tokens",
 		"translation": "Ключи",
-		"machine": true
 	},
 	{
 		"phrase": "Showing {0} transactions",
 		"comment": "The amount of transactions being displayed. Parameter 0: '12 \/ 83'",
-		"translation": "Показаны транзакции {0}",
-		"machine": true
+		"translation": "Показано {0} транзакций",
 	},
 	{
 		"phrase": "Digging",
 		"comment": "Category tab on the Trials screen",
-		"translation": "копать",
-		"machine": true
+		"translation": "Копание",
 	},
 	{
 		"phrase": "Build + Dig",
 		"comment": "Category tab on the Trials screen",
-		"translation": "Строить + копать",
-		"machine": true
+		"translation": "Строительство + Копание",
 	},
 	{
 		"phrase": "Refresh Leaderboards",
 		"comment": "Refresh all of the time trial leaderboards by pressing this button",
 		"translation": "Обновить списки лидеров",
-		"machine": true
 	},
 	{
 		"phrase": "Exit",
 		"comment": "Exit stage right",
 		"translation": "Выход",
-		"machine": true
 	},
 	{
 		"phrase": "Tasks",
 		"comment": "Tasks that players can complete",
 		"translation": "Задачи",
-		"machine": true
 	},
 	{
 		"phrase": "Objective Time",
