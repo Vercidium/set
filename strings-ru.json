@@ -4975,219 +4975,184 @@
 	{
 		"phrase": "This server will restart at the end of the round for maintenance",
 		"comment": "This message appears to let players know that the server will restart at the end of the round",
-		"translation": "Этот сервер будет перезапущен в конце раунда для техобслуживания.",
+		"translation": "Этот сервер будет перезапущен в конце раунда для обслуживания.",
 	},
 	{
 		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
 		"comment": "This message appears to let players know that the server will update at the end of the round. Parameter 0: 'Version 1.6'",
-		"translation": "Этот сервер обновится до {0} в конце матча. вы ДОЛЖНЫ обновить свой клиент через Steam, чтобы воссоединиться с серверами",
-		"machine": true
+		"translation": "Этот сервер обновится до {0} в конце матча. Вам НУЖНО обновить свой клиент через Steam, чтобы снова присоединиться к серверу",
 	},
 	{
 		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
 		"comment": "This message appears to let players know that the server will update\/patch\/upgrade at the end of the round",
-		"translation": "Этот сервер быстро перезапустится в конце этого раунда. вы можете оставаться на этом сервере и вам НЕ нужно обновлять свой клиент",
-		"machine": true
+		"translation": "Этот сервер быстро перезапустится в конце этого раунда. Вы можете оставаться на этом сервере и вам НЕ нужно обновлять свой клиент",
 	},
 	{
 		"phrase": "This server will now restart for maintenance",
 		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Теперь этот сервер будет перезапущен для обслуживания",
-		"machine": true
+		"translation": "Этот сервер сейчас будет перезапущен для обслуживания",
 	},
 	{
 		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
 		"comment": "This message appears to let players know that the server will now update. Parameter 0: 'Version 1.6'",
-		"translation": "Теперь этот сервер будет обновлен до {0}. вы ДОЛЖНЫ обновить свой клиент через Steam, чтобы воссоединиться с серверами",
-		"machine": true
+		"translation": "Сейчас этот сервер будет обновлен до {0}. Вам НУЖНО обновить свой клиент через Steam, чтобы воссоединиться с серверами",
 	},
 	{
 		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
 		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Теперь этот сервер будет быстро перезагружен. вы можете оставаться на этом сервере и вам НЕ нужно обновлять свой клиент",
-		"machine": true
+		"translation": "Сейчас этот сервер будет быстро перезагружен. Вы можете оставаться на этом сервере и вам НЕ нужно обновлять свой клиент",
 	},
 	{
 		"phrase": "This map does not support the game mode {0}",
 		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Эта карта не поддерживает игровой режим {0}.",
-		"machine": true
 	},
 	{
 		"phrase": "{0} can be used to customise your character, weapons and more.",
 		"comment": "Boost pack description. Parameter 0: 'Protons'",
-		"translation": "{0} можно использовать для настройки вашего персонажа, оружия и многого другого..",
-		"machine": true
+		"translation": "{0} можно использовать для кастомизации вашего персонажа, оружия и многого другого.",
 	},
 	{
 		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by 3.0x.",
 		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Каждое усиление длится 1 час и увеличивает количество {0} и XP, которые вы зарабатываете, в 3,0 раза..",
-		"machine": true
+		"translation": "Каждый буст длится 1 час и увеличивает количество {0} и XP, которые вы зарабатываете, в 3,0 раза..",
 	},
 	{
 		"phrase": "Boosts can be earned from watching partnered {0} streams, or you can purchase them here if you would like to fast track.",
 		"comment": "Boost pack description. Parameter 0: 'Twitch'",
-		"translation": "Усиления можно заработать за просмотр партнерских трансляций {0}, или вы можете приобрести их здесь, если хотите ускорить процесс..",
-		"machine": true
+		"translation": "Бусты можно заработать за просмотр партнерских {0} трансляций, или вы можете приобрести их здесь, если хотите ускорить процесс.",
 	},
 	{
 		"phrase": "{0} Boost",
 		"comment": "A boost lets players earn XP faster. Parameter 0: '3.0x'",
-		"translation": "{0} Повышение",
-		"machine": true
+		"translation": "{0} Буст",
 	},
 	{
 		"phrase": "{0} Pack",
 		"comment": "A store pack is a collection of items the player can purchase. Parameter 0: 'Proton'",
-		"translation": "Пакет {0}",
-		"machine": true
+		"translation": "Набор {0}",
 	},
 	{
 		"phrase": "Allegiances reward mercenaries like yourself with {0}, the major currency accepted throughout the galaxy.",
 		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Приверженцы вознаграждают таких наемников, как вы, {0}, основной валютой, принятой по всей галактике..",
-		"machine": true
+		"translation": "{0} - основная валюта, принятая во всей галактике. Альянсы награждают ими таких наемников, как вы",
 	},
 	{
 		"phrase": "The Character Token in this pack can be used to unlock any character, including the Renegade.",
 		"comment": "Supporter pack description",
-		"translation": "Жетон персонажа в этом наборе можно использовать для разблокировки любого персонажа, включая ренегата..",
-		"machine": true
+		"translation": "Жетон Персонажа в этом наборе можно использовать для разблокировки любого персонажа, включая Ренегата.",
 	},
 	{
 		"phrase": "Armed with a fully augmented body, the {0} Engineer leaves the weapons facility and joins the war for {1}.",
 		"comment": "Parameter 0: 'Agaman', Parameter 1; 'Soltrium', which is the name of a race and element respectively",
-		"translation": "Вооружившись полностью аугментированным телом, инженер {0} покидает оружейный завод и присоединяется к войне за {1}..",
-		"machine": true
+		"translation": "Вооружив свое тело боевыми аугментациями, {0} инженер покидает оружейный завод и присоединяется к войне за {1}.",
 	},
 	{
 		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {1} modifications.",
 		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
-		"translation": "Продемонстрируйте свой строительный опыт с инженером и его модификациями {1} для вторичного рынка..",
-		"machine": true
+		"translation": "Продемонстрируйте свой строительный опыт с инженером и его нелегальными модификациями для {1}.",
 	},
 	{
 		"phrase": "{0} Engineer",
 		"comment": "Parameter 0: 'Agaman', which is the name of a race",
 		"translation": "{0} Инженер",
-		"machine": true
 	},
 	{
 		"phrase": "Retrying",
 		"comment": "Retrying an action that failed",
 		"translation": "Повторная попытка",
-		"machine": true
 	},
 	{
 		"phrase": "Waiting for the {0} Overlay",
 		"comment": "Waiting for the user to complete a transaction in the Steam Overlay. Parameter 0: 'Steam'",
 		"translation": "В ожидании оверлея {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Retrying in {0} {1}",
 		"comment": "Retrying an action in 10 seconds. Parameter 0: '10', parameter 1: 'seconds'",
-		"translation": "Повторная попытка в {0} {1}",
-		"machine": true
+		"translation": "Повторная попытка через {0} {1}",
 	},
 	{
 		"phrase": "Connection error",
 		"comment": "There is a problem with the connection to the server",
 		"translation": "Ошибка соединения",
-		"machine": true
 	},
 	{
 		"phrase": "This payment is processed through your {0} wallet. Please note that it is non-refundable",
 		"comment": "Disclaimer at the bottom of the store page.",
-		"translation": "Этот платеж обрабатывается через ваш кошелек {0}. обратите внимание, что он не подлежит возврату",
-		"machine": true
+		"translation": "Этот платеж обрабатывается через ваш кошелек {0}. Обратите внимание, что он не подлежит возврату",
 	},
 	{
 		"phrase": "Scale",
 		"context": "Size",
 		"comment": "The scale\/size of the player's weapon skin",
-		"translation": "Шкала",
-		"machine": true
+		"translation": "Масштаб",
 	},
 	{
 		"phrase": "Detailed",
 		"comment": "Comprehensive\/thorough",
 		"translation": "Подробный",
-		"machine": true
 	},
 	{
 		"phrase": "Uncapped",
 		"context": "Unlimited",
 		"comment": "This text is displayed on a setting that has no limit",
-		"translation": "без ограничений",
-		"machine": true
+		"translation": "Без ограничений",
 	},
 	{
 		"phrase": "Success",
 		"comment": "Steam error description",
 		"translation": "Успех",
-		"machine": true
 	},
 	{
 		"phrase": "The operation failed",
 		"comment": "Steam error description",
 		"translation": "Операция не удалась",
-		"machine": true
 	},
 	{
 		"phrase": "Invalid parameter",
 		"comment": "Steam error description",
 		"translation": "Неверный параметр",
-		"machine": true
 	},
 	{
 		"phrase": "User has not approved transaction",
 		"comment": "Steam error description",
 		"translation": "Пользователь не одобрил транзакцию",
-		"machine": true
 	},
 	{
 		"phrase": "Transaction has already been committed",
 		"comment": "Steam error description",
 		"translation": "Транзакция уже совершена",
-		"machine": true
 	},
 	{
 		"phrase": "User is not logged in",
 		"comment": "Steam error description",
-		"translation": "Пользователь не авторизован",
-		"machine": true
+		"translation": "Пользователь не авторизирован",
 	},
 	{
 		"phrase": "Currency does not match user's Steam Account currency",
 		"comment": "Steam error description",
 		"translation": "Валюта не соответствует валюте аккаунта Steam пользователя",
-		"machine": true
 	},
 	{
 		"phrase": "Account does not exist or is temporarily unavailable",
 		"comment": "Steam error description",
 		"translation": "Аккаунт не существует или временно недоступен",
-		"machine": true
 	},
 	{
 		"phrase": "Transaction has been denied by user",
 		"comment": "Steam error description",
 		"translation": "Транзакция отклонена пользователем",
-		"machine": true
 	},
 	{
 		"phrase": "Transaction has been denied because user is in a restricted country",
 		"comment": "Steam error description",
 		"translation": "Транзакция отклонена, поскольку пользователь находится в стране с ограниченным доступом",
-		"machine": true
 	},
 	{
 		"phrase": "Transaction has been denied because billing agreement is not active",
 		"comment": "Steam error description",
 		"translation": "Транзакция отклонена, так как соглашение о выставлении счетов неактивно",
-		"machine": true
 	},
 	{
 		"phrase": "Billing agreement cannot be processed because it is not type GAME",
