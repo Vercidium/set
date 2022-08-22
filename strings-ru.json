@@ -5158,79 +5158,66 @@
 		"phrase": "Billing agreement cannot be processed because it is not type GAME",
 		"comment": "Steam error description",
 		"translation": "Соглашение о выставлении счетов не может быть обработано, поскольку оно не относится к типу GAME.",
-		"machine": true
 	},
 	{
 		"phrase": "Billing agreement is on hold due to billing dispute or chargeback",
 		"comment": "Steam error description",
 		"translation": "Соглашение о выставлении счетов приостановлено из-за спора о выставлении счетов или отзыва платежа",
-		"machine": true
 	},
 	{
 		"phrase": "Billing agreement cannot be processed because it is not type STEAM",
 		"comment": "Steam error description",
 		"translation": "Соглашение о выставлении счетов не может быть обработано, поскольку оно не относится к типу STEAM.",
-		"machine": true
 	},
 	{
 		"phrase": "User already has a billing agreement for this game",
 		"comment": "Steam error description",
 		"translation": "У пользователя уже есть соглашение о выставлении счетов для этой игры.",
-		"machine": true
 	},
 	{
 		"phrase": "Insufficient funds",
 		"comment": "Steam error description",
 		"translation": "Недостаточно средств",
-		"machine": true
 	},
 	{
 		"phrase": "Time limit for finalization has been exceeded",
 		"comment": "Steam error description",
-		"translation": "Превышен лимит времени на доработку",
-		"machine": true
+		"translation": "Превышен лимит времени на завершение",
 	},
 	{
 		"phrase": "Account is disabled",
 		"comment": "Steam error description",
 		"translation": "Аккаунт отключен",
-		"machine": true
 	},
 	{
 		"phrase": "Account is not allowed to purchase",
 		"comment": "Steam error description",
 		"translation": "Аккаунт не позволяет покупать",
-		"machine": true
 	},
 	{
 		"phrase": "Transaction denied due to fraud detection",
 		"comment": "Steam error description",
 		"translation": "Транзакция отклонена из-за обнаружения мошенничества",
-		"machine": true
 	},
 	{
 		"phrase": "No cached payment method",
 		"comment": "Steam error description",
 		"translation": "Нет кешированного способа оплаты",
-		"machine": true
 	},
 	{
 		"phrase": "Transaction would exceed the spending limit of the billing agreement",
 		"comment": "Steam error description",
 		"translation": "Транзакция превысит лимит расходов, установленный соглашением о выставлении счетов.",
-		"machine": true
 	},
 	{
 		"phrase": "Shooting range: {0}",
 		"comment": "The shooting range is a place where the player can shoot moving targets. Parameter 0: 'Assault Rifle'",
 		"translation": "Дальность стрельбы: {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Kills: {0}, Deaths: {1}",
 		"comment": "How many kills and deaths the player has. Parameter 0: '12', Parameter 1: '7'",
 		"translation": "Убийств: {0}, смертей: {1}",
-		"machine": true
 	},
 	{
 		"phrase": "Block",
@@ -5241,145 +5228,121 @@
 		"phrase": "Minute",
 		"comment": "1 Minute, i.e. measurement of time",
 		"translation": "Минута",
-		"machine": true
 	},
 	{
 		"phrase": "Minutes",
 		"comment": "2 Minutes",
-		"translation": "Минуты",
-		"machine": true
+		"translation": "Минут",
 	},
 	{
 		"phrase": "Hour",
 		"comment": "1 Hour",
 		"translation": "Час",
-		"machine": true
 	},
 	{
 		"phrase": "Hours",
 		"comment": "2 Hours",
-		"translation": "Часы",
-		"machine": true
+		"translation": "Часов",
 	},
 	{
 		"phrase": "Day",
 		"comment": "1 Day",
 		"translation": "День",
-		"machine": true
 	},
 	{
 		"phrase": "Days",
 		"comment": "2 Days",
-		"translation": "Дни",
-		"machine": true
+		"translation": "Дней",
 	},
 	{
 		"phrase": "Week",
 		"comment": "1 Week",
 		"translation": "Неделя",
-		"machine": true
 	},
 	{
 		"phrase": "Weeks",
 		"comment": "2 Weeks",
-		"translation": "Недели",
-		"machine": true
+		"translation": "Недель",
 	},
 	{
 		"phrase": "Month",
 		"comment": "1 Month",
 		"translation": "Месяц",
-		"machine": true
 	},
 	{
 		"phrase": "Months",
 		"comment": "2 Months",
-		"translation": "Месяцы",
-		"machine": true
+		"translation": "Месяцев",
 	},
 	{
 		"phrase": "Year",
 		"comment": "1 Year",
 		"translation": "Год",
-		"machine": true
 	},
 	{
 		"phrase": "Years",
 		"comment": "2 Years",
-		"translation": "Годы",
-		"machine": true
+		"translation": "Лет",
 	},
 	{
 		"phrase": "Waypoint",
 		"comment": "1 Waypoint, i.e. a path that consists of multiple points",
-		"translation": "путевая точка",
-		"machine": true
+		"translation": "Путевая точка",
 	},
 	{
 		"phrase": "Slot",
 		"comment": "1 Slot, i.e. an equipment slot",
 		"translation": "Слот",
-		"machine": true
 	},
 	{
 		"phrase": "Slots",
 		"comment": "2 Slots",
 		"translation": "Слоты",
-		"machine": true
 	},
 	{
 		"phrase": "Pellet",
 		"comment": "1 Pellet, i.e. a tiny metal ball propelled by a shotgun blast",
-		"translation": "Пеллет",
-		"machine": true
+		"translation": "Дробинка",
 	},
 	{
 		"phrase": "Pellets",
 		"comment": "2 Pellets",
-		"translation": "Пеллеты",
-		"machine": true
+		"translation": "Дробинок",
 	},
 	{
 		"phrase": "Delivery",
 		"comment": "1 Deliveris. A delivery here refers to delivering a bomb to a location in the Escort gamemode",
 		"translation": "Доставка",
-		"machine": true
 	},
 	{
 		"phrase": "Deliveries",
 		"comment": "2 Deliveries",
-		"translation": "Доставка",
-		"machine": true
+		"translation": "Доставки",
 	},
 	{
 		"phrase": "Spot assists",
 		"comment": "2 Spot assists",
-		"translation": "Точечные передачи",
-		"machine": true
+		"translation": "Помощи обнаружением",
 	},
 	{
 		"phrase": "Scanner assists",
 		"comment": "2 Scanner assists",
-		"translation": "Сканер помогает",
-		"machine": true
+		"translation": "Помощи сканером",
 	},
 	{
 		"phrase": "Saves",
 		"comment": "2 Saves",
-		"translation": "Сохраняет",
-		"machine": true
+		"translation": "Спасений",
 	},
 	{
 		"phrase": "Avenge",
 		"comment": "1 Avenge, i.e. when you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate",
-		"translation": "Отомстить",
-		"machine": true
+		"translation": "Отомщение",
 	},
 	{
 		"phrase": "Avenges",
 		"comment": "2 Avenges",
-		"translation": "Мстители",
-		"machine": true
+		"translation": "Отомщений",
 	},
 	{
 		"phrase": "Lights",
