@@ -26,7 +26,7 @@
 	},
 	{
 		"phrase": "Headshot",
-		"comment": "Shooting another player in the head",
+		"comment": "1 headshot. The amount of times a player was shot in the head",
 		"translation": "Попадание в голову"
 	},
 	{
@@ -1400,11 +1400,6 @@
 		"translation": "Переключить список убийств"
 	},
 	{
-		"phrase": "Toggle Names",
-		"comment": "[Keybind]",
-		"translation": "Переключить имена"
-	},
-	{
 		"phrase": "Toggle Info Overlay",
 		"comment": "[Keybind]",
 		"translation": "Переключить наложение информации",
@@ -1625,26 +1620,6 @@
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
 		"translation": "мс"
-	},
-	{
-		"phrase": "Bronze medal",
-		"comment": "A bronze medal",
-		"translation": "Бронзовая медаль"
-	},
-	{
-		"phrase": "Silver medal",
-		"comment": "A silver medal",
-		"translation": "Серебряная медаль"
-	},
-	{
-		"phrase": "Gold medal",
-		"comment": "A gold medal",
-		"translation": "Золотая медаль"
-	},
-	{
-		"phrase": "Platinum medal",
-		"comment": "A platinum medal",
-		"translation": "Платиновая медаль"
 	},
 	{
 		"phrase": "Kick",
@@ -3853,12 +3828,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Quick play - {0}",
-		"comment": "Click here to quick play in Oceania. Parameter 0: Oceania",
-		"translation": "Быстрая игра - {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "Бусты",
@@ -5688,12 +5657,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {1} modifications.",
-		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
-		"translation": "Продемонстрируйте свой строительный опыт с инженером и его модификациями {1} для вторичного рынка..",
-		"machine": true
-	},
-	{
 		"phrase": "{0} Engineer",
 		"comment": "Parameter 0: 'Agaman', which is the name of a race",
 		"translation": "{0} Инженер",
@@ -5751,7 +5714,7 @@
 	},
 	{
 		"phrase": "Success",
-		"comment": "Steam error description",
+		"comment": "This message appears when a command runs successfully",
 		"translation": "Успех",
 		"machine": true
 	},
@@ -6074,7 +6037,7 @@
 	},
 	{
 		"phrase": "Degree",
-		"comment": "1 Degree. The mathematical unit used to measure angles.",
+		"comment": "1 Degree. The mathematical unit used to measure angles",
 		"translation": "Степень",
 		"machine": true
 	},
@@ -6086,7 +6049,7 @@
 	},
 	{
 		"phrase": "Use",
-		"comment": "1 Use. The amount of times an object was used.",
+		"comment": "1 Use. The amount of times an object was used",
 		"translation": "Использовать",
 		"machine": true
 	},
@@ -6098,7 +6061,7 @@
 	},
 	{
 		"phrase": "Shot",
-		"comment": "1 Shot. The amount of times a gun was fired.",
+		"comment": "1 Shot. The amount of times a gun was fired",
 		"translation": "Выстрелил",
 		"machine": true
 	},
@@ -6110,7 +6073,7 @@
 	},
 	{
 		"phrase": "Swing",
-		"comment": "1 Swing. The amount of times a player used their melee.",
+		"comment": "1 Swing. The amount of times a player used their melee",
 		"translation": "Качать",
 		"machine": true
 	},
@@ -7965,6 +7928,282 @@
 		"phrase": "{0} damage modifier set to {1}",
 		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
 		"translation": "Модификатор урона {0} установлен на {1}.",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is used in {1} {2}. Click confirm to delete it",
+		"comment": "This confirmation text appears when deleting a preset that's still used in a loadout. Parameter 0: 'Heavy SMG', parameter 1: '3', parameter 2: 'Loadouts (or alternate plural version)",
+		"translation": "{0} используется в {1} {2}. Нажмите «Подтвердить», чтобы удалить его.",
+		"machine": true
+	},
+	{
+		"phrase": "Confirm Delete",
+		"comment": "Confirm you want to delete this weapon preset",
+		"translation": "Подтвердите удаление",
+		"machine": true
+	},
+	{
+		"phrase": "Aiming",
+		"comment": "Aiming with a gun",
+		"translation": "Прицеливание",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Player Names",
+		"comment": "[Keybind]",
+		"translation": "Переключить имена игроков",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Enemy Names (Trailer Mode)",
+		"comment": "Press this keybind to toggle whether enemy names are displayed (only works in Trailer Mode)",
+		"translation": "Переключить имена врагов (режим трейлера)",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
+		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
+		"translation": "Продемонстрируйте свой строительный опыт с инженером и его модификациями {0} для вторичного рынка..",
+		"machine": true
+	},
+	{
+		"phrase": "Hue Shift",
+		"comment": "An offset applied to the hue component of a colour, e.g. 'hue shifted from red to yellow'",
+		"translation": "Сдвиг оттенка",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze {0}",
+		"comment": "A bronze medal",
+		"translation": "Бронза {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Silver {0}",
+		"comment": "A silver medal",
+		"translation": "Серебряный {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Gold {0}",
+		"comment": "A gold medal",
+		"translation": "Золото {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum {0}",
+		"comment": "A platinum medal",
+		"translation": "Платина {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Teamplay",
+		"comment": "Working together as a team",
+		"translation": "Командная игра",
+		"machine": true
+	},
+	{
+		"phrase": "Distance travelled",
+		"comment": "How far you've travelled",
+		"translation": "Пройденное расстояние",
+		"machine": true
+	},
+	{
+		"phrase": "Killed by",
+		"comment": "How many times you have been killed by a weapon, e.g. 'Killed by SMG: 34'",
+		"translation": "Убит",
+		"machine": true
+	},
+	{
+		"phrase": "Destroyed",
+		"comment": "The player was destroyed by deWolf",
+		"translation": "Разрушен",
+		"machine": true
+	},
+	{
+		"phrase": "Fortifying {0} created",
+		"comment": "How many blocks the player has placed to fortify a zone. Parameter 0 is either 'block' or 'blocks'",
+		"translation": "Укрепление {0} создано",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} detonated",
+		"comment": "How many Soltrium canisters the player has detonated. Parameter 0 is 'Soltrium'. Parameter 1 is either 'canister' or 'canisters'",
+		"translation": "{0} {1} взорван",
+		"machine": true
+	},
+	{
+		"phrase": "Time aiming",
+		"comment": "How long the player spent aiming",
+		"translation": "Время прицеливания",
+		"machine": true
+	},
+	{
+		"phrase": "Time in air",
+		"comment": "How long the player spent in the air",
+		"translation": "Время в воздухе",
+		"machine": true
+	},
+	{
+		"phrase": "Time strafing",
+		"comment": "How long the player spent strafing",
+		"translation": "Стрельба по времени",
+		"machine": true
+	},
+	{
+		"phrase": "Time sprinting",
+		"comment": "How long the player spent sprinting",
+		"translation": "Бег на время",
+		"machine": true
+	},
+	{
+		"phrase": "Time sliding",
+		"comment": "How long the player spent sliding",
+		"translation": "Скользящее время",
+		"machine": true
+	},
+	{
+		"phrase": "Time crouching",
+		"comment": "How long the player spent crouching",
+		"translation": "Время приседает",
+		"machine": true
+	},
+	{
+		"phrase": "Time swimming",
+		"comment": "How long the player spent swimming",
+		"translation": "Время плавания",
+		"machine": true
+	},
+	{
+		"phrase": "Neutral time",
+		"comment": "How long the player spent outside a zone",
+		"translation": "Нейтральное время",
+		"machine": true
+	},
+	{
+		"phrase": "Defensive time",
+		"comment": "How long the player spent defending a zone",
+		"translation": "Время защиты",
+		"machine": true
+	},
+	{
+		"phrase": "Offensive time",
+		"comment": "How long the player spent attacking a zone",
+		"translation": "Время наступления",
+		"machine": true
+	},
+	{
+		"phrase": "Playtime",
+		"comment": "How long the player spent playing the game",
+		"translation": "Время воспроизведения",
+		"machine": true
+	},
+	{
+		"phrase": "Defensive",
+		"comment": "The player was defensive",
+		"translation": "Оборонительный",
+		"machine": true
+	},
+	{
+		"phrase": "Offensive",
+		"comment": "The player was offensive",
+		"translation": "Оскорбительный",
+		"machine": true
+	},
+	{
+		"phrase": "Neutral",
+		"comment": "The player was neutral",
+		"translation": "Нейтральный",
+		"machine": true
+	},
+	{
+		"phrase": "Trial",
+		"comment": "A time trial, e.g. 'The Building 2 Trial'",
+		"translation": "Испытание",
+		"machine": true
+	},
+	{
+		"phrase": "Particle delay",
+		"comment": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+		"translation": "Задержка частиц",
+		"machine": true
+	},
+	{
+		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+		"comment": "Description for the 'Particle Delay' settings",
+		"translation": "Расширенный параметр рендеринга, который определяет, сколько кадров может отставать движок частиц.",
+		"machine": true
+	},
+	{
+		"phrase": "Show icons when ADS",
+		"comment": "Setting that controls whether icons and player names should display when aiming down the sights",
+		"translation": "Показывать значки, когда реклама",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether icons and player names should display when aiming down the sights",
+		"comment": "Description for the 'Show icons when ADS' setting",
+		"translation": "Определяет, должны ли отображаться значки и имена игроков при прицеливании.",
+		"machine": true
+	},
+	{
+		"phrase": "Failed",
+		"comment": "This error message appears when a command failed to run",
+		"translation": "Не удалось",
+		"machine": true
+	},
+	{
+		"phrase": "Headshots",
+		"comment": "2 headshots",
+		"translation": "Выстрелы в голову",
+		"machine": true
+	},
+	{
+		"phrase": "Frame",
+		"comment": "1 Frame, i.e. 1 frame per second",
+		"translation": "Рамка",
+		"machine": true
+	},
+	{
+		"phrase": "Frames",
+		"comment": "2 Frames, i.e. 2 frames per second",
+		"translation": "Рамки",
+		"machine": true
+	},
+	{
+		"phrase": "Medal",
+		"comment": "1 bronze medal",
+		"translation": "Медаль",
+		"machine": true
+	},
+	{
+		"phrase": "Medals",
+		"comment": "2 bronze medals",
+		"translation": "Медали",
+		"machine": true
+	},
+	{
+		"phrase": "Match won",
+		"comment": "1 match won",
+		"translation": "Выигранный матч",
+		"machine": true
+	},
+	{
+		"phrase": "Matches won",
+		"comment": "2 matches won",
+		"translation": "Выигранные матчи",
+		"machine": true
+	},
+	{
+		"phrase": "Match lost",
+		"comment": "1 match lost",
+		"translation": "Матч проигран",
+		"machine": true
+	},
+	{
+		"phrase": "Matches lost",
+		"comment": "2 matches lost",
+		"translation": "Проигранные матчи",
 		"machine": true
 	}
 ]

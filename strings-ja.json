@@ -31,7 +31,7 @@
 	},
 	{
 		"phrase": "Headshot",
-		"comment": "Shooting another player in the head",
+		"comment": "1 headshot. The amount of times a player was shot in the head",
 		"translation": "ヘッド・ショット",
 		"machine": true
 	},
@@ -1632,12 +1632,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Toggle Names",
-		"comment": "[Keybind]",
-		"translation": "名前を切り替える",
-		"machine": true
-	},
-	{
 		"phrase": "Toggle Info Overlay",
 		"comment": "[Keybind]",
 		"translation": "情報オーバーレイを切り替えます",
@@ -1871,30 +1865,6 @@
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
 		"translation": "MS",
-		"machine": true
-	},
-	{
-		"phrase": "Bronze medal",
-		"comment": "A bronze medal",
-		"translation": "銅メダル",
-		"machine": true
-	},
-	{
-		"phrase": "Silver medal",
-		"comment": "A silver medal",
-		"translation": "銀メダル",
-		"machine": true
-	},
-	{
-		"phrase": "Gold medal",
-		"comment": "A gold medal",
-		"translation": "金メダル",
-		"machine": true
-	},
-	{
-		"phrase": "Platinum medal",
-		"comment": "A platinum medal",
-		"translation": "プラチナメダル",
 		"machine": true
 	},
 	{
@@ -4196,12 +4166,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Quick play - {0}",
-		"comment": "Click here to quick play in Oceania. Parameter 0: Oceania",
-		"translation": "クイックプレイ-{0}",
-		"machine": true
-	},
-	{
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "ブースト",
@@ -6045,12 +6009,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {1} modifications.",
-		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
-		"translation": "エンジニアとそのアフターマーケット{1}の変更を使用して、建物の専門知識を示します.",
-		"machine": true
-	},
-	{
 		"phrase": "{0} Engineer",
 		"comment": "Parameter 0: 'Agaman', which is the name of a race",
 		"translation": "{0}エンジニア",
@@ -6108,7 +6066,7 @@
 	},
 	{
 		"phrase": "Success",
-		"comment": "Steam error description",
+		"comment": "This message appears when a command runs successfully",
 		"translation": "成功",
 		"machine": true
 	},
@@ -6432,7 +6390,7 @@
 	},
 	{
 		"phrase": "Degree",
-		"comment": "1 Degree. The mathematical unit used to measure angles.",
+		"comment": "1 Degree. The mathematical unit used to measure angles",
 		"translation": "程度",
 		"machine": true
 	},
@@ -6444,7 +6402,7 @@
 	},
 	{
 		"phrase": "Use",
-		"comment": "1 Use. The amount of times an object was used.",
+		"comment": "1 Use. The amount of times an object was used",
 		"translation": "使用する",
 		"machine": true
 	},
@@ -6456,7 +6414,7 @@
 	},
 	{
 		"phrase": "Shot",
-		"comment": "1 Shot. The amount of times a gun was fired.",
+		"comment": "1 Shot. The amount of times a gun was fired",
 		"translation": "ショット",
 		"machine": true
 	},
@@ -6468,7 +6426,7 @@
 	},
 	{
 		"phrase": "Swing",
-		"comment": "1 Swing. The amount of times a player used their melee.",
+		"comment": "1 Swing. The amount of times a player used their melee",
 		"translation": "スイング",
 		"machine": true
 	},
@@ -8323,6 +8281,282 @@
 		"phrase": "{0} damage modifier set to {1}",
 		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
 		"translation": "{0} ダメージ修正値を {1} に設定",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is used in {1} {2}. Click confirm to delete it",
+		"comment": "This confirmation text appears when deleting a preset that's still used in a loadout. Parameter 0: 'Heavy SMG', parameter 1: '3', parameter 2: 'Loadouts (or alternate plural version)",
+		"translation": "{0} は {1} {2} で使用されます。確認をクリックして削除します",
+		"machine": true
+	},
+	{
+		"phrase": "Confirm Delete",
+		"comment": "Confirm you want to delete this weapon preset",
+		"translation": "削除を確認",
+		"machine": true
+	},
+	{
+		"phrase": "Aiming",
+		"comment": "Aiming with a gun",
+		"translation": "照準",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Player Names",
+		"comment": "[Keybind]",
+		"translation": "プレイヤー名の切り替え",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Enemy Names (Trailer Mode)",
+		"comment": "Press this keybind to toggle whether enemy names are displayed (only works in Trailer Mode)",
+		"translation": "敵の名前を切り替えます（トレーラーモード)",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
+		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
+		"translation": "エンジニアと彼らのアフターマーケット {0} 改造であなたの建物の専門知識を展示してください.",
+		"machine": true
+	},
+	{
+		"phrase": "Hue Shift",
+		"comment": "An offset applied to the hue component of a colour, e.g. 'hue shifted from red to yellow'",
+		"translation": "色相シフト",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze {0}",
+		"comment": "A bronze medal",
+		"translation": "ブロンズ {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Silver {0}",
+		"comment": "A silver medal",
+		"translation": "シルバー{0}",
+		"machine": true
+	},
+	{
+		"phrase": "Gold {0}",
+		"comment": "A gold medal",
+		"translation": "ゴールド{0}",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum {0}",
+		"comment": "A platinum medal",
+		"translation": "プラチナ{0}",
+		"machine": true
+	},
+	{
+		"phrase": "Teamplay",
+		"comment": "Working together as a team",
+		"translation": "チームプレイ",
+		"machine": true
+	},
+	{
+		"phrase": "Distance travelled",
+		"comment": "How far you've travelled",
+		"translation": "走行距離",
+		"machine": true
+	},
+	{
+		"phrase": "Killed by",
+		"comment": "How many times you have been killed by a weapon, e.g. 'Killed by SMG: 34'",
+		"translation": "に殺された",
+		"machine": true
+	},
+	{
+		"phrase": "Destroyed",
+		"comment": "The player was destroyed by deWolf",
+		"translation": "破壊されました",
+		"machine": true
+	},
+	{
+		"phrase": "Fortifying {0} created",
+		"comment": "How many blocks the player has placed to fortify a zone. Parameter 0 is either 'block' or 'blocks'",
+		"translation": "強化{0}作成",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} detonated",
+		"comment": "How many Soltrium canisters the player has detonated. Parameter 0 is 'Soltrium'. Parameter 1 is either 'canister' or 'canisters'",
+		"translation": "{0} {1} 爆発",
+		"machine": true
+	},
+	{
+		"phrase": "Time aiming",
+		"comment": "How long the player spent aiming",
+		"translation": "時間狙い",
+		"machine": true
+	},
+	{
+		"phrase": "Time in air",
+		"comment": "How long the player spent in the air",
+		"translation": "空中時間",
+		"machine": true
+	},
+	{
+		"phrase": "Time strafing",
+		"comment": "How long the player spent strafing",
+		"translation": "時間の機銃掃射",
+		"machine": true
+	},
+	{
+		"phrase": "Time sprinting",
+		"comment": "How long the player spent sprinting",
+		"translation": "タイムスプリント",
+		"machine": true
+	},
+	{
+		"phrase": "Time sliding",
+		"comment": "How long the player spent sliding",
+		"translation": "タイムスライド",
+		"machine": true
+	},
+	{
+		"phrase": "Time crouching",
+		"comment": "How long the player spent crouching",
+		"translation": "しゃがむ時間",
+		"machine": true
+	},
+	{
+		"phrase": "Time swimming",
+		"comment": "How long the player spent swimming",
+		"translation": "時間水泳",
+		"machine": true
+	},
+	{
+		"phrase": "Neutral time",
+		"comment": "How long the player spent outside a zone",
+		"translation": "ニュートラルタイム",
+		"machine": true
+	},
+	{
+		"phrase": "Defensive time",
+		"comment": "How long the player spent defending a zone",
+		"translation": "防御時間",
+		"machine": true
+	},
+	{
+		"phrase": "Offensive time",
+		"comment": "How long the player spent attacking a zone",
+		"translation": "攻撃時間",
+		"machine": true
+	},
+	{
+		"phrase": "Playtime",
+		"comment": "How long the player spent playing the game",
+		"translation": "プレイタイム",
+		"machine": true
+	},
+	{
+		"phrase": "Defensive",
+		"comment": "The player was defensive",
+		"translation": "守備",
+		"machine": true
+	},
+	{
+		"phrase": "Offensive",
+		"comment": "The player was offensive",
+		"translation": "攻撃",
+		"machine": true
+	},
+	{
+		"phrase": "Neutral",
+		"comment": "The player was neutral",
+		"translation": "中性",
+		"machine": true
+	},
+	{
+		"phrase": "Trial",
+		"comment": "A time trial, e.g. 'The Building 2 Trial'",
+		"translation": "トライアル",
+		"machine": true
+	},
+	{
+		"phrase": "Particle delay",
+		"comment": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+		"translation": "粒子遅延",
+		"machine": true
+	},
+	{
+		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+		"comment": "Description for the 'Particle Delay' settings",
+		"translation": "パーティクル エンジンが遅れることを許可するフレーム数を制御する高度なレンダリング設定",
+		"machine": true
+	},
+	{
+		"phrase": "Show icons when ADS",
+		"comment": "Setting that controls whether icons and player names should display when aiming down the sights",
+		"translation": "ADS時にアイコンを表示",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether icons and player names should display when aiming down the sights",
+		"comment": "Description for the 'Show icons when ADS' setting",
+		"translation": "照準を合わせたときにアイコンとプレイヤー名を表示するかどうかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "Failed",
+		"comment": "This error message appears when a command failed to run",
+		"translation": "失敗した",
+		"machine": true
+	},
+	{
+		"phrase": "Headshots",
+		"comment": "2 headshots",
+		"translation": "ヘッドショット",
+		"machine": true
+	},
+	{
+		"phrase": "Frame",
+		"comment": "1 Frame, i.e. 1 frame per second",
+		"translation": "フレーム",
+		"machine": true
+	},
+	{
+		"phrase": "Frames",
+		"comment": "2 Frames, i.e. 2 frames per second",
+		"translation": "フレーム",
+		"machine": true
+	},
+	{
+		"phrase": "Medal",
+		"comment": "1 bronze medal",
+		"translation": "メダル",
+		"machine": true
+	},
+	{
+		"phrase": "Medals",
+		"comment": "2 bronze medals",
+		"translation": "メダル",
+		"machine": true
+	},
+	{
+		"phrase": "Match won",
+		"comment": "1 match won",
+		"translation": "試合に勝った",
+		"machine": true
+	},
+	{
+		"phrase": "Matches won",
+		"comment": "2 matches won",
+		"translation": "勝った試合",
+		"machine": true
+	},
+	{
+		"phrase": "Match lost",
+		"comment": "1 match lost",
+		"translation": "負け試合",
+		"machine": true
+	},
+	{
+		"phrase": "Matches lost",
+		"comment": "2 matches lost",
+		"translation": "負け試合",
 		"machine": true
 	}
 ]
