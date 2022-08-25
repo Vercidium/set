@@ -4059,7 +4059,7 @@
 	},
 	{
 		"phrase": "Level {0}",
-		"comment": "The player's level, which increases the more they play the game. Parameter 0: 50",
+		"comment": "The player's skill level, which increases the more they play the game. Parameter 0: 50",
 		"translation": "Taso {0}",
 		"machine": true
 	},
@@ -8051,7 +8051,7 @@
 	},
 	{
 		"phrase": "Distance travelled",
-		"comment": "How far you've travelled",
+		"comment": "How far a player travelled",
 		"translation": "Kuljettu matka",
 		"machine": true
 	},
@@ -8251,6 +8251,186 @@
 		"phrase": "Matches lost",
 		"comment": "2 matches lost",
 		"translation": "Ottelut hävitty",
+		"machine": true
+	},
+	{
+		"phrase": "Updates",
+		"comment": "The game has had 3 updates recently",
+		"translation": "Päivitykset",
+		"machine": true
+	},
+	{
+		"phrase": "Hit",
+		"comment": "1 hit, i.e. you hit an enemy once",
+		"translation": "Osuma",
+		"machine": true
+	},
+	{
+		"phrase": "Hits",
+		"comment": "2 hits",
+		"translation": "Osumat",
+		"machine": true
+	},
+	{
+		"phrase": "Level",
+		"comment": "The player's skill level, which increases the more they play the game. Parameter 0: 50",
+		"translation": "Taso",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire",
+		"comment": "Firing a weapon from the hip",
+		"translation": "Lonkalta ampuminen",
+		"machine": true
+	},
+	{
+		"phrase": "Body",
+		"comment": "The part of a player that isn't their head",
+		"translation": "Runko",
+		"machine": true
+	},
+	{
+		"phrase": "Splash",
+		"comment": "Splash \/ area-of-effect damage from explosions",
+		"translation": "Roiskeet",
+		"machine": true
+	},
+	{
+		"phrase": "Total",
+		"comment": "The whole amount",
+		"translation": "Kaikki yhteensä",
+		"machine": true
+	},
+	{
+		"phrase": "Spot",
+		"comment": "To locate an object, e.g. \"They spot an enemy in a building\"",
+		"translation": "Spot",
+		"machine": true
+	},
+	{
+		"phrase": "Distance",
+		"comment": "How far a player travelled",
+		"translation": "Etäisyys",
+		"machine": true
+	},
+	{
+		"phrase": "Lose",
+		"comment": "You lose!",
+		"translation": "Menettää",
+		"machine": true
+	},
+	{
+		"phrase": "Destroy",
+		"comment": "Destroy the enemy tower",
+		"translation": "Tuhota",
+		"machine": true
+	},
+	{
+		"phrase": "Accuracy",
+		"comment": "How many of your shots hit a target when firing a gun",
+		"translation": "Tarkkuus",
+		"machine": true
+	},
+	{
+		"phrase": "Career",
+		"comment": "A player's career, a record of their achievements and stats",
+		"translation": "Ura",
+		"machine": true
+	},
+	{
+		"phrase": "Create",
+		"comment": "Create a fortified position to attack the enemy",
+		"translation": "Luoda",
+		"machine": true
+	},
+	{
+		"phrase": "Killstreak",
+		"comment": "When you kill multiple enemies without dying, i.e. 'zepofan is on a 15 killstreak'",
+		"translation": "Tappoputki",
+		"machine": true
+	},
+	{
+		"phrase": "Longest",
+		"comment": "My longest killstreak is 7",
+		"translation": "Pisin",
+		"machine": true
+	},
+	{
+		"phrase": "Average",
+		"comment": "My average killstreak is 1.3",
+		"translation": "Keskiverto",
+		"machine": true
+	},
+	{
+		"phrase": "Alive",
+		"comment": "Not dead. It's alive!",
+		"translation": "Elossa",
+		"machine": true
+	},
+	{
+		"phrase": "Strafe",
+		"comment": "To move left and right while facing forwards",
+		"translation": "Tulittaa",
+		"machine": true
+	},
+	{
+		"phrase": "Still",
+		"comment": "Standing still",
+		"translation": "Edelleen",
+		"machine": true
+	},
+	{
+		"phrase": "Swim",
+		"comment": "Going for a swim in the pool",
+		"translation": "Uida",
+		"machine": true
+	},
+	{
+		"phrase": "Air",
+		"comment": "The enemy was flying through the air",
+		"translation": "Ilmaa",
+		"machine": true
+	},
+	{
+		"phrase": "Extract",
+		"comment": "To remove a resource from a rock, i.e. extract Soltrium",
+		"translation": "Ottaa talteen",
+		"machine": true
+	},
+	{
+		"phrase": "Defuse",
+		"comment": "To defuse or disarm a bomb or heated conversation",
+		"translation": "Purkaa",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver",
+		"comment": "It feels great to have a pizza delivered to your house",
+		"translation": "Toimita",
+		"machine": true
+	},
+	{
+		"phrase": "Return",
+		"comment": "When you're Christmas shopping but they send you the wrong thing so you need to return it",
+		"translation": "Palata",
+		"machine": true
+	},
+	{
+		"phrase": "Capture",
+		"comment": "To steal something from the enemy and store it securely",
+		"translation": "Kaapata",
+		"machine": true
+	},
+	{
+		"phrase": "Death",
+		"comment": "1 death, i.e. how many times you died",
+		"translation": "Kuolema",
+		"machine": true
+	},
+	{
+		"phrase": "Deaths",
+		"comment": "2 deaths",
+		"translation": "Kuolemat",
 		"machine": true
 	}
 ]
