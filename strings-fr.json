@@ -8582,5 +8582,353 @@
 		"comment": "2 deaths",
 		"translation": "Des morts",
 		"machine": true
+	},
+	{
+		"phrase": "The default barrel is light with no downsides and no cost",
+		"comment": "Barrel description",
+		"translation": "Le canon par défaut est léger, sans inconvénients et sans frais",
+		"machine": true
+	},
+	{
+		"phrase": "The extended barrel increases damage over distance",
+		"comment": "Barrel description",
+		"translation": "Le canon étendu augmente les dégâts sur la distance",
+		"machine": true
+	},
+	{
+		"phrase": "The choke reduces pellet spread",
+		"comment": "Barrel description",
+		"translation": "Le starter réduit la propagation des granulés",
+		"machine": true
+	},
+	{
+		"phrase": "The compensator reduces recoil",
+		"comment": "Barrel description",
+		"translation": "Le compensateur réduit le recul",
+		"machine": true
+	},
+	{
+		"phrase": "The accelerator increases projectile speed and damage over distance",
+		"comment": "Barrel description",
+		"translation": "L'accélérateur augmente la vitesse du projectile et les dégâts sur la distance",
+		"machine": true
+	},
+	{
+		"phrase": "The beam splitter separates plasma projectiles into four smaller projectiles",
+		"comment": "Barrel description",
+		"translation": "Le séparateur de faisceau sépare les projectiles à plasma en quatre projectiles plus petits",
+		"machine": true
+	},
+	{
+		"phrase": "The medium barrel is lighter and cheaper but has reduced projectile speed and damage over distance",
+		"comment": "Barrel description",
+		"translation": "Le canon moyen est plus léger et moins cher mais a réduit la vitesse du projectile et les dégâts à distance",
+		"machine": true
+	},
+	{
+		"phrase": "The short barrel converts your Rail Gun into a Rail Pistol",
+		"comment": "Barrel description",
+		"translation": "Le canon court convertit votre pistolet à rail en un pistolet à rail",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} stops you from appearing on the minimap when firing",
+		"comment": "Barrel description. Parameter 0: 'silencer'",
+		"translation": "Le {0} vous empêche d'apparaître sur la mini-carte lors du tir",
+		"machine": true
+	},
+	{
+		"phrase": "Removing the grip from your gun increases recoil and reduces holster time",
+		"comment": "Foregrip description",
+		"translation": "Le retrait de la poignée de votre arme augmente le recul et réduit le temps d'utilisation de l'étui",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} grip reduces initial recoil and increases full-auto recoil",
+		"comment": "Foregrip description. Parameter 0: 'Stubby'",
+		"translation": "La poignée {0} réduit le recul initial et augmente le recul entièrement automatique",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} grip gives consistent recoil on all shots",
+		"comment": "Foregrip description. Parameter 0: 'Angled'",
+		"translation": "La poignée {0} offre un recul constant sur tous les coups",
+		"machine": true
+	},
+	{
+		"phrase": "The base loader has the slowest pump speed",
+		"comment": "Loader description",
+		"translation": "Le chargeur de base a la vitesse de pompe la plus lente",
+		"machine": true
+	},
+	{
+		"phrase": "The angled loader has a slightly faster pump speed",
+		"comment": "Loader description",
+		"translation": "Le chargeur incliné a une vitesse de pompe légèrement plus rapide",
+		"machine": true
+	},
+	{
+		"phrase": "The vertical loader has the fastest pump speed",
+		"comment": "Loader description",
+		"translation": "Le chargeur vertical a la vitesse de pompe la plus rapide",
+		"machine": true
+	},
+	{
+		"phrase": "The default magazine is small and quick to reload",
+		"comment": "Magazine description",
+		"translation": "Le chargeur par défaut est petit et rapide à recharger",
+		"machine": true
+	},
+	{
+		"phrase": "The extended magazine contains more bullets and is slower to reload",
+		"comment": "Magazine description",
+		"translation": "Le chargeur étendu contient plus de balles et est plus lent à recharger",
+		"machine": true
+	},
+	{
+		"phrase": "The large magazine stores enough Soltrium to fire two Orberator shots",
+		"comment": "Magazine description",
+		"translation": "Le grand chargeur stocke suffisamment de soltrium pour tirer deux coups d'orberator",
+		"machine": true
+	},
+	{
+		"phrase": "Default ammo gives a nice balance between damage and fire rate",
+		"comment": "Ammo description",
+		"translation": "Les munitions par défaut offrent un bon équilibre entre les dégâts et la cadence de tir",
+		"machine": true
+	},
+	{
+		"phrase": "Heavy ammo deals more damage but fires slower",
+		"comment": "Ammo description",
+		"translation": "Les munitions lourdes infligent plus de dégâts mais tirent plus lentement",
+		"machine": true
+	},
+	{
+		"phrase": "Light ammo fires faster but deals less damage",
+		"comment": "Ammo description",
+		"translation": "Les munitions légères tirent plus vite mais infligent moins de dégâts",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo pierces through blocks and players in exchange for a slower fire rate",
+		"comment": "Ammo description",
+		"translation": "Ces munitions transpercent les blocs et les joueurs en échange d'une cadence de tir plus lente",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo ricochets off walls up to {0} times",
+		"comment": "Ammo description. Parameter 0: '3'",
+		"translation": "Ces munitions ricochent sur les murs jusqu'à {0} fois",
+		"machine": true
+	},
+	{
+		"phrase": "Huge chunks of metal, effective at killing to the head",
+		"comment": "Ammo description",
+		"translation": "D'énormes morceaux de métal, efficaces pour tuer à la tête",
+		"machine": true
+	},
+	{
+		"phrase": "A large spread of tiny metal projectiles",
+		"comment": "Ammo description",
+		"translation": "Une large diffusion de minuscules projectiles métalliques",
+		"machine": true
+	},
+	{
+		"phrase": "Look around after firing to control the trajectory of this projectile",
+		"comment": "Ammo description",
+		"translation": "Regardez autour de vous après le tir pour contrôler la trajectoire de ce projectile",
+		"machine": true
+	},
+	{
+		"phrase": "Three smaller rocket-powered projectiles that fire faster but deal less damage",
+		"comment": "Ammo description",
+		"translation": "Trois petits projectiles propulsés par des fusées qui tirent plus vite mais infligent moins de dégâts",
+		"machine": true
+	},
+	{
+		"phrase": "Augmented plasma creates a larger explosion on impact",
+		"comment": "Ammo description",
+		"translation": "Le plasma augmenté crée une plus grande explosion à l'impact",
+		"machine": true
+	},
+	{
+		"phrase": "These rounds stick to a wall before detonating",
+		"comment": "Ammo description",
+		"translation": "Ces cartouches collent à un mur avant d'exploser",
+		"machine": true
+	},
+	{
+		"phrase": "The rounds split into {0} projectiles on impact",
+		"comment": "Ammo description. Parameter 0: '3'",
+		"translation": "Les balles se sont divisées en projectiles {0} à l'impact",
+		"machine": true
+	},
+	{
+		"phrase": "Overcharged plasma rounds fire faster but require a cooldown after {0} shots",
+		"comment": "Ammo description. Parameter 0: '2'",
+		"translation": "Les obus plasma surchargés tirent plus vite mais nécessitent un temps de recharge après {0} tirs",
+		"machine": true
+	},
+	{
+		"phrase": "Dispersion rounds fire slower and deal area-of-effect damage on impact",
+		"comment": "Ammo description",
+		"translation": "Les obus de dispersion tirent plus lentement et infligent des dégâts de zone d'effet à l'impact",
+		"machine": true
+	},
+	{
+		"phrase": "Ion rounds allow players and projectiles to temporarily travel through blocks",
+		"comment": "Ammo description",
+		"translation": "Les cartouches ioniques permettent aux joueurs et aux projectiles de voyager temporairement à travers les blocs",
+		"machine": true
+	},
+	{
+		"phrase": "Explosive payloads are explosive",
+		"comment": "Payload description",
+		"translation": "Les charges utiles explosives sont explosives",
+		"machine": true
+	},
+	{
+		"phrase": "Incendiary rounds set blocks on fire",
+		"comment": "Payload description",
+		"translation": "Des obus incendiaires mettent le feu à des blocs",
+		"machine": true
+	},
+	{
+		"phrase": "Impact rounds really hurt",
+		"comment": "Payload description",
+		"translation": "Les rounds d'impact font vraiment mal",
+		"machine": true
+	},
+	{
+		"phrase": "Nothing to see here, move along",
+		"comment": "Payload description",
+		"translation": "Rien à voir ici, passez votre chemin",
+		"machine": true
+	},
+	{
+		"phrase": "Ironsights are light and quick to aim with",
+		"comment": "Sight description",
+		"translation": "Les viseurs de fer sont légers et rapides à viser",
+		"machine": true
+	},
+	{
+		"phrase": "Red dot sights provide good visibility in close range encounters",
+		"comment": "Sight description",
+		"translation": "Les viseurs à point rouge offrent une bonne visibilité dans les rencontres rapprochées",
+		"machine": true
+	},
+	{
+		"phrase": "2.0x sights have 2.0x zoom",
+		"comment": "Sight description",
+		"translation": "Les viseurs 2.0x ont un zoom 2.0x",
+		"machine": true
+	},
+	{
+		"phrase": "4.0x sights have 4.0x zoom",
+		"comment": "Sight description",
+		"translation": "Les viseurs 4.0x ont un zoom 4.0x",
+		"machine": true
+	},
+	{
+		"phrase": "The base stock doesn't have as much flavour as chicken stock",
+		"comment": "Stock description",
+		"translation": "Le bouillon de base n'a pas autant de saveur que le bouillon de poulet",
+		"machine": true
+	},
+	{
+		"phrase": "Removing the stock reduces the holster time but increases recoil",
+		"comment": "Stock description",
+		"translation": "Le retrait de la crosse réduit le temps d'utilisation de l'étui mais augmente le recul",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} stock reduces recoil while aiming but increases the holster time",
+		"comment": "Stock description. Parameter 0: 'Tactical'",
+		"translation": "Le stock {0} réduit le recul tout en visant mais augmente le temps de l'étui",
+		"machine": true
+	},
+	{
+		"phrase": "The mechanical trigger increases fire rate",
+		"comment": "Trigger description",
+		"translation": "La gâchette mécanique augmente la cadence de tir",
+		"machine": true
+	},
+	{
+		"phrase": "The welded choke permanently reduces pellet spread",
+		"comment": "Choke description",
+		"translation": "Le starter soudé réduit en permanence la propagation des pellets",
+		"machine": true
+	},
+	{
+		"phrase": "The pneumatic choke reduces pellet spread over {0} seconds while aiming, and resets when firing",
+		"comment": "Choke description",
+		"translation": "Le starter pneumatique réduit la dispersion des plombs sur {0} secondes lors de la visée et se réinitialise lors du tir",
+		"machine": true
+	},
+	{
+		"phrase": "The advanced choke reduces pellet spread over {0} seconds while aiming",
+		"comment": "Choke description",
+		"translation": "Le starter avancé réduit la propagation des granulés sur {0} secondes tout en visant",
+		"machine": true
+	},
+	{
+		"phrase": "This core spins to produce a faster fire rate",
+		"comment": "Core description",
+		"translation": "Ce noyau tourne pour produire une cadence de tir plus rapide",
+		"machine": true
+	},
+	{
+		"phrase": "This core produces a laser that slices through blocks and enemies",
+		"comment": "Core description",
+		"translation": "Ce noyau produit un laser qui tranche à travers les blocs et les ennemis",
+		"machine": true
+	},
+	{
+		"phrase": "This core generates 5 smaller orbs that each explode once",
+		"comment": "Core description",
+		"translation": "Ce noyau génère 5 orbes plus petits qui explosent chacun une fois",
+		"machine": true
+	},
+	{
+		"phrase": "The burst firing mechanism fires bursts of {0} shots",
+		"comment": "Mechanism description. Parameter 0: '3'",
+		"translation": "Le mécanisme de tir en rafale tire des rafales de coups {0}",
+		"machine": true
+	},
+	{
+		"phrase": "This mechanism continuously fires bullets",
+		"comment": "Mechanism description",
+		"translation": "Ce mécanisme tire des balles en continu",
+		"machine": true
+	},
+	{
+		"phrase": "Spinning",
+		"comment": "I'm spinning around, move out of my way. I know you're feeling me 'cause you like it like this",
+		"translation": "Filage",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams",
+		"comment": "Stop players from switching teams",
+		"translation": "Des équipes strictes",
+		"machine": true
+	},
+	{
+		"phrase": "Stop players from switching teams",
+		"comment": "When Strict Teams is enabled, players can't swap teams",
+		"translation": "Empêcher les joueurs de changer d'équipe",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams enabled",
+		"comment": "Strict teams is enabled, meaning players can't swap teams",
+		"translation": "Équipes strictes activées",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams disabled",
+		"comment": "Strict teams is disabled, meaning players can swap teams",
+		"translation": "Equipes strictes désactivées",
+		"machine": true
 	}
 ]
