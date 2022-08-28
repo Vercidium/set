@@ -4730,7 +4730,7 @@
 	},
 	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
-		"comment": "Description for the 'Skip Midi on swap' setting",
+		"comment": "Description for the 'Skip MiDi on swap' setting",
 		"translation": "最後のツールキーバインドをスクロールまたは押すときに、プレーヤーがミディにスワップするかどうかを制御します",
 		"machine": true
 	},
@@ -6551,13 +6551,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Midi",
-		"context": "Builder",
-		"comment": "A building\/digging gadget, the name is short for Miner Digger",
-		"translation": "ミディ",
-		"machine": true
-	},
-	{
 		"phrase": "Sao Paulo",
 		"comment": "Server location",
 		"translation": "サンパウロ",
@@ -7662,7 +7655,7 @@
 	},
 	{
 		"phrase": "Skip {0} on swap",
-		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'Midi'",
+		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'MiDi'",
 		"translation": "スワップ時に{0}をスキップする",
 		"machine": true
 	},
@@ -8315,7 +8308,7 @@
 	},
 	{
 		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
-		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
 		"translation": "エンジニアと彼らのアフターマーケット {0} 改造であなたの建物の専門知識を展示してください.",
 		"machine": true
 	},
@@ -9085,6 +9078,25 @@
 		"phrase": "Strict teams disabled",
 		"comment": "Strict teams is disabled, meaning players can swap teams",
 		"translation": "厳密なチームが無効になっています",
+		"machine": true
+	},
+	{
+		"phrase": "Packet loss",
+		"comment": "When network packets are lost between the client and server",
+		"translation": "パケットロス",
+		"machine": true
+	},
+	{
+		"phrase": "Desync",
+		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
+		"translation": "非同期化",
+		"machine": true
+	},
+	{
+		"phrase": "No",
+		"context": "None",
+		"comment": "Does not exist, i.e. 'No foregrip equipped'",
+		"translation": "いいえ",
 		"machine": true
 	}
 ]

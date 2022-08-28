@@ -4730,7 +4730,7 @@
 	},
 	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
-		"comment": "Description for the 'Skip Midi on swap' setting",
+		"comment": "Description for the 'Skip MiDi on swap' setting",
 		"translation": "Ελέγχει εάν η συσκευή αναπαραγωγής θα πρέπει να αλλάζει στο midi κατά την κύλιση ή το πάτημα του τελευταίου πληκτρολογίου εργαλείου",
 		"machine": true
 	},
@@ -6551,13 +6551,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Midi",
-		"context": "Builder",
-		"comment": "A building\/digging gadget, the name is short for Miner Digger",
-		"translation": "Midi",
-		"machine": true
-	},
-	{
 		"phrase": "Sao Paulo",
 		"comment": "Server location",
 		"translation": "Σάο Πάολο",
@@ -7662,7 +7655,7 @@
 	},
 	{
 		"phrase": "Skip {0} on swap",
-		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'Midi'",
+		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'MiDi'",
 		"translation": "Παράλειψη {0} κατά την ανταλλαγή",
 		"machine": true
 	},
@@ -8315,7 +8308,7 @@
 	},
 	{
 		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
-		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
 		"translation": "Εκθέστε την τεχνογνωσία σας στο κτίριο με τον μηχανικό και τις μετατροπές {0} του aftermarket.",
 		"machine": true
 	},
@@ -9085,6 +9078,25 @@
 		"phrase": "Strict teams disabled",
 		"comment": "Strict teams is disabled, meaning players can swap teams",
 		"translation": "Αυστηρές ομάδες ανάπηροι",
+		"machine": true
+	},
+	{
+		"phrase": "Packet loss",
+		"comment": "When network packets are lost between the client and server",
+		"translation": "Απώλεια πακέτων",
+		"machine": true
+	},
+	{
+		"phrase": "Desync",
+		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
+		"translation": "Αποσυγχρονισμός",
+		"machine": true
+	},
+	{
+		"phrase": "No",
+		"context": "None",
+		"comment": "Does not exist, i.e. 'No foregrip equipped'",
+		"translation": "Οχι",
 		"machine": true
 	}
 ]

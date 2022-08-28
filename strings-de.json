@@ -4688,7 +4688,7 @@
 	},
 	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
-		"comment": "Description for the 'Skip Midi on swap' setting",
+		"comment": "Description for the 'Skip MiDi on swap' setting",
 		"translation": "Steuert, ob der Player beim Scrollen oder Drücken der letzten Werkzeugtaste zum Midi wechseln soll",
 		"machine": true
 	},
@@ -6509,13 +6509,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Midi",
-		"context": "Builder",
-		"comment": "A building\/digging gadget, the name is short for Miner Digger",
-		"translation": "Midi",
-		"machine": true
-	},
-	{
 		"phrase": "Sao Paulo",
 		"comment": "Server location",
 		"translation": "Sao Paulo",
@@ -7620,7 +7613,7 @@
 	},
 	{
 		"phrase": "Skip {0} on swap",
-		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'Midi'",
+		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'MiDi'",
 		"translation": "Überspringen Sie {0} beim Austausch",
 		"machine": true
 	},
@@ -8273,7 +8266,7 @@
 	},
 	{
 		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
-		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
 		"translation": "Zeigen Sie Ihre Baukompetenz mit dem Ingenieur und seinen Aftermarket-{0}-Modifikationen.",
 		"machine": true
 	},
@@ -9043,6 +9036,25 @@
 		"phrase": "Strict teams disabled",
 		"comment": "Strict teams is disabled, meaning players can swap teams",
 		"translation": "Strenge Teams deaktiviert",
+		"machine": true
+	},
+	{
+		"phrase": "Packet loss",
+		"comment": "When network packets are lost between the client and server",
+		"translation": "Paketverlust",
+		"machine": true
+	},
+	{
+		"phrase": "Desync",
+		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
+		"translation": "Desynchronisieren",
+		"machine": true
+	},
+	{
+		"phrase": "No",
+		"context": "None",
+		"comment": "Does not exist, i.e. 'No foregrip equipped'",
+		"translation": "Nein",
 		"machine": true
 	}
 ]
