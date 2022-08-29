@@ -5337,421 +5337,354 @@
 	{
 		"phrase": "Avenge",
 		"comment": "1 Avenge, i.e. when you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate",
-		"translation": "Отомщение",
+		"translation": "Отмщение",
 	},
 	{
 		"phrase": "Avenges",
 		"comment": "2 Avenges",
-		"translation": "Отомщений",
+		"translation": "Отмщений",
 	},
 	{
 		"phrase": "Lights",
 		"comment": "2 Ligths",
-		"translation": "Огни",
-		"machine": true
+		"translation": "Источников света",
 	},
 	{
 		"phrase": "Chunk",
 		"comment": "1 Chunk, i.e. a group of 32x32x32 blocks",
-		"translation": "Кусок",
-		"machine": true
+		"translation": "Чанк",
 	},
 	{
 		"phrase": "Chunks",
 		"comment": "2 Chunks",
-		"translation": "Куски",
-		"machine": true
+		"translation": "Чанков",
 	},
 	{
 		"phrase": "Sample",
 		"comment": "1 Sample, i.e. a shader sample, where more samples means a higher quality shader image",
-		"translation": "Образец",
-		"machine": true
+		"translation": "Сэмпл",
 	},
 	{
 		"phrase": "Samples",
 		"comment": "2 Samples",
-		"translation": "Образцы",
-		"machine": true
+		"translation": "Сэмплов",
 	},
 	{
 		"phrase": "Degree",
 		"comment": "1 Degree. The mathematical unit used to measure angles.",
-		"translation": "Степень",
-		"machine": true
+		"translation": "Градус",
 	},
 	{
 		"phrase": "Degrees",
 		"comment": "2 Degrees",
-		"translation": "Степени",
-		"machine": true
+		"translation": "Градусов",
 	},
 	{
 		"phrase": "Use",
 		"comment": "1 Use. The amount of times an object was used.",
-		"translation": "Использовать",
-		"machine": true
+		"translation": "Использование",
 	},
 	{
 		"phrase": "Uses",
 		"comment": "2 Uses",
-		"translation": "Использование",
-		"machine": true
+		"translation": "Использований",
 	},
 	{
 		"phrase": "Shot",
 		"comment": "1 Shot. The amount of times a gun was fired.",
-		"translation": "Выстрелил",
-		"machine": true
+		"translation": "Выстрел",
 	},
 	{
 		"phrase": "Shots",
 		"comment": "2 Shots",
-		"translation": "Выстрелы",
-		"machine": true
+		"translation": "Выстрелов",
 	},
 	{
 		"phrase": "Swing",
 		"comment": "1 Swing. The amount of times a player used their melee.",
-		"translation": "Качать",
-		"machine": true
+		"translation": "Удар",
 	},
 	{
 		"phrase": "Swings",
 		"comment": "2 Swings",
-		"translation": "качели",
-		"machine": true
+		"translation": "Ударов",
 	},
 	{
 		"phrase": "Throw",
 		"comment": "1 Throw. The amount of times a player threw a C4 or disruptor",
-		"translation": "Бросать",
-		"machine": true
+		"translation": "Бросок",
 	},
 	{
 		"phrase": "Throws",
 		"comment": "2 Throws",
-		"translation": "Броски",
-		"machine": true
+		"translation": "Бросков",
 	},
 	{
 		"phrase": "Character token",
 		"comment": "1 Character token, i.e. a token\/coin that can be used to unlock a character",
 		"translation": "Жетон персонажа",
-		"machine": true
 	},
 	{
 		"phrase": "Character tokens",
 		"comment": "2 Character tokens",
-		"translation": "Жетоны персонажей",
-		"machine": true
+		"translation": "Жетонов персонажа",
 	},
 	{
 		"phrase": "Weapon skin token",
 		"context": "Weapon material token",
 		"comment": "1 Weapon skin token, i.e. a token\/coin that can be used to unlock a weapon skin",
 		"translation": "Жетон скина оружия",
-		"machine": true
 	},
 	{
 		"phrase": "Weapon skin tokens",
 		"context": "Weapon material tokens",
 		"comment": "2 Weapon skin tokens",
-		"translation": "Жетоны скинов оружия",
-		"machine": true
+		"translation": "Жетонов скина оружия",
 	},
 	{
 		"phrase": "Weapon skin",
 		"context": "Weapon material",
 		"comment": "1 Weapon skin, i.e. a material that can be applied to the surface of a gun to change its appearance",
 		"translation": "Скин оружия",
-		"machine": true
 	},
 	{
 		"phrase": "Weapon skins",
 		"context": "Weapon materials",
 		"comment": "2 Weapon skins",
-		"translation": "Скины оружия",
-		"machine": true
+		"translation": "Скинов оружия",
 	},
 	{
 		"phrase": "Block skin",
 		"context": "Block material",
 		"comment": "1 Block skin, i.e. a material that can be applied to the surface of a block to change its appearance",
-		"translation": "Скин блока",
-		"machine": true
+		"translation": "Скин блоков",
 	},
 	{
 		"phrase": "Block skins",
 		"context": "Block materials",
 		"comment": "2 Block skins",
-		"translation": "Скины блоков",
-		"machine": true
+		"translation": "Скинов блоков",
 	},
 	{
 		"phrase": "Sound",
 		"comment": "1 Sound i.e. an audio sound like a footstep or gunshot",
 		"translation": "Звук",
-		"machine": true
 	},
 	{
 		"phrase": "Sounds",
 		"comment": "2 Sounds",
-		"translation": "Звуки",
-		"machine": true
+		"translation": "Звуков",
 	},
 	{
 		"phrase": "Texture",
 		"comment": "1 Texture, i.e. a 2D bitmap or image",
 		"translation": "Текстура",
-		"machine": true
 	},
 	{
 		"phrase": "{0} Violation",
 		"comment": "Parameter 0: 'EAC', which stands for Easy Anti Cheat. If this anticheat detects a violation, the error 'EAC Violation' will be shown",
-		"translation": "{0} Нарушение",
-		"machine": true
+		"translation": "Нарушение {0}",
 	},
 	{
 		"phrase": "Invalid lobby settings",
 		"comment": "Error message when attempting to claim a lobby with invalid settings",
 		"translation": "Неверные настройки лобби",
-		"machine": true
 	},
 	{
 		"phrase": "TOW",
 		"comment": "Abbreviation for a TOW Missile, which moves towards where the player is looking. Can be translated to 'guided' or 'directed'",
-		"translation": "БУКСИРОВКА",
-		"machine": true
+		"translation": "TOW",
 	},
 	{
 		"phrase": "Pick up primary",
 		"comment": "Pick up your primary\/main weapon",
-		"translation": "Подобрать первичный",
-		"machine": true
+		"translation": "Подобрать основное",
 	},
 	{
 		"phrase": "Pick up secondary",
 		"comment": "Pick up your secondary\/fallback weapon",
-		"translation": "Подобрать вторичное",
-		"machine": true
+		"translation": "Подобрать дополнительное",
 	},
 	{
 		"phrase": "Midi",
 		"context": "Builder",
 		"comment": "A building\/digging gadget, the name is short for Miner Digger",
-		"translation": "Миди",
-		"machine": true
+		"translation": "Кост",
 	},
 	{
 		"phrase": "Sao Paulo",
 		"comment": "Server location",
 		"translation": "Сан-Паулу",
-		"machine": true
 	},
 	{
 		"phrase": "Tel Aviv",
 		"comment": "Server location",
 		"translation": "Тель-Авив",
-		"machine": true
 	},
 	{
 		"phrase": "Warsaw",
 		"comment": "Server location",
 		"translation": "Варшава",
-		"machine": true
 	},
 	{
 		"phrase": "Full servers",
 		"comment": "A server with no free slots",
 		"translation": "Полные серверы",
-		"machine": true
 	},
 	{
 		"phrase": "Grapics preset",
 		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
 		"translation": "Предустановка графики",
-		"machine": true
 	},
 	{
 		"phrase": "Player name: {0}",
 		"comment": "A person who is playing Sector's Edge. Parameter 0: 'deWolf'",
 		"translation": "Имя игрока: {0}",
-		"machine": true
 	},
 	{
 		"phrase": "{0} missing",
 		"comment": "This error shows when a file is missing. Parameter 0: 'JPG'",
 		"translation": "{0} отсутствует",
-		"machine": true
 	},
 	{
 		"phrase": "Invalid map JSON",
 		"comment": "The JSON file contains invalid syntax or properties",
-		"translation": "Недопустимая карта JSON",
-		"machine": true
+		"translation": "Недопустимый файл JSON",
 	},
 	{
 		"phrase": "Map dimensions: {0}",
 		"comment": "The dimensions of the map. Parameter 0: [256, 128, 512]",
 		"translation": "Размеры карты: {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Loading next map",
 		"comment": "The match finished and the game is loading the next map from disk",
 		"translation": "Загрузка следующей карты",
-		"machine": true
 	},
 	{
 		"phrase": "Refreshing server list",
 		"comment": "The list of servers on the play screen is being refreshed",
 		"translation": "Обновление списка серверов",
-		"machine": true
 	},
 	{
 		"phrase": "{0} volume",
 		"comment": "How loud the player's building and digging is. Parameter 0: 'Midi'",
-		"translation": "громкость {0}",
-		"machine": true
+		"translation": "Громкость {0}",
 	},
 	{
 		"phrase": "Explosion knockback",
 		"comment": "How much players are knocked back by explosions",
-		"translation": "Отбрасывание взрывом",
-		"machine": true
+		"translation": "Сила взрывной волны",
 	},
 	{
 		"phrase": "Self explosion damage",
 		"comment": "How much damage a player takes from their own explosions",
-		"translation": "Урон от собственного взрыва",
-		"machine": true
+		"translation": "Урон от взрывов по себе",
 	},
 	{
 		"phrase": "Slot {0}",
 		"comment": "An equipment slot, i.e. 'Slot 1'. Parameter 0: '1'",
 		"translation": "Слот {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Select your active Allegiance",
 		"comment": "This text shows above the list of Allegiances that the player can choose to join",
-		"translation": "Выберите свою активную лояльность",
-		"machine": true
+		"translation": "Выберите свой альянс",
 	},
 	{
 		"phrase": "Loadout overpowered - loadout must be {0} or less points to spawn",
 		"comment": "Info text that shows when a player attempts to spawn with an overpowered loadout. Parameter 0: '15'",
-		"translation": "Снаряжение перегружено — для появления снаряжения должно быть {0} или меньше очков.",
-		"machine": true
+		"translation": "Набор снаряжения перегружен. Снизьте нагрузку до как минимум {0} очков.",
 	},
 	{
 		"phrase": "{0} Join the battle",
 		"comment": "Press this button to join the battle. Parameter 0: [ Space ]",
-		"translation": "{0} Присоединяйтесь к битве",
-		"machine": true
+		"translation": "{0} Присоединиться к битве",
 	},
 	{
 		"phrase": "{0} Spectate",
 		"comment": "Press this button to spectate the battle. Parameter 0: [ Space ]",
 		"translation": "{0} Наблюдать",
-		"machine": true
 	},
 	{
 		"phrase": "Mod Levels",
 		"comment": "An armour mod can either be level 1 or level 2, where level 2 has better parks. This text is a heading for all the mod levels, i.e. 'Mod Levels: Scavenger 0, Scavenger 1'",
-		"translation": "Уровни модов",
-		"machine": true
+		"translation": "Уровни модификаций",
 	},
 	{
 		"phrase": "Breakthrough",
 		"comment": "A game mode where your team must capture all 5 zones in order",
-		"translation": "Прорвать",
-		"machine": true
+		"translation": "Прорыв",
 	},
 	{
 		"phrase": "Control Shift",
 		"comment": "A game mode with one zone that moves towards team B's spawn if team A has more players in the zone. The game mode ends when the zone is pushed all the way back into the enemy's spawn",
-		"translation": "Переключение управления",
-		"machine": true
+		"translation": "Перехват контроля",
 	},
 	{
 		"phrase": "Capture the Flag",
 		"comment": "A gamemode where you steal a canister of Soltrium from the enemy base and drop it back in your base",
 		"translation": "Захват флага",
-		"machine": true
 	},
 	{
 		"phrase": "Escort",
 		"comment": "A gamemode where you pick up a bomb from your base and must plant it in the enemy's base",
-		"translation": "Эскорт",
-		"machine": true
+		"translation": "Сопровождение",
 	},
 	{
 		"phrase": "Gun Game",
 		"comment": "A gamemode where you start with a strong gun and change to progressively weaker guns as you get more kills. To win you need to get 15 kills, the last kill being a melee kill.",
-		"translation": "Стрелялка",
-		"machine": true
+		"translation": "Гонка вооружений",
 	},
 	{
 		"phrase": "Head Hunter",
 		"comment": "A gamemode where you hold Soltrium and gain Soltrium from enemy corpses. The player with the most Soltrium (the head) is revealed to other players",
 		"translation": "Охотник за головами",
-		"machine": true
 	},
 	{
 		"phrase": "Spire",
 		"comment": "An arena gamemode where players start with no weapons and must build up into the sky to get weapons. The most valuable weapons are at the top",
-		"translation": "Шпиль",
-		"machine": true
+		"translation": "Пик",
 	},
 	{
 		"phrase": "Static",
 		"comment": "An arena gamemode where all players start with the same randomised loadout (weapons and armour modifications). The loadout is then randomised each round.",
-		"translation": "Статический",
-		"machine": true
+		"translation": "Статика",
 	},
 	{
 		"phrase": "Wave Defence",
 		"comment": "A PvE gamemode where players defend their base against wave of enemies",
-		"translation": "Волновая защита",
-		"machine": true
+		"translation": "Защита от волн",
 	},
 	{
 		"phrase": "Bot",
 		"comment": "1 Bot, i.e. a server-controlled robot pretending to be a player",
 		"translation": "Бот",
-		"machine": true
 	},
 	{
 		"phrase": "Bots",
 		"comment": "2 Bots",
-		"translation": "Боты",
-		"machine": true
+		"translation": "Ботов",
 	},
 	{
 		"phrase": "Attachment",
 		"comment": "1 Attachment, a part of a weapon that can be added or removed",
-		"translation": "Вложение",
-		"machine": true
+		"translation": "Обвес",
 	},
 	{
 		"phrase": "Friend",
 		"comment": "1 Friend, i.e. a person you enjoy being around",
 		"translation": "Друг",
-		"machine": true
 	},
 	{
 		"phrase": "Link {0} account",
 		"comment": "Link your Sector's Edge account with your Twitch account. Parameter 0: 'Twitch'",
 		"translation": "Привязать аккаунт {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Aiming accuracy",
 		"comment": "Weapon accuracy while aiming down the sights",
 		"translation": "Точность прицеливания",
-		"machine": true
 	},
 	{
 		"phrase": "Hipfire accuracy",
