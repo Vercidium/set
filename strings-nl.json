@@ -2270,22 +2270,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Clamp Y",
-		"context": "Clamp Y Axis",
-		"comment": "Spectator control",
-		"translation": "Klem Y",
-		"machine": true
-	},
-	{
 		"phrase": "X-Ray",
-		"comment": "Spectator control",
+		"comment": "Show enemy outlines through walls",
 		"translation": "Röntgenfoto",
-		"machine": true
-	},
-	{
-		"phrase": "Smooth",
-		"comment": "Spectator control. Smooth camera movement",
-		"translation": "Zacht",
 		"machine": true
 	},
 	{
@@ -2313,12 +2300,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Anchored",
-		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-		"translation": "verankerd",
-		"machine": true
-	},
-	{
 		"phrase": "Select Player",
 		"comment": "Spectator control. Enter first-person spectate mode for the player you are looking",
 		"translation": "Kies speler",
@@ -2335,24 +2316,6 @@
 		"context": "Show Detailed Paths",
 		"comment": "Spectator control. Show every position in waypoint paths",
 		"translation": "Volledige paden weergeven",
-		"machine": true
-	},
-	{
-		"phrase": "Play Path",
-		"comment": "Spectator control. Make the camera follow a path",
-		"translation": "Speelpad",
-		"machine": true
-	},
-	{
-		"phrase": "Create Path",
-		"comment": "Spectator control. Start creating a new path",
-		"translation": "Pad maken",
-		"machine": true
-	},
-	{
-		"phrase": "Edit Path",
-		"comment": "Spectator control. Edit an existing path",
-		"translation": "Pad bewerken",
 		"machine": true
 	},
 	{
@@ -2395,12 +2358,6 @@
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
 		"translation": "Hulp in-\/uitschakelen",
-		"machine": true
-	},
-	{
-		"phrase": "Anchor Distance",
-		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
-		"translation": "Ankerafstand:",
 		"machine": true
 	},
 	{
@@ -9097,6 +9054,90 @@
 		"context": "None",
 		"comment": "Does not exist, i.e. 'No foregrip equipped'",
 		"translation": "Nee",
+		"machine": true
+	},
+	{
+		"phrase": "Show spectator controls",
+		"comment": "Keybind that shows\/hides the list of spectator controls",
+		"translation": "Bedieningselementen voor toeschouwers weergeven",
+		"machine": true
+	},
+	{
+		"phrase": "Clamp Altitude",
+		"comment": "Keep your flying spectator camera at the same altitude",
+		"translation": "Klem hoogte",
+		"machine": true
+	},
+	{
+		"phrase": "Smooth Camera",
+		"comment": "Smooth camera movement",
+		"translation": "Soepele camera",
+		"machine": true
+	},
+	{
+		"phrase": "Anchor",
+		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
+		"translation": "Anker",
+		"machine": true
+	},
+	{
+		"phrase": "Increase anchor distance",
+		"comment": "Increase the distance between the camera and the anchor position",
+		"translation": "Vergroot de ankerafstand",
+		"machine": true
+	},
+	{
+		"phrase": "Decrease anchor distance",
+		"comment": "Decrease the distance between the camera and the anchor position",
+		"translation": "Ankerafstand verkleinen",
+		"machine": true
+	},
+	{
+		"phrase": "Increase camera speed",
+		"comment": "Increase the movement speed of the spectator camera",
+		"translation": "Verhoog de camerasnelheid",
+		"machine": true
+	},
+	{
+		"phrase": "Decrease camera speed",
+		"comment": "Decrease the movement speed of the spectator camera",
+		"translation": "Camerasnelheid verlagen",
+		"machine": true
+	},
+	{
+		"phrase": "Next player",
+		"comment": "Spectate the next player in the list",
+		"translation": "Volgende speler",
+		"machine": true
+	},
+	{
+		"phrase": "Previous player",
+		"comment": "Spectate the previous player in the list",
+		"translation": "Vorige speler",
+		"machine": true
+	},
+	{
+		"phrase": "Create path {0}",
+		"comment": "Players can create up to 9 paths for cameras to move along (for recording cinematic shots). Parameter 0: '4'",
+		"translation": "Pad maken {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Play path {0}",
+		"comment": "This keybind plays the nth path. Parameter 0: '4'",
+		"translation": "Speelpad {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Edit path {0}",
+		"comment": "This keybind edits the nth path. Parameter 0: '4'",
+		"translation": "Pad bewerken {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Select player {0} on team {1}",
+		"comment": "This keybind selects the nth player on the nth team. Parameter 0: '11', Parameter 1: '2'",
+		"translation": "Selecteer speler {0} in team {1}",
 		"machine": true
 	}
 ]

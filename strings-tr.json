@@ -1892,20 +1892,9 @@
 		"translation": "Admin"
 	},
 	{
-		"phrase": "Clamp Y",
-		"context": "Clamp Y Axis",
-		"comment": "Spectator control",
-		"translation": "Y Eksenini Kısıtla"
-	},
-	{
 		"phrase": "X-Ray",
-		"comment": "Spectator control",
+		"comment": "Show enemy outlines through walls",
 		"translation": "Röntgen"
-	},
-	{
-		"phrase": "Smooth",
-		"comment": "Spectator control. Smooth camera movement",
-		"translation": "Yumuşak"
 	},
 	{
 		"phrase": "Cycle Players",
@@ -1928,11 +1917,6 @@
 		"translation": "Uçan Kamera"
 	},
 	{
-		"phrase": "Anchored",
-		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-		"translation": "Sabitlenmiş"
-	},
-	{
 		"phrase": "Select Player",
 		"comment": "Spectator control. Enter first-person spectate mode for the player you are looking",
 		"translation": "Oyuncu Seç"
@@ -1947,21 +1931,6 @@
 		"context": "Show Detailed Paths",
 		"comment": "Spectator control. Show every position in waypoint paths",
 		"translation": "Tam Yolları Göster"
-	},
-	{
-		"phrase": "Play Path",
-		"comment": "Spectator control. Make the camera follow a path",
-		"translation": "Oyun Yolu"
-	},
-	{
-		"phrase": "Create Path",
-		"comment": "Spectator control. Start creating a new path",
-		"translation": "Yol Oluştur"
-	},
-	{
-		"phrase": "Edit Path",
-		"comment": "Spectator control. Edit an existing path",
-		"translation": "Yolu Düzenle"
 	},
 	{
 		"phrase": "Set Waypoint",
@@ -1997,11 +1966,6 @@
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
 		"translation": "Yardımı Aç\/Kapat"
-	},
-	{
-		"phrase": "Anchor Distance",
-		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
-		"translation": "Kamera Mesafesi"
 	},
 	{
 		"phrase": "Select Aegis",
@@ -8688,6 +8652,90 @@
 		"context": "None",
 		"comment": "Does not exist, i.e. 'No foregrip equipped'",
 		"translation": "Numara",
+		"machine": true
+	},
+	{
+		"phrase": "Show spectator controls",
+		"comment": "Keybind that shows\/hides the list of spectator controls",
+		"translation": "İzleyici kontrollerini göster",
+		"machine": true
+	},
+	{
+		"phrase": "Clamp Altitude",
+		"comment": "Keep your flying spectator camera at the same altitude",
+		"translation": "Kelepçe yüksekliği",
+		"machine": true
+	},
+	{
+		"phrase": "Smooth Camera",
+		"comment": "Smooth camera movement",
+		"translation": "Pürüzsüz kamera",
+		"machine": true
+	},
+	{
+		"phrase": "Anchor",
+		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
+		"translation": "Çapa",
+		"machine": true
+	},
+	{
+		"phrase": "Increase anchor distance",
+		"comment": "Increase the distance between the camera and the anchor position",
+		"translation": "Ankraj mesafesini artırın",
+		"machine": true
+	},
+	{
+		"phrase": "Decrease anchor distance",
+		"comment": "Decrease the distance between the camera and the anchor position",
+		"translation": "Bağlantı mesafesini azalt",
+		"machine": true
+	},
+	{
+		"phrase": "Increase camera speed",
+		"comment": "Increase the movement speed of the spectator camera",
+		"translation": "Kamera hızını artırın",
+		"machine": true
+	},
+	{
+		"phrase": "Decrease camera speed",
+		"comment": "Decrease the movement speed of the spectator camera",
+		"translation": "Kamera hızını azalt",
+		"machine": true
+	},
+	{
+		"phrase": "Next player",
+		"comment": "Spectate the next player in the list",
+		"translation": "Sonraki oyuncu",
+		"machine": true
+	},
+	{
+		"phrase": "Previous player",
+		"comment": "Spectate the previous player in the list",
+		"translation": "Önceki oyuncu",
+		"machine": true
+	},
+	{
+		"phrase": "Create path {0}",
+		"comment": "Players can create up to 9 paths for cameras to move along (for recording cinematic shots). Parameter 0: '4'",
+		"translation": "{0} yolu oluştur",
+		"machine": true
+	},
+	{
+		"phrase": "Play path {0}",
+		"comment": "This keybind plays the nth path. Parameter 0: '4'",
+		"translation": "Oynatma yolu {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Edit path {0}",
+		"comment": "This keybind edits the nth path. Parameter 0: '4'",
+		"translation": "Yolu düzenle {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Select player {0} on team {1}",
+		"comment": "This keybind selects the nth player on the nth team. Parameter 0: '11', Parameter 1: '2'",
+		"translation": "{1} takımındaki {0} oyuncusunu seçin",
 		"machine": true
 	}
 ]
