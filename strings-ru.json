@@ -3516,7 +3516,7 @@
 	{
 		"phrase": "Title",
 		"comment": "1 Title. Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
-		"translation": "Заголовок",
+		"translation": "Титул",
 	},
 	{
 		"phrase": "Showcase",
@@ -5690,421 +5690,351 @@
 		"phrase": "Hipfire accuracy",
 		"comment": "Weapon accuracy while firing from the hip",
 		"translation": "Точность от бедра",
-		"machine": true
 	},
 	{
 		"phrase": "Bomb carrier",
 		"comment": "An enemy who is holding a bomb",
-		"translation": "Бомбардировщик",
-		"machine": true
+		"translation": "Носитель бомбы",
 	},
 	{
 		"phrase": "Flag carrier",
 		"comment": "An enemy who is holding a flag",
-		"translation": "Флагманский перевозчик",
-		"machine": true
+		"translation": "Носитель флага",
 	},
 	{
 		"phrase": "Soltrium salvaged",
 		"comment": "How much soltrium you salvaged from enemy corpses",
-		"translation": "Солтриум спасен",
-		"machine": true
+		"translation": "Солтриума собрано с тел",
 	},
 	{
 		"phrase": "Soltrium extracted",
 		"comment": "How much soltrium you extracted from Soltrium-infused meteors",
-		"translation": "Солтриум экстрагирован",
-		"machine": true
+		"translation": "Солтриума добыто с метеоритов",
 	},
 	{
 		"phrase": "{0} Title unlocked",
 		"comment": "Message when unlocking a title. Parameter 0: 'Midi Certified'",
-		"translation": "{0} Название разблокировано",
-		"machine": true
+		"translation": "{0} Титул разблокирован",
 	},
 	{
 		"phrase": "Pickup",
 		"comment": "1 Pickup, i.e. how many flags you've picked up, e.g. '1 pickup' or '3 pickups'",
-		"translation": "Подбирать",
-		"machine": true
+		"translation": "Подбор",
 	},
 	{
 		"phrase": "Pickups",
 		"comment": "2 Pickups",
-		"translation": "Пикапы",
-		"machine": true
+		"translation": "Подборов",
 	},
 	{
 		"phrase": "Enemy disrupted",
 		"comment": "1 Enemy disrupted, i.e. how many enemies have triggered a Disruptor you placed",
-		"translation": "Враг разбит",
-		"machine": true
+		"translation": "Враг попал в ловушку",
 	},
 	{
 		"phrase": "Enemies disrupted",
 		"comment": "2 Enemies disrupted",
-		"translation": "Враги разбиты",
-		"machine": true
+		"translation": "Врагов попало в ловушку",
 	},
 	{
 		"phrase": "Breakthrough zone captured",
 		"comment": "1 Breakthrough zone captured, i.e. how many zones you captured in the Breakthrough game mode",
-		"translation": "Захвачена зона прорыва",
-		"machine": true
+		"translation": "Захвачена зона в режиме Прорыв",
 	},
 	{
 		"phrase": "Breakthrough zones captured",
 		"comment": "2 Breakthrough zones captured",
-		"translation": "Зоны прорыва захвачены",
-		"machine": true
+		"translation": "Захвачено зон в режиме Прорыв",
 	},
 	{
 		"phrase": "Control Shift zone captured",
 		"comment": "1 Control Shift zone captured, i.e. how many zones you captured in the Control Shift game mode",
-		"translation": "Зона смены управления захвачена",
-		"machine": true
+		"translation": "Захвачена зона в режиме Перехват Контроля",
 	},
 	{
 		"phrase": "Control Shift zones captured",
 		"comment": "2 Control Shift zones captured",
-		"translation": "Зоны смены управления захвачены",
-		"machine": true
+		"translation": "Захвачено зон в режиме Перехват Контроля",
 	},
 	{
 		"phrase": "Flag captured",
 		"comment": "1 Flag captured, i.e. how many flags you captured in the Capture The Flag game mode",
 		"translation": "Флаг захвачен",
-		"machine": true
 	},
 	{
 		"phrase": "Flags captured",
 		"comment": "2 Flags captured",
-		"translation": "Флаги захвачены",
-		"machine": true
+		"translation": "Флагов захвачены",
 	},
 	{
 		"phrase": "Flag returned",
 		"comment": "1 Flag returned, i.e. how many flags you returned in the Capture The Flag game mode",
 		"translation": "Флаг возвращен",
-		"machine": true
 	},
 	{
 		"phrase": "Flags returned",
 		"comment": "2 Flags returned",
-		"translation": "Флаги возвращены",
-		"machine": true
+		"translation": "Флагов возвращено",
 	},
 	{
 		"phrase": "Bomb delivered",
 		"comment": "1 Bomb delivered, i.e. how many bombs you delivered in the Escort game mode",
 		"translation": "Бомба доставлена",
-		"machine": true
 	},
 	{
 		"phrase": "Bombs deliveries",
 		"comment": "2 Bombs deliveries",
-		"translation": "Поставки бомб",
-		"machine": true
+		"translation": "Бомб доставлено",
 	},
 	{
 		"phrase": "Bomb defused",
 		"comment": "1 Bomb defused, i.e. how many bombs you delivered in the Escort game mode",
 		"translation": "Бомба обезврежена",
-		"machine": true
 	},
 	{
 		"phrase": "Bombs defused",
 		"comment": "2 Bombs defused",
-		"translation": "Бомбы обезврежены",
-		"machine": true
+		"translation": "Бомб обезврежено",
 	},
 	{
 		"phrase": "Canisters",
 		"comment": "2 Canisters",
 		"translation": "Канистры",
-		"machine": true
 	},
 	{
 		"phrase": "Enemy spot",
 		"comment": "1 Enemy spot, i.e. '1 enemy spot'",
-		"translation": "Вражеское пятно",
-		"machine": true
+		"translation": "Обнаружение врага",
 	},
 	{
 		"phrase": "Enemies spotted",
 		"comment": "2 Enemy spotted, i.e. '3 enemies spotted'",
-		"translation": "Обнаружены враги",
-		"machine": true
+		"translation": "Обнаруженных врагов",
 	},
 	{
 		"phrase": "Teammate saved",
 		"comment": "1 Teammate saved, i.e. '1 teammate saved'",
-		"translation": "Товарищ по команде сохранен",
-		"machine": true
+		"translation": "Товарищ по команде спасен",
 	},
 	{
 		"phrase": "Teammates saved",
 		"comment": "2 Teammate saved, i.e. '3 teammates saved'",
-		"translation": "Товарищи по команде спасены",
-		"machine": true
+		"translation": "Товарищей по команде спасено",
 	},
 	{
 		"phrase": "Teammate avenged",
 		"comment": "1 Teammate avenged, i.e. '1 teammate avenged'",
-		"translation": "Товарищ по команде отомстил",
-		"machine": true
+		"translation": "Товарищ по команде отмщен",
 	},
 	{
 		"phrase": "Teammates avenged",
 		"comment": "2 Teammate avenged, i.e. '3 teammates avenged'",
-		"translation": "Товарищи по команде отомстили",
-		"machine": true
+		"translation": "Товарищей по команде отмщено",
 	},
 	{
 		"phrase": "Enemy",
 		"comment": "1 Enemy, i.e. a player who is on the other team",
-		"translation": "Враг",
-		"machine": true
+		"translation": "Противник",
 	},
 	{
 		"phrase": "Your team captured a zone",
 		"comment": "Your team captured a zone in the Breakthrough gamemode",
 		"translation": "Ваша команда захватила зону",
-		"machine": true
 	},
 	{
 		"phrase": "The enemy captured a zone",
 		"comment": "The enemy team captured a zone in the Breakthrough gamemode",
 		"translation": "Противник захватил зону",
-		"machine": true
 	},
 	{
 		"phrase": "Restoration started. Weapon use and respawning disabled",
 		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration starts (it takes a few seconds to finish)",
-		"translation": "Началась реставрация. использование оружия и возрождение отключены",
-		"machine": true
+		"translation": "Началось восстановление карты. Использование оружия и возрождение отключены",
 	},
 	{
 		"phrase": "Restoration finished. Respawning and weapon use allowed",
 		"comment": "When recording trailers, the map can be restored to an older version. This announcement is shown when the restoration finishes and players can continue shooting each other",
-		"translation": "Реставрация закончена. возрождение и использование оружия разрешено",
-		"machine": true
+		"translation": "Восстановление карты завершено. Возрождение и использование оружия снова доступны",
 	},
 	{
 		"phrase": "Our team defused the enemy bomb",
 		"comment": "Your team defused the enemy bomb in the Escort gamemode",
 		"translation": "Наша команда обезвредила вражескую бомбу",
-		"machine": true
 	},
 	{
 		"phrase": "The enemy defused our bomb",
 		"comment": "The enemy team defused our bomb in the Escort gamemode",
-		"translation": "Враг обезвредил нашу бомбу",
-		"machine": true
+		"translation": "Противник обезвредил нашу бомбу",
 	},
 	{
 		"phrase": "Our team returned our flag",
 		"comment": "Our team returned our flag back to our base in the Capture the Flag gamemode",
-		"translation": "Наша команда вернула наш флаг",
-		"machine": true
+		"translation": "Наш флаг возвращен",
 	},
 	{
 		"phrase": "The enemy returned their flag",
 		"comment": "The enemy team returned their flag back to their base in the Capture the Flag gamemode",
 		"translation": "Враг вернул свой флаг",
-		"machine": true
 	},
 	{
 		"phrase": "You picked up our bomb",
 		"comment": "You picked up your team's bomb in the Escort gamemode",
-		"translation": "Ты подобрал нашу бомбу",
-		"machine": true
+		"translation": "Вы подобрали нашу бомбу",
 	},
 	{
 		"phrase": "You picked up the enemy flag",
 		"comment": "You stole the enemies flag from their base",
-		"translation": "Вы подняли вражеский флаг",
-		"machine": true
+		"translation": "Вы подобрали вражеский флаг",
 	},
 	{
 		"phrase": "The enemy flag carrier has died",
 		"comment": "The enemy that was carrying our flag has been killed",
-		"translation": "Авианосец вражеского флага погиб",
-		"machine": true
+		"translation": "Противник, несший флаг, погиб",
 	},
 	{
 		"phrase": "The enemy bomb carrier has died",
 		"comment": "The enemy that was carrying their bomb has been killed",
-		"translation": "Вражеский бомбардировщик погиб",
-		"machine": true
+		"translation": "Противник, несший бомбу, погиб",
 	},
 	{
 		"phrase": "The enemy dropped our flag",
 		"comment": "The enemy that was carrying our flag dropped the flag on the ground",
-		"translation": "Враг сбросил наш флаг",
-		"machine": true
+		"translation": "Противник бросил наш флаг",
 	},
 	{
 		"phrase": "The enemy dropped their bomb",
 		"comment": "The enemy that was carrying their bomb dropped the bomb on the ground",
-		"translation": "Враг сбросил бомбу",
-		"machine": true
+		"translation": "Противник оставил бомбу",
 	},
 	{
 		"phrase": "Our flag carrier has died",
 		"comment": "The teammate that was carrying the enemies flag has been killed",
-		"translation": "Наш авианосец погиб",
-		"machine": true
+		"translation": "Союзник, несший флаг, погиб",
 	},
 	{
 		"phrase": "Our bomb carrier has died",
 		"comment": "The teammate that was carrying our bomb has been killed",
-		"translation": "Наш бомбардировщик погиб",
-		"machine": true
+		"translation": "Союзник, несший бомбу, погиб",
 	},
 	{
 		"phrase": "You dropped the enemy flag",
 		"comment": "You dropped the enemies flag on the ground",
-		"translation": "Вы сбросили вражеский флаг",
-		"machine": true
+		"translation": "Вы бросили вражеский флаг",
 	},
 	{
 		"phrase": "You dropped our bomb",
 		"comment": "You dropped our bomb on the ground",
-		"translation": "Вы сбросили нашу бомбу",
-		"machine": true
+		"translation": "Вы оставили нашу бомбу",
 	},
 	{
 		"phrase": "You can no longer modify your structures.",
 		"comment": "When players place inappropriate structures in game, a moderator can remove their ability to modify their structures. This text appears when they attempt to modify their structures",
-		"translation": "Вы больше не можете изменять свои структуры.",
-		"machine": true
+		"translation": "Вы больше не можете изменять свои постройки.",
 	},
 	{
 		"phrase": "{0} stole our flag",
 		"comment": "An enemy has stolen our flag. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} украл наш флаг",
-		"machine": true
 	},
 	{
 		"phrase": "{0} picked up the enemy bomb",
 		"comment": "An enemy has picked up their bomb. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} подобрал вражескую бомбу",
-		"machine": true
 	},
 	{
 		"phrase": "{0} stole the enemy flag",
 		"comment": "A friendly stole the enemy flag. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} украл вражеский флаг",
-		"machine": true
 	},
 	{
 		"phrase": "{0} picked up our bomb",
 		"comment": "An friendly has picked up our bomb. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} подобрал нашу бомбу",
-		"machine": true
 	},
 	{
 		"phrase": "{0} is now spectating",
 		"comment": "A player left the battle and is now spectating. Parameter 0: 'Vhauss'",
 		"translation": "{0} теперь наблюдает",
-		"machine": true
 	},
 	{
 		"phrase": "{0} left the planet",
 		"comment": "A player got in their spaceship and departed the planet. Parameter 0: 'Tilitaliboss'",
 		"translation": "{0} покинул планету",
-		"machine": true
 	},
 	{
 		"phrase": "{0} joined the chaos",
 		"comment": "A player has arrived in a chaotic battlefield. Parameter 0: 'Potato'",
 		"translation": "{0} присоединился к хаосу",
-		"machine": true
 	},
 	{
 		"phrase": "{0} just landed",
 		"comment": "A player has just landed in their spaceship. Parameter 0: 'nemelex'",
 		"translation": "{0} только что приземлился",
-		"machine": true
 	},
 	{
 		"phrase": "{0} arrived for battle",
 		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'DemmyBane'",
 		"translation": "{0} прибыл в бой",
-		"machine": true
 	},
 	{
 		"phrase": "{0} is ready to fight",
 		"comment": "A player arrived at the frontlines and is ready to fight. Parameter 0: 'Spotter654'",
 		"translation": "{0} готов к бою",
-		"machine": true
 	},
 	{
 		"phrase": "{0} is ready for battle",
 		"comment": "A player arrived at the battle and is ready for... battle. Parameter 0: 'Billium'",
-		"translation": "{0} готов к бою",
-		"machine": true
+		"translation": "{0} уже на передовой",
 	},
 	{
 		"phrase": "{0} will never give you up",
 		"comment": "Rick Astley has joined the battle and won't give you up. Parameter 0: 'Realkill_1111'",
-		"translation": "{0} никогда не откажется от тебя",
-		"machine": true
+		"translation": "{0} никогда не бросит вас",
 	},
 	{
 		"phrase": "{0} will never let you down",
 		"comment": "Rick Astley has joined the battle and won't let you down. Parameter 0: 'Blade'",
 		"translation": "{0} никогда не подведет",
-		"machine": true
 	},
 	{
 		"phrase": "Arena X-Ray activated - all players are now visible!",
 		"comment": "If an Arena round lasts too long, X-Ray vision is activated and players can see each other through walls",
-		"translation": "Активирован рентген арены - теперь видны все игроки!",
-		"machine": true
+		"translation": "Активирован рентген - теперь видны все игроки!",
 	},
 	{
 		"phrase": "{0} has dropped the enemy flag",
 		"comment": "A friendly has dropped the enemy flag on the ground. Parameter 0: 'SlippyTheSlime'",
-		"translation": "{0} сбросил вражеский флаг",
-		"machine": true
+		"translation": "{0} бросил вражеский флаг",
 	},
 	{
 		"phrase": "{0} has dropped our bomb",
 		"comment": "A friendly has dropped our bomb on the ground. Parameter 0: 'SlippyTheSlime'",
-		"translation": "{0} сбросил нашу бомбу",
-		"machine": true
+		"translation": "{0} оставил нашу бомбу",
 	},
 	{
 		"phrase": "{0} has captured our flag",
 		"comment": "An enemy has stolen our flag and captured it in their base. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} захватил наш флаг",
-		"machine": true
 	},
 	{
 		"phrase": "{0} has delivered their bomb",
 		"comment": "An enemy has placed their bomb in our base. Parameter 0: 'SlippyTheSlime'",
-		"translation": "{0} доставили свою бомбу",
-		"machine": true
+		"translation": "{0} доставил вражескую бомбу",
 	},
 	{
 		"phrase": "{0} has captured the enemy flag",
 		"comment": "A friendly has stolen the enemy flag and captured it in our base. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} захватил вражеский флаг",
-		"machine": true
 	},
 	{
 		"phrase": "{0} has delivered our bomb",
 		"comment": "A friendly has placed our bomb in the enemy base. Parameter 0: 'SlippyTheSlime'",
 		"translation": "{0} доставил нашу бомбу",
-		"machine": true
 	},
 	{
 		"phrase": "{0} is on a {1} kill streak",
 		"comment": "A player is on a killstreak. Parameter 0: 'zepofan', Parameter 1: '35'",
-		"translation": "{0} находится на серии убийств {1}",
-		"machine": true
+		"translation": "{0} находится на серии из {1} убийств",
 	},
 	{
 		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
