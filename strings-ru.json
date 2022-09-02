@@ -6039,327 +6039,275 @@
 	{
 		"phrase": "Wave {0} completed. Next wave in {1} {2}...",
 		"comment": "The players have defeated a wave\/group of enemies. The next wave will spawn in 30 seconds. Parameter 0: '5', Parameter 1: '30', Parameter 2: 'Seconds' (or 'Second', or the correct language-specific plural)",
-		"translation": "Волна {0} завершена. следующая волна в {1} {2}...",
-		"machine": true
+		"translation": "Волна {0} завершена. следующая волна через {1} {2}...",
 	},
 	{
 		"phrase": "Wave {0} begins. {1} {2} approach.",
 		"comment": "The next wave\/group of enemies. The next wave is imminent. Parameter 0: '6', Parameter 1: '40', Parameter 2: 'Enemies'",
-		"translation": "Начало волны {0}. {1} {2} подход.",
-		"machine": true
+		"translation": "Волна {0} начинается. {1} {2} на подходе.",
 	},
 	{
 		"phrase": "{0} has ended {1}'s killstreak at {2} {3}",
 		"comment": "A player with a killstreak has died. Parameter 0: 'deWolf', Parameter 1: 'zepofan', Parameter 2: '40', Parameter 3: 'Kills'",
-		"translation": "{0} прервал серию убийств {1} на {2} {3}.",
-		"machine": true
+		"translation": "{0} прервал серию из {2} {3} игрока {1}.",
 	},
 	{
 		"phrase": "Mouse wheel down",
 		"comment": "Keybind that fires when scrolling the mouse wheel down",
 		"translation": "Колесико мыши вниз",
-		"machine": true
 	},
 	{
 		"phrase": "Automatic",
 		"context": "Automatic Fire",
 		"comment": "Weapon firing mode, i.e. single shot, burst and automatic fire",
-		"translation": "автоматический",
-		"machine": true
+		"translation": "Автоматический",
 	},
 	{
 		"phrase": "Save",
 		"context": "Store",
 		"comment": "Save your changes to disk",
-		"translation": "Сохранять",
-		"machine": true
+		"translation": "Сохранить",
 	},
 	{
 		"phrase": "Starting in {0} {1}",
 		"comment": "This text shows at the start of a FFA match. Parameter 0: '10', Parameter 1: 'seconds'",
-		"translation": "Начиная с {0} {1}",
-		"machine": true
+		"translation": "Начало через {0} {1}",
 	},
 	{
 		"phrase": "Attachment point",
 		"comment": "1 Attachment point, which is used to unlock an attachment on a weapon",
-		"translation": "Точка крепления",
-		"machine": true
+		"translation": "Очко обвесов",
 	},
 	{
 		"phrase": "Attachment points",
 		"comment": "2 Attachment points, which are used to unlock attachments on a weapon",
-		"translation": "Точки крепления",
-		"machine": true
+		"translation": "Очков обвесов",
 	},
 	{
 		"phrase": "Spectator",
 		"comment": "1 Spectator, i.e. someone who is watching a battle",
 		"translation": "Зритель",
-		"machine": true
 	},
 	{
 		"phrase": "Friendly",
 		"comment": "1 Friendly, i.e. a player who is on your team",
-		"translation": "Дружелюбный",
-		"machine": true
+		"translation": "Союзник",
 	},
 	{
 		"phrase": "Point",
 		"comment": "1 Point. Players earn points when dealing damage, killing enemies, capturing objectives, etc",
-		"translation": "Точка",
-		"machine": true
+		"translation": "Очко",
 	},
 	{
 		"phrase": "Voice",
 		"comment": "Voice chat, where players speak with their voices",
 		"translation": "Голос",
-		"machine": true
 	},
 	{
 		"phrase": "Command",
 		"comment": "1 Command, i.e. a chat command that a player can run to perform an action, e.g. kicking a player",
 		"translation": "Команда",
-		"machine": true
 	},
 	{
 		"phrase": "Use allegiance colour",
 		"comment": "[Customisation] Use the colour of your selected allegiance",
-		"translation": "Используйте цвет верности",
-		"machine": true
+		"translation": "Использовать цвет альянса",
 	},
 	{
 		"phrase": "White labels",
 		"comment": "Controls whether the text labels on the screen is white or black\"",
-		"translation": "Белые этикетки",
-		"machine": true
+		"translation": "Белый текст",
 	},
 	{
 		"phrase": "Statistics colour",
 		"comment": "The colour of player statistics",
 		"translation": "Цвет статистики",
-		"machine": true
 	},
 	{
 		"phrase": "Click a server to join",
 		"comment": "Prompt telling the player to click any server in the list to join it",
-		"translation": "Нажмите на сервер, чтобы присоединиться",
-		"machine": true
+		"translation": "Нажмите на сервер, чтобы присоединиться к игре",
 	},
 	{
 		"phrase": "Quick play",
 		"comment": "Click this button to join a random low-ping server with players in it",
 		"translation": "Быстрая игра",
-		"machine": true
 	},
 	{
 		"phrase": "Server list",
 		"comment": "A list of servers that a player can connect to to play Sector's Edge",
 		"translation": "Список серверов",
-		"machine": true
 	},
 	{
 		"phrase": "Back",
 		"comment": "Go back to the previous screen",
 		"translation": "Назад",
-		"machine": true
 	},
 	{
 		"phrase": "Finished",
 		"comment": "The trial is finished",
-		"translation": "Законченный",
-		"machine": true
+		"translation": "Пройдено",
 	},
 	{
 		"phrase": "Instructions",
 		"comment": "Instructions on how to complete a task",
-		"translation": "инструкции",
-		"machine": true
+		"translation": "Инструкции",
 	},
 	{
 		"phrase": "Scoreboard",
 		"comment": "A list of players in game sorted descending by the amount of points they have",
-		"translation": "Табло",
-		"machine": true
+		"translation": "Таблица лидеров",
 	},
 	{
 		"phrase": "You must wait {0}s before initiating another votekick",
 		"comment": "Warning message when a player attempts to votekick another player during the votekick cooldown",
-		"translation": "Вы должны подождать {0}s, прежде чем инициировать другой голосование",
-		"machine": true
+		"translation": "Вы должны подождать {0} секунд, прежде чем инициировать новое голосование",
 	},
 	{
 		"phrase": "Trial Complete",
 		"comment": "The player has completed the time trial",
-		"translation": "Пробная версия завершена",
-		"machine": true
+		"translation": "Испытание Пройдено",
 	},
 	{
 		"phrase": "Not completed",
 		"comment": "This trial has not been completed",
-		"translation": "Не завершен",
-		"machine": true
+		"translation": "Не пройдено",
 	},
 	{
 		"phrase": "This time",
 		"comment": "How long it just took for the player to complete the trial, i.e. 'This time' vs 'Best time'",
-		"translation": "В это время",
-		"machine": true
+		"translation": "Время",
 	},
 	{
 		"phrase": "Best time",
 		"comment": "The fastest time the player completed the trial, i.e. 'This time' vs 'Best time'",
 		"translation": "Лучшее время",
-		"machine": true
 	},
 	{
 		"phrase": "Saving time",
 		"comment": "Loading text that shows while the server is saving\/storing the player's time",
-		"translation": "Экономия времени",
-		"machine": true
+		"translation": "Сохранение времени",
 	},
 	{
 		"phrase": "Time saved",
 		"comment": "The player's time has been saved\/stored by the server",
-		"translation": "Сэкономленное время",
-		"machine": true
+		"translation": "Время сохранено",
 	},
 	{
 		"phrase": "Leave",
 		"comment": "Exit \/ leave the trials",
-		"translation": "Оставлять",
-		"machine": true
+		"translation": "Выйти",
 	},
 	{
 		"phrase": "TBD",
 		"comment": "Acronym for 'to be determined'",
-		"translation": "подлежит уточнению",
-		"machine": true
+		"translation": "Подлежит уточнению",
 	},
 	{
 		"phrase": "Player",
 		"comment": "1 Player, i.e. someone who is playing Sector's Edge",
 		"translation": "Игрок",
-		"machine": true
 	},
 	{
 		"phrase": "Reach the {0} platform to finish",
 		"comment": "Trial instructions, the player needs to stand on the yellow platform to complete the trial. Parameter 0: 'Yellow'",
-		"translation": "Доберитесь до платформы {0}, чтобы закончить",
-		"machine": true
+		"translation": "Доберитесь до платформы {0}, чтобы завершить испытание",
 	},
 	{
 		"phrase": "Avoid touching the {0} blocks",
 		"comment": "Trial instructions, the player fails if they touch any red blocks. Parameter 0: 'Red",
 		"translation": "Не прикасайтесь к блокам {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Build off the {0} blocks",
 		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks. Parameter 0: 'Purple'",
-		"translation": "Соберите блоки {0}",
-		"machine": true
+		"translation": "Стройте на {0} блоках",
 	},
 	{
 		"phrase": "Achievements",
 		"comment": "Something the player can achieve",
 		"translation": "Достижения",
-		"machine": true
 	},
 	{
 		"phrase": "Type here to search {0}...",
 		"comment": "Placeholder text for a search field. Parameter 0: 'Settings'",
-		"translation": "Введите здесь для поиска {0}...",
-		"machine": true
+		"translation": "Введите здесь для поиска по разделу {0}...",
 	},
 	{
 		"phrase": "Statistics",
 		"comment": "Data",
 		"translation": "Статистика",
-		"machine": true
 	},
 	{
 		"phrase": "Networking rate changes how often you receive data from the server. Set this to 30 FPS if you have unstable or slow internet",
 		"comment": "Tooltip for the Networking Rate setting",
-		"translation": "Скорость сети влияет на то, как часто вы получаете данные с сервера. установите это значение на 30 кадров в секунду, если у вас нестабильный или медленный интернет",
-		"machine": true
+		"translation": "Скорость сети влияет на то, как часто вы получаете данные с сервера. Установите это значение на 30 кадров в секунду, если у вас нестабильный или медленный интернет",
 	},
 	{
 		"phrase": "Failed to connect to {0}",
 		"comment": "Error message to show the client could not communicate with a server. Parameter 0: 'Fremont-1'",
 		"translation": "Не удалось подключиться к {0}",
-		"machine": true
 	},
 	{
 		"phrase": "Failed to load resource {0}",
 		"comment": "Error message to show the client failed to load a file from disk. Parameter 0: 'help.png'",
-		"translation": "Не удалось загрузить ресурс {0}",
-		"machine": true
+		"translation": "Не удалось загрузить файл {0}",
 	},
 	{
 		"phrase": "{0} error - this social sidebar will no longer update.",
 		"comment": "Steam error message that indicates the friends on the sidebar on the right side of the screen will no longer update. Parameter 0: 'Steam'",
-		"translation": "Ошибка {0} - эта социальная боковая панель больше не будет обновляться.",
+		"translation": "Ошибка {0} - боковая панель Друзья больше не будет обновляться.",
 		"machine": true
 	},
 	{
 		"phrase": "Titles",
 		"comment": "2 Titles",
-		"translation": "Титулы",
-		"machine": true
+		"translation": "Титулов",
 	},
 	{
 		"phrase": "Ping (Enemy)",
 		"context": "Marker (Enemy)",
 		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
-		"translation": "Пинг (враг)",
-		"machine": true
+		"translation": "Отметка (Враг)",
 	},
 	{
 		"phrase": "Ping (Help)",
 		"context": "Marker (Help)",
 		"comment": "This ping refers to placing a 3D marker above your head, indicating you need help\/backup\/support\/assistance from your team",
-		"translation": "Пинг (помощь)",
-		"machine": true
+		"translation": "Отметка (Помощь)",
 	},
 	{
 		"phrase": "Ping",
 		"context": "Marker",
 		"comment": "Column header on the server list",
-		"translation": "пинг",
-		"machine": true
+		"translation": "Пинг",
 	},
 	{
 		"phrase": "Controls whether the camera should sway left and right while sprinting",
 		"comment": "Description for the 'Camera sway' setting",
-		"translation": "Определяет, должна ли камера раскачиваться влево и вправо во время бега.",
-		"machine": true
+		"translation": "Определяет, будет ли камера покачиваться влево и вправо во время бега.",
 	},
 	{
 		"phrase": "Voice input device",
 		"comment": "Setting that controls which voice input device\/microphone the game will use",
 		"translation": "Устройство голосового ввода",
-		"machine": true
 	},
 	{
 		"phrase": "Pew Pew Mode",
 		"context": "Acapella mode",
 		"comment": "Setting that replaces sounds with community-made acapella versions",
-		"translation": "режим пиу пиу",
-		"machine": true
+		"translation": "Пиу-Пиу Режим",
 	},
 	{
 		"phrase": "Replaces sounds with community-made acapella versions",
 		"comment": "Description for the 'Pew Pew Mode' setting",
-		"translation": "Заменяет звуки версиями акапеллы, созданными сообществом.",
-		"machine": true
+		"translation": "Заменяет звуки акапельными версиями, созданными сообществом.",
 	},
 	{
 		"phrase": "Crosshair spacing",
 		"context": "Crosshair distance",
 		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
-		"translation": "Расстояние между перекрестиями",
-		"machine": true
+		"translation": "Размер пустого пространства",
 	},
 	{
 		"phrase": "Edge width",
