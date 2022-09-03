@@ -8786,5 +8786,11 @@
 		"comment": "This keybind selects the nth player on the nth team. Parameter 0: '11', Parameter 1: '2'",
 		"translation": "Выберите игрока {0} в команде {1}.",
 		"machine": true
+	},
+	{
+		"phrase": "Networking HUD",
+		"comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
+		"translation": "Сетевой HUD",
+		"machine": true
 	}
 ]

@@ -9139,5 +9139,11 @@
 		"comment": "This keybind selects the nth player on the nth team. Parameter 0: '11', Parameter 1: '2'",
 		"translation": "チーム {1} のプレイヤー {0} を選択",
 		"machine": true
+	},
+	{
+		"phrase": "Networking HUD",
+		"comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
+		"translation": "ネットワーキング HUD",
+		"machine": true
 	}
 ]
