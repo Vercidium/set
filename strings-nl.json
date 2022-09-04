@@ -31,7 +31,7 @@
 	},
 	{
 		"phrase": "Headshot",
-		"comment": "Shooting another player in the head",
+		"comment": "1 headshot. The amount of times a player was shot in the head",
 		"translation": "Hoofdschot",
 		"machine": true
 	},
@@ -1632,12 +1632,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Toggle Names",
-		"comment": "[Keybind]",
-		"translation": "Namen wisselen",
-		"machine": true
-	},
-	{
 		"phrase": "Toggle Info Overlay",
 		"comment": "[Keybind]",
 		"translation": "Informatie-overlay wisselen",
@@ -1853,30 +1847,6 @@
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
 		"translation": "Mevrouw",
-		"machine": true
-	},
-	{
-		"phrase": "Bronze medal",
-		"comment": "A bronze medal",
-		"translation": "Bronzen medaille",
-		"machine": true
-	},
-	{
-		"phrase": "Silver medal",
-		"comment": "A silver medal",
-		"translation": "Zilveren medaille",
-		"machine": true
-	},
-	{
-		"phrase": "Gold medal",
-		"comment": "A gold medal",
-		"translation": "Gouden medaille",
-		"machine": true
-	},
-	{
-		"phrase": "Platinum medal",
-		"comment": "A platinum medal",
-		"translation": "Platina medaille",
 		"machine": true
 	},
 	{
@@ -2300,22 +2270,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Clamp Y",
-		"context": "Clamp Y Axis",
-		"comment": "Spectator control",
-		"translation": "Klem Y",
-		"machine": true
-	},
-	{
 		"phrase": "X-Ray",
-		"comment": "Spectator control",
+		"comment": "Show enemy outlines through walls",
 		"translation": "Röntgenfoto",
-		"machine": true
-	},
-	{
-		"phrase": "Smooth",
-		"comment": "Spectator control. Smooth camera movement",
-		"translation": "Zacht",
 		"machine": true
 	},
 	{
@@ -2343,12 +2300,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Anchored",
-		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-		"translation": "verankerd",
-		"machine": true
-	},
-	{
 		"phrase": "Select Player",
 		"comment": "Spectator control. Enter first-person spectate mode for the player you are looking",
 		"translation": "Kies speler",
@@ -2365,24 +2316,6 @@
 		"context": "Show Detailed Paths",
 		"comment": "Spectator control. Show every position in waypoint paths",
 		"translation": "Volledige paden weergeven",
-		"machine": true
-	},
-	{
-		"phrase": "Play Path",
-		"comment": "Spectator control. Make the camera follow a path",
-		"translation": "Speelpad",
-		"machine": true
-	},
-	{
-		"phrase": "Create Path",
-		"comment": "Spectator control. Start creating a new path",
-		"translation": "Pad maken",
-		"machine": true
-	},
-	{
-		"phrase": "Edit Path",
-		"comment": "Spectator control. Edit an existing path",
-		"translation": "Pad bewerken",
 		"machine": true
 	},
 	{
@@ -2425,12 +2358,6 @@
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
 		"translation": "Hulp in-\/uitschakelen",
-		"machine": true
-	},
-	{
-		"phrase": "Anchor Distance",
-		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
-		"translation": "Ankerafstand:",
 		"machine": true
 	},
 	{
@@ -4196,12 +4123,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Quick play - {0}",
-		"comment": "Click here to quick play in Oceania. Parameter 0: Oceania",
-		"translation": "Snel spelen - {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "Boosts",
@@ -4401,7 +4322,7 @@
 	},
 	{
 		"phrase": "Level {0}",
-		"comment": "The player's level, which increases the more they play the game. Parameter 0: 50",
+		"comment": "The player's skill level, which increases the more they play the game. Parameter 0: 50",
 		"translation": "Niveau {0}",
 		"machine": true
 	},
@@ -4766,7 +4687,7 @@
 	},
 	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
-		"comment": "Description for the 'Skip Midi on swap' setting",
+		"comment": "Description for the 'Skip MiDi on swap' setting",
 		"translation": "Bepaalt of de speler moet overschakelen naar de midi bij het scrollen of het indrukken van de laatste tool-toetsbinding",
 		"machine": true
 	},
@@ -6045,12 +5966,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {1} modifications.",
-		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
-		"translation": "Toon uw bouwexpertise met de ingenieur en hun aftermarket {1}-aanpassingen.",
-		"machine": true
-	},
-	{
 		"phrase": "{0} Engineer",
 		"comment": "Parameter 0: 'Agaman', which is the name of a race",
 		"translation": "{0} Ingenieur",
@@ -6108,7 +6023,7 @@
 	},
 	{
 		"phrase": "Success",
-		"comment": "Steam error description",
+		"comment": "This message appears when a command runs successfully",
 		"translation": "Succes",
 		"machine": true
 	},
@@ -6432,7 +6347,7 @@
 	},
 	{
 		"phrase": "Degree",
-		"comment": "1 Degree. The mathematical unit used to measure angles.",
+		"comment": "1 Degree. The mathematical unit used to measure angles",
 		"translation": "Rang",
 		"machine": true
 	},
@@ -6444,7 +6359,7 @@
 	},
 	{
 		"phrase": "Use",
-		"comment": "1 Use. The amount of times an object was used.",
+		"comment": "1 Use. The amount of times an object was used",
 		"translation": "Gebruiken",
 		"machine": true
 	},
@@ -6456,7 +6371,7 @@
 	},
 	{
 		"phrase": "Shot",
-		"comment": "1 Shot. The amount of times a gun was fired.",
+		"comment": "1 Shot. The amount of times a gun was fired",
 		"translation": "Schot",
 		"machine": true
 	},
@@ -6468,7 +6383,7 @@
 	},
 	{
 		"phrase": "Swing",
-		"comment": "1 Swing. The amount of times a player used their melee.",
+		"comment": "1 Swing. The amount of times a player used their melee",
 		"translation": "Schommel",
 		"machine": true
 	},
@@ -6590,13 +6505,6 @@
 		"phrase": "Pick up secondary",
 		"comment": "Pick up your secondary\/fallback weapon",
 		"translation": "Ophalen secundair",
-		"machine": true
-	},
-	{
-		"phrase": "Midi",
-		"context": "Builder",
-		"comment": "A building\/digging gadget, the name is short for Miner Digger",
-		"translation": "Midi",
 		"machine": true
 	},
 	{
@@ -7704,7 +7612,7 @@
 	},
 	{
 		"phrase": "Skip {0} on swap",
-		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'Midi'",
+		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'MiDi'",
 		"translation": "Sla {0} over bij swap",
 		"machine": true
 	},
@@ -8116,12 +8024,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} damage modifier set to {2}",
-		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
-		"translation": "{0} schade modifier ingesteld op {2}",
-		"machine": true
-	},
-	{
 		"phrase": "Invalid argument {0}. Expected {1}",
 		"comment": "This error message appears when running a command with an invalid argument, e.g. '\/forcemap aegis' instead of '\/forcemap ad' (ad stands for aegis desert). Parameter 0: 'mapCode', Parameter 1: 'ad|cf|is|mc|st'",
 		"translation": "Ongeldig argument {0}. verwacht {1}",
@@ -8311,6 +8213,937 @@
 		"phrase": "{0} tried to start a votekick against {1}. It had no effect",
 		"comment": "This error message appears when a player attempts to kick a moderator. Parameter 0: 'Guffyfish', Parameter 1: 'Fora'",
 		"translation": "{0} probeerde een votekick te starten tegen {1}. Het had geen effect",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to restart",
+		"comment": "Trial instructions on how to restart the trial. Parameter 0: '[ R ]'",
+		"translation": "Druk op {0} om opnieuw te starten",
+		"machine": true
+	},
+	{
+		"phrase": "Fire",
+		"comment": "Hot burning fire",
+		"translation": "Vuur",
+		"machine": true
+	},
+	{
+		"phrase": "{0} damage modifier set to {1}",
+		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
+		"translation": "{0} schade modifier ingesteld op {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is used in {1} {2}. Click confirm to delete it",
+		"comment": "This confirmation text appears when deleting a preset that's still used in a loadout. Parameter 0: 'Heavy SMG', parameter 1: '3', parameter 2: 'Loadouts (or alternate plural version)",
+		"translation": "{0} wordt gebruikt in {1} {2}. Klik op bevestigen om het te verwijderen",
+		"machine": true
+	},
+	{
+		"phrase": "Confirm Delete",
+		"comment": "Confirm you want to delete this weapon preset",
+		"translation": "Bevestig verwijderen",
+		"machine": true
+	},
+	{
+		"phrase": "Aiming",
+		"comment": "Aiming with a gun",
+		"translation": "mikken",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Player Names",
+		"comment": "[Keybind]",
+		"translation": "Spelersnamen wisselen",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Enemy Names (Trailer Mode)",
+		"comment": "Press this keybind to toggle whether enemy names are displayed (only works in Trailer Mode)",
+		"translation": "Wissel vijandelijke namen (trailermodus))",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
+		"translation": "Toon uw bouwexpertise met de ingenieur en hun aftermarket {0}-aanpassingen.",
+		"machine": true
+	},
+	{
+		"phrase": "Hue Shift",
+		"comment": "An offset applied to the hue component of a colour, e.g. 'hue shifted from red to yellow'",
+		"translation": "Tintverschuiving",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze {0}",
+		"comment": "A bronze medal",
+		"translation": "Brons {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Silver {0}",
+		"comment": "A silver medal",
+		"translation": "Zilver {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Gold {0}",
+		"comment": "A gold medal",
+		"translation": "Goud {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum {0}",
+		"comment": "A platinum medal",
+		"translation": "Platina {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Teamplay",
+		"comment": "Working together as a team",
+		"translation": "Teamplay",
+		"machine": true
+	},
+	{
+		"phrase": "Distance travelled",
+		"comment": "How far a player travelled",
+		"translation": "Afstand gereisd",
+		"machine": true
+	},
+	{
+		"phrase": "Killed by",
+		"comment": "How many times you have been killed by a weapon, e.g. 'Killed by SMG: 34'",
+		"translation": "Gedood door",
+		"machine": true
+	},
+	{
+		"phrase": "Destroyed",
+		"comment": "The player was destroyed by deWolf",
+		"translation": "Vernietigd",
+		"machine": true
+	},
+	{
+		"phrase": "Fortifying {0} created",
+		"comment": "How many blocks the player has placed to fortify a zone. Parameter 0 is either 'block' or 'blocks'",
+		"translation": "Versterkende {0} gemaakt",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} detonated",
+		"comment": "How many Soltrium canisters the player has detonated. Parameter 0 is 'Soltrium'. Parameter 1 is either 'canister' or 'canisters'",
+		"translation": "{0} {1} ontploft",
+		"machine": true
+	},
+	{
+		"phrase": "Time aiming",
+		"comment": "How long the player spent aiming",
+		"translation": "Tijd gericht",
+		"machine": true
+	},
+	{
+		"phrase": "Time in air",
+		"comment": "How long the player spent in the air",
+		"translation": "Tijd in de lucht",
+		"machine": true
+	},
+	{
+		"phrase": "Time strafing",
+		"comment": "How long the player spent strafing",
+		"translation": "Tijd beschieten",
+		"machine": true
+	},
+	{
+		"phrase": "Time sprinting",
+		"comment": "How long the player spent sprinting",
+		"translation": "Tijd sprinten",
+		"machine": true
+	},
+	{
+		"phrase": "Time sliding",
+		"comment": "How long the player spent sliding",
+		"translation": "Tijd glijden",
+		"machine": true
+	},
+	{
+		"phrase": "Time crouching",
+		"comment": "How long the player spent crouching",
+		"translation": "Tijd gehurkt",
+		"machine": true
+	},
+	{
+		"phrase": "Time swimming",
+		"comment": "How long the player spent swimming",
+		"translation": "Tijd zwemmen",
+		"machine": true
+	},
+	{
+		"phrase": "Neutral time",
+		"comment": "How long the player spent outside a zone",
+		"translation": "Neutrale tijd",
+		"machine": true
+	},
+	{
+		"phrase": "Defensive time",
+		"comment": "How long the player spent defending a zone",
+		"translation": "Defensieve tijd",
+		"machine": true
+	},
+	{
+		"phrase": "Offensive time",
+		"comment": "How long the player spent attacking a zone",
+		"translation": "Offensieve tijd",
+		"machine": true
+	},
+	{
+		"phrase": "Playtime",
+		"comment": "How long the player spent playing the game",
+		"translation": "Speeltijd",
+		"machine": true
+	},
+	{
+		"phrase": "Defensive",
+		"comment": "The player was defensive",
+		"translation": "defensief",
+		"machine": true
+	},
+	{
+		"phrase": "Offensive",
+		"comment": "The player was offensive",
+		"translation": "Offensief",
+		"machine": true
+	},
+	{
+		"phrase": "Neutral",
+		"comment": "The player was neutral",
+		"translation": "Neutrale",
+		"machine": true
+	},
+	{
+		"phrase": "Trial",
+		"comment": "A time trial, e.g. 'The Building 2 Trial'",
+		"translation": "Proces",
+		"machine": true
+	},
+	{
+		"phrase": "Particle delay",
+		"comment": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+		"translation": "Deeltjes vertraging",
+		"machine": true
+	},
+	{
+		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+		"comment": "Description for the 'Particle Delay' settings",
+		"translation": "Geavanceerde weergave-instelling die bepaalt hoeveel frames de deeltjesengine mag achterblijven",
+		"machine": true
+	},
+	{
+		"phrase": "Show icons when ADS",
+		"comment": "Setting that controls whether icons and player names should display when aiming down the sights",
+		"translation": "Pictogrammen weergeven bij ADS",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether icons and player names should display when aiming down the sights",
+		"comment": "Description for the 'Show icons when ADS' setting",
+		"translation": "Bepaalt of pictogrammen en spelersnamen moeten worden weergegeven bij het richten op de vizieren",
+		"machine": true
+	},
+	{
+		"phrase": "Failed",
+		"comment": "This error message appears when a command failed to run",
+		"translation": "mislukt",
+		"machine": true
+	},
+	{
+		"phrase": "Headshots",
+		"comment": "2 headshots",
+		"translation": "Headshots",
+		"machine": true
+	},
+	{
+		"phrase": "Frame",
+		"comment": "1 Frame, i.e. 1 frame per second",
+		"translation": "Kader",
+		"machine": true
+	},
+	{
+		"phrase": "Frames",
+		"comment": "2 Frames, i.e. 2 frames per second",
+		"translation": "Kaders",
+		"machine": true
+	},
+	{
+		"phrase": "Medal",
+		"comment": "1 bronze medal",
+		"translation": "Medaille",
+		"machine": true
+	},
+	{
+		"phrase": "Medals",
+		"comment": "2 bronze medals",
+		"translation": "medailles",
+		"machine": true
+	},
+	{
+		"phrase": "Match won",
+		"comment": "1 match won",
+		"translation": "Wedstrijd gewonnen",
+		"machine": true
+	},
+	{
+		"phrase": "Matches won",
+		"comment": "2 matches won",
+		"translation": "Gewonnen wedstrijden",
+		"machine": true
+	},
+	{
+		"phrase": "Match lost",
+		"comment": "1 match lost",
+		"translation": "Wedstrijd verloren",
+		"machine": true
+	},
+	{
+		"phrase": "Matches lost",
+		"comment": "2 matches lost",
+		"translation": "wedstrijden verloren",
+		"machine": true
+	},
+	{
+		"phrase": "Updates",
+		"comment": "The game has had 3 updates recently",
+		"translation": "Updates",
+		"machine": true
+	},
+	{
+		"phrase": "Hit",
+		"comment": "1 hit, i.e. you hit an enemy once",
+		"translation": "Raken",
+		"machine": true
+	},
+	{
+		"phrase": "Hits",
+		"comment": "2 hits",
+		"translation": "treffers",
+		"machine": true
+	},
+	{
+		"phrase": "Level",
+		"comment": "The player's skill level, which increases the more they play the game. Parameter 0: 50",
+		"translation": "Niveau",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire",
+		"comment": "Firing a weapon from the hip",
+		"translation": "Heupvuur",
+		"machine": true
+	},
+	{
+		"phrase": "Body",
+		"comment": "The part of a player that isn't their head",
+		"translation": "Lichaam",
+		"machine": true
+	},
+	{
+		"phrase": "Splash",
+		"comment": "Splash \/ area-of-effect damage from explosions",
+		"translation": "Plons",
+		"machine": true
+	},
+	{
+		"phrase": "Total",
+		"comment": "The whole amount",
+		"translation": "Totaal",
+		"machine": true
+	},
+	{
+		"phrase": "Spot",
+		"comment": "To locate an object, e.g. \"They spot an enemy in a building\"",
+		"translation": "Plek",
+		"machine": true
+	},
+	{
+		"phrase": "Distance",
+		"comment": "How far a player travelled",
+		"translation": "Afstand",
+		"machine": true
+	},
+	{
+		"phrase": "Lose",
+		"comment": "You lose!",
+		"translation": "Verliezen",
+		"machine": true
+	},
+	{
+		"phrase": "Destroy",
+		"comment": "Destroy the enemy tower",
+		"translation": "Kapot maken",
+		"machine": true
+	},
+	{
+		"phrase": "Accuracy",
+		"comment": "How many of your shots hit a target when firing a gun",
+		"translation": "Nauwkeurigheid",
+		"machine": true
+	},
+	{
+		"phrase": "Career",
+		"comment": "A player's career, a record of their achievements and stats",
+		"translation": "Carrière",
+		"machine": true
+	},
+	{
+		"phrase": "Create",
+		"comment": "Create a fortified position to attack the enemy",
+		"translation": "Creëren",
+		"machine": true
+	},
+	{
+		"phrase": "Killstreak",
+		"comment": "When you kill multiple enemies without dying, i.e. 'zepofan is on a 15 killstreak'",
+		"translation": "Kill streak",
+		"machine": true
+	},
+	{
+		"phrase": "Longest",
+		"comment": "My longest killstreak is 7",
+		"translation": "Langste",
+		"machine": true
+	},
+	{
+		"phrase": "Average",
+		"comment": "My average killstreak is 1.3",
+		"translation": "Gemiddeld",
+		"machine": true
+	},
+	{
+		"phrase": "Alive",
+		"comment": "Not dead. It's alive!",
+		"translation": "In leven",
+		"machine": true
+	},
+	{
+		"phrase": "Strafe",
+		"comment": "To move left and right while facing forwards",
+		"translation": "Strafe",
+		"machine": true
+	},
+	{
+		"phrase": "Still",
+		"comment": "Standing still",
+		"translation": "Nog altijd",
+		"machine": true
+	},
+	{
+		"phrase": "Swim",
+		"comment": "Going for a swim in the pool",
+		"translation": "Zwemmen",
+		"machine": true
+	},
+	{
+		"phrase": "Air",
+		"comment": "The enemy was flying through the air",
+		"translation": "Lucht",
+		"machine": true
+	},
+	{
+		"phrase": "Extract",
+		"comment": "To remove a resource from a rock, i.e. extract Soltrium",
+		"translation": "Extract",
+		"machine": true
+	},
+	{
+		"phrase": "Defuse",
+		"comment": "To defuse or disarm a bomb or heated conversation",
+		"translation": "onschadelijk maken",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver",
+		"comment": "It feels great to have a pizza delivered to your house",
+		"translation": "Leveren",
+		"machine": true
+	},
+	{
+		"phrase": "Return",
+		"comment": "When you're Christmas shopping but they send you the wrong thing so you need to return it",
+		"translation": "Opbrengst",
+		"machine": true
+	},
+	{
+		"phrase": "Capture",
+		"comment": "To steal something from the enemy and store it securely",
+		"translation": "Vastleggen",
+		"machine": true
+	},
+	{
+		"phrase": "Death",
+		"comment": "1 death, i.e. how many times you died",
+		"translation": "Dood",
+		"machine": true
+	},
+	{
+		"phrase": "Deaths",
+		"comment": "2 deaths",
+		"translation": "Sterfgevallen",
+		"machine": true
+	},
+	{
+		"phrase": "The default barrel is light with no downsides and no cost",
+		"comment": "Barrel description",
+		"translation": "Het standaard vat is licht zonder nadelen en zonder kosten",
+		"machine": true
+	},
+	{
+		"phrase": "The extended barrel increases damage over distance",
+		"comment": "Barrel description",
+		"translation": "De verlengde loop vergroot de schade over afstand",
+		"machine": true
+	},
+	{
+		"phrase": "The choke reduces pellet spread",
+		"comment": "Barrel description",
+		"translation": "De choke vermindert de verspreiding van pellets",
+		"machine": true
+	},
+	{
+		"phrase": "The compensator reduces recoil",
+		"comment": "Barrel description",
+		"translation": "De compensator vermindert de terugslag",
+		"machine": true
+	},
+	{
+		"phrase": "The accelerator increases projectile speed and damage over distance",
+		"comment": "Barrel description",
+		"translation": "De versneller verhoogt de projectielsnelheid en schade over afstand",
+		"machine": true
+	},
+	{
+		"phrase": "The beam splitter separates plasma projectiles into four smaller projectiles",
+		"comment": "Barrel description",
+		"translation": "De bundelsplitser scheidt plasmaprojectielen in vier kleinere projectielen",
+		"machine": true
+	},
+	{
+		"phrase": "The medium barrel is lighter and cheaper but has reduced projectile speed and damage over distance",
+		"comment": "Barrel description",
+		"translation": "De middelgrote loop is lichter en goedkoper, maar heeft een lagere projectielsnelheid en schade over afstand",
+		"machine": true
+	},
+	{
+		"phrase": "The short barrel converts your Rail Gun into a Rail Pistol",
+		"comment": "Barrel description",
+		"translation": "De korte loop maakt van je railpistool een railpistool",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} stops you from appearing on the minimap when firing",
+		"comment": "Barrel description. Parameter 0: 'silencer'",
+		"translation": "De {0} zorgt ervoor dat je niet op de minimap verschijnt tijdens het schieten",
+		"machine": true
+	},
+	{
+		"phrase": "Removing the grip from your gun increases recoil and reduces holster time",
+		"comment": "Foregrip description",
+		"translation": "Het verwijderen van de greep van uw pistool verhoogt de terugslag en verkort de holstertijd",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} grip reduces initial recoil and increases full-auto recoil",
+		"comment": "Foregrip description. Parameter 0: 'Stubby'",
+		"translation": "De {0}-grip vermindert de initiële terugslag en verhoogt de volledig automatische terugslag",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} grip gives consistent recoil on all shots",
+		"comment": "Foregrip description. Parameter 0: 'Angled'",
+		"translation": "De {0}-grip zorgt voor een consistente terugslag bij alle slagen",
+		"machine": true
+	},
+	{
+		"phrase": "The base loader has the slowest pump speed",
+		"comment": "Loader description",
+		"translation": "De basislader heeft de laagste pompsnelheid",
+		"machine": true
+	},
+	{
+		"phrase": "The angled loader has a slightly faster pump speed",
+		"comment": "Loader description",
+		"translation": "De haakse lader heeft een iets hogere pompsnelheid",
+		"machine": true
+	},
+	{
+		"phrase": "The vertical loader has the fastest pump speed",
+		"comment": "Loader description",
+		"translation": "De verticale lader heeft de hoogste pompsnelheid",
+		"machine": true
+	},
+	{
+		"phrase": "The default magazine is small and quick to reload",
+		"comment": "Magazine description",
+		"translation": "Het standaardmagazijn is klein en snel te herladen",
+		"machine": true
+	},
+	{
+		"phrase": "The extended magazine contains more bullets and is slower to reload",
+		"comment": "Magazine description",
+		"translation": "Het uitgebreide magazijn bevat meer kogels en is langzamer te herladen",
+		"machine": true
+	},
+	{
+		"phrase": "The large magazine stores enough Soltrium to fire two Orberator shots",
+		"comment": "Magazine description",
+		"translation": "Het grote magazijn slaat genoeg soltrium op om twee orberatorschoten af te vuren",
+		"machine": true
+	},
+	{
+		"phrase": "Default ammo gives a nice balance between damage and fire rate",
+		"comment": "Ammo description",
+		"translation": "Standaard munitie geeft een mooie balans tussen schade en vuursnelheid",
+		"machine": true
+	},
+	{
+		"phrase": "Heavy ammo deals more damage but fires slower",
+		"comment": "Ammo description",
+		"translation": "Zware munitie richt meer schade aan maar vuurt langzamer",
+		"machine": true
+	},
+	{
+		"phrase": "Light ammo fires faster but deals less damage",
+		"comment": "Ammo description",
+		"translation": "Lichte munitie vuurt sneller maar richt minder schade aan",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo pierces through blocks and players in exchange for a slower fire rate",
+		"comment": "Ammo description",
+		"translation": "Deze munitie doorboort blokken en spelers in ruil voor een lagere vuursnelheid",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo ricochets off walls up to {0} times",
+		"comment": "Ammo description. Parameter 0: '3'",
+		"translation": "Deze munitie ketst tot {0} keer van muren af",
+		"machine": true
+	},
+	{
+		"phrase": "Huge chunks of metal, effective at killing to the head",
+		"comment": "Ammo description",
+		"translation": "Enorme brokken metaal, effectief in het doden van het hoofd",
+		"machine": true
+	},
+	{
+		"phrase": "A large spread of tiny metal projectiles",
+		"comment": "Ammo description",
+		"translation": "Een grote verzameling kleine metalen projectielen",
+		"machine": true
+	},
+	{
+		"phrase": "Look around after firing to control the trajectory of this projectile",
+		"comment": "Ammo description",
+		"translation": "Kijk rond na het schieten om de baan van dit projectiel te controleren",
+		"machine": true
+	},
+	{
+		"phrase": "Three smaller rocket-powered projectiles that fire faster but deal less damage",
+		"comment": "Ammo description",
+		"translation": "Drie kleinere raketaangedreven projectielen die sneller vuren maar minder schade aanrichten",
+		"machine": true
+	},
+	{
+		"phrase": "Augmented plasma creates a larger explosion on impact",
+		"comment": "Ammo description",
+		"translation": "Augmented plasma creëert een grotere explosie bij impact",
+		"machine": true
+	},
+	{
+		"phrase": "These rounds stick to a wall before detonating",
+		"comment": "Ammo description",
+		"translation": "Deze kogels blijven aan een muur plakken voordat ze ontploffen",
+		"machine": true
+	},
+	{
+		"phrase": "The rounds split into {0} projectiles on impact",
+		"comment": "Ammo description. Parameter 0: '3'",
+		"translation": "De rondes splitsen zich in {0}-projectielen bij impact",
+		"machine": true
+	},
+	{
+		"phrase": "Overcharged plasma rounds fire faster but require a cooldown after {0} shots",
+		"comment": "Ammo description. Parameter 0: '2'",
+		"translation": "Overladen plasmarondes vuren sneller af, maar vereisen een afkoeling na {0}-opnamen",
+		"machine": true
+	},
+	{
+		"phrase": "Dispersion rounds fire slower and deal area-of-effect damage on impact",
+		"comment": "Ammo description",
+		"translation": "Dispersierondes vuren langzamer en richten schade aan in het gebied van effect bij impact",
+		"machine": true
+	},
+	{
+		"phrase": "Ion rounds allow players and projectiles to temporarily travel through blocks",
+		"comment": "Ammo description",
+		"translation": "Met ionenrondes kunnen spelers en projectielen tijdelijk door blokken reizen",
+		"machine": true
+	},
+	{
+		"phrase": "Explosive payloads are explosive",
+		"comment": "Payload description",
+		"translation": "Explosieve ladingen zijn explosief",
+		"machine": true
+	},
+	{
+		"phrase": "Incendiary rounds set blocks on fire",
+		"comment": "Payload description",
+		"translation": "Brandbommen zetten blokken in brand",
+		"machine": true
+	},
+	{
+		"phrase": "Impact rounds really hurt",
+		"comment": "Payload description",
+		"translation": "Impactrondes doen echt pijn",
+		"machine": true
+	},
+	{
+		"phrase": "Nothing to see here, move along",
+		"comment": "Payload description",
+		"translation": "Niets te zien hier, ga maar door",
+		"machine": true
+	},
+	{
+		"phrase": "Ironsights are light and quick to aim with",
+		"comment": "Sight description",
+		"translation": "Ironsights zijn licht en snel te richten met",
+		"machine": true
+	},
+	{
+		"phrase": "Red dot sights provide good visibility in close range encounters",
+		"comment": "Sight description",
+		"translation": "Red-dot-vizieren bieden goed zicht bij ontmoetingen van dichtbij",
+		"machine": true
+	},
+	{
+		"phrase": "2.0x sights have 2.0x zoom",
+		"comment": "Sight description",
+		"translation": "2.0x bezienswaardigheden hebben 2.0x zoom",
+		"machine": true
+	},
+	{
+		"phrase": "4.0x sights have 4.0x zoom",
+		"comment": "Sight description",
+		"translation": "4.0x bezienswaardigheden hebben 4.0x zoom",
+		"machine": true
+	},
+	{
+		"phrase": "The base stock doesn't have as much flavour as chicken stock",
+		"comment": "Stock description",
+		"translation": "De basisbouillon heeft niet zoveel smaak als kippenbouillon",
+		"machine": true
+	},
+	{
+		"phrase": "Removing the stock reduces the holster time but increases recoil",
+		"comment": "Stock description",
+		"translation": "Het verwijderen van de kolf vermindert de holstertijd maar verhoogt de terugslag",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} stock reduces recoil while aiming but increases the holster time",
+		"comment": "Stock description. Parameter 0: 'Tactical'",
+		"translation": "De {0}-kolf vermindert de terugslag tijdens het richten, maar verlengt de holstertijd",
+		"machine": true
+	},
+	{
+		"phrase": "The mechanical trigger increases fire rate",
+		"comment": "Trigger description",
+		"translation": "De mechanische trigger verhoogt de vuursnelheid",
+		"machine": true
+	},
+	{
+		"phrase": "The welded choke permanently reduces pellet spread",
+		"comment": "Choke description",
+		"translation": "De gelaste smoorspoel vermindert permanent de verspreiding van pellets",
+		"machine": true
+	},
+	{
+		"phrase": "The pneumatic choke reduces pellet spread over {0} seconds while aiming, and resets when firing",
+		"comment": "Choke description",
+		"translation": "De pneumatische choke vermindert de spreiding van de pellets over {0} seconden tijdens het richten en reset tijdens het schieten",
+		"machine": true
+	},
+	{
+		"phrase": "The advanced choke reduces pellet spread over {0} seconds while aiming",
+		"comment": "Choke description",
+		"translation": "De geavanceerde choke vermindert de spreiding van de pellets over {0} seconden tijdens het richten",
+		"machine": true
+	},
+	{
+		"phrase": "This core spins to produce a faster fire rate",
+		"comment": "Core description",
+		"translation": "Deze kern draait om een snellere vuursnelheid te produceren",
+		"machine": true
+	},
+	{
+		"phrase": "This core produces a laser that slices through blocks and enemies",
+		"comment": "Core description",
+		"translation": "Deze kern produceert een laser die door blokken en vijanden snijdt",
+		"machine": true
+	},
+	{
+		"phrase": "This core generates 5 smaller orbs that each explode once",
+		"comment": "Core description",
+		"translation": "Deze kern genereert 5 kleinere bollen die elk één keer exploderen",
+		"machine": true
+	},
+	{
+		"phrase": "The burst firing mechanism fires bursts of {0} shots",
+		"comment": "Mechanism description. Parameter 0: '3'",
+		"translation": "Het burst-afvuurmechanisme vuurt bursts van {0}-schoten af",
+		"machine": true
+	},
+	{
+		"phrase": "This mechanism continuously fires bullets",
+		"comment": "Mechanism description",
+		"translation": "Dit mechanisme vuurt continu kogels af",
+		"machine": true
+	},
+	{
+		"phrase": "Spinning",
+		"comment": "I'm spinning around, move out of my way. I know you're feeling me 'cause you like it like this",
+		"translation": "spinnen",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams",
+		"comment": "Stop players from switching teams",
+		"translation": "Strikte teams",
+		"machine": true
+	},
+	{
+		"phrase": "Stop players from switching teams",
+		"comment": "When Strict Teams is enabled, players can't swap teams",
+		"translation": "Voorkom dat spelers van team wisselen",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams enabled",
+		"comment": "Strict teams is enabled, meaning players can't swap teams",
+		"translation": "Strikte teams ingeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams disabled",
+		"comment": "Strict teams is disabled, meaning players can swap teams",
+		"translation": "Strikte teams uitgeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Packet loss",
+		"comment": "When network packets are lost between the client and server",
+		"translation": "Pakketverlies",
+		"machine": true
+	},
+	{
+		"phrase": "Desync",
+		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
+		"translation": "desync",
+		"machine": true
+	},
+	{
+		"phrase": "No",
+		"context": "None",
+		"comment": "Does not exist, i.e. 'No foregrip equipped'",
+		"translation": "Nee",
+		"machine": true
+	},
+	{
+		"phrase": "Show spectator controls",
+		"comment": "Keybind that shows\/hides the list of spectator controls",
+		"translation": "Bedieningselementen voor toeschouwers weergeven",
+		"machine": true
+	},
+	{
+		"phrase": "Clamp Altitude",
+		"comment": "Keep your flying spectator camera at the same altitude",
+		"translation": "Klem hoogte",
+		"machine": true
+	},
+	{
+		"phrase": "Smooth Camera",
+		"comment": "Smooth camera movement",
+		"translation": "Soepele camera",
+		"machine": true
+	},
+	{
+		"phrase": "Anchor",
+		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
+		"translation": "Anker",
+		"machine": true
+	},
+	{
+		"phrase": "Increase anchor distance",
+		"comment": "Increase the distance between the camera and the anchor position",
+		"translation": "Vergroot de ankerafstand",
+		"machine": true
+	},
+	{
+		"phrase": "Decrease anchor distance",
+		"comment": "Decrease the distance between the camera and the anchor position",
+		"translation": "Ankerafstand verkleinen",
+		"machine": true
+	},
+	{
+		"phrase": "Increase camera speed",
+		"comment": "Increase the movement speed of the spectator camera",
+		"translation": "Verhoog de camerasnelheid",
+		"machine": true
+	},
+	{
+		"phrase": "Decrease camera speed",
+		"comment": "Decrease the movement speed of the spectator camera",
+		"translation": "Camerasnelheid verlagen",
+		"machine": true
+	},
+	{
+		"phrase": "Next player",
+		"comment": "Spectate the next player in the list",
+		"translation": "Volgende speler",
+		"machine": true
+	},
+	{
+		"phrase": "Previous player",
+		"comment": "Spectate the previous player in the list",
+		"translation": "Vorige speler",
+		"machine": true
+	},
+	{
+		"phrase": "Create path {0}",
+		"comment": "Players can create up to 9 paths for cameras to move along (for recording cinematic shots). Parameter 0: '4'",
+		"translation": "Pad maken {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Play path {0}",
+		"comment": "This keybind plays the nth path. Parameter 0: '4'",
+		"translation": "Speelpad {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Edit path {0}",
+		"comment": "This keybind edits the nth path. Parameter 0: '4'",
+		"translation": "Pad bewerken {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Select player {0} on team {1}",
+		"comment": "This keybind selects the nth player on the nth team. Parameter 0: '11', Parameter 1: '2'",
+		"translation": "Selecteer speler {0} in team {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Networking HUD",
+		"comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
+		"translation": "Netwerken HUD",
 		"machine": true
 	}
 ]

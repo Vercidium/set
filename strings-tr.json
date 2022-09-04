@@ -26,7 +26,7 @@
 	},
 	{
 		"phrase": "Headshot",
-		"comment": "Shooting another player in the head",
+		"comment": "1 headshot. The amount of times a player was shot in the head",
 		"translation": "Kafadan vuruş"
 	},
 	{
@@ -1411,11 +1411,6 @@
 		"translation": "Killfeed'i Aç\/Kapat"
 	},
 	{
-		"phrase": "Toggle Names",
-		"comment": "[Keybind]",
-		"translation": "Adları Aç\/Kapat"
-	},
-	{
 		"phrase": "Toggle Info Overlay",
 		"comment": "[Keybind]",
 		"translation": "Bilgi Arayüzünü Aç\/Kapat"
@@ -1560,26 +1555,6 @@
 		"context": "milliseconds",
 		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
 		"translation": "ms"
-	},
-	{
-		"phrase": "Bronze medal",
-		"comment": "A bronze medal",
-		"translation": "Bronz madalya"
-	},
-	{
-		"phrase": "Silver medal",
-		"comment": "A silver medal",
-		"translation": "Gümüş madalya"
-	},
-	{
-		"phrase": "Gold medal",
-		"comment": "A gold medal",
-		"translation": "Altın madalya"
-	},
-	{
-		"phrase": "Platinum medal",
-		"comment": "A platinum medal",
-		"translation": "Platin madalya"
 	},
 	{
 		"phrase": "Kick",
@@ -1917,20 +1892,9 @@
 		"translation": "Admin"
 	},
 	{
-		"phrase": "Clamp Y",
-		"context": "Clamp Y Axis",
-		"comment": "Spectator control",
-		"translation": "Y Eksenini Kısıtla"
-	},
-	{
 		"phrase": "X-Ray",
-		"comment": "Spectator control",
+		"comment": "Show enemy outlines through walls",
 		"translation": "Röntgen"
-	},
-	{
-		"phrase": "Smooth",
-		"comment": "Spectator control. Smooth camera movement",
-		"translation": "Yumuşak"
 	},
 	{
 		"phrase": "Cycle Players",
@@ -1953,11 +1917,6 @@
 		"translation": "Uçan Kamera"
 	},
 	{
-		"phrase": "Anchored",
-		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-		"translation": "Sabitlenmiş"
-	},
-	{
 		"phrase": "Select Player",
 		"comment": "Spectator control. Enter first-person spectate mode for the player you are looking",
 		"translation": "Oyuncu Seç"
@@ -1972,21 +1931,6 @@
 		"context": "Show Detailed Paths",
 		"comment": "Spectator control. Show every position in waypoint paths",
 		"translation": "Tam Yolları Göster"
-	},
-	{
-		"phrase": "Play Path",
-		"comment": "Spectator control. Make the camera follow a path",
-		"translation": "Oyun Yolu"
-	},
-	{
-		"phrase": "Create Path",
-		"comment": "Spectator control. Start creating a new path",
-		"translation": "Yol Oluştur"
-	},
-	{
-		"phrase": "Edit Path",
-		"comment": "Spectator control. Edit an existing path",
-		"translation": "Yolu Düzenle"
 	},
 	{
 		"phrase": "Set Waypoint",
@@ -2022,11 +1966,6 @@
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
 		"translation": "Yardımı Aç\/Kapat"
-	},
-	{
-		"phrase": "Anchor Distance",
-		"comment": "Spectator control. Increase or decrease the distance between the camera and the anchor position. The full phrase is: 'Anchor Distance [ Shift+Scroll ]'",
-		"translation": "Kamera Mesafesi"
 	},
 	{
 		"phrase": "Select Aegis",
@@ -3782,12 +3721,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Quick play - {0}",
-		"comment": "Click here to quick play in Oceania. Parameter 0: Oceania",
-		"translation": "Hızlı oynatma - {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Boosts",
 		"comment": "2 Boosts",
 		"translation": "Destekler",
@@ -3987,7 +3920,7 @@
 	},
 	{
 		"phrase": "Level {0}",
-		"comment": "The player's level, which increases the more they play the game. Parameter 0: 50",
+		"comment": "The player's skill level, which increases the more they play the game. Parameter 0: 50",
 		"translation": "Seviye {0}",
 		"machine": true
 	},
@@ -4352,7 +4285,7 @@
 	},
 	{
 		"phrase": "Controls whether the player should swap to the midi when scrolling or pressing the Last Tool keybind",
-		"comment": "Description for the 'Skip Midi on swap' setting",
+		"comment": "Description for the 'Skip MiDi on swap' setting",
 		"translation": "Kaydırırken veya son araç tuş takımına basarken oynatıcının midi'ye geçiş yapıp yapmayacağını kontrol eder",
 		"machine": true
 	},
@@ -5631,12 +5564,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {1} modifications.",
-		"comment": "Parameter 0: 'Midi', which is the name of the player's building tool",
-		"translation": "Mühendis ve satış sonrası {1} modifikasyonları ile bina uzmanlığınızı sergileyin.",
-		"machine": true
-	},
-	{
 		"phrase": "{0} Engineer",
 		"comment": "Parameter 0: 'Agaman', which is the name of a race",
 		"translation": "{0} Mühendisi",
@@ -5694,7 +5621,7 @@
 	},
 	{
 		"phrase": "Success",
-		"comment": "Steam error description",
+		"comment": "This message appears when a command runs successfully",
 		"translation": "Başarı",
 		"machine": true
 	},
@@ -6018,7 +5945,7 @@
 	},
 	{
 		"phrase": "Degree",
-		"comment": "1 Degree. The mathematical unit used to measure angles.",
+		"comment": "1 Degree. The mathematical unit used to measure angles",
 		"translation": "Derece",
 		"machine": true
 	},
@@ -6030,7 +5957,7 @@
 	},
 	{
 		"phrase": "Use",
-		"comment": "1 Use. The amount of times an object was used.",
+		"comment": "1 Use. The amount of times an object was used",
 		"translation": "Kullanmak",
 		"machine": true
 	},
@@ -6042,7 +5969,7 @@
 	},
 	{
 		"phrase": "Shot",
-		"comment": "1 Shot. The amount of times a gun was fired.",
+		"comment": "1 Shot. The amount of times a gun was fired",
 		"translation": "Atış",
 		"machine": true
 	},
@@ -6054,7 +5981,7 @@
 	},
 	{
 		"phrase": "Swing",
-		"comment": "1 Swing. The amount of times a player used their melee.",
+		"comment": "1 Swing. The amount of times a player used their melee",
 		"translation": "Sallanmak",
 		"machine": true
 	},
@@ -6176,13 +6103,6 @@
 		"phrase": "Pick up secondary",
 		"comment": "Pick up your secondary\/fallback weapon",
 		"translation": "İkincil al",
-		"machine": true
-	},
-	{
-		"phrase": "Midi",
-		"context": "Builder",
-		"comment": "A building\/digging gadget, the name is short for Miner Digger",
-		"translation": "Midi",
 		"machine": true
 	},
 	{
@@ -7290,7 +7210,7 @@
 	},
 	{
 		"phrase": "Skip {0} on swap",
-		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'Midi'",
+		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'MiDi'",
 		"translation": "Takas sırasında {0}'ı atla",
 		"machine": true
 	},
@@ -7702,12 +7622,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} damage modifier set to {2}",
-		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
-		"translation": "{0} hasar değiştiricisi {2}'e ayarlandı",
-		"machine": true
-	},
-	{
 		"phrase": "Invalid argument {0}. Expected {1}",
 		"comment": "This error message appears when running a command with an invalid argument, e.g. '\/forcemap aegis' instead of '\/forcemap ad' (ad stands for aegis desert). Parameter 0: 'mapCode', Parameter 1: 'ad|cf|is|mc|st'",
 		"translation": "Geçersiz bağımsız değişken {0}. beklenen {1}",
@@ -7897,6 +7811,937 @@
 		"phrase": "{0} tried to start a votekick against {1}. It had no effect",
 		"comment": "This error message appears when a player attempts to kick a moderator. Parameter 0: 'Guffyfish', Parameter 1: 'Fora'",
 		"translation": "{0}, {1}'e karşı bir oylama başlatmaya çalıştı. Etkisi olmadı",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to restart",
+		"comment": "Trial instructions on how to restart the trial. Parameter 0: '[ R ]'",
+		"translation": "Yeniden başlatmak için {0}'a basın",
+		"machine": true
+	},
+	{
+		"phrase": "Fire",
+		"comment": "Hot burning fire",
+		"translation": "Ateş",
+		"machine": true
+	},
+	{
+		"phrase": "{0} damage modifier set to {1}",
+		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
+		"translation": "{0} hasar değiştiricisi {1}'e ayarlandı",
+		"machine": true
+	},
+	{
+		"phrase": "{0} is used in {1} {2}. Click confirm to delete it",
+		"comment": "This confirmation text appears when deleting a preset that's still used in a loadout. Parameter 0: 'Heavy SMG', parameter 1: '3', parameter 2: 'Loadouts (or alternate plural version)",
+		"translation": "{0}, {1} {2}'de kullanılır. Silmek için onayla'ya tıklayın",
+		"machine": true
+	},
+	{
+		"phrase": "Confirm Delete",
+		"comment": "Confirm you want to delete this weapon preset",
+		"translation": "Silmeyi onayla",
+		"machine": true
+	},
+	{
+		"phrase": "Aiming",
+		"comment": "Aiming with a gun",
+		"translation": "hedefleyen",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Player Names",
+		"comment": "[Keybind]",
+		"translation": "Oyuncu adlarını değiştir",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Enemy Names (Trailer Mode)",
+		"comment": "Press this keybind to toggle whether enemy names are displayed (only works in Trailer Mode)",
+		"translation": "Düşman adlarını aç\/kapat (römork modu)",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
+		"translation": "Mühendis ve satış sonrası {0} modifikasyonları ile bina uzmanlığınızı sergileyin.",
+		"machine": true
+	},
+	{
+		"phrase": "Hue Shift",
+		"comment": "An offset applied to the hue component of a colour, e.g. 'hue shifted from red to yellow'",
+		"translation": "ton kayması",
+		"machine": true
+	},
+	{
+		"phrase": "Bronze {0}",
+		"comment": "A bronze medal",
+		"translation": "bronz {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Silver {0}",
+		"comment": "A silver medal",
+		"translation": "Gümüş {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Gold {0}",
+		"comment": "A gold medal",
+		"translation": "Altın {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Platinum {0}",
+		"comment": "A platinum medal",
+		"translation": "platin {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Teamplay",
+		"comment": "Working together as a team",
+		"translation": "Takım oyunu",
+		"machine": true
+	},
+	{
+		"phrase": "Distance travelled",
+		"comment": "How far a player travelled",
+		"translation": "Katedilen mesafe",
+		"machine": true
+	},
+	{
+		"phrase": "Killed by",
+		"comment": "How many times you have been killed by a weapon, e.g. 'Killed by SMG: 34'",
+		"translation": "Tarafından öldürüldü",
+		"machine": true
+	},
+	{
+		"phrase": "Destroyed",
+		"comment": "The player was destroyed by deWolf",
+		"translation": "Yerlebir edilmiş",
+		"machine": true
+	},
+	{
+		"phrase": "Fortifying {0} created",
+		"comment": "How many blocks the player has placed to fortify a zone. Parameter 0 is either 'block' or 'blocks'",
+		"translation": "Güçlendirici {0} oluşturuldu",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} detonated",
+		"comment": "How many Soltrium canisters the player has detonated. Parameter 0 is 'Soltrium'. Parameter 1 is either 'canister' or 'canisters'",
+		"translation": "{0} {1} patlatıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Time aiming",
+		"comment": "How long the player spent aiming",
+		"translation": "Zaman hedefleyen",
+		"machine": true
+	},
+	{
+		"phrase": "Time in air",
+		"comment": "How long the player spent in the air",
+		"translation": "havada zaman",
+		"machine": true
+	},
+	{
+		"phrase": "Time strafing",
+		"comment": "How long the player spent strafing",
+		"translation": "zaman ayırma",
+		"machine": true
+	},
+	{
+		"phrase": "Time sprinting",
+		"comment": "How long the player spent sprinting",
+		"translation": "zaman sprint",
+		"machine": true
+	},
+	{
+		"phrase": "Time sliding",
+		"comment": "How long the player spent sliding",
+		"translation": "zaman kayması",
+		"machine": true
+	},
+	{
+		"phrase": "Time crouching",
+		"comment": "How long the player spent crouching",
+		"translation": "çömelme zaman",
+		"machine": true
+	},
+	{
+		"phrase": "Time swimming",
+		"comment": "How long the player spent swimming",
+		"translation": "zaman yüzme",
+		"machine": true
+	},
+	{
+		"phrase": "Neutral time",
+		"comment": "How long the player spent outside a zone",
+		"translation": "nötr zaman",
+		"machine": true
+	},
+	{
+		"phrase": "Defensive time",
+		"comment": "How long the player spent defending a zone",
+		"translation": "savunma zamanı",
+		"machine": true
+	},
+	{
+		"phrase": "Offensive time",
+		"comment": "How long the player spent attacking a zone",
+		"translation": "hücum zamanı",
+		"machine": true
+	},
+	{
+		"phrase": "Playtime",
+		"comment": "How long the player spent playing the game",
+		"translation": "oyun zamanı",
+		"machine": true
+	},
+	{
+		"phrase": "Defensive",
+		"comment": "The player was defensive",
+		"translation": "savunma",
+		"machine": true
+	},
+	{
+		"phrase": "Offensive",
+		"comment": "The player was offensive",
+		"translation": "saldırgan",
+		"machine": true
+	},
+	{
+		"phrase": "Neutral",
+		"comment": "The player was neutral",
+		"translation": "Doğal",
+		"machine": true
+	},
+	{
+		"phrase": "Trial",
+		"comment": "A time trial, e.g. 'The Building 2 Trial'",
+		"translation": "Deneme",
+		"machine": true
+	},
+	{
+		"phrase": "Particle delay",
+		"comment": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+		"translation": "parçacık gecikmesi",
+		"machine": true
+	},
+	{
+		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+		"comment": "Description for the 'Particle Delay' settings",
+		"translation": "Parçacık motorunun geride kalmasına izin verilen kare sayısını kontrol eden gelişmiş işleme ayarı",
+		"machine": true
+	},
+	{
+		"phrase": "Show icons when ADS",
+		"comment": "Setting that controls whether icons and player names should display when aiming down the sights",
+		"translation": "ADS olduğunda simgeleri göster",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether icons and player names should display when aiming down the sights",
+		"comment": "Description for the 'Show icons when ADS' setting",
+		"translation": "Manzaraları hedeflerken simgelerin ve oyuncu adlarının görüntülenip görüntülenmeyeceğini kontrol eder",
+		"machine": true
+	},
+	{
+		"phrase": "Failed",
+		"comment": "This error message appears when a command failed to run",
+		"translation": "Arızalı",
+		"machine": true
+	},
+	{
+		"phrase": "Headshots",
+		"comment": "2 headshots",
+		"translation": "Kafa vuruşları",
+		"machine": true
+	},
+	{
+		"phrase": "Frame",
+		"comment": "1 Frame, i.e. 1 frame per second",
+		"translation": "Çerçeve",
+		"machine": true
+	},
+	{
+		"phrase": "Frames",
+		"comment": "2 Frames, i.e. 2 frames per second",
+		"translation": "çerçeveler",
+		"machine": true
+	},
+	{
+		"phrase": "Medal",
+		"comment": "1 bronze medal",
+		"translation": "Madalya",
+		"machine": true
+	},
+	{
+		"phrase": "Medals",
+		"comment": "2 bronze medals",
+		"translation": "Madalyalar",
+		"machine": true
+	},
+	{
+		"phrase": "Match won",
+		"comment": "1 match won",
+		"translation": "Maç kazandı",
+		"machine": true
+	},
+	{
+		"phrase": "Matches won",
+		"comment": "2 matches won",
+		"translation": "Kazanılan maçlar",
+		"machine": true
+	},
+	{
+		"phrase": "Match lost",
+		"comment": "1 match lost",
+		"translation": "Maç kaybedildi",
+		"machine": true
+	},
+	{
+		"phrase": "Matches lost",
+		"comment": "2 matches lost",
+		"translation": "Kaybedilen maçlar",
+		"machine": true
+	},
+	{
+		"phrase": "Updates",
+		"comment": "The game has had 3 updates recently",
+		"translation": "Güncellemeler",
+		"machine": true
+	},
+	{
+		"phrase": "Hit",
+		"comment": "1 hit, i.e. you hit an enemy once",
+		"translation": "Vurmak",
+		"machine": true
+	},
+	{
+		"phrase": "Hits",
+		"comment": "2 hits",
+		"translation": "Hit",
+		"machine": true
+	},
+	{
+		"phrase": "Level",
+		"comment": "The player's skill level, which increases the more they play the game. Parameter 0: 50",
+		"translation": "Seviye",
+		"machine": true
+	},
+	{
+		"phrase": "Hipfire",
+		"comment": "Firing a weapon from the hip",
+		"translation": "hipfire",
+		"machine": true
+	},
+	{
+		"phrase": "Body",
+		"comment": "The part of a player that isn't their head",
+		"translation": "Gövde",
+		"machine": true
+	},
+	{
+		"phrase": "Splash",
+		"comment": "Splash \/ area-of-effect damage from explosions",
+		"translation": "Sıçrama",
+		"machine": true
+	},
+	{
+		"phrase": "Total",
+		"comment": "The whole amount",
+		"translation": "Toplam",
+		"machine": true
+	},
+	{
+		"phrase": "Spot",
+		"comment": "To locate an object, e.g. \"They spot an enemy in a building\"",
+		"translation": "Leke",
+		"machine": true
+	},
+	{
+		"phrase": "Distance",
+		"comment": "How far a player travelled",
+		"translation": "Mesafe",
+		"machine": true
+	},
+	{
+		"phrase": "Lose",
+		"comment": "You lose!",
+		"translation": "Kaybetmek",
+		"machine": true
+	},
+	{
+		"phrase": "Destroy",
+		"comment": "Destroy the enemy tower",
+		"translation": "Tahrip etmek",
+		"machine": true
+	},
+	{
+		"phrase": "Accuracy",
+		"comment": "How many of your shots hit a target when firing a gun",
+		"translation": "Kesinlik",
+		"machine": true
+	},
+	{
+		"phrase": "Career",
+		"comment": "A player's career, a record of their achievements and stats",
+		"translation": "Kariyer",
+		"machine": true
+	},
+	{
+		"phrase": "Create",
+		"comment": "Create a fortified position to attack the enemy",
+		"translation": "Oluşturmak",
+		"machine": true
+	},
+	{
+		"phrase": "Killstreak",
+		"comment": "When you kill multiple enemies without dying, i.e. 'zepofan is on a 15 killstreak'",
+		"translation": "ölüm serisi",
+		"machine": true
+	},
+	{
+		"phrase": "Longest",
+		"comment": "My longest killstreak is 7",
+		"translation": "En uzun",
+		"machine": true
+	},
+	{
+		"phrase": "Average",
+		"comment": "My average killstreak is 1.3",
+		"translation": "Ortalama",
+		"machine": true
+	},
+	{
+		"phrase": "Alive",
+		"comment": "Not dead. It's alive!",
+		"translation": "Canlı",
+		"machine": true
+	},
+	{
+		"phrase": "Strafe",
+		"comment": "To move left and right while facing forwards",
+		"translation": "Kınamak",
+		"machine": true
+	},
+	{
+		"phrase": "Still",
+		"comment": "Standing still",
+		"translation": "Hala",
+		"machine": true
+	},
+	{
+		"phrase": "Swim",
+		"comment": "Going for a swim in the pool",
+		"translation": "yüzün",
+		"machine": true
+	},
+	{
+		"phrase": "Air",
+		"comment": "The enemy was flying through the air",
+		"translation": "Hava",
+		"machine": true
+	},
+	{
+		"phrase": "Extract",
+		"comment": "To remove a resource from a rock, i.e. extract Soltrium",
+		"translation": "Çıkarmak",
+		"machine": true
+	},
+	{
+		"phrase": "Defuse",
+		"comment": "To defuse or disarm a bomb or heated conversation",
+		"translation": "etkisiz hale getirmek",
+		"machine": true
+	},
+	{
+		"phrase": "Deliver",
+		"comment": "It feels great to have a pizza delivered to your house",
+		"translation": "Teslim etmek",
+		"machine": true
+	},
+	{
+		"phrase": "Return",
+		"comment": "When you're Christmas shopping but they send you the wrong thing so you need to return it",
+		"translation": "Dönüş",
+		"machine": true
+	},
+	{
+		"phrase": "Capture",
+		"comment": "To steal something from the enemy and store it securely",
+		"translation": "Ele geçirmek",
+		"machine": true
+	},
+	{
+		"phrase": "Death",
+		"comment": "1 death, i.e. how many times you died",
+		"translation": "Ölüm",
+		"machine": true
+	},
+	{
+		"phrase": "Deaths",
+		"comment": "2 deaths",
+		"translation": "Ölümler",
+		"machine": true
+	},
+	{
+		"phrase": "The default barrel is light with no downsides and no cost",
+		"comment": "Barrel description",
+		"translation": "Varsayılan namlu, hiçbir dezavantajı ve maliyeti olmayan hafiftir",
+		"machine": true
+	},
+	{
+		"phrase": "The extended barrel increases damage over distance",
+		"comment": "Barrel description",
+		"translation": "Uzatılmış namlu, mesafe boyunca hasarı artırır",
+		"machine": true
+	},
+	{
+		"phrase": "The choke reduces pellet spread",
+		"comment": "Barrel description",
+		"translation": "Şok, pelet yayılmasını azaltır",
+		"machine": true
+	},
+	{
+		"phrase": "The compensator reduces recoil",
+		"comment": "Barrel description",
+		"translation": "Kompansatör geri tepmeyi azaltır",
+		"machine": true
+	},
+	{
+		"phrase": "The accelerator increases projectile speed and damage over distance",
+		"comment": "Barrel description",
+		"translation": "Hızlandırıcı, mermi hızını ve mesafe boyunca hasarı artırır",
+		"machine": true
+	},
+	{
+		"phrase": "The beam splitter separates plasma projectiles into four smaller projectiles",
+		"comment": "Barrel description",
+		"translation": "Işın ayırıcı, plazma mermilerini dört küçük mermiye ayırır",
+		"machine": true
+	},
+	{
+		"phrase": "The medium barrel is lighter and cheaper but has reduced projectile speed and damage over distance",
+		"comment": "Barrel description",
+		"translation": "Orta namlu daha hafif ve daha ucuzdur ancak mermi hızı ve mesafeye göre verilen hasar azaltılmıştır.",
+		"machine": true
+	},
+	{
+		"phrase": "The short barrel converts your Rail Gun into a Rail Pistol",
+		"comment": "Barrel description",
+		"translation": "Kısa namlu, raylı tabancanızı bir raylı tabancaya dönüştürür",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} stops you from appearing on the minimap when firing",
+		"comment": "Barrel description. Parameter 0: 'silencer'",
+		"translation": "{0}, ateş ederken mini haritada görünmenizi engeller",
+		"machine": true
+	},
+	{
+		"phrase": "Removing the grip from your gun increases recoil and reduces holster time",
+		"comment": "Foregrip description",
+		"translation": "Silahınızdan kabzayı çıkarmak geri tepmeyi artırır ve kılıf süresini kısaltır",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} grip reduces initial recoil and increases full-auto recoil",
+		"comment": "Foregrip description. Parameter 0: 'Stubby'",
+		"translation": "{0} kavrama, ilk geri tepmeyi azaltır ve tam otomatik geri tepmeyi artırır",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} grip gives consistent recoil on all shots",
+		"comment": "Foregrip description. Parameter 0: 'Angled'",
+		"translation": "{0} tutuş, tüm atışlarda tutarlı geri tepme sağlar",
+		"machine": true
+	},
+	{
+		"phrase": "The base loader has the slowest pump speed",
+		"comment": "Loader description",
+		"translation": "Temel yükleyici en düşük pompa hızına sahiptir",
+		"machine": true
+	},
+	{
+		"phrase": "The angled loader has a slightly faster pump speed",
+		"comment": "Loader description",
+		"translation": "Açılı yükleyici biraz daha yüksek pompa hızına sahiptir",
+		"machine": true
+	},
+	{
+		"phrase": "The vertical loader has the fastest pump speed",
+		"comment": "Loader description",
+		"translation": "Dikey yükleyici en yüksek pompa hızına sahiptir",
+		"machine": true
+	},
+	{
+		"phrase": "The default magazine is small and quick to reload",
+		"comment": "Magazine description",
+		"translation": "Varsayılan dergi küçüktür ve yeniden yüklenmesi hızlıdır",
+		"machine": true
+	},
+	{
+		"phrase": "The extended magazine contains more bullets and is slower to reload",
+		"comment": "Magazine description",
+		"translation": "Genişletilmiş şarjör daha fazla mermi içerir ve yeniden yüklenmesi daha yavaştır",
+		"machine": true
+	},
+	{
+		"phrase": "The large magazine stores enough Soltrium to fire two Orberator shots",
+		"comment": "Magazine description",
+		"translation": "Büyük dergi, iki orberator atışı yapmak için yeterli soltriyum depolar.",
+		"machine": true
+	},
+	{
+		"phrase": "Default ammo gives a nice balance between damage and fire rate",
+		"comment": "Ammo description",
+		"translation": "Varsayılan cephane, hasar ve ateş oranı arasında iyi bir denge sağlar",
+		"machine": true
+	},
+	{
+		"phrase": "Heavy ammo deals more damage but fires slower",
+		"comment": "Ammo description",
+		"translation": "Ağır cephane daha fazla hasar verir ama daha yavaş ateşler",
+		"machine": true
+	},
+	{
+		"phrase": "Light ammo fires faster but deals less damage",
+		"comment": "Ammo description",
+		"translation": "Hafif cephane daha hızlı ateşlenir ancak daha az hasar verir",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo pierces through blocks and players in exchange for a slower fire rate",
+		"comment": "Ammo description",
+		"translation": "Bu cephane, daha yavaş bir atış hızı karşılığında blokları ve oyuncuları deler.",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo ricochets off walls up to {0} times",
+		"comment": "Ammo description. Parameter 0: '3'",
+		"translation": "Bu cephane duvarlardan {0} kata kadar seker",
+		"machine": true
+	},
+	{
+		"phrase": "Huge chunks of metal, effective at killing to the head",
+		"comment": "Ammo description",
+		"translation": "Kafayı öldürmede etkili olan büyük metal parçaları",
+		"machine": true
+	},
+	{
+		"phrase": "A large spread of tiny metal projectiles",
+		"comment": "Ammo description",
+		"translation": "Küçük metal mermilerin geniş bir yayılımı",
+		"machine": true
+	},
+	{
+		"phrase": "Look around after firing to control the trajectory of this projectile",
+		"comment": "Ammo description",
+		"translation": "Bu merminin yörüngesini kontrol etmek için ateş ettikten sonra etrafa bakın",
+		"machine": true
+	},
+	{
+		"phrase": "Three smaller rocket-powered projectiles that fire faster but deal less damage",
+		"comment": "Ammo description",
+		"translation": "Daha hızlı ateş eden ancak daha az hasar veren üç küçük roketle çalışan mermi",
+		"machine": true
+	},
+	{
+		"phrase": "Augmented plasma creates a larger explosion on impact",
+		"comment": "Ammo description",
+		"translation": "Artırılmış plazma, çarpma anında daha büyük bir patlama yaratır",
+		"machine": true
+	},
+	{
+		"phrase": "These rounds stick to a wall before detonating",
+		"comment": "Ammo description",
+		"translation": "Bu mermiler patlamadan önce duvara yapışır.",
+		"machine": true
+	},
+	{
+		"phrase": "The rounds split into {0} projectiles on impact",
+		"comment": "Ammo description. Parameter 0: '3'",
+		"translation": "Mermiler çarpma anında {0} mermilerine bölünür",
+		"machine": true
+	},
+	{
+		"phrase": "Overcharged plasma rounds fire faster but require a cooldown after {0} shots",
+		"comment": "Ammo description. Parameter 0: '2'",
+		"translation": "Aşırı şarjlı plazma mermileri daha hızlı ateşlenir ancak {0} atışlarından sonra bir bekleme süresi gerektirir",
+		"machine": true
+	},
+	{
+		"phrase": "Dispersion rounds fire slower and deal area-of-effect damage on impact",
+		"comment": "Ammo description",
+		"translation": "Dağılma mermileri daha yavaş ateş eder ve çarpma anında etki alanı hasarı verir",
+		"machine": true
+	},
+	{
+		"phrase": "Ion rounds allow players and projectiles to temporarily travel through blocks",
+		"comment": "Ammo description",
+		"translation": "İyon turları, oyuncuların ve mermilerin geçici olarak bloklar arasında seyahat etmesine izin verir",
+		"machine": true
+	},
+	{
+		"phrase": "Explosive payloads are explosive",
+		"comment": "Payload description",
+		"translation": "Patlayıcı yükler patlayıcıdır",
+		"machine": true
+	},
+	{
+		"phrase": "Incendiary rounds set blocks on fire",
+		"comment": "Payload description",
+		"translation": "Yangın mermileri blokları ateşe verdi",
+		"machine": true
+	},
+	{
+		"phrase": "Impact rounds really hurt",
+		"comment": "Payload description",
+		"translation": "Darbe turları gerçekten acıtıyor",
+		"machine": true
+	},
+	{
+		"phrase": "Nothing to see here, move along",
+		"comment": "Payload description",
+		"translation": "Burada görülecek bir şey yok, ilerleyin",
+		"machine": true
+	},
+	{
+		"phrase": "Ironsights are light and quick to aim with",
+		"comment": "Sight description",
+		"translation": "Ironsight'lar hafiftir ve nişan almak için hızlıdır",
+		"machine": true
+	},
+	{
+		"phrase": "Red dot sights provide good visibility in close range encounters",
+		"comment": "Sight description",
+		"translation": "Kırmızı nokta manzaraları, yakın mesafeli karşılaşmalarda iyi bir görünürlük sağlar",
+		"machine": true
+	},
+	{
+		"phrase": "2.0x sights have 2.0x zoom",
+		"comment": "Sight description",
+		"translation": "2.0x manzaralar 2.0x yakınlaştırmaya sahiptir",
+		"machine": true
+	},
+	{
+		"phrase": "4.0x sights have 4.0x zoom",
+		"comment": "Sight description",
+		"translation": "4.0x manzaralar 4.0x yakınlaştırmaya sahiptir",
+		"machine": true
+	},
+	{
+		"phrase": "The base stock doesn't have as much flavour as chicken stock",
+		"comment": "Stock description",
+		"translation": "Baz stokta tavuk suyu kadar lezzet yok",
+		"machine": true
+	},
+	{
+		"phrase": "Removing the stock reduces the holster time but increases recoil",
+		"comment": "Stock description",
+		"translation": "Stokun çıkarılması, tutucu süresini azaltır ancak geri tepmeyi artırır",
+		"machine": true
+	},
+	{
+		"phrase": "The {0} stock reduces recoil while aiming but increases the holster time",
+		"comment": "Stock description. Parameter 0: 'Tactical'",
+		"translation": "{0} stoğu nişan alırken geri tepmeyi azaltır ancak kılıf süresini artırır",
+		"machine": true
+	},
+	{
+		"phrase": "The mechanical trigger increases fire rate",
+		"comment": "Trigger description",
+		"translation": "Mekanik tetik, ateş oranını artırır",
+		"machine": true
+	},
+	{
+		"phrase": "The welded choke permanently reduces pellet spread",
+		"comment": "Choke description",
+		"translation": "Kaynaklı şok, pelet yayılmasını kalıcı olarak azaltır",
+		"machine": true
+	},
+	{
+		"phrase": "The pneumatic choke reduces pellet spread over {0} seconds while aiming, and resets when firing",
+		"comment": "Choke description",
+		"translation": "Pnömatik şok, nişan alırken {0} saniye boyunca peletin yayılmasını azaltır ve ateş ederken sıfırlanır",
+		"machine": true
+	},
+	{
+		"phrase": "The advanced choke reduces pellet spread over {0} seconds while aiming",
+		"comment": "Choke description",
+		"translation": "Gelişmiş jikle, nişan alırken peletin {0} saniye boyunca yayılmasını azaltır",
+		"machine": true
+	},
+	{
+		"phrase": "This core spins to produce a faster fire rate",
+		"comment": "Core description",
+		"translation": "Bu çekirdek daha hızlı bir atış hızı üretmek için döner",
+		"machine": true
+	},
+	{
+		"phrase": "This core produces a laser that slices through blocks and enemies",
+		"comment": "Core description",
+		"translation": "Bu çekirdek, blokları ve düşmanları kesen bir lazer üretir.",
+		"machine": true
+	},
+	{
+		"phrase": "This core generates 5 smaller orbs that each explode once",
+		"comment": "Core description",
+		"translation": "Bu çekirdek, her biri bir kez patlayan 5 küçük küre üretir.",
+		"machine": true
+	},
+	{
+		"phrase": "The burst firing mechanism fires bursts of {0} shots",
+		"comment": "Mechanism description. Parameter 0: '3'",
+		"translation": "Seri atış mekanizması, {0} atışlarının patlamalarını ateşler",
+		"machine": true
+	},
+	{
+		"phrase": "This mechanism continuously fires bullets",
+		"comment": "Mechanism description",
+		"translation": "Bu mekanizma sürekli mermi atar.",
+		"machine": true
+	},
+	{
+		"phrase": "Spinning",
+		"comment": "I'm spinning around, move out of my way. I know you're feeling me 'cause you like it like this",
+		"translation": "eğirme",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams",
+		"comment": "Stop players from switching teams",
+		"translation": "Sıkı ekipler",
+		"machine": true
+	},
+	{
+		"phrase": "Stop players from switching teams",
+		"comment": "When Strict Teams is enabled, players can't swap teams",
+		"translation": "Oyuncuların takım değiştirmesini durdurun",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams enabled",
+		"comment": "Strict teams is enabled, meaning players can't swap teams",
+		"translation": "Sıkı ekipler etkinleştirildi",
+		"machine": true
+	},
+	{
+		"phrase": "Strict teams disabled",
+		"comment": "Strict teams is disabled, meaning players can swap teams",
+		"translation": "Sıkı ekipler devre dışı bırakıldı",
+		"machine": true
+	},
+	{
+		"phrase": "Packet loss",
+		"comment": "When network packets are lost between the client and server",
+		"translation": "Paket kaybı",
+		"machine": true
+	},
+	{
+		"phrase": "Desync",
+		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
+		"translation": "uyumsuz",
+		"machine": true
+	},
+	{
+		"phrase": "No",
+		"context": "None",
+		"comment": "Does not exist, i.e. 'No foregrip equipped'",
+		"translation": "Numara",
+		"machine": true
+	},
+	{
+		"phrase": "Show spectator controls",
+		"comment": "Keybind that shows\/hides the list of spectator controls",
+		"translation": "İzleyici kontrollerini göster",
+		"machine": true
+	},
+	{
+		"phrase": "Clamp Altitude",
+		"comment": "Keep your flying spectator camera at the same altitude",
+		"translation": "Kelepçe yüksekliği",
+		"machine": true
+	},
+	{
+		"phrase": "Smooth Camera",
+		"comment": "Smooth camera movement",
+		"translation": "Pürüzsüz kamera",
+		"machine": true
+	},
+	{
+		"phrase": "Anchor",
+		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
+		"translation": "Çapa",
+		"machine": true
+	},
+	{
+		"phrase": "Increase anchor distance",
+		"comment": "Increase the distance between the camera and the anchor position",
+		"translation": "Ankraj mesafesini artırın",
+		"machine": true
+	},
+	{
+		"phrase": "Decrease anchor distance",
+		"comment": "Decrease the distance between the camera and the anchor position",
+		"translation": "Bağlantı mesafesini azalt",
+		"machine": true
+	},
+	{
+		"phrase": "Increase camera speed",
+		"comment": "Increase the movement speed of the spectator camera",
+		"translation": "Kamera hızını artırın",
+		"machine": true
+	},
+	{
+		"phrase": "Decrease camera speed",
+		"comment": "Decrease the movement speed of the spectator camera",
+		"translation": "Kamera hızını azalt",
+		"machine": true
+	},
+	{
+		"phrase": "Next player",
+		"comment": "Spectate the next player in the list",
+		"translation": "Sonraki oyuncu",
+		"machine": true
+	},
+	{
+		"phrase": "Previous player",
+		"comment": "Spectate the previous player in the list",
+		"translation": "Önceki oyuncu",
+		"machine": true
+	},
+	{
+		"phrase": "Create path {0}",
+		"comment": "Players can create up to 9 paths for cameras to move along (for recording cinematic shots). Parameter 0: '4'",
+		"translation": "{0} yolu oluştur",
+		"machine": true
+	},
+	{
+		"phrase": "Play path {0}",
+		"comment": "This keybind plays the nth path. Parameter 0: '4'",
+		"translation": "Oynatma yolu {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Edit path {0}",
+		"comment": "This keybind edits the nth path. Parameter 0: '4'",
+		"translation": "Yolu düzenle {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Select player {0} on team {1}",
+		"comment": "This keybind selects the nth player on the nth team. Parameter 0: '11', Parameter 1: '2'",
+		"translation": "{1} takımındaki {0} oyuncusunu seçin",
+		"machine": true
+	},
+	{
+		"phrase": "Networking HUD",
+		"comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
+		"translation": "Ağ HUD'si",
 		"machine": true
 	}
 ]
