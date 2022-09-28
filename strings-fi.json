@@ -931,11 +931,6 @@
 		"translation": "Katkaista"
 	},
 	{
-		"phrase": "Cooldown",
-		"comment": "The time it takes for a structure to cooldown, e.g. '300ms Cooldown'. This text shows when looking at a structure in the ship",
-		"translation": "Viilentyä"
-	},
-	{
 		"phrase": "Equip as primary",
 		"comment": "Press a key to equip this weapon as your primary\/main weapon",
 		"translation": "Varusta ensisijaisena"
@@ -1521,12 +1516,6 @@
 		"translation": "Plasmaleikkuri"
 	},
 	{
-		"phrase": "Blocks",
-		"context": "Cubes",
-		"comment": "The amount of 3d voxels, e.g. '50 Blocks'. This text shows when looking at a structure in the ship",
-		"translation": "Kuutio"
-	},
-	{
 		"phrase": "Region",
 		"comment": "Server preferences tab. This refers to geographical region",
 		"translation": "Alue"
@@ -1585,12 +1574,6 @@
 		"phrase": "Singapore",
 		"comment": "Server location",
 		"translation": "Singapore"
-	},
-	{
-		"phrase": "ms",
-		"context": "milliseconds",
-		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
-		"translation": "Ms"
 	},
 	{
 		"phrase": "Kick",
@@ -2106,7 +2089,7 @@
 	},
 	{
 		"phrase": "Loading maps",
-		"comment": "The game is loading maps from disk",
+		"comment": "The game is loadthe player's settings from disk",
 		"translation": "Ladataan karttoja",
 		"machine": true
 	},
@@ -6228,12 +6211,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Grapics preset",
-		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
-		"translation": "Grafiikka esiasetettu",
-		"machine": true
-	},
-	{
 		"phrase": "Player name: {0}",
 		"comment": "A person who is playing Sector's Edge. Parameter 0: 'deWolf'",
 		"translation": "Pelaajan nimi: {0}",
@@ -7846,12 +7823,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Bot amount set to {0}",
-		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
-		"translation": "Botin määräksi on asetettu {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Now playing {0} on {1}",
 		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
 		"translation": "Nyt pelataan {0}:tä {1}:llä",
@@ -8840,6 +8811,601 @@
 		"phrase": "Networking HUD",
 		"comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
 		"translation": "Verkko HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Debug",
+		"comment": "Debug a computer program",
+		"translation": "Debug",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Profiler",
+		"comment": "Toggles whether the debug profiler (records how long CPU and GPU tasks take to execute) should run",
+		"translation": "Vaihda profilointi",
+		"machine": true
+	},
+	{
+		"phrase": "Autoplay",
+		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
+		"translation": "Automaattinen toisto",
+		"machine": true
+	},
+	{
+		"phrase": "Automatically join a server when there's {0} players in it",
+		"comment": "Autoplay tooltip. Parameter 0: '4'",
+		"translation": "Liity automaattisesti palvelimelle, kun siinä on {0}-pelaajia",
+		"machine": true
+	},
+	{
+		"phrase": "Minimum players",
+		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
+		"translation": "Minimipelaajia",
+		"machine": true
+	},
+	{
+		"phrase": "Coming soon",
+		"comment": "This new feature is coming soon",
+		"translation": "Tulossa pian",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo pierces through blocks rather than destroying them",
+		"comment": "Ammo description for Piercing Ammo on the Rail Gun",
+		"translation": "Tämä ammus tunkeutuu lohkojen läpi sen sijaan, että tuhoaisi niitä",
+		"machine": true
+	},
+	{
+		"phrase": "Loading stats",
+		"comment": "The game is loading statistics",
+		"translation": "Ladataan tilastoja",
+		"machine": true
+	},
+	{
+		"phrase": "No available servers",
+		"comment": "Error message when attempting to claim a lobby, but all servers are taken",
+		"translation": "Ei saatavilla palvelimia",
+		"machine": true
+	},
+	{
+		"phrase": "Map",
+		"comment": "A map\/world that players fight on",
+		"translation": "Kartta",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Key",
+		"comment": "A key\/code\/sequence of characters that the user can type in to redeem Protons or other rewards. Parameter 0: 'Proton'",
+		"translation": "{0} avain",
+		"machine": true
+	},
+	{
+		"phrase": "Stats",
+		"context": "Statistics",
+		"comment": "Abbreviation of statistics",
+		"translation": "Tilastot",
+		"machine": true
+	},
+	{
+		"phrase": "Edit",
+		"comment": "Edit the name of your loadout",
+		"translation": "Muokata",
+		"machine": true
+	},
+	{
+		"phrase": "Rename",
+		"comment": "Rename your loadout",
+		"translation": "Nimeä uudelleen",
+		"machine": true
+	},
+	{
+		"phrase": "Duplicate",
+		"comment": "Duplicate your loadout to make an exact copy",
+		"translation": "Kopioi",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to delete",
+		"comment": "Double click this button to delete your preset",
+		"translation": "Poista kaksoisnapsauttamalla",
+		"machine": true
+	},
+	{
+		"phrase": "Dynamic crosshair colour",
+		"comment": "The colour of the crosshair on weapon sights fades from green to red to reflect the Combat Shotgun choke",
+		"translation": "Dynaaminen ristikkoväri",
+		"machine": true
+	},
+	{
+		"phrase": "This setting makes the crosshair colour match the green\/red choke indicator on the Combat Shotgun",
+		"comment": "Tooltip for the 'Dynamic crosshair colour' setting",
+		"translation": "Tämä asetus saa ristikon värin vastaamaan taisteluhaulikkossa olevan vihreän\/punaisen kuristimen ilmaisinta",
+		"machine": true
+	},
+	{
+		"phrase": "Graphics preset",
+		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
+		"translation": "Grafiikka esiasetettu",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count (team {0})",
+		"comment": "The number of bots on team X. Parameter 0: 'A'",
+		"translation": "Bottimäärä (joukkue {0})",
+		"machine": true
+	},
+	{
+		"phrase": "The number of bots on team {0}",
+		"comment": "Bot count tooltip. Parameter 0: 'B'",
+		"translation": "Bottien määrä joukkueessa {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Objective",
+		"comment": "The objective of the gamemode, e.g. contesting a zone or stealing a flag",
+		"translation": "Tavoite",
+		"machine": true
+	},
+	{
+		"phrase": "Instant respawn (Trailer Mode)",
+		"comment": "Instantly respawn in trailer mode",
+		"translation": "Instant respawn (traileritila)",
+		"machine": true
+	},
+	{
+		"phrase": "Weather particle amount",
+		"comment": "This setting controls how many rain and snow particles are spawned",
+		"translation": "Sään hiukkasten määrä",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls how many rain and snow particles are spawned",
+		"comment": "Description for the 'Weather Particle amount' setting",
+		"translation": "Tämä asetus määrittää, kuinka monta sade- ja lumihiukkasta syntyy",
+		"machine": true
+	},
+	{
+		"phrase": "No title",
+		"comment": "The player has no title equipped",
+		"translation": "Ei otsikkoa",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked Titles",
+		"comment": "A list of titles that the player just unlocked by levellign up a weapon",
+		"translation": "Avatut otsikot",
+		"machine": true
+	},
+	{
+		"phrase": "Progression",
+		"comment": "A weapon or career progression, i.e. a player can 'progress' a weapon and earn titles by earning points with it",
+		"translation": "Edistyminen",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn position removed",
+		"comment": "This text appears when a player removes their custom respawn location, which they can only do when recording trailers",
+		"translation": "Kutupaikka poistettu",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count set to {0}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
+		"translation": "Bottien määräksi on asetettu {0}",
+		"machine": true
+	},
+	{
+		"phrase": "All titles unlocked",
+		"comment": "The player has unlocked all titles for a weapon",
+		"translation": "Kaikki otsikot avattu",
+		"machine": true
+	},
+	{
+		"phrase": "Next title",
+		"comment": "The next title you will unlock is called 'Legend'",
+		"translation": "Seuraava otsikko",
+		"machine": true
+	},
+	{
+		"phrase": "Midi Certified",
+		"comment": "This is a title a player earns when reaching all Bronze times in the Trials, and shows the player is qualified to use their Midi tool",
+		"translation": "Midi-sertifioitu",
+		"machine": true
+	},
+	{
+		"phrase": "Maze Runner",
+		"comment": "This is a title that a player unlocks when reaching all Silver times in the Trials, and signifies they are decent at the Trials",
+		"translation": "Labyrintti juoksija",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Master",
+		"comment": "This is a title that a player unlocks when reaching all Gold times in the Trials, and signifies they are great at the Trials",
+		"translation": "Kokeilumestari",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Hard",
+		"comment": "This is a title that a player unlocks when reaching all Platinum times in the Trials, and signifies they are the fastest Trial runners out there. This is a play on the phrase 'Try Hard'",
+		"translation": "Kova koetus",
+		"machine": true
+	},
+	{
+		"phrase": "Developer",
+		"comment": "The developer of Sector's Edge",
+		"translation": "Kehittäjä",
+		"machine": true
+	},
+	{
+		"phrase": "Moderator",
+		"comment": "A community moderator",
+		"translation": "Moderaattori",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer Crew",
+		"comment": "This player was part of the crew who helped record the trailer",
+		"translation": "Trailerin miehistö",
+		"machine": true
+	},
+	{
+		"phrase": "Alpha Tester",
+		"comment": "This player tested the alpha build of the game years ago",
+		"translation": "Alfa testeri",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Ascender",
+		"comment": "A player who rises to the occasion. Parameter 0: 'Aegis'",
+		"translation": "{0} Ascender",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Challenger",
+		"comment": "A player who challenges the best players. Parameter 0: 'Aegis'",
+		"translation": "{0} Challenger",
+		"machine": true
+	},
+	{
+		"phrase": "Fatal",
+		"comment": "This player is fatal",
+		"translation": "Kohtalokas",
+		"machine": true
+	},
+	{
+		"phrase": "Deadly",
+		"comment": "This player is deadly",
+		"translation": "Tappava",
+		"machine": true
+	},
+	{
+		"phrase": "Lethal",
+		"comment": "This player is lethal",
+		"translation": "Tappava",
+		"machine": true
+	},
+	{
+		"phrase": "Deadeye",
+		"comment": "This player is an accurate marksman",
+		"translation": "Deadeye",
+		"machine": true
+	},
+	{
+		"phrase": "Eliminator",
+		"comment": "This player has excellent accuracy",
+		"translation": "Eliminaattori",
+		"machine": true
+	},
+	{
+		"phrase": "Obliterator",
+		"comment": "This player obliterates enemies",
+		"translation": "Obliteraattori",
+		"machine": true
+	},
+	{
+		"phrase": "Eradicator",
+		"comment": "This player eradicates all enemies",
+		"translation": "Hävittäjä",
+		"machine": true
+	},
+	{
+		"phrase": "Disintegrator",
+		"comment": "This player leaves no trace behind of enemies they destroy",
+		"translation": "Hajottaja",
+		"machine": true
+	},
+	{
+		"phrase": "Deathbringer",
+		"comment": "This player wreaks death and havok",
+		"translation": "Kuoleman tuoja",
+		"machine": true
+	},
+	{
+		"phrase": "Butcher",
+		"comment": "This player is a butcher",
+		"translation": "Lihakauppias",
+		"machine": true
+	},
+	{
+		"phrase": "Warrior",
+		"comment": "This player is a warrior",
+		"translation": "Soturi",
+		"machine": true
+	},
+	{
+		"phrase": "Slasher",
+		"comment": "This player is great with melee weapons",
+		"translation": "Slasher",
+		"machine": true
+	},
+	{
+		"phrase": "Slayer",
+		"comment": "This player is great with melee weapons",
+		"translation": "Slayer",
+		"machine": true
+	},
+	{
+		"phrase": "Gladiator",
+		"comment": "This player is great with melee weapons",
+		"translation": "Gladiaattori",
+		"machine": true
+	},
+	{
+		"phrase": "Berserker",
+		"comment": "This player is great with melee weapons",
+		"translation": "Berserker",
+		"machine": true
+	},
+	{
+		"phrase": "Assassin",
+		"comment": "This player is stealthy and great with melee weapons",
+		"translation": "Salamurhaaja",
+		"machine": true
+	},
+	{
+		"phrase": "Executioner",
+		"comment": "This player is a force to be reckoned with when using melee weapons",
+		"translation": "Pyöveli",
+		"machine": true
+	},
+	{
+		"phrase": "Builder",
+		"comment": "This player likes building",
+		"translation": "Rakentaja",
+		"machine": true
+	},
+	{
+		"phrase": "Tunneler",
+		"comment": "This player likes digging",
+		"translation": "Tunneleri",
+		"machine": true
+	},
+	{
+		"phrase": "Excavator",
+		"comment": "This player really likes digging",
+		"translation": "Kaivinkone",
+		"machine": true
+	},
+	{
+		"phrase": "Reinforcer",
+		"comment": "This player enjoys making strong bases",
+		"translation": "Vahvistin",
+		"machine": true
+	},
+	{
+		"phrase": "Demolisher",
+		"comment": "This player enjoys destroying buildings",
+		"translation": "Purkuttaja",
+		"machine": true
+	},
+	{
+		"phrase": "Fabricator",
+		"comment": "This player enjoys creating massive bases",
+		"translation": "Valmistaja",
+		"machine": true
+	},
+	{
+		"phrase": "Architect",
+		"comment": "This player is a master builder",
+		"translation": "Arkkitehti",
+		"machine": true
+	},
+	{
+		"phrase": "Raider",
+		"comment": "This player enjoys raiding the enemy base",
+		"translation": "Raider",
+		"machine": true
+	},
+	{
+		"phrase": "Thief",
+		"comment": "This player enjoys stealing enemy resources",
+		"translation": "Varas",
+		"machine": true
+	},
+	{
+		"phrase": "Sentry",
+		"comment": "This player watches for enemy movement",
+		"translation": "Vartiomies",
+		"machine": true
+	},
+	{
+		"phrase": "Marauder",
+		"comment": "This player inflicts heavy damage inside enemy-controlled areas",
+		"translation": "Rosvo",
+		"machine": true
+	},
+	{
+		"phrase": "Invader",
+		"comment": "This player is skilled at entering enemy territory",
+		"translation": "Hyökkääjä",
+		"machine": true
+	},
+	{
+		"phrase": "Protector",
+		"comment": "This player keeps enemies out of friendly-controlled areas",
+		"translation": "Suojelija",
+		"machine": true
+	},
+	{
+		"phrase": "Conqueror",
+		"comment": "This player is skilled at capturing enemy territory",
+		"translation": "Valloittaja",
+		"machine": true
+	},
+	{
+		"phrase": "Uplifter",
+		"comment": "This player lifts up their teammates",
+		"translation": "Kohottava",
+		"machine": true
+	},
+	{
+		"phrase": "Watchman",
+		"comment": "This player spots enemies for teammates to eliminate",
+		"translation": "Vartija",
+		"machine": true
+	},
+	{
+		"phrase": "Saviour",
+		"comment": "This player saves their teammates from danger",
+		"translation": "Pelastaja",
+		"machine": true
+	},
+	{
+		"phrase": "Eagle Eye",
+		"comment": "This player can spot enemies from far away",
+		"translation": "Kotkan silmä",
+		"machine": true
+	},
+	{
+		"phrase": "Punisher",
+		"comment": "This player swiftly avenges teammate's deaths",
+		"translation": "Rangaistaja",
+		"machine": true
+	},
+	{
+		"phrase": "Guardian",
+		"comment": "This player eliminates enemy threats to their team",
+		"translation": "Suojelija",
+		"machine": true
+	},
+	{
+		"phrase": "Vanquisher",
+		"comment": "This player eliminates enemy threats to their team",
+		"translation": "Voittaja",
+		"machine": true
+	},
+	{
+		"phrase": "Terminator",
+		"comment": "It can't be reasoned with. It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!",
+		"translation": "Terminaattori",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
+		"translation": "{0} sisällöntuottaja",
+		"machine": true
+	},
+	{
+		"phrase": "Salvage Cup {0} Champion",
+		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
+		"translation": "Salvage cup {0} mestari",
+		"machine": true
+	},
+	{
+		"phrase": "Salvage Cup {0} Runner Up",
+		"comment": "The runner up team of a Salvage Cup tournament. Parameter 0: '2'",
+		"translation": "Pelastuskuppi {0} kakkonen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Initiate",
+		"comment": "To be an initiate. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Aloita",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Proficient",
+		"comment": "To be proficient with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Taitava",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prodigy",
+		"comment": "An upcoming prodigy. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Prodigy",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Adept",
+		"comment": "To be adept with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Adept",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Ace",
+		"comment": "An ace\/star, to be really good at something. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Ace",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Elite",
+		"comment": "An Elite Assault Rifle user. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Elite",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Expert",
+		"comment": "To be an expert with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} asiantuntija",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Master",
+		"comment": "To be a master of a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Mestari",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Legend",
+		"comment": "You're a legend! Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Legenda",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Paragon",
+		"comment": "The perfect example of something. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Paragon",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Incarnate",
+		"comment": "To become the weapon itself. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Inkarnate",
+		"machine": true
+	},
+	{
+		"phrase": "Feet",
+		"comment": "I will kick Fora with my feet",
+		"translation": "Jalat",
+		"machine": true
+	},
+	{
+		"phrase": "Head",
+		"comment": "Fora has an ugly head",
+		"translation": "Pää",
+		"machine": true
+	},
+	{
+		"phrase": "Auto Crouch ({0})",
+		"comment": "Automatically crouch if there's a block at your feet when walking through a tunnel. Parameter 0: 'foot' or 'head'",
+		"translation": "Automaattinen kyykistys ({0})",
+		"machine": true
+	},
+	{
+		"phrase": "Automatically crouch if there's a block at your {0} when walking through a tunnel",
+		"comment": "Description for the 'Auto crouch (foot)' keybind. Parameter 0: 'foot' or 'head'",
+		"translation": "Kyykistyy automaattisesti, jos {0}:n kohdalla on lohko, kun kävelet tunnelin läpi",
 		"machine": true
 	}
 ]
