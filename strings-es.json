@@ -1665,11 +1665,6 @@
 		"translation": "Retícula"
 	},
 	{
-		"phrase": "Weapon Skin Token",
-		"comment": "[Inventory] Weapon skin token display name",
-		"translation": "Ficha para aspecto de arma"
-	},
-	{
 		"phrase": "Copied",
 		"comment": "[Hex Field] This text is displayed when the user copies a value from a hex field",
 		"translation": "Copiado"
@@ -2280,24 +2275,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} Protons. Lasts for {1} hour",
-		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "Protones {0}. Dura {1} hora",
-		"machine": true
-	},
-	{
-		"phrase": "{0} XP. Lasts for {1} hour",
-		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "{0} XP. Dura {1} hora",
-		"machine": true
-	},
-	{
-		"phrase": "Use this to unlock weapon skins on the Weapons screen",
-		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Úselo para desbloquear máscaras de armas en la pantalla de armas",
-		"machine": true
-	},
-	{
 		"phrase": "Select a graphics preset to continue",
 		"comment": "Onboarding instructions. The user has to select one of the high\/medium\/low\/toaster presets to continue",
 		"translation": "Seleccione un ajuste preestablecido de gráficos para continuar",
@@ -2871,7 +2848,7 @@
 	},
 	{
 		"phrase": "Cancelling",
-		"comment": "Cancelling a transaction",
+		"comment": "We are cancelling the transaction",
 		"translation": "Cancelado",
 		"machine": true
 	},
@@ -4420,31 +4397,31 @@
 	},
 	{
 		"phrase": "Music volume (menu)",
-		"comment": "Setting that controls how load the main menu music is",
+		"comment": "Setting that controls how loud the main menu music is",
 		"translation": "Volumen de la música (menú)",
 		"machine": true
 	},
 	{
 		"phrase": "Personal footsteps volume",
-		"comment": "Setting that controls how load your personal footsteps are",
+		"comment": "Setting that controls how loud your personal footsteps are",
 		"translation": "Volumen de pasos personales",
 		"machine": true
 	},
 	{
 		"phrase": "Teammate footsteps volume",
-		"comment": "Setting that controls how load your teammate's footsteps are",
+		"comment": "Setting that controls how loud your teammate's footsteps are",
 		"translation": "Volumen de pasos de compañeros de equipo",
 		"machine": true
 	},
 	{
 		"phrase": "Damage volume",
-		"comment": "Setting that controls how load the damage sound plays when you take damage",
+		"comment": "Setting that controls how loud the damage sound plays when you take damage",
 		"translation": "Volumen de daño",
 		"machine": true
 	},
 	{
 		"phrase": "Voice chat volume",
-		"comment": "Setting that controls how load incoming proximity voice chat is",
+		"comment": "Setting that controls how loud incoming proximity voice chat is",
 		"translation": "Volumen del chat de voz",
 		"machine": true
 	},
@@ -4674,12 +4651,6 @@
 		"phrase": "Controls the render distance cutoff for friendly player names",
 		"comment": "Description for the 'Player name distance' setting",
 		"translation": "Controla el límite de distancia de renderizado para nombres de jugadores amigables",
-		"machine": true
-	},
-	{
-		"phrase": "Entity icon distance",
-		"comment": "Setting that controls the render distance cutoff for entity icons (C4, scanner, etc)",
-		"translation": "Distancia del icono de la entidad",
 		"machine": true
 	},
 	{
@@ -5014,7 +4985,7 @@
 	},
 	{
 		"phrase": "Ammo HUD",
-		"comment": "Setting that controls whether the ammo HUD is visible",
+		"comment": "Setting that controls whether the points HUD is visible",
 		"translation": "HUD de munición",
 		"machine": true
 	},
@@ -5531,12 +5502,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by 3.0x.",
-		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Cada refuerzo dura 1 hora y aumentará la cantidad de {0} y XP que ganes en 3.0x.",
-		"machine": true
-	},
-	{
 		"phrase": "Boosts can be earned from watching partnered {0} streams, or you can purchase them here if you would like to fast track.",
 		"comment": "Boost pack description. Parameter 0: 'Twitch'",
 		"translation": "Los impulsos se pueden obtener al ver transmisiones {0} asociadas, o puede comprarlas aquí si desea acelerar.",
@@ -5630,7 +5595,7 @@
 	},
 	{
 		"phrase": "Success",
-		"comment": "This message appears when a command runs successfully",
+		"comment": "Success! You have unlocked the Human Elite character",
 		"translation": "Éxito",
 		"machine": true
 	},
@@ -6022,20 +5987,6 @@
 		"phrase": "Character tokens",
 		"comment": "2 Character tokens",
 		"translation": "Fichas de personaje",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon material token",
-		"comment": "1 Weapon skin token, i.e. a token\/coin that can be used to unlock a weapon skin",
-		"translation": "Token de piel de arma",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin tokens",
-		"context": "Weapon material tokens",
-		"comment": "2 Weapon skin tokens",
-		"translation": "Fichas de piel de arma",
 		"machine": true
 	},
 	{
@@ -7317,13 +7268,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Max ping distance",
-		"context": "Max marker distance",
-		"comment": "Setting that controls the render distance cutoff for 3D pings\/markers",
-		"translation": "Distancia máxima de ping",
-		"machine": true
-	},
-	{
 		"phrase": "Controls the render distance cutoff for 3D pings",
 		"context": "Controls the render distance cutoff for 3D markers",
 		"comment": "Description for the 'Max ping distance' setting",
@@ -8030,18 +7974,6 @@
 		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
 		"comment": "Description for the 'Particle Delay' settings",
 		"translation": "Configuración de representación avanzada que controla cuántos fotogramas puede retrasarse el motor de partículas",
-		"machine": true
-	},
-	{
-		"phrase": "Show icons when ADS",
-		"comment": "Setting that controls whether icons and player names should display when aiming down the sights",
-		"translation": "Mostrar iconos cuando ADS",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether icons and player names should display when aiming down the sights",
-		"comment": "Description for the 'Show icons when ADS' setting",
-		"translation": "Controla si los íconos y los nombres de los jugadores deben mostrarse al apuntar hacia abajo",
 		"machine": true
 	},
 	{
@@ -9340,6 +9272,218 @@
 		"phrase": "Kills",
 		"comment": "2 kills",
 		"translation": "mata",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by {1}.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Cada impulso dura 1 hora y aumentará la cantidad de {0} y XP que ganes en {1}.",
+		"machine": true
+	},
+	{
+		"phrase": "Character tokens can be used to unlock any character.",
+		"comment": "Character token description",
+		"translation": "Las fichas de personaje se pueden usar para desbloquear cualquier personaje..",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens can be used to unlock any skin on any weapon or character.",
+		"comment": "Skin token description",
+		"translation": "Las fichas de aspecto se pueden usar para desbloquear cualquier aspecto en cualquier arma o personaje..",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to activate. This will override your current active boost",
+		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
+		"translation": "Haga doble clic para activar. esto anulará su impulso activo actual",
+		"machine": true
+	},
+	{
+		"phrase": "No active boost",
+		"comment": "You do not have an active XP boost",
+		"translation": "Sin refuerzo activo",
+		"machine": true
+	},
+	{
+		"phrase": "Hit feedback volume",
+		"comment": "Setting that controls how loud the hit feedback sound is when hitting another player",
+		"translation": "Toque el volumen de retroalimentación",
+		"machine": true
+	},
+	{
+		"phrase": "Hitmarker HUD",
+		"comment": "Setting that controls whether hitmerkers are visible on the HUD",
+		"translation": "HUD de marcador de impacto",
+		"machine": true
+	},
+	{
+		"phrase": "Focus region",
+		"comment": "The user can define a circle in the center of the screen called the 'focus region', which is where UI icons are more transparent",
+		"translation": "región de enfoque",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral region",
+		"comment": "The part of the screen thats outside the peripheral region",
+		"translation": "Región periférica",
+		"machine": true
+	},
+	{
+		"phrase": "Fade region",
+		"comment": "The region on the screen between the Focus and Peripheral regions where icons fade from transparent to opaque",
+		"translation": "Región de fundido",
+		"machine": true
+	},
+	{
+		"phrase": "Opaque icon distance",
+		"comment": "3D icons will be opaque when their distance to the player is less than this value",
+		"translation": "Distancia de icono opaco",
+		"machine": true
+	},
+	{
+		"phrase": "Focus radius",
+		"comment": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"translation": "Radio de enfoque",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral radius",
+		"comment": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"translation": "Radio periférico",
+		"machine": true
+	},
+	{
+		"phrase": "Focus icon opacity",
+		"comment": "This setting controls the opacity of icons within the focus region",
+		"translation": "Opacidad del icono de enfoque",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral icon opacity",
+		"comment": "This setting controls the opacity of icons outside the focus region",
+		"translation": "Opacidad de iconos periféricos",
+		"machine": true
+	},
+	{
+		"phrase": "ADS icon opacity",
+		"comment": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"translation": "Opacidad del icono de ADS",
+		"machine": true
+	},
+	{
+		"phrase": "3D icons will be opaque when their distance to the player is less than this value",
+		"comment": "Description for the 'Opaque icon distance' setting",
+		"translation": "Los íconos 3D serán opacos cuando su distancia al jugador sea menor que este valor",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"comment": "Description for the 'Focus radius' setting",
+		"translation": "Todos los iconos 3D dentro de este círculo en el centro de la pantalla se denominan \"región de enfoque\". esta configuración controla el radio de la región de enfoque",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"comment": "Description for the 'Peripheral radius' setting",
+		"translation": "Todos los iconos 3D fuera de este círculo en el centro de la pantalla se denominan \"región periférica\". este ajuste controla el radio de la región periférica",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons within the focus region",
+		"comment": "Description for the 'Focus icon opacity' setting",
+		"translation": "Esta configuración controla la opacidad de los íconos dentro de la región de enfoque",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons outside the focus region",
+		"comment": "Description for the 'Peripheral icon opacity' setting",
+		"translation": "Esta configuración controla la opacidad de los íconos fuera de la región de enfoque",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"comment": "Description for the 'ADS icon opacity' setting",
+		"translation": "Esta configuración controla la opacidad máxima de los íconos cuando ADS (apuntar hacia abajo con la mira))",
+		"machine": true
+	},
+	{
+		"phrase": "Show death icons",
+		"comment": "Setting that controls whether a death icon renders where a player died",
+		"translation": "Mostrar iconos de muerte",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "1 colour, i.e. red",
+		"translation": "Color",
+		"machine": true
+	},
+	{
+		"phrase": "Colours",
+		"comment": "2 colours, i.e. red and black",
+		"translation": "Colores",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} {2} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
+		"translation": "Impulso {0} activo\n{1} {2} restante",
+		"machine": true
+	},
+	{
+		"phrase": "Character token required - purchase in the Supporter Pack",
+		"comment": "This error shows if the player attempts to unlock the Human Renegade without any character tokens",
+		"translation": "Se requiere token de personaje: compra en el paquete de apoyo",
+		"machine": true
+	},
+	{
+		"phrase": "The Pearl skin is unlocked in the Supporter Pack",
+		"comment": "This error shows if the player attempts to equip a Pearl skin without first purchasing the Supporter Pack",
+		"translation": "La piel de perla está desbloqueada en el paquete de apoyo.",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} - earn them through gameplay or purchase them in the store",
+		"comment": "This error shows if they don't have enough Protons to unlock the character, skin or crosshair",
+		"translation": "No hay suficientes {0}: gánelos a través del juego o cómprelos en la tienda",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough skin tokens - earn them through partnered stream events",
+		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any",
+		"translation": "No hay suficientes tokens de aspecto: gánelos a través de eventos de transmisión asociados",
+		"machine": true
+	},
+	{
+		"phrase": "Cancelled",
+		"comment": "The transaction was cancelled",
+		"translation": "Cancelado",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"comment": "The weapon skin is being unlocked",
+		"translation": "Desbloqueo",
+		"machine": true
+	},
+	{
+		"phrase": "Error",
+		"comment": "There was an error unlocking the Human Elite character",
+		"translation": "Error",
+		"machine": true
+	},
+	{
+		"phrase": "Skin token",
+		"context": "Material token",
+		"comment": "1 Skin token, i.e. a token\/coin that can be used to unlock a weapon or character skin",
+		"translation": "Ficha de piel",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens",
+		"context": "Material tokens",
+		"comment": "2Skin tokens",
+		"translation": "Fichas de piel",
 		"machine": true
 	}
 ]

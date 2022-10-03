@@ -1705,12 +1705,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Weapon Skin Token",
-		"comment": "[Inventory] Weapon skin token display name",
-		"translation": "Aseen ihon merkki",
-		"machine": true
-	},
-	{
 		"phrase": "Copied",
 		"comment": "[Hex Field] This text is displayed when the user copies a value from a hex field",
 		"translation": "Kopioitu",
@@ -2352,24 +2346,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} Protons. Lasts for {1} hour",
-		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "{0} Protonit. Kestää {1} tunnin",
-		"machine": true
-	},
-	{
-		"phrase": "{0} XP. Lasts for {1} hour",
-		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "{0} XP. Kestää {1} tunnin",
-		"machine": true
-	},
-	{
-		"phrase": "Use this to unlock weapon skins on the Weapons screen",
-		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Käytä tätä avataksesi aseiden nahat aseiden näytöllä",
-		"machine": true
-	},
-	{
 		"phrase": "Select a graphics preset to continue",
 		"comment": "Onboarding instructions. The user has to select one of the high\/medium\/low\/toaster presets to continue",
 		"translation": "Jatka valitsemalla esiasetettu grafiikka",
@@ -2943,7 +2919,7 @@
 	},
 	{
 		"phrase": "Cancelling",
-		"comment": "Cancelling a transaction",
+		"comment": "We are cancelling the transaction",
 		"translation": "Peruutetaan",
 		"machine": true
 	},
@@ -4492,31 +4468,31 @@
 	},
 	{
 		"phrase": "Music volume (menu)",
-		"comment": "Setting that controls how load the main menu music is",
+		"comment": "Setting that controls how loud the main menu music is",
 		"translation": "Musiikin äänenvoimakkuus (valikko)",
 		"machine": true
 	},
 	{
 		"phrase": "Personal footsteps volume",
-		"comment": "Setting that controls how load your personal footsteps are",
+		"comment": "Setting that controls how loud your personal footsteps are",
 		"translation": "Henkilökohtaisten askelten äänenvoimakkuus",
 		"machine": true
 	},
 	{
 		"phrase": "Teammate footsteps volume",
-		"comment": "Setting that controls how load your teammate's footsteps are",
+		"comment": "Setting that controls how loud your teammate's footsteps are",
 		"translation": "Joukkuetoverin askeleiden äänenvoimakkuus",
 		"machine": true
 	},
 	{
 		"phrase": "Damage volume",
-		"comment": "Setting that controls how load the damage sound plays when you take damage",
+		"comment": "Setting that controls how loud the damage sound plays when you take damage",
 		"translation": "Vahinkojen määrä",
 		"machine": true
 	},
 	{
 		"phrase": "Voice chat volume",
-		"comment": "Setting that controls how load incoming proximity voice chat is",
+		"comment": "Setting that controls how loud incoming proximity voice chat is",
 		"translation": "Äänichatin äänenvoimakkuus",
 		"machine": true
 	},
@@ -4746,12 +4722,6 @@
 		"phrase": "Controls the render distance cutoff for friendly player names",
 		"comment": "Description for the 'Player name distance' setting",
 		"translation": "Ohjaa ystävällisten pelaajanimien renderöintietäisyyden rajaa",
-		"machine": true
-	},
-	{
-		"phrase": "Entity icon distance",
-		"comment": "Setting that controls the render distance cutoff for entity icons (C4, scanner, etc)",
-		"translation": "Entiteettikuvakkeen etäisyys",
 		"machine": true
 	},
 	{
@@ -5086,7 +5056,7 @@
 	},
 	{
 		"phrase": "Ammo HUD",
-		"comment": "Setting that controls whether the ammo HUD is visible",
+		"comment": "Setting that controls whether the points HUD is visible",
 		"translation": "Ammo HUD",
 		"machine": true
 	},
@@ -5603,12 +5573,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by 3.0x.",
-		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Jokainen lisäys kestää 1 tunnin ja lisää ansaitsemasi {0}- ja XP-pisteiden määrää 3,0-kertaisesti.",
-		"machine": true
-	},
-	{
 		"phrase": "Boosts can be earned from watching partnered {0} streams, or you can purchase them here if you would like to fast track.",
 		"comment": "Boost pack description. Parameter 0: 'Twitch'",
 		"translation": "Boosteja voi ansaita katsomalla kumppanien {0}-striimejä, tai voit ostaa niitä täältä, jos haluat nopeuttaa.",
@@ -5702,7 +5666,7 @@
 	},
 	{
 		"phrase": "Success",
-		"comment": "This message appears when a command runs successfully",
+		"comment": "Success! You have unlocked the Human Elite character",
 		"translation": "Menestys",
 		"machine": true
 	},
@@ -6094,20 +6058,6 @@
 		"phrase": "Character tokens",
 		"comment": "2 Character tokens",
 		"translation": "Hahmomerkit",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon material token",
-		"comment": "1 Weapon skin token, i.e. a token\/coin that can be used to unlock a weapon skin",
-		"translation": "Aseen ihomerkki",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin tokens",
-		"context": "Weapon material tokens",
-		"comment": "2 Weapon skin tokens",
-		"translation": "Ase-ihomerkit",
 		"machine": true
 	},
 	{
@@ -7389,13 +7339,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Max ping distance",
-		"context": "Max marker distance",
-		"comment": "Setting that controls the render distance cutoff for 3D pings\/markers",
-		"translation": "Max ping-etäisyys",
-		"machine": true
-	},
-	{
 		"phrase": "Controls the render distance cutoff for 3D pings",
 		"context": "Controls the render distance cutoff for 3D markers",
 		"comment": "Description for the 'Max ping distance' setting",
@@ -8102,18 +8045,6 @@
 		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
 		"comment": "Description for the 'Particle Delay' settings",
 		"translation": "Kehittynyt renderöintiasetus, joka ohjaa kuinka monta kehystä hiukkasmoottori saa jäädä jälkeen",
-		"machine": true
-	},
-	{
-		"phrase": "Show icons when ADS",
-		"comment": "Setting that controls whether icons and player names should display when aiming down the sights",
-		"translation": "Näytä kuvakkeet, kun ADS",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether icons and player names should display when aiming down the sights",
-		"comment": "Description for the 'Show icons when ADS' setting",
-		"translation": "Ohjaa, näytetäänkö kuvakkeita ja pelaajien nimiä, kun tähtäät alaspäin",
 		"machine": true
 	},
 	{
@@ -9412,6 +9343,218 @@
 		"phrase": "Kills",
 		"comment": "2 kills",
 		"translation": "Tappaa",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by {1}.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Jokainen tehostus kestää 1 tunnin ja lisää ansaitsemasi {0}:n ja XP:n määrää {1}:llä.",
+		"machine": true
+	},
+	{
+		"phrase": "Character tokens can be used to unlock any character.",
+		"comment": "Character token description",
+		"translation": "Hahmomerkkejä voidaan käyttää minkä tahansa hahmon lukituksen avaamiseen.",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens can be used to unlock any skin on any weapon or character.",
+		"comment": "Skin token description",
+		"translation": "Skin tokeneita voidaan käyttää minkä tahansa ihon avaamiseen mistä tahansa aseesta tai hahmosta.",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to activate. This will override your current active boost",
+		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
+		"translation": "Aktivoi kaksoisnapsauttamalla. tämä ohittaa nykyisen aktiivisen tehostuksen",
+		"machine": true
+	},
+	{
+		"phrase": "No active boost",
+		"comment": "You do not have an active XP boost",
+		"translation": "Ei aktiivista tehostetta",
+		"machine": true
+	},
+	{
+		"phrase": "Hit feedback volume",
+		"comment": "Setting that controls how loud the hit feedback sound is when hitting another player",
+		"translation": "Paina palautteen äänenvoimakkuutta",
+		"machine": true
+	},
+	{
+		"phrase": "Hitmarker HUD",
+		"comment": "Setting that controls whether hitmerkers are visible on the HUD",
+		"translation": "Hitmarker HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Focus region",
+		"comment": "The user can define a circle in the center of the screen called the 'focus region', which is where UI icons are more transparent",
+		"translation": "Painopistealue",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral region",
+		"comment": "The part of the screen thats outside the peripheral region",
+		"translation": "Perifeerinen alue",
+		"machine": true
+	},
+	{
+		"phrase": "Fade region",
+		"comment": "The region on the screen between the Focus and Peripheral regions where icons fade from transparent to opaque",
+		"translation": "Häivytysalue",
+		"machine": true
+	},
+	{
+		"phrase": "Opaque icon distance",
+		"comment": "3D icons will be opaque when their distance to the player is less than this value",
+		"translation": "Läpinäkymätön kuvakkeen etäisyys",
+		"machine": true
+	},
+	{
+		"phrase": "Focus radius",
+		"comment": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"translation": "Tarkennuksen säde",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral radius",
+		"comment": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"translation": "Kehäsäde",
+		"machine": true
+	},
+	{
+		"phrase": "Focus icon opacity",
+		"comment": "This setting controls the opacity of icons within the focus region",
+		"translation": "Kohdista kuvakkeen läpinäkyvyys",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral icon opacity",
+		"comment": "This setting controls the opacity of icons outside the focus region",
+		"translation": "Oheislaitteen kuvakkeen peittävyys",
+		"machine": true
+	},
+	{
+		"phrase": "ADS icon opacity",
+		"comment": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"translation": "ADS-kuvakkeen läpinäkyvyys",
+		"machine": true
+	},
+	{
+		"phrase": "3D icons will be opaque when their distance to the player is less than this value",
+		"comment": "Description for the 'Opaque icon distance' setting",
+		"translation": "3D-kuvakkeet ovat läpinäkymättömiä, kun niiden etäisyys soittimeen on tätä arvoa pienempi",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"comment": "Description for the 'Focus radius' setting",
+		"translation": "Kaikkia tässä näytön keskellä olevan ympyrän sisällä olevia 3D-kuvakkeita kutsutaan \"tarkennusalueeksi\". tämä asetus ohjaa tarkennusalueen sädettä",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"comment": "Description for the 'Peripheral radius' setting",
+		"translation": "Kaikkia tämän ympyrän ulkopuolella olevia 3D-kuvakkeita ruudun keskellä kutsutaan reuna-alueeksi. tämä asetus ohjaa reuna-alueen sädettä",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons within the focus region",
+		"comment": "Description for the 'Focus icon opacity' setting",
+		"translation": "Tämä asetus ohjaa kuvakkeiden läpinäkyvyyttä tarkennusalueella",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons outside the focus region",
+		"comment": "Description for the 'Peripheral icon opacity' setting",
+		"translation": "Tämä asetus ohjaa tarkennusalueen ulkopuolella olevien kuvakkeiden läpinäkyvyyttä",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"comment": "Description for the 'ADS icon opacity' setting",
+		"translation": "Tämä asetus ohjaa kuvakkeiden maksimaalista läpinäkyvyyttä, kun ADS (tähdätä alaspäin).)",
+		"machine": true
+	},
+	{
+		"phrase": "Show death icons",
+		"comment": "Setting that controls whether a death icon renders where a player died",
+		"translation": "Näytä kuoleman kuvakkeet",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "1 colour, i.e. red",
+		"translation": "Väri",
+		"machine": true
+	},
+	{
+		"phrase": "Colours",
+		"comment": "2 colours, i.e. red and black",
+		"translation": "värit",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} {2} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
+		"translation": "{0}-tehostus aktiivinen\n{1} {2} jäljellä",
+		"machine": true
+	},
+	{
+		"phrase": "Character token required - purchase in the Supporter Pack",
+		"comment": "This error shows if the player attempts to unlock the Human Renegade without any character tokens",
+		"translation": "Hahmotunnus vaaditaan – osta tukipaketissa",
+		"machine": true
+	},
+	{
+		"phrase": "The Pearl skin is unlocked in the Supporter Pack",
+		"comment": "This error shows if the player attempts to equip a Pearl skin without first purchasing the Supporter Pack",
+		"translation": "Helmen kuori on auki tukipakkauksessa",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} - earn them through gameplay or purchase them in the store",
+		"comment": "This error shows if they don't have enough Protons to unlock the character, skin or crosshair",
+		"translation": "Ei riitä {0} - ansaitse ne pelaamalla tai osta ne kaupasta",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough skin tokens - earn them through partnered stream events",
+		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any",
+		"translation": "Ei tarpeeksi skin-tunnuksia – ansaitse ne yhteistyökumppanien suoratoistotapahtumien kautta",
+		"machine": true
+	},
+	{
+		"phrase": "Cancelled",
+		"comment": "The transaction was cancelled",
+		"translation": "Peruutettu",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"comment": "The weapon skin is being unlocked",
+		"translation": "Avataan",
+		"machine": true
+	},
+	{
+		"phrase": "Error",
+		"comment": "There was an error unlocking the Human Elite character",
+		"translation": "Virhe",
+		"machine": true
+	},
+	{
+		"phrase": "Skin token",
+		"context": "Material token",
+		"comment": "1 Skin token, i.e. a token\/coin that can be used to unlock a weapon or character skin",
+		"translation": "Ihon merkki",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens",
+		"context": "Material tokens",
+		"comment": "2Skin tokens",
+		"translation": "Ihomerkit",
 		"machine": true
 	}
 ]
