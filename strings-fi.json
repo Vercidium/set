@@ -9346,12 +9346,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by {1}.",
-		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Jokainen tehostus kestää 1 tunnin ja lisää ansaitsemasi {0}:n ja XP:n määrää {1}:llä.",
-		"machine": true
-	},
-	{
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
 		"translation": "Hahmomerkkejä voidaan käyttää minkä tahansa hahmon lukituksen avaamiseen.",
@@ -9555,6 +9549,12 @@
 		"context": "Material tokens",
 		"comment": "2Skin tokens",
 		"translation": "Ihomerkit",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Jokainen tehostus kestää 1 tunnin pelin ajan ja lisää {0}:n ja XP:n määrää {1}:llä.",
 		"machine": true
 	}
 ]

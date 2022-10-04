@@ -9275,12 +9275,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by {1}.",
-		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Cada impulso dura 1 hora y aumentará la cantidad de {0} y XP que ganes en {1}.",
-		"machine": true
-	},
-	{
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
 		"translation": "Las fichas de personaje se pueden usar para desbloquear cualquier personaje..",
@@ -9484,6 +9478,12 @@
 		"context": "Material tokens",
 		"comment": "2Skin tokens",
 		"translation": "Fichas de piel",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Cada impulso dura 1 hora de juego y aumentará la cantidad de {0} y XP que ganes en {1}.",
 		"machine": true
 	}
 ]

@@ -9647,12 +9647,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by {1}.",
-		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Κάθε ενίσχυση διαρκεί 1 ώρα και θα αυξήσει το ποσό των {0} και XP που κερδίζετε κατά {1}.",
-		"machine": true
-	},
-	{
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
 		"translation": "Τα διακριτικά χαρακτήρων μπορούν να χρησιμοποιηθούν για το ξεκλείδωμα οποιουδήποτε χαρακτήρα.",
@@ -9856,6 +9850,12 @@
 		"context": "Material tokens",
 		"comment": "2Skin tokens",
 		"translation": "Δερματικές μάρκες",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Κάθε ενίσχυση διαρκεί για 1 ώρα παιχνιδιού και θα αυξήσει το ποσό των {0} και XP που κερδίζετε κατά {1}.",
 		"machine": true
 	}
 ]
