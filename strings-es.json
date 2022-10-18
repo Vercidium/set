@@ -1956,12 +1956,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
-		"translation": "Los enemigos se resaltarán si tienen un nivel {0} o menos y un KDR de {1} o menos..\n\nMientras el mantenimiento de la paz esté habilitado, inflige daño {2} a estos jugadores y gana {3} XP y protones adicionales.\n\nLos cambios surten efecto en la reaparición. pacificador no tiene ningún efecto en gratis para todos los modos de juego.",
-		"machine": true
-	},
-	{
 		"phrase": "A player",
 		"comment": "[Placeholder] Placeholder name for a player, e.g. 'A player has taken our flag'",
 		"translation": "Un jugador",
@@ -3287,31 +3281,19 @@
 	},
 	{
 		"phrase": "KI {0}",
-		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 KI armour modification equipped",
+		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 Kinetic armour modification equipped",
 		"translation": "KI {0}",
 		"machine": true
 	},
 	{
-		"phrase": "RE {0}",
-		"comment": "Mod power, i.e. 'RE 2' means the player has the level 2 RE armour modification equipped",
-		"translation": "RE {0}",
-		"machine": true
-	},
-	{
 		"phrase": "SC {0}",
-		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 SC armour modification equipped",
+		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 Scavenger armour modification equipped",
 		"translation": "SC {0}",
 		"machine": true
 	},
 	{
-		"phrase": "SP {0}",
-		"comment": "Mod power, i.e. 'SP 2' means the player has the level 2 SP armour modification equipped",
-		"translation": "ESP {0}",
-		"machine": true
-	},
-	{
 		"phrase": "ST {0}",
-		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 ST armour modification equipped",
+		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
 		"machine": true
 	},
@@ -4720,24 +4702,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether party member's outlines should be a different colour",
-		"comment": "Description for the 'Party outline colour' setting",
-		"translation": "Controla si los contornos de los miembros del grupo deben ser de un color diferente",
-		"machine": true
-	},
-	{
-		"phrase": "Show enemy outlines",
-		"comment": "Setting that controls whether outlines should render around enemies",
-		"translation": "Mostrar contornos enemigos",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outlines should render around enemies",
-		"comment": "Description for the 'Show enemy outlines' setting",
-		"translation": "Controla si los contornos deben mostrarse alrededor de los enemigos.",
-		"machine": true
-	},
-	{
 		"phrase": "Fill",
 		"comment": "Fill a rectangle with a solid colour",
 		"translation": "Llenar",
@@ -4985,7 +4949,7 @@
 	},
 	{
 		"phrase": "Ammo HUD",
-		"comment": "Setting that controls whether the points HUD is visible",
+		"comment": "Setting that controls whether the ammo HUD is visible",
 		"translation": "HUD de munición",
 		"machine": true
 	},
@@ -7299,12 +7263,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Different party outline",
-		"comment": "Setting that controls whether party member outlines should be a different colour",
-		"translation": "Esquema de partido diferente",
-		"machine": true
-	},
-	{
 		"phrase": "{0} Send team message",
 		"comment": "Press enter to send a message to your team. Parameter 0: '[ Enter ]'",
 		"translation": "{0} Enviar mensaje de equipo",
@@ -8571,12 +8529,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Desync",
-		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
-		"translation": "Desincronizar",
-		"machine": true
-	},
-	{
 		"phrase": "No",
 		"context": "None",
 		"comment": "Does not exist, i.e. 'No foregrip equipped'",
@@ -8846,12 +8798,6 @@
 		"phrase": "Spawn position removed",
 		"comment": "This text appears when a player removes their custom respawn location, which they can only do when recording trailers",
 		"translation": "Se eliminó la posición de generación",
-		"machine": true
-	},
-	{
-		"phrase": "Bot count set to {0}",
-		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
-		"translation": "Recuento de bots establecido en {0}",
 		"machine": true
 	},
 	{
@@ -9281,12 +9227,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Skin tokens can be used to unlock any skin on any weapon or character.",
-		"comment": "Skin token description",
-		"translation": "Las fichas de aspecto se pueden usar para desbloquear cualquier aspecto en cualquier arma o personaje..",
-		"machine": true
-	},
-	{
 		"phrase": "Double click to activate. This will override your current active boost",
 		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
 		"translation": "Haga doble clic para activar. esto anulará su impulso activo actual",
@@ -9443,12 +9383,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Not enough skin tokens - earn them through partnered stream events",
-		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any",
-		"translation": "No hay suficientes tokens de aspecto: gánelos a través de eventos de transmisión asociados",
-		"machine": true
-	},
-	{
 		"phrase": "Cancelled",
 		"comment": "The transaction was cancelled",
 		"translation": "Cancelado",
@@ -9484,6 +9418,246 @@
 		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
 		"comment": "Proton pack description. Parameter 0: 'Protons'",
 		"translation": "Cada impulso dura 1 hora de juego y aumentará la cantidad de {0} y XP que ganes en {1}.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a game mode to continue",
+		"comment": "The player must click on which game mode (Breakthrough, capture the flag, etc) they would like to play",
+		"translation": "Selecciona un modo de juego para continuar",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens can be used to unlock weapon skin or character skin.",
+		"comment": "Skin token description",
+		"translation": "Las fichas de aspecto se pueden usar para desbloquear un aspecto de arma o un aspecto de personaje..",
+		"machine": true
+	},
+	{
+		"phrase": "Throw distance",
+		"comment": "How far the player can throw greandes",
+		"translation": "Distancia de tiro",
+		"machine": true
+	},
+	{
+		"phrase": "New players take less damage",
+		"comment": "When Peacekeeper is enabled, new players take less damage",
+		"translation": "Los nuevos jugadores reciben menos daño.",
+		"machine": true
+	},
+	{
+		"phrase": "Clear cache",
+		"comment": "Clear the cache and get all data again",
+		"translation": "Limpiar cache",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh",
+		"comment": "Refresh the page",
+		"translation": "Actualizar",
+		"machine": true
+	},
+	{
+		"phrase": "Extracting",
+		"comment": "The player is currently extracting resources from the earth",
+		"translation": "extrayendo",
+		"machine": true
+	},
+	{
+		"phrase": "Test hitboxes",
+		"comment": "A keybind that displays the hitboxes. Used for debugging\/testing",
+		"translation": "Probar hitboxes",
+		"machine": true
+	},
+	{
+		"phrase": "Clear hitboxes",
+		"comment": "A keybind that removes all display hitboxes",
+		"translation": "Borrar hitboxes",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are less than level {0} and have a KDR of {1} or less.\n\nDeal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '50%', Parameter 3: '25%'",
+		"translation": "Los enemigos se resaltarán si tienen un nivel inferior a {0} y tienen un KDR de {1} o menos..\n\nInflige {2} de daño a estos jugadores y gana {3} XP y protones adicionales.\n\nLos cambios surten efecto al reaparecer. El pacificador no tiene efecto en todos los modos de juego gratis..",
+		"machine": true
+	},
+	{
+		"phrase": "Downloading the map from the {0} Workshop...",
+		"comment": "Loading message that indicates the server is still downloading the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Descargando el mapa del taller {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "The download timed out and was cancelled.",
+		"comment": "Loading message that indicates the server took too long to download the map from the Steam Workshop, and the download was cancelled. Parameter 0: \"Steam\"",
+		"translation": "Se agotó el tiempo de descarga y se canceló.",
+		"machine": true
+	},
+	{
+		"phrase": "Permission denied - could not download the map from the {0} Workshop...",
+		"comment": "Error message that indicates the server doesn't have permission to download the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Permiso denegado: no se pudo descargar el mapa del taller {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop...",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "El mapa no existe en el taller {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count set to {0}-{1}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
+		"translation": "Recuento de bots establecido en {0}-{1}",
+		"machine": true
+	},
+	{
+		"phrase": "Increases jump height and reduces fall damage",
+		"comment": "Description for the Hydraulics armour mod",
+		"translation": "Aumenta la altura de salto y reduce el daño por caída",
+		"machine": true
+	},
+	{
+		"phrase": "Increases explosion knockback and reduces self-explosion damage",
+		"comment": "Description for the Kinetic armour mod",
+		"translation": "Aumenta el retroceso de la explosión y reduce el daño por autoexplosión",
+		"machine": true
+	},
+	{
+		"phrase": "Increases the amount of ammo and health gained from ammo pickups",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "Aumenta la cantidad de munición y salud obtenida de las recolecciones de munición",
+		"machine": true
+	},
+	{
+		"phrase": "Increases melee speed and throw distance",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "Aumenta la velocidad cuerpo a cuerpo y la distancia de lanzamiento.",
+		"machine": true
+	},
+	{
+		"phrase": "Reduces the volume of footsteps, building and digging",
+		"comment": "Description for the Stealth armour mod",
+		"translation": "Reduce el volumen de pasos, construcción y excavación.",
+		"machine": true
+	},
+	{
+		"phrase": "SE {0}",
+		"comment": "Mod power, i.e. 'SE 2' means the player has the level 2 Servo armour modification equipped",
+		"translation": "SE {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Our backend servers are currently offline, but you can still join game servers and play online. Your stats will be recorded when our backend servers are back online.",
+		"comment": "Disclaimer when backend servers are down",
+		"translation": "Nuestros servidores backend están actualmente fuera de línea, pero aún puedes unirte a los servidores del juego y jugar en línea. sus estadísticas se registrarán cuando nuestros servidores back-end vuelvan a estar en línea.",
+		"machine": true
+	},
+	{
+		"phrase": "Surveillance enabled",
+		"comment": "This is a blue shell mechanic. Players on 5 killstreaks or higher will be revealed through walls",
+		"translation": "Vigilancia habilitada",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} tokens - earn them through partnered stream events",
+		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any. Parameter 0 is either 'character' or 'skin'",
+		"translation": "No hay suficientes tokens {0}: gánelos a través de eventos de transmisión asociados",
+		"machine": true
+	},
+	{
+		"phrase": "Supply",
+		"comment": "To supply your teammate with ammunition",
+		"translation": "Suministro",
+		"machine": true
+	},
+	{
+		"phrase": "Blade",
+		"comment": "A blade you can cut things with",
+		"translation": "Espada",
+		"machine": true
+	},
+	{
+		"phrase": "Off",
+		"comment": "Turn the light off",
+		"translation": "Apagado",
+		"machine": true
+	},
+	{
+		"phrase": "On",
+		"comment": "Turn the light on",
+		"translation": "En",
+		"machine": true
+	},
+	{
+		"phrase": "Focus",
+		"comment": "The area around the center of the screen that the player focuses on, i.e. not the peripherals",
+		"translation": "Enfoque",
+		"machine": true
+	},
+	{
+		"phrase": "Force team colours",
+		"comment": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"translation": "Forzar colores del equipo",
+		"machine": true
+	},
+	{
+		"phrase": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"comment": "Description for the 'Force team colours' setting",
+		"translation": "Esta configuración de accesibilidad obliga a los colores de camuflaje del jugador al color de su equipo, en lugar del color seleccionado.",
+		"machine": true
+	},
+	{
+		"phrase": "Points HUD",
+		"comment": "Setting that controls whether the points HUD is visible",
+		"translation": "HUD de puntos",
+		"machine": true
+	},
+	{
+		"phrase": "Coloured party outlines",
+		"comment": "Setting that controls whether the outlines around party members should be party coloured rather than team coloured",
+		"translation": "Contornos de fiesta de colores",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the outlines around party members should be party coloured rather than team coloured",
+		"comment": "Description for the 'Party outline colour' setting",
+		"translation": "Controla si los contornos alrededor de los miembros del grupo deben tener el color del grupo en lugar del color del equipo.",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy outlines",
+		"comment": "Setting that controls whether coloured outlines should render around enemies",
+		"translation": "Contornos enemigos",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
+		"comment": "Description for the 'Enemy outlines' setting",
+		"translation": "Controla si los contornos deben estar apagados, enfocados (solo aparecen cuando se mira a los enemigos) o siempre encendidos",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly outlines",
+		"comment": "Setting that controls whether coloured outlines should render around friendlies",
+		"translation": "Contornos amistosos",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outline should render around friendly players",
+		"comment": "Description for the 'Friendly outlines' setting",
+		"translation": "Controla si el contorno debe mostrarse alrededor de jugadores amistosos.",
+		"machine": true
+	},
+	{
+		"phrase": "Fun",
+		"comment": "This game is fun",
+		"translation": "Divertida",
+		"machine": true
+	},
+	{
+		"phrase": "Outlines",
+		"comment": "Coloured outlines that render around players so you can tell which team they're on",
+		"translation": "contornos",
 		"machine": true
 	}
 ]

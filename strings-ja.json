@@ -2485,12 +2485,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
-		"translation": "レベル{0}以下で、KDRが{1}以下の敵は、ハイライト表示されます。.\n\nピースキーパーが有効になっている間、これらのプレイヤーに{2}のダメージを与え、{3}の追加XPとプロトンを獲得します。.\n\n変更はリスポーンで有効になります。ピースキーパーは、すべてのゲームモードで無料で効果がありません.",
-		"machine": true
-	},
-	{
 		"phrase": "There was an error initialising shaders. Please follow the instructions at {0} to submit your log files and help solve this issue",
 		"comment": "[Error] [Message Popup] Parameter 0: 'https:\/\/sectorsedge.com\/support'",
 		"translation": "シェーダーの初期化中にエラーが発生しました。 {0}の指示に従ってログファイルを送信し、この問題の解決にご協力ください",
@@ -3659,31 +3653,19 @@
 	},
 	{
 		"phrase": "KI {0}",
-		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 KI armour modification equipped",
+		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 Kinetic armour modification equipped",
 		"translation": "KI {0}",
 		"machine": true
 	},
 	{
-		"phrase": "RE {0}",
-		"comment": "Mod power, i.e. 'RE 2' means the player has the level 2 RE armour modification equipped",
-		"translation": "RE {0}",
-		"machine": true
-	},
-	{
 		"phrase": "SC {0}",
-		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 SC armour modification equipped",
+		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 Scavenger armour modification equipped",
 		"translation": "SC {0}",
 		"machine": true
 	},
 	{
-		"phrase": "SP {0}",
-		"comment": "Mod power, i.e. 'SP 2' means the player has the level 2 SP armour modification equipped",
-		"translation": "SP {0}",
-		"machine": true
-	},
-	{
 		"phrase": "ST {0}",
-		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 ST armour modification equipped",
+		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
 		"machine": true
 	},
@@ -5092,24 +5074,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether party member's outlines should be a different colour",
-		"comment": "Description for the 'Party outline colour' setting",
-		"translation": "パーティーメンバーのアウトラインを別の色にするかどうかを制御します",
-		"machine": true
-	},
-	{
-		"phrase": "Show enemy outlines",
-		"comment": "Setting that controls whether outlines should render around enemies",
-		"translation": "敵の輪郭を表示する",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outlines should render around enemies",
-		"comment": "Description for the 'Show enemy outlines' setting",
-		"translation": "アウトラインを敵の周りにレンダリングするかどうかを制御します",
-		"machine": true
-	},
-	{
 		"phrase": "Fill",
 		"comment": "Fill a rectangle with a solid colour",
 		"translation": "塗りつぶし",
@@ -5357,7 +5321,7 @@
 	},
 	{
 		"phrase": "Ammo HUD",
-		"comment": "Setting that controls whether the points HUD is visible",
+		"comment": "Setting that controls whether the ammo HUD is visible",
 		"translation": "弾薬HUD",
 		"machine": true
 	},
@@ -7671,12 +7635,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Different party outline",
-		"comment": "Setting that controls whether party member outlines should be a different colour",
-		"translation": "別のパーティーの概要",
-		"machine": true
-	},
-	{
 		"phrase": "{0} Send team message",
 		"comment": "Press enter to send a message to your team. Parameter 0: '[ Enter ]'",
 		"translation": "{0}チームメッセージを送信する",
@@ -8943,12 +8901,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Desync",
-		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
-		"translation": "非同期化",
-		"machine": true
-	},
-	{
 		"phrase": "No",
 		"context": "None",
 		"comment": "Does not exist, i.e. 'No foregrip equipped'",
@@ -9218,12 +9170,6 @@
 		"phrase": "Spawn position removed",
 		"comment": "This text appears when a player removes their custom respawn location, which they can only do when recording trailers",
 		"translation": "スポーン位置が削除されました",
-		"machine": true
-	},
-	{
-		"phrase": "Bot count set to {0}",
-		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
-		"translation": "ボット数を {0} に設定",
 		"machine": true
 	},
 	{
@@ -9653,12 +9599,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Skin tokens can be used to unlock any skin on any weapon or character.",
-		"comment": "Skin token description",
-		"translation": "スキン トークンは、武器やキャラクターのスキンのロックを解除するために使用できます。.",
-		"machine": true
-	},
-	{
 		"phrase": "Double click to activate. This will override your current active boost",
 		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
 		"translation": "ダブルクリックして有効にします。これは現在アクティブなブーストを上書きします",
@@ -9815,12 +9755,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Not enough skin tokens - earn them through partnered stream events",
-		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any",
-		"translation": "スキン トークンが不足しています - パートナー ストリーム イベントを通じて獲得してください",
-		"machine": true
-	},
-	{
 		"phrase": "Cancelled",
 		"comment": "The transaction was cancelled",
 		"translation": "キャンセル",
@@ -9856,6 +9790,246 @@
 		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
 		"comment": "Proton pack description. Parameter 0: 'Protons'",
 		"translation": "各ブーストはゲームプレイの 1 時間持続し、獲得する {0} と XP の量が {1} 増加します.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a game mode to continue",
+		"comment": "The player must click on which game mode (Breakthrough, capture the flag, etc) they would like to play",
+		"translation": "続行するにはゲームモードを選択してください",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens can be used to unlock weapon skin or character skin.",
+		"comment": "Skin token description",
+		"translation": "スキン トークンを使用して、武器スキンまたはキャラクター スキンのロックを解除できます.",
+		"machine": true
+	},
+	{
+		"phrase": "Throw distance",
+		"comment": "How far the player can throw greandes",
+		"translation": "飛距離",
+		"machine": true
+	},
+	{
+		"phrase": "New players take less damage",
+		"comment": "When Peacekeeper is enabled, new players take less damage",
+		"translation": "新規プレイヤーの被ダメージが減少",
+		"machine": true
+	},
+	{
+		"phrase": "Clear cache",
+		"comment": "Clear the cache and get all data again",
+		"translation": "キャッシュの消去",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh",
+		"comment": "Refresh the page",
+		"translation": "リフレッシュ",
+		"machine": true
+	},
+	{
+		"phrase": "Extracting",
+		"comment": "The player is currently extracting resources from the earth",
+		"translation": "抽出中",
+		"machine": true
+	},
+	{
+		"phrase": "Test hitboxes",
+		"comment": "A keybind that displays the hitboxes. Used for debugging\/testing",
+		"translation": "ヒットボックスのテスト",
+		"machine": true
+	},
+	{
+		"phrase": "Clear hitboxes",
+		"comment": "A keybind that removes all display hitboxes",
+		"translation": "当たり判定クリア",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are less than level {0} and have a KDR of {1} or less.\n\nDeal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '50%', Parameter 3: '25%'",
+		"translation": "敵のレベルが {0} 未満で、KDR が {1} 以下の場合、敵が強調表示されます.\n\nこれらのプレイヤーに {2} ダメージを与え、追加で {3} XP とプロトンを獲得します.\n\n変更はリスポーン時に有効になります。ピースキーパーは、すべてのゲームモードで無料では効果がありません.",
+		"machine": true
+	},
+	{
+		"phrase": "Downloading the map from the {0} Workshop...",
+		"comment": "Loading message that indicates the server is still downloading the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "{0} ワークショップからマップをダウンロードする...",
+		"machine": true
+	},
+	{
+		"phrase": "The download timed out and was cancelled.",
+		"comment": "Loading message that indicates the server took too long to download the map from the Steam Workshop, and the download was cancelled. Parameter 0: \"Steam\"",
+		"translation": "ダウンロードがタイムアウトになり、キャンセルされました.",
+		"machine": true
+	},
+	{
+		"phrase": "Permission denied - could not download the map from the {0} Workshop...",
+		"comment": "Error message that indicates the server doesn't have permission to download the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "許可が拒否されました - {0} ワークショップからマップをダウンロードできませんでした...",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop...",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "マップは {0} ワークショップに存在しません...",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count set to {0}-{1}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
+		"translation": "ボット数を {0} ～ {1} に設定",
+		"machine": true
+	},
+	{
+		"phrase": "Increases jump height and reduces fall damage",
+		"comment": "Description for the Hydraulics armour mod",
+		"translation": "ジャンプの高さが上がり、落下ダメージが減少する",
+		"machine": true
+	},
+	{
+		"phrase": "Increases explosion knockback and reduces self-explosion damage",
+		"comment": "Description for the Kinetic armour mod",
+		"translation": "爆発のノックバックを増加させ、自己爆発のダメージを軽減します",
+		"machine": true
+	},
+	{
+		"phrase": "Increases the amount of ammo and health gained from ammo pickups",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "弾薬のピックアップから得られる弾薬とヘルスの量を増やします",
+		"machine": true
+	},
+	{
+		"phrase": "Increases melee speed and throw distance",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "近接速度と投擲距離を増加",
+		"machine": true
+	},
+	{
+		"phrase": "Reduces the volume of footsteps, building and digging",
+		"comment": "Description for the Stealth armour mod",
+		"translation": "足音、建物、掘削の音量を減らします",
+		"machine": true
+	},
+	{
+		"phrase": "SE {0}",
+		"comment": "Mod power, i.e. 'SE 2' means the player has the level 2 Servo armour modification equipped",
+		"translation": "SE {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Our backend servers are currently offline, but you can still join game servers and play online. Your stats will be recorded when our backend servers are back online.",
+		"comment": "Disclaimer when backend servers are down",
+		"translation": "バックエンド サーバーは現在オフラインですが、ゲーム サーバーに参加してオンラインでプレイすることはできます。バックエンドサーバーがオンラインに戻ったときに統計が記録されます.",
+		"machine": true
+	},
+	{
+		"phrase": "Surveillance enabled",
+		"comment": "This is a blue shell mechanic. Players on 5 killstreaks or higher will be revealed through walls",
+		"translation": "監視が有効",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} tokens - earn them through partnered stream events",
+		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any. Parameter 0 is either 'character' or 'skin'",
+		"translation": "{0} トークンが不足しています - パートナー ストリーム イベントを通じて獲得してください",
+		"machine": true
+	},
+	{
+		"phrase": "Supply",
+		"comment": "To supply your teammate with ammunition",
+		"translation": "供給",
+		"machine": true
+	},
+	{
+		"phrase": "Blade",
+		"comment": "A blade you can cut things with",
+		"translation": "刃",
+		"machine": true
+	},
+	{
+		"phrase": "Off",
+		"comment": "Turn the light off",
+		"translation": "オフ",
+		"machine": true
+	},
+	{
+		"phrase": "On",
+		"comment": "Turn the light on",
+		"translation": "の上",
+		"machine": true
+	},
+	{
+		"phrase": "Focus",
+		"comment": "The area around the center of the screen that the player focuses on, i.e. not the peripherals",
+		"translation": "集中",
+		"machine": true
+	},
+	{
+		"phrase": "Force team colours",
+		"comment": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"translation": "チームカラーを強制する",
+		"machine": true
+	},
+	{
+		"phrase": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"comment": "Description for the 'Force team colours' setting",
+		"translation": "このアクセシビリティ設定は、プレイヤーの迷彩色を、選択した色ではなく、チームの色に強制します",
+		"machine": true
+	},
+	{
+		"phrase": "Points HUD",
+		"comment": "Setting that controls whether the points HUD is visible",
+		"translation": "ポイントHUD",
+		"machine": true
+	},
+	{
+		"phrase": "Coloured party outlines",
+		"comment": "Setting that controls whether the outlines around party members should be party coloured rather than team coloured",
+		"translation": "着色されたパーティーの概要",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the outlines around party members should be party coloured rather than team coloured",
+		"comment": "Description for the 'Party outline colour' setting",
+		"translation": "パーティー メンバーの周りのアウトラインをチーム カラーではなくパーティー カラーにするかどうかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy outlines",
+		"comment": "Setting that controls whether coloured outlines should render around enemies",
+		"translation": "敵の概要",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
+		"comment": "Description for the 'Enemy outlines' setting",
+		"translation": "アウトラインをオフにするか、フォーカスするか (敵を見ているときのみ表示)、または常にオンにするかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly outlines",
+		"comment": "Setting that controls whether coloured outlines should render around friendlies",
+		"translation": "フレンドリーなアウトライン",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outline should render around friendly players",
+		"comment": "Description for the 'Friendly outlines' setting",
+		"translation": "友好的なプレイヤーの周りにアウトラインをレンダリングするかどうかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "Fun",
+		"comment": "This game is fun",
+		"translation": "楽しい",
+		"machine": true
+	},
+	{
+		"phrase": "Outlines",
+		"comment": "Coloured outlines that render around players so you can tell which team they're on",
+		"translation": "アウトライン",
 		"machine": true
 	}
 ]
