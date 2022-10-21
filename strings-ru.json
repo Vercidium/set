@@ -5,11 +5,6 @@
         "translation": "Кластерное возрождение"
     },
     {
-        "phrase": "Saviour",
-        "comment": "",
-        "translation": "Спасение"
-    },
-    {
         "phrase": "Damage",
         "comment": "Emotional damage!",
         "translation": "Урон"
@@ -900,11 +895,6 @@
         "translation": "Отключиться"
     },
     {
-        "phrase": "Cooldown",
-        "comment": "The time it takes for a structure to cooldown, e.g. '300ms Cooldown'. This text shows when looking at a structure in the ship",
-        "translation": "Задержка"
-    },
-    {
         "phrase": "Equip as primary",
         "comment": "Press a key to equip this weapon as your primary/main weapon",
         "translation": "Экипировать как основное"
@@ -990,10 +980,10 @@
         "translation": "Персонаж"
     },
     {
-        "phrase": "Blocks",
-        "comment": "2 Blocks, i.e. 2 cubes. If this language has different suffixes for different plurals, add a new entry to this list with the phrase 'Blocks' and context 'Blocks0', 'Blocks1' etc",
-        "translation": "Блоки"
-    },
+		"phrase": "Blocks",
+		"comment": "2 Blocks, i.e. 2 cubes. If this language has different suffixes for different plurals, add a new entry to this list with the phrase 'Blocks' and context 'Blocks0', 'Blocks1' etc",
+		"translation": "Блоки"
+	},
     {
         "phrase": "Trials",
         "comment": "Time trials, i.e. a place where a player can test their skills",
@@ -1490,12 +1480,6 @@
         "translation": "Плазменный резак"
     },
     {
-        "phrase": "Blocks",
-        "context": "Cubes",
-        "comment": "The amount of 3d voxels, e.g. '50 Blocks'. This text shows when looking at a structure in the ship",
-        "translation": "Блоков"
-    },
-    {
         "phrase": "Region",
         "comment": "Server preferences tab. This refers to geographical region",
         "translation": "Регион"
@@ -1554,12 +1538,6 @@
         "phrase": "Singapore",
         "comment": "Server location",
         "translation": "Сингапур"
-    },
-    {
-        "phrase": "ms",
-        "context": "milliseconds",
-        "comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
-        "translation": "мс"
     },
     {
         "phrase": "Kick",
@@ -1685,11 +1663,6 @@
         "phrase": "Crosshairs",
         "comment": "Crosshairs on a gun scope",
         "translation": "Перекрестие"
-    },
-    {
-        "phrase": "Weapon Skin Token",
-        "comment": "[Inventory] Weapon skin token display name",
-        "translation": "Жетон скина оружия"
     },
     {
         "phrase": "Copied",
@@ -1922,11 +1895,6 @@
         "translation": "Режим полета"
     },
     {
-        "phrase": "Anchored",
-        "comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-        "translation": "Прикрепленная"
-    },
-    {
         "phrase": "Select Player",
         "comment": "Spectator control. Enter first-person spectate mode for the player you are looking",
         "translation": "Выберите игрока"
@@ -2103,11 +2071,6 @@
         "translation": "Полный"
     },
     {
-        "phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-        "comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
-        "translation": "Враги будут подсвечены, если они имеют уровень {0} или ниже и имеют KDR {1} или меньше..\n\nПока включен миротворец, вы наносите этим игрокам {2} урона и зарабатываете {3} дополнительного опыта и Протонов..\n\nИзменения вступают в силу при возрождении. Миротворец не действует в режиме Бой На Смерть."
-    },
-    {
         "phrase": "There was an error initialising shaders. Please follow the instructions at {0} to submit your log files and help solve this issue",
         "comment": "[Error] [Message Popup] Parameter 0: 'https://sectorsedge.com/support'",
         "translation": "При инициализации шейдеров произошла ошибка. Следуйте инструкциям на {0}, чтобы отправить файлы логов и помочь решить эту проблему."
@@ -2236,21 +2199,6 @@
         "phrase": "Build + Dig {0}",
         "comment": "[Trial Name] Parameter 0: '1'",
         "translation": "Строительство + Копание {0}"
-    },
-    {
-        "phrase": "{0} Protons. Lasts for {1} hour",
-        "comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
-        "translation": "{0} Протонов. Длится {1} час"
-    },
-    {
-        "phrase": "{0} XP. Lasts for {1} hour",
-        "comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
-        "translation": "{0} опыта. Длится {1} час"
-    },
-    {
-        "phrase": "Use this to unlock weapon skins on the Weapons screen",
-        "comment": "[Inventory] Weapon skin token description",
-        "translation": "Используйте, чтобы разблокировать скины на оружие. Разблокировать скин можно на вкладке Оружие"
     },
     {
         "phrase": "Select a graphics preset to continue",
@@ -3101,19 +3049,9 @@
         "translation": "КИН {0}"
     },
     {
-        "phrase": "RE {0}",
-        "comment": "Mod power, i.e. 'RE 2' means the player has the level 2 RE armour modification equipped",
-        "translation": "РЕГ {0}"
-    },
-    {
         "phrase": "SC {0}",
         "comment": "Mod power, i.e. 'SC 2' means the player has the level 2 SC armour modification equipped",
         "translation": "МАР {0}"
-    },
-    {
-        "phrase": "SP {0}",
-        "comment": "Mod power, i.e. 'SP 2' means the player has the level 2 SP armour modification equipped",
-        "translation": "СКОР {0}"
     },
     {
         "phrase": "ST {0}",
@@ -4236,11 +4174,6 @@
         "translation": "Определяет, насколько далеко будут отображаться имена товарищей по команде."
     },
     {
-        "phrase": "Entity icon distance",
-        "comment": "Setting that controls the render distance cutoff for entity icons (C4, scanner, etc)",
-        "translation": "Дальность прорисовки иконок объектов"
-    },
-    {
         "phrase": "Controls the render distance cutoff for entity icons (C4, scanner, etc)",
         "comment": "Description for the 'Entity icon distance' setting",
         "translation": "Определяет, насколько далеко будут отображаться иконки объектов (C4, сканер и т.д.)."
@@ -4294,21 +4227,6 @@
         "phrase": "Show player outlines through walls",
         "comment": "Setting that controls whether friendly player outlines should be visible through walls",
         "translation": "Показывать очертания игроков сквозь стены"
-    },
-    {
-        "phrase": "Controls whether party member's outlines should be a different colour",
-        "comment": "Description for the 'Party outline colour' setting",
-        "translation": "Определяет, должны ли очертания членов отряда быть другого цвета."
-    },
-    {
-        "phrase": "Show enemy outlines",
-        "comment": "Setting that controls whether outlines should render around enemies",
-        "translation": "Показывать очертания врагов"
-    },
-    {
-        "phrase": "Controls whether outlines should render around enemies",
-        "comment": "Description for the 'Show enemy outlines' setting",
-        "translation": "Определяет, должны ли очертания отображаться вокруг врагов"
     },
     {
         "phrase": "Fill",
@@ -4948,11 +4866,6 @@
         "translation": "{0} можно использовать для кастомизации вашего персонажа, оружия и многого другого."
     },
     {
-        "phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by 3.0x.",
-        "comment": "Proton pack description. Parameter 0: 'Protons'",
-        "translation": "Каждый буст длится 1 час и увеличивает количество {0} и XP, которые вы зарабатываете, в 3,0 раза.."
-    },
-    {
         "phrase": "Boosts can be earned from watching partnered {0} streams, or you can purchase them here if you would like to fast track.",
         "comment": "Boost pack description. Parameter 0: 'Twitch'",
         "translation": "Бусты можно заработать за просмотр партнерских {0} трансляций, или вы можете приобрести их здесь, если хотите ускорить процесс."
@@ -5360,18 +5273,6 @@
         "translation": "Жетонов персонажа"
     },
     {
-        "phrase": "Weapon skin token",
-        "context": "Weapon material token",
-        "comment": "1 Weapon skin token, i.e. a token/coin that can be used to unlock a weapon skin",
-        "translation": "Жетон скина оружия"
-    },
-    {
-        "phrase": "Weapon skin tokens",
-        "context": "Weapon material tokens",
-        "comment": "2 Weapon skin tokens",
-        "translation": "Жетонов скина оружия"
-    },
-    {
         "phrase": "Weapon skin",
         "context": "Weapon material",
         "comment": "1 Weapon skin, i.e. a material that can be applied to the surface of a gun to change its appearance",
@@ -5454,11 +5355,6 @@
         "phrase": "Full servers",
         "comment": "A server with no free slots",
         "translation": "Полные серверы"
-    },
-    {
-        "phrase": "Grapics preset",
-        "comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
-        "translation": "Предустановка графики"
     },
     {
         "phrase": "Player name: {0}",
@@ -6445,12 +6341,6 @@
         "translation": "Определяет, будет ли рядом с 3D-отметкой указываться имя поставившего ее игрока."
     },
     {
-        "phrase": "Max ping distance",
-        "context": "Max marker distance",
-        "comment": "Setting that controls the render distance cutoff for 3D pings/markers",
-        "translation": "Максимальное расстояние до отметки"
-    },
-    {
         "phrase": "Controls the render distance cutoff for 3D pings",
         "context": "Controls the render distance cutoff for 3D markers",
         "comment": "Description for the 'Max ping distance' setting",
@@ -6475,11 +6365,6 @@
         "phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised",
         "comment": "Description for the 'Streamer mode' setting",
         "translation": "Название сервера не будет отображаться на Таблице счета, а имена и уровни других игроков будут случайными."
-    },
-    {
-        "phrase": "Different party outline",
-        "comment": "Setting that controls whether party member outlines should be a different colour",
-        "translation": "Другие очертания моделей членов отряда"
     },
     {
         "phrase": "{0} Send team message",
@@ -6806,11 +6691,6 @@
         "translation": "Игрок {0} не заблокирован"
     },
     {
-        "phrase": "Bot amount set to {0}",
-        "comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
-        "translation": "Количество ботов установлено на {0}"
-    },
-    {
         "phrase": "Now playing {0} on {1}",
         "comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
         "translation": "Сейчас играет {0} на {1}"
@@ -7049,16 +6929,6 @@
         "phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
         "comment": "Description for the 'Particle Delay' settings",
         "translation": "Продвинутая настройка рендеринга, которая определяет, на сколько кадров может отставать движок частиц."
-    },
-    {
-        "phrase": "Show icons when ADS",
-        "comment": "Setting that controls whether icons and player names should display when aiming down the sights",
-        "translation": "Показывать иконки во время прицеливания"
-    },
-    {
-        "phrase": "Controls whether icons and player names should display when aiming down the sights",
-        "comment": "Description for the 'Show icons when ADS' setting",
-        "translation": "Определяет, должны ли отображаться иконки и имена игроков при прицеливании."
     },
     {
         "phrase": "Failed",
@@ -7590,11 +7460,6 @@
         "translation": "Потеря пакетов"
     },
     {
-        "phrase": "Desync",
-        "comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
-        "translation": "Рассинхронизация"
-    },
-    {
         "phrase": "No",
         "context": "None",
         "comment": "Does not exist, i.e. 'No foregrip equipped'",
@@ -7679,5 +7544,1041 @@
         "phrase": "Networking HUD",
         "comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
         "translation": "Сетевой HUD"
-    }
+    },
+    {
+		"phrase": "Debug",
+		"comment": "Debug a computer program",
+		"translation": "Отлаживать",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Profiler",
+		"comment": "Toggles whether the debug profiler (records how long CPU and GPU tasks take to execute) should run",
+		"translation": "Переключить профайлер",
+		"machine": true
+	},
+	{
+		"phrase": "Autoplay",
+		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
+		"translation": "Автовоспроизведение",
+		"machine": true
+	},
+	{
+		"phrase": "Automatically join a server when there's {0} players in it",
+		"comment": "Autoplay tooltip. Parameter 0: '4'",
+		"translation": "Автоматически присоединяйтесь к серверу, когда на нем есть игроки {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Minimum players",
+		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
+		"translation": "Минимум игроков",
+		"machine": true
+	},
+	{
+		"phrase": "Coming soon",
+		"comment": "This new feature is coming soon",
+		"translation": "Вскоре",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo pierces through blocks rather than destroying them",
+		"comment": "Ammo description for Piercing Ammo on the Rail Gun",
+		"translation": "Этот боеприпас пробивает блоки, а не разрушает их.",
+		"machine": true
+	},
+	{
+		"phrase": "Loading stats",
+		"comment": "The game is loading statistics",
+		"translation": "Загрузка статистики",
+		"machine": true
+	},
+	{
+		"phrase": "No available servers",
+		"comment": "Error message when attempting to claim a lobby, but all servers are taken",
+		"translation": "Нет доступных серверов",
+		"machine": true
+	},
+	{
+		"phrase": "Map",
+		"comment": "A map\/world that players fight on",
+		"translation": "карта",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Key",
+		"comment": "A key\/code\/sequence of characters that the user can type in to redeem Protons or other rewards. Parameter 0: 'Proton'",
+		"translation": "Ключ {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Stats",
+		"context": "Statistics",
+		"comment": "Abbreviation of statistics",
+		"translation": "Статистика",
+		"machine": true
+	},
+	{
+		"phrase": "Edit",
+		"comment": "Edit the name of your loadout",
+		"translation": "Редактировать",
+		"machine": true
+	},
+	{
+		"phrase": "Rename",
+		"comment": "Rename your loadout",
+		"translation": "Переименовать",
+		"machine": true
+	},
+	{
+		"phrase": "Duplicate",
+		"comment": "Duplicate your loadout to make an exact copy",
+		"translation": "Дублировать",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to delete",
+		"comment": "Double click this button to delete your preset",
+		"translation": "Дважды щелкните, чтобы удалить",
+		"machine": true
+	},
+	{
+		"phrase": "Dynamic crosshair colour",
+		"comment": "The colour of the crosshair on weapon sights fades from green to red to reflect the Combat Shotgun choke",
+		"translation": "Динамический цвет прицела",
+		"machine": true
+	},
+	{
+		"phrase": "This setting makes the crosshair colour match the green\/red choke indicator on the Combat Shotgun",
+		"comment": "Tooltip for the 'Dynamic crosshair colour' setting",
+		"translation": "Этот параметр заставляет цвет прицела соответствовать зелено-красному индикатору дроссельной заслонки на боевом дробовике.",
+		"machine": true
+	},
+	{
+		"phrase": "Graphics preset",
+		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
+		"translation": "Предустановка графики",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count (team {0})",
+		"comment": "The number of bots on team X. Parameter 0: 'A'",
+		"translation": "Количество ботов (команда {0})",
+		"machine": true
+	},
+	{
+		"phrase": "The number of bots on team {0}",
+		"comment": "Bot count tooltip. Parameter 0: 'B'",
+		"translation": "Количество ботов в команде {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Objective",
+		"comment": "The objective of the gamemode, e.g. contesting a zone or stealing a flag",
+		"translation": "Задача",
+		"machine": true
+	},
+	{
+		"phrase": "Instant respawn (Trailer Mode)",
+		"comment": "Instantly respawn in trailer mode",
+		"translation": "Мгновенное возрождение (режим трейлера))",
+		"machine": true
+	},
+	{
+		"phrase": "Weather particle amount",
+		"comment": "This setting controls how many rain and snow particles are spawned",
+		"translation": "Количество погодных частиц",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls how many rain and snow particles are spawned",
+		"comment": "Description for the 'Weather Particle amount' setting",
+		"translation": "Этот параметр определяет количество создаваемых частиц дождя и снега.",
+		"machine": true
+	},
+	{
+		"phrase": "No title",
+		"comment": "The player has no title equipped",
+		"translation": "Без заголовка",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked Titles",
+		"comment": "A list of titles that the player just unlocked by levellign up a weapon",
+		"translation": "Разблокированные титулы",
+		"machine": true
+	},
+	{
+		"phrase": "Progression",
+		"comment": "A weapon or career progression, i.e. a player can 'progress' a weapon and earn titles by earning points with it",
+		"translation": "Прогресс",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn position removed",
+		"comment": "This text appears when a player removes their custom respawn location, which they can only do when recording trailers",
+		"translation": "Позиция спавна удалена",
+		"machine": true
+	},
+	{
+		"phrase": "All titles unlocked",
+		"comment": "The player has unlocked all titles for a weapon",
+		"translation": "Все титулы разблокированы",
+		"machine": true
+	},
+	{
+		"phrase": "Next title",
+		"comment": "The next title you will unlock is called 'Legend'",
+		"translation": "Следующее название",
+		"machine": true
+	},
+	{
+		"phrase": "Midi Certified",
+		"comment": "This is a title a player earns when reaching all Bronze times in the Trials, and shows the player is qualified to use their Midi tool",
+		"translation": "Сертифицированный миди",
+		"machine": true
+	},
+	{
+		"phrase": "Maze Runner",
+		"comment": "This is a title that a player unlocks when reaching all Silver times in the Trials, and signifies they are decent at the Trials",
+		"translation": "Бегущий в лабиринте",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Master",
+		"comment": "This is a title that a player unlocks when reaching all Gold times in the Trials, and signifies they are great at the Trials",
+		"translation": "Пробный мастер",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Hard",
+		"comment": "This is a title that a player unlocks when reaching all Platinum times in the Trials, and signifies they are the fastest Trial runners out there. This is a play on the phrase 'Try Hard'",
+		"translation": "Испытание трудно",
+		"machine": true
+	},
+	{
+		"phrase": "Developer",
+		"comment": "The developer of Sector's Edge",
+		"translation": "Разработчик",
+		"machine": true
+	},
+	{
+		"phrase": "Moderator",
+		"comment": "A community moderator",
+		"translation": "Модератор",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer Crew",
+		"comment": "This player was part of the crew who helped record the trailer",
+		"translation": "Экипаж трейлера",
+		"machine": true
+	},
+	{
+		"phrase": "Alpha Tester",
+		"comment": "This player tested the alpha build of the game years ago",
+		"translation": "Альфа-тестер",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Ascender",
+		"comment": "A player who rises to the occasion. Parameter 0: 'Aegis'",
+		"translation": "Восходящий {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Challenger",
+		"comment": "A player who challenges the best players. Parameter 0: 'Aegis'",
+		"translation": "{0} Челленджер",
+		"machine": true
+	},
+	{
+		"phrase": "Fatal",
+		"comment": "This player is fatal",
+		"translation": "Фатальный",
+		"machine": true
+	},
+	{
+		"phrase": "Deadly",
+		"comment": "This player is deadly",
+		"translation": "Смертельный",
+		"machine": true
+	},
+	{
+		"phrase": "Lethal",
+		"comment": "This player is lethal",
+		"translation": "Смертельный",
+		"machine": true
+	},
+	{
+		"phrase": "Deadeye",
+		"comment": "This player is an accurate marksman",
+		"translation": "Меткий глаз",
+		"machine": true
+	},
+	{
+		"phrase": "Eliminator",
+		"comment": "This player has excellent accuracy",
+		"translation": "Элиминатор",
+		"machine": true
+	},
+	{
+		"phrase": "Obliterator",
+		"comment": "This player obliterates enemies",
+		"translation": "Облитератор",
+		"machine": true
+	},
+	{
+		"phrase": "Eradicator",
+		"comment": "This player eradicates all enemies",
+		"translation": "Искоренитель",
+		"machine": true
+	},
+	{
+		"phrase": "Disintegrator",
+		"comment": "This player leaves no trace behind of enemies they destroy",
+		"translation": "Дезинтегратор",
+		"machine": true
+	},
+	{
+		"phrase": "Deathbringer",
+		"comment": "This player wreaks death and havok",
+		"translation": "Несущий смерть",
+		"machine": true
+	},
+	{
+		"phrase": "Butcher",
+		"comment": "This player is a butcher",
+		"translation": "мясник",
+		"machine": true
+	},
+	{
+		"phrase": "Warrior",
+		"comment": "This player is a warrior",
+		"translation": "Воин",
+		"machine": true
+	},
+	{
+		"phrase": "Slasher",
+		"comment": "This player is great with melee weapons",
+		"translation": "Слэшер",
+		"machine": true
+	},
+	{
+		"phrase": "Slayer",
+		"comment": "This player is great with melee weapons",
+		"translation": "Истребительница",
+		"machine": true
+	},
+	{
+		"phrase": "Gladiator",
+		"comment": "This player is great with melee weapons",
+		"translation": "Гладиатор",
+		"machine": true
+	},
+	{
+		"phrase": "Berserker",
+		"comment": "This player is great with melee weapons",
+		"translation": "Берсерк",
+		"machine": true
+	},
+	{
+		"phrase": "Assassin",
+		"comment": "This player is stealthy and great with melee weapons",
+		"translation": "Убийца",
+		"machine": true
+	},
+	{
+		"phrase": "Executioner",
+		"comment": "This player is a force to be reckoned with when using melee weapons",
+		"translation": "Палач",
+		"machine": true
+	},
+	{
+		"phrase": "Builder",
+		"comment": "This player likes building",
+		"translation": "Строитель",
+		"machine": true
+	},
+	{
+		"phrase": "Tunneler",
+		"comment": "This player likes digging",
+		"translation": "проходчик",
+		"machine": true
+	},
+	{
+		"phrase": "Excavator",
+		"comment": "This player really likes digging",
+		"translation": "Экскаватор",
+		"machine": true
+	},
+	{
+		"phrase": "Reinforcer",
+		"comment": "This player enjoys making strong bases",
+		"translation": "Усилитель",
+		"machine": true
+	},
+	{
+		"phrase": "Demolisher",
+		"comment": "This player enjoys destroying buildings",
+		"translation": "Разрушитель",
+		"machine": true
+	},
+	{
+		"phrase": "Fabricator",
+		"comment": "This player enjoys creating massive bases",
+		"translation": "Изготовитель",
+		"machine": true
+	},
+	{
+		"phrase": "Architect",
+		"comment": "This player is a master builder",
+		"translation": "Архитектор",
+		"machine": true
+	},
+	{
+		"phrase": "Raider",
+		"comment": "This player enjoys raiding the enemy base",
+		"translation": "Рейдер",
+		"machine": true
+	},
+	{
+		"phrase": "Thief",
+		"comment": "This player enjoys stealing enemy resources",
+		"translation": "Вор",
+		"machine": true
+	},
+	{
+		"phrase": "Sentry",
+		"comment": "This player watches for enemy movement",
+		"translation": "Часовой",
+		"machine": true
+	},
+	{
+		"phrase": "Marauder",
+		"comment": "This player inflicts heavy damage inside enemy-controlled areas",
+		"translation": "Мародер",
+		"machine": true
+	},
+	{
+		"phrase": "Invader",
+		"comment": "This player is skilled at entering enemy territory",
+		"translation": "Захватчик",
+		"machine": true
+	},
+	{
+		"phrase": "Protector",
+		"comment": "This player keeps enemies out of friendly-controlled areas",
+		"translation": "Защитник",
+		"machine": true
+	},
+	{
+		"phrase": "Conqueror",
+		"comment": "This player is skilled at capturing enemy territory",
+		"translation": "Завоеватель",
+		"machine": true
+	},
+	{
+		"phrase": "Uplifter",
+		"comment": "This player lifts up their teammates",
+		"translation": "Алифтер",
+		"machine": true
+	},
+	{
+		"phrase": "Watchman",
+		"comment": "This player spots enemies for teammates to eliminate",
+		"translation": "Сторож",
+		"machine": true
+	},
+	{
+		"phrase": "Saviour",
+		"comment": "This player saves their teammates from danger",
+		"translation": "Спаситель",
+		"machine": true
+	},
+	{
+		"phrase": "Eagle Eye",
+		"comment": "This player can spot enemies from far away",
+		"translation": "Орлиный глаз",
+		"machine": true
+	},
+	{
+		"phrase": "Punisher",
+		"comment": "This player swiftly avenges teammate's deaths",
+		"translation": "Каратель",
+		"machine": true
+	},
+	{
+		"phrase": "Guardian",
+		"comment": "This player eliminates enemy threats to their team",
+		"translation": "Страж",
+		"machine": true
+	},
+	{
+		"phrase": "Vanquisher",
+		"comment": "This player eliminates enemy threats to their team",
+		"translation": "Покоритель",
+		"machine": true
+	},
+	{
+		"phrase": "Terminator",
+		"comment": "It can't be reasoned with. It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!",
+		"translation": "Терминатор",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
+		"translation": "Создатель контента {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Salvage Cup {0} Champion",
+		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
+		"translation": "Спасательный кубок Чемпион {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Salvage Cup {0} Runner Up",
+		"comment": "The runner up team of a Salvage Cup tournament. Parameter 0: '2'",
+		"translation": "Спасательный кубок {0}, занявший второе место",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Initiate",
+		"comment": "To be an initiate. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Инициировать",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Proficient",
+		"comment": "To be proficient with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Опытный",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prodigy",
+		"comment": "An upcoming prodigy. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} вундеркинд",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Adept",
+		"comment": "To be adept with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Адепт",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Ace",
+		"comment": "An ace\/star, to be really good at something. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} туз",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Elite",
+		"comment": "An Elite Assault Rifle user. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Элита",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Expert",
+		"comment": "To be an expert with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Эксперт",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Master",
+		"comment": "To be a master of a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "Мастер {0}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Legend",
+		"comment": "You're a legend! Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Легенда",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Paragon",
+		"comment": "The perfect example of something. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Парагон",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Incarnate",
+		"comment": "To become the weapon itself. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Воплощение",
+		"machine": true
+	},
+	{
+		"phrase": "Feet",
+		"comment": "I will kick Fora with my feet",
+		"translation": "Ноги",
+		"machine": true
+	},
+	{
+		"phrase": "Head",
+		"comment": "Fora has an ugly head",
+		"translation": "Глава",
+		"machine": true
+	},
+	{
+		"phrase": "Auto Crouch ({0})",
+		"comment": "Automatically crouch if there's a block at your feet when walking through a tunnel. Parameter 0: 'foot' or 'head'",
+		"translation": "Автоматическое приседание ({0})",
+		"machine": true
+	},
+	{
+		"phrase": "Automatically crouch if there's a block at your {0} when walking through a tunnel",
+		"comment": "Description for the 'Auto crouch (foot)' keybind. Parameter 0: 'foot' or 'head'",
+		"translation": "Автоматически приседать, если на вашем {0} есть блок, когда вы идете по туннелю.",
+		"machine": true
+	},
+	{
+		"phrase": "Kills",
+		"comment": "2 kills",
+		"translation": "Убивает",
+		"machine": true
+	},
+	{
+		"phrase": "Character tokens can be used to unlock any character.",
+		"comment": "Character token description",
+		"translation": "Жетоны персонажей можно использовать для разблокировки любого персонажа..",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to activate. This will override your current active boost",
+		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
+		"translation": "Дважды щелкните, чтобы активировать. это отменит ваше текущее активное усиление",
+		"machine": true
+	},
+	{
+		"phrase": "No active boost",
+		"comment": "You do not have an active XP boost",
+		"translation": "Нет активного повышения",
+		"machine": true
+	},
+	{
+		"phrase": "Hit feedback volume",
+		"comment": "Setting that controls how loud the hit feedback sound is when hitting another player",
+		"translation": "Громкость обратной связи",
+		"machine": true
+	},
+	{
+		"phrase": "Hitmarker HUD",
+		"comment": "Setting that controls whether hitmerkers are visible on the HUD",
+		"translation": "Хитмаркер HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Focus region",
+		"comment": "The user can define a circle in the center of the screen called the 'focus region', which is where UI icons are more transparent",
+		"translation": "Регион фокусировки",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral region",
+		"comment": "The part of the screen thats outside the peripheral region",
+		"translation": "Периферийный регион",
+		"machine": true
+	},
+	{
+		"phrase": "Fade region",
+		"comment": "The region on the screen between the Focus and Peripheral regions where icons fade from transparent to opaque",
+		"translation": "Область затухания",
+		"machine": true
+	},
+	{
+		"phrase": "Opaque icon distance",
+		"comment": "3D icons will be opaque when their distance to the player is less than this value",
+		"translation": "Расстояние до непрозрачного значка",
+		"machine": true
+	},
+	{
+		"phrase": "Focus radius",
+		"comment": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"translation": "Радиус фокусировки",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral radius",
+		"comment": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"translation": "Периферийный радиус",
+		"machine": true
+	},
+	{
+		"phrase": "Focus icon opacity",
+		"comment": "This setting controls the opacity of icons within the focus region",
+		"translation": "Непрозрачность значка фокуса",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral icon opacity",
+		"comment": "This setting controls the opacity of icons outside the focus region",
+		"translation": "Непрозрачность периферийного значка",
+		"machine": true
+	},
+	{
+		"phrase": "ADS icon opacity",
+		"comment": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"translation": "Непрозрачность значка рекламы",
+		"machine": true
+	},
+	{
+		"phrase": "3D icons will be opaque when their distance to the player is less than this value",
+		"comment": "Description for the 'Opaque icon distance' setting",
+		"translation": "3D-значки будут непрозрачными, если их расстояние до игрока меньше этого значения.",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"comment": "Description for the 'Focus radius' setting",
+		"translation": "Все трехмерные значки внутри этого круга в центре экрана называются «областью фокусировки». этот параметр управляет радиусом области фокусировки",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"comment": "Description for the 'Peripheral radius' setting",
+		"translation": "Все трехмерные значки за пределами этого круга в центре экрана называются «периферийной областью». этот параметр управляет радиусом периферийной области",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons within the focus region",
+		"comment": "Description for the 'Focus icon opacity' setting",
+		"translation": "Этот параметр управляет непрозрачностью значков в области фокусировки.",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons outside the focus region",
+		"comment": "Description for the 'Peripheral icon opacity' setting",
+		"translation": "Этот параметр управляет непрозрачностью значков за пределами области фокусировки.",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"comment": "Description for the 'ADS icon opacity' setting",
+		"translation": "Этот параметр управляет максимальной непрозрачностью значков, когда ADS (прицеливание в прицел))",
+		"machine": true
+	},
+	{
+		"phrase": "Show death icons",
+		"comment": "Setting that controls whether a death icon renders where a player died",
+		"translation": "Показать значки смерти",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "1 colour, i.e. red",
+		"translation": "Цвет",
+		"machine": true
+	},
+	{
+		"phrase": "Colours",
+		"comment": "2 colours, i.e. red and black",
+		"translation": "Цвета",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} {2} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
+		"translation": "Повышение {0} активно\n{1} {2} осталось",
+		"machine": true
+	},
+	{
+		"phrase": "Character token required - purchase in the Supporter Pack",
+		"comment": "This error shows if the player attempts to unlock the Human Renegade without any character tokens",
+		"translation": "Требуется токен персонажа - покупка в пакете поддержки",
+		"machine": true
+	},
+	{
+		"phrase": "The Pearl skin is unlocked in the Supporter Pack",
+		"comment": "This error shows if the player attempts to equip a Pearl skin without first purchasing the Supporter Pack",
+		"translation": "Жемчужный скин разблокируется в пакете поддержки.",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} - earn them through gameplay or purchase them in the store",
+		"comment": "This error shows if they don't have enough Protons to unlock the character, skin or crosshair",
+		"translation": "Недостаточно {0} — заработайте их в игре или купите в магазине.",
+		"machine": true
+	},
+	{
+		"phrase": "Cancelled",
+		"comment": "The transaction was cancelled",
+		"translation": "Отменено",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"comment": "The weapon skin is being unlocked",
+		"translation": "Разблокировка",
+		"machine": true
+	},
+	{
+		"phrase": "Error",
+		"comment": "There was an error unlocking the Human Elite character",
+		"translation": "Ошибка",
+		"machine": true
+	},
+	{
+		"phrase": "Skin token",
+		"context": "Material token",
+		"comment": "1 Skin token, i.e. a token\/coin that can be used to unlock a weapon or character skin",
+		"translation": "Токен кожи",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens",
+		"context": "Material tokens",
+		"comment": "2Skin tokens",
+		"translation": "Жетоны скинов",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Каждое усиление длится 1 час игры и увеличивает количество {0} и XP, которые вы зарабатываете, на {1}..",
+		"machine": true
+	},
+	{
+		"phrase": "Select a game mode to continue",
+		"comment": "The player must click on which game mode (Breakthrough, capture the flag, etc) they would like to play",
+		"translation": "Выберите режим игры, чтобы продолжить",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens can be used to unlock weapon skin or character skin.",
+		"comment": "Skin token description",
+		"translation": "Жетоны скинов можно использовать для разблокировки скина оружия или скина персонажа..",
+		"machine": true
+	},
+	{
+		"phrase": "Throw distance",
+		"comment": "How far the player can throw greandes",
+		"translation": "Расстояние выброса",
+		"machine": true
+	},
+	{
+		"phrase": "New players take less damage",
+		"comment": "When Peacekeeper is enabled, new players take less damage",
+		"translation": "Новые игроки получают меньше урона",
+		"machine": true
+	},
+	{
+		"phrase": "Clear cache",
+		"comment": "Clear the cache and get all data again",
+		"translation": "Очистить кэш",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh",
+		"comment": "Refresh the page",
+		"translation": "Обновить",
+		"machine": true
+	},
+	{
+		"phrase": "Extracting",
+		"comment": "The player is currently extracting resources from the earth",
+		"translation": "Извлечение",
+		"machine": true
+	},
+	{
+		"phrase": "Test hitboxes",
+		"comment": "A keybind that displays the hitboxes. Used for debugging\/testing",
+		"translation": "Тестовые хитбоксы",
+		"machine": true
+	},
+	{
+		"phrase": "Clear hitboxes",
+		"comment": "A keybind that removes all display hitboxes",
+		"translation": "Очистить хитбоксы",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are less than level {0} and have a KDR of {1} or less.\n\nDeal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '50%', Parameter 3: '25%'",
+		"translation": "Враги будут выделены, если они ниже уровня {0} и имеют KDR {1} или меньше..\n\nНанесите {2} урона этим игрокам и заработайте {3} дополнительного опыта и протонов..\n\nИзменения вступают в силу после респауна. Миротворец не действует в бесплатном для всех режимах игры..",
+		"machine": true
+	},
+	{
+		"phrase": "Downloading the map from the {0} Workshop...",
+		"comment": "Loading message that indicates the server is still downloading the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Загрузка карты из мастерской {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "The download timed out and was cancelled.",
+		"comment": "Loading message that indicates the server took too long to download the map from the Steam Workshop, and the download was cancelled. Parameter 0: \"Steam\"",
+		"translation": "Время загрузки истекло и было отменено.",
+		"machine": true
+	},
+	{
+		"phrase": "Permission denied - could not download the map from the {0} Workshop...",
+		"comment": "Error message that indicates the server doesn't have permission to download the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Отказано в доступе - не удалось загрузить карту из мастерской {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop...",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Карта не существует в мастерской {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count set to {0}-{1}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
+		"translation": "Счетчик ботов установлен на {0}-{1}",
+		"machine": true
+	},
+	{
+		"phrase": "Increases jump height and reduces fall damage",
+		"comment": "Description for the Hydraulics armour mod",
+		"translation": "Увеличивает высоту прыжка и уменьшает урон от падения",
+		"machine": true
+	},
+	{
+		"phrase": "Increases explosion knockback and reduces self-explosion damage",
+		"comment": "Description for the Kinetic armour mod",
+		"translation": "Увеличивает отбрасывание от взрыва и уменьшает урон от самовзрыва.",
+		"machine": true
+	},
+	{
+		"phrase": "Increases the amount of ammo and health gained from ammo pickups",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "Увеличивает количество боеприпасов и здоровья, получаемых от подбора боеприпасов.",
+		"machine": true
+	},
+	{
+		"phrase": "Increases melee speed and throw distance",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "Увеличивает скорость ближнего боя и дальность броска",
+		"machine": true
+	},
+	{
+		"phrase": "Reduces the volume of footsteps, building and digging",
+		"comment": "Description for the Stealth armour mod",
+		"translation": "Уменьшает громкость шагов, строительства и копания.",
+		"machine": true
+	},
+	{
+		"phrase": "SE {0}",
+		"comment": "Mod power, i.e. 'SE 2' means the player has the level 2 Servo armour modification equipped",
+		"translation": "ЮВ {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Our backend servers are currently offline, but you can still join game servers and play online. Your stats will be recorded when our backend servers are back online.",
+		"comment": "Disclaimer when backend servers are down",
+		"translation": "Наши внутренние серверы в настоящее время отключены, но вы все еще можете присоединиться к игровым серверам и играть онлайн. ваша статистика будет записана, когда наши внутренние серверы снова будут онлайн.",
+		"machine": true
+	},
+	{
+		"phrase": "Surveillance enabled",
+		"comment": "This is a blue shell mechanic. Players on 5 killstreaks or higher will be revealed through walls",
+		"translation": "Наблюдение включено",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} tokens - earn them through partnered stream events",
+		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any. Parameter 0 is either 'character' or 'skin'",
+		"translation": "Недостаточно токенов {0} — заработайте их на партнерских трансляциях",
+		"machine": true
+	},
+	{
+		"phrase": "Supply",
+		"comment": "To supply your teammate with ammunition",
+		"translation": "Поставлять",
+		"machine": true
+	},
+	{
+		"phrase": "Blade",
+		"comment": "A blade you can cut things with",
+		"translation": "Лезвие",
+		"machine": true
+	},
+	{
+		"phrase": "Off",
+		"comment": "Turn the light off",
+		"translation": "Выключенный",
+		"machine": true
+	},
+	{
+		"phrase": "On",
+		"comment": "Turn the light on",
+		"translation": "На",
+		"machine": true
+	},
+	{
+		"phrase": "Focus",
+		"comment": "The area around the center of the screen that the player focuses on, i.e. not the peripherals",
+		"translation": "Фокус",
+		"machine": true
+	},
+	{
+		"phrase": "Force team colours",
+		"comment": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"translation": "Цвета команды Force",
+		"machine": true
+	},
+	{
+		"phrase": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"comment": "Description for the 'Force team colours' setting",
+		"translation": "Эта настройка доступности заставляет цвета камуфляжа игрока соответствовать цвету их команды, а не выбранному ими цвету.",
+		"machine": true
+	},
+	{
+		"phrase": "Points HUD",
+		"comment": "Setting that controls whether the points HUD is visible",
+		"translation": "HUD для очков",
+		"machine": true
+	},
+	{
+		"phrase": "Coloured party outlines",
+		"comment": "Setting that controls whether the outlines around party members should be party coloured rather than team coloured",
+		"translation": "Цветные очертания вечеринки",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the outlines around party members should be party coloured rather than team coloured",
+		"comment": "Description for the 'Party outline colour' setting",
+		"translation": "Определяет, должны ли контуры вокруг членов группы быть окрашены в цвет группы, а не команды.",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy outlines",
+		"comment": "Setting that controls whether coloured outlines should render around enemies",
+		"translation": "Очертания врага",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
+		"comment": "Description for the 'Enemy outlines' setting",
+		"translation": "Контролирует, должны ли контуры быть выключены, сфокусированы (появляются только при взгляде на врагов) или всегда включены.",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly outlines",
+		"comment": "Setting that controls whether coloured outlines should render around friendlies",
+		"translation": "Дружественные очертания",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outline should render around friendly players",
+		"comment": "Description for the 'Friendly outlines' setting",
+		"translation": "Определяет, должен ли контур отображаться вокруг дружественных игроков.",
+		"machine": true
+	},
+	{
+		"phrase": "Fun",
+		"comment": "This game is fun",
+		"translation": "Весело",
+		"machine": true
+	},
+	{
+		"phrase": "Outlines",
+		"comment": "Coloured outlines that render around players so you can tell which team they're on",
+		"translation": "Контуры",
+		"machine": true
+	}
 ]
+

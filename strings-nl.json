@@ -1074,12 +1074,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Cooldown",
-		"comment": "The time it takes for a structure to cooldown, e.g. '300ms Cooldown'. This text shows when looking at a structure in the ship",
-		"translation": "Afkoelen",
-		"machine": true
-	},
-	{
 		"phrase": "Equip as primary",
 		"comment": "Press a key to equip this weapon as your primary\/main weapon",
 		"translation": "Uitrusten als primair",
@@ -1782,13 +1776,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Blocks",
-		"context": "Cubes",
-		"comment": "The amount of 3d voxels, e.g. '50 Blocks'. This text shows when looking at a structure in the ship",
-		"translation": "Blokken",
-		"machine": true
-	},
-	{
 		"phrase": "Singapore",
 		"comment": "Server location",
 		"translation": "Singapore",
@@ -1840,13 +1827,6 @@
 		"phrase": "Stock",
 		"comment": "The rear part of the gun that rests against the player's shoulder for stability",
 		"translation": "Voorraad",
-		"machine": true
-	},
-	{
-		"phrase": "ms",
-		"context": "milliseconds",
-		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
-		"translation": "Mevrouw",
 		"machine": true
 	},
 	{
@@ -2015,12 +1995,6 @@
 		"phrase": "Crosshairs",
 		"comment": "Crosshairs on a gun scope",
 		"translation": "Dradenkruis",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon Skin Token",
-		"comment": "[Inventory] Weapon skin token display name",
-		"translation": "Wapenhuid token",
 		"machine": true
 	},
 	{
@@ -2410,7 +2384,7 @@
 	},
 	{
 		"phrase": "Loading maps",
-		"comment": "The game is loading maps from disk",
+		"comment": "The game is loadthe player's settings from disk",
 		"translation": "Kaarten laden",
 		"machine": true
 	},
@@ -2508,12 +2482,6 @@
 		"phrase": "Full",
 		"comment": "The full amount (100%)",
 		"translation": "Vol",
-		"machine": true
-	},
-	{
-		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
-		"translation": "Vijanden worden gemarkeerd als ze niveau {0} of lager zijn en een KDR van {1} of minder hebben.\n\nZolang vredeshandhaver is ingeschakeld, kun je {2} schade toebrengen aan deze spelers en {3} extra XP en protonen verdienen.\n\nWijzigingen worden van kracht bij respawn. vredeshandhaver heeft geen effect in gratis voor alle spelmodi.",
 		"machine": true
 	},
 	{
@@ -2670,24 +2638,6 @@
 		"phrase": "Build + Dig {0}",
 		"comment": "[Trial Name] Parameter 0: '1'",
 		"translation": "Bouwen + graven {0}",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Protons. Lasts for {1} hour",
-		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "{0} Protonen. Duurt {1} uur",
-		"machine": true
-	},
-	{
-		"phrase": "{0} XP. Lasts for {1} hour",
-		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "{0} XP. Duurt {1} uur",
-		"machine": true
-	},
-	{
-		"phrase": "Use this to unlock weapon skins on the Weapons screen",
-		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Gebruik dit om wapenskins op het wapenscherm te ontgrendelen",
 		"machine": true
 	},
 	{
@@ -3264,7 +3214,7 @@
 	},
 	{
 		"phrase": "Cancelling",
-		"comment": "Cancelling a transaction",
+		"comment": "We are cancelling the transaction",
 		"translation": "Annuleren",
 		"machine": true
 	},
@@ -3703,31 +3653,19 @@
 	},
 	{
 		"phrase": "KI {0}",
-		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 KI armour modification equipped",
+		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 Kinetic armour modification equipped",
 		"translation": "KI {0}",
 		"machine": true
 	},
 	{
-		"phrase": "RE {0}",
-		"comment": "Mod power, i.e. 'RE 2' means the player has the level 2 RE armour modification equipped",
-		"translation": "RE {0}",
-		"machine": true
-	},
-	{
 		"phrase": "SC {0}",
-		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 SC armour modification equipped",
+		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 Scavenger armour modification equipped",
 		"translation": "SC {0}",
 		"machine": true
 	},
 	{
-		"phrase": "SP {0}",
-		"comment": "Mod power, i.e. 'SP 2' means the player has the level 2 SP armour modification equipped",
-		"translation": "SP {0}",
-		"machine": true
-	},
-	{
 		"phrase": "ST {0}",
-		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 ST armour modification equipped",
+		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
 		"machine": true
 	},
@@ -4813,31 +4751,31 @@
 	},
 	{
 		"phrase": "Music volume (menu)",
-		"comment": "Setting that controls how load the main menu music is",
+		"comment": "Setting that controls how loud the main menu music is",
 		"translation": "Muziekvolume (menu)",
 		"machine": true
 	},
 	{
 		"phrase": "Personal footsteps volume",
-		"comment": "Setting that controls how load your personal footsteps are",
+		"comment": "Setting that controls how loud your personal footsteps are",
 		"translation": "Persoonlijk voetstappenvolume",
 		"machine": true
 	},
 	{
 		"phrase": "Teammate footsteps volume",
-		"comment": "Setting that controls how load your teammate's footsteps are",
+		"comment": "Setting that controls how loud your teammate's footsteps are",
 		"translation": "Teamgenoot voetstappen volume",
 		"machine": true
 	},
 	{
 		"phrase": "Damage volume",
-		"comment": "Setting that controls how load the damage sound plays when you take damage",
+		"comment": "Setting that controls how loud the damage sound plays when you take damage",
 		"translation": "Schade volume",
 		"machine": true
 	},
 	{
 		"phrase": "Voice chat volume",
-		"comment": "Setting that controls how load incoming proximity voice chat is",
+		"comment": "Setting that controls how loud incoming proximity voice chat is",
 		"translation": "Volume van voicechat",
 		"machine": true
 	},
@@ -5070,12 +5008,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Entity icon distance",
-		"comment": "Setting that controls the render distance cutoff for entity icons (C4, scanner, etc)",
-		"translation": "Entiteit pictogram afstand",
-		"machine": true
-	},
-	{
 		"phrase": "Controls the render distance cutoff for entity icons (C4, scanner, etc)",
 		"comment": "Description for the 'Entity icon distance' setting",
 		"translation": "Regelt de afsnijding van de renderafstand voor entiteitspictogrammen (c4, scanner, enz.))",
@@ -5139,24 +5071,6 @@
 		"phrase": "Show player outlines through walls",
 		"comment": "Setting that controls whether friendly player outlines should be visible through walls",
 		"translation": "Spelercontouren door muren laten zien",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether party member's outlines should be a different colour",
-		"comment": "Description for the 'Party outline colour' setting",
-		"translation": "Bepaalt of de contouren van de groepsleden een andere kleur moeten hebben",
-		"machine": true
-	},
-	{
-		"phrase": "Show enemy outlines",
-		"comment": "Setting that controls whether outlines should render around enemies",
-		"translation": "Toon vijandelijke contouren",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outlines should render around enemies",
-		"comment": "Description for the 'Show enemy outlines' setting",
-		"translation": "Bepaalt of contouren rond vijanden moeten worden weergegeven",
 		"machine": true
 	},
 	{
@@ -5924,12 +5838,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by 3.0x.",
-		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Elke boost duurt 1 uur en verhoogt het aantal {0} en XP dat je verdient met 3,0x.",
-		"machine": true
-	},
-	{
 		"phrase": "Boosts can be earned from watching partnered {0} streams, or you can purchase them here if you would like to fast track.",
 		"comment": "Boost pack description. Parameter 0: 'Twitch'",
 		"translation": "Boosts kunnen worden verdiend door het bekijken van partnered {0}-streams, of je kunt ze hier kopen als je snel wilt volgen.",
@@ -6023,7 +5931,7 @@
 	},
 	{
 		"phrase": "Success",
-		"comment": "This message appears when a command runs successfully",
+		"comment": "Success! You have unlocked the Human Elite character",
 		"translation": "Succes",
 		"machine": true
 	},
@@ -6418,20 +6326,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon material token",
-		"comment": "1 Weapon skin token, i.e. a token\/coin that can be used to unlock a weapon skin",
-		"translation": "Wapenhuid token",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin tokens",
-		"context": "Weapon material tokens",
-		"comment": "2 Weapon skin tokens",
-		"translation": "Wapenskin tokens",
-		"machine": true
-	},
-	{
 		"phrase": "Weapon skin",
 		"context": "Weapon material",
 		"comment": "1 Weapon skin, i.e. a material that can be applied to the surface of a gun to change its appearance",
@@ -6529,12 +6423,6 @@
 		"phrase": "Full servers",
 		"comment": "A server with no free slots",
 		"translation": "Volledige servers",
-		"machine": true
-	},
-	{
-		"phrase": "Grapics preset",
-		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
-		"translation": "Grafische voorinstelling",
 		"machine": true
 	},
 	{
@@ -7716,13 +7604,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Max ping distance",
-		"context": "Max marker distance",
-		"comment": "Setting that controls the render distance cutoff for 3D pings\/markers",
-		"translation": "Maximale ping-afstand",
-		"machine": true
-	},
-	{
 		"phrase": "Controls the render distance cutoff for 3D pings",
 		"context": "Controls the render distance cutoff for 3D markers",
 		"comment": "Description for the 'Max ping distance' setting",
@@ -7751,12 +7632,6 @@
 		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised",
 		"comment": "Description for the 'Streamer mode' setting",
 		"translation": "De servernaam wordt niet weergegeven op het scorebord en andere spelersnamen en niveaus worden willekeurig verdeeld",
-		"machine": true
-	},
-	{
-		"phrase": "Different party outline",
-		"comment": "Setting that controls whether party member outlines should be a different colour",
-		"translation": "Ander partijoverzicht",
 		"machine": true
 	},
 	{
@@ -8150,12 +8025,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Bot amount set to {0}",
-		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
-		"translation": "Botbedrag ingesteld op {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Now playing {0} on {1}",
 		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
 		"translation": "Speelt nu {0} op {1}",
@@ -8435,18 +8304,6 @@
 		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
 		"comment": "Description for the 'Particle Delay' settings",
 		"translation": "Geavanceerde weergave-instelling die bepaalt hoeveel frames de deeltjesengine mag achterblijven",
-		"machine": true
-	},
-	{
-		"phrase": "Show icons when ADS",
-		"comment": "Setting that controls whether icons and player names should display when aiming down the sights",
-		"translation": "Pictogrammen weergeven bij ADS",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether icons and player names should display when aiming down the sights",
-		"comment": "Description for the 'Show icons when ADS' setting",
-		"translation": "Bepaalt of pictogrammen en spelersnamen moeten worden weergegeven bij het richten op de vizieren",
 		"machine": true
 	},
 	{
@@ -9044,12 +8901,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Desync",
-		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
-		"translation": "desync",
-		"machine": true
-	},
-	{
 		"phrase": "No",
 		"context": "None",
 		"comment": "Does not exist, i.e. 'No foregrip equipped'",
@@ -9144,6 +8995,1041 @@
 		"phrase": "Networking HUD",
 		"comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
 		"translation": "Netwerken HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Debug",
+		"comment": "Debug a computer program",
+		"translation": "Debuggen",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Profiler",
+		"comment": "Toggles whether the debug profiler (records how long CPU and GPU tasks take to execute) should run",
+		"translation": "Toggle profiler",
+		"machine": true
+	},
+	{
+		"phrase": "Autoplay",
+		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
+		"translation": "Automatisch afspelen",
+		"machine": true
+	},
+	{
+		"phrase": "Automatically join a server when there's {0} players in it",
+		"comment": "Autoplay tooltip. Parameter 0: '4'",
+		"translation": "Automatisch lid worden van een server als er {0}-spelers op staan",
+		"machine": true
+	},
+	{
+		"phrase": "Minimum players",
+		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
+		"translation": "Minimale spelers",
+		"machine": true
+	},
+	{
+		"phrase": "Coming soon",
+		"comment": "This new feature is coming soon",
+		"translation": "Binnenkort beschikbaar",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo pierces through blocks rather than destroying them",
+		"comment": "Ammo description for Piercing Ammo on the Rail Gun",
+		"translation": "Deze munitie doorboort blokken in plaats van ze te vernietigen",
+		"machine": true
+	},
+	{
+		"phrase": "Loading stats",
+		"comment": "The game is loading statistics",
+		"translation": "Statistieken laden",
+		"machine": true
+	},
+	{
+		"phrase": "No available servers",
+		"comment": "Error message when attempting to claim a lobby, but all servers are taken",
+		"translation": "Geen beschikbare servers",
+		"machine": true
+	},
+	{
+		"phrase": "Map",
+		"comment": "A map\/world that players fight on",
+		"translation": "Kaart",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Key",
+		"comment": "A key\/code\/sequence of characters that the user can type in to redeem Protons or other rewards. Parameter 0: 'Proton'",
+		"translation": "{0} Sleutel",
+		"machine": true
+	},
+	{
+		"phrase": "Stats",
+		"context": "Statistics",
+		"comment": "Abbreviation of statistics",
+		"translation": "Statistieken",
+		"machine": true
+	},
+	{
+		"phrase": "Edit",
+		"comment": "Edit the name of your loadout",
+		"translation": "Bewerk",
+		"machine": true
+	},
+	{
+		"phrase": "Rename",
+		"comment": "Rename your loadout",
+		"translation": "Hernoemen",
+		"machine": true
+	},
+	{
+		"phrase": "Duplicate",
+		"comment": "Duplicate your loadout to make an exact copy",
+		"translation": "Duplicaat",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to delete",
+		"comment": "Double click this button to delete your preset",
+		"translation": "Dubbelklik om te verwijderen",
+		"machine": true
+	},
+	{
+		"phrase": "Dynamic crosshair colour",
+		"comment": "The colour of the crosshair on weapon sights fades from green to red to reflect the Combat Shotgun choke",
+		"translation": "Dynamische draadkruiskleur",
+		"machine": true
+	},
+	{
+		"phrase": "This setting makes the crosshair colour match the green\/red choke indicator on the Combat Shotgun",
+		"comment": "Tooltip for the 'Dynamic crosshair colour' setting",
+		"translation": "Deze instelling zorgt ervoor dat de kleur van het dradenkruis overeenkomt met de groen\/rode choke-indicator op het gevechtsgeweer",
+		"machine": true
+	},
+	{
+		"phrase": "Graphics preset",
+		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
+		"translation": "Grafische voorinstelling",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count (team {0})",
+		"comment": "The number of bots on team X. Parameter 0: 'A'",
+		"translation": "Aantal bots (team {0})",
+		"machine": true
+	},
+	{
+		"phrase": "The number of bots on team {0}",
+		"comment": "Bot count tooltip. Parameter 0: 'B'",
+		"translation": "Het aantal bots in team {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Objective",
+		"comment": "The objective of the gamemode, e.g. contesting a zone or stealing a flag",
+		"translation": "Doelstelling",
+		"machine": true
+	},
+	{
+		"phrase": "Instant respawn (Trailer Mode)",
+		"comment": "Instantly respawn in trailer mode",
+		"translation": "Instant respawn (trailermodus))",
+		"machine": true
+	},
+	{
+		"phrase": "Weather particle amount",
+		"comment": "This setting controls how many rain and snow particles are spawned",
+		"translation": "Hoeveelheid weerdeeltjes",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls how many rain and snow particles are spawned",
+		"comment": "Description for the 'Weather Particle amount' setting",
+		"translation": "Deze instelling bepaalt hoeveel regen- en sneeuwdeeltjes er worden voortgebracht",
+		"machine": true
+	},
+	{
+		"phrase": "No title",
+		"comment": "The player has no title equipped",
+		"translation": "Geen titel",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked Titles",
+		"comment": "A list of titles that the player just unlocked by levellign up a weapon",
+		"translation": "Ontgrendelde titels",
+		"machine": true
+	},
+	{
+		"phrase": "Progression",
+		"comment": "A weapon or career progression, i.e. a player can 'progress' a weapon and earn titles by earning points with it",
+		"translation": "Progressie",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn position removed",
+		"comment": "This text appears when a player removes their custom respawn location, which they can only do when recording trailers",
+		"translation": "Spawn-positie verwijderd",
+		"machine": true
+	},
+	{
+		"phrase": "All titles unlocked",
+		"comment": "The player has unlocked all titles for a weapon",
+		"translation": "Alle titels ontgrendeld",
+		"machine": true
+	},
+	{
+		"phrase": "Next title",
+		"comment": "The next title you will unlock is called 'Legend'",
+		"translation": "Volgende titel",
+		"machine": true
+	},
+	{
+		"phrase": "Midi Certified",
+		"comment": "This is a title a player earns when reaching all Bronze times in the Trials, and shows the player is qualified to use their Midi tool",
+		"translation": "Midi gecertificeerd",
+		"machine": true
+	},
+	{
+		"phrase": "Maze Runner",
+		"comment": "This is a title that a player unlocks when reaching all Silver times in the Trials, and signifies they are decent at the Trials",
+		"translation": "doolhof loper",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Master",
+		"comment": "This is a title that a player unlocks when reaching all Gold times in the Trials, and signifies they are great at the Trials",
+		"translation": "Proefmeester",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Hard",
+		"comment": "This is a title that a player unlocks when reaching all Platinum times in the Trials, and signifies they are the fastest Trial runners out there. This is a play on the phrase 'Try Hard'",
+		"translation": "Moeilijke proef",
+		"machine": true
+	},
+	{
+		"phrase": "Developer",
+		"comment": "The developer of Sector's Edge",
+		"translation": "Ontwikkelaar",
+		"machine": true
+	},
+	{
+		"phrase": "Moderator",
+		"comment": "A community moderator",
+		"translation": "Moderator",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer Crew",
+		"comment": "This player was part of the crew who helped record the trailer",
+		"translation": "Aanhangwagenbemanning",
+		"machine": true
+	},
+	{
+		"phrase": "Alpha Tester",
+		"comment": "This player tested the alpha build of the game years ago",
+		"translation": "Alfa tester",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Ascender",
+		"comment": "A player who rises to the occasion. Parameter 0: 'Aegis'",
+		"translation": "{0} Ascender",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Challenger",
+		"comment": "A player who challenges the best players. Parameter 0: 'Aegis'",
+		"translation": "{0} Challenger",
+		"machine": true
+	},
+	{
+		"phrase": "Fatal",
+		"comment": "This player is fatal",
+		"translation": "Fataal",
+		"machine": true
+	},
+	{
+		"phrase": "Deadly",
+		"comment": "This player is deadly",
+		"translation": "Dodelijk",
+		"machine": true
+	},
+	{
+		"phrase": "Lethal",
+		"comment": "This player is lethal",
+		"translation": "Dodelijk",
+		"machine": true
+	},
+	{
+		"phrase": "Deadeye",
+		"comment": "This player is an accurate marksman",
+		"translation": "Deadeye",
+		"machine": true
+	},
+	{
+		"phrase": "Eliminator",
+		"comment": "This player has excellent accuracy",
+		"translation": "Eliminator",
+		"machine": true
+	},
+	{
+		"phrase": "Obliterator",
+		"comment": "This player obliterates enemies",
+		"translation": "Vernietiger",
+		"machine": true
+	},
+	{
+		"phrase": "Eradicator",
+		"comment": "This player eradicates all enemies",
+		"translation": "Eradicator",
+		"machine": true
+	},
+	{
+		"phrase": "Disintegrator",
+		"comment": "This player leaves no trace behind of enemies they destroy",
+		"translation": "desintegrator",
+		"machine": true
+	},
+	{
+		"phrase": "Deathbringer",
+		"comment": "This player wreaks death and havok",
+		"translation": "Dood brenger",
+		"machine": true
+	},
+	{
+		"phrase": "Butcher",
+		"comment": "This player is a butcher",
+		"translation": "Slager",
+		"machine": true
+	},
+	{
+		"phrase": "Warrior",
+		"comment": "This player is a warrior",
+		"translation": "Strijder",
+		"machine": true
+	},
+	{
+		"phrase": "Slasher",
+		"comment": "This player is great with melee weapons",
+		"translation": "Slasher",
+		"machine": true
+	},
+	{
+		"phrase": "Slayer",
+		"comment": "This player is great with melee weapons",
+		"translation": "Moordenaar",
+		"machine": true
+	},
+	{
+		"phrase": "Gladiator",
+		"comment": "This player is great with melee weapons",
+		"translation": "Gladiator",
+		"machine": true
+	},
+	{
+		"phrase": "Berserker",
+		"comment": "This player is great with melee weapons",
+		"translation": "Berserker",
+		"machine": true
+	},
+	{
+		"phrase": "Assassin",
+		"comment": "This player is stealthy and great with melee weapons",
+		"translation": "Sluipmoordenaar",
+		"machine": true
+	},
+	{
+		"phrase": "Executioner",
+		"comment": "This player is a force to be reckoned with when using melee weapons",
+		"translation": "Beul",
+		"machine": true
+	},
+	{
+		"phrase": "Builder",
+		"comment": "This player likes building",
+		"translation": "Bouwer",
+		"machine": true
+	},
+	{
+		"phrase": "Tunneler",
+		"comment": "This player likes digging",
+		"translation": "Tunneler",
+		"machine": true
+	},
+	{
+		"phrase": "Excavator",
+		"comment": "This player really likes digging",
+		"translation": "Graafmachine",
+		"machine": true
+	},
+	{
+		"phrase": "Reinforcer",
+		"comment": "This player enjoys making strong bases",
+		"translation": "Versterker",
+		"machine": true
+	},
+	{
+		"phrase": "Demolisher",
+		"comment": "This player enjoys destroying buildings",
+		"translation": "Sloper",
+		"machine": true
+	},
+	{
+		"phrase": "Fabricator",
+		"comment": "This player enjoys creating massive bases",
+		"translation": "Constructeur",
+		"machine": true
+	},
+	{
+		"phrase": "Architect",
+		"comment": "This player is a master builder",
+		"translation": "Architect",
+		"machine": true
+	},
+	{
+		"phrase": "Raider",
+		"comment": "This player enjoys raiding the enemy base",
+		"translation": "Raider",
+		"machine": true
+	},
+	{
+		"phrase": "Thief",
+		"comment": "This player enjoys stealing enemy resources",
+		"translation": "Dief",
+		"machine": true
+	},
+	{
+		"phrase": "Sentry",
+		"comment": "This player watches for enemy movement",
+		"translation": "Schildwacht",
+		"machine": true
+	},
+	{
+		"phrase": "Marauder",
+		"comment": "This player inflicts heavy damage inside enemy-controlled areas",
+		"translation": "Stroper",
+		"machine": true
+	},
+	{
+		"phrase": "Invader",
+		"comment": "This player is skilled at entering enemy territory",
+		"translation": "indringer",
+		"machine": true
+	},
+	{
+		"phrase": "Protector",
+		"comment": "This player keeps enemies out of friendly-controlled areas",
+		"translation": "Beschermer",
+		"machine": true
+	},
+	{
+		"phrase": "Conqueror",
+		"comment": "This player is skilled at capturing enemy territory",
+		"translation": "Veroveraar",
+		"machine": true
+	},
+	{
+		"phrase": "Uplifter",
+		"comment": "This player lifts up their teammates",
+		"translation": "verheffend",
+		"machine": true
+	},
+	{
+		"phrase": "Watchman",
+		"comment": "This player spots enemies for teammates to eliminate",
+		"translation": "Wachter",
+		"machine": true
+	},
+	{
+		"phrase": "Saviour",
+		"comment": "This player saves their teammates from danger",
+		"translation": "Redder",
+		"machine": true
+	},
+	{
+		"phrase": "Eagle Eye",
+		"comment": "This player can spot enemies from far away",
+		"translation": "Adelaarsoog",
+		"machine": true
+	},
+	{
+		"phrase": "Punisher",
+		"comment": "This player swiftly avenges teammate's deaths",
+		"translation": "Punisher",
+		"machine": true
+	},
+	{
+		"phrase": "Guardian",
+		"comment": "This player eliminates enemy threats to their team",
+		"translation": "Voogd",
+		"machine": true
+	},
+	{
+		"phrase": "Vanquisher",
+		"comment": "This player eliminates enemy threats to their team",
+		"translation": "Overwinnaar",
+		"machine": true
+	},
+	{
+		"phrase": "Terminator",
+		"comment": "It can't be reasoned with. It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!",
+		"translation": "Terminator",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
+		"translation": "{0} Content Creator",
+		"machine": true
+	},
+	{
+		"phrase": "Salvage Cup {0} Champion",
+		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
+		"translation": "Bergingsbeker {0} kampioen",
+		"machine": true
+	},
+	{
+		"phrase": "Salvage Cup {0} Runner Up",
+		"comment": "The runner up team of a Salvage Cup tournament. Parameter 0: '2'",
+		"translation": "Bergingsbeker {0} runner up",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Initiate",
+		"comment": "To be an initiate. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Initiëren",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Proficient",
+		"comment": "To be proficient with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Vaardig",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prodigy",
+		"comment": "An upcoming prodigy. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Prodigy",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Adept",
+		"comment": "To be adept with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Adept",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Ace",
+		"comment": "An ace\/star, to be really good at something. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Aas",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Elite",
+		"comment": "An Elite Assault Rifle user. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Elite",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Expert",
+		"comment": "To be an expert with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Expert",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Master",
+		"comment": "To be a master of a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Meester",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Legend",
+		"comment": "You're a legend! Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Legenda",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Paragon",
+		"comment": "The perfect example of something. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Paragon",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Incarnate",
+		"comment": "To become the weapon itself. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} vleesgeworden",
+		"machine": true
+	},
+	{
+		"phrase": "Feet",
+		"comment": "I will kick Fora with my feet",
+		"translation": "Voeten",
+		"machine": true
+	},
+	{
+		"phrase": "Head",
+		"comment": "Fora has an ugly head",
+		"translation": "Hoofd",
+		"machine": true
+	},
+	{
+		"phrase": "Auto Crouch ({0})",
+		"comment": "Automatically crouch if there's a block at your feet when walking through a tunnel. Parameter 0: 'foot' or 'head'",
+		"translation": "Automatisch hurken ({0})",
+		"machine": true
+	},
+	{
+		"phrase": "Automatically crouch if there's a block at your {0} when walking through a tunnel",
+		"comment": "Description for the 'Auto crouch (foot)' keybind. Parameter 0: 'foot' or 'head'",
+		"translation": "Buig automatisch als er een blokkade bij je {0} is als je door een tunnel loopt",
+		"machine": true
+	},
+	{
+		"phrase": "Kills",
+		"comment": "2 kills",
+		"translation": "doodt",
+		"machine": true
+	},
+	{
+		"phrase": "Character tokens can be used to unlock any character.",
+		"comment": "Character token description",
+		"translation": "Karaktertokens kunnen worden gebruikt om elk karakter te ontgrendelen.",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to activate. This will override your current active boost",
+		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
+		"translation": "Dubbelklik om te activeren. dit overschrijft je huidige actieve boost",
+		"machine": true
+	},
+	{
+		"phrase": "No active boost",
+		"comment": "You do not have an active XP boost",
+		"translation": "Geen actieve boost",
+		"machine": true
+	},
+	{
+		"phrase": "Hit feedback volume",
+		"comment": "Setting that controls how loud the hit feedback sound is when hitting another player",
+		"translation": "Druk op feedbackvolume",
+		"machine": true
+	},
+	{
+		"phrase": "Hitmarker HUD",
+		"comment": "Setting that controls whether hitmerkers are visible on the HUD",
+		"translation": "Hitmarker HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Focus region",
+		"comment": "The user can define a circle in the center of the screen called the 'focus region', which is where UI icons are more transparent",
+		"translation": "Focusregio",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral region",
+		"comment": "The part of the screen thats outside the peripheral region",
+		"translation": "Perifere regio",
+		"machine": true
+	},
+	{
+		"phrase": "Fade region",
+		"comment": "The region on the screen between the Focus and Peripheral regions where icons fade from transparent to opaque",
+		"translation": "Fade-regio",
+		"machine": true
+	},
+	{
+		"phrase": "Opaque icon distance",
+		"comment": "3D icons will be opaque when their distance to the player is less than this value",
+		"translation": "Ondoorzichtige pictogramafstand",
+		"machine": true
+	},
+	{
+		"phrase": "Focus radius",
+		"comment": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"translation": "Focusradius",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral radius",
+		"comment": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"translation": "Perifere straal",
+		"machine": true
+	},
+	{
+		"phrase": "Focus icon opacity",
+		"comment": "This setting controls the opacity of icons within the focus region",
+		"translation": "Dekking van focuspictogram",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral icon opacity",
+		"comment": "This setting controls the opacity of icons outside the focus region",
+		"translation": "Perifere pictogramdekking",
+		"machine": true
+	},
+	{
+		"phrase": "ADS icon opacity",
+		"comment": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"translation": "ADS-pictogramdekking",
+		"machine": true
+	},
+	{
+		"phrase": "3D icons will be opaque when their distance to the player is less than this value",
+		"comment": "Description for the 'Opaque icon distance' setting",
+		"translation": "3D-pictogrammen zijn ondoorzichtig wanneer hun afstand tot de speler kleiner is dan deze waarde",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"comment": "Description for the 'Focus radius' setting",
+		"translation": "Alle 3D-pictogrammen binnen deze cirkel in het midden van het scherm worden het 'focusgebied' genoemd. deze instelling regelt de straal van het focusgebied",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"comment": "Description for the 'Peripheral radius' setting",
+		"translation": "Alle 3D-pictogrammen buiten deze cirkel in het midden van het scherm worden de 'perifere regio' genoemd. deze instelling regelt de straal van het perifere gebied",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons within the focus region",
+		"comment": "Description for the 'Focus icon opacity' setting",
+		"translation": "Deze instelling regelt de dekking van pictogrammen binnen het focusgebied",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons outside the focus region",
+		"comment": "Description for the 'Peripheral icon opacity' setting",
+		"translation": "Deze instelling regelt de dekking van pictogrammen buiten het focusgebied",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"comment": "Description for the 'ADS icon opacity' setting",
+		"translation": "Deze instelling regelt de maximale dekking van pictogrammen wanneer ADS (naar beneden gericht))",
+		"machine": true
+	},
+	{
+		"phrase": "Show death icons",
+		"comment": "Setting that controls whether a death icon renders where a player died",
+		"translation": "Doodspictogrammen weergeven",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "1 colour, i.e. red",
+		"translation": "Kleur",
+		"machine": true
+	},
+	{
+		"phrase": "Colours",
+		"comment": "2 colours, i.e. red and black",
+		"translation": "Kleuren",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} {2} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
+		"translation": "{0}-boost actief\n{1} {2} resterend",
+		"machine": true
+	},
+	{
+		"phrase": "Character token required - purchase in the Supporter Pack",
+		"comment": "This error shows if the player attempts to unlock the Human Renegade without any character tokens",
+		"translation": "Karaktertoken vereist - aankoop in het supporterpakket",
+		"machine": true
+	},
+	{
+		"phrase": "The Pearl skin is unlocked in the Supporter Pack",
+		"comment": "This error shows if the player attempts to equip a Pearl skin without first purchasing the Supporter Pack",
+		"translation": "De parelhuid is ontgrendeld in het supporterspakket",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} - earn them through gameplay or purchase them in the store",
+		"comment": "This error shows if they don't have enough Protons to unlock the character, skin or crosshair",
+		"translation": "Niet genoeg {0} - verdien ze door te spelen of koop ze in de winkel",
+		"machine": true
+	},
+	{
+		"phrase": "Cancelled",
+		"comment": "The transaction was cancelled",
+		"translation": "Geannuleerd",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"comment": "The weapon skin is being unlocked",
+		"translation": "Ontgrendelen",
+		"machine": true
+	},
+	{
+		"phrase": "Error",
+		"comment": "There was an error unlocking the Human Elite character",
+		"translation": "Fout",
+		"machine": true
+	},
+	{
+		"phrase": "Skin token",
+		"context": "Material token",
+		"comment": "1 Skin token, i.e. a token\/coin that can be used to unlock a weapon or character skin",
+		"translation": "huid token",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens",
+		"context": "Material tokens",
+		"comment": "2Skin tokens",
+		"translation": "Huid tokens",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Elke boost duurt 1 uur gameplay en verhoogt het aantal {0} en XP dat je verdient met {1}.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a game mode to continue",
+		"comment": "The player must click on which game mode (Breakthrough, capture the flag, etc) they would like to play",
+		"translation": "Selecteer een spelmodus om door te gaan",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens can be used to unlock weapon skin or character skin.",
+		"comment": "Skin token description",
+		"translation": "Skin-tokens kunnen worden gebruikt om wapenskin of personage-skin te ontgrendelen.",
+		"machine": true
+	},
+	{
+		"phrase": "Throw distance",
+		"comment": "How far the player can throw greandes",
+		"translation": "Steenworp afstand",
+		"machine": true
+	},
+	{
+		"phrase": "New players take less damage",
+		"comment": "When Peacekeeper is enabled, new players take less damage",
+		"translation": "Nieuwe spelers lopen minder schade op",
+		"machine": true
+	},
+	{
+		"phrase": "Clear cache",
+		"comment": "Clear the cache and get all data again",
+		"translation": "Cache wissen",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh",
+		"comment": "Refresh the page",
+		"translation": "Vernieuwen",
+		"machine": true
+	},
+	{
+		"phrase": "Extracting",
+		"comment": "The player is currently extracting resources from the earth",
+		"translation": "Extraheren",
+		"machine": true
+	},
+	{
+		"phrase": "Test hitboxes",
+		"comment": "A keybind that displays the hitboxes. Used for debugging\/testing",
+		"translation": "Hitboxen testen",
+		"machine": true
+	},
+	{
+		"phrase": "Clear hitboxes",
+		"comment": "A keybind that removes all display hitboxes",
+		"translation": "Hitboxen wissen",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are less than level {0} and have a KDR of {1} or less.\n\nDeal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '50%', Parameter 3: '25%'",
+		"translation": "Vijanden worden gemarkeerd als ze lager zijn dan niveau {0} en een KDR van {1} of minder hebben.\n\nBreng {2} schade toe aan deze spelers en verdien {3} extra XP en protonen.\n\nWijzigingen worden van kracht bij respawn. vredeshandhaver heeft geen effect in gratis voor alle spelmodi.",
+		"machine": true
+	},
+	{
+		"phrase": "Downloading the map from the {0} Workshop...",
+		"comment": "Loading message that indicates the server is still downloading the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Downloaden van de plattegrond van de {0} werkplaats...",
+		"machine": true
+	},
+	{
+		"phrase": "The download timed out and was cancelled.",
+		"comment": "Loading message that indicates the server took too long to download the map from the Steam Workshop, and the download was cancelled. Parameter 0: \"Steam\"",
+		"translation": "Er is een time-out opgetreden bij het downloaden en is geannuleerd.",
+		"machine": true
+	},
+	{
+		"phrase": "Permission denied - could not download the map from the {0} Workshop...",
+		"comment": "Error message that indicates the server doesn't have permission to download the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Toestemming geweigerd - kon de kaart van de {0}-werkplaats niet downloaden...",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop...",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "De kaart bestaat niet in de {0} werkplaats...",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count set to {0}-{1}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
+		"translation": "Aantal bots ingesteld op {0}-{1}",
+		"machine": true
+	},
+	{
+		"phrase": "Increases jump height and reduces fall damage",
+		"comment": "Description for the Hydraulics armour mod",
+		"translation": "Verhoogt de springhoogte en vermindert valschade",
+		"machine": true
+	},
+	{
+		"phrase": "Increases explosion knockback and reduces self-explosion damage",
+		"comment": "Description for the Kinetic armour mod",
+		"translation": "Verhoogt terugslag door explosie en vermindert schade door zelfexplosie",
+		"machine": true
+	},
+	{
+		"phrase": "Increases the amount of ammo and health gained from ammo pickups",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "Verhoogt de hoeveelheid munitie en gezondheid die wordt verkregen door munitie-pickups",
+		"machine": true
+	},
+	{
+		"phrase": "Increases melee speed and throw distance",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "Verhoogt slagsnelheid en worpafstand",
+		"machine": true
+	},
+	{
+		"phrase": "Reduces the volume of footsteps, building and digging",
+		"comment": "Description for the Stealth armour mod",
+		"translation": "Vermindert het volume van voetstappen, bouwen en graven",
+		"machine": true
+	},
+	{
+		"phrase": "SE {0}",
+		"comment": "Mod power, i.e. 'SE 2' means the player has the level 2 Servo armour modification equipped",
+		"translation": "SE {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Our backend servers are currently offline, but you can still join game servers and play online. Your stats will be recorded when our backend servers are back online.",
+		"comment": "Disclaimer when backend servers are down",
+		"translation": "Onze backend-servers zijn momenteel offline, maar je kunt nog steeds lid worden van gameservers en online spelen. uw statistieken worden geregistreerd wanneer onze backend-servers weer online zijn.",
+		"machine": true
+	},
+	{
+		"phrase": "Surveillance enabled",
+		"comment": "This is a blue shell mechanic. Players on 5 killstreaks or higher will be revealed through walls",
+		"translation": "Bewaking ingeschakeld",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} tokens - earn them through partnered stream events",
+		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any. Parameter 0 is either 'character' or 'skin'",
+		"translation": "Niet genoeg {0}-tokens - verdien ze via partnerstream-evenementen",
+		"machine": true
+	},
+	{
+		"phrase": "Supply",
+		"comment": "To supply your teammate with ammunition",
+		"translation": "Levering",
+		"machine": true
+	},
+	{
+		"phrase": "Blade",
+		"comment": "A blade you can cut things with",
+		"translation": "Blad",
+		"machine": true
+	},
+	{
+		"phrase": "Off",
+		"comment": "Turn the light off",
+		"translation": "Uit",
+		"machine": true
+	},
+	{
+		"phrase": "On",
+		"comment": "Turn the light on",
+		"translation": "Op",
+		"machine": true
+	},
+	{
+		"phrase": "Focus",
+		"comment": "The area around the center of the screen that the player focuses on, i.e. not the peripherals",
+		"translation": "Focus",
+		"machine": true
+	},
+	{
+		"phrase": "Force team colours",
+		"comment": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"translation": "Teamkleuren forceren",
+		"machine": true
+	},
+	{
+		"phrase": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"comment": "Description for the 'Force team colours' setting",
+		"translation": "Deze toegankelijkheidsinstelling dwingt de camouflagekleuren van spelers naar de kleur van hun team, in plaats van naar hun geselecteerde kleur",
+		"machine": true
+	},
+	{
+		"phrase": "Points HUD",
+		"comment": "Setting that controls whether the points HUD is visible",
+		"translation": "Punten HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Coloured party outlines",
+		"comment": "Setting that controls whether the outlines around party members should be party coloured rather than team coloured",
+		"translation": "Gekleurde partijcontouren",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the outlines around party members should be party coloured rather than team coloured",
+		"comment": "Description for the 'Party outline colour' setting",
+		"translation": "Bepaalt of de contouren rond groepsleden partijgekleurd moeten zijn in plaats van teamgekleurd",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy outlines",
+		"comment": "Setting that controls whether coloured outlines should render around enemies",
+		"translation": "Vijand schetst",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
+		"comment": "Description for the 'Enemy outlines' setting",
+		"translation": "Bepaalt of contouren uit moeten zijn, gefocust (alleen verschijnen als je naar vijanden kijkt) of altijd aan",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly outlines",
+		"comment": "Setting that controls whether coloured outlines should render around friendlies",
+		"translation": "Vriendelijke contouren",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outline should render around friendly players",
+		"comment": "Description for the 'Friendly outlines' setting",
+		"translation": "Bepaalt of omtrek moet worden weergegeven rond vriendelijke spelers",
+		"machine": true
+	},
+	{
+		"phrase": "Fun",
+		"comment": "This game is fun",
+		"translation": "Plezier",
+		"machine": true
+	},
+	{
+		"phrase": "Outlines",
+		"comment": "Coloured outlines that render around players so you can tell which team they're on",
+		"translation": "Contouren",
 		"machine": true
 	}
 ]

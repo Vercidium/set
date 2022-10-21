@@ -1296,19 +1296,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Weapon Skin Token",
-		"comment": "[Inventory] Weapon skin token display name",
-		"translation": "Διακριτικό δέρματος όπλου",
-		"machine": true
-	},
-	{
-		"phrase": "Blocks",
-		"context": "Cubes",
-		"comment": "The amount of 3d voxels, e.g. '50 Blocks'. This text shows when looking at a structure in the ship",
-		"translation": "Μπλοκ",
-		"machine": true
-	},
-	{
 		"phrase": "Settings",
 		"comment": "Variables the player can customise",
 		"translation": "Ρυθμίσεις",
@@ -1702,19 +1689,6 @@
 		"phrase": "Save",
 		"comment": "1 Save, i.e. when you save a friendly from being killed",
 		"translation": "Σώσει",
-		"machine": true
-	},
-	{
-		"phrase": "Cooldown",
-		"comment": "The time it takes for a structure to cooldown, e.g. '300ms Cooldown'. This text shows when looking at a structure in the ship",
-		"translation": "Cooldown",
-		"machine": true
-	},
-	{
-		"phrase": "ms",
-		"context": "milliseconds",
-		"comment": "[Unit] [Abbreviation] Abbreviation for milliseconds, e.g. '300ms Cooldown'",
-		"translation": "Κυρία",
 		"machine": true
 	},
 	{
@@ -2410,7 +2384,7 @@
 	},
 	{
 		"phrase": "Loading maps",
-		"comment": "The game is loading maps from disk",
+		"comment": "The game is loadthe player's settings from disk",
 		"translation": "Φόρτωση χαρτών",
 		"machine": true
 	},
@@ -2508,12 +2482,6 @@
 		"phrase": "Full",
 		"comment": "The full amount (100%)",
 		"translation": "Γεμάτος",
-		"machine": true
-	},
-	{
-		"phrase": "Enemies will be highlighted if they are level {0} or lower and have a KDR of {1} or less.\n\nFor the duration Peacekeeper is enabled, deal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
-		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '25%', Parameter 3: '25%'",
-		"translation": "Οι εχθροί θα επισημανθούν εάν είναι επίπεδο {0} ή χαμηλότερο και έχουν KDR {1} ή μικρότερο.\n\nΌσο είναι ενεργοποιημένος ο ειρηνευτής, κάντε ζημιά {2} σε αυτούς τους παίκτες και κερδίστε {3} επιπλέον XP και πρωτόνια.\n\nΟι αλλαγές ισχύουν για το respawn. ο ειρηνοποιός δεν έχει καμία επίδραση δωρεάν για όλους τους τρόπους παιχνιδιού.",
 		"machine": true
 	},
 	{
@@ -2670,24 +2638,6 @@
 		"phrase": "Build + Dig {0}",
 		"comment": "[Trial Name] Parameter 0: '1'",
 		"translation": "Κατασκευή + σκάψιμο {0}",
-		"machine": true
-	},
-	{
-		"phrase": "{0} Protons. Lasts for {1} hour",
-		"comment": "[Inventory] Proton boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "Πρωτόνια {0}. Διαρκεί 1 ώρα ZZ",
-		"machine": true
-	},
-	{
-		"phrase": "{0} XP. Lasts for {1} hour",
-		"comment": "[Inventory] XP boost description. Parameter 0: '+100%', parameter 1: '1'",
-		"translation": "{0} XP. Διαρκεί 1 ώρα ZZ",
-		"machine": true
-	},
-	{
-		"phrase": "Use this to unlock weapon skins on the Weapons screen",
-		"comment": "[Inventory] Weapon skin token description",
-		"translation": "Χρησιμοποιήστε αυτό για να ξεκλειδώσετε δέρματα όπλων στην οθόνη των όπλων",
 		"machine": true
 	},
 	{
@@ -3264,7 +3214,7 @@
 	},
 	{
 		"phrase": "Cancelling",
-		"comment": "Cancelling a transaction",
+		"comment": "We are cancelling the transaction",
 		"translation": "Ακύρωση",
 		"machine": true
 	},
@@ -3703,31 +3653,19 @@
 	},
 	{
 		"phrase": "KI {0}",
-		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 KI armour modification equipped",
+		"comment": "Mod power, i.e. 'KI 2' means the player has the level 2 Kinetic armour modification equipped",
 		"translation": "ΚΙ ΖΖ0",
 		"machine": true
 	},
 	{
-		"phrase": "RE {0}",
-		"comment": "Mod power, i.e. 'RE 2' means the player has the level 2 RE armour modification equipped",
-		"translation": "RE {0}",
-		"machine": true
-	},
-	{
 		"phrase": "SC {0}",
-		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 SC armour modification equipped",
+		"comment": "Mod power, i.e. 'SC 2' means the player has the level 2 Scavenger armour modification equipped",
 		"translation": "SC {0}",
 		"machine": true
 	},
 	{
-		"phrase": "SP {0}",
-		"comment": "Mod power, i.e. 'SP 2' means the player has the level 2 SP armour modification equipped",
-		"translation": "SP {0}",
-		"machine": true
-	},
-	{
 		"phrase": "ST {0}",
-		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 ST armour modification equipped",
+		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
 		"machine": true
 	},
@@ -4813,31 +4751,31 @@
 	},
 	{
 		"phrase": "Music volume (menu)",
-		"comment": "Setting that controls how load the main menu music is",
+		"comment": "Setting that controls how loud the main menu music is",
 		"translation": "Ένταση μουσικής (μενού)",
 		"machine": true
 	},
 	{
 		"phrase": "Personal footsteps volume",
-		"comment": "Setting that controls how load your personal footsteps are",
+		"comment": "Setting that controls how loud your personal footsteps are",
 		"translation": "Όγκος προσωπικών βημάτων",
 		"machine": true
 	},
 	{
 		"phrase": "Teammate footsteps volume",
-		"comment": "Setting that controls how load your teammate's footsteps are",
+		"comment": "Setting that controls how loud your teammate's footsteps are",
 		"translation": "Ένταση βημάτων συμπαίκτη",
 		"machine": true
 	},
 	{
 		"phrase": "Damage volume",
-		"comment": "Setting that controls how load the damage sound plays when you take damage",
+		"comment": "Setting that controls how loud the damage sound plays when you take damage",
 		"translation": "Όγκος ζημιάς",
 		"machine": true
 	},
 	{
 		"phrase": "Voice chat volume",
-		"comment": "Setting that controls how load incoming proximity voice chat is",
+		"comment": "Setting that controls how loud incoming proximity voice chat is",
 		"translation": "Ένταση φωνητικής συνομιλίας",
 		"machine": true
 	},
@@ -5070,12 +5008,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Entity icon distance",
-		"comment": "Setting that controls the render distance cutoff for entity icons (C4, scanner, etc)",
-		"translation": "Απόσταση εικονιδίου οντότητας",
-		"machine": true
-	},
-	{
 		"phrase": "Controls the render distance cutoff for entity icons (C4, scanner, etc)",
 		"comment": "Description for the 'Entity icon distance' setting",
 		"translation": "Ελέγχει την αποκοπή της απόστασης απόδοσης για εικονίδια οντοτήτων (c4, σαρωτής κ.λπ)",
@@ -5139,24 +5071,6 @@
 		"phrase": "Show player outlines through walls",
 		"comment": "Setting that controls whether friendly player outlines should be visible through walls",
 		"translation": "Εμφάνιση περιγραμμάτων παίκτη μέσα από τοίχους",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether party member's outlines should be a different colour",
-		"comment": "Description for the 'Party outline colour' setting",
-		"translation": "Ελέγχει εάν τα περιγράμματα των μελών του κόμματος πρέπει να έχουν διαφορετικό χρώμα",
-		"machine": true
-	},
-	{
-		"phrase": "Show enemy outlines",
-		"comment": "Setting that controls whether outlines should render around enemies",
-		"translation": "Εμφάνιση περιγραμμάτων του εχθρού",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outlines should render around enemies",
-		"comment": "Description for the 'Show enemy outlines' setting",
-		"translation": "Ελέγχει εάν τα περιγράμματα πρέπει να αποδίδονται γύρω από τους εχθρούς",
 		"machine": true
 	},
 	{
@@ -5924,12 +5838,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Each boost lasts 1 hour and will increase the amount of {0} and XP you earn by 3.0x.",
-		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Κάθε ενίσχυση διαρκεί 1 ώρα και θα αυξήσει το ποσό των {0} και XP που κερδίζετε κατά 3,0 φορές.",
-		"machine": true
-	},
-	{
 		"phrase": "Boosts can be earned from watching partnered {0} streams, or you can purchase them here if you would like to fast track.",
 		"comment": "Boost pack description. Parameter 0: 'Twitch'",
 		"translation": "Μπορείτε να κερδίσετε βελτιώσεις παρακολουθώντας συνεργαζόμενες ροές {0} ή μπορείτε να τις αγοράσετε εδώ εάν θέλετε να παρακολουθείτε γρήγορα.",
@@ -6023,7 +5931,7 @@
 	},
 	{
 		"phrase": "Success",
-		"comment": "This message appears when a command runs successfully",
+		"comment": "Success! You have unlocked the Human Elite character",
 		"translation": "Επιτυχία",
 		"machine": true
 	},
@@ -6418,20 +6326,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Weapon skin token",
-		"context": "Weapon material token",
-		"comment": "1 Weapon skin token, i.e. a token\/coin that can be used to unlock a weapon skin",
-		"translation": "Δείκτη δέρματος όπλου",
-		"machine": true
-	},
-	{
-		"phrase": "Weapon skin tokens",
-		"context": "Weapon material tokens",
-		"comment": "2 Weapon skin tokens",
-		"translation": "Δείγματα δέρματος όπλων",
-		"machine": true
-	},
-	{
 		"phrase": "Weapon skin",
 		"context": "Weapon material",
 		"comment": "1 Weapon skin, i.e. a material that can be applied to the surface of a gun to change its appearance",
@@ -6529,12 +6423,6 @@
 		"phrase": "Full servers",
 		"comment": "A server with no free slots",
 		"translation": "Πλήρεις διακομιστές",
-		"machine": true
-	},
-	{
-		"phrase": "Grapics preset",
-		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
-		"translation": "Προκαθορισμένα γραφικά",
 		"machine": true
 	},
 	{
@@ -7716,13 +7604,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Max ping distance",
-		"context": "Max marker distance",
-		"comment": "Setting that controls the render distance cutoff for 3D pings\/markers",
-		"translation": "Μέγιστη απόσταση ping",
-		"machine": true
-	},
-	{
 		"phrase": "Controls the render distance cutoff for 3D pings",
 		"context": "Controls the render distance cutoff for 3D markers",
 		"comment": "Description for the 'Max ping distance' setting",
@@ -7751,12 +7632,6 @@
 		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised",
 		"comment": "Description for the 'Streamer mode' setting",
 		"translation": "Το όνομα διακομιστή δεν θα εμφανίζεται στον πίνακα αποτελεσμάτων και τα ονόματα και τα επίπεδα άλλων παικτών θα τυχαιοποιηθούν",
-		"machine": true
-	},
-	{
-		"phrase": "Different party outline",
-		"comment": "Setting that controls whether party member outlines should be a different colour",
-		"translation": "Διαφορετικό περίγραμμα κόμματος",
 		"machine": true
 	},
 	{
@@ -8150,12 +8025,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Bot amount set to {0}",
-		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '10'",
-		"translation": "Το ποσό bot ορίστηκε σε {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Now playing {0} on {1}",
 		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
 		"translation": "Τώρα παίζει {0} στο {1}",
@@ -8435,18 +8304,6 @@
 		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
 		"comment": "Description for the 'Particle Delay' settings",
 		"translation": "Προηγμένη ρύθμιση απόδοσης που ελέγχει πόσα καρέ επιτρέπεται να μείνει πίσω ο κινητήρας σωματιδίων",
-		"machine": true
-	},
-	{
-		"phrase": "Show icons when ADS",
-		"comment": "Setting that controls whether icons and player names should display when aiming down the sights",
-		"translation": "Εμφάνιση εικονιδίων όταν ADS",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether icons and player names should display when aiming down the sights",
-		"comment": "Description for the 'Show icons when ADS' setting",
-		"translation": "Ελέγχει εάν τα εικονίδια και τα ονόματα των παικτών θα πρέπει να εμφανίζονται όταν στοχεύετε προς τα αξιοθέατα",
 		"machine": true
 	},
 	{
@@ -9044,12 +8901,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Desync",
-		"comment": "When the client and server get out of sync, i.e. the client thinks a player is in a different location to the server",
-		"translation": "Αποσυγχρονισμός",
-		"machine": true
-	},
-	{
 		"phrase": "No",
 		"context": "None",
 		"comment": "Does not exist, i.e. 'No foregrip equipped'",
@@ -9144,6 +8995,1041 @@
 		"phrase": "Networking HUD",
 		"comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
 		"translation": "Δικτύωση HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Debug",
+		"comment": "Debug a computer program",
+		"translation": "Εντοπισμός σφαλμάτων",
+		"machine": true
+	},
+	{
+		"phrase": "Toggle Profiler",
+		"comment": "Toggles whether the debug profiler (records how long CPU and GPU tasks take to execute) should run",
+		"translation": "Εναλλαγή προγράμματος προφίλ",
+		"machine": true
+	},
+	{
+		"phrase": "Autoplay",
+		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
+		"translation": "Αυτόματη αναπαραγωγή",
+		"machine": true
+	},
+	{
+		"phrase": "Automatically join a server when there's {0} players in it",
+		"comment": "Autoplay tooltip. Parameter 0: '4'",
+		"translation": "Εγγραφείτε αυτόματα σε έναν διακομιστή όταν υπάρχουν παίκτες {0} σε αυτόν",
+		"machine": true
+	},
+	{
+		"phrase": "Minimum players",
+		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
+		"translation": "Ελάχιστοι παίκτες",
+		"machine": true
+	},
+	{
+		"phrase": "Coming soon",
+		"comment": "This new feature is coming soon",
+		"translation": "Ερχομαι συντομα",
+		"machine": true
+	},
+	{
+		"phrase": "This ammo pierces through blocks rather than destroying them",
+		"comment": "Ammo description for Piercing Ammo on the Rail Gun",
+		"translation": "Αυτό το πυρομαχικό διαπερνά τα μπλοκ αντί να τα καταστρέφει",
+		"machine": true
+	},
+	{
+		"phrase": "Loading stats",
+		"comment": "The game is loading statistics",
+		"translation": "Φόρτωση στατιστικών στοιχείων",
+		"machine": true
+	},
+	{
+		"phrase": "No available servers",
+		"comment": "Error message when attempting to claim a lobby, but all servers are taken",
+		"translation": "Δεν υπάρχουν διαθέσιμοι διακομιστές",
+		"machine": true
+	},
+	{
+		"phrase": "Map",
+		"comment": "A map\/world that players fight on",
+		"translation": "Χάρτης",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Key",
+		"comment": "A key\/code\/sequence of characters that the user can type in to redeem Protons or other rewards. Parameter 0: 'Proton'",
+		"translation": "Κλειδί {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Stats",
+		"context": "Statistics",
+		"comment": "Abbreviation of statistics",
+		"translation": "Στατιστικά",
+		"machine": true
+	},
+	{
+		"phrase": "Edit",
+		"comment": "Edit the name of your loadout",
+		"translation": "Επεξεργασία",
+		"machine": true
+	},
+	{
+		"phrase": "Rename",
+		"comment": "Rename your loadout",
+		"translation": "Μετονομάζω",
+		"machine": true
+	},
+	{
+		"phrase": "Duplicate",
+		"comment": "Duplicate your loadout to make an exact copy",
+		"translation": "Αντίγραφο",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to delete",
+		"comment": "Double click this button to delete your preset",
+		"translation": "Κάντε διπλό κλικ για διαγραφή",
+		"machine": true
+	},
+	{
+		"phrase": "Dynamic crosshair colour",
+		"comment": "The colour of the crosshair on weapon sights fades from green to red to reflect the Combat Shotgun choke",
+		"translation": "Δυναμικό χρώμα σταυρόνημα",
+		"machine": true
+	},
+	{
+		"phrase": "This setting makes the crosshair colour match the green\/red choke indicator on the Combat Shotgun",
+		"comment": "Tooltip for the 'Dynamic crosshair colour' setting",
+		"translation": "Αυτή η ρύθμιση κάνει το χρώμα σταυρόνημα να ταιριάζει με την πράσινη\/κόκκινη ένδειξη τσοκ στο όπλο μάχης",
+		"machine": true
+	},
+	{
+		"phrase": "Graphics preset",
+		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
+		"translation": "Προκαθορισμένα γραφικά",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count (team {0})",
+		"comment": "The number of bots on team X. Parameter 0: 'A'",
+		"translation": "Αριθμός bot (ομάδα {0})",
+		"machine": true
+	},
+	{
+		"phrase": "The number of bots on team {0}",
+		"comment": "Bot count tooltip. Parameter 0: 'B'",
+		"translation": "Ο αριθμός των bots στην ομάδα {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Objective",
+		"comment": "The objective of the gamemode, e.g. contesting a zone or stealing a flag",
+		"translation": "Σκοπός",
+		"machine": true
+	},
+	{
+		"phrase": "Instant respawn (Trailer Mode)",
+		"comment": "Instantly respawn in trailer mode",
+		"translation": "Instant respawn (λειτουργία τρέιλερ)",
+		"machine": true
+	},
+	{
+		"phrase": "Weather particle amount",
+		"comment": "This setting controls how many rain and snow particles are spawned",
+		"translation": "Ποσότητα σωματιδίων καιρού",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls how many rain and snow particles are spawned",
+		"comment": "Description for the 'Weather Particle amount' setting",
+		"translation": "Αυτή η ρύθμιση ελέγχει πόσα σωματίδια βροχής και χιονιού γεννιούνται",
+		"machine": true
+	},
+	{
+		"phrase": "No title",
+		"comment": "The player has no title equipped",
+		"translation": "Χωρίς τίτλο",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocked Titles",
+		"comment": "A list of titles that the player just unlocked by levellign up a weapon",
+		"translation": "Ξεκλείδωτοι τίτλοι",
+		"machine": true
+	},
+	{
+		"phrase": "Progression",
+		"comment": "A weapon or career progression, i.e. a player can 'progress' a weapon and earn titles by earning points with it",
+		"translation": "Προχώρηση",
+		"machine": true
+	},
+	{
+		"phrase": "Spawn position removed",
+		"comment": "This text appears when a player removes their custom respawn location, which they can only do when recording trailers",
+		"translation": "Η θέση αναπαραγωγής αφαιρέθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "All titles unlocked",
+		"comment": "The player has unlocked all titles for a weapon",
+		"translation": "Όλοι οι τίτλοι ξεκλειδώθηκαν",
+		"machine": true
+	},
+	{
+		"phrase": "Next title",
+		"comment": "The next title you will unlock is called 'Legend'",
+		"translation": "Επόμενος τίτλος",
+		"machine": true
+	},
+	{
+		"phrase": "Midi Certified",
+		"comment": "This is a title a player earns when reaching all Bronze times in the Trials, and shows the player is qualified to use their Midi tool",
+		"translation": "Πιστοποίηση Midi",
+		"machine": true
+	},
+	{
+		"phrase": "Maze Runner",
+		"comment": "This is a title that a player unlocks when reaching all Silver times in the Trials, and signifies they are decent at the Trials",
+		"translation": "Αυτός που τρέχει στο λαβύρινθο",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Master",
+		"comment": "This is a title that a player unlocks when reaching all Gold times in the Trials, and signifies they are great at the Trials",
+		"translation": "Δοκιμαστικός",
+		"machine": true
+	},
+	{
+		"phrase": "Trial Hard",
+		"comment": "This is a title that a player unlocks when reaching all Platinum times in the Trials, and signifies they are the fastest Trial runners out there. This is a play on the phrase 'Try Hard'",
+		"translation": "Δοκιμή σκληρή",
+		"machine": true
+	},
+	{
+		"phrase": "Developer",
+		"comment": "The developer of Sector's Edge",
+		"translation": "Προγραμματιστής",
+		"machine": true
+	},
+	{
+		"phrase": "Moderator",
+		"comment": "A community moderator",
+		"translation": "Μεσολαβητής",
+		"machine": true
+	},
+	{
+		"phrase": "Trailer Crew",
+		"comment": "This player was part of the crew who helped record the trailer",
+		"translation": "Πλήρωμα τρέιλερ",
+		"machine": true
+	},
+	{
+		"phrase": "Alpha Tester",
+		"comment": "This player tested the alpha build of the game years ago",
+		"translation": "Alpha tester",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Ascender",
+		"comment": "A player who rises to the occasion. Parameter 0: 'Aegis'",
+		"translation": "{0} Ascender",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Challenger",
+		"comment": "A player who challenges the best players. Parameter 0: 'Aegis'",
+		"translation": "{0} Challenger",
+		"machine": true
+	},
+	{
+		"phrase": "Fatal",
+		"comment": "This player is fatal",
+		"translation": "Μοιραίος",
+		"machine": true
+	},
+	{
+		"phrase": "Deadly",
+		"comment": "This player is deadly",
+		"translation": "Θανάσιμα",
+		"machine": true
+	},
+	{
+		"phrase": "Lethal",
+		"comment": "This player is lethal",
+		"translation": "Θανατηφόρος",
+		"machine": true
+	},
+	{
+		"phrase": "Deadeye",
+		"comment": "This player is an accurate marksman",
+		"translation": "Deadeye",
+		"machine": true
+	},
+	{
+		"phrase": "Eliminator",
+		"comment": "This player has excellent accuracy",
+		"translation": "Εξαλείφων",
+		"machine": true
+	},
+	{
+		"phrase": "Obliterator",
+		"comment": "This player obliterates enemies",
+		"translation": "Εξολοθρευτής",
+		"machine": true
+	},
+	{
+		"phrase": "Eradicator",
+		"comment": "This player eradicates all enemies",
+		"translation": "Εκριζωτικό",
+		"machine": true
+	},
+	{
+		"phrase": "Disintegrator",
+		"comment": "This player leaves no trace behind of enemies they destroy",
+		"translation": "Αποσυνθέτων",
+		"machine": true
+	},
+	{
+		"phrase": "Deathbringer",
+		"comment": "This player wreaks death and havok",
+		"translation": "Θανατηφόρος",
+		"machine": true
+	},
+	{
+		"phrase": "Butcher",
+		"comment": "This player is a butcher",
+		"translation": "Σφάζω",
+		"machine": true
+	},
+	{
+		"phrase": "Warrior",
+		"comment": "This player is a warrior",
+		"translation": "πολεμιστής",
+		"machine": true
+	},
+	{
+		"phrase": "Slasher",
+		"comment": "This player is great with melee weapons",
+		"translation": "Κόπτων",
+		"machine": true
+	},
+	{
+		"phrase": "Slayer",
+		"comment": "This player is great with melee weapons",
+		"translation": "Φονιάς",
+		"machine": true
+	},
+	{
+		"phrase": "Gladiator",
+		"comment": "This player is great with melee weapons",
+		"translation": "Μονομάχος",
+		"machine": true
+	},
+	{
+		"phrase": "Berserker",
+		"comment": "This player is great with melee weapons",
+		"translation": "Berserker",
+		"machine": true
+	},
+	{
+		"phrase": "Assassin",
+		"comment": "This player is stealthy and great with melee weapons",
+		"translation": "Δολοφόνος",
+		"machine": true
+	},
+	{
+		"phrase": "Executioner",
+		"comment": "This player is a force to be reckoned with when using melee weapons",
+		"translation": "Δήμιος",
+		"machine": true
+	},
+	{
+		"phrase": "Builder",
+		"comment": "This player likes building",
+		"translation": "Οικοδόμος",
+		"machine": true
+	},
+	{
+		"phrase": "Tunneler",
+		"comment": "This player likes digging",
+		"translation": "Tunneler",
+		"machine": true
+	},
+	{
+		"phrase": "Excavator",
+		"comment": "This player really likes digging",
+		"translation": "Εκσκαφέας",
+		"machine": true
+	},
+	{
+		"phrase": "Reinforcer",
+		"comment": "This player enjoys making strong bases",
+		"translation": "Ενισχυτής",
+		"machine": true
+	},
+	{
+		"phrase": "Demolisher",
+		"comment": "This player enjoys destroying buildings",
+		"translation": "Κατεδαφιστής",
+		"machine": true
+	},
+	{
+		"phrase": "Fabricator",
+		"comment": "This player enjoys creating massive bases",
+		"translation": "Κατασκευαστής",
+		"machine": true
+	},
+	{
+		"phrase": "Architect",
+		"comment": "This player is a master builder",
+		"translation": "Αρχιτέκτονας",
+		"machine": true
+	},
+	{
+		"phrase": "Raider",
+		"comment": "This player enjoys raiding the enemy base",
+		"translation": "Επιδρομέας",
+		"machine": true
+	},
+	{
+		"phrase": "Thief",
+		"comment": "This player enjoys stealing enemy resources",
+		"translation": "Κλέφτης",
+		"machine": true
+	},
+	{
+		"phrase": "Sentry",
+		"comment": "This player watches for enemy movement",
+		"translation": "Φρουρός",
+		"machine": true
+	},
+	{
+		"phrase": "Marauder",
+		"comment": "This player inflicts heavy damage inside enemy-controlled areas",
+		"translation": "Αρπαγας",
+		"machine": true
+	},
+	{
+		"phrase": "Invader",
+		"comment": "This player is skilled at entering enemy territory",
+		"translation": "Επιδρομέας",
+		"machine": true
+	},
+	{
+		"phrase": "Protector",
+		"comment": "This player keeps enemies out of friendly-controlled areas",
+		"translation": "Προστάτης",
+		"machine": true
+	},
+	{
+		"phrase": "Conqueror",
+		"comment": "This player is skilled at capturing enemy territory",
+		"translation": "Κατακτητής",
+		"machine": true
+	},
+	{
+		"phrase": "Uplifter",
+		"comment": "This player lifts up their teammates",
+		"translation": "Αναμορφωτής",
+		"machine": true
+	},
+	{
+		"phrase": "Watchman",
+		"comment": "This player spots enemies for teammates to eliminate",
+		"translation": "Φρουρός",
+		"machine": true
+	},
+	{
+		"phrase": "Saviour",
+		"comment": "This player saves their teammates from danger",
+		"translation": "Σωτήρας",
+		"machine": true
+	},
+	{
+		"phrase": "Eagle Eye",
+		"comment": "This player can spot enemies from far away",
+		"translation": "Αετίσιο μάτι",
+		"machine": true
+	},
+	{
+		"phrase": "Punisher",
+		"comment": "This player swiftly avenges teammate's deaths",
+		"translation": "Τιμωρός",
+		"machine": true
+	},
+	{
+		"phrase": "Guardian",
+		"comment": "This player eliminates enemy threats to their team",
+		"translation": "Κηδεμόνας",
+		"machine": true
+	},
+	{
+		"phrase": "Vanquisher",
+		"comment": "This player eliminates enemy threats to their team",
+		"translation": "Νικητής",
+		"machine": true
+	},
+	{
+		"phrase": "Terminator",
+		"comment": "It can't be reasoned with. It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!",
+		"translation": "Τελειωτής",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
+		"translation": "Δημιουργός περιεχομένου {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Salvage Cup {0} Champion",
+		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
+		"translation": "Πρωταθλητής {0} Κυπέλλου διάσωσης",
+		"machine": true
+	},
+	{
+		"phrase": "Salvage Cup {0} Runner Up",
+		"comment": "The runner up team of a Salvage Cup tournament. Parameter 0: '2'",
+		"translation": "Κύπελλο διάσωσης {0} δεύτερος",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Initiate",
+		"comment": "To be an initiate. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Εκκίνηση",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Proficient",
+		"comment": "To be proficient with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Proficient",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prodigy",
+		"comment": "An upcoming prodigy. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Prodigy",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Adept",
+		"comment": "To be adept with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Adept",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Ace",
+		"comment": "An ace\/star, to be really good at something. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Άσσος",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Elite",
+		"comment": "An Elite Assault Rifle user. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Elite",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Expert",
+		"comment": "To be an expert with a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Expert",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Master",
+		"comment": "To be a master of a weapon. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Master",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Legend",
+		"comment": "You're a legend! Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Legend",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Paragon",
+		"comment": "The perfect example of something. Parameter 0: 'Assault Rifle'",
+		"translation": "{0} Paragon",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Incarnate",
+		"comment": "To become the weapon itself. Parameter 0: 'Assault Rifle'",
+		"translation": "ΖΖ0 Ενσαρκωμένος",
+		"machine": true
+	},
+	{
+		"phrase": "Feet",
+		"comment": "I will kick Fora with my feet",
+		"translation": "Πόδια",
+		"machine": true
+	},
+	{
+		"phrase": "Head",
+		"comment": "Fora has an ugly head",
+		"translation": "Κεφάλι",
+		"machine": true
+	},
+	{
+		"phrase": "Auto Crouch ({0})",
+		"comment": "Automatically crouch if there's a block at your feet when walking through a tunnel. Parameter 0: 'foot' or 'head'",
+		"translation": "Αυτόματο σκύψιμο ({0})",
+		"machine": true
+	},
+	{
+		"phrase": "Automatically crouch if there's a block at your {0} when walking through a tunnel",
+		"comment": "Description for the 'Auto crouch (foot)' keybind. Parameter 0: 'foot' or 'head'",
+		"translation": "Σκύψτε αυτόματα εάν υπάρχει μπλοκ στο {0} σας όταν περπατάτε μέσα από ένα τούνελ",
+		"machine": true
+	},
+	{
+		"phrase": "Kills",
+		"comment": "2 kills",
+		"translation": "Σκοτώνει",
+		"machine": true
+	},
+	{
+		"phrase": "Character tokens can be used to unlock any character.",
+		"comment": "Character token description",
+		"translation": "Τα διακριτικά χαρακτήρων μπορούν να χρησιμοποιηθούν για το ξεκλείδωμα οποιουδήποτε χαρακτήρα.",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to activate. This will override your current active boost",
+		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
+		"translation": "Κάντε διπλό κλικ για ενεργοποίηση. Αυτό θα παρακάμψει την τρέχουσα ενεργή ώθησή σας",
+		"machine": true
+	},
+	{
+		"phrase": "No active boost",
+		"comment": "You do not have an active XP boost",
+		"translation": "Καμία ενεργή ώθηση",
+		"machine": true
+	},
+	{
+		"phrase": "Hit feedback volume",
+		"comment": "Setting that controls how loud the hit feedback sound is when hitting another player",
+		"translation": "Πατήστε τον όγκο σχολίων",
+		"machine": true
+	},
+	{
+		"phrase": "Hitmarker HUD",
+		"comment": "Setting that controls whether hitmerkers are visible on the HUD",
+		"translation": "Hitmarker HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Focus region",
+		"comment": "The user can define a circle in the center of the screen called the 'focus region', which is where UI icons are more transparent",
+		"translation": "Περιοχή εστίασης",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral region",
+		"comment": "The part of the screen thats outside the peripheral region",
+		"translation": "Περιφερειακή περιοχή",
+		"machine": true
+	},
+	{
+		"phrase": "Fade region",
+		"comment": "The region on the screen between the Focus and Peripheral regions where icons fade from transparent to opaque",
+		"translation": "Περιοχή ξεθωριάσματος",
+		"machine": true
+	},
+	{
+		"phrase": "Opaque icon distance",
+		"comment": "3D icons will be opaque when their distance to the player is less than this value",
+		"translation": "Αδιαφανές εικονίδιο απόσταση",
+		"machine": true
+	},
+	{
+		"phrase": "Focus radius",
+		"comment": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"translation": "Ακτίνα εστίασης",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral radius",
+		"comment": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"translation": "Περιφερική ακτίνα",
+		"machine": true
+	},
+	{
+		"phrase": "Focus icon opacity",
+		"comment": "This setting controls the opacity of icons within the focus region",
+		"translation": "Αδιαφάνεια εικονιδίου εστίασης",
+		"machine": true
+	},
+	{
+		"phrase": "Peripheral icon opacity",
+		"comment": "This setting controls the opacity of icons outside the focus region",
+		"translation": "Περιφερική αδιαφάνεια εικονιδίου",
+		"machine": true
+	},
+	{
+		"phrase": "ADS icon opacity",
+		"comment": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"translation": "Αδιαφάνεια εικονιδίου ADS",
+		"machine": true
+	},
+	{
+		"phrase": "3D icons will be opaque when their distance to the player is less than this value",
+		"comment": "Description for the 'Opaque icon distance' setting",
+		"translation": "Τα εικονίδια 3D θα είναι αδιαφανή όταν η απόστασή τους από τη συσκευή αναπαραγωγής είναι μικρότερη από αυτήν την τιμή",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
+		"comment": "Description for the 'Focus radius' setting",
+		"translation": "Όλα τα τρισδιάστατα εικονίδια μέσα σε αυτόν τον κύκλο στο κέντρο της οθόνης ονομάζονται «περιοχή εστίασης». Αυτή η ρύθμιση ελέγχει την ακτίνα της περιοχής εστίασης",
+		"machine": true
+	},
+	{
+		"phrase": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
+		"comment": "Description for the 'Peripheral radius' setting",
+		"translation": "Όλα τα τρισδιάστατα εικονίδια έξω από αυτόν τον κύκλο στο κέντρο της οθόνης ονομάζονται «περιφερειακή περιοχή». Αυτή η ρύθμιση ελέγχει την ακτίνα της περιφερειακής περιοχής",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons within the focus region",
+		"comment": "Description for the 'Focus icon opacity' setting",
+		"translation": "Αυτή η ρύθμιση ελέγχει την αδιαφάνεια των εικονιδίων εντός της περιοχής εστίασης",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the opacity of icons outside the focus region",
+		"comment": "Description for the 'Peripheral icon opacity' setting",
+		"translation": "Αυτή η ρύθμιση ελέγχει την αδιαφάνεια των εικονιδίων εκτός της περιοχής εστίασης",
+		"machine": true
+	},
+	{
+		"phrase": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
+		"comment": "Description for the 'ADS icon opacity' setting",
+		"translation": "Αυτή η ρύθμιση ελέγχει τη μέγιστη αδιαφάνεια των εικονιδίων όταν ADS (στοχεύουν προς τα κάτω τα αξιοθέατα)",
+		"machine": true
+	},
+	{
+		"phrase": "Show death icons",
+		"comment": "Setting that controls whether a death icon renders where a player died",
+		"translation": "Εμφάνιση εικονιδίων θανάτου",
+		"machine": true
+	},
+	{
+		"phrase": "Colour",
+		"comment": "1 colour, i.e. red",
+		"translation": "Χρώμα",
+		"machine": true
+	},
+	{
+		"phrase": "Colours",
+		"comment": "2 colours, i.e. red and black",
+		"translation": "Χρώματα",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} {2} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
+		"translation": "Ενεργή ενίσχυση {0}\nΑπομένει {1} {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Character token required - purchase in the Supporter Pack",
+		"comment": "This error shows if the player attempts to unlock the Human Renegade without any character tokens",
+		"translation": "Απαιτείται διακριτικό χαρακτήρα - αγορά στο πακέτο υποστήριξης",
+		"machine": true
+	},
+	{
+		"phrase": "The Pearl skin is unlocked in the Supporter Pack",
+		"comment": "This error shows if the player attempts to equip a Pearl skin without first purchasing the Supporter Pack",
+		"translation": "Το μαργαριταρένιο δέρμα είναι ξεκλείδωτο στο πακέτο στήριξης",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} - earn them through gameplay or purchase them in the store",
+		"comment": "This error shows if they don't have enough Protons to unlock the character, skin or crosshair",
+		"translation": "Δεν είναι αρκετό το {0} - κερδίστε τα μέσω του παιχνιδιού ή αγοράστε τα στο κατάστημα",
+		"machine": true
+	},
+	{
+		"phrase": "Cancelled",
+		"comment": "The transaction was cancelled",
+		"translation": "Ακυρώθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Unlocking",
+		"comment": "The weapon skin is being unlocked",
+		"translation": "Ξεκλείδωμα",
+		"machine": true
+	},
+	{
+		"phrase": "Error",
+		"comment": "There was an error unlocking the Human Elite character",
+		"translation": "Λάθος",
+		"machine": true
+	},
+	{
+		"phrase": "Skin token",
+		"context": "Material token",
+		"comment": "1 Skin token, i.e. a token\/coin that can be used to unlock a weapon or character skin",
+		"translation": "Σύμβολο δέρματος",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens",
+		"context": "Material tokens",
+		"comment": "2Skin tokens",
+		"translation": "Δερματικές μάρκες",
+		"machine": true
+	},
+	{
+		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Κάθε ενίσχυση διαρκεί για 1 ώρα παιχνιδιού και θα αυξήσει το ποσό των {0} και XP που κερδίζετε κατά {1}.",
+		"machine": true
+	},
+	{
+		"phrase": "Select a game mode to continue",
+		"comment": "The player must click on which game mode (Breakthrough, capture the flag, etc) they would like to play",
+		"translation": "Επιλέξτε μια λειτουργία παιχνιδιού για να συνεχίσετε",
+		"machine": true
+	},
+	{
+		"phrase": "Skin tokens can be used to unlock weapon skin or character skin.",
+		"comment": "Skin token description",
+		"translation": "Τα Skin tokens μπορούν να χρησιμοποιηθούν για να ξεκλειδώσετε το δέρμα του όπλου ή το δέρμα του χαρακτήρα.",
+		"machine": true
+	},
+	{
+		"phrase": "Throw distance",
+		"comment": "How far the player can throw greandes",
+		"translation": "Απόσταση ρίψης",
+		"machine": true
+	},
+	{
+		"phrase": "New players take less damage",
+		"comment": "When Peacekeeper is enabled, new players take less damage",
+		"translation": "Οι νέοι παίκτες παθαίνουν λιγότερη ζημιά",
+		"machine": true
+	},
+	{
+		"phrase": "Clear cache",
+		"comment": "Clear the cache and get all data again",
+		"translation": "Εκκαθάριση προσωρινής μνήμης",
+		"machine": true
+	},
+	{
+		"phrase": "Refresh",
+		"comment": "Refresh the page",
+		"translation": "Φρεσκάρω",
+		"machine": true
+	},
+	{
+		"phrase": "Extracting",
+		"comment": "The player is currently extracting resources from the earth",
+		"translation": "Εξαγωγή",
+		"machine": true
+	},
+	{
+		"phrase": "Test hitboxes",
+		"comment": "A keybind that displays the hitboxes. Used for debugging\/testing",
+		"translation": "Δοκιμή hitboxes",
+		"machine": true
+	},
+	{
+		"phrase": "Clear hitboxes",
+		"comment": "A keybind that removes all display hitboxes",
+		"translation": "Εκκαθάριση πλαισίων επισκέψεων",
+		"machine": true
+	},
+	{
+		"phrase": "Enemies will be highlighted if they are less than level {0} and have a KDR of {1} or less.\n\nDeal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
+		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '50%', Parameter 3: '25%'",
+		"translation": "Οι εχθροί θα επισημαίνονται εάν είναι μικρότεροι από το επίπεδο {0} και έχουν KDR {1} ή λιγότερο.\n\nΠροκαλέστε ζημιά {2} σε αυτούς τους παίκτες και κερδίστε {3} επιπλέον XP και πρωτόνια.\n\nΟι αλλαγές τίθενται σε ισχύ κατά το respawn. Το ειρηνευτικό δεν έχει καμία επίδραση στο δωρεάν για όλους τους τρόπους παιχνιδιού.",
+		"machine": true
+	},
+	{
+		"phrase": "Downloading the map from the {0} Workshop...",
+		"comment": "Loading message that indicates the server is still downloading the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Λήψη του χάρτη από το εργαστήριο {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "The download timed out and was cancelled.",
+		"comment": "Loading message that indicates the server took too long to download the map from the Steam Workshop, and the download was cancelled. Parameter 0: \"Steam\"",
+		"translation": "Το χρονικό όριο της λήψης έληξε και ακυρώθηκε.",
+		"machine": true
+	},
+	{
+		"phrase": "Permission denied - could not download the map from the {0} Workshop...",
+		"comment": "Error message that indicates the server doesn't have permission to download the map from the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Η άδεια δεν επιτρέπεται - δεν ήταν δυνατή η λήψη του χάρτη από το εργαστήριο {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop...",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Ο χάρτης δεν υπάρχει στο συνεργείο {0}...",
+		"machine": true
+	},
+	{
+		"phrase": "Bot count set to {0}-{1}",
+		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
+		"translation": "Ο αριθμός ρομπότ ορίστηκε σε {0}-{1}",
+		"machine": true
+	},
+	{
+		"phrase": "Increases jump height and reduces fall damage",
+		"comment": "Description for the Hydraulics armour mod",
+		"translation": "Αυξάνει το ύψος του άλματος και μειώνει τις ζημιές από πτώση",
+		"machine": true
+	},
+	{
+		"phrase": "Increases explosion knockback and reduces self-explosion damage",
+		"comment": "Description for the Kinetic armour mod",
+		"translation": "Αυξάνει την ανάκρουση της έκρηξης και μειώνει τη ζημιά από την αυτοέκρηξη",
+		"machine": true
+	},
+	{
+		"phrase": "Increases the amount of ammo and health gained from ammo pickups",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "Αυξάνει την ποσότητα πυρομαχικών και την υγεία που αποκτάται από τις παραλαβές πυρομαχικών",
+		"machine": true
+	},
+	{
+		"phrase": "Increases melee speed and throw distance",
+		"comment": "Description for the Scavenger armour mod",
+		"translation": "Αυξάνει την ταχύτητα μάχης σώμα με σώμα και την απόσταση ρίψης",
+		"machine": true
+	},
+	{
+		"phrase": "Reduces the volume of footsteps, building and digging",
+		"comment": "Description for the Stealth armour mod",
+		"translation": "Μειώνει τον όγκο των βημάτων, την κατασκευή και το σκάψιμο",
+		"machine": true
+	},
+	{
+		"phrase": "SE {0}",
+		"comment": "Mod power, i.e. 'SE 2' means the player has the level 2 Servo armour modification equipped",
+		"translation": "SE {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Our backend servers are currently offline, but you can still join game servers and play online. Your stats will be recorded when our backend servers are back online.",
+		"comment": "Disclaimer when backend servers are down",
+		"translation": "Οι διακομιστές υποστήριξης μας είναι επί του παρόντος εκτός σύνδεσης, αλλά μπορείτε ακόμα να εγγραφείτε σε διακομιστές παιχνιδιών και να παίξετε online. τα στατιστικά σας θα καταγραφούν όταν οι διακομιστές υποστήριξης μας είναι ξανά online.",
+		"machine": true
+	},
+	{
+		"phrase": "Surveillance enabled",
+		"comment": "This is a blue shell mechanic. Players on 5 killstreaks or higher will be revealed through walls",
+		"translation": "Η επιτήρηση ενεργοποιήθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Not enough {0} tokens - earn them through partnered stream events",
+		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any. Parameter 0 is either 'character' or 'skin'",
+		"translation": "Δεν υπάρχουν αρκετά διακριτικά {0} - κερδίστε τα μέσω συμβάντων ροής συνεργατών",
+		"machine": true
+	},
+	{
+		"phrase": "Supply",
+		"comment": "To supply your teammate with ammunition",
+		"translation": "Προμήθεια",
+		"machine": true
+	},
+	{
+		"phrase": "Blade",
+		"comment": "A blade you can cut things with",
+		"translation": "Λεπίδα",
+		"machine": true
+	},
+	{
+		"phrase": "Off",
+		"comment": "Turn the light off",
+		"translation": "Μακριά από",
+		"machine": true
+	},
+	{
+		"phrase": "On",
+		"comment": "Turn the light on",
+		"translation": "Επί",
+		"machine": true
+	},
+	{
+		"phrase": "Focus",
+		"comment": "The area around the center of the screen that the player focuses on, i.e. not the peripherals",
+		"translation": "Συγκεντρώνω",
+		"machine": true
+	},
+	{
+		"phrase": "Force team colours",
+		"comment": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"translation": "Δύναμη τα χρώματα της ομάδας",
+		"machine": true
+	},
+	{
+		"phrase": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
+		"comment": "Description for the 'Force team colours' setting",
+		"translation": "Αυτή η ρύθμιση προσβασιμότητας αναγκάζει τα χρώματα καμουφλάζ των παικτών στο χρώμα της ομάδας τους και όχι στο επιλεγμένο χρώμα",
+		"machine": true
+	},
+	{
+		"phrase": "Points HUD",
+		"comment": "Setting that controls whether the points HUD is visible",
+		"translation": "Πόντοι HUD",
+		"machine": true
+	},
+	{
+		"phrase": "Coloured party outlines",
+		"comment": "Setting that controls whether the outlines around party members should be party coloured rather than team coloured",
+		"translation": "Χρωματιστά περιγράμματα πάρτι",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the outlines around party members should be party coloured rather than team coloured",
+		"comment": "Description for the 'Party outline colour' setting",
+		"translation": "Ελέγχει εάν τα περιγράμματα γύρω από τα μέλη του κόμματος θα πρέπει να είναι στο χρώμα του κόμματος αντί στο χρώμα της ομάδας",
+		"machine": true
+	},
+	{
+		"phrase": "Enemy outlines",
+		"comment": "Setting that controls whether coloured outlines should render around enemies",
+		"translation": "Περιγράμματα του εχθρού",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
+		"comment": "Description for the 'Enemy outlines' setting",
+		"translation": "Ελέγχει εάν τα περιγράμματα πρέπει να είναι απενεργοποιημένα, εστιασμένα (εμφανίζονται μόνο όταν κοιτάζετε εχθρούς) ή πάντα ενεργοποιημένα",
+		"machine": true
+	},
+	{
+		"phrase": "Friendly outlines",
+		"comment": "Setting that controls whether coloured outlines should render around friendlies",
+		"translation": "Φιλικά περιγράμματα",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outline should render around friendly players",
+		"comment": "Description for the 'Friendly outlines' setting",
+		"translation": "Ελέγχει εάν το περίγραμμα πρέπει να αποδίδεται γύρω από φιλικούς παίκτες",
+		"machine": true
+	},
+	{
+		"phrase": "Fun",
+		"comment": "This game is fun",
+		"translation": "Διασκεδαστικο",
+		"machine": true
+	},
+	{
+		"phrase": "Outlines",
+		"comment": "Coloured outlines that render around players so you can tell which team they're on",
+		"translation": "Περιγράμματα",
 		"machine": true
 	}
 ]
