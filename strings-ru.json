@@ -2456,11 +2456,6 @@
 		"translation": "Заглушить всех врагов"
 	},
 	{
-		"phrase": "Pick Up Deployable",
-		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
-		"translation": "Подобрать снаряжение"
-	},
-	{
 		"phrase": "Small Canister",
 		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
 		"translation": "Маленькая Канистра"
@@ -2726,11 +2721,6 @@
 		"translation": "Смотрит свое оружие"
 	},
 	{
-		"phrase": "Viewing their loadouts",
-		"comment": "Rich presence",
-		"translation": "Смотрит свое снаряжение"
-	},
-	{
 		"phrase": "Customising their licence",
 		"comment": "Rich presence",
 		"translation": "Настраивает свою лицензию"
@@ -2967,7 +2957,7 @@
 	},
 	{
 		"phrase": "{0} Power",
-		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12'",
+		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12 \/ 15'",
 		"translation": "Энергия: {0}"
 	},
 	{
@@ -8806,6 +8796,204 @@
 		"phrase": "Outlines",
 		"comment": "Coloured outlines that render around players so you can tell which team they're on",
 		"translation": "Контуры",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to provide feedback",
+		"comment": "Instructions for providing feedback. Parameter 0: 'F1'",
+		"translation": "Нажмите {0}, чтобы оставить отзыв",
+		"machine": true
+	},
+	{
+		"phrase": "{0}ms cooldown",
+		"comment": "Cooldown tooltip, i.e. '625ms cooldown'. ms = milliseconds. Cooldown refers to how long the player needs to wait before being able to build blocks",
+		"translation": "Перезарядка {0} мс",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to change the origin",
+		"comment": "Instructions for changing which block in your pre-made structure is the origin\/center. Parameter 0: 'Enter'",
+		"translation": "Нажмите {0}, чтобы изменить исходную точку",
+		"machine": true
+	},
+	{
+		"phrase": "An update is available. Please update your game through Steam to continue playing",
+		"comment": "Update notification",
+		"translation": "Доступно обновление. пожалуйста, обновите игру через steam, чтобы продолжить играть",
+		"machine": true
+	},
+	{
+		"phrase": "Reset keybinds",
+		"comment": "Reset to the default keyboard shortcuts",
+		"translation": "Сбросить сочетания клавиш",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to play the tutorial?",
+		"comment": "Tutorial prompt when the game first starts up",
+		"translation": "Хотите пройти обучение??",
+		"machine": true
+	},
+	{
+		"phrase": "Click to confirm",
+		"comment": "Click again to confirm you want to reset your keybinds to default",
+		"translation": "Нажмите, чтобы подтвердить",
+		"machine": true
+	},
+	{
+		"phrase": "Fullscreen",
+		"comment": "[Keybind]",
+		"translation": "Полноэкранный",
+		"machine": true
+	},
+	{
+		"phrase": "Exclusive Fullscreen",
+		"comment": "[Keybind]",
+		"translation": "Эксклюзивный полноэкранный режим",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up deployable",
+		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
+		"translation": "Подобрать развертываемый",
+		"machine": true
+	},
+	{
+		"phrase": "Old Version",
+		"comment": "This server is running an old version",
+		"translation": "Старая версия",
+		"machine": true
+	},
+	{
+		"phrase": "Block pack",
+		"comment": "Store pack title. Blocks refer to 3D cubes\/voxels. This pack lets you customise them with skins",
+		"translation": "Блок-пакет",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with these aftermarket {0} modifications.",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
+		"translation": "Продемонстрируйте свой строительный опыт с этими модификациями {0} для вторичного рынка..",
+		"machine": true
+	},
+	{
+		"phrase": "Destruction",
+		"comment": "To destroy everything with explosions",
+		"translation": "Разрушение",
+		"machine": true
+	},
+	{
+		"phrase": "Los Angeles",
+		"comment": "Server location",
+		"translation": "Лос-Анджелес",
+		"machine": true
+	},
+	{
+		"phrase": "New Jersey",
+		"comment": "Server location",
+		"translation": "Нью-Джерси",
+		"machine": true
+	},
+	{
+		"phrase": "Block Pack required",
+		"comment": "The player must own the Block Pack to equip this block skin",
+		"translation": "Требуется блочный пакет",
+		"machine": true
+	},
+	{
+		"phrase": "Tutorial",
+		"comment": "A tutorial that shows players how to build",
+		"translation": "Руководство",
+		"machine": true
+	},
+	{
+		"phrase": "Screen shake",
+		"comment": "Setting that controls whether the screen should shake when large structures fall down",
+		"translation": "Дрожание экрана",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the screen should shake when large structures fall down",
+		"comment": "Description for the 'Screen shake' setting",
+		"translation": "Определяет, должен ли экран трястись при падении больших конструкций.",
+		"machine": true
+	},
+	{
+		"phrase": "Move",
+		"comment": "To move around, i.e. tutorial instructions: '[WASD] Move'",
+		"translation": "Шаг",
+		"machine": true
+	},
+	{
+		"phrase": "Flag",
+		"comment": "A flag with a symbol on it, flagpole",
+		"translation": "Флаг",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb",
+		"comment": "An explosive bomb. Jake's butt is da bomb",
+		"translation": "Бомбить",
+		"machine": true
+	},
+	{
+		"phrase": "You can't run back into your spawn area or rocket jump when holding the {0}.",
+		"comment": "Game mode instructions. Parameter 0 is either 'flag' or 'bomb'",
+		"translation": "Вы не можете вернуться в свою зону возрождения или совершить ракетный прыжок, удерживая {0}..",
+		"machine": true
+	},
+	{
+		"phrase": "Stand in the zone to push it towards your enemy. Your team wins when the zone reaches the other side of the map.",
+		"comment": "Instructions for the Control Shift game mode",
+		"translation": "Встаньте в зону, чтобы подтолкнуть ее к врагу. ваша команда побеждает, когда зона достигает другой стороны карты.",
+		"machine": true
+	},
+	{
+		"phrase": "Capture each zone in sequence. Your team wins when all zones are captured.",
+		"comment": "Instructions for the Breakthrough game mode",
+		"translation": "Захватывайте каждую зону последовательно. ваша команда побеждает, когда все зоны захвачены.",
+		"machine": true
+	},
+	{
+		"phrase": "Steal the enemy flag and return it to your base.",
+		"comment": "Instructions for the Capture the Flag game mode",
+		"translation": "Украсть вражеский флаг и вернуть его на свою базу.",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up your team's bomb and deliver it to the enemy base.",
+		"comment": "Instructions for the Escort game mode",
+		"translation": "Подберите бомбу своей команды и доставьте ее на базу врага..",
+		"machine": true
+	},
+	{
+		"phrase": "Climb over the wall to enter the city. Equip the MiDi and click and drag to place a line of blocks.",
+		"comment": "Tutorial instructions",
+		"translation": "Перелезьте через стену, чтобы войти в город. экипируйте miDi и щелкните и перетащите, чтобы разместить линию блоков.",
+		"machine": true
+	},
+	{
+		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
+		"comment": "Tutorial instructions",
+		"translation": "Также можно размещать готовые конструкции. выберите один с помощью радиала или переключитесь между ними. построить структуру в любом месте, чтобы продолжить.",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the digger and cut down this street light. Concrete blocks are weaker than metal blocks.",
+		"comment": "Tutorial instructions",
+		"translation": "Экипируйте экскаватор и вырубите этот уличный фонарь. бетонные блоки слабее, чем металлические блоки.",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the Assault Rifle and shoot the crash target.",
+		"comment": "Tutorial instructions",
+		"translation": "Экипируйте штурмовую винтовку и стреляйте в цель.",
+		"machine": true
+	},
+	{
+		"phrase": "You also have an Orberator and C4 in your current loadout, which are perfect for destroying large buildings. Press escape to complete the tutorial.",
+		"comment": "Tutorial instructions",
+		"translation": "У вас также есть Орбератор и С4 в вашем текущем снаряжении, которые идеально подходят для разрушения больших зданий. нажмите Escape, чтобы завершить обучение.",
 		"machine": true
 	}
 ]

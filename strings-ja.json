@@ -2943,12 +2943,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Pick Up Deployable",
-		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
-		"translation": "展開可能なピックアップ",
-		"machine": true
-	},
-	{
 		"phrase": "Small Canister",
 		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
 		"translation": "小さなキャニスター",
@@ -3267,12 +3261,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Viewing their loadouts",
-		"comment": "Rich presence",
-		"translation": "ロードアウトの表示",
-		"machine": true
-	},
-	{
 		"phrase": "Customising their licence",
 		"comment": "Rich presence",
 		"translation": "ライセンスのカスタマイズ",
@@ -3556,7 +3544,7 @@
 	},
 	{
 		"phrase": "{0} Power",
-		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12'",
+		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12 \/ 15'",
 		"translation": "{0}パワー",
 		"machine": true
 	},
@@ -10030,6 +10018,204 @@
 		"phrase": "Outlines",
 		"comment": "Coloured outlines that render around players so you can tell which team they're on",
 		"translation": "アウトライン",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to provide feedback",
+		"comment": "Instructions for providing feedback. Parameter 0: 'F1'",
+		"translation": "{0} を押してフィードバックを提供します",
+		"machine": true
+	},
+	{
+		"phrase": "{0}ms cooldown",
+		"comment": "Cooldown tooltip, i.e. '625ms cooldown'. ms = milliseconds. Cooldown refers to how long the player needs to wait before being able to build blocks",
+		"translation": "{0}ms クールダウン",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to change the origin",
+		"comment": "Instructions for changing which block in your pre-made structure is the origin\/center. Parameter 0: 'Enter'",
+		"translation": "{0} を押して原点を変更します",
+		"machine": true
+	},
+	{
+		"phrase": "An update is available. Please update your game through Steam to continue playing",
+		"comment": "Update notification",
+		"translation": "アップデートが利用可能です。プレイを続けるには、Steam でゲームを更新してください",
+		"machine": true
+	},
+	{
+		"phrase": "Reset keybinds",
+		"comment": "Reset to the default keyboard shortcuts",
+		"translation": "キーバインドをリセット",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to play the tutorial?",
+		"comment": "Tutorial prompt when the game first starts up",
+		"translation": "チュートリアルをプレイしますか?",
+		"machine": true
+	},
+	{
+		"phrase": "Click to confirm",
+		"comment": "Click again to confirm you want to reset your keybinds to default",
+		"translation": "クリックして確認",
+		"machine": true
+	},
+	{
+		"phrase": "Fullscreen",
+		"comment": "[Keybind]",
+		"translation": "全画面表示",
+		"machine": true
+	},
+	{
+		"phrase": "Exclusive Fullscreen",
+		"comment": "[Keybind]",
+		"translation": "排他的なフルスクリーン",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up deployable",
+		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
+		"translation": "展開可能なピックアップ",
+		"machine": true
+	},
+	{
+		"phrase": "Old Version",
+		"comment": "This server is running an old version",
+		"translation": "古いバージョン",
+		"machine": true
+	},
+	{
+		"phrase": "Block pack",
+		"comment": "Store pack title. Blocks refer to 3D cubes\/voxels. This pack lets you customise them with skins",
+		"translation": "ブロックパック",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with these aftermarket {0} modifications.",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
+		"translation": "これらのアフターマーケット {0} 改造で、建築の専門知識を示しましょう.",
+		"machine": true
+	},
+	{
+		"phrase": "Destruction",
+		"comment": "To destroy everything with explosions",
+		"translation": "破壊",
+		"machine": true
+	},
+	{
+		"phrase": "Los Angeles",
+		"comment": "Server location",
+		"translation": "ロサンゼルス",
+		"machine": true
+	},
+	{
+		"phrase": "New Jersey",
+		"comment": "Server location",
+		"translation": "ニュージャージー",
+		"machine": true
+	},
+	{
+		"phrase": "Block Pack required",
+		"comment": "The player must own the Block Pack to equip this block skin",
+		"translation": "ブロックパックが必要",
+		"machine": true
+	},
+	{
+		"phrase": "Tutorial",
+		"comment": "A tutorial that shows players how to build",
+		"translation": "チュートリアル",
+		"machine": true
+	},
+	{
+		"phrase": "Screen shake",
+		"comment": "Setting that controls whether the screen should shake when large structures fall down",
+		"translation": "画面揺れ",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the screen should shake when large structures fall down",
+		"comment": "Description for the 'Screen shake' setting",
+		"translation": "大きな構造物が落下したときに画面が揺れるかどうかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "Move",
+		"comment": "To move around, i.e. tutorial instructions: '[WASD] Move'",
+		"translation": "動く",
+		"machine": true
+	},
+	{
+		"phrase": "Flag",
+		"comment": "A flag with a symbol on it, flagpole",
+		"translation": "国旗",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb",
+		"comment": "An explosive bomb. Jake's butt is da bomb",
+		"translation": "爆弾",
+		"machine": true
+	},
+	{
+		"phrase": "You can't run back into your spawn area or rocket jump when holding the {0}.",
+		"comment": "Game mode instructions. Parameter 0 is either 'flag' or 'bomb'",
+		"translation": "{0}を持っていると、スポーンエリアやロケットジャンプに戻ることはできません.",
+		"machine": true
+	},
+	{
+		"phrase": "Stand in the zone to push it towards your enemy. Your team wins when the zone reaches the other side of the map.",
+		"comment": "Instructions for the Control Shift game mode",
+		"translation": "ゾーンに立って敵に向かって押します。ゾーンがマップの反対側に到達すると、あなたのチームが勝利します.",
+		"machine": true
+	},
+	{
+		"phrase": "Capture each zone in sequence. Your team wins when all zones are captured.",
+		"comment": "Instructions for the Breakthrough game mode",
+		"translation": "各ゾーンを順番にキャプチャします。すべてのゾーンが占領されると、あなたのチームが勝利します.",
+		"machine": true
+	},
+	{
+		"phrase": "Steal the enemy flag and return it to your base.",
+		"comment": "Instructions for the Capture the Flag game mode",
+		"translation": "敵の旗を盗み、自分の基地に戻す.",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up your team's bomb and deliver it to the enemy base.",
+		"comment": "Instructions for the Escort game mode",
+		"translation": "チームの爆弾を拾い、敵の基地に届ける.",
+		"machine": true
+	},
+	{
+		"phrase": "Climb over the wall to enter the city. Equip the MiDi and click and drag to place a line of blocks.",
+		"comment": "Tutorial instructions",
+		"translation": "城壁を越えて街に入る。 miDi を装備し、クリック アンド ドラッグしてブロックの列を配置します.",
+		"machine": true
+	},
+	{
+		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
+		"comment": "Tutorial instructions",
+		"translation": "事前に構築された構造を配置することもできます。ラジアルを使用していずれかを選択するか、それらを切り替えます。続行するにはどこでも構造を構築する.",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the digger and cut down this street light. Concrete blocks are weaker than metal blocks.",
+		"comment": "Tutorial instructions",
+		"translation": "ディガーを装備して、この街灯を切り倒してください。コンクリートブロックは金属ブロックより弱い.",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the Assault Rifle and shoot the crash target.",
+		"comment": "Tutorial instructions",
+		"translation": "アサルトライフルを装備し、クラッシュターゲットを撃つ.",
+		"machine": true
+	},
+	{
+		"phrase": "You also have an Orberator and C4 in your current loadout, which are perfect for destroying large buildings. Press escape to complete the tutorial.",
+		"comment": "Tutorial instructions",
+		"translation": "また、現在のロードアウトにはオーベレーターと c4 があり、大きな建物を破壊するのに最適です。エスケープを押してチュートリアルを完了します.",
 		"machine": true
 	}
 ]
