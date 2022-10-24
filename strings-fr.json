@@ -41,7 +41,6 @@
 		"phrase": "Kill streak",
 		"comment": "When a player gets 3 kills in a row without dying, they are on a kill streak",
 		"translation": "Série de meurtres",
-		"machine": true
 	},
 	{
 		"phrase": "VIP kill",
@@ -56,37 +55,32 @@
 	{
 		"phrase": "Scanner destroyed",
 		"comment": "Shooting an enemy Scanner and destroying it. A Scanner is a device that floats through the air and reveals the position of enemies through walls.",
-		"translation": "Scanner détruit",
-		"machine": true
+		"translation": "Scanneur détruit",
 	},
 	{
 		"phrase": "Scanner assist",
 		"comment": "If a friendly kills an enemy that was revealed by your Scanner, you get Scanner Assist points",
-		"translation": "Aide au scanner",
-		"machine": true
+		"translation": "Assistance au scanneur",
 	},
 	{
 		"phrase": "C4 destroyed",
 		"comment": "Shooting an enemy C4 and destroying it. C4 is an explosive deployable",
 		"translation": "C4 détruit",
-		"machine": true
 	},
 	{
 		"phrase": "Disruptor destroyed",
 		"comment": "Shooting an enemy Disruptor and destroying it",
-		"translation": "Disruptor détruit"
+		"translation": "Disrupteur détruit"
 	},
 	{
 		"phrase": "Avenger",
 		"comment": "When you kill an enemy that recently killed a friendly, i.e. you 'avenged' your team mate",
 		"translation": "Vengeur",
-		"machine": true
 	},
 	{
 		"phrase": "Flag capture",
 		"comment": "To capture a flag you must infiltrate the enemy base, steal their flag and return it to your base. The Flag in this game is a canister containing valuable Soltrium",
 		"translation": "Capture de drapeau",
-		"machine": true
 	},
 	{
 		"phrase": "Flag carry",
@@ -97,7 +91,6 @@
 		"phrase": "Flag return",
 		"comment": "When you intercept the enemy and return your stolen flag back to your base",
 		"translation": "Retour du drapeau",
-		"machine": true
 	},
 	{
 		"phrase": "Flag attack",
@@ -108,7 +101,7 @@
 	{
 		"phrase": "Flag defend",
 		"comment": "If you are near your friendly flag and kill an enemy, you earn points for defending your flag",
-		"translation": "Défense du Drapeau"
+		"translation": "Défense du drapeau"
 	},
 	{
 		"phrase": "Flag carrier kill",
@@ -123,31 +116,28 @@
 	{
 		"phrase": "Bomb carry",
 		"comment": "When you pick up a bomb and carry it on your back",
-		"translation": "Port de bombe",
+		"translation": "Port de la bombe",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb defuse",
 		"comment": "When you find an enemy bomb and defuse it so it doesn't explode",
-		"translation": "Désamorcer la bombe",
-		"machine": true
+		"translation": "Bombe désamorcée",
 	},
 	{
 		"phrase": "Bomb attack",
 		"comment": "If you are near the enemy's bomb and kill an enemy, you earn points for attacking the bomb",
-		"translation": "Attaque à la bombe",
-		"machine": true
+		"translation": "Attaque de la bombe",
 	},
 	{
 		"phrase": "Bomb defend",
 		"comment": "If you are near your friendly bomv and kill an enemy, you earn points for defending your bomb",
 		"translation": "Défense de la bombe",
-		"machine": true
 	},
 	{
 		"phrase": "Spot assist",
 		"comment": "1 Spot assist. If you see an enemy and press a keybind to spot them, a UI marker is placed on that enemy for your team to see. If a friendly then kills that enemy, you earn spot assist points",
-		"translation": "Aide à la localisation"
+		"translation": "Assistance à la localisation"
 	},
 	{
 		"phrase": "Attacking",
@@ -162,7 +152,7 @@
 	{
 		"phrase": "Contesting",
 		"comment": "If you are inside an enemy-controlled zone and are capturing it for your team, you are contesting the zone",
-		"translation": "Contester"
+		"translation": "Conteste de la zone"
 	},
 	{
 		"phrase": "Zone capture",
@@ -192,17 +182,19 @@
 	{
 		"phrase": "Assist counts as kill",
 		"comment": "If you deal 80 or more damage to an enemy, and then a friendly kills them, you earn a kill rather than an assist",
-		"translation": "L'assistance compte comme un meurtre"
+		"translation": "Assistance compte pour meurtre"
 	},
 	{
 		"phrase": "Fortifying",
 		"comment": "If you place blocks inside a zone controlled by your team, you earn fortifying points",
 		"translation": "Renforcement"
+		"machine": true
 	},
 	{
 		"phrase": "Most Valuable Player",
 		"comment": "The player who earned the most points on their team",
 		"translation": "Meilleur joueur"
+		"machine": true
 	},
 	{
 		"phrase": "Annihilator",
@@ -213,7 +205,7 @@
 	{
 		"phrase": "Marksman",
 		"comment": "The player who has the most headshot kills",
-		"translation": "tireur d'élite"
+		"translation": "Tireur d'élite"
 	},
 	{
 		"phrase": "Creator",
@@ -272,7 +264,7 @@
 	{
 		"phrase": "Connecting",
 		"comment": "A player is connecting to the server",
-		"translation": "connection"
+		"translation": "connexion"
 	},
 	{
 		"phrase": "Loading Map",
@@ -288,7 +280,7 @@
 	{
 		"phrase": "Selecting a team",
 		"comment": "A player is selecting whether to join Aegis or Helix",
-		"translation": "Sélectionne une équipe"
+		"translation": "Sélectionner une équipe"
 	},
 	{
 		"phrase": "Spectating",
@@ -299,7 +291,7 @@
 	{
 		"phrase": "Left",
 		"comment": "The left side of the screen",
-		"translation": "à quitté"
+		"translation": "a quitté"
 	},
 	{
 		"phrase": "All",
@@ -310,8 +302,7 @@
 	{
 		"phrase": "Kicked by a moderator",
 		"comment": "A players has been kicked from the server by a moderator",
-		"translation": "Coup de pied par un modérateur",
-		"machine": true
+		"translation": "Ejecté par un modérateur",
 	},
 	{
 		"phrase": "Already in game",
@@ -368,8 +359,7 @@
 	{
 		"phrase": "Version mismatch",
 		"comment": "This error is shown if a player is running v1.4 and attempts to join a server that's running v1.5",
-		"translation": "Incompatibilite de version",
-		"machine": true
+		"translation": "Incompatibilité de version",
 	},
 	{
 		"phrase": "Votekicked",
@@ -396,8 +386,7 @@
 	{
 		"phrase": "Lobby already claimed",
 		"comment": "This error shows if you attempt to claim a server that has already been claimed for another custom lobby",
-		"translation": "Lobby déjà revendiqué",
-		"machine": true
+		"translation": "Nom du serveur déjà revendiqué",
 	},
 	{
 		"phrase": "Your level is too low",
@@ -615,8 +604,7 @@
 	{
 		"phrase": "Ironsights",
 		"comment": "Type of weapon sight",
-		"translation": "Ironsights",
-		"machine": true
+		"translation": "Mire",
 	},
 	{
 		"phrase": "Broken Circle",
@@ -999,8 +987,7 @@
 	{
 		"phrase": "Networking",
 		"comment": "Networking\/communication\/internet",
-		"translation": "La mise en réseau",
-		"machine": true
+		"translation": "Mise en réseau",
 	},
 	{
 		"phrase": "Chat",
@@ -1119,8 +1106,7 @@
 	{
 		"phrase": "Automatically pause the game when you change to another window",
 		"comment": "Description for the 'pause on leave' setting",
-		"translation": "Mettre automatiquement le jeu en pause lorsque vous passez à une autre fenêtre",
-		"machine": true
+		"translation": "Mettre automatiquement le jeu en pause lorsque vous changez de fenêtre",
 	},
 	{
 		"phrase": "Replace swear words in chat messages with delicious food",
@@ -1177,7 +1163,7 @@
 	{
 		"phrase": "Round won!",
 		"comment": "Text that shows at the top of the screen when winning an arena round",
-		"translation": "Tour gagné!",
+		"translation": "Round gagné!",
 		"machine": true
 	},
 	{
@@ -1213,7 +1199,7 @@
 	{
 		"phrase": "Submit feedback",
 		"comment": "Send some constructive criticism to the developers",
-		"translation": "Soumettre des commentaires"
+		"translation": "Soumettre un feedback"
 	},
 	{
 		"phrase": "Disconnect",
@@ -1869,7 +1855,7 @@
 	{
 		"phrase": "Block capacity",
 		"comment": "How many blocks the Midi can store",
-		"translation": "Capacité de bloc",
+		"translation": "Capacité de blocs",
 		"machine": true
 	},
 	{
@@ -1899,20 +1885,18 @@
 	{
 		"phrase": "Build distance",
 		"comment": "How far away the Midi can build",
-		"translation": "Construire la distance",
-		"machine": true
+		"translation": "Distance de construction",
 	},
 	{
 		"phrase": "Block health",
 		"comment": "How strong a block is",
-		"translation": "Bloquer la santé",
+		"translation": "Santé du blocs",
 		"machine": true
 	},
 	{
 		"phrase": "Dig speed",
 		"comment": "How fast the Midi can dig",
-		"translation": "Vitesse de creusement",
-		"machine": true
+		"translation": "Vitesse de creusage",
 	},
 	{
 		"phrase": "Build speed",
@@ -1989,8 +1973,7 @@
 	{
 		"phrase": "Failed to join the party",
 		"comment": "Notification that you failed to join the party",
-		"translation": "Échec de l'adhésion à la fête",
-		"machine": true
+		"translation": "Échec de l'adhésion au groupe",
 	},
 	{
 		"phrase": "Crosshair",
@@ -2013,7 +1996,7 @@
 	{
 		"phrase": "Sights",
 		"comment": "Weapon sights that the player looks through on top of their gun",
-		"translation": "Sites touristiques",
+		"translation": "Viseur"
 		"machine": true
 	},
 	{
@@ -2067,7 +2050,7 @@
 	{
 		"phrase": "Joining",
 		"comment": "This player is 'joining' the server",
-		"translation": "Joindre",
+		"translation": "Rejoindre",
 		"machine": true
 	},
 	{
@@ -2091,14 +2074,12 @@
 	{
 		"phrase": "X-Ray",
 		"comment": "Show enemy outlines through walls",
-		"translation": "radiographie",
-		"machine": true
+		"translation": "X-Ray",
 	},
 	{
 		"phrase": "Cycle Players",
 		"comment": "Spectator control. The full phrase is: 'Cycle Players [ Q \/ E ]'",
-		"translation": "Joueurs de vélo",
-		"machine": true
+		"translation": "Changer de joueur",
 	},
 	{
 		"phrase": "Third Person",
@@ -2115,8 +2096,7 @@
 	{
 		"phrase": "Fly camera",
 		"comment": "Spectator control. Change to free camera mode",
-		"translation": "Caméra volante",
-		"machine": true
+		"translation": "Caméra libre",
 	},
 	{
 		"phrase": "Select Player",
@@ -2176,20 +2156,17 @@
 	{
 		"phrase": "Toggle Help",
 		"comment": "Spectator control. Toggles the help bar at the bottom of the screen",
-		"translation": "Basculer l'aide",
-		"machine": true
+		"translation": "Afficher l'aide",
 	},
 	{
 		"phrase": "Select Aegis",
 		"comment": "Spectator control. Spectate an Aegis player so you can learn to play well",
-		"translation": "Sélectionnez l'égide",
-		"machine": true
+		"translation": "Sélectionnez l'Aegis",
 	},
 	{
 		"phrase": "Select Helix",
 		"comment": "Spectator control. Spectate an Helix player so you can watch them hide underground",
-		"translation": "Sélectionnez l'hélice",
-		"machine": true
+		"translation": "Sélectionnez l'Helix",
 	},
 	{
 		"phrase": "Creating path",
@@ -2260,8 +2237,7 @@
 	{
 		"phrase": "Unable to change teams while the round is running",
 		"comment": "This error message appears when attempting to change teams mid-round in the Arena",
-		"translation": "Impossible de changer d'équipe pendant le tour",
-		"machine": true
+		"translation": "Impossible de changer d'équipe pendant le round",
 	},
 	{
 		"phrase": "Your votekick permissions have been revoked",
@@ -2332,7 +2308,7 @@
 	{
 		"phrase": "There was an error initialising shaders. Please follow the instructions at {0} to submit your log files and help solve this issue",
 		"comment": "[Error] [Message Popup] Parameter 0: 'https:\/\/sectorsedge.com\/support'",
-		"translation": "Une erreur s'est produite lors de l'initialisation des shaders. veuillez suivre les instructions de {0} pour soumettre vos fichiers journaux et aider à résoudre ce problème",
+		"translation": "Une erreur s'est produite lors de l'initialisation des shaders. veuillez suivre les instructions de {0} pour soumettre vos fichiers logs et aider à résoudre ce problème",
 		"machine": true
 	},
 	{
@@ -2350,8 +2326,7 @@
 	{
 		"phrase": "Waiting for players",
 		"comment": "Waiting for players to join a server",
-		"translation": "En attendant les joueurs",
-		"machine": true
+		"translation": "Attente des joueurs",
 	},
 	{
 		"phrase": "Customising their character",
@@ -2386,8 +2361,7 @@
 	{
 		"phrase": "Wishing clans were implemented",
 		"comment": "Rich presence",
-		"translation": "Souhaitant des clans ont été mis en œuvre",
-		"machine": true
+		"translation": "Les clans souhaités ont étaient implémentés",
 	},
 	{
 		"phrase": "Competing in the trials",
@@ -2416,8 +2390,7 @@
 	{
 		"phrase": "Speedrunning the trials",
 		"comment": "Rich presence",
-		"translation": "Speedrunning les épreuves",
-		"machine": true
+		"translation": "Speedrunner les épreuves",
 	},
 	{
 		"phrase": "Modifying their structures",
@@ -2616,8 +2589,7 @@
 	{
 		"phrase": "Onwards!",
 		"comment": "The game has started up, lets begin",
-		"translation": "À partir de!",
-		"machine": true
+		"translation": "En Avant!",
 	},
 	{
 		"phrase": "Swap teams",
