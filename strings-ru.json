@@ -4716,7 +4716,7 @@
     {
         "phrase": "Objective Time",
         "comment": "How long a player spent contesting an objective",
-        "translation": "Общее время захвата"
+        "translation": "Время на точке"
     },
     {
         "phrase": "Best Weapon",
@@ -5709,12 +5709,12 @@
     {
         "phrase": "The enemy flag carrier has died",
         "comment": "The enemy that was carrying our flag has been killed",
-        "translation": "Противник, несший флаг, погиб"
+        "translation": "Противник, переносивший флаг, погиб"
     },
     {
         "phrase": "The enemy bomb carrier has died",
         "comment": "The enemy that was carrying their bomb has been killed",
-        "translation": "Противник, несший бомбу, погиб"
+        "translation": "Противник, переносивший бомбу, погиб"
     },
     {
         "phrase": "The enemy dropped our flag",
@@ -5729,12 +5729,12 @@
     {
         "phrase": "Our flag carrier has died",
         "comment": "The teammate that was carrying the enemies flag has been killed",
-        "translation": "Союзник, несший флаг, погиб"
+        "translation": "Союзник, переносивший флаг, погиб"
     },
     {
         "phrase": "Our bomb carrier has died",
         "comment": "The teammate that was carrying our bomb has been killed",
-        "translation": "Союзник, несший бомбу, погиб"
+        "translation": "Союзник, переносивший бомбу, погиб"
     },
     {
         "phrase": "You dropped the enemy flag",
@@ -7410,14 +7410,12 @@
     {
         "phrase": "Strict teams enabled",
         "comment": "Strict teams is enabled, meaning players can't swap teams",
-        "translation": "Строгие команды включены",
-        "machine": true
+        "translation": "Строгие команды включены"
     },
     {
         "phrase": "Strict teams disabled",
         "comment": "Strict teams is disabled, meaning players can swap teams",
-        "translation": "Строгие команды отключены",
-        "machine": true
+        "translation": "Строгие команды отключены"
     },
     {
         "phrase": "Packet loss",
@@ -7438,32 +7436,27 @@
     {
         "phrase": "Clamp Altitude",
         "comment": "Keep your flying spectator camera at the same altitude",
-        "translation": "Высота зажима",
-        "machine": true
+        "translation": "Высота камеры"
     },
     {
         "phrase": "Smooth Camera",
         "comment": "Smooth camera movement",
-        "translation": "Гладкая камера",
-        "machine": true
+        "translation": "Гладкая камера"
     },
     {
         "phrase": "Anchor",
         "comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-        "translation": "Якорь",
-        "machine": true
+        "translation": "Якорь"
     },
     {
         "phrase": "Increase anchor distance",
         "comment": "Increase the distance between the camera and the anchor position",
-        "translation": "Увеличить расстояние привязки",
-        "machine": true
+        "translation": "Увеличить расстояние до якоря"
     },
     {
         "phrase": "Decrease anchor distance",
         "comment": "Decrease the distance between the camera and the anchor position",
-        "translation": "Уменьшить расстояние до якоря",
-        "machine": true
+        "translation": "Уменьшить расстояние до якоря"
     },
     {
         "phrase": "Increase camera speed",
@@ -7513,117 +7506,98 @@
     {
 		"phrase": "Debug",
 		"comment": "Debug a computer program",
-		"translation": "Отлаживать",
-		"machine": true
+		"translation": "Отладка"
 	},
 	{
 		"phrase": "Toggle Profiler",
 		"comment": "Toggles whether the debug profiler (records how long CPU and GPU tasks take to execute) should run",
-		"translation": "Переключить профайлер",
-		"machine": true
+		"translation": "Вкл/Выкл Профайлер"
 	},
 	{
 		"phrase": "Autoplay",
 		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
-		"translation": "Автовоспроизведение",
-		"machine": true
+		"translation": "Автозаход"
 	},
 	{
 		"phrase": "Automatically join a server when there's {0} players in it",
 		"comment": "Autoplay tooltip. Parameter 0: '4'",
-		"translation": "Автоматически присоединяйтесь к серверу, когда на нем есть игроки {0}",
-		"machine": true
+		"translation": "Автоматически примоединиться к серверу, когда на нем есть {0} игроков"
 	},
 	{
 		"phrase": "Minimum players",
 		"comment": "Automatically join a server when there's N players in it, where N is a 'minimum players' setting that the player can control",
-		"translation": "Минимум игроков",
-		"machine": true
+		"translation": "Минимум игроков"
 	},
 	{
 		"phrase": "Coming soon",
 		"comment": "This new feature is coming soon",
-		"translation": "Вскоре",
-		"machine": true
+		"translation": "Скоро"
 	},
 	{
 		"phrase": "This ammo pierces through blocks rather than destroying them",
 		"comment": "Ammo description for Piercing Ammo on the Rail Gun",
-		"translation": "Этот боеприпас пробивает блоки, а не разрушает их.",
-		"machine": true
+		"translation": "Этот боеприпас пробивает блоки насквозь, а не разрушает их."
 	},
 	{
 		"phrase": "Loading stats",
 		"comment": "The game is loading statistics",
-		"translation": "Загрузка статистики",
-		"machine": true
+		"translation": "Загрузка статистики"
 	},
 	{
 		"phrase": "No available servers",
 		"comment": "Error message when attempting to claim a lobby, but all servers are taken",
-		"translation": "Нет доступных серверов",
-		"machine": true
+		"translation": "Нет доступных серверов"
 	},
 	{
 		"phrase": "Map",
 		"comment": "A map\/world that players fight on",
-		"translation": "карта",
-		"machine": true
+		"translation": "Карта"
 	},
 	{
 		"phrase": "{0} Key",
 		"comment": "A key\/code\/sequence of characters that the user can type in to redeem Protons or other rewards. Parameter 0: 'Proton'",
-		"translation": "Ключ {0}",
-		"machine": true
+		"translation": "{0} ключ"
 	},
 	{
 		"phrase": "Stats",
 		"context": "Statistics",
 		"comment": "Abbreviation of statistics",
-		"translation": "Статистика",
-		"machine": true
+		"translation": "Статистика"
 	},
 	{
 		"phrase": "Edit",
 		"comment": "Edit the name of your loadout",
-		"translation": "Редактировать",
-		"machine": true
+		"translation": "Ред."
 	},
 	{
 		"phrase": "Rename",
 		"comment": "Rename your loadout",
-		"translation": "Переименовать",
-		"machine": true
+		"translation": "Переименовать"
 	},
 	{
 		"phrase": "Duplicate",
 		"comment": "Duplicate your loadout to make an exact copy",
-		"translation": "Дублировать",
-		"machine": true
+		"translation": "Дублировать"
 	},
 	{
 		"phrase": "Double click to delete",
 		"comment": "Double click this button to delete your preset",
-		"translation": "Дважды щелкните, чтобы удалить",
-		"machine": true
+		"translation": "Щелкните дважды, чтобы удалить"
 	},
 	{
 		"phrase": "Dynamic crosshair colour",
 		"comment": "The colour of the crosshair on weapon sights fades from green to red to reflect the Combat Shotgun choke",
-		"translation": "Динамический цвет прицела",
-		"machine": true
+		"translation": "Динамический цвет прицела"
 	},
 	{
 		"phrase": "This setting makes the crosshair colour match the green\/red choke indicator on the Combat Shotgun",
 		"comment": "Tooltip for the 'Dynamic crosshair colour' setting",
-		"translation": "Этот параметр заставляет цвет прицела соответствовать зелено-красному индикатору дроссельной заслонки на боевом дробовике.",
-		"machine": true
+		"translation": "Этот параметр заставляет цвет прицела соответствовать зелено-красному индикатору разброса на Combat Shotgun."
 	},
 	{
 		"phrase": "Graphics preset",
 		"comment": "A graphics preset is a selection of rendering settings designed to run on computers with either high, medium, low or toaster specs",
-		"translation": "Предустановка графики",
-		"machine": true
+		"translation": "Предустановка графики"
 	},
 	{
 		"phrase": "Bot count (team {0})",
@@ -7640,44 +7614,37 @@
 	{
 		"phrase": "Objective",
 		"comment": "The objective of the gamemode, e.g. contesting a zone or stealing a flag",
-		"translation": "Задача",
-		"machine": true
+		"translation": "Задача"
 	},
 	{
 		"phrase": "Instant respawn (Trailer Mode)",
 		"comment": "Instantly respawn in trailer mode",
-		"translation": "Мгновенное возрождение (режим трейлера))",
-		"machine": true
+		"translation": "Мгновенное возрождение (Режим Трейлера))"
 	},
 	{
 		"phrase": "Weather particle amount",
 		"comment": "This setting controls how many rain and snow particles are spawned",
-		"translation": "Количество погодных частиц",
-		"machine": true
+		"translation": "Количество погодных частиц"
 	},
 	{
 		"phrase": "This setting controls how many rain and snow particles are spawned",
 		"comment": "Description for the 'Weather Particle amount' setting",
-		"translation": "Этот параметр определяет количество создаваемых частиц дождя и снега.",
-		"machine": true
+		"translation": "Этот параметр определяет количество частиц дождя и снега."
 	},
 	{
 		"phrase": "No title",
 		"comment": "The player has no title equipped",
-		"translation": "Без заголовка",
-		"machine": true
+		"translation": "Нет титула"
 	},
 	{
 		"phrase": "Unlocked Titles",
 		"comment": "A list of titles that the player just unlocked by levellign up a weapon",
-		"translation": "Разблокированные титулы",
-		"machine": true
+		"translation": "Разблокированные Титулы"
 	},
 	{
 		"phrase": "Progression",
 		"comment": "A weapon or career progression, i.e. a player can 'progress' a weapon and earn titles by earning points with it",
-		"translation": "Прогресс",
-		"machine": true
+		"translation": "Прогресс"
 	},
 	{
 		"phrase": "Spawn position removed",
