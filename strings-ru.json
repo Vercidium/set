@@ -6783,14 +6783,12 @@
     {
         "phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
         "comment": "Parameter 0: 'MiDi', which is the name of the player's building/digging tool",
-        "translation": "Продемонстрируйте свой строительный опыт с инженером и его модификациями {0} для вторичного рынка..",
-        "machine": true
+        "translation": "Продемонстрируйте свой строительный опыт с Инженером и его контрабандными модификациями {0}."
     },
     {
         "phrase": "Hue Shift",
         "comment": "An offset applied to the hue component of a colour, e.g. 'hue shifted from red to yellow'",
-        "translation": "Сдвиг оттенка",
-        "machine": true
+        "translation": "Вариация оттенка"
     },
     {
         "phrase": "Bronze {0}",
@@ -7602,14 +7600,12 @@
 	{
 		"phrase": "Bot count (team {0})",
 		"comment": "The number of bots on team X. Parameter 0: 'A'",
-		"translation": "Количество ботов (команда {0})",
-		"machine": true
+		"translation": "Количество ботов (команда {0})"
 	},
 	{
 		"phrase": "The number of bots on team {0}",
 		"comment": "Bot count tooltip. Parameter 0: 'B'",
-		"translation": "Количество ботов в команде {0}",
-		"machine": true
+		"translation": "Количество ботов в команде {0}"
 	},
 	{
 		"phrase": "Objective",
@@ -7649,410 +7645,342 @@
 	{
 		"phrase": "Spawn position removed",
 		"comment": "This text appears when a player removes their custom respawn location, which they can only do when recording trailers",
-		"translation": "Позиция спавна удалена",
-		"machine": true
+		"translation": "Точка возрождения удалена"
 	},
 	{
 		"phrase": "All titles unlocked",
 		"comment": "The player has unlocked all titles for a weapon",
-		"translation": "Все титулы разблокированы",
-		"machine": true
+		"translation": "Все титулы разблокированы"
 	},
 	{
 		"phrase": "Next title",
 		"comment": "The next title you will unlock is called 'Legend'",
-		"translation": "Следующее название",
-		"machine": true
+		"translation": "Следующий титул"
 	},
 	{
 		"phrase": "Midi Certified",
 		"comment": "This is a title a player earns when reaching all Bronze times in the Trials, and shows the player is qualified to use their Midi tool",
-		"translation": "Сертифицированный миди",
-		"machine": true
+		"translation": "Сертификат Midi"
 	},
 	{
 		"phrase": "Maze Runner",
 		"comment": "This is a title that a player unlocks when reaching all Silver times in the Trials, and signifies they are decent at the Trials",
-		"translation": "Бегущий в лабиринте",
-		"machine": true
+		"translation": "Бегущий в лабиринте"
 	},
 	{
 		"phrase": "Trial Master",
 		"comment": "This is a title that a player unlocks when reaching all Gold times in the Trials, and signifies they are great at the Trials",
-		"translation": "Пробный мастер",
-		"machine": true
+		"translation": "Мастер испытаний"
 	},
 	{
 		"phrase": "Trial Hard",
 		"comment": "This is a title that a player unlocks when reaching all Platinum times in the Trials, and signifies they are the fastest Trial runners out there. This is a play on the phrase 'Try Hard'",
-		"translation": "Испытание трудно",
-		"machine": true
+		"translation": "Испытанный на прочность"
 	},
 	{
 		"phrase": "Developer",
 		"comment": "The developer of Sector's Edge",
-		"translation": "Разработчик",
-		"machine": true
+		"translation": "Разработчик"
 	},
 	{
 		"phrase": "Moderator",
 		"comment": "A community moderator",
-		"translation": "Модератор",
-		"machine": true
+		"translation": "Модератор"
 	},
 	{
 		"phrase": "Trailer Crew",
 		"comment": "This player was part of the crew who helped record the trailer",
-		"translation": "Экипаж трейлера",
-		"machine": true
+		"translation": "Съемочная Группа"
 	},
 	{
 		"phrase": "Alpha Tester",
 		"comment": "This player tested the alpha build of the game years ago",
-		"translation": "Альфа-тестер",
-		"machine": true
+		"translation": "Альфа-тестер"
 	},
 	{
 		"phrase": "{0} Ascender",
 		"comment": "A player who rises to the occasion. Parameter 0: 'Aegis'",
-		"translation": "Восходящий {0}",
-		"machine": true
+		"translation": "Вознесенный из {0}"
 	},
 	{
 		"phrase": "{0} Challenger",
 		"comment": "A player who challenges the best players. Parameter 0: 'Aegis'",
-		"translation": "{0} Челленджер",
-		"machine": true
+		"translation": "Челленджер из {0}"
 	},
 	{
 		"phrase": "Fatal",
 		"comment": "This player is fatal",
-		"translation": "Фатальный",
-		"machine": true
+		"translation": "Фатальный"
 	},
 	{
 		"phrase": "Deadly",
 		"comment": "This player is deadly",
-		"translation": "Смертельный",
-		"machine": true
+		"translation": "Смертельный"
 	},
 	{
 		"phrase": "Lethal",
 		"comment": "This player is lethal",
-		"translation": "Смертельный",
-		"machine": true
+		"translation": "Смертоносный"
 	},
 	{
 		"phrase": "Deadeye",
 		"comment": "This player is an accurate marksman",
-		"translation": "Меткий глаз",
-		"machine": true
+		"translation": "Меткий глаз"
 	},
 	{
 		"phrase": "Eliminator",
 		"comment": "This player has excellent accuracy",
-		"translation": "Элиминатор",
-		"machine": true
+		"translation": "Ликвидатор"
 	},
 	{
 		"phrase": "Obliterator",
 		"comment": "This player obliterates enemies",
-		"translation": "Облитератор",
-		"machine": true
+		"translation": "Уничтожитель"
 	},
 	{
 		"phrase": "Eradicator",
 		"comment": "This player eradicates all enemies",
-		"translation": "Искоренитель",
-		"machine": true
+		"translation": "Искоренитель"
 	},
 	{
 		"phrase": "Disintegrator",
 		"comment": "This player leaves no trace behind of enemies they destroy",
-		"translation": "Дезинтегратор",
-		"machine": true
+		"translation": "Дезинтегратор"
 	},
 	{
 		"phrase": "Deathbringer",
 		"comment": "This player wreaks death and havok",
-		"translation": "Несущий смерть",
-		"machine": true
+		"translation": "Несущий смерть"
 	},
 	{
 		"phrase": "Butcher",
 		"comment": "This player is a butcher",
-		"translation": "мясник",
-		"machine": true
+		"translation": "Мясник"
 	},
 	{
 		"phrase": "Warrior",
 		"comment": "This player is a warrior",
-		"translation": "Воин",
-		"machine": true
+		"translation": "Воин"
 	},
 	{
 		"phrase": "Slasher",
 		"comment": "This player is great with melee weapons",
-		"translation": "Слэшер",
-		"machine": true
+		"translation": "Слэшер"
 	},
 	{
 		"phrase": "Slayer",
 		"comment": "This player is great with melee weapons",
-		"translation": "Истребительница",
-		"machine": true
+		"translation": "Кромсатель"
 	},
 	{
 		"phrase": "Gladiator",
 		"comment": "This player is great with melee weapons",
-		"translation": "Гладиатор",
-		"machine": true
+		"translation": "Гладиатор"
 	},
 	{
 		"phrase": "Berserker",
 		"comment": "This player is great with melee weapons",
-		"translation": "Берсерк",
-		"machine": true
+		"translation": "Берсерк"
 	},
 	{
 		"phrase": "Assassin",
 		"comment": "This player is stealthy and great with melee weapons",
-		"translation": "Убийца",
-		"machine": true
+		"translation": "Ассасин"
 	},
 	{
 		"phrase": "Executioner",
 		"comment": "This player is a force to be reckoned with when using melee weapons",
-		"translation": "Палач",
-		"machine": true
+		"translation": "Палач"
 	},
 	{
 		"phrase": "Builder",
 		"comment": "This player likes building",
-		"translation": "Строитель",
-		"machine": true
+		"translation": "Строитель"
 	},
 	{
 		"phrase": "Tunneler",
 		"comment": "This player likes digging",
-		"translation": "проходчик",
-		"machine": true
+		"translation": "Проходчик"
 	},
 	{
 		"phrase": "Excavator",
 		"comment": "This player really likes digging",
-		"translation": "Экскаватор",
-		"machine": true
+		"translation": "Экскаватор"
 	},
 	{
 		"phrase": "Reinforcer",
 		"comment": "This player enjoys making strong bases",
-		"translation": "Усилитель",
-		"machine": true
+		"translation": "Укрепитель"
 	},
 	{
 		"phrase": "Demolisher",
 		"comment": "This player enjoys destroying buildings",
-		"translation": "Разрушитель",
-		"machine": true
+		"translation": "Разрушитель"
 	},
 	{
 		"phrase": "Fabricator",
 		"comment": "This player enjoys creating massive bases",
-		"translation": "Изготовитель",
-		"machine": true
+		"translation": "Фабрикатор"
 	},
 	{
 		"phrase": "Architect",
 		"comment": "This player is a master builder",
-		"translation": "Архитектор",
-		"machine": true
+		"translation": "Архитектор"
 	},
 	{
 		"phrase": "Raider",
 		"comment": "This player enjoys raiding the enemy base",
-		"translation": "Рейдер",
-		"machine": true
+		"translation": "Рейдер"
 	},
 	{
 		"phrase": "Thief",
 		"comment": "This player enjoys stealing enemy resources",
-		"translation": "Вор",
-		"machine": true
+		"translation": "Вор"
 	},
 	{
 		"phrase": "Sentry",
 		"comment": "This player watches for enemy movement",
-		"translation": "Часовой",
-		"machine": true
+		"translation": "Часовой"
 	},
 	{
 		"phrase": "Marauder",
 		"comment": "This player inflicts heavy damage inside enemy-controlled areas",
-		"translation": "Мародер",
-		"machine": true
+		"translation": "Мародер"
 	},
 	{
 		"phrase": "Invader",
 		"comment": "This player is skilled at entering enemy territory",
-		"translation": "Захватчик",
-		"machine": true
+		"translation": "Захватчик"
 	},
 	{
 		"phrase": "Protector",
 		"comment": "This player keeps enemies out of friendly-controlled areas",
-		"translation": "Защитник",
-		"machine": true
+		"translation": "Защитник"
 	},
 	{
 		"phrase": "Conqueror",
 		"comment": "This player is skilled at capturing enemy territory",
-		"translation": "Завоеватель",
-		"machine": true
+		"translation": "Завоеватель"
 	},
 	{
 		"phrase": "Uplifter",
 		"comment": "This player lifts up their teammates",
-		"translation": "Алифтер",
-		"machine": true
+		"translation": "Мастер боевого духа"
 	},
 	{
 		"phrase": "Watchman",
 		"comment": "This player spots enemies for teammates to eliminate",
-		"translation": "Сторож",
-		"machine": true
+		"translation": "Сторож"
 	},
 	{
 		"phrase": "Saviour",
 		"comment": "This player saves their teammates from danger",
-		"translation": "Спаситель",
-		"machine": true
+		"translation": "Спаситель"
 	},
 	{
 		"phrase": "Eagle Eye",
 		"comment": "This player can spot enemies from far away",
-		"translation": "Орлиный глаз",
-		"machine": true
+		"translation": "Соколиный глаз"
 	},
 	{
 		"phrase": "Punisher",
 		"comment": "This player swiftly avenges teammate's deaths",
-		"translation": "Каратель",
-		"machine": true
+		"translation": "Каратель"
 	},
 	{
 		"phrase": "Guardian",
 		"comment": "This player eliminates enemy threats to their team",
-		"translation": "Страж",
-		"machine": true
+		"translation": "Страж"
 	},
 	{
 		"phrase": "Vanquisher",
 		"comment": "This player eliminates enemy threats to their team",
-		"translation": "Покоритель",
-		"machine": true
+		"translation": "Покоритель"
 	},
 	{
 		"phrase": "Terminator",
 		"comment": "It can't be reasoned with. It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!",
-		"translation": "Терминатор",
-		"machine": true
+		"translation": "Терминатор"
 	},
 	{
 		"phrase": "{0} Content Creator",
 		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
-		"translation": "Создатель контента {0}",
-		"machine": true
+		"translation": "Контент-мейкер {0}"
 	},
 	{
 		"phrase": "Salvage Cup {0} Champion",
 		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
-		"translation": "Спасательный кубок Чемпион {0}",
-		"machine": true
+		"translation": "Чемпион Salvage Cup {0}"
 	},
 	{
 		"phrase": "Salvage Cup {0} Runner Up",
 		"comment": "The runner up team of a Salvage Cup tournament. Parameter 0: '2'",
-		"translation": "Спасательный кубок {0}, занявший второе место",
-		"machine": true
+		"translation": "Второе место на Salvage Cup {0}"
 	},
 	{
 		"phrase": "{0} Initiate",
 		"comment": "To be an initiate. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} Инициировать",
-		"machine": true
+		"translation": "{0} Начинающий"
 	},
 	{
 		"phrase": "{0} Proficient",
 		"comment": "To be proficient with a weapon. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} Опытный",
-		"machine": true
+		"translation": "{0} Опытный"
 	},
 	{
 		"phrase": "{0} Prodigy",
 		"comment": "An upcoming prodigy. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} вундеркинд",
-		"machine": true
+		"translation": "{0} Талант"
 	},
 	{
 		"phrase": "{0} Adept",
 		"comment": "To be adept with a weapon. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} Адепт",
-		"machine": true
+		"translation": "{0} Адепт"
 	},
 	{
 		"phrase": "{0} Ace",
 		"comment": "An ace\/star, to be really good at something. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} туз",
-		"machine": true
+		"translation": "{0} Звезда"
 	},
 	{
 		"phrase": "{0} Elite",
 		"comment": "An Elite Assault Rifle user. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} Элита",
-		"machine": true
+		"translation": "{0} Элита"
 	},
 	{
 		"phrase": "{0} Expert",
 		"comment": "To be an expert with a weapon. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} Эксперт",
-		"machine": true
+		"translation": "{0} Эксперт"
 	},
 	{
 		"phrase": "{0} Master",
 		"comment": "To be a master of a weapon. Parameter 0: 'Assault Rifle'",
-		"translation": "Мастер {0}",
-		"machine": true
+		"translation": "{0} Мастер"
 	},
 	{
 		"phrase": "{0} Legend",
 		"comment": "You're a legend! Parameter 0: 'Assault Rifle'",
-		"translation": "{0} Легенда",
-		"machine": true
+		"translation": "{0} Легенда"
 	},
 	{
 		"phrase": "{0} Paragon",
 		"comment": "The perfect example of something. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} Парагон",
-		"machine": true
+		"translation": "{0} Парагон"
 	},
 	{
 		"phrase": "{0} Incarnate",
 		"comment": "To become the weapon itself. Parameter 0: 'Assault Rifle'",
-		"translation": "{0} Воплощение",
-		"machine": true
+		"translation": "{0} Воплощение"
 	},
 	{
 		"phrase": "Feet",
 		"comment": "I will kick Fora with my feet",
-		"translation": "Ноги",
-		"machine": true
+		"translation": "Ноги"
 	},
 	{
 		"phrase": "Head",
 		"comment": "Fora has an ugly head",
-		"translation": "Глава",
-		"machine": true
+		"translation": "Голова"
 	},
 	{
 		"phrase": "Auto Crouch ({0})",
