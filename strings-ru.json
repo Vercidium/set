@@ -7975,7 +7975,7 @@
 	{
 		"phrase": "Feet",
 		"comment": "I will kick Fora with my feet",
-		"translation": "Ноги"
+		"translation": "Ног"
 	},
 	{
 		"phrase": "Head",
@@ -7985,68 +7985,57 @@
 	{
 		"phrase": "Auto Crouch ({0})",
 		"comment": "Automatically crouch if there's a block at your feet when walking through a tunnel. Parameter 0: 'foot' or 'head'",
-		"translation": "Автоматическое приседание ({0})",
-		"machine": true
+		"translation": "Автоматическое приседание ({0})"
 	},
 	{
 		"phrase": "Automatically crouch if there's a block at your {0} when walking through a tunnel",
 		"comment": "Description for the 'Auto crouch (foot)' keybind. Parameter 0: 'foot' or 'head'",
-		"translation": "Автоматически приседать, если на вашем {0} есть блок, когда вы идете по туннелю.",
-		"machine": true
+		"translation": "Когда вы пробираетесь по туннелю, персонаж будет автоматически приседать, если на пути его {0} есть блок."
 	},
 	{
 		"phrase": "Kills",
 		"comment": "2 kills",
-		"translation": "Убивает",
-		"machine": true
+		"translation": "Убийств"
 	},
 	{
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
-		"translation": "Жетоны персонажей можно использовать для разблокировки любого персонажа..",
-		"machine": true
+		"translation": "Жетоны персонажей можно использовать для разблокировки любого персонажа."
 	},
 	{
 		"phrase": "Double click to activate. This will override your current active boost",
 		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
-		"translation": "Дважды щелкните, чтобы активировать. это отменит ваше текущее активное усиление",
-		"machine": true
+		"translation": "Дважды щелкните, чтобы активировать. Это отменит ваш текущий активный буст"
 	},
 	{
 		"phrase": "No active boost",
 		"comment": "You do not have an active XP boost",
-		"translation": "Нет активного повышения",
-		"machine": true
+		"translation": "Нет активных бустов"
 	},
 	{
 		"phrase": "Hit feedback volume",
 		"comment": "Setting that controls how loud the hit feedback sound is when hitting another player",
-		"translation": "Громкость обратной связи",
-		"machine": true
+		"translation": "Громкость индикации попадания"
 	},
 	{
 		"phrase": "Hitmarker HUD",
 		"comment": "Setting that controls whether hitmerkers are visible on the HUD",
-		"translation": "Хитмаркер HUD",
-		"machine": true
+		"translation": "Хитмаркер HUD"
 	},
 	{
 		"phrase": "Focus region",
 		"comment": "The user can define a circle in the center of the screen called the 'focus region', which is where UI icons are more transparent",
-		"translation": "Регион фокусировки",
-		"machine": true
+		"translation": "Область фокусировки"
 	},
 	{
 		"phrase": "Peripheral region",
 		"comment": "The part of the screen thats outside the peripheral region",
-		"translation": "Периферийный регион",
-		"machine": true
+		"translation": "Периферийная область"
 	},
 	{
 		"phrase": "Fade region",
 		"comment": "The region on the screen between the Focus and Peripheral regions where icons fade from transparent to opaque",
-		"translation": "Область затухания",
-		"machine": true
+		"translation": "Область перехода"
 	},
 	{
 		"phrase": "Opaque icon distance",
