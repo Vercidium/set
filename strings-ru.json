@@ -8250,80 +8250,67 @@
 	{
 		"phrase": "The download timed out and was cancelled.",
 		"comment": "Loading message that indicates the server took too long to download the map from the Steam Workshop, and the download was cancelled. Parameter 0: \"Steam\"",
-		"translation": "Время загрузки истекло и было отменено.",
-		"machine": true
+		"translation": "Время загрузки истекло и загрузка была отменена."
 	},
 	{
 		"phrase": "Permission denied - could not download the map from the {0} Workshop...",
 		"comment": "Error message that indicates the server doesn't have permission to download the map from the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "Отказано в доступе - не удалось загрузить карту из мастерской {0}...",
-		"machine": true
+		"translation": "Отказано в доступе - не удалось загрузить карту из мастерской {0}..."
 	},
 	{
 		"phrase": "The map does not exist in the {0} Workshop...",
 		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "Карта не существует в мастерской {0}...",
-		"machine": true
+		"translation": "Карта не существует в мастерской {0}..."
 	},
 	{
 		"phrase": "Bot count set to {0}-{1}",
 		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
-		"translation": "Счетчик ботов установлен на {0}-{1}",
-		"machine": true
+		"translation": "Количество ботов установлено на {0}-{1}"
 	},
 	{
 		"phrase": "Increases jump height and reduces fall damage",
 		"comment": "Description for the Hydraulics armour mod",
-		"translation": "Увеличивает высоту прыжка и уменьшает урон от падения",
-		"machine": true
+		"translation": "Увеличивает высоту прыжка и уменьшает урон от падения"
 	},
 	{
 		"phrase": "Increases explosion knockback and reduces self-explosion damage",
 		"comment": "Description for the Kinetic armour mod",
-		"translation": "Увеличивает отбрасывание от взрыва и уменьшает урон от самовзрыва.",
-		"machine": true
+		"translation": "Увеличивает отбрасывание от взрыва и уменьшает урон от взрывов самому себе."
 	},
 	{
 		"phrase": "Increases the amount of ammo and health gained from ammo pickups",
 		"comment": "Description for the Scavenger armour mod",
-		"translation": "Увеличивает количество боеприпасов и здоровья, получаемых от подбора боеприпасов.",
-		"machine": true
+		"translation": "Увеличивает количество боеприпасов и здоровья, получаемых от подбора боеприпасов."
 	},
 	{
 		"phrase": "Increases melee speed and throw distance",
 		"comment": "Description for the Scavenger armour mod",
-		"translation": "Увеличивает скорость ближнего боя и дальность броска",
-		"machine": true
+		"translation": "Увеличивает скорость ближнего боя и дальность броска"
 	},
 	{
 		"phrase": "Reduces the volume of footsteps, building and digging",
 		"comment": "Description for the Stealth armour mod",
-		"translation": "Уменьшает громкость шагов, строительства и копания.",
-		"machine": true
+		"translation": "Уменьшает громкость шагов, строительства и копания."
 	},
 	{
 		"phrase": "SE {0}",
 		"comment": "Mod power, i.e. 'SE 2' means the player has the level 2 Servo armour modification equipped",
-		"translation": "ЮВ {0}",
-		"machine": true
+		"translation": "СЕ {0}"
 	},
 	{
 		"phrase": "Our backend servers are currently offline, but you can still join game servers and play online. Your stats will be recorded when our backend servers are back online.",
 		"comment": "Disclaimer when backend servers are down",
-		"translation": "Наши внутренние серверы в настоящее время отключены, но вы все еще можете присоединиться к игровым серверам и играть онлайн. ваша статистика будет записана, когда наши внутренние серверы снова будут онлайн.",
-		"machine": true
+		"translation": "Наши бэкенд сервера в настоящее время отключены, но вы все еще можете присоединиться к игровым серверам и играть онлайн. Ваша статистика снова будет собираться, когда наши внутренние серверы снова будут онлайн."
 	},
 	{
 		"phrase": "Surveillance enabled",
 		"comment": "This is a blue shell mechanic. Players on 5 killstreaks or higher will be revealed through walls",
-		"translation": "Наблюдение включено",
-		"machine": true
+		"translation": "Слежка включена"
 	},
 	{
 		"phrase": "Not enough {0} tokens - earn them through partnered stream events",
 		"comment": "This error shows if they attempt to unlock a character or weapon skin with a Skin Token, but they don't have any. Parameter 0 is either 'character' or 'skin'",
-		"translation": "Недостаточно токенов {0} — заработайте их на партнерских трансляциях",
-		"machine": true
+		"translation": "Недостаточно жетонов {0} — заработайте их на партнерских трансляциях"
 	},
 	{
 		"phrase": "Supply",
@@ -8358,8 +8345,7 @@
 	{
 		"phrase": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
 		"comment": "Description for the 'Force team colours' setting",
-		"translation": "Эта настройка доступности заставляет цвета камуфляжа игрока соответствовать цвету их команды, а не выбранному ими цвету.",
-		"machine": true
+		"translation": "Перекрашивает камуфляжи игроков в цвета их команд вне зависимости от персональных настроек."
 	},
 	{
 		"phrase": "Points HUD",
@@ -8369,14 +8355,12 @@
 	{
 		"phrase": "Coloured party outlines",
 		"comment": "Setting that controls whether the outlines around party members should be party coloured rather than team coloured",
-		"translation": "Цветные очертания вечеринки",
-		"machine": true
+		"translation": "Переопределить цвет очертаний членов отряда"
 	},
 	{
 		"phrase": "Controls whether the outlines around party members should be party coloured rather than team coloured",
 		"comment": "Description for the 'Party outline colour' setting",
-		"translation": "Определяет, должны ли контуры вокруг членов группы быть окрашены в цвет группы, а не команды.",
-		"machine": true
+		"translation": "Определяет, будут ли очертания членов отряда окрашены в цвет отряда, а не команды."
 	},
 	{
 		"phrase": "Enemy outlines",
