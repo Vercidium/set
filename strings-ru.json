@@ -8173,15 +8173,13 @@
 		"phrase": "Skin token",
 		"context": "Material token",
 		"comment": "1 Skin token, i.e. a token\/coin that can be used to unlock a weapon or character skin",
-		"translation": "Токен кожи",
-		"machine": true
+		"translation": "Жетон скина"
 	},
 	{
 		"phrase": "Skin tokens",
 		"context": "Material tokens",
 		"comment": "2Skin tokens",
-		"translation": "Жетоны скинов",
-		"machine": true
+		"translation": "Жетонов скинов"
 	},
 	{
 		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
@@ -8192,38 +8190,32 @@
 	{
 		"phrase": "Select a game mode to continue",
 		"comment": "The player must click on which game mode (Breakthrough, capture the flag, etc) they would like to play",
-		"translation": "Выберите режим игры, чтобы продолжить",
-		"machine": true
+		"translation": "Выберите режим игры, чтобы продолжить"
 	},
 	{
 		"phrase": "Skin tokens can be used to unlock weapon skin or character skin.",
 		"comment": "Skin token description",
-		"translation": "Жетоны скинов можно использовать для разблокировки скина оружия или скина персонажа..",
-		"machine": true
+		"translation": "Жетоны скинов можно использовать для разблокировки скинов оружия и персонажей."
 	},
 	{
 		"phrase": "Throw distance",
 		"comment": "How far the player can throw greandes",
-		"translation": "Расстояние выброса",
-		"machine": true
+		"translation": "Дальность броска"
 	},
 	{
 		"phrase": "New players take less damage",
 		"comment": "When Peacekeeper is enabled, new players take less damage",
-		"translation": "Новые игроки получают меньше урона",
-		"machine": true
+		"translation": "Новые игроки получают меньше урона"
 	},
 	{
 		"phrase": "Clear cache",
 		"comment": "Clear the cache and get all data again",
-		"translation": "Очистить кэш",
-		"machine": true
+		"translation": "Очистить кэш"
 	},
 	{
 		"phrase": "Refresh",
 		"comment": "Refresh the page",
-		"translation": "Обновить",
-		"machine": true
+		"translation": "Обновить"
 	},
 	{
 		"phrase": "Extracting",
@@ -8336,38 +8328,32 @@
 	{
 		"phrase": "Supply",
 		"comment": "To supply your teammate with ammunition",
-		"translation": "Поставлять",
-		"machine": true
+		"translation": "Снабжение"
 	},
 	{
 		"phrase": "Blade",
 		"comment": "A blade you can cut things with",
-		"translation": "Лезвие",
-		"machine": true
+		"translation": "Лезвие"
 	},
 	{
 		"phrase": "Off",
 		"comment": "Turn the light off",
-		"translation": "Выключенный",
-		"machine": true
+		"translation": "Выкл."
 	},
 	{
 		"phrase": "On",
 		"comment": "Turn the light on",
-		"translation": "На",
-		"machine": true
+		"translation": "Вкл."
 	},
 	{
 		"phrase": "Focus",
 		"comment": "The area around the center of the screen that the player focuses on, i.e. not the peripherals",
-		"translation": "Фокус",
-		"machine": true
+		"translation": "Фокус"
 	},
 	{
 		"phrase": "Force team colours",
 		"comment": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
-		"translation": "Цвета команды Force",
-		"machine": true
+		"translation": "Принудительные цвета команды"
 	},
 	{
 		"phrase": "This accessibility setting forces player camoflague colours to the colour of their team, rather than their selected colour",
@@ -8378,8 +8364,7 @@
 	{
 		"phrase": "Points HUD",
 		"comment": "Setting that controls whether the points HUD is visible",
-		"translation": "HUD для очков",
-		"machine": true
+		"translation": "Очки HUD"
 	},
 	{
 		"phrase": "Coloured party outlines",
@@ -8396,38 +8381,32 @@
 	{
 		"phrase": "Enemy outlines",
 		"comment": "Setting that controls whether coloured outlines should render around enemies",
-		"translation": "Очертания врага",
-		"machine": true
+		"translation": "Очертания противников"
 	},
 	{
 		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
 		"comment": "Description for the 'Enemy outlines' setting",
-		"translation": "Контролирует, должны ли контуры быть выключены, сфокусированы (появляются только при взгляде на врагов) или всегда включены.",
-		"machine": true
+		"translation": "Контролирует, будут ли очертания включены, выключены или появляться только при взгляде на врагов."
 	},
 	{
 		"phrase": "Friendly outlines",
 		"comment": "Setting that controls whether coloured outlines should render around friendlies",
-		"translation": "Дружественные очертания",
-		"machine": true
+		"translation": "Очертания союзников"
 	},
 	{
 		"phrase": "Controls whether outline should render around friendly players",
 		"comment": "Description for the 'Friendly outlines' setting",
-		"translation": "Определяет, должен ли контур отображаться вокруг дружественных игроков.",
-		"machine": true
+		"translation": "Определяет, будут ли отображаться очертания созников."
 	},
 	{
 		"phrase": "Fun",
 		"comment": "This game is fun",
-		"translation": "Весело",
-		"machine": true
+		"translation": "Веселье"
 	},
 	{
 		"phrase": "Outlines",
 		"comment": "Coloured outlines that render around players so you can tell which team they're on",
-		"translation": "Контуры",
-		"machine": true
+		"translation": "Очертания"
 	}
 ]
 
