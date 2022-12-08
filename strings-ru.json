@@ -8040,49 +8040,42 @@
 	{
 		"phrase": "Opaque icon distance",
 		"comment": "3D icons will be opaque when their distance to the player is less than this value",
-		"translation": "Расстояние до непрозрачного значка",
-		"machine": true
+		"translation": "Расстояние непрозрачных иконок"
 	},
 	{
 		"phrase": "Focus radius",
 		"comment": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
-		"translation": "Радиус фокусировки",
-		"machine": true
+		"translation": "Радиус фокуса"
 	},
 	{
 		"phrase": "Peripheral radius",
 		"comment": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
-		"translation": "Периферийный радиус",
-		"machine": true
+		"translation": "Радиус области периферии"
 	},
 	{
 		"phrase": "Focus icon opacity",
 		"comment": "This setting controls the opacity of icons within the focus region",
-		"translation": "Непрозрачность значка фокуса",
-		"machine": true
+		"translation": "Прозрачность иконок в фокусе"
 	},
 	{
 		"phrase": "Peripheral icon opacity",
 		"comment": "This setting controls the opacity of icons outside the focus region",
-		"translation": "Непрозрачность периферийного значка",
-		"machine": true
+		"translation": "Прозрачность иконок в области периферии"
 	},
 	{
 		"phrase": "ADS icon opacity",
 		"comment": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
-		"translation": "Непрозрачность значка рекламы",
-		"machine": true
+		"translation": "Прозрачность иконок при прицеливании"
 	},
 	{
 		"phrase": "3D icons will be opaque when their distance to the player is less than this value",
 		"comment": "Description for the 'Opaque icon distance' setting",
-		"translation": "3D-значки будут непрозрачными, если их расстояние до игрока меньше этого значения.",
-		"machine": true
+		"translation": "3D-иконки будут непрозрачными, если их расстояние до игрока меньше этого значения."
 	},
 	{
 		"phrase": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
 		"comment": "Description for the 'Focus radius' setting",
-		"translation": "Все трехмерные значки внутри этого круга в центре экрана называются «областью фокусировки». этот параметр управляет радиусом области фокусировки",
+		"translation": "Все 3D-иконки внутри этого круга в центре экрана называются «областью фокусировки». этот параметр управляет радиусом области фокусировки",
 		"machine": true
 	},
 	{
@@ -8112,20 +8105,17 @@
 	{
 		"phrase": "Show death icons",
 		"comment": "Setting that controls whether a death icon renders where a player died",
-		"translation": "Показать значки смерти",
-		"machine": true
+		"translation": "Показывать иконки смерти"
 	},
 	{
 		"phrase": "Colour",
 		"comment": "1 colour, i.e. red",
-		"translation": "Цвет",
-		"machine": true
+		"translation": "Цвет"
 	},
 	{
 		"phrase": "Colours",
 		"comment": "2 colours, i.e. red and black",
-		"translation": "Цвета",
-		"machine": true
+		"translation": "Цветов"
 	},
 	{
 		"phrase": "{0} boost active\n{1} {2} remaining",
@@ -8142,32 +8132,28 @@
 	{
 		"phrase": "The Pearl skin is unlocked in the Supporter Pack",
 		"comment": "This error shows if the player attempts to equip a Pearl skin without first purchasing the Supporter Pack",
-		"translation": "Жемчужный скин разблокируется в пакете поддержки.",
+		"translation": "Жемчужина разблокируется в пакете поддержки.",
 		"machine": true
 	},
 	{
 		"phrase": "Not enough {0} - earn them through gameplay or purchase them in the store",
 		"comment": "This error shows if they don't have enough Protons to unlock the character, skin or crosshair",
-		"translation": "Недостаточно {0} — заработайте их в игре или купите в магазине.",
-		"machine": true
+		"translation": "Недостаточно {0} — заработайте их в игре или купите в магазине."
 	},
 	{
 		"phrase": "Cancelled",
 		"comment": "The transaction was cancelled",
-		"translation": "Отменено",
-		"machine": true
+		"translation": "Отменено"
 	},
 	{
 		"phrase": "Unlocking",
 		"comment": "The weapon skin is being unlocked",
-		"translation": "Разблокировка",
-		"machine": true
+		"translation": "Разблокировка"
 	},
 	{
 		"phrase": "Error",
 		"comment": "There was an error unlocking the Human Elite character",
-		"translation": "Ошибка",
-		"machine": true
+		"translation": "Ошибка"
 	},
 	{
 		"phrase": "Skin token",
@@ -8184,8 +8170,7 @@
 	{
 		"phrase": "Each boost lasts for 1 hour of gameplay and will increase the amount of {0} and XP you earn by {1}.",
 		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Каждое усиление длится 1 час игры и увеличивает количество {0} и XP, которые вы зарабатываете, на {1}..",
-		"machine": true
+		"translation": "Каждое усиление длится 1 час игры и увеличивает количество {0} и XP, которые вы зарабатываете, в {1} раз."
 	},
 	{
 		"phrase": "Select a game mode to continue",
