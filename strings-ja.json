@@ -786,12 +786,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Camoflague",
-		"comment": "A camoflague pattern",
-		"translation": "カモフラーグ",
-		"machine": true
-	},
-	{
 		"phrase": "Metallic",
 		"comment": "A metallic weapon skin is shiny and reflective",
 		"translation": "メタリック",
@@ -2751,12 +2745,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Your party has joined a {0} match on {1}. Click here to join",
-		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'",
-		"translation": "あなたのパーティーは{1}の{0}マッチに参加しました。参加するにはここをクリックしてください",
-		"machine": true
-	},
-	{
 		"phrase": "Ammo",
 		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "弾薬",
@@ -3034,7 +3022,7 @@
 	},
 	{
 		"phrase": "Loadout list",
-		"comment": "A list of loadouts",
+		"comment": "Header text above a list of loadouts",
 		"translation": "ロードアウトリスト",
 		"machine": true
 	},
@@ -3561,12 +3549,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Return to battle [{0}]",
-		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
-		"translation": "戦闘に戻る[{0}]",
-		"machine": true
-	},
-	{
 		"phrase": "Unlock attachment",
 		"comment": "Click this button to unlock a weapon attachment",
 		"translation": "アタッチメントのロックを解除する",
@@ -3655,12 +3637,6 @@
 		"phrase": "ST {0}",
 		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Modifications - [{0}]",
-		"comment": "Armour modifications. Parameter 0: '3'",
-		"translation": "変更-[{0}]",
 		"machine": true
 	},
 	{
@@ -4280,12 +4256,6 @@
 		"phrase": "Enter your key below to redeem it for Protons, skins and more",
 		"comment": "Instruction text for redeeming keys",
 		"translation": "以下にキーを入力して、プロトン、スキンなどと交換します",
-		"machine": true
-	},
-	{
-		"phrase": "Your key has been successfully redeemed. You gained:",
-		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
-		"translation": "キーは正常に引き換えられました。あなたが得た:",
 		"machine": true
 	},
 	{
@@ -5778,42 +5748,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "This server will restart at the end of the round for maintenance",
-		"comment": "This message appears to let players know that the server will restart at the end of the round",
-		"translation": "このサーバーは、メンテナンスのためにラウンドの終了時に再起動します",
-		"machine": true
-	},
-	{
-		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will update at the end of the round. Parameter 0: 'Version 1.6'",
-		"translation": "このサーバーは、試合の終了時に{0}に更新されます。サーバーに再参加するには、Steamを介してクライアントを更新する必要があります",
-		"machine": true
-	},
-	{
-		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server will update\/patch\/upgrade at the end of the round",
-		"translation": "このサーバーは、このラウンドの終了時にすぐに再起動します。このサーバーにとどまることができ、クライアントを更新する必要はありません",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now restart for maintenance",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "このサーバーはメンテナンスのために再起動します",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will now update. Parameter 0: 'Version 1.6'",
-		"translation": "このサーバーは{0}に更新されます。サーバーに再参加するには、Steamを介してクライアントを更新する必要があります",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "このサーバーはすぐに再起動します。このサーバーにとどまることができ、クライアントを更新する必要はありません",
-		"machine": true
-	},
-	{
 		"phrase": "This map does not support the game mode {0}",
 		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "このマップはゲームモード{0}をサポートしていません",
@@ -6147,7 +6081,7 @@
 	},
 	{
 		"phrase": "Slot",
-		"comment": "1 Slot, i.e. an equipment slot",
+		"comment": "1 Slot, i.e. an equipment slot, or a reserved slot in the server for your party",
 		"translation": "スロット",
 		"machine": true
 	},
@@ -7554,12 +7488,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether Disruptors, C4, Scanners and Disruptors cast shadows",
-		"comment": "Description for the 'Entity block shadows' setting",
-		"translation": "ディスラプター、c4、スキャナー、ディスラプターが影を落とすかどうかを制御します",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether falling blocks cast shadows",
 		"comment": "Description for the 'Falling block shadows' setting",
 		"translation": "落下するブロックが影を落とすかどうかを制御します",
@@ -7960,7 +7888,7 @@
 	},
 	{
 		"phrase": "Player not found",
-		"comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+		"comment": "This error is shown if a player attempts to send an item to a friend, but the friend hasn't played Sector's Edge yet",
 		"translation": "プレイヤーが見つかりません",
 		"machine": true
 	},
@@ -8046,12 +7974,6 @@
 		"phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
 		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
 		"translation": "セクターのエッジが応答を停止しました。ゲームが頻繁にクラッシュする場合は、{0}の指示に従ってこの問題を修正してください。.",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now shut down for a system update. You do not need to update your client and can continue playing on another server.",
-		"comment": "This message appears to let players know that the server is going to shut down",
-		"translation": "このサーバーは、システム更新のためにシャットダウンします。クライアントを更新する必要はなく、別のサーバーでプレイを続けることができます.",
 		"machine": true
 	},
 	{
@@ -9467,12 +9389,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} Content Creator",
-		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
-		"translation": "{0} コンテンツクリエーター",
-		"machine": true
-	},
-	{
 		"phrase": "Salvage Cup {0} Champion",
 		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
 		"translation": "サルベージカップ {0} チャンピオン",
@@ -9584,12 +9500,6 @@
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
 		"translation": "キャラクタートークンを使用して、任意のキャラクターのロックを解除できます.",
-		"machine": true
-	},
-	{
-		"phrase": "Double click to activate. This will override your current active boost",
-		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
-		"translation": "ダブルクリックして有効にします。これは現在アクティブなブーストを上書きします",
 		"machine": true
 	},
 	{
@@ -9716,12 +9626,6 @@
 		"phrase": "Colours",
 		"comment": "2 colours, i.e. red and black",
 		"translation": "色",
-		"machine": true
-	},
-	{
-		"phrase": "{0} boost active\n{1} {2} remaining",
-		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
-		"translation": "{0}ブースト有効\n{1} {2} 残り",
 		"machine": true
 	},
 	{
@@ -9859,12 +9763,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "The map does not exist in the {0} Workshop...",
-		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "マップは {0} ワークショップに存在しません...",
-		"machine": true
-	},
-	{
 		"phrase": "Bot count set to {0}-{1}",
 		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
 		"translation": "ボット数を {0} ～ {1} に設定",
@@ -9991,21 +9889,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
-		"comment": "Description for the 'Enemy outlines' setting",
-		"translation": "アウトラインをオフにするか、フォーカスするか (敵を見ているときのみ表示)、または常にオンにするかを制御します",
-		"machine": true
-	},
-	{
 		"phrase": "Friendly outlines",
 		"comment": "Setting that controls whether coloured outlines should render around friendlies",
 		"translation": "フレンドリーなアウトライン",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outline should render around friendly players",
-		"comment": "Description for the 'Friendly outlines' setting",
-		"translation": "友好的なプレイヤーの周りにアウトラインをレンダリングするかどうかを制御します",
 		"machine": true
 	},
 	{
@@ -10082,7 +9968,7 @@
 	},
 	{
 		"phrase": "Old Version",
-		"comment": "This server is running an old version",
+		"comment": "This server is running an old version of the game",
 		"translation": "古いバージョン",
 		"machine": true
 	},
@@ -10148,13 +10034,13 @@
 	},
 	{
 		"phrase": "Flag",
-		"comment": "A flag with a symbol on it, flagpole",
+		"comment": "Capture the flag",
 		"translation": "国旗",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb",
-		"comment": "An explosive bomb. Jake's butt is da bomb",
+		"comment": "Plant the explosive bomb. Jake's butt is da bomb",
 		"translation": "爆弾",
 		"machine": true
 	},
@@ -10189,12 +10075,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Climb over the wall to enter the city. Equip the MiDi and click and drag to place a line of blocks.",
-		"comment": "Tutorial instructions",
-		"translation": "城壁を越えて街に入る。 miDi を装備し、クリック アンド ドラッグしてブロックの列を配置します.",
-		"machine": true
-	},
-	{
 		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
 		"comment": "Tutorial instructions",
 		"translation": "事前に構築された構造を配置することもできます。ラジアルを使用していずれかを選択するか、それらを切り替えます。続行するにはどこでも構造を構築する.",
@@ -10213,9 +10093,467 @@
 		"machine": true
 	},
 	{
-		"phrase": "You also have an Orberator and C4 in your current loadout, which are perfect for destroying large buildings. Press escape to complete the tutorial.",
+		"phrase": "Your GPU does not support {0}, which is required to run the game. Please update to the latest version of {1} and check for GPU driver updates. If this error still appears it is unlikely you will be able to run the game. More information is available at {2}",
+		"comment": "Startup error. Parameter 0: 'OpenGL 3.3'. Parameter 1: 'Windows'. Parameter 2: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "お使いの GPU は、ゲームの実行に必要な {0} をサポートしていません。 {1} の最新バージョンに更新し、GPU ドライバーの更新を確認してください。このエラーがまだ表示される場合は、ゲームを実行できない可能性があります。詳細については、{2} を参照してください。",
+		"machine": true
+	},
+	{
+		"phrase": "Out of bounds",
+		"comment": "A player is out of bounds when they run too far away from the objective",
+		"translation": "立入禁止で",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout statistics",
+		"comment": "Header text above the loadout's statistics, e.g. movement speed, player health, build distance",
+		"translation": "ロードアウト統計",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout contents",
+		"comment": "Header text above the UI panel that shows each weapon\/utility\/grenade\/perk equipped in the loadout",
+		"translation": "装備内容",
+		"machine": true
+	},
+	{
+		"phrase": "Select a weapon",
+		"comment": "Header text above the list of weapons, prompting the user to select one",
+		"translation": "武器を選択",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a weapon",
+		"comment": "Text prompting the user to click a loadout slot to equip a weapon",
+		"translation": "クリックして武器を装備",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a utility",
+		"comment": "Text prompting the user to click a loadout slot to equip a utility, e.g. C4, Disruptor, Scanner",
+		"translation": "クリックしてユーティリティを装備",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}",
+		"comment": "This text shows at the top of the screen after the player steals the enemy flag. Parameter 0: 'Flag' or 'Bomb'",
+		"translation": "あなたは{0}を運んでいます",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}. Press {1} to drop it",
+		"comment": "Instructions text that tells the player how to drop the enemy flag that they're holding. Parameter 0: 'V'",
+		"translation": "あなたは{0}を運んでいます。 {1}を押してドロップします",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '3h 14m' (i.e. 3 hours, 14 minutes)",
+		"translation": "{0}ブースト有効\n残り{1}",
+		"machine": true
+	},
+	{
+		"phrase": "Reserved",
+		"comment": "A slot in this server is reserved for a party member",
+		"translation": "予約済み",
+		"machine": true
+	},
+	{
+		"phrase": "Open log folder",
+		"comment": "Open the folder on your PC where log files are stored",
+		"translation": "ログフォルダを開く",
+		"machine": true
+	},
+	{
+		"phrase": "Drop flag\/bomb",
+		"comment": "Keybind that drops the flag\/bomb that the player is carrying",
+		"translation": "旗・爆弾を落とす",
+		"machine": true
+	},
+	{
+		"phrase": "Hazard",
+		"comment": "A yellow-and-black hazard themed block skin5",
+		"translation": "危険",
+		"machine": true
+	},
+	{
+		"phrase": "Camouflage",
+		"comment": "A camoflague pattern",
+		"translation": "迷彩",
+		"machine": true
+	},
+	{
+		"phrase": "Flip structure",
+		"comment": "Pressing this keybind will flip the structure vertically",
+		"translation": "フリップ構造",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Auto joining in {2} {3}. Click here to cancel",
+		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'. Parameter 2 is '9', parameter 3 is 'second' or 'seconds'",
+		"translation": "あなたのパーティーは {1} の {0} マッチに参加しました。 {2} {3} での自動参加。キャンセルするにはここをクリック",
+		"machine": true
+	},
+	{
+		"phrase": "This boost will increase the amount of {0} and XP you earn by {1}. Boost time is only used when in game.\n\nTime remaining: {2}\n\nClick to change the current boost",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "このブーストにより、{1} で獲得できる {0} と XP の量が増加します。ブースト時間はゲーム中にのみ使用されます.\n\n残り時間: {2}\n\nクリックして現在のブーストを変更します",
+		"machine": true
+	},
+	{
+		"phrase": "New Version",
+		"comment": "This server is running a new version of the game",
+		"translation": "新しいバージョン",
+		"machine": true
+	},
+	{
+		"phrase": "Purchased",
+		"comment": "This player has purchased a pack",
+		"translation": "購入した",
+		"machine": true
+	},
+	{
+		"phrase": "Our servers are offline, please try again later",
+		"comment": "This error is shown if a player attempts to buy a pack from the store but our backend servers are offline",
+		"translation": "サーバーがオフラインです。しばらくしてからもう一度お試しください",
+		"machine": true
+	},
+	{
+		"phrase": "Start",
+		"comment": "When you start scoping in",
+		"translation": "始める",
+		"machine": true
+	},
+	{
+		"phrase": "Gradual",
+		"comment": "Changing your sensitivity gradually as you scope in with a gun",
+		"translation": "徐々に",
+		"machine": true
+	},
+	{
+		"phrase": "End",
+		"comment": "When you finish scoping in",
+		"translation": "終わり",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to exit",
+		"comment": "Double click to close the game",
+		"translation": "ダブルクリックして終了",
+		"machine": true
+	},
+	{
+		"phrase": "North America",
+		"comment": "Server region category, representing USA and Canada",
+		"translation": "北米",
+		"machine": true
+	},
+	{
+		"phrase": "You gained:",
+		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. 'You gained: 10000 Protons'",
+		"translation": "あなたが得た:",
+		"machine": true
+	},
+	{
+		"phrase": "Not found",
+		"comment": "The file cannot be found",
+		"translation": "見つかりません",
+		"machine": true
+	},
+	{
+		"phrase": "Get back to the objective [{0}]",
+		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
+		"translation": "目標に戻る [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Gravity",
+		"comment": "How fast things fall",
+		"translation": "重力",
+		"machine": true
+	},
+	{
+		"phrase": "Player health",
+		"comment": "How much health\/hit points a player has, e.g. 100 health means they can take 100 damage before dying",
+		"translation": "プレイヤーの健康",
+		"machine": true
+	},
+	{
+		"phrase": "Max loadout power",
+		"context": "Maximum loadout power",
+		"comment": "Each weapon has a power value, and the total power of all weapons must not exceed the maximum loadout power of 15",
+		"translation": "最大ロードアウトパワー",
+		"machine": true
+	},
+	{
+		"phrase": "Damage per mag",
+		"context": "Damage per magazine",
+		"comment": "The total amount of damage a weapon can output with a single magazine\/clip",
+		"translation": "マガジンあたりのダメージ",
+		"machine": true
+	},
+	{
+		"phrase": "Click and drag to move around. Click in the green area to spawn",
+		"comment": "Instruction text telling the player to click in the green area to spawn\/respawn.",
+		"translation": "クリック アンド ドラッグして移動します。緑色の領域をクリックしてスポーンします",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout uses banned weapons - unequip the {0} to spawn",
+		"comment": "Info text that shows when a player attempts to spawn with a loadout that contains banned weapons. Parameter 0: 'Rail Gun, Combat Shotgun'",
+		"translation": "ロードアウトは禁止された武器を使用します - {0} を装備解除してスポーンします",
+		"machine": true
+	},
+	{
+		"phrase": "Return to loadout",
+		"comment": "Return to the loadout customisation screen",
+		"translation": "ロードアウトに戻る",
+		"machine": true
+	},
+	{
+		"phrase": "Mods [{0}]",
+		"comment": "Abbreviation for armour modifications. Parameter 0: '3'",
+		"translation": "モッズ [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Devices",
+		"comment": "This refers to audio input\/output devices",
+		"translation": "デバイス",
+		"machine": true
+	},
+	{
+		"phrase": "Proximity chat",
+		"comment": "Proximity voice chat lets you hear players talk when they are near by",
+		"translation": "近接チャット",
+		"machine": true
+	},
+	{
+		"phrase": "Performance",
+		"comment": "This refers to how fast\/optimised the game is",
+		"translation": "パフォーマンス",
+		"machine": true
+	},
+	{
+		"phrase": "Audio sample rate",
+		"comment": "Setting that controls whether the game outputs sound at 48KHz, 96KHz or 192KHz",
+		"translation": "オーディオ サンプル レート",
+		"machine": true
+	},
+	{
+		"phrase": "Log all keyboard input",
+		"comment": "Setting that logs all keyboard input to a file",
+		"translation": "すべてのキーボード入力をログに記録する",
+		"machine": true
+	},
+	{
+		"phrase": "Used for diagnosing input lag issues",
+		"comment": "Description for the 'Log all keyboard input' setting",
+		"translation": "入力遅延の問題を診断するために使用されます",
+		"machine": true
+	},
+	{
+		"phrase": "Use crosshair when ADS",
+		"comment": "Setting that controls whether your crosshair UI remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "ADS 時にクロスヘアを使用する",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your crosshair UI remains visible when scoping",
+		"comment": "Controls whether the player's UI crosshair remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "スコーピング時に十字線 UI を表示したままにするかどうかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "Scope sensitivity start",
+		"comment": "[Setting] Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"translation": "スコープ感度開始",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"comment": "Tooltip for the Scope Sensitivity Start setting",
+		"translation": "スコープの感度を、スコープを開始するときに適用するか、スコープを拡大するにつれて徐々に適用するか、完全にスコープしたときにのみ適用するかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "Screen",
+		"comment": "Screen settings like window resolution, max frames per second, vertical sync (VSync)",
+		"translation": "画面",
+		"machine": true
+	},
+	{
+		"phrase": "Post Processing",
+		"comment": "Effects applied once the game is rendered, such as lighting, ambient occlusion, bloom, crepuscular rays",
+		"translation": "後処理",
+		"machine": true
+	},
+	{
+		"phrase": "Shadows",
+		"comment": "Dark areas that light can't reach",
+		"translation": "影",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether entities (e.g. Disruptors and Scanners) cast shadows",
+		"comment": "Description for the 'Entity block shadows' setting",
+		"translation": "エンティティ (ディスラプターやスキャナーなど) が影を落とすかどうかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at {0}), or always on",
+		"comment": "Description for the 'Enemy outlines' setting. Parameter 0: either 'enemies' or 'friendlies'",
+		"translation": "アウトラインをオフにするか、フォーカスする ({0} を見ているときのみ表示される) か、または常にオンにするかを制御します",
+		"machine": true
+	},
+	{
+		"phrase": "This server will restart for maintenance at the end of the match. You can continue playing on another server",
+		"comment": "Chat message that lets players know the server will shut down at the end of the match",
+		"translation": "このサーバーは、試合終了後にメンテナンスのために再起動します。別のサーバーで引き続きプレイできます",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now restart for maintenance. You can continue playing on another server.",
+		"comment": "Chat message that lets players know the server is shutting down",
+		"translation": "このサーバーはメンテナンスのために再起動します。別のサーバーで引き続きプレイできます.",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "マップは {0} ワークショップに存在しません",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to reserve slots for your party as the server is full",
+		"comment": "Error message that tells the party leader that that slots could not be reserved for their party",
+		"translation": "サーバーがいっぱいのため、パーティーのスロットを予約できません",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will update to a new version when the match finishes. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "このサーバーは、試合の最後に {0} に更新されます。サーバーに再参加するには、{1} を介してクライアントを更新する必要があります",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now update to {0}. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will now update to a new version. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "このサーバーは {0} に更新されます。サーバーに再参加するには、{1} を介してクライアントを更新する必要があります",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} reserved for your party. They will expire in {2} {3}",
+		"comment": "Notification that a slot(s) in the server have been reserved for your party. Parameter 0: '3', parameter 1: 'slot' or 'slots', parameter 2: '1', parameter 3: 'minute'",
+		"translation": "{0} {1} はあなたのパーティーのために予約されています。 {2} {3} で有効期限が切れます",
+		"machine": true
+	},
+	{
+		"phrase": "{0} reserved {1} were not claimed by your party and have expired",
+		"comment": "Notification that a slot(s) you reserved for your party have expired. Parameter 0: '3', parameter 1: 'slot' or 'slots'",
+		"translation": "{0} 予約済み {1} はあなたのパーティーによって要求されておらず、有効期限が切れています",
+		"machine": true
+	},
+	{
+		"phrase": "Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc.",
+		"translation": "コンテンツクリエータ",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prototype",
+		"comment": "Refers to an early version of a robot that was not yet completed. It is unstable and dangerous. Parameter 0: 'Nova'",
+		"translation": "{0} プロトタイプ",
+		"machine": true
+	},
+	{
+		"phrase": "Earned {0} {1} trial medals",
+		"comment": "Description of how a player earned the 'Midi Certified' title. Paramter 0: '9'. Paramter 1: 'bronze'",
+		"translation": "{0} {1} トライアル メダルを獲得した",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} accuracy title, earned from headshot and direct points",
+		"comment": "Description of how a player earned the 'Fatal' accuracy title. Paramter 0: '1'",
+		"translation": "レベル {0} 精度の称号、ヘッドショットとダイレクト ポイントで獲得",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} melee title, earned by stabbing enemies",
+		"comment": "Description of how a player earned the 'Butcher' accuracy title. Paramter 0: '1'",
+		"translation": "レベル {0} 近接称号、敵を刺して獲得",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} building title, earned by fortifying objectives and dealing damage with the digger",
+		"comment": "Description of how a player earned the 'Reinforcer' building title. Paramter 0: '1'",
+		"translation": "目標を強化し、ディガーでダメージを与えることで獲得できるレベル {0} 建物の称号",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} objective title, earned by capturing objectives",
+		"comment": "Description of how a player earned the 'Raider' objective title. Paramter 0: '1'",
+		"translation": "レベル {0} オブジェクティブ タイトル、オブジェクティブをキャプチャすることで獲得",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} teamplay title, earned from spot assists and avenging or saving teammates",
+		"comment": "Description of how a player earned the 'Uplifter' teamplay title. Paramter 0: '1'",
+		"translation": "レベル {0} チームプレイ タイトル。スポット アシストとチームメイトの復讐または救援から獲得",
+		"machine": true
+	},
+	{
+		"phrase": "Helped record a trailer",
+		"comment": "Description for the 'Trailer Crew' title",
+		"translation": "予告編の録音を手伝った",
+		"machine": true
+	},
+	{
+		"phrase": "Played {0} before it was released on Steam",
+		"comment": "Description for the 'Alpha Tester' title. Parameter 0: 'Sector's Edge'",
+		"translation": "Steamでリリースされる前に{0}をプレイした",
+		"machine": true
+	},
+	{
+		"phrase": "Helped test {0} on the beta branch",
+		"comment": "Description for the 'Beta Tester' title. The beta branch is a private branch (e.g. a code branch on GitHub) on Steam where players can play experimental builds of the game. Parameter 0: 'Sector's Edge'",
+		"translation": "ベータ版ブランチで {0} のテストを支援",
+		"machine": true
+	},
+	{
+		"phrase": "Bought the Supporter or Engineer pack",
+		"comment": "Description for the 'Supporter' title",
+		"translation": "サポーターまたはエンジニアパックを購入した",
+		"machine": true
+	},
+	{
+		"phrase": "Open Beta Launch Week sale - ",
+		"comment": "Launch week sale, all store packs are 50% off",
+		"translation": "オープン ベータ ローンチ ウィーク セール - ",
+		"machine": true
+	},
+	{
+		"phrase": "all packs are {0} off!",
+		"comment": "All packs 50% off for the launch week sale",
+		"translation": "すべてのパックは {0} オフです!",
+		"machine": true
+	},
+	{
+		"phrase": "Before you destroy everything in sight, let's show you how to play. Run over to the designated area at the top of the beach.",
 		"comment": "Tutorial instructions",
-		"translation": "また、現在のロードアウトにはオーベレーターと c4 があり、大きな建物を破壊するのに最適です。エスケープを押してチュートリアルを完了します.",
+		"translation": "目の前のすべてを破壊する前に、遊び方をお見せしましょう。浜辺の指定された場所に駆け寄る.",
+		"machine": true
+	},
+	{
+		"phrase": "Climb over the wall to enter the city. Equip the {0} and click and drag to place a line of blocks.",
+		"comment": "Tutorial instructions. Parameter 0: 'MiDi', which is a tool the player can use to build and place blocks",
+		"translation": "城壁を越えて街に入る。 {0} を装備し、クリック アンド ドラッグしてブロックの列を配置します.",
+		"machine": true
+	},
+	{
+		"phrase": "You also have an {0} and {1} in your current loadout, which are perfect for destroying large buildings. Press the escape key to complete the tutorial.",
+		"comment": "Tutorial instructions",
+		"translation": "また、現在のロードアウトには {0} と {1} があり、大きな建物を破壊するのに最適です。エスケープキーを押してチュートリアルを完了してください.",
 		"machine": true
 	}
 ]

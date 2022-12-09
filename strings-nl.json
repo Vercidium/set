@@ -786,12 +786,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Camoflague",
-		"comment": "A camoflague pattern",
-		"translation": "Camoflague",
-		"machine": true
-	},
-	{
 		"phrase": "Metallic",
 		"comment": "A metallic weapon skin is shiny and reflective",
 		"translation": "Metalen",
@@ -2751,12 +2745,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Your party has joined a {0} match on {1}. Click here to join",
-		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'",
-		"translation": "Uw partij heeft deelgenomen aan een {0}-wedstrijd op {1}. Klik hier om deel te nemen",
-		"machine": true
-	},
-	{
 		"phrase": "Ammo",
 		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "munitie",
@@ -3034,7 +3022,7 @@
 	},
 	{
 		"phrase": "Loadout list",
-		"comment": "A list of loadouts",
+		"comment": "Header text above a list of loadouts",
 		"translation": "Uitrustingslijst",
 		"machine": true
 	},
@@ -3561,12 +3549,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Return to battle [{0}]",
-		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
-		"translation": "Keer terug naar de strijd [{0}]",
-		"machine": true
-	},
-	{
 		"phrase": "Unlock attachment",
 		"comment": "Click this button to unlock a weapon attachment",
 		"translation": "Bijlage ontgrendelen",
@@ -3655,12 +3637,6 @@
 		"phrase": "ST {0}",
 		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Modifications - [{0}]",
-		"comment": "Armour modifications. Parameter 0: '3'",
-		"translation": "Wijzigingen - [{0}]",
 		"machine": true
 	},
 	{
@@ -4280,12 +4256,6 @@
 		"phrase": "Enter your key below to redeem it for Protons, skins and more",
 		"comment": "Instruction text for redeeming keys",
 		"translation": "Voer hieronder uw sleutel in om deze in te wisselen voor protonen, skins en meer",
-		"machine": true
-	},
-	{
-		"phrase": "Your key has been successfully redeemed. You gained:",
-		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
-		"translation": "Uw sleutel is succesvol ingewisseld. jij hebt gewonnen:",
 		"machine": true
 	},
 	{
@@ -5778,42 +5748,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "This server will restart at the end of the round for maintenance",
-		"comment": "This message appears to let players know that the server will restart at the end of the round",
-		"translation": "Deze server zal aan het einde van de ronde opnieuw opstarten voor onderhoud",
-		"machine": true
-	},
-	{
-		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will update at the end of the round. Parameter 0: 'Version 1.6'",
-		"translation": "Deze server wordt aan het einde van de wedstrijd geüpdatet naar {0}. je MOET je client updaten via steam om weer lid te worden van servers",
-		"machine": true
-	},
-	{
-		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server will update\/patch\/upgrade at the end of the round",
-		"translation": "Deze server zal aan het einde van deze ronde snel opnieuw opstarten. je kunt op deze server blijven en je hoeft je client NIET bij te werken",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now restart for maintenance",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Deze server zal nu herstarten voor onderhoud",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will now update. Parameter 0: 'Version 1.6'",
-		"translation": "Deze server zal nu updaten naar {0}. je MOET je client updaten via steam om weer lid te worden van servers",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Deze server zal nu snel opnieuw opstarten. je kunt op deze server blijven en je hoeft je client NIET bij te werken",
-		"machine": true
-	},
-	{
 		"phrase": "This map does not support the game mode {0}",
 		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Deze kaart ondersteunt de spelmodus {0}. niet",
@@ -6147,7 +6081,7 @@
 	},
 	{
 		"phrase": "Slot",
-		"comment": "1 Slot, i.e. an equipment slot",
+		"comment": "1 Slot, i.e. an equipment slot, or a reserved slot in the server for your party",
 		"translation": "Sleuf",
 		"machine": true
 	},
@@ -7554,12 +7488,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether Disruptors, C4, Scanners and Disruptors cast shadows",
-		"comment": "Description for the 'Entity block shadows' setting",
-		"translation": "Bepaalt of disruptors, c4, scanners en disruptors schaduwen werpen",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether falling blocks cast shadows",
 		"comment": "Description for the 'Falling block shadows' setting",
 		"translation": "Bepaalt of vallende blokken schaduwen werpen",
@@ -7960,7 +7888,7 @@
 	},
 	{
 		"phrase": "Player not found",
-		"comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+		"comment": "This error is shown if a player attempts to send an item to a friend, but the friend hasn't played Sector's Edge yet",
 		"translation": "Speler niet gevonden",
 		"machine": true
 	},
@@ -8046,12 +7974,6 @@
 		"phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
 		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
 		"translation": "Sector's edge reageert niet meer. als het spel vaak crasht, volg dan de instructies bij {0} voor hulp bij het oplossen van dit probleem.",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now shut down for a system update. You do not need to update your client and can continue playing on another server.",
-		"comment": "This message appears to let players know that the server is going to shut down",
-		"translation": "Deze server wordt nu afgesloten voor een systeemupdate. je hoeft je client niet bij te werken en kunt doorgaan met spelen op een andere server.",
 		"machine": true
 	},
 	{
@@ -9467,12 +9389,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} Content Creator",
-		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
-		"translation": "{0} Content Creator",
-		"machine": true
-	},
-	{
 		"phrase": "Salvage Cup {0} Champion",
 		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
 		"translation": "Bergingsbeker {0} kampioen",
@@ -9584,12 +9500,6 @@
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
 		"translation": "Karaktertokens kunnen worden gebruikt om elk karakter te ontgrendelen.",
-		"machine": true
-	},
-	{
-		"phrase": "Double click to activate. This will override your current active boost",
-		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
-		"translation": "Dubbelklik om te activeren. dit overschrijft je huidige actieve boost",
 		"machine": true
 	},
 	{
@@ -9716,12 +9626,6 @@
 		"phrase": "Colours",
 		"comment": "2 colours, i.e. red and black",
 		"translation": "Kleuren",
-		"machine": true
-	},
-	{
-		"phrase": "{0} boost active\n{1} {2} remaining",
-		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
-		"translation": "{0}-boost actief\n{1} {2} resterend",
 		"machine": true
 	},
 	{
@@ -9859,12 +9763,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "The map does not exist in the {0} Workshop...",
-		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "De kaart bestaat niet in de {0} werkplaats...",
-		"machine": true
-	},
-	{
 		"phrase": "Bot count set to {0}-{1}",
 		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
 		"translation": "Aantal bots ingesteld op {0}-{1}",
@@ -9991,21 +9889,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
-		"comment": "Description for the 'Enemy outlines' setting",
-		"translation": "Bepaalt of contouren uit moeten zijn, gefocust (alleen verschijnen als je naar vijanden kijkt) of altijd aan",
-		"machine": true
-	},
-	{
 		"phrase": "Friendly outlines",
 		"comment": "Setting that controls whether coloured outlines should render around friendlies",
 		"translation": "Vriendelijke contouren",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outline should render around friendly players",
-		"comment": "Description for the 'Friendly outlines' setting",
-		"translation": "Bepaalt of omtrek moet worden weergegeven rond vriendelijke spelers",
 		"machine": true
 	},
 	{
@@ -10082,7 +9968,7 @@
 	},
 	{
 		"phrase": "Old Version",
-		"comment": "This server is running an old version",
+		"comment": "This server is running an old version of the game",
 		"translation": "Oude versie",
 		"machine": true
 	},
@@ -10148,13 +10034,13 @@
 	},
 	{
 		"phrase": "Flag",
-		"comment": "A flag with a symbol on it, flagpole",
+		"comment": "Capture the flag",
 		"translation": "Vlag",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb",
-		"comment": "An explosive bomb. Jake's butt is da bomb",
+		"comment": "Plant the explosive bomb. Jake's butt is da bomb",
 		"translation": "Bom",
 		"machine": true
 	},
@@ -10189,12 +10075,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Climb over the wall to enter the city. Equip the MiDi and click and drag to place a line of blocks.",
-		"comment": "Tutorial instructions",
-		"translation": "Klim over de muur om de stad binnen te gaan. rust de miDi uit en klik en sleep om een rij blokken te plaatsen.",
-		"machine": true
-	},
-	{
 		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
 		"comment": "Tutorial instructions",
 		"translation": "U kunt ook kant-en-klare constructies plaatsen. selecteer er een met behulp van de radiaal of schakel ertussen. overal een structuur bouwen om door te gaan.",
@@ -10213,9 +10093,467 @@
 		"machine": true
 	},
 	{
-		"phrase": "You also have an Orberator and C4 in your current loadout, which are perfect for destroying large buildings. Press escape to complete the tutorial.",
+		"phrase": "Your GPU does not support {0}, which is required to run the game. Please update to the latest version of {1} and check for GPU driver updates. If this error still appears it is unlikely you will be able to run the game. More information is available at {2}",
+		"comment": "Startup error. Parameter 0: 'OpenGL 3.3'. Parameter 1: 'Windows'. Parameter 2: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Je GPU biedt geen ondersteuning voor {0}, wat nodig is om de game uit te voeren. update naar de nieuwste versie van {1} en controleer op GPU-stuurprogramma-updates. als deze fout nog steeds verschijnt, is het onwaarschijnlijk dat je het spel kunt uitvoeren. meer informatie is te vinden op {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Out of bounds",
+		"comment": "A player is out of bounds when they run too far away from the objective",
+		"translation": "Buiten de perken",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout statistics",
+		"comment": "Header text above the loadout's statistics, e.g. movement speed, player health, build distance",
+		"translation": "Uitrustingsstatistieken",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout contents",
+		"comment": "Header text above the UI panel that shows each weapon\/utility\/grenade\/perk equipped in the loadout",
+		"translation": "Inhoud uitladen",
+		"machine": true
+	},
+	{
+		"phrase": "Select a weapon",
+		"comment": "Header text above the list of weapons, prompting the user to select one",
+		"translation": "Selecteer een wapen",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a weapon",
+		"comment": "Text prompting the user to click a loadout slot to equip a weapon",
+		"translation": "Klik om een wapen uit te rusten",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a utility",
+		"comment": "Text prompting the user to click a loadout slot to equip a utility, e.g. C4, Disruptor, Scanner",
+		"translation": "Klik om een hulpprogramma uit te rusten",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}",
+		"comment": "This text shows at the top of the screen after the player steals the enemy flag. Parameter 0: 'Flag' or 'Bomb'",
+		"translation": "U draagt de {0}",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}. Press {1} to drop it",
+		"comment": "Instructions text that tells the player how to drop the enemy flag that they're holding. Parameter 0: 'V'",
+		"translation": "U draagt de {0}. druk op {1} om het te laten vallen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '3h 14m' (i.e. 3 hours, 14 minutes)",
+		"translation": "{0} boost actief\n{1} over",
+		"machine": true
+	},
+	{
+		"phrase": "Reserved",
+		"comment": "A slot in this server is reserved for a party member",
+		"translation": "Gereserveerd",
+		"machine": true
+	},
+	{
+		"phrase": "Open log folder",
+		"comment": "Open the folder on your PC where log files are stored",
+		"translation": "Logmap openen",
+		"machine": true
+	},
+	{
+		"phrase": "Drop flag\/bomb",
+		"comment": "Keybind that drops the flag\/bomb that the player is carrying",
+		"translation": "Vlag\/bom laten vallen",
+		"machine": true
+	},
+	{
+		"phrase": "Hazard",
+		"comment": "A yellow-and-black hazard themed block skin5",
+		"translation": "Gevaar",
+		"machine": true
+	},
+	{
+		"phrase": "Camouflage",
+		"comment": "A camoflague pattern",
+		"translation": "Camouflage",
+		"machine": true
+	},
+	{
+		"phrase": "Flip structure",
+		"comment": "Pressing this keybind will flip the structure vertically",
+		"translation": "Flip structuur",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Auto joining in {2} {3}. Click here to cancel",
+		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'. Parameter 2 is '9', parameter 3 is 'second' or 'seconds'",
+		"translation": "Jouw gezelschap doet mee aan een {0}-wedstrijd op {1}. automatisch meedoen in {2} {3}. klik hier om te annuleren",
+		"machine": true
+	},
+	{
+		"phrase": "This boost will increase the amount of {0} and XP you earn by {1}. Boost time is only used when in game.\n\nTime remaining: {2}\n\nClick to change the current boost",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Deze boost verhoogt het aantal {0} en XP dat je verdient met {1}. boost-tijd wordt alleen gebruikt in het spel.\n\nResterende tijd: {2}\n\nKlik om de huidige boost te wijzigen",
+		"machine": true
+	},
+	{
+		"phrase": "New Version",
+		"comment": "This server is running a new version of the game",
+		"translation": "Nieuwe versie",
+		"machine": true
+	},
+	{
+		"phrase": "Purchased",
+		"comment": "This player has purchased a pack",
+		"translation": "Gekocht",
+		"machine": true
+	},
+	{
+		"phrase": "Our servers are offline, please try again later",
+		"comment": "This error is shown if a player attempts to buy a pack from the store but our backend servers are offline",
+		"translation": "Onze servers zijn offline, probeer het later opnieuw",
+		"machine": true
+	},
+	{
+		"phrase": "Start",
+		"comment": "When you start scoping in",
+		"translation": "Begin",
+		"machine": true
+	},
+	{
+		"phrase": "Gradual",
+		"comment": "Changing your sensitivity gradually as you scope in with a gun",
+		"translation": "Geleidelijk",
+		"machine": true
+	},
+	{
+		"phrase": "End",
+		"comment": "When you finish scoping in",
+		"translation": "Einde",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to exit",
+		"comment": "Double click to close the game",
+		"translation": "Dubbelklik om af te sluiten",
+		"machine": true
+	},
+	{
+		"phrase": "North America",
+		"comment": "Server region category, representing USA and Canada",
+		"translation": "Noord Amerika",
+		"machine": true
+	},
+	{
+		"phrase": "You gained:",
+		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. 'You gained: 10000 Protons'",
+		"translation": "Jij hebt gewonnen:",
+		"machine": true
+	},
+	{
+		"phrase": "Not found",
+		"comment": "The file cannot be found",
+		"translation": "Niet gevonden",
+		"machine": true
+	},
+	{
+		"phrase": "Get back to the objective [{0}]",
+		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
+		"translation": "Ga terug naar het doel [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Gravity",
+		"comment": "How fast things fall",
+		"translation": "Zwaartekracht",
+		"machine": true
+	},
+	{
+		"phrase": "Player health",
+		"comment": "How much health\/hit points a player has, e.g. 100 health means they can take 100 damage before dying",
+		"translation": "Gezondheid van de speler",
+		"machine": true
+	},
+	{
+		"phrase": "Max loadout power",
+		"context": "Maximum loadout power",
+		"comment": "Each weapon has a power value, and the total power of all weapons must not exceed the maximum loadout power of 15",
+		"translation": "Maximaal uitschakelvermogen",
+		"machine": true
+	},
+	{
+		"phrase": "Damage per mag",
+		"context": "Damage per magazine",
+		"comment": "The total amount of damage a weapon can output with a single magazine\/clip",
+		"translation": "Schade per mag",
+		"machine": true
+	},
+	{
+		"phrase": "Click and drag to move around. Click in the green area to spawn",
+		"comment": "Instruction text telling the player to click in the green area to spawn\/respawn.",
+		"translation": "Klik en sleep om te bewegen. klik in het groene gebied om te spawnen",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout uses banned weapons - unequip the {0} to spawn",
+		"comment": "Info text that shows when a player attempts to spawn with a loadout that contains banned weapons. Parameter 0: 'Rail Gun, Combat Shotgun'",
+		"translation": "Loadout gebruikt verboden wapens - rust de {0} uit om te spawnen",
+		"machine": true
+	},
+	{
+		"phrase": "Return to loadout",
+		"comment": "Return to the loadout customisation screen",
+		"translation": "Keer terug naar de uitrusting",
+		"machine": true
+	},
+	{
+		"phrase": "Mods [{0}]",
+		"comment": "Abbreviation for armour modifications. Parameter 0: '3'",
+		"translation": "Mods [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Devices",
+		"comment": "This refers to audio input\/output devices",
+		"translation": "Apparaten",
+		"machine": true
+	},
+	{
+		"phrase": "Proximity chat",
+		"comment": "Proximity voice chat lets you hear players talk when they are near by",
+		"translation": "Nabijheid chatten",
+		"machine": true
+	},
+	{
+		"phrase": "Performance",
+		"comment": "This refers to how fast\/optimised the game is",
+		"translation": "Prestatie",
+		"machine": true
+	},
+	{
+		"phrase": "Audio sample rate",
+		"comment": "Setting that controls whether the game outputs sound at 48KHz, 96KHz or 192KHz",
+		"translation": "Audio-samplefrequentie",
+		"machine": true
+	},
+	{
+		"phrase": "Log all keyboard input",
+		"comment": "Setting that logs all keyboard input to a file",
+		"translation": "Registreer alle toetsenbordinvoer",
+		"machine": true
+	},
+	{
+		"phrase": "Used for diagnosing input lag issues",
+		"comment": "Description for the 'Log all keyboard input' setting",
+		"translation": "Wordt gebruikt voor het diagnosticeren van problemen met invoervertraging",
+		"machine": true
+	},
+	{
+		"phrase": "Use crosshair when ADS",
+		"comment": "Setting that controls whether your crosshair UI remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "Gebruik dradenkruis wanneer ADS",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your crosshair UI remains visible when scoping",
+		"comment": "Controls whether the player's UI crosshair remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "Bepaalt of uw dradenkruis-UI zichtbaar blijft tijdens het bereik",
+		"machine": true
+	},
+	{
+		"phrase": "Scope sensitivity start",
+		"comment": "[Setting] Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"translation": "Scope gevoeligheid start",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"comment": "Tooltip for the Scope Sensitivity Start setting",
+		"translation": "Bepaalt of uw bereikgevoeligheid wordt toegepast wanneer u begint met het bereik, geleidelijk naarmate u binnen bereik komt, of alleen wanneer het bereik volledig is",
+		"machine": true
+	},
+	{
+		"phrase": "Screen",
+		"comment": "Screen settings like window resolution, max frames per second, vertical sync (VSync)",
+		"translation": "Scherm",
+		"machine": true
+	},
+	{
+		"phrase": "Post Processing",
+		"comment": "Effects applied once the game is rendered, such as lighting, ambient occlusion, bloom, crepuscular rays",
+		"translation": "Nabewerking",
+		"machine": true
+	},
+	{
+		"phrase": "Shadows",
+		"comment": "Dark areas that light can't reach",
+		"translation": "Schaduwen",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether entities (e.g. Disruptors and Scanners) cast shadows",
+		"comment": "Description for the 'Entity block shadows' setting",
+		"translation": "Bepaalt of entiteiten (bijv. disruptors en scanners) schaduwen werpen",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at {0}), or always on",
+		"comment": "Description for the 'Enemy outlines' setting. Parameter 0: either 'enemies' or 'friendlies'",
+		"translation": "Hiermee bepaalt u of contouren uit, gefocust (verschijnen alleen als u naar {0} kijkt) of altijd aan moeten zijn",
+		"machine": true
+	},
+	{
+		"phrase": "This server will restart for maintenance at the end of the match. You can continue playing on another server",
+		"comment": "Chat message that lets players know the server will shut down at the end of the match",
+		"translation": "Deze server wordt aan het einde van de wedstrijd opnieuw opgestart voor onderhoud. je kunt verder spelen op een andere server",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now restart for maintenance. You can continue playing on another server.",
+		"comment": "Chat message that lets players know the server is shutting down",
+		"translation": "Deze server wordt nu opnieuw opgestart voor onderhoud. je kunt verder spelen op een andere server.",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "De kaart bestaat niet in de {0} werkplaats",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to reserve slots for your party as the server is full",
+		"comment": "Error message that tells the party leader that that slots could not be reserved for their party",
+		"translation": "Kan geen slots reserveren voor uw groep omdat de server vol is",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will update to a new version when the match finishes. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "Deze server wordt aan het einde van de wedstrijd geüpdatet naar {0}. je MOET je client updaten via {1} om weer lid te worden van de servers",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now update to {0}. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will now update to a new version. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "Deze server zal nu updaten naar {0}. je MOET je client updaten via {1} om weer lid te worden van de servers",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} reserved for your party. They will expire in {2} {3}",
+		"comment": "Notification that a slot(s) in the server have been reserved for your party. Parameter 0: '3', parameter 1: 'slot' or 'slots', parameter 2: '1', parameter 3: 'minute'",
+		"translation": "{0} {1} gereserveerd voor uw feest. Ze vervallen in {2} {3}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} reserved {1} were not claimed by your party and have expired",
+		"comment": "Notification that a slot(s) you reserved for your party have expired. Parameter 0: '3', parameter 1: 'slot' or 'slots'",
+		"translation": "{0} gereserveerd {1} zijn niet opgeëist door uw partij en zijn verlopen",
+		"machine": true
+	},
+	{
+		"phrase": "Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc.",
+		"translation": "Content maker",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prototype",
+		"comment": "Refers to an early version of a robot that was not yet completed. It is unstable and dangerous. Parameter 0: 'Nova'",
+		"translation": "{0}-prototype",
+		"machine": true
+	},
+	{
+		"phrase": "Earned {0} {1} trial medals",
+		"comment": "Description of how a player earned the 'Midi Certified' title. Paramter 0: '9'. Paramter 1: 'bronze'",
+		"translation": "{0} {1} proefmedailles verdiend",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} accuracy title, earned from headshot and direct points",
+		"comment": "Description of how a player earned the 'Fatal' accuracy title. Paramter 0: '1'",
+		"translation": "Niveau {0} nauwkeurigheidstitel, verdiend met headshot en directe punten",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} melee title, earned by stabbing enemies",
+		"comment": "Description of how a player earned the 'Butcher' accuracy title. Paramter 0: '1'",
+		"translation": "Level {0} melee-titel, verdiend door vijanden neer te steken",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} building title, earned by fortifying objectives and dealing damage with the digger",
+		"comment": "Description of how a player earned the 'Reinforcer' building title. Paramter 0: '1'",
+		"translation": "Level {0} bouwtitel, verdiend door doelen te versterken en schade aan te richten met de graafmachine",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} objective title, earned by capturing objectives",
+		"comment": "Description of how a player earned the 'Raider' objective title. Paramter 0: '1'",
+		"translation": "Level {0} objectieve titel, verdiend door het vastleggen van doelstellingen",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} teamplay title, earned from spot assists and avenging or saving teammates",
+		"comment": "Description of how a player earned the 'Uplifter' teamplay title. Paramter 0: '1'",
+		"translation": "Level {0} teamplay-titel, verdiend met spot assists en het wreken of redden van teamgenoten",
+		"machine": true
+	},
+	{
+		"phrase": "Helped record a trailer",
+		"comment": "Description for the 'Trailer Crew' title",
+		"translation": "Hielp bij het opnemen van een trailer",
+		"machine": true
+	},
+	{
+		"phrase": "Played {0} before it was released on Steam",
+		"comment": "Description for the 'Alpha Tester' title. Parameter 0: 'Sector's Edge'",
+		"translation": "{0} gespeeld voordat het op stoom werd uitgebracht",
+		"machine": true
+	},
+	{
+		"phrase": "Helped test {0} on the beta branch",
+		"comment": "Description for the 'Beta Tester' title. The beta branch is a private branch (e.g. a code branch on GitHub) on Steam where players can play experimental builds of the game. Parameter 0: 'Sector's Edge'",
+		"translation": "Hielp bij het testen van {0} op de bètatak",
+		"machine": true
+	},
+	{
+		"phrase": "Bought the Supporter or Engineer pack",
+		"comment": "Description for the 'Supporter' title",
+		"translation": "Kocht het supporter- of ingenieurspakket",
+		"machine": true
+	},
+	{
+		"phrase": "Open Beta Launch Week sale - ",
+		"comment": "Launch week sale, all store packs are 50% off",
+		"translation": "Open bèta-lanceringsweekuitverkoop - ",
+		"machine": true
+	},
+	{
+		"phrase": "all packs are {0} off!",
+		"comment": "All packs 50% off for the launch week sale",
+		"translation": "alle packs zijn {0} korting!",
+		"machine": true
+	},
+	{
+		"phrase": "Before you destroy everything in sight, let's show you how to play. Run over to the designated area at the top of the beach.",
 		"comment": "Tutorial instructions",
-		"translation": "Je hebt ook een orberator en c4 in je huidige uitrusting, die perfect zijn voor het vernietigen van grote gebouwen. druk op escape om de tutorial te voltooien.",
+		"translation": "Voordat je alles in zicht vernietigt, laten we je laten zien hoe je moet spelen. ren naar het aangewezen gebied bovenaan het strand.",
+		"machine": true
+	},
+	{
+		"phrase": "Climb over the wall to enter the city. Equip the {0} and click and drag to place a line of blocks.",
+		"comment": "Tutorial instructions. Parameter 0: 'MiDi', which is a tool the player can use to build and place blocks",
+		"translation": "Klim over de muur om de stad binnen te gaan. rust de {0} uit en klik en sleep om een rij blokken te plaatsen.",
+		"machine": true
+	},
+	{
+		"phrase": "You also have an {0} and {1} in your current loadout, which are perfect for destroying large buildings. Press the escape key to complete the tutorial.",
+		"comment": "Tutorial instructions",
+		"translation": "Je hebt ook een {0} en {1} in je huidige uitrusting, die perfect zijn voor het vernietigen van grote gebouwen. druk op de escape-toets om de zelfstudie te voltooien.",
 		"machine": true
 	}
 ]

@@ -684,12 +684,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Camoflague",
-		"comment": "A camoflague pattern",
-		"translation": "Naamiointi",
-		"machine": true
-	},
-	{
 		"phrase": "Metallic",
 		"comment": "A metallic weapon skin is shiny and reflective",
 		"translation": "Metallinen"
@@ -2450,12 +2444,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Your party has joined a {0} match on {1}. Click here to join",
-		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'",
-		"translation": "Seurueesi on liittynyt {0}-otteluun {1}:llä. klikkaa tästä liittyäksesi",
-		"machine": true
-	},
-	{
 		"phrase": "Ammo",
 		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "Ammus",
@@ -2733,7 +2721,7 @@
 	},
 	{
 		"phrase": "Loadout list",
-		"comment": "A list of loadouts",
+		"comment": "Header text above a list of loadouts",
 		"translation": "Latauslista",
 		"machine": true
 	},
@@ -3260,12 +3248,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Return to battle [{0}]",
-		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
-		"translation": "Paluu taisteluun [{0}]",
-		"machine": true
-	},
-	{
 		"phrase": "Unlock attachment",
 		"comment": "Click this button to unlock a weapon attachment",
 		"translation": "Avaa liitteen lukitus",
@@ -3354,12 +3336,6 @@
 		"phrase": "ST {0}",
 		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Modifications - [{0}]",
-		"comment": "Armour modifications. Parameter 0: '3'",
-		"translation": "Muutokset - [{0}]",
 		"machine": true
 	},
 	{
@@ -3979,12 +3955,6 @@
 		"phrase": "Enter your key below to redeem it for Protons, skins and more",
 		"comment": "Instruction text for redeeming keys",
 		"translation": "Anna avaimesi alle lunastaaksesi sen protoneille, skineille ja muille",
-		"machine": true
-	},
-	{
-		"phrase": "Your key has been successfully redeemed. You gained:",
-		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
-		"translation": "Avaimesi on lunastettu onnistuneesti. sinä voitit:",
 		"machine": true
 	},
 	{
@@ -5477,42 +5447,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "This server will restart at the end of the round for maintenance",
-		"comment": "This message appears to let players know that the server will restart at the end of the round",
-		"translation": "Tämä palvelin käynnistyy uudelleen kierroksen lopussa huoltoa varten",
-		"machine": true
-	},
-	{
-		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will update at the end of the round. Parameter 0: 'Version 1.6'",
-		"translation": "Tämä palvelin päivittyy {0}:ksi ottelun lopussa. sinun TÄYTYY päivittää asiakkaasi Steamin kautta liittyäksesi uudelleen palvelimiin",
-		"machine": true
-	},
-	{
-		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server will update\/patch\/upgrade at the end of the round",
-		"translation": "Tämä palvelin käynnistyy nopeasti uudelleen tämän kierroksen lopussa. voit jäädä tälle palvelimelle, eikä sinun tarvitse päivittää asiakasohjelmaasi",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now restart for maintenance",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Tämä palvelin käynnistyy nyt uudelleen huoltoa varten",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will now update. Parameter 0: 'Version 1.6'",
-		"translation": "Tämä palvelin päivitetään nyt {0}:ksi. sinun TÄYTYY päivittää asiakkaasi Steamin kautta liittyäksesi uudelleen palvelimiin",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Tämä palvelin käynnistyy nyt nopeasti uudelleen. voit jäädä tälle palvelimelle, eikä sinun tarvitse päivittää asiakasohjelmaasi",
-		"machine": true
-	},
-	{
 		"phrase": "This map does not support the game mode {0}",
 		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Tämä kartta ei tue pelitilaa {0}",
@@ -5846,7 +5780,7 @@
 	},
 	{
 		"phrase": "Slot",
-		"comment": "1 Slot, i.e. an equipment slot",
+		"comment": "1 Slot, i.e. an equipment slot, or a reserved slot in the server for your party",
 		"translation": "Aukko",
 		"machine": true
 	},
@@ -7253,12 +7187,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether Disruptors, C4, Scanners and Disruptors cast shadows",
-		"comment": "Description for the 'Entity block shadows' setting",
-		"translation": "Hallitsee, luovatko häiritsijät, c4, skannerit ja häiritsijät varjoja",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether falling blocks cast shadows",
 		"comment": "Description for the 'Falling block shadows' setting",
 		"translation": "Ohjaa, luovatko putoavat palikat varjoja",
@@ -7659,7 +7587,7 @@
 	},
 	{
 		"phrase": "Player not found",
-		"comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+		"comment": "This error is shown if a player attempts to send an item to a friend, but the friend hasn't played Sector's Edge yet",
 		"translation": "Pelaajaa ei löytynyt",
 		"machine": true
 	},
@@ -7745,12 +7673,6 @@
 		"phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
 		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
 		"translation": "Sektorin reuna on lakannut vastaamasta. Jos peli kaatuu usein, seuraa {0}:n ohjeita saadaksesi apua tämän ongelman korjaamiseen.",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now shut down for a system update. You do not need to update your client and can continue playing on another server.",
-		"comment": "This message appears to let players know that the server is going to shut down",
-		"translation": "Tämä palvelin suljetaan nyt järjestelmäpäivityksen vuoksi. sinun ei tarvitse päivittää asiakasohjelmaasi ja voit jatkaa pelaamista toisella palvelimella.",
 		"machine": true
 	},
 	{
@@ -9166,12 +9088,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} Content Creator",
-		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
-		"translation": "{0} sisällöntuottaja",
-		"machine": true
-	},
-	{
 		"phrase": "Salvage Cup {0} Champion",
 		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
 		"translation": "Salvage cup {0} mestari",
@@ -9283,12 +9199,6 @@
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
 		"translation": "Hahmomerkkejä voidaan käyttää minkä tahansa hahmon lukituksen avaamiseen.",
-		"machine": true
-	},
-	{
-		"phrase": "Double click to activate. This will override your current active boost",
-		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
-		"translation": "Aktivoi kaksoisnapsauttamalla. tämä ohittaa nykyisen aktiivisen tehostuksen",
 		"machine": true
 	},
 	{
@@ -9415,12 +9325,6 @@
 		"phrase": "Colours",
 		"comment": "2 colours, i.e. red and black",
 		"translation": "värit",
-		"machine": true
-	},
-	{
-		"phrase": "{0} boost active\n{1} {2} remaining",
-		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
-		"translation": "{0}-tehostus aktiivinen\n{1} {2} jäljellä",
 		"machine": true
 	},
 	{
@@ -9558,12 +9462,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "The map does not exist in the {0} Workshop...",
-		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "Karttaa ei ole olemassa {0}-pajassa...",
-		"machine": true
-	},
-	{
 		"phrase": "Bot count set to {0}-{1}",
 		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
 		"translation": "Bottien määräksi on asetettu {0}-{1}",
@@ -9690,21 +9588,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
-		"comment": "Description for the 'Enemy outlines' setting",
-		"translation": "Määrittää, pitäisikö ääriviivojen olla pois päältä, tarkennettuina (näkyy vain vihollisia katsottaessa) vai aina päällä",
-		"machine": true
-	},
-	{
 		"phrase": "Friendly outlines",
 		"comment": "Setting that controls whether coloured outlines should render around friendlies",
 		"translation": "Ystävälliset ääriviivat",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outline should render around friendly players",
-		"comment": "Description for the 'Friendly outlines' setting",
-		"translation": "Määrittää, tuleeko ääriviivat näkyä ystävällisten pelaajien ympärillä",
 		"machine": true
 	},
 	{
@@ -9781,7 +9667,7 @@
 	},
 	{
 		"phrase": "Old Version",
-		"comment": "This server is running an old version",
+		"comment": "This server is running an old version of the game",
 		"translation": "Vanha versio",
 		"machine": true
 	},
@@ -9847,13 +9733,13 @@
 	},
 	{
 		"phrase": "Flag",
-		"comment": "A flag with a symbol on it, flagpole",
+		"comment": "Capture the flag",
 		"translation": "Lippu",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb",
-		"comment": "An explosive bomb. Jake's butt is da bomb",
+		"comment": "Plant the explosive bomb. Jake's butt is da bomb",
 		"translation": "Pommi",
 		"machine": true
 	},
@@ -9888,12 +9774,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Climb over the wall to enter the city. Equip the MiDi and click and drag to place a line of blocks.",
-		"comment": "Tutorial instructions",
-		"translation": "Kiipeä muurin yli päästäksesi kaupunkiin. varusta miDi ja aseta lohkorivi napsauttamalla ja vetämällä.",
-		"machine": true
-	},
-	{
 		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
 		"comment": "Tutorial instructions",
 		"translation": "Voit myös sijoittaa valmiita rakenteita. valitse yksi käyttämällä radiaalia tai vaihda niiden välillä. rakentaa rakenne minne tahansa jatkaaksesi.",
@@ -9912,9 +9792,467 @@
 		"machine": true
 	},
 	{
-		"phrase": "You also have an Orberator and C4 in your current loadout, which are perfect for destroying large buildings. Press escape to complete the tutorial.",
+		"phrase": "Your GPU does not support {0}, which is required to run the game. Please update to the latest version of {1} and check for GPU driver updates. If this error still appears it is unlikely you will be able to run the game. More information is available at {2}",
+		"comment": "Startup error. Parameter 0: 'OpenGL 3.3'. Parameter 1: 'Windows'. Parameter 2: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Grafiikkasuorittimesi ei tue {0}:ta, jota tarvitaan pelin suorittamiseen. päivitä {1}:n uusimpaan versioon ja tarkista GPU-ohjainpäivitykset. Jos tämä virhe ilmenee edelleen, on epätodennäköistä, että pystyt ajamaan peliä. lisätietoja on saatavilla osoitteessa {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Out of bounds",
+		"comment": "A player is out of bounds when they run too far away from the objective",
+		"translation": "Rajojen ulkopuolella",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout statistics",
+		"comment": "Header text above the loadout's statistics, e.g. movement speed, player health, build distance",
+		"translation": "Lataustilastot",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout contents",
+		"comment": "Header text above the UI panel that shows each weapon\/utility\/grenade\/perk equipped in the loadout",
+		"translation": "Lataa sisältö",
+		"machine": true
+	},
+	{
+		"phrase": "Select a weapon",
+		"comment": "Header text above the list of weapons, prompting the user to select one",
+		"translation": "Valitse ase",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a weapon",
+		"comment": "Text prompting the user to click a loadout slot to equip a weapon",
+		"translation": "Napsauta varustaaksesi aseen",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a utility",
+		"comment": "Text prompting the user to click a loadout slot to equip a utility, e.g. C4, Disruptor, Scanner",
+		"translation": "Napsauta asentaaksesi apuohjelman",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}",
+		"comment": "This text shows at the top of the screen after the player steals the enemy flag. Parameter 0: 'Flag' or 'Bomb'",
+		"translation": "Sinulla on {0}",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}. Press {1} to drop it",
+		"comment": "Instructions text that tells the player how to drop the enemy flag that they're holding. Parameter 0: 'V'",
+		"translation": "Sinulla on {0}. pudota se painamalla {1}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '3h 14m' (i.e. 3 hours, 14 minutes)",
+		"translation": "{0}-tehostus aktiivinen\n{1} jäljellä",
+		"machine": true
+	},
+	{
+		"phrase": "Reserved",
+		"comment": "A slot in this server is reserved for a party member",
+		"translation": "Varattu",
+		"machine": true
+	},
+	{
+		"phrase": "Open log folder",
+		"comment": "Open the folder on your PC where log files are stored",
+		"translation": "Avaa lokikansio",
+		"machine": true
+	},
+	{
+		"phrase": "Drop flag\/bomb",
+		"comment": "Keybind that drops the flag\/bomb that the player is carrying",
+		"translation": "Pudota lippu\/pommi",
+		"machine": true
+	},
+	{
+		"phrase": "Hazard",
+		"comment": "A yellow-and-black hazard themed block skin5",
+		"translation": "Vaara",
+		"machine": true
+	},
+	{
+		"phrase": "Camouflage",
+		"comment": "A camoflague pattern",
+		"translation": "Naamiointi",
+		"machine": true
+	},
+	{
+		"phrase": "Flip structure",
+		"comment": "Pressing this keybind will flip the structure vertically",
+		"translation": "Kääntörakenne",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Auto joining in {2} {3}. Click here to cancel",
+		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'. Parameter 2 is '9', parameter 3 is 'second' or 'seconds'",
+		"translation": "Seurueesi on liittynyt {0}-otteluun {1}:llä. automaattinen liittyminen {2}:een {3}. klikkaa tästä peruuttaaksesi",
+		"machine": true
+	},
+	{
+		"phrase": "This boost will increase the amount of {0} and XP you earn by {1}. Boost time is only used when in game.\n\nTime remaining: {2}\n\nClick to change the current boost",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Tämä lisäys lisää {0}:n ja XP:n määrää {1}:llä. tehostusaikaa käytetään vain pelissä.\n\nJäljellä oleva aika: {2}\n\nNapsauta muuttaaksesi nykyistä tehostetta",
+		"machine": true
+	},
+	{
+		"phrase": "New Version",
+		"comment": "This server is running a new version of the game",
+		"translation": "Uusi versio",
+		"machine": true
+	},
+	{
+		"phrase": "Purchased",
+		"comment": "This player has purchased a pack",
+		"translation": "Osti",
+		"machine": true
+	},
+	{
+		"phrase": "Our servers are offline, please try again later",
+		"comment": "This error is shown if a player attempts to buy a pack from the store but our backend servers are offline",
+		"translation": "Palvelimemme ovat offline-tilassa, yritä myöhemmin uudelleen",
+		"machine": true
+	},
+	{
+		"phrase": "Start",
+		"comment": "When you start scoping in",
+		"translation": "alkaa",
+		"machine": true
+	},
+	{
+		"phrase": "Gradual",
+		"comment": "Changing your sensitivity gradually as you scope in with a gun",
+		"translation": "Asteittainen",
+		"machine": true
+	},
+	{
+		"phrase": "End",
+		"comment": "When you finish scoping in",
+		"translation": "Loppu",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to exit",
+		"comment": "Double click to close the game",
+		"translation": "Poistu kaksoisnapsauttamalla",
+		"machine": true
+	},
+	{
+		"phrase": "North America",
+		"comment": "Server region category, representing USA and Canada",
+		"translation": "Pohjois-Amerikka",
+		"machine": true
+	},
+	{
+		"phrase": "You gained:",
+		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. 'You gained: 10000 Protons'",
+		"translation": "Sinä voitit:",
+		"machine": true
+	},
+	{
+		"phrase": "Not found",
+		"comment": "The file cannot be found",
+		"translation": "Ei löydetty",
+		"machine": true
+	},
+	{
+		"phrase": "Get back to the objective [{0}]",
+		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
+		"translation": "Palaa tavoitteeseen [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Gravity",
+		"comment": "How fast things fall",
+		"translation": "Painovoima",
+		"machine": true
+	},
+	{
+		"phrase": "Player health",
+		"comment": "How much health\/hit points a player has, e.g. 100 health means they can take 100 damage before dying",
+		"translation": "Pelaajan terveys",
+		"machine": true
+	},
+	{
+		"phrase": "Max loadout power",
+		"context": "Maximum loadout power",
+		"comment": "Each weapon has a power value, and the total power of all weapons must not exceed the maximum loadout power of 15",
+		"translation": "Suurin latausteho",
+		"machine": true
+	},
+	{
+		"phrase": "Damage per mag",
+		"context": "Damage per magazine",
+		"comment": "The total amount of damage a weapon can output with a single magazine\/clip",
+		"translation": "Vahinko per mag",
+		"machine": true
+	},
+	{
+		"phrase": "Click and drag to move around. Click in the green area to spawn",
+		"comment": "Instruction text telling the player to click in the green area to spawn\/respawn.",
+		"translation": "Napsauta ja vedä liikkuaksesi. napsauta vihreää aluetta kutemaan",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout uses banned weapons - unequip the {0} to spawn",
+		"comment": "Info text that shows when a player attempts to spawn with a loadout that contains banned weapons. Parameter 0: 'Rail Gun, Combat Shotgun'",
+		"translation": "Loadout käyttää kiellettyjä aseita - vapauta {0} syntyäksesi",
+		"machine": true
+	},
+	{
+		"phrase": "Return to loadout",
+		"comment": "Return to the loadout customisation screen",
+		"translation": "Palaa lataussivulle",
+		"machine": true
+	},
+	{
+		"phrase": "Mods [{0}]",
+		"comment": "Abbreviation for armour modifications. Parameter 0: '3'",
+		"translation": "Modit [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Devices",
+		"comment": "This refers to audio input\/output devices",
+		"translation": "Laitteet",
+		"machine": true
+	},
+	{
+		"phrase": "Proximity chat",
+		"comment": "Proximity voice chat lets you hear players talk when they are near by",
+		"translation": "Läheisyys chat",
+		"machine": true
+	},
+	{
+		"phrase": "Performance",
+		"comment": "This refers to how fast\/optimised the game is",
+		"translation": "Esitys",
+		"machine": true
+	},
+	{
+		"phrase": "Audio sample rate",
+		"comment": "Setting that controls whether the game outputs sound at 48KHz, 96KHz or 192KHz",
+		"translation": "Äänen näytteenottotaajuus",
+		"machine": true
+	},
+	{
+		"phrase": "Log all keyboard input",
+		"comment": "Setting that logs all keyboard input to a file",
+		"translation": "Kirjaa kaikki näppäimistösyötteet",
+		"machine": true
+	},
+	{
+		"phrase": "Used for diagnosing input lag issues",
+		"comment": "Description for the 'Log all keyboard input' setting",
+		"translation": "Käytetään syötteen viiveongelmien diagnosointiin",
+		"machine": true
+	},
+	{
+		"phrase": "Use crosshair when ADS",
+		"comment": "Setting that controls whether your crosshair UI remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "Käytä ADS:ssä hiusristikkoa",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your crosshair UI remains visible when scoping",
+		"comment": "Controls whether the player's UI crosshair remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "Määrittää, pysyykö hiusristikkokäyttöliittymäsi näkyvissä mittaamisen aikana",
+		"machine": true
+	},
+	{
+		"phrase": "Scope sensitivity start",
+		"comment": "[Setting] Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"translation": "Scope herkkyys alkaa",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"comment": "Tooltip for the Scope Sensitivity Start setting",
+		"translation": "Hallitsee, käytetäänkö laajuuden herkkyyttäsi, kun aloitat skaalauksen, asteittain sitä mukaa, kun laajennus on tehty, vai vain, kun laajuus on täysi.",
+		"machine": true
+	},
+	{
+		"phrase": "Screen",
+		"comment": "Screen settings like window resolution, max frames per second, vertical sync (VSync)",
+		"translation": "Näyttö",
+		"machine": true
+	},
+	{
+		"phrase": "Post Processing",
+		"comment": "Effects applied once the game is rendered, such as lighting, ambient occlusion, bloom, crepuscular rays",
+		"translation": "Jälkikäsittelyä",
+		"machine": true
+	},
+	{
+		"phrase": "Shadows",
+		"comment": "Dark areas that light can't reach",
+		"translation": "Varjot",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether entities (e.g. Disruptors and Scanners) cast shadows",
+		"comment": "Description for the 'Entity block shadows' setting",
+		"translation": "Hallitsee, luovatko entiteetit (esim. häiriötekijät ja skannerit) varjoja",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at {0}), or always on",
+		"comment": "Description for the 'Enemy outlines' setting. Parameter 0: either 'enemies' or 'friendlies'",
+		"translation": "Ohjaa, onko ääriviivojen oltava pois päältä, tarkennettuina (näkyy vain katsottaessa {0}:ta) vai aina päällä",
+		"machine": true
+	},
+	{
+		"phrase": "This server will restart for maintenance at the end of the match. You can continue playing on another server",
+		"comment": "Chat message that lets players know the server will shut down at the end of the match",
+		"translation": "Tämä palvelin käynnistyy uudelleen huoltoa varten ottelun lopussa. voit jatkaa pelaamista toisella palvelimella",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now restart for maintenance. You can continue playing on another server.",
+		"comment": "Chat message that lets players know the server is shutting down",
+		"translation": "Tämä palvelin käynnistyy nyt uudelleen huoltoa varten. voit jatkaa pelaamista toisella palvelimella.",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Karttaa ei ole olemassa {0}-pajassa",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to reserve slots for your party as the server is full",
+		"comment": "Error message that tells the party leader that that slots could not be reserved for their party",
+		"translation": "Ei voi varata paikkoja juhlillesi, koska palvelin on täynnä",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will update to a new version when the match finishes. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "Tämä palvelin päivittyy {0}:ksi ottelun lopussa. sinun TÄYTYY päivittää asiakkaasi {1}:n kautta liittyäksesi uudelleen palvelimiin",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now update to {0}. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will now update to a new version. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "Tämä palvelin päivitetään nyt {0}:ksi. sinun TÄYTYY päivittää asiakkaasi {1}:n kautta liittyäksesi uudelleen palvelimiin",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} reserved for your party. They will expire in {2} {3}",
+		"comment": "Notification that a slot(s) in the server have been reserved for your party. Parameter 0: '3', parameter 1: 'slot' or 'slots', parameter 2: '1', parameter 3: 'minute'",
+		"translation": "{0} {1} varattu juhlillesi. Ne vanhenevat {2} {3}:ssa",
+		"machine": true
+	},
+	{
+		"phrase": "{0} reserved {1} were not claimed by your party and have expired",
+		"comment": "Notification that a slot(s) you reserved for your party have expired. Parameter 0: '3', parameter 1: 'slot' or 'slots'",
+		"translation": "Ryhmäsi ei ole vaatinut {0}:tä varattua {1}:tä, ja ne ovat vanhentuneet",
+		"machine": true
+	},
+	{
+		"phrase": "Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc.",
+		"translation": "Sisällönluoja",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prototype",
+		"comment": "Refers to an early version of a robot that was not yet completed. It is unstable and dangerous. Parameter 0: 'Nova'",
+		"translation": "{0} Prototyyppi",
+		"machine": true
+	},
+	{
+		"phrase": "Earned {0} {1} trial medals",
+		"comment": "Description of how a player earned the 'Midi Certified' title. Paramter 0: '9'. Paramter 1: 'bronze'",
+		"translation": "Ansainnut {0} {1} -kokemitalit",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} accuracy title, earned from headshot and direct points",
+		"comment": "Description of how a player earned the 'Fatal' accuracy title. Paramter 0: '1'",
+		"translation": "Tason {0} tarkkuustitteli, ansaittu päälaukauksesta ja suorista pisteistä",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} melee title, earned by stabbing enemies",
+		"comment": "Description of how a player earned the 'Butcher' accuracy title. Paramter 0: '1'",
+		"translation": "Tason {0} lähitaistelu, ansaittu vihollisten puukotuksella",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} building title, earned by fortifying objectives and dealing damage with the digger",
+		"comment": "Description of how a player earned the 'Reinforcer' building title. Paramter 0: '1'",
+		"translation": "Tason {0} rakennusnimike, ansaittu linnoittamalla tavoitteita ja tekemällä vahinkoa kaivurin kanssa",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} objective title, earned by capturing objectives",
+		"comment": "Description of how a player earned the 'Raider' objective title. Paramter 0: '1'",
+		"translation": "Tason {0}-objektinimike, ansaittu tavoitteista",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} teamplay title, earned from spot assists and avenging or saving teammates",
+		"comment": "Description of how a player earned the 'Uplifter' teamplay title. Paramter 0: '1'",
+		"translation": "{0}-tason joukkuepelititteli, ansaittu pistesyöttöistä ja joukkuetovereiden kostamisesta tai pelastamisesta",
+		"machine": true
+	},
+	{
+		"phrase": "Helped record a trailer",
+		"comment": "Description for the 'Trailer Crew' title",
+		"translation": "Auttoi trailerin tallentamisessa",
+		"machine": true
+	},
+	{
+		"phrase": "Played {0} before it was released on Steam",
+		"comment": "Description for the 'Alpha Tester' title. Parameter 0: 'Sector's Edge'",
+		"translation": "Pelasi {0}:ta ennen kuin se julkaistiin Steamissä",
+		"machine": true
+	},
+	{
+		"phrase": "Helped test {0} on the beta branch",
+		"comment": "Description for the 'Beta Tester' title. The beta branch is a private branch (e.g. a code branch on GitHub) on Steam where players can play experimental builds of the game. Parameter 0: 'Sector's Edge'",
+		"translation": "Auttoi testaamaan {0}:tä beta-haarassa",
+		"machine": true
+	},
+	{
+		"phrase": "Bought the Supporter or Engineer pack",
+		"comment": "Description for the 'Supporter' title",
+		"translation": "Ostin tuki- tai insinööripaketin",
+		"machine": true
+	},
+	{
+		"phrase": "Open Beta Launch Week sale - ",
+		"comment": "Launch week sale, all store packs are 50% off",
+		"translation": "Avoimen beta-julkaisuviikon alennusmyynti - ",
+		"machine": true
+	},
+	{
+		"phrase": "all packs are {0} off!",
+		"comment": "All packs 50% off for the launch week sale",
+		"translation": "kaikki pakkaukset ovat {0} pois!",
+		"machine": true
+	},
+	{
+		"phrase": "Before you destroy everything in sight, let's show you how to play. Run over to the designated area at the top of the beach.",
 		"comment": "Tutorial instructions",
-		"translation": "Nykyisessä kuormassasi on myös orberaattori ja c4, jotka sopivat täydellisesti suurten rakennusten tuhoamiseen. lopeta opetusohjelma painamalla Esc-näppäintä.",
+		"translation": "Ennen kuin tuhoat kaiken näköpiirissä olevan, näytämme sinulle kuinka pelata. juokse nimetylle alueelle rannan yläosassa.",
+		"machine": true
+	},
+	{
+		"phrase": "Climb over the wall to enter the city. Equip the {0} and click and drag to place a line of blocks.",
+		"comment": "Tutorial instructions. Parameter 0: 'MiDi', which is a tool the player can use to build and place blocks",
+		"translation": "Kiipeä muurin yli päästäksesi kaupunkiin. varusta {0} ja aseta lohkorivi napsauttamalla ja vetämällä.",
+		"machine": true
+	},
+	{
+		"phrase": "You also have an {0} and {1} in your current loadout, which are perfect for destroying large buildings. Press the escape key to complete the tutorial.",
+		"comment": "Tutorial instructions",
+		"translation": "Nykyisessä kuormassasi on myös {0} ja {1}, jotka sopivat täydellisesti suurten rakennusten tuhoamiseen. lopeta opetusohjelma painamalla Esc-näppäintä.",
 		"machine": true
 	}
 ]
