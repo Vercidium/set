@@ -8075,32 +8075,27 @@
 	{
 		"phrase": "All 3D icons within this circle in the center of the screen is called the 'focus region'. This setting controls the radius of the focus region",
 		"comment": "Description for the 'Focus radius' setting",
-		"translation": "Все 3D-иконки внутри этого круга в центре экрана называются «областью фокусировки». этот параметр управляет радиусом области фокусировки",
-		"machine": true
+		"translation": "Все 3D-иконки внутри этого круга в центре экрана называются «областью фокусировки». Этот параметр управляет радиусом области фокусировки"
 	},
 	{
 		"phrase": "All 3D icons outside this circle in the center of the screen is called the 'peripheral region'. This setting controls the radius of the peripheral region",
 		"comment": "Description for the 'Peripheral radius' setting",
-		"translation": "Все трехмерные значки за пределами этого круга в центре экрана называются «периферийной областью». этот параметр управляет радиусом периферийной области",
-		"machine": true
+		"translation": "Все 3D-иконки за пределами этого круга в центре экрана называются «периферийной областью». Этот параметр управляет радиусом периферийной области"
 	},
 	{
 		"phrase": "This setting controls the opacity of icons within the focus region",
 		"comment": "Description for the 'Focus icon opacity' setting",
-		"translation": "Этот параметр управляет непрозрачностью значков в области фокусировки.",
-		"machine": true
+		"translation": "Этот параметр управляет прозрачностью иконок в области фокусировки."
 	},
 	{
 		"phrase": "This setting controls the opacity of icons outside the focus region",
 		"comment": "Description for the 'Peripheral icon opacity' setting",
-		"translation": "Этот параметр управляет непрозрачностью значков за пределами области фокусировки.",
-		"machine": true
+		"translation": "Этот параметр управляет прозрачностью иконок за пределами области фокусировки."
 	},
 	{
 		"phrase": "This setting controls the maximum opacity of icons when ADS (aiming down the sights)",
 		"comment": "Description for the 'ADS icon opacity' setting",
-		"translation": "Этот параметр управляет максимальной непрозрачностью значков, когда ADS (прицеливание в прицел))",
-		"machine": true
+		"translation": "Этот параметр управляет максимальной прозрачностью иконок при прицеливании"
 	},
 	{
 		"phrase": "Show death icons",
@@ -8120,20 +8115,17 @@
 	{
 		"phrase": "{0} boost active\n{1} {2} remaining",
 		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
-		"translation": "Повышение {0} активно\n{1} {2} осталось",
-		"machine": true
+		"translation": "{0} буст активен\n{1} {2} осталось"
 	},
 	{
 		"phrase": "Character token required - purchase in the Supporter Pack",
 		"comment": "This error shows if the player attempts to unlock the Human Renegade without any character tokens",
-		"translation": "Требуется токен персонажа - покупка в пакете поддержки",
-		"machine": true
+		"translation": "Требуется жетон персонажа - Вы можете приобрести его в наборе Спонсора"
 	},
 	{
 		"phrase": "The Pearl skin is unlocked in the Supporter Pack",
 		"comment": "This error shows if the player attempts to equip a Pearl skin without first purchasing the Supporter Pack",
-		"translation": "Жемчужина разблокируется в пакете поддержки.",
-		"machine": true
+		"translation": "Жемчужинный скин разблокируется в наборе Спонсора."
 	},
 	{
 		"phrase": "Not enough {0} - earn them through gameplay or purchase them in the store",
@@ -8205,32 +8197,27 @@
 	{
 		"phrase": "Extracting",
 		"comment": "The player is currently extracting resources from the earth",
-		"translation": "Извлечение",
-		"machine": true
+		"translation": "Добыча"
 	},
 	{
 		"phrase": "Test hitboxes",
 		"comment": "A keybind that displays the hitboxes. Used for debugging\/testing",
-		"translation": "Тестовые хитбоксы",
-		"machine": true
+		"translation": "Показать хитбоксы"
 	},
 	{
 		"phrase": "Clear hitboxes",
 		"comment": "A keybind that removes all display hitboxes",
-		"translation": "Очистить хитбоксы",
-		"machine": true
+		"translation": "Не показывать хитбоксы"
 	},
 	{
 		"phrase": "Enemies will be highlighted if they are less than level {0} and have a KDR of {1} or less.\n\nDeal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
 		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '50%', Parameter 3: '25%'",
-		"translation": "Враги будут выделены, если они ниже уровня {0} и имеют KDR {1} или меньше..\n\nНанесите {2} урона этим игрокам и заработайте {3} дополнительного опыта и протонов..\n\nИзменения вступают в силу после респауна. Миротворец не действует в бесплатном для всех режимах игры..",
-		"machine": true
+		"translation": "Враги, имеющие уровень ниже {0} и соотношение убийств/смертей {1} или меньше, будут выделены особым цветом. Вы будете наносить таким игрокам {2} урона, но зарабатывать при этом {3} дополнительного опыта и протонов. Изменения вступают вв силу после респауна. Миротворец не действует в режиме игры бой-насмерть.",
 	},
 	{
 		"phrase": "Downloading the map from the {0} Workshop...",
 		"comment": "Loading message that indicates the server is still downloading the map from the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "Загрузка карты из мастерской {0}...",
-		"machine": true
+		"translation": "Загрузка карты из мастерской {0}..."
 	},
 	{
 		"phrase": "The download timed out and was cancelled.",
