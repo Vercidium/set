@@ -749,12 +749,6 @@
 		"translation": "T Punkt Rund"
 	},
 	{
-		"phrase": "Camoflague",
-		"comment": "A camoflague pattern",
-		"translation": "Tarnung",
-		"machine": true
-	},
-	{
 		"phrase": "Metallic",
 		"comment": "A metallic weapon skin is shiny and reflective",
 		"translation": "Metallisch",
@@ -2709,12 +2703,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Your party has joined a {0} match on {1}. Click here to join",
-		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'",
-		"translation": "Ihre Gruppe ist einem {0}-Match auf {1} beigetreten. Klicken Sie hier, um beizutreten",
-		"machine": true
-	},
-	{
 		"phrase": "Ammo",
 		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "Munition",
@@ -2901,12 +2889,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Pick Up Deployable",
-		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
-		"translation": "Abholbereit",
-		"machine": true
-	},
-	{
 		"phrase": "Small Canister",
 		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
 		"translation": "Kleiner Kanister",
@@ -2998,7 +2980,7 @@
 	},
 	{
 		"phrase": "Loadout list",
-		"comment": "A list of loadouts",
+		"comment": "Header text above a list of loadouts",
 		"translation": "Loadout-Liste",
 		"machine": true
 	},
@@ -3222,12 +3204,6 @@
 		"phrase": "Viewing their weapons",
 		"comment": "Rich presence",
 		"translation": "Anzeigen ihrer Waffen",
-		"machine": true
-	},
-	{
-		"phrase": "Viewing their loadouts",
-		"comment": "Rich presence",
-		"translation": "Anzeigen ihrer Loadouts",
 		"machine": true
 	},
 	{
@@ -3514,7 +3490,7 @@
 	},
 	{
 		"phrase": "{0} Power",
-		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12'",
+		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12 \/ 15'",
 		"translation": "{0}-Leistung",
 		"machine": true
 	},
@@ -3528,12 +3504,6 @@
 		"phrase": "Unmute all players",
 		"comment": "Unmute all players in voice chat",
 		"translation": "Stummschaltung aller Spieler aufheben",
-		"machine": true
-	},
-	{
-		"phrase": "Return to battle [{0}]",
-		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
-		"translation": "Kehre zum Kampf zurück [{0}]",
 		"machine": true
 	},
 	{
@@ -3625,12 +3595,6 @@
 		"phrase": "ST {0}",
 		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Modifications - [{0}]",
-		"comment": "Armour modifications. Parameter 0: '3'",
-		"translation": "Modifikationen - [{0}]",
 		"machine": true
 	},
 	{
@@ -4250,12 +4214,6 @@
 		"phrase": "Enter your key below to redeem it for Protons, skins and more",
 		"comment": "Instruction text for redeeming keys",
 		"translation": "Geben Sie unten Ihren Schlüssel ein, um ihn gegen Protonen, Skins und mehr einzulösen",
-		"machine": true
-	},
-	{
-		"phrase": "Your key has been successfully redeemed. You gained:",
-		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
-		"translation": "Ihr Schlüssel wurde erfolgreich eingelöst. du hast gewonnen:",
 		"machine": true
 	},
 	{
@@ -5748,42 +5706,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "This server will restart at the end of the round for maintenance",
-		"comment": "This message appears to let players know that the server will restart at the end of the round",
-		"translation": "Dieser Server wird am Ende der Runde zu Wartungszwecken neu gestartet",
-		"machine": true
-	},
-	{
-		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will update at the end of the round. Parameter 0: 'Version 1.6'",
-		"translation": "Dieser Server wird am Ende des Spiels auf {0} aktualisiert. Sie MÜSSEN Ihren Client über Steam aktualisieren, um Servern wieder beizutreten",
-		"machine": true
-	},
-	{
-		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server will update\/patch\/upgrade at the end of the round",
-		"translation": "Dieser Server wird am Ende dieser Runde schnell neu gestartet. Sie können auf diesem Server bleiben und müssen Ihren Client NICHT aktualisieren",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now restart for maintenance",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Dieser Server wird jetzt zu Wartungszwecken neu gestartet",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will now update. Parameter 0: 'Version 1.6'",
-		"translation": "Dieser Server wird nun auf {0} aktualisiert. Sie MÜSSEN Ihren Client über Steam aktualisieren, um Servern wieder beizutreten",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Dieser Server wird nun schnell neu gestartet. Sie können auf diesem Server bleiben und müssen Ihren Client NICHT aktualisieren",
-		"machine": true
-	},
-	{
 		"phrase": "This map does not support the game mode {0}",
 		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Diese Karte unterstützt den Spielmodus {0} nicht",
@@ -6117,7 +6039,7 @@
 	},
 	{
 		"phrase": "Slot",
-		"comment": "1 Slot, i.e. an equipment slot",
+		"comment": "1 Slot, i.e. an equipment slot, or a reserved slot in the server for your party",
 		"translation": "Slot",
 		"machine": true
 	},
@@ -7524,12 +7446,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether Disruptors, C4, Scanners and Disruptors cast shadows",
-		"comment": "Description for the 'Entity block shadows' setting",
-		"translation": "Steuert, ob Disruptoren, c4, Scanner und Disruptoren Schatten werfen",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether falling blocks cast shadows",
 		"comment": "Description for the 'Falling block shadows' setting",
 		"translation": "Steuert, ob fallende Blöcke Schatten werfen",
@@ -7930,7 +7846,7 @@
 	},
 	{
 		"phrase": "Player not found",
-		"comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+		"comment": "This error is shown if a player attempts to send an item to a friend, but the friend hasn't played Sector's Edge yet",
 		"translation": "Spieler nicht gefunden",
 		"machine": true
 	},
@@ -8016,12 +7932,6 @@
 		"phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
 		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
 		"translation": "Der Rand des Sektors reagiert nicht mehr. Wenn das Spiel häufig abstürzt, befolgen Sie bitte die Anweisungen unter {0}, um Hilfe bei der Behebung dieses Problems zu erhalten.",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now shut down for a system update. You do not need to update your client and can continue playing on another server.",
-		"comment": "This message appears to let players know that the server is going to shut down",
-		"translation": "Dieser Server wird nun für ein Systemupdate heruntergefahren. Sie müssen Ihren Client nicht aktualisieren und können auf einem anderen Server weiterspielen.",
 		"machine": true
 	},
 	{
@@ -9437,12 +9347,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} Content Creator",
-		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
-		"translation": "{0} Content Creator",
-		"machine": true
-	},
-	{
 		"phrase": "Salvage Cup {0} Champion",
 		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
 		"translation": "Bergungspokal {0}-Champion",
@@ -9554,12 +9458,6 @@
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
 		"translation": "Charakter-Token können verwendet werden, um jeden Charakter freizuschalten.",
-		"machine": true
-	},
-	{
-		"phrase": "Double click to activate. This will override your current active boost",
-		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
-		"translation": "Zum Aktivieren doppelklicken. Dies überschreibt Ihren aktuellen aktiven Boost",
 		"machine": true
 	},
 	{
@@ -9686,12 +9584,6 @@
 		"phrase": "Colours",
 		"comment": "2 colours, i.e. red and black",
 		"translation": "Farben",
-		"machine": true
-	},
-	{
-		"phrase": "{0} boost active\n{1} {2} remaining",
-		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
-		"translation": "{0}-Boost aktiv\n{1} {2} übrig",
 		"machine": true
 	},
 	{
@@ -9829,12 +9721,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "The map does not exist in the {0} Workshop...",
-		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "Die Karte existiert nicht in der {0}-Werkstatt...",
-		"machine": true
-	},
-	{
 		"phrase": "Bot count set to {0}-{1}",
 		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
 		"translation": "Bot-Zähler auf {0}-{1} gesetzt",
@@ -9961,21 +9847,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
-		"comment": "Description for the 'Enemy outlines' setting",
-		"translation": "Steuert, ob Umrisse ausgeschaltet, fokussiert (erscheinen nur beim Betrachten von Feinden) oder immer eingeschaltet sein sollen",
-		"machine": true
-	},
-	{
 		"phrase": "Friendly outlines",
 		"comment": "Setting that controls whether coloured outlines should render around friendlies",
 		"translation": "Freundliche Umrisse",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outline should render around friendly players",
-		"comment": "Description for the 'Friendly outlines' setting",
-		"translation": "Steuert, ob der Umriss um verbündete Spieler gerendert werden soll",
 		"machine": true
 	},
 	{
@@ -9988,6 +9862,656 @@
 		"phrase": "Outlines",
 		"comment": "Coloured outlines that render around players so you can tell which team they're on",
 		"translation": "Umrisse",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to provide feedback",
+		"comment": "Instructions for providing feedback. Parameter 0: 'F1'",
+		"translation": "Drücken Sie {0}, um Feedback zu geben",
+		"machine": true
+	},
+	{
+		"phrase": "{0}ms cooldown",
+		"comment": "Cooldown tooltip, i.e. '625ms cooldown'. ms = milliseconds. Cooldown refers to how long the player needs to wait before being able to build blocks",
+		"translation": "{0}ms Abklingzeit",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to change the origin",
+		"comment": "Instructions for changing which block in your pre-made structure is the origin\/center. Parameter 0: 'Enter'",
+		"translation": "Drücken Sie {0}, um den Ursprung zu ändern",
+		"machine": true
+	},
+	{
+		"phrase": "An update is available. Please update your game through Steam to continue playing",
+		"comment": "Update notification",
+		"translation": "Eine Aktualisierung ist verfügbar. Bitte aktualisieren Sie Ihr Spiel über Steam, um weiterspielen zu können",
+		"machine": true
+	},
+	{
+		"phrase": "Reset keybinds",
+		"comment": "Reset to the default keyboard shortcuts",
+		"translation": "Tastenkombinationen zurücksetzen",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to play the tutorial?",
+		"comment": "Tutorial prompt when the game first starts up",
+		"translation": "Möchten Sie das Tutorial spielen?",
+		"machine": true
+	},
+	{
+		"phrase": "Click to confirm",
+		"comment": "Click again to confirm you want to reset your keybinds to default",
+		"translation": "Klicken Sie zur Bestätigung",
+		"machine": true
+	},
+	{
+		"phrase": "Fullscreen",
+		"comment": "[Keybind]",
+		"translation": "Ganzer Bildschirm",
+		"machine": true
+	},
+	{
+		"phrase": "Exclusive Fullscreen",
+		"comment": "[Keybind]",
+		"translation": "Exklusiver Vollbildmodus",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up deployable",
+		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
+		"translation": "Abholbereit",
+		"machine": true
+	},
+	{
+		"phrase": "Old Version",
+		"comment": "This server is running an old version of the game",
+		"translation": "Alte Version",
+		"machine": true
+	},
+	{
+		"phrase": "Block pack",
+		"comment": "Store pack title. Blocks refer to 3D cubes\/voxels. This pack lets you customise them with skins",
+		"translation": "Blockpackung",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with these aftermarket {0} modifications.",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
+		"translation": "Zeigen Sie Ihre Baukompetenz mit diesen Aftermarket-{0}-Modifikationen.",
+		"machine": true
+	},
+	{
+		"phrase": "Destruction",
+		"comment": "To destroy everything with explosions",
+		"translation": "Zerstörung",
+		"machine": true
+	},
+	{
+		"phrase": "Los Angeles",
+		"comment": "Server location",
+		"translation": "Los Angeles",
+		"machine": true
+	},
+	{
+		"phrase": "New Jersey",
+		"comment": "Server location",
+		"translation": "New Jersey",
+		"machine": true
+	},
+	{
+		"phrase": "Block Pack required",
+		"comment": "The player must own the Block Pack to equip this block skin",
+		"translation": "Blockpackung erforderlich",
+		"machine": true
+	},
+	{
+		"phrase": "Tutorial",
+		"comment": "A tutorial that shows players how to build",
+		"translation": "Lernprogramm",
+		"machine": true
+	},
+	{
+		"phrase": "Screen shake",
+		"comment": "Setting that controls whether the screen should shake when large structures fall down",
+		"translation": "Bildschirmerschütterung",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the screen should shake when large structures fall down",
+		"comment": "Description for the 'Screen shake' setting",
+		"translation": "Steuert, ob der Bildschirm wackeln soll, wenn große Strukturen herunterfallen",
+		"machine": true
+	},
+	{
+		"phrase": "Move",
+		"comment": "To move around, i.e. tutorial instructions: '[WASD] Move'",
+		"translation": "Bewegen",
+		"machine": true
+	},
+	{
+		"phrase": "Flag",
+		"comment": "Capture the flag",
+		"translation": "Flagge",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb",
+		"comment": "Plant the explosive bomb. Jake's butt is da bomb",
+		"translation": "Bombe",
+		"machine": true
+	},
+	{
+		"phrase": "You can't run back into your spawn area or rocket jump when holding the {0}.",
+		"comment": "Game mode instructions. Parameter 0 is either 'flag' or 'bomb'",
+		"translation": "Sie können nicht in Ihren Spawn-Bereich zurücklaufen oder Raketensprünge machen, wenn Sie die {0} halten.",
+		"machine": true
+	},
+	{
+		"phrase": "Stand in the zone to push it towards your enemy. Your team wins when the zone reaches the other side of the map.",
+		"comment": "Instructions for the Control Shift game mode",
+		"translation": "Stellen Sie sich in die Zone, um sie auf Ihren Feind zu schieben. Ihr Team gewinnt, wenn die Zone die andere Seite der Karte erreicht.",
+		"machine": true
+	},
+	{
+		"phrase": "Capture each zone in sequence. Your team wins when all zones are captured.",
+		"comment": "Instructions for the Breakthrough game mode",
+		"translation": "Erfassen Sie jede Zone nacheinander. Ihr Team gewinnt, wenn alle Zonen erobert sind.",
+		"machine": true
+	},
+	{
+		"phrase": "Steal the enemy flag and return it to your base.",
+		"comment": "Instructions for the Capture the Flag game mode",
+		"translation": "Stehlen Sie die feindliche Flagge und bringen Sie sie zu Ihrer Basis zurück.",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up your team's bomb and deliver it to the enemy base.",
+		"comment": "Instructions for the Escort game mode",
+		"translation": "Hebe die Bombe deines Teams auf und bringe sie zur feindlichen Basis.",
+		"machine": true
+	},
+	{
+		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
+		"comment": "Tutorial instructions",
+		"translation": "Sie können auch vorgefertigte Strukturen platzieren. Wählen Sie einen mit dem Radial aus oder schalten Sie zwischen ihnen um. Bauen Sie irgendwo eine Struktur auf, um fortzufahren.",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the digger and cut down this street light. Concrete blocks are weaker than metal blocks.",
+		"comment": "Tutorial instructions",
+		"translation": "Rüste den Bagger aus und schneide diese Straßenlaterne ab. Betonblöcke sind schwächer als Metallblöcke.",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the Assault Rifle and shoot the crash target.",
+		"comment": "Tutorial instructions",
+		"translation": "Rüsten Sie das Sturmgewehr aus und schießen Sie auf das Absturzziel.",
+		"machine": true
+	},
+	{
+		"phrase": "Your GPU does not support {0}, which is required to run the game. Please update to the latest version of {1} and check for GPU driver updates. If this error still appears it is unlikely you will be able to run the game. More information is available at {2}",
+		"comment": "Startup error. Parameter 0: 'OpenGL 3.3'. Parameter 1: 'Windows'. Parameter 2: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Ihre GPU unterstützt kein {0}, das zum Ausführen des Spiels erforderlich ist. Bitte aktualisieren Sie auf die neueste Version von {1} und suchen Sie nach GPU-Treiber-Updates. Wenn dieser Fehler weiterhin auftritt, ist es unwahrscheinlich, dass Sie das Spiel ausführen können. Weitere Informationen finden Sie unter {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Out of bounds",
+		"comment": "A player is out of bounds when they run too far away from the objective",
+		"translation": "Außerhalb der Grenzen",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout statistics",
+		"comment": "Header text above the loadout's statistics, e.g. movement speed, player health, build distance",
+		"translation": "Loadout-Statistiken",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout contents",
+		"comment": "Header text above the UI panel that shows each weapon\/utility\/grenade\/perk equipped in the loadout",
+		"translation": "Loadout-Inhalte",
+		"machine": true
+	},
+	{
+		"phrase": "Select a weapon",
+		"comment": "Header text above the list of weapons, prompting the user to select one",
+		"translation": "Wählen Sie eine Waffe aus",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a weapon",
+		"comment": "Text prompting the user to click a loadout slot to equip a weapon",
+		"translation": "Klicken Sie, um eine Waffe auszurüsten",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a utility",
+		"comment": "Text prompting the user to click a loadout slot to equip a utility, e.g. C4, Disruptor, Scanner",
+		"translation": "Klicken Sie, um ein Dienstprogramm auszurüsten",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}",
+		"comment": "This text shows at the top of the screen after the player steals the enemy flag. Parameter 0: 'Flag' or 'Bomb'",
+		"translation": "Sie tragen die {0}",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}. Press {1} to drop it",
+		"comment": "Instructions text that tells the player how to drop the enemy flag that they're holding. Parameter 0: 'V'",
+		"translation": "Sie tragen die {0}. Drücken Sie {1}, um es fallen zu lassen",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '3h 14m' (i.e. 3 hours, 14 minutes)",
+		"translation": "{0}-Boost aktiv\n{1} übrig",
+		"machine": true
+	},
+	{
+		"phrase": "Reserved",
+		"comment": "A slot in this server is reserved for a party member",
+		"translation": "Reserviert",
+		"machine": true
+	},
+	{
+		"phrase": "Open log folder",
+		"comment": "Open the folder on your PC where log files are stored",
+		"translation": "Protokollordner öffnen",
+		"machine": true
+	},
+	{
+		"phrase": "Drop flag\/bomb",
+		"comment": "Keybind that drops the flag\/bomb that the player is carrying",
+		"translation": "Flagge\/Bombe abwerfen",
+		"machine": true
+	},
+	{
+		"phrase": "Hazard",
+		"comment": "A yellow-and-black hazard themed block skin5",
+		"translation": "Gefahr",
+		"machine": true
+	},
+	{
+		"phrase": "Camouflage",
+		"comment": "A camoflague pattern",
+		"translation": "Tarnung",
+		"machine": true
+	},
+	{
+		"phrase": "Flip structure",
+		"comment": "Pressing this keybind will flip the structure vertically",
+		"translation": "Flip-Struktur",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Auto joining in {2} {3}. Click here to cancel",
+		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'. Parameter 2 is '9', parameter 3 is 'second' or 'seconds'",
+		"translation": "Ihre Gruppe ist einem {0}-Match auf {1} beigetreten. automatischer Beitritt in {2} {3}. Klicken Sie hier, um abzubrechen",
+		"machine": true
+	},
+	{
+		"phrase": "This boost will increase the amount of {0} and XP you earn by {1}. Boost time is only used when in game.\n\nTime remaining: {2}\n\nClick to change the current boost",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Dieser Boost erhöht die Menge an {0} und XP, die Sie verdienen, um {1}. Die Boost-Zeit wird nur im Spiel verwendet.\n\nVerbleibende Zeit: {2}\n\nKlicken Sie hier, um den aktuellen Boost zu ändern",
+		"machine": true
+	},
+	{
+		"phrase": "New Version",
+		"comment": "This server is running a new version of the game",
+		"translation": "Neue Version",
+		"machine": true
+	},
+	{
+		"phrase": "Purchased",
+		"comment": "This player has purchased a pack",
+		"translation": "Gekauft",
+		"machine": true
+	},
+	{
+		"phrase": "Our servers are offline, please try again later",
+		"comment": "This error is shown if a player attempts to buy a pack from the store but our backend servers are offline",
+		"translation": "Unsere Server sind offline, bitte versuchen Sie es später erneut",
+		"machine": true
+	},
+	{
+		"phrase": "Start",
+		"comment": "When you start scoping in",
+		"translation": "Anfang",
+		"machine": true
+	},
+	{
+		"phrase": "Gradual",
+		"comment": "Changing your sensitivity gradually as you scope in with a gun",
+		"translation": "Allmählich",
+		"machine": true
+	},
+	{
+		"phrase": "End",
+		"comment": "When you finish scoping in",
+		"translation": "Ende",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to exit",
+		"comment": "Double click to close the game",
+		"translation": "Zum Beenden doppelklicken",
+		"machine": true
+	},
+	{
+		"phrase": "North America",
+		"comment": "Server region category, representing USA and Canada",
+		"translation": "Nordamerika",
+		"machine": true
+	},
+	{
+		"phrase": "You gained:",
+		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. 'You gained: 10000 Protons'",
+		"translation": "Du hast gewonnen:",
+		"machine": true
+	},
+	{
+		"phrase": "Not found",
+		"comment": "The file cannot be found",
+		"translation": "Nicht gefunden",
+		"machine": true
+	},
+	{
+		"phrase": "Get back to the objective [{0}]",
+		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
+		"translation": "Zurück zum Ziel [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Gravity",
+		"comment": "How fast things fall",
+		"translation": "Schwere",
+		"machine": true
+	},
+	{
+		"phrase": "Player health",
+		"comment": "How much health\/hit points a player has, e.g. 100 health means they can take 100 damage before dying",
+		"translation": "Spielergesundheit",
+		"machine": true
+	},
+	{
+		"phrase": "Max loadout power",
+		"context": "Maximum loadout power",
+		"comment": "Each weapon has a power value, and the total power of all weapons must not exceed the maximum loadout power of 15",
+		"translation": "Maximale Ladeleistung",
+		"machine": true
+	},
+	{
+		"phrase": "Damage per mag",
+		"context": "Damage per magazine",
+		"comment": "The total amount of damage a weapon can output with a single magazine\/clip",
+		"translation": "Schaden pro Mag",
+		"machine": true
+	},
+	{
+		"phrase": "Click and drag to move around. Click in the green area to spawn",
+		"comment": "Instruction text telling the player to click in the green area to spawn\/respawn.",
+		"translation": "Klicken und ziehen Sie, um sich zu bewegen. Klicken Sie in den grünen Bereich, um zu spawnen",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout uses banned weapons - unequip the {0} to spawn",
+		"comment": "Info text that shows when a player attempts to spawn with a loadout that contains banned weapons. Parameter 0: 'Rail Gun, Combat Shotgun'",
+		"translation": "Loadout verwendet verbotene Waffen – rüste den {0} aus, um zu spawnen",
+		"machine": true
+	},
+	{
+		"phrase": "Return to loadout",
+		"comment": "Return to the loadout customisation screen",
+		"translation": "Zurück zum Laden",
+		"machine": true
+	},
+	{
+		"phrase": "Mods [{0}]",
+		"comment": "Abbreviation for armour modifications. Parameter 0: '3'",
+		"translation": "Modifikationen [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Devices",
+		"comment": "This refers to audio input\/output devices",
+		"translation": "Geräte",
+		"machine": true
+	},
+	{
+		"phrase": "Proximity chat",
+		"comment": "Proximity voice chat lets you hear players talk when they are near by",
+		"translation": "Proximity-Chat",
+		"machine": true
+	},
+	{
+		"phrase": "Performance",
+		"comment": "This refers to how fast\/optimised the game is",
+		"translation": "Leistung",
+		"machine": true
+	},
+	{
+		"phrase": "Audio sample rate",
+		"comment": "Setting that controls whether the game outputs sound at 48KHz, 96KHz or 192KHz",
+		"translation": "Audio-Abtastrate",
+		"machine": true
+	},
+	{
+		"phrase": "Log all keyboard input",
+		"comment": "Setting that logs all keyboard input to a file",
+		"translation": "Alle Tastatureingaben protokollieren",
+		"machine": true
+	},
+	{
+		"phrase": "Used for diagnosing input lag issues",
+		"comment": "Description for the 'Log all keyboard input' setting",
+		"translation": "Wird zur Diagnose von Input-Lag-Problemen verwendet",
+		"machine": true
+	},
+	{
+		"phrase": "Use crosshair when ADS",
+		"comment": "Setting that controls whether your crosshair UI remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "Verwenden Sie das Fadenkreuz bei ADS",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your crosshair UI remains visible when scoping",
+		"comment": "Controls whether the player's UI crosshair remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "Steuert, ob Ihre Fadenkreuz-Benutzeroberfläche beim Scoping sichtbar bleibt",
+		"machine": true
+	},
+	{
+		"phrase": "Scope sensitivity start",
+		"comment": "[Setting] Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"translation": "Scope-Empfindlichkeit starten",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"comment": "Tooltip for the Scope Sensitivity Start setting",
+		"translation": "Steuert, ob Ihre Scoping-Empfindlichkeit angewendet wird, wenn Sie mit dem Scoping beginnen, allmählich, wenn Sie beginnen, oder nur, wenn Sie vollständig Scope sind",
+		"machine": true
+	},
+	{
+		"phrase": "Screen",
+		"comment": "Screen settings like window resolution, max frames per second, vertical sync (VSync)",
+		"translation": "Bildschirm",
+		"machine": true
+	},
+	{
+		"phrase": "Post Processing",
+		"comment": "Effects applied once the game is rendered, such as lighting, ambient occlusion, bloom, crepuscular rays",
+		"translation": "Nachbearbeitung",
+		"machine": true
+	},
+	{
+		"phrase": "Shadows",
+		"comment": "Dark areas that light can't reach",
+		"translation": "Schatten",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether entities (e.g. Disruptors and Scanners) cast shadows",
+		"comment": "Description for the 'Entity block shadows' setting",
+		"translation": "Steuert, ob Entitäten (z. B. Disruptoren und Scanner) Schatten werfen",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at {0}), or always on",
+		"comment": "Description for the 'Enemy outlines' setting. Parameter 0: either 'enemies' or 'friendlies'",
+		"translation": "Steuert, ob Umrisse ausgeschaltet, fokussiert (erscheinen nur bei Betrachtung von {0}) oder immer eingeschaltet sein sollen",
+		"machine": true
+	},
+	{
+		"phrase": "This server will restart for maintenance at the end of the match. You can continue playing on another server",
+		"comment": "Chat message that lets players know the server will shut down at the end of the match",
+		"translation": "Dieser Server wird am Ende des Spiels zu Wartungszwecken neu gestartet. Sie können auf einem anderen Server weiterspielen",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now restart for maintenance. You can continue playing on another server.",
+		"comment": "Chat message that lets players know the server is shutting down",
+		"translation": "Dieser Server wird jetzt zu Wartungszwecken neu gestartet. Sie können auf einem anderen Server weiterspielen.",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Die Karte existiert nicht in der {0}-Werkstatt",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to reserve slots for your party as the server is full",
+		"comment": "Error message that tells the party leader that that slots could not be reserved for their party",
+		"translation": "Es können keine Slots für deine Party reserviert werden, da der Server voll ist",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will update to a new version when the match finishes. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "Dieser Server wird am Ende des Spiels auf {0} aktualisiert. Sie MÜSSEN Ihren Client über {1} aktualisieren, um Servern wieder beizutreten",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now update to {0}. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will now update to a new version. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "Dieser Server wird nun auf {0} aktualisiert. Sie MÜSSEN Ihren Client über {1} aktualisieren, um Servern wieder beizutreten",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} reserved for your party. They will expire in {2} {3}",
+		"comment": "Notification that a slot(s) in the server have been reserved for your party. Parameter 0: '3', parameter 1: 'slot' or 'slots', parameter 2: '1', parameter 3: 'minute'",
+		"translation": "{0} {1} reserviert für Ihre Party. Sie laufen in {2} {3} ab",
+		"machine": true
+	},
+	{
+		"phrase": "{0} reserved {1} were not claimed by your party and have expired",
+		"comment": "Notification that a slot(s) you reserved for your party have expired. Parameter 0: '3', parameter 1: 'slot' or 'slots'",
+		"translation": "{0} reserviert {1} wurden von Ihrer Partei nicht beansprucht und sind abgelaufen",
+		"machine": true
+	},
+	{
+		"phrase": "Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc.",
+		"translation": "Ersteller von Inhalten",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prototype",
+		"comment": "Refers to an early version of a robot that was not yet completed. It is unstable and dangerous. Parameter 0: 'Nova'",
+		"translation": "{0}-Prototyp",
+		"machine": true
+	},
+	{
+		"phrase": "Earned {0} {1} trial medals",
+		"comment": "Description of how a player earned the 'Midi Certified' title. Paramter 0: '9'. Paramter 1: 'bronze'",
+		"translation": "{0} {1} Trial-Medaillen verdient",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} accuracy title, earned from headshot and direct points",
+		"comment": "Description of how a player earned the 'Fatal' accuracy title. Paramter 0: '1'",
+		"translation": "Genauigkeitstitel Level {0}, verdient durch Kopfschüsse und direkte Punkte",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} melee title, earned by stabbing enemies",
+		"comment": "Description of how a player earned the 'Butcher' accuracy title. Paramter 0: '1'",
+		"translation": "Nahkampftitel Level {0}, verdient durch das erstechen von Feinden",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} building title, earned by fortifying objectives and dealing damage with the digger",
+		"comment": "Description of how a player earned the 'Reinforcer' building title. Paramter 0: '1'",
+		"translation": "Level {0}-Gebäudetitel, verdient durch das Befestigen von Zielen und das Verursachen von Schaden mit dem Bagger",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} objective title, earned by capturing objectives",
+		"comment": "Description of how a player earned the 'Raider' objective title. Paramter 0: '1'",
+		"translation": "Zieltitel der Stufe {0}, verdient durch das Erobern von Zielen",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} teamplay title, earned from spot assists and avenging or saving teammates",
+		"comment": "Description of how a player earned the 'Uplifter' teamplay title. Paramter 0: '1'",
+		"translation": "Teamplay-Titel auf Level {0}, verdient durch Spot-Assists und Rache oder Rettung von Teamkollegen",
+		"machine": true
+	},
+	{
+		"phrase": "Helped record a trailer",
+		"comment": "Description for the 'Trailer Crew' title",
+		"translation": "Hat geholfen, einen Trailer aufzunehmen",
+		"machine": true
+	},
+	{
+		"phrase": "Played {0} before it was released on Steam",
+		"comment": "Description for the 'Alpha Tester' title. Parameter 0: 'Sector's Edge'",
+		"translation": "Habe {0} gespielt, bevor es auf Steam veröffentlicht wurde",
+		"machine": true
+	},
+	{
+		"phrase": "Helped test {0} on the beta branch",
+		"comment": "Description for the 'Beta Tester' title. The beta branch is a private branch (e.g. a code branch on GitHub) on Steam where players can play experimental builds of the game. Parameter 0: 'Sector's Edge'",
+		"translation": "Hat geholfen, {0} im Beta-Zweig zu testen",
+		"machine": true
+	},
+	{
+		"phrase": "Bought the Supporter or Engineer pack",
+		"comment": "Description for the 'Supporter' title",
+		"translation": "Das Supporter- oder Engineer-Paket gekauft",
+		"machine": true
+	},
+	{
+		"phrase": "Open Beta Launch Week sale - ",
+		"comment": "Launch week sale, all store packs are 50% off",
+		"translation": "Angebot zur Einführung der offenen Beta-Woche - ",
+		"machine": true
+	},
+	{
+		"phrase": "all packs are {0} off!",
+		"comment": "All packs 50% off for the launch week sale",
+		"translation": "Alle Packungen sind {0} aus!",
+		"machine": true
+	},
+	{
+		"phrase": "Before you destroy everything in sight, let's show you how to play. Run over to the designated area at the top of the beach.",
+		"comment": "Tutorial instructions",
+		"translation": "Bevor Sie alles in Sichtweite zerstören, zeigen wir Ihnen, wie man spielt. Laufen Sie zu dem dafür vorgesehenen Bereich am oberen Rand des Strandes.",
+		"machine": true
+	},
+	{
+		"phrase": "Climb over the wall to enter the city. Equip the {0} and click and drag to place a line of blocks.",
+		"comment": "Tutorial instructions. Parameter 0: 'MiDi', which is a tool the player can use to build and place blocks",
+		"translation": "Klettere über die Mauer, um die Stadt zu betreten. Rüste den {0} aus und klicke und ziehe, um eine Reihe von Blöcken zu platzieren.",
+		"machine": true
+	},
+	{
+		"phrase": "You also have an {0} and {1} in your current loadout, which are perfect for destroying large buildings. Press the escape key to complete the tutorial.",
+		"comment": "Tutorial instructions",
+		"translation": "Sie haben auch einen {0} und einen {1} in Ihrem aktuellen Loadout, die sich perfekt für die Zerstörung großer Gebäude eignen. Drücken Sie die Escape-Taste, um das Tutorial abzuschließen.",
 		"machine": true
 	}
 ]

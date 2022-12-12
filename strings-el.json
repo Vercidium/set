@@ -876,12 +876,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Camoflague",
-		"comment": "A camoflague pattern",
-		"translation": "Camoflague",
-		"machine": true
-	},
-	{
 		"phrase": "Metallic",
 		"comment": "A metallic weapon skin is shiny and reflective",
 		"translation": "Μεταλλικός",
@@ -2751,12 +2745,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Your party has joined a {0} match on {1}. Click here to join",
-		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'",
-		"translation": "Το κόμμα σας συμμετείχε σε έναν αγώνα {0} στο {1}. κάντε κλικ εδώ για να εγγραφείτε",
-		"machine": true
-	},
-	{
 		"phrase": "Ammo",
 		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "Πυρομαχικά",
@@ -2943,12 +2931,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Pick Up Deployable",
-		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
-		"translation": "Παραλαβή με δυνατότητα ανάπτυξης",
-		"machine": true
-	},
-	{
 		"phrase": "Small Canister",
 		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
 		"translation": "Μικρό κάνιστρο",
@@ -3040,7 +3022,7 @@
 	},
 	{
 		"phrase": "Loadout list",
-		"comment": "A list of loadouts",
+		"comment": "Header text above a list of loadouts",
 		"translation": "Λίστα φόρτωσης",
 		"machine": true
 	},
@@ -3264,12 +3246,6 @@
 		"phrase": "Viewing their weapons",
 		"comment": "Rich presence",
 		"translation": "Βλέποντας τα όπλα τους",
-		"machine": true
-	},
-	{
-		"phrase": "Viewing their loadouts",
-		"comment": "Rich presence",
-		"translation": "Προβολή των φορτίων τους",
 		"machine": true
 	},
 	{
@@ -3556,7 +3532,7 @@
 	},
 	{
 		"phrase": "{0} Power",
-		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12'",
+		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12 \/ 15'",
 		"translation": "{0} Power",
 		"machine": true
 	},
@@ -3570,12 +3546,6 @@
 		"phrase": "Unmute all players",
 		"comment": "Unmute all players in voice chat",
 		"translation": "Κατάργηση σίγασης όλων των παικτών",
-		"machine": true
-	},
-	{
-		"phrase": "Return to battle [{0}]",
-		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
-		"translation": "Επιστροφή στη μάχη [{0}]",
 		"machine": true
 	},
 	{
@@ -3667,12 +3637,6 @@
 		"phrase": "ST {0}",
 		"comment": "Mod power, i.e. 'ST 2' means the player has the level 2 Stealth armour modification equipped",
 		"translation": "ST {0}",
-		"machine": true
-	},
-	{
-		"phrase": "Modifications - [{0}]",
-		"comment": "Armour modifications. Parameter 0: '3'",
-		"translation": "Τροποποιήσεις - [{0}]",
 		"machine": true
 	},
 	{
@@ -4292,12 +4256,6 @@
 		"phrase": "Enter your key below to redeem it for Protons, skins and more",
 		"comment": "Instruction text for redeeming keys",
 		"translation": "Εισαγάγετε το κλειδί σας παρακάτω για να το εξαργυρώσετε για πρωτόνια, δέρματα και άλλα",
-		"machine": true
-	},
-	{
-		"phrase": "Your key has been successfully redeemed. You gained:",
-		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. '10000 Protons'",
-		"translation": "Το κλειδί σας εξαργυρώθηκε με επιτυχία. κέρδισες:",
 		"machine": true
 	},
 	{
@@ -5790,42 +5748,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "This server will restart at the end of the round for maintenance",
-		"comment": "This message appears to let players know that the server will restart at the end of the round",
-		"translation": "Αυτός ο διακομιστής θα επανεκκινήσει στο τέλος του γύρου για συντήρηση",
-		"machine": true
-	},
-	{
-		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will update at the end of the round. Parameter 0: 'Version 1.6'",
-		"translation": "Αυτός ο διακομιστής θα ενημερωθεί σε {0} στο τέλος του αγώνα. ΠΡΕΠΕΙ να ενημερώσετε τον πελάτη σας μέσω του steam για να συνδεθείτε ξανά στους διακομιστές",
-		"machine": true
-	},
-	{
-		"phrase": "This server will quickly restart at the end of this round. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server will update\/patch\/upgrade at the end of the round",
-		"translation": "Αυτός ο διακομιστής θα επανεκκινήσει γρήγορα στο τέλος αυτού του γύρου. μπορείτε να παραμείνετε σε αυτόν τον διακομιστή και ΔΕΝ χρειάζεται να ενημερώσετε τον πελάτη σας",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now restart for maintenance",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Αυτός ο διακομιστής θα επανεκκινηθεί τώρα για συντήρηση",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now update to {0}. You MUST update your client through Steam to rejoin servers",
-		"comment": "This message appears to let players know that the server will now update. Parameter 0: 'Version 1.6'",
-		"translation": "Αυτός ο διακομιστής θα ενημερωθεί τώρα σε {0}. ΠΡΕΠΕΙ να ενημερώσετε τον πελάτη σας μέσω του steam για να συνδεθείτε ξανά στους διακομιστές",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now quickly restart. You can remain in this server and do NOT need to update your client",
-		"comment": "This message appears to let players know that the server is going to restart",
-		"translation": "Αυτός ο διακομιστής θα γίνει γρήγορα επανεκκίνηση. μπορείτε να παραμείνετε σε αυτόν τον διακομιστή και ΔΕΝ χρειάζεται να ενημερώσετε τον πελάτη σας",
-		"machine": true
-	},
-	{
 		"phrase": "This map does not support the game mode {0}",
 		"comment": "Parameter 0: 'Capture the Flag'",
 		"translation": "Αυτός ο χάρτης δεν υποστηρίζει τη λειτουργία παιχνιδιού {0}",
@@ -6159,7 +6081,7 @@
 	},
 	{
 		"phrase": "Slot",
-		"comment": "1 Slot, i.e. an equipment slot",
+		"comment": "1 Slot, i.e. an equipment slot, or a reserved slot in the server for your party",
 		"translation": "Θυρίδα",
 		"machine": true
 	},
@@ -7566,12 +7488,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether Disruptors, C4, Scanners and Disruptors cast shadows",
-		"comment": "Description for the 'Entity block shadows' setting",
-		"translation": "Ελέγχει εάν οι διαταράκτες, το c4, οι σαρωτές και οι διακόπτες δημιουργούν σκιές",
-		"machine": true
-	},
-	{
 		"phrase": "Controls whether falling blocks cast shadows",
 		"comment": "Description for the 'Falling block shadows' setting",
 		"translation": "Ελέγχει εάν τα μπλοκ που πέφτουν δημιουργούν σκιές",
@@ -7972,7 +7888,7 @@
 	},
 	{
 		"phrase": "Player not found",
-		"comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+		"comment": "This error is shown if a player attempts to send an item to a friend, but the friend hasn't played Sector's Edge yet",
 		"translation": "Ο παίκτης δεν βρέθηκε",
 		"machine": true
 	},
@@ -8058,12 +7974,6 @@
 		"phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
 		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
 		"translation": "Το άκρο του τομέα έχει σταματήσει να ανταποκρίνεται. εάν το παιχνίδι διακόπτεται συχνά, ακολουθήστε τις οδηγίες στο {0} για βοήθεια στην επίλυση αυτού του προβλήματος.",
-		"machine": true
-	},
-	{
-		"phrase": "This server will now shut down for a system update. You do not need to update your client and can continue playing on another server.",
-		"comment": "This message appears to let players know that the server is going to shut down",
-		"translation": "Αυτός ο διακομιστής θα τερματιστεί τώρα για ενημέρωση συστήματος. δεν χρειάζεται να ενημερώσετε τον πελάτη σας και μπορείτε να συνεχίσετε να παίζετε σε άλλο διακομιστή.",
 		"machine": true
 	},
 	{
@@ -9479,12 +9389,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "{0} Content Creator",
-		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc. Parameter 0: 'YouTube'",
-		"translation": "Δημιουργός περιεχομένου {0}",
-		"machine": true
-	},
-	{
 		"phrase": "Salvage Cup {0} Champion",
 		"comment": "The winning team of a Salvage Cup tournament. Parameter 0: '1'",
 		"translation": "Πρωταθλητής {0} Κυπέλλου διάσωσης",
@@ -9596,12 +9500,6 @@
 		"phrase": "Character tokens can be used to unlock any character.",
 		"comment": "Character token description",
 		"translation": "Τα διακριτικά χαρακτήρων μπορούν να χρησιμοποιηθούν για το ξεκλείδωμα οποιουδήποτε χαρακτήρα.",
-		"machine": true
-	},
-	{
-		"phrase": "Double click to activate. This will override your current active boost",
-		"comment": "Double click the XP boost in your inventory to activate it. If the player already already has an active boost, it will be overriden by the new one",
-		"translation": "Κάντε διπλό κλικ για ενεργοποίηση. Αυτό θα παρακάμψει την τρέχουσα ενεργή ώθησή σας",
 		"machine": true
 	},
 	{
@@ -9728,12 +9626,6 @@
 		"phrase": "Colours",
 		"comment": "2 colours, i.e. red and black",
 		"translation": "Χρώματα",
-		"machine": true
-	},
-	{
-		"phrase": "{0} boost active\n{1} {2} remaining",
-		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '36'. Parameter 2: 'minutes'",
-		"translation": "Ενεργή ενίσχυση {0}\nΑπομένει {1} {2}",
 		"machine": true
 	},
 	{
@@ -9871,12 +9763,6 @@
 		"machine": true
 	},
 	{
-		"phrase": "The map does not exist in the {0} Workshop...",
-		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "Ο χάρτης δεν υπάρχει στο συνεργείο {0}...",
-		"machine": true
-	},
-	{
 		"phrase": "Bot count set to {0}-{1}",
 		"comment": "This message appears when the lobby owner changes the amount of bots in the lobby. Parameter 0: '6', Parameter 1: '6', i.e. 6 bots are enabled on both teams",
 		"translation": "Ο αριθμός ρομπότ ορίστηκε σε {0}-{1}",
@@ -10003,21 +9889,9 @@
 		"machine": true
 	},
 	{
-		"phrase": "Controls whether outlines should be off, focused (only appear when looking at enemies), or always on",
-		"comment": "Description for the 'Enemy outlines' setting",
-		"translation": "Ελέγχει εάν τα περιγράμματα πρέπει να είναι απενεργοποιημένα, εστιασμένα (εμφανίζονται μόνο όταν κοιτάζετε εχθρούς) ή πάντα ενεργοποιημένα",
-		"machine": true
-	},
-	{
 		"phrase": "Friendly outlines",
 		"comment": "Setting that controls whether coloured outlines should render around friendlies",
 		"translation": "Φιλικά περιγράμματα",
-		"machine": true
-	},
-	{
-		"phrase": "Controls whether outline should render around friendly players",
-		"comment": "Description for the 'Friendly outlines' setting",
-		"translation": "Ελέγχει εάν το περίγραμμα πρέπει να αποδίδεται γύρω από φιλικούς παίκτες",
 		"machine": true
 	},
 	{
@@ -10030,6 +9904,656 @@
 		"phrase": "Outlines",
 		"comment": "Coloured outlines that render around players so you can tell which team they're on",
 		"translation": "Περιγράμματα",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to provide feedback",
+		"comment": "Instructions for providing feedback. Parameter 0: 'F1'",
+		"translation": "Πατήστε {0} για να δώσετε σχόλια",
+		"machine": true
+	},
+	{
+		"phrase": "{0}ms cooldown",
+		"comment": "Cooldown tooltip, i.e. '625ms cooldown'. ms = milliseconds. Cooldown refers to how long the player needs to wait before being able to build blocks",
+		"translation": "Ψύξη {0}ms",
+		"machine": true
+	},
+	{
+		"phrase": "Press {0} to change the origin",
+		"comment": "Instructions for changing which block in your pre-made structure is the origin\/center. Parameter 0: 'Enter'",
+		"translation": "Πατήστε {0} για να αλλάξετε την προέλευση",
+		"machine": true
+	},
+	{
+		"phrase": "An update is available. Please update your game through Steam to continue playing",
+		"comment": "Update notification",
+		"translation": "Υπάρχει διαθέσιμη ενημέρωση. ενημερώστε το παιχνίδι σας μέσω steam για να συνεχίσετε να παίζετε",
+		"machine": true
+	},
+	{
+		"phrase": "Reset keybinds",
+		"comment": "Reset to the default keyboard shortcuts",
+		"translation": "Επαναφορά πλήκτρων",
+		"machine": true
+	},
+	{
+		"phrase": "Would you like to play the tutorial?",
+		"comment": "Tutorial prompt when the game first starts up",
+		"translation": "Θα θέλατε να παίξετε το σεμινάριο?",
+		"machine": true
+	},
+	{
+		"phrase": "Click to confirm",
+		"comment": "Click again to confirm you want to reset your keybinds to default",
+		"translation": "Κάντε κλικ για επιβεβαίωση",
+		"machine": true
+	},
+	{
+		"phrase": "Fullscreen",
+		"comment": "[Keybind]",
+		"translation": "ΠΛΗΡΗΣ ΟΘΟΝΗ",
+		"machine": true
+	},
+	{
+		"phrase": "Exclusive Fullscreen",
+		"comment": "[Keybind]",
+		"translation": "Αποκλειστική πλήρης οθόνη",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up deployable",
+		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
+		"translation": "Παραλαβή με δυνατότητα ανάπτυξης",
+		"machine": true
+	},
+	{
+		"phrase": "Old Version",
+		"comment": "This server is running an old version of the game",
+		"translation": "Παλιά εκδοχή",
+		"machine": true
+	},
+	{
+		"phrase": "Block pack",
+		"comment": "Store pack title. Blocks refer to 3D cubes\/voxels. This pack lets you customise them with skins",
+		"translation": "Συσκευασία μπλοκ",
+		"machine": true
+	},
+	{
+		"phrase": "Exhibit your building expertise with these aftermarket {0} modifications.",
+		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
+		"translation": "Δείξτε την τεχνογνωσία σας στο κτίριο με αυτές τις aftermarket τροποποιήσεις {0}.",
+		"machine": true
+	},
+	{
+		"phrase": "Destruction",
+		"comment": "To destroy everything with explosions",
+		"translation": "Καταστροφή",
+		"machine": true
+	},
+	{
+		"phrase": "Los Angeles",
+		"comment": "Server location",
+		"translation": "Λος Άντζελες",
+		"machine": true
+	},
+	{
+		"phrase": "New Jersey",
+		"comment": "Server location",
+		"translation": "New Jersey",
+		"machine": true
+	},
+	{
+		"phrase": "Block Pack required",
+		"comment": "The player must own the Block Pack to equip this block skin",
+		"translation": "Απαιτείται μπλοκ πακέτο",
+		"machine": true
+	},
+	{
+		"phrase": "Tutorial",
+		"comment": "A tutorial that shows players how to build",
+		"translation": "Φροντιστήριο",
+		"machine": true
+	},
+	{
+		"phrase": "Screen shake",
+		"comment": "Setting that controls whether the screen should shake when large structures fall down",
+		"translation": "Κούνημα οθόνης",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether the screen should shake when large structures fall down",
+		"comment": "Description for the 'Screen shake' setting",
+		"translation": "Ελέγχει εάν η οθόνη θα πρέπει να κουνιέται όταν πέφτουν μεγάλες κατασκευές",
+		"machine": true
+	},
+	{
+		"phrase": "Move",
+		"comment": "To move around, i.e. tutorial instructions: '[WASD] Move'",
+		"translation": "Κίνηση",
+		"machine": true
+	},
+	{
+		"phrase": "Flag",
+		"comment": "Capture the flag",
+		"translation": "Σημαία",
+		"machine": true
+	},
+	{
+		"phrase": "Bomb",
+		"comment": "Plant the explosive bomb. Jake's butt is da bomb",
+		"translation": "Βόμβα",
+		"machine": true
+	},
+	{
+		"phrase": "You can't run back into your spawn area or rocket jump when holding the {0}.",
+		"comment": "Game mode instructions. Parameter 0 is either 'flag' or 'bomb'",
+		"translation": "Δεν μπορείτε να τρέξετε πίσω στην περιοχή αναπαραγωγής σας ή να πηδήξετε με πύραυλο όταν κρατάτε το {0}.",
+		"machine": true
+	},
+	{
+		"phrase": "Stand in the zone to push it towards your enemy. Your team wins when the zone reaches the other side of the map.",
+		"comment": "Instructions for the Control Shift game mode",
+		"translation": "Σταθείτε στη ζώνη για να την σπρώξετε προς τον εχθρό σας. η ομάδα σας κερδίζει όταν η ζώνη φτάσει στην άλλη πλευρά του χάρτη.",
+		"machine": true
+	},
+	{
+		"phrase": "Capture each zone in sequence. Your team wins when all zones are captured.",
+		"comment": "Instructions for the Breakthrough game mode",
+		"translation": "Καταγράψτε κάθε ζώνη με τη σειρά. η ομάδα σας κερδίζει όταν κατακτηθούν όλες οι ζώνες.",
+		"machine": true
+	},
+	{
+		"phrase": "Steal the enemy flag and return it to your base.",
+		"comment": "Instructions for the Capture the Flag game mode",
+		"translation": "Κλέψτε τη σημαία του εχθρού και επιστρέψτε τη στη βάση σας.",
+		"machine": true
+	},
+	{
+		"phrase": "Pick up your team's bomb and deliver it to the enemy base.",
+		"comment": "Instructions for the Escort game mode",
+		"translation": "Πάρτε τη βόμβα της ομάδας σας και παραδώστε την στην εχθρική βάση.",
+		"machine": true
+	},
+	{
+		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
+		"comment": "Tutorial instructions",
+		"translation": "Μπορείτε επίσης να τοποθετήσετε προκατασκευασμένες κατασκευές. επιλέξτε ένα χρησιμοποιώντας το ακτινωτό ή κάντε εναλλαγή μεταξύ τους. δημιουργήστε μια δομή οπουδήποτε για να συνεχίσετε.",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the digger and cut down this street light. Concrete blocks are weaker than metal blocks.",
+		"comment": "Tutorial instructions",
+		"translation": "Εξοπλίστε τον εκσκαφέα και κόψτε αυτό το φως του δρόμου. Οι τσιμεντόλιθοι είναι πιο αδύναμοι από τους μεταλλικούς λίθους.",
+		"machine": true
+	},
+	{
+		"phrase": "Equip the Assault Rifle and shoot the crash target.",
+		"comment": "Tutorial instructions",
+		"translation": "Εξοπλίστε το τουφέκι επίθεσης και πυροβολήστε τον στόχο της πρόσκρουσης.",
+		"machine": true
+	},
+	{
+		"phrase": "Your GPU does not support {0}, which is required to run the game. Please update to the latest version of {1} and check for GPU driver updates. If this error still appears it is unlikely you will be able to run the game. More information is available at {2}",
+		"comment": "Startup error. Parameter 0: 'OpenGL 3.3'. Parameter 1: 'Windows'. Parameter 2: 'https:\/\/sectorsedge.com\/support'",
+		"translation": "Η GPU σας δεν υποστηρίζει το {0}, το οποίο απαιτείται για την εκτέλεση του παιχνιδιού. ενημερώστε στην πιο πρόσφατη έκδοση του {1} και ελέγξτε για ενημερώσεις προγραμμάτων οδήγησης GPU. Εάν αυτό το σφάλμα εξακολουθεί να εμφανίζεται, είναι απίθανο να μπορείτε να εκτελέσετε το παιχνίδι. περισσότερες πληροφορίες είναι διαθέσιμες στο {2}",
+		"machine": true
+	},
+	{
+		"phrase": "Out of bounds",
+		"comment": "A player is out of bounds when they run too far away from the objective",
+		"translation": "Εκτός ορίων",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout statistics",
+		"comment": "Header text above the loadout's statistics, e.g. movement speed, player health, build distance",
+		"translation": "Στατιστικά φόρτωσης",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout contents",
+		"comment": "Header text above the UI panel that shows each weapon\/utility\/grenade\/perk equipped in the loadout",
+		"translation": "Φόρτωση περιεχομένου",
+		"machine": true
+	},
+	{
+		"phrase": "Select a weapon",
+		"comment": "Header text above the list of weapons, prompting the user to select one",
+		"translation": "Επιλέξτε ένα όπλο",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a weapon",
+		"comment": "Text prompting the user to click a loadout slot to equip a weapon",
+		"translation": "Κάντε κλικ για να εξοπλίσετε ένα όπλο",
+		"machine": true
+	},
+	{
+		"phrase": "Click to equip a utility",
+		"comment": "Text prompting the user to click a loadout slot to equip a utility, e.g. C4, Disruptor, Scanner",
+		"translation": "Κάντε κλικ για να εξοπλίσετε ένα βοηθητικό πρόγραμμα",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}",
+		"comment": "This text shows at the top of the screen after the player steals the enemy flag. Parameter 0: 'Flag' or 'Bomb'",
+		"translation": "Κουβαλάτε το {0}",
+		"machine": true
+	},
+	{
+		"phrase": "You are carrying the {0}. Press {1} to drop it",
+		"comment": "Instructions text that tells the player how to drop the enemy flag that they're holding. Parameter 0: 'V'",
+		"translation": "Κουβαλάτε το {0}. πατήστε το {1} για να το ρίξετε",
+		"machine": true
+	},
+	{
+		"phrase": "{0} boost active\n{1} remaining",
+		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '3h 14m' (i.e. 3 hours, 14 minutes)",
+		"translation": "Ενεργή ενίσχυση {0}\nΑπομένει {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Reserved",
+		"comment": "A slot in this server is reserved for a party member",
+		"translation": "Κατοχυρωμένα",
+		"machine": true
+	},
+	{
+		"phrase": "Open log folder",
+		"comment": "Open the folder on your PC where log files are stored",
+		"translation": "Άνοιγμα φακέλου καταγραφής",
+		"machine": true
+	},
+	{
+		"phrase": "Drop flag\/bomb",
+		"comment": "Keybind that drops the flag\/bomb that the player is carrying",
+		"translation": "Ρίξτε σημαία\/βόμβα",
+		"machine": true
+	},
+	{
+		"phrase": "Hazard",
+		"comment": "A yellow-and-black hazard themed block skin5",
+		"translation": "Κίνδυνος",
+		"machine": true
+	},
+	{
+		"phrase": "Camouflage",
+		"comment": "A camoflague pattern",
+		"translation": "Καμουφλάζ",
+		"machine": true
+	},
+	{
+		"phrase": "Flip structure",
+		"comment": "Pressing this keybind will flip the structure vertically",
+		"translation": "Δομή ανατροπής",
+		"machine": true
+	},
+	{
+		"phrase": "Your party has joined a {0} match on {1}. Auto joining in {2} {3}. Click here to cancel",
+		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'. Parameter 2 is '9', parameter 3 is 'second' or 'seconds'",
+		"translation": "Το κόμμα σας έχει συμμετάσχει σε έναν αγώνα {0} στο {1}. αυτόματη σύνδεση σε {2} {3}. κάντε κλικ εδώ για ακύρωση",
+		"machine": true
+	},
+	{
+		"phrase": "This boost will increase the amount of {0} and XP you earn by {1}. Boost time is only used when in game.\n\nTime remaining: {2}\n\nClick to change the current boost",
+		"comment": "Proton pack description. Parameter 0: 'Protons'",
+		"translation": "Αυτή η ενίσχυση θα αυξήσει το ποσό των {0} και XP που κερδίζετε κατά {1}. Ο χρόνος ενίσχυσης χρησιμοποιείται μόνο όταν βρίσκεται στο παιχνίδι.\n\nΧρόνος που απομένει: {2}\n\nΚάντε κλικ για να αλλάξετε την τρέχουσα ενίσχυση",
+		"machine": true
+	},
+	{
+		"phrase": "New Version",
+		"comment": "This server is running a new version of the game",
+		"translation": "Νέα έκδοση",
+		"machine": true
+	},
+	{
+		"phrase": "Purchased",
+		"comment": "This player has purchased a pack",
+		"translation": "Αγορασμένο",
+		"machine": true
+	},
+	{
+		"phrase": "Our servers are offline, please try again later",
+		"comment": "This error is shown if a player attempts to buy a pack from the store but our backend servers are offline",
+		"translation": "Οι διακομιστές μας είναι εκτός σύνδεσης, δοκιμάστε ξανά αργότερα",
+		"machine": true
+	},
+	{
+		"phrase": "Start",
+		"comment": "When you start scoping in",
+		"translation": "Αρχή",
+		"machine": true
+	},
+	{
+		"phrase": "Gradual",
+		"comment": "Changing your sensitivity gradually as you scope in with a gun",
+		"translation": "Βαθμιαίος",
+		"machine": true
+	},
+	{
+		"phrase": "End",
+		"comment": "When you finish scoping in",
+		"translation": "Τέλος",
+		"machine": true
+	},
+	{
+		"phrase": "Double click to exit",
+		"comment": "Double click to close the game",
+		"translation": "Κάντε διπλό κλικ για έξοδο",
+		"machine": true
+	},
+	{
+		"phrase": "North America",
+		"comment": "Server region category, representing USA and Canada",
+		"translation": "Βόρεια Αμερική",
+		"machine": true
+	},
+	{
+		"phrase": "You gained:",
+		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. 'You gained: 10000 Protons'",
+		"translation": "Κέρδισες:",
+		"machine": true
+	},
+	{
+		"phrase": "Not found",
+		"comment": "The file cannot be found",
+		"translation": "Δεν βρέθηκε",
+		"machine": true
+	},
+	{
+		"phrase": "Get back to the objective [{0}]",
+		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
+		"translation": "Επιστρέψτε στον στόχο [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Gravity",
+		"comment": "How fast things fall",
+		"translation": "Βαρύτητα",
+		"machine": true
+	},
+	{
+		"phrase": "Player health",
+		"comment": "How much health\/hit points a player has, e.g. 100 health means they can take 100 damage before dying",
+		"translation": "Υγεία παίκτη",
+		"machine": true
+	},
+	{
+		"phrase": "Max loadout power",
+		"context": "Maximum loadout power",
+		"comment": "Each weapon has a power value, and the total power of all weapons must not exceed the maximum loadout power of 15",
+		"translation": "Μέγιστη ισχύς φόρτωσης",
+		"machine": true
+	},
+	{
+		"phrase": "Damage per mag",
+		"context": "Damage per magazine",
+		"comment": "The total amount of damage a weapon can output with a single magazine\/clip",
+		"translation": "Ζημιά ανά mag",
+		"machine": true
+	},
+	{
+		"phrase": "Click and drag to move around. Click in the green area to spawn",
+		"comment": "Instruction text telling the player to click in the green area to spawn\/respawn.",
+		"translation": "Κάντε κλικ και σύρετε για να μετακινηθείτε. κάντε κλικ στην πράσινη περιοχή για αναπαραγωγή",
+		"machine": true
+	},
+	{
+		"phrase": "Loadout uses banned weapons - unequip the {0} to spawn",
+		"comment": "Info text that shows when a player attempts to spawn with a loadout that contains banned weapons. Parameter 0: 'Rail Gun, Combat Shotgun'",
+		"translation": "Το Loadout χρησιμοποιεί απαγορευμένα όπλα - αποσυνδέστε το {0} για αναπαραγωγή",
+		"machine": true
+	},
+	{
+		"phrase": "Return to loadout",
+		"comment": "Return to the loadout customisation screen",
+		"translation": "Επιστροφή στη φόρτωση",
+		"machine": true
+	},
+	{
+		"phrase": "Mods [{0}]",
+		"comment": "Abbreviation for armour modifications. Parameter 0: '3'",
+		"translation": "Mods [{0}]",
+		"machine": true
+	},
+	{
+		"phrase": "Devices",
+		"comment": "This refers to audio input\/output devices",
+		"translation": "συσκευές",
+		"machine": true
+	},
+	{
+		"phrase": "Proximity chat",
+		"comment": "Proximity voice chat lets you hear players talk when they are near by",
+		"translation": "Συζήτηση εγγύτητας",
+		"machine": true
+	},
+	{
+		"phrase": "Performance",
+		"comment": "This refers to how fast\/optimised the game is",
+		"translation": "Εκτέλεση",
+		"machine": true
+	},
+	{
+		"phrase": "Audio sample rate",
+		"comment": "Setting that controls whether the game outputs sound at 48KHz, 96KHz or 192KHz",
+		"translation": "Ρυθμός δειγματοληψίας ήχου",
+		"machine": true
+	},
+	{
+		"phrase": "Log all keyboard input",
+		"comment": "Setting that logs all keyboard input to a file",
+		"translation": "Καταγραφή όλων των εισόδων από το πληκτρολόγιο",
+		"machine": true
+	},
+	{
+		"phrase": "Used for diagnosing input lag issues",
+		"comment": "Description for the 'Log all keyboard input' setting",
+		"translation": "Χρησιμοποιείται για τη διάγνωση προβλημάτων καθυστέρησης εισόδου",
+		"machine": true
+	},
+	{
+		"phrase": "Use crosshair when ADS",
+		"comment": "Setting that controls whether your crosshair UI remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "Χρησιμοποιήστε σταυρόνημα όταν ADS",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your crosshair UI remains visible when scoping",
+		"comment": "Controls whether the player's UI crosshair remains visible when scoping (ADS = aiming down the sights)",
+		"translation": "Ελέγχει εάν η διεπαφή χρήστη σταυρόνης σας παραμένει ορατή κατά την οριοθέτηση",
+		"machine": true
+	},
+	{
+		"phrase": "Scope sensitivity start",
+		"comment": "[Setting] Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"translation": "Έναρξη ευαισθησίας πεδίου",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
+		"comment": "Tooltip for the Scope Sensitivity Start setting",
+		"translation": "Ελέγχει εάν η ευαισθησία του εύρους εφαρμόζεται κατά την έναρξη της εμβέλειας, σταδιακά καθώς σκοπεύετε ή μόνο όταν έχετε πλήρη εμβέλεια",
+		"machine": true
+	},
+	{
+		"phrase": "Screen",
+		"comment": "Screen settings like window resolution, max frames per second, vertical sync (VSync)",
+		"translation": "Οθόνη",
+		"machine": true
+	},
+	{
+		"phrase": "Post Processing",
+		"comment": "Effects applied once the game is rendered, such as lighting, ambient occlusion, bloom, crepuscular rays",
+		"translation": "Μετα-επεξεργασία",
+		"machine": true
+	},
+	{
+		"phrase": "Shadows",
+		"comment": "Dark areas that light can't reach",
+		"translation": "Σκιές",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether entities (e.g. Disruptors and Scanners) cast shadows",
+		"comment": "Description for the 'Entity block shadows' setting",
+		"translation": "Ελέγχει εάν οι οντότητες (π.χ. διακόπτες και σαρωτές) δημιουργούν σκιές",
+		"machine": true
+	},
+	{
+		"phrase": "Controls whether outlines should be off, focused (only appear when looking at {0}), or always on",
+		"comment": "Description for the 'Enemy outlines' setting. Parameter 0: either 'enemies' or 'friendlies'",
+		"translation": "Ελέγχει εάν τα περιγράμματα πρέπει να είναι απενεργοποιημένα, εστιασμένα (εμφανίζονται μόνο όταν κοιτάζετε το {0}) ή πάντα ενεργοποιημένα",
+		"machine": true
+	},
+	{
+		"phrase": "This server will restart for maintenance at the end of the match. You can continue playing on another server",
+		"comment": "Chat message that lets players know the server will shut down at the end of the match",
+		"translation": "Αυτός ο διακομιστής θα επανεκκινήσει για συντήρηση στο τέλος του αγώνα. μπορείτε να συνεχίσετε να παίζετε σε άλλο διακομιστή",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now restart for maintenance. You can continue playing on another server.",
+		"comment": "Chat message that lets players know the server is shutting down",
+		"translation": "Αυτός ο διακομιστής θα επανεκκινηθεί τώρα για συντήρηση. μπορείτε να συνεχίσετε να παίζετε σε άλλο διακομιστή.",
+		"machine": true
+	},
+	{
+		"phrase": "The map does not exist in the {0} Workshop",
+		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
+		"translation": "Ο χάρτης δεν υπάρχει στο συνεργείο {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Unable to reserve slots for your party as the server is full",
+		"comment": "Error message that tells the party leader that that slots could not be reserved for their party",
+		"translation": "Δεν είναι δυνατή η κράτηση θέσεων για το πάρτι σας, καθώς ο διακομιστής είναι γεμάτος",
+		"machine": true
+	},
+	{
+		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will update to a new version when the match finishes. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "Αυτός ο διακομιστής θα ενημερωθεί σε {0} στο τέλος του αγώνα. ΠΡΕΠΕΙ να ενημερώσετε τον πελάτη σας μέσω του {1} για να συνδεθείτε ξανά στους διακομιστές",
+		"machine": true
+	},
+	{
+		"phrase": "This server will now update to {0}. You MUST update your client through {1} to rejoin servers",
+		"comment": "The server will now update to a new version. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
+		"translation": "Αυτός ο διακομιστής θα ενημερωθεί τώρα σε {0}. ΠΡΕΠΕΙ να ενημερώσετε τον πελάτη σας μέσω του {1} για να συνδεθείτε ξανά στους διακομιστές",
+		"machine": true
+	},
+	{
+		"phrase": "{0} {1} reserved for your party. They will expire in {2} {3}",
+		"comment": "Notification that a slot(s) in the server have been reserved for your party. Parameter 0: '3', parameter 1: 'slot' or 'slots', parameter 2: '1', parameter 3: 'minute'",
+		"translation": "Το {0} {1} έχει δεσμευτεί για το πάρτι σας. Θα λήξουν σε {2} {3}",
+		"machine": true
+	},
+	{
+		"phrase": "{0} reserved {1} were not claimed by your party and have expired",
+		"comment": "Notification that a slot(s) you reserved for your party have expired. Parameter 0: '3', parameter 1: 'slot' or 'slots'",
+		"translation": "Το {0} δεσμευμένο Το {1} δεν διεκδικήθηκε από το μέρος σας και έχει λήξει",
+		"machine": true
+	},
+	{
+		"phrase": "Content Creator",
+		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc.",
+		"translation": "Δημιουργός περιεχομένου",
+		"machine": true
+	},
+	{
+		"phrase": "{0} Prototype",
+		"comment": "Refers to an early version of a robot that was not yet completed. It is unstable and dangerous. Parameter 0: 'Nova'",
+		"translation": "Πρωτότυπο {0}",
+		"machine": true
+	},
+	{
+		"phrase": "Earned {0} {1} trial medals",
+		"comment": "Description of how a player earned the 'Midi Certified' title. Paramter 0: '9'. Paramter 1: 'bronze'",
+		"translation": "Κέρδισε δοκιμαστικά μετάλλια {0} {1}",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} accuracy title, earned from headshot and direct points",
+		"comment": "Description of how a player earned the 'Fatal' accuracy title. Paramter 0: '1'",
+		"translation": "Τίτλος ακρίβειας επιπέδου {0}, που κερδίζεται από headshot και απευθείας πόντους",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} melee title, earned by stabbing enemies",
+		"comment": "Description of how a player earned the 'Butcher' accuracy title. Paramter 0: '1'",
+		"translation": "Επίπεδο {0} melee τίτλος, που κερδίζεται μαχαιρώνοντας εχθρούς",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} building title, earned by fortifying objectives and dealing damage with the digger",
+		"comment": "Description of how a player earned the 'Reinforcer' building title. Paramter 0: '1'",
+		"translation": "Επίπεδο {0} τίτλος κτιρίου, που κερδίζεται με την ενίσχυση των στόχων και την αντιμετώπιση ζημιών με τον εκσκαφέα",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} objective title, earned by capturing objectives",
+		"comment": "Description of how a player earned the 'Raider' objective title. Paramter 0: '1'",
+		"translation": "Τίτλος αντικειμενικού επιπέδου {0}, που κερδίζεται με τη σύλληψη στόχων",
+		"machine": true
+	},
+	{
+		"phrase": "Level {0} teamplay title, earned from spot assists and avenging or saving teammates",
+		"comment": "Description of how a player earned the 'Uplifter' teamplay title. Paramter 0: '1'",
+		"translation": "Τίτλος ομαδικού επιπέδου {0}, που κερδίζεται από ασίστ σποτ και εκδίκηση ή σωτηρία συμπαικτών",
+		"machine": true
+	},
+	{
+		"phrase": "Helped record a trailer",
+		"comment": "Description for the 'Trailer Crew' title",
+		"translation": "Βοήθησε στην εγγραφή ενός τρέιλερ",
+		"machine": true
+	},
+	{
+		"phrase": "Played {0} before it was released on Steam",
+		"comment": "Description for the 'Alpha Tester' title. Parameter 0: 'Sector's Edge'",
+		"translation": "Έπαιξε το {0} πριν κυκλοφορήσει στο steam",
+		"machine": true
+	},
+	{
+		"phrase": "Helped test {0} on the beta branch",
+		"comment": "Description for the 'Beta Tester' title. The beta branch is a private branch (e.g. a code branch on GitHub) on Steam where players can play experimental builds of the game. Parameter 0: 'Sector's Edge'",
+		"translation": "Βοήθησε να δοκιμάσει το {0} στον κλάδο beta",
+		"machine": true
+	},
+	{
+		"phrase": "Bought the Supporter or Engineer pack",
+		"comment": "Description for the 'Supporter' title",
+		"translation": "Αγόρασα το πακέτο υποστήριξης ή μηχανικού",
+		"machine": true
+	},
+	{
+		"phrase": "Open Beta Launch Week sale - ",
+		"comment": "Launch week sale, all store packs are 50% off",
+		"translation": "Ανοιχτή έκπτωση εβδομάδας κυκλοφορίας beta - ",
+		"machine": true
+	},
+	{
+		"phrase": "all packs are {0} off!",
+		"comment": "All packs 50% off for the launch week sale",
+		"translation": "όλα τα πακέτα είναι {0} off!",
+		"machine": true
+	},
+	{
+		"phrase": "Before you destroy everything in sight, let's show you how to play. Run over to the designated area at the top of the beach.",
+		"comment": "Tutorial instructions",
+		"translation": "Πριν καταστρέψετε τα πάντα, ας σας δείξουμε πώς να παίξετε. τρέχοντας στην καθορισμένη περιοχή στην κορυφή της παραλίας.",
+		"machine": true
+	},
+	{
+		"phrase": "Climb over the wall to enter the city. Equip the {0} and click and drag to place a line of blocks.",
+		"comment": "Tutorial instructions. Parameter 0: 'MiDi', which is a tool the player can use to build and place blocks",
+		"translation": "Ανεβείτε πάνω από τον τοίχο για να μπείτε στην πόλη. Εξοπλίστε το {0} και κάντε κλικ και σύρετε για να τοποθετήσετε μια γραμμή μπλοκ.",
+		"machine": true
+	},
+	{
+		"phrase": "You also have an {0} and {1} in your current loadout, which are perfect for destroying large buildings. Press the escape key to complete the tutorial.",
+		"comment": "Tutorial instructions",
+		"translation": "Έχετε επίσης ένα {0} και {1} στην τρέχουσα φόρτωσή σας, τα οποία είναι τέλεια για την καταστροφή μεγάλων κτιρίων. πατήστε το πλήκτρο διαφυγής για να ολοκληρώσετε το σεμινάριο.",
 		"machine": true
 	}
 ]
