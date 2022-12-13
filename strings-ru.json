@@ -8540,14 +8540,12 @@
 	{
 		"phrase": "Your party has joined a {0} match on {1}. Auto joining in {2} {3}. Click here to cancel",
 		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'. Parameter 2 is '9', parameter 3 is 'second' or 'seconds'",
-		"translation": "Ваша группа присоединилась к матчу {0} на {1}. автоматическое объединение в {2} {3}. нажмите здесь, чтобы отменить",
-		"machine": true
+		"translation": "Ваш отряд присоединился к матчу {0} на карте {1}. Автоматическое присоединение через {2} {3}. Нажмите здесь, чтобы отменить"
 	},
 	{
 		"phrase": "This boost will increase the amount of {0} and XP you earn by {1}. Boost time is only used when in game.\n\nTime remaining: {2}\n\nClick to change the current boost",
 		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Это повышение увеличит количество {0} и XP, которые вы зарабатываете, на {1}. время ускорения используется только в игре.\n\nОставшееся время: {2}\n\nНажмите, чтобы изменить текущее усиление",
-		"machine": true
+		"translation": "Буст увеличит количество {0} и XP, которые вы зарабатываете, на {1}. Время ускорения расходуется только во время матча.\n\nОставшееся время: {2}\n\nНажмите, чтобы изменить текущий буст"
 	},
 	{
 		"phrase": "New Version",
@@ -8629,8 +8627,7 @@
 	{
 		"phrase": "Click and drag to move around. Click in the green area to spawn",
 		"comment": "Instruction text telling the player to click in the green area to spawn\/respawn.",
-		"translation": "Щелкните и перетащите, чтобы переместиться. нажмите на зеленую область, чтобы появиться",
-		"machine": true
+		"translation": "Нажмите и перетащите, чтобы переместить камеру. Нажмите на зеленую область, чтобы возродиться"
 	},
 	{
 		"phrase": "Loadout uses banned weapons - unequip the {0} to spawn",
@@ -8695,8 +8692,7 @@
 	{
 		"phrase": "Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
 		"comment": "Tooltip for the Scope Sensitivity Start setting",
-		"translation": "Определяет, применяется ли ваша чувствительность к области действия при начале области действия, постепенно по мере ее увеличения или только при полной области действия.",
-		"machine": true
+		"translation": "Определяет, когад изменяется чувствительность при прицеливании: в начале, в конце или плавно во время перехода."
 	},
 	{
 		"phrase": "Screen",
@@ -8721,8 +8717,7 @@
 	{
 		"phrase": "Controls whether outlines should be off, focused (only appear when looking at {0}), or always on",
 		"comment": "Description for the 'Enemy outlines' setting. Parameter 0: either 'enemies' or 'friendlies'",
-		"translation": "Контролирует, должны ли контуры быть выключены, сфокусированы (появляются только при взгляде на {0}) или всегда включены",
-		"machine": true
+		"translation": "Контролирует, должны ли очертания быть выключены, включены в фокусе (появляются только при взгляде на {0}) или всегда включены"
 	},
 	{
 		"phrase": "This server will restart for maintenance at the end of the match. You can continue playing on another server",
@@ -8747,26 +8742,22 @@
 	{
 		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through {1} to rejoin servers",
 		"comment": "The server will update to a new version when the match finishes. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
-		"translation": "Этот сервер обновится до {0} в конце матча. вы ДОЛЖНЫ обновить свой клиент через {1}, чтобы присоединиться к серверам",
-		"machine": true
+		"translation": "Этот сервер обновится до версии {0} в конце матча. Вам НУЖНО обновить свой клиент через {1}, чтобы снова присоединиться к серверам"
 	},
 	{
 		"phrase": "This server will now update to {0}. You MUST update your client through {1} to rejoin servers",
 		"comment": "The server will now update to a new version. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
-		"translation": "Теперь этот сервер будет обновлен до {0}. вы ДОЛЖНЫ обновить свой клиент через {1}, чтобы присоединиться к серверам",
-		"machine": true
+		"translation": "Сейчас этот сервер будет обновлен до версии {0}. Вам НУЖНО обновить свой клиент через {1}, чтобы снова присоединиться к серверам"
 	},
 	{
 		"phrase": "{0} {1} reserved for your party. They will expire in {2} {3}",
 		"comment": "Notification that a slot(s) in the server have been reserved for your party. Parameter 0: '3', parameter 1: 'slot' or 'slots', parameter 2: '1', parameter 3: 'minute'",
-		"translation": "{0} {1} зарезервировано для вашей вечеринки. Срок их действия истекает через {2} {3}.",
-		"machine": true
+		"translation": "{0} {1} зарезервировано для вашего отряда. Срок действия резерва истекает через {2} {3}."
 	},
 	{
 		"phrase": "{0} reserved {1} were not claimed by your party and have expired",
 		"comment": "Notification that a slot(s) you reserved for your party have expired. Parameter 0: '3', parameter 1: 'slot' or 'slots'",
-		"translation": "{0} зарезервировано {1} не были востребованы вашей стороной и срок их действия истек",
-		"machine": true
+		"translation": "{0} зарезервированных {1} не были использованы вашим отрядом и срок их действия истек"
 	},
 	{
 		"phrase": "Content Creator",
@@ -8786,32 +8777,27 @@
 	{
 		"phrase": "Level {0} accuracy title, earned from headshot and direct points",
 		"comment": "Description of how a player earned the 'Fatal' accuracy title. Paramter 0: '1'",
-		"translation": "Титул точности уровня {0}, получаемый за попадание в голову и прямые очки.",
-		"machine": true
+		"translation": "Титул точности уровня {0}, получаемый за попадание в голову и очки прямых попаданий."
 	},
 	{
 		"phrase": "Level {0} melee title, earned by stabbing enemies",
 		"comment": "Description of how a player earned the 'Butcher' accuracy title. Paramter 0: '1'",
-		"translation": "Звание ближнего боя уровня {0}, получаемое за нанесение ударов ножом врагам.",
-		"machine": true
+		"translation": "Титул ближнего боя уровня {0}, получаемый за нанесение ударов врагам в ближнем бою."
 	},
 	{
 		"phrase": "Level {0} building title, earned by fortifying objectives and dealing damage with the digger",
 		"comment": "Description of how a player earned the 'Reinforcer' building title. Paramter 0: '1'",
-		"translation": "Звание здания уровня {0}, получаемое за укрепление целей и нанесение урона копателем.",
-		"machine": true
+		"translation": "Титул строительства уровня {0}, получаемый за укрепление целей и нанесение урона копателем."
 	},
 	{
 		"phrase": "Level {0} objective title, earned by capturing objectives",
 		"comment": "Description of how a player earned the 'Raider' objective title. Paramter 0: '1'",
-		"translation": "Звание цели уровня {0}, получаемое за захват целей.",
-		"machine": true
+		"translation": "Титул цели уровня {0}, получаемый за захват целей."
 	},
 	{
 		"phrase": "Level {0} teamplay title, earned from spot assists and avenging or saving teammates",
 		"comment": "Description of how a player earned the 'Uplifter' teamplay title. Paramter 0: '1'",
-		"translation": "Титул командной игры уровня {0}, зарабатываемый точечными передачами, местью или спасением товарищей по команде.",
-		"machine": true
+		"translation": "Титул командной игры уровня {0}, получаемый за помощь обнаружением, отмщение или спасение товарищей по команде."
 	},
 	{
 		"phrase": "Helped record a trailer",
@@ -8826,8 +8812,7 @@
 	{
 		"phrase": "Helped test {0} on the beta branch",
 		"comment": "Description for the 'Beta Tester' title. The beta branch is a private branch (e.g. a code branch on GitHub) on Steam where players can play experimental builds of the game. Parameter 0: 'Sector's Edge'",
-		"translation": "Помог протестировать {0} на бета-ветке",
-		"machine": true
+		"translation": "За помощь в тестировании {0} на бета-ветке"
 	},
 	{
 		"phrase": "Bought the Supporter or Engineer pack",
@@ -8837,8 +8822,7 @@
 	{
 		"phrase": "Open Beta Launch Week sale - ",
 		"comment": "Launch week sale, all store packs are 50% off",
-		"translation": "Распродажа на неделе запуска открытого бета-тестирования - ",
-		"machine": true
+		"translation": "Недельная распродажа в честь запуска открытого бета-тестирования - "
 	},
 	{
 		"phrase": "all packs are {0} off!",
@@ -8848,20 +8832,17 @@
 	{
 		"phrase": "Before you destroy everything in sight, let's show you how to play. Run over to the designated area at the top of the beach.",
 		"comment": "Tutorial instructions",
-		"translation": "Прежде чем вы уничтожите все в поле зрения, давайте покажем вам, как играть. бегите к обозначенному участку в верхней части пляжа.",
-		"machine": true
+		"translation": "Прежде чем вы начнете уничтожать все на своем пути, давайте покажем вам, как играть. Бегите к обозначенному участку на пляже."
 	},
 	{
 		"phrase": "Climb over the wall to enter the city. Equip the {0} and click and drag to place a line of blocks.",
 		"comment": "Tutorial instructions. Parameter 0: 'MiDi', which is a tool the player can use to build and place blocks",
-		"translation": "Перелезьте через стену, чтобы войти в город. оборудуйте {0} и щелкните и перетащите, чтобы разместить линию блоков.",
-		"machine": true
+		"translation": "Преодолейте стену, чтобы войти в город. Экипируйте {0}, щелкните и перетащите, чтобы разместить линию блоков."
 	},
 	{
 		"phrase": "You also have an {0} and {1} in your current loadout, which are perfect for destroying large buildings. Press the escape key to complete the tutorial.",
 		"comment": "Tutorial instructions",
-		"translation": "У вас также есть {0} и {1} в вашем текущем снаряжении, которые идеально подходят для разрушения больших зданий. нажмите клавишу выхода, чтобы завершить обучение.",
-		"machine": true
+		"translation": "В вашем наборе снаряжения также есть {0} и {1}, идеально подходящие для разрушения больших зданий. Нажмите ESC, чтобы завершить обучение."
 	}
 ]
 
