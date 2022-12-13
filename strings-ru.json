@@ -8562,26 +8562,22 @@
 	{
 		"phrase": "Our servers are offline, please try again later",
 		"comment": "This error is shown if a player attempts to buy a pack from the store but our backend servers are offline",
-		"translation": "Наши серверы отключены, повторите попытку позже",
-		"machine": true
+		"translation": "Наши серверы отключены, повторите попытку позже"
 	},
 	{
 		"phrase": "Start",
 		"comment": "When you start scoping in",
-		"translation": "Начинать",
-		"machine": true
+		"translation": "В начале"
 	},
 	{
 		"phrase": "Gradual",
 		"comment": "Changing your sensitivity gradually as you scope in with a gun",
-		"translation": "Постепенно",
-		"machine": true
+		"translation": "Постепенно"
 	},
 	{
 		"phrase": "End",
 		"comment": "When you finish scoping in",
-		"translation": "Конец",
-		"machine": true
+		"translation": "В конце"
 	},
 	{
 		"phrase": "Double click to exit",
@@ -8649,8 +8645,7 @@
 	{
 		"phrase": "Mods [{0}]",
 		"comment": "Abbreviation for armour modifications. Parameter 0: '3'",
-		"translation": "Моды [{0}]",
-		"machine": true
+		"translation": "Мод. [{0}]"
 	},
 	{
 		"phrase": "Devices",
@@ -8660,8 +8655,7 @@
 	{
 		"phrase": "Proximity chat",
 		"comment": "Proximity voice chat lets you hear players talk when they are near by",
-		"translation": "Близкий чат",
-		"machine": true
+		"translation": "Пространственный чат"
 	},
 	{
 		"phrase": "Performance",
@@ -8676,32 +8670,27 @@
 	{
 		"phrase": "Log all keyboard input",
 		"comment": "Setting that logs all keyboard input to a file",
-		"translation": "Записывать весь ввод с клавиатуры",
-		"machine": true
+		"translation": "Записывать весь ввод с клавиатуры"
 	},
 	{
 		"phrase": "Used for diagnosing input lag issues",
 		"comment": "Description for the 'Log all keyboard input' setting",
-		"translation": "Используется для диагностики проблем с задержкой ввода",
-		"machine": true
+		"translation": "Используется для диагностики проблем задержки ввода"
 	},
 	{
 		"phrase": "Use crosshair when ADS",
 		"comment": "Setting that controls whether your crosshair UI remains visible when scoping (ADS = aiming down the sights)",
-		"translation": "Используйте прицел, когда ADS",
-		"machine": true
+		"translation": "Видимость перекрестия при прицеливании"
 	},
 	{
 		"phrase": "Controls whether your crosshair UI remains visible when scoping",
 		"comment": "Controls whether the player's UI crosshair remains visible when scoping (ADS = aiming down the sights)",
-		"translation": "Контролирует, остается ли ваш пользовательский интерфейс прицела видимым при обзоре",
-		"machine": true
+		"translation": "Определяет, остается ли перекрестие видимым при прицеливании"
 	},
 	{
 		"phrase": "Scope sensitivity start",
 		"comment": "[Setting] Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
-		"translation": "Начало чувствительности прицела",
-		"machine": true
+		"translation": "Изменение чувствительности при прицеливании"
 	},
 	{
 		"phrase": "Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
@@ -8712,14 +8701,12 @@
 	{
 		"phrase": "Screen",
 		"comment": "Screen settings like window resolution, max frames per second, vertical sync (VSync)",
-		"translation": "Экран",
-		"machine": true
+		"translation": "Экран"
 	},
 	{
 		"phrase": "Post Processing",
 		"comment": "Effects applied once the game is rendered, such as lighting, ambient occlusion, bloom, crepuscular rays",
-		"translation": "Постобработка",
-		"machine": true
+		"translation": "Постобработка"
 	},
 	{
 		"phrase": "Shadows",
@@ -8729,8 +8716,7 @@
 	{
 		"phrase": "Controls whether entities (e.g. Disruptors and Scanners) cast shadows",
 		"comment": "Description for the 'Entity block shadows' setting",
-		"translation": "Контролирует, отбрасывают ли тени объекты (например, разрушители и сканеры).",
-		"machine": true
+		"translation": "Контролирует, отбрасывают ли тени объекты (например, мины-ловушки и сканеры)."
 	},
 	{
 		"phrase": "Controls whether outlines should be off, focused (only appear when looking at {0}), or always on",
@@ -8741,26 +8727,22 @@
 	{
 		"phrase": "This server will restart for maintenance at the end of the match. You can continue playing on another server",
 		"comment": "Chat message that lets players know the server will shut down at the end of the match",
-		"translation": "Этот сервер будет перезапущен для обслуживания в конце матча. вы можете продолжать играть на другом сервере",
-		"machine": true
+		"translation": "Этот сервер будет перезапущен для обслуживания в конце матча. Вы можете продолжить играть на другом сервере"
 	},
 	{
 		"phrase": "This server will now restart for maintenance. You can continue playing on another server.",
 		"comment": "Chat message that lets players know the server is shutting down",
-		"translation": "Теперь этот сервер будет перезапущен для обслуживания. вы можете продолжать играть на другом сервере.",
-		"machine": true
+		"translation": "Сейчас этот сервер будет перезапущен для обслуживания. Вы можете продолжить играть на другом сервере."
 	},
 	{
 		"phrase": "The map does not exist in the {0} Workshop",
 		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "Карта не существует в мастерской {0}",
-		"machine": true
+		"translation": "Карта не существует в мастерской {0}"
 	},
 	{
 		"phrase": "Unable to reserve slots for your party as the server is full",
 		"comment": "Error message that tells the party leader that that slots could not be reserved for their party",
-		"translation": "Невозможно зарезервировать слоты для вашей вечеринки, так как сервер переполнен.",
-		"machine": true
+		"translation": "Невозможно зарезервировать слоты для вашего отряда, так как сервер переполнен."
 	},
 	{
 		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through {1} to rejoin servers",
@@ -8834,14 +8816,12 @@
 	{
 		"phrase": "Helped record a trailer",
 		"comment": "Description for the 'Trailer Crew' title",
-		"translation": "Помогли записать трейлер",
-		"machine": true
+		"translation": "За помощь в записи трейлера"
 	},
 	{
 		"phrase": "Played {0} before it was released on Steam",
 		"comment": "Description for the 'Alpha Tester' title. Parameter 0: 'Sector's Edge'",
-		"translation": "Играл в {0} до выхода в Steam.",
-		"machine": true
+		"translation": "Играл в {0} до выхода в Steam."
 	},
 	{
 		"phrase": "Helped test {0} on the beta branch",
@@ -8852,8 +8832,7 @@
 	{
 		"phrase": "Bought the Supporter or Engineer pack",
 		"comment": "Description for the 'Supporter' title",
-		"translation": "Купил пакет поддержки или инженера",
-		"machine": true
+		"translation": "За покупку набора Спонсора или набора Инженера"
 	},
 	{
 		"phrase": "Open Beta Launch Week sale - ",
@@ -8864,8 +8843,7 @@
 	{
 		"phrase": "all packs are {0} off!",
 		"comment": "All packs 50% off for the launch week sale",
-		"translation": "все пакеты {0} отключены!",
-		"machine": true
+		"translation": "все наборы дешевле на {0}!"
 	},
 	{
 		"phrase": "Before you destroy everything in sight, let's show you how to play. Run over to the designated area at the top of the beach.",
