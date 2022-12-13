@@ -417,22 +417,22 @@
 	{
 		"phrase": "Angled",
 		"comment": "A type of foregrip that's angled so your hand rests at a different... angle",
-		"translation": "Угл."
+        "translation": "Угл."
 	},
 	{
 		"phrase": "Removed",
 		"comment": "When a gun has no foregrip",
-		"translation": "Нет"
+        "translation": "Нет"
 	},
 	{
 		"phrase": "Stubby",
 		"comment": "A type of foregrip",
-		"translation": "Вертикальн."
+        "translation": "Вертикальн."
 	},
 	{
 		"phrase": "Augmented",
 		"comment": "A large plasma projectile that is slow and weak, but can fuse with other plasma projectiles to power up",
-		"translation": "Аугментированные"
+        "translation": "Аугментированные"
 	},
 	{
 		"phrase": "Buckshot",
@@ -447,7 +447,7 @@
 	{
 		"phrase": "Heavy",
 		"comment": "Heavier ammunition that fires slower but deals more damage",
-		"translation": "Тяж."
+        "translation": "Тяж."
 	},
 	{
 		"phrase": "Light",
@@ -487,12 +487,12 @@
 	{
 		"phrase": "Base",
 		"comment": "Base\/default",
-		"translation": "Обычн."
+        "translation": "Обычн."
 	},
 	{
 		"phrase": "Tactical",
 		"comment": "A tactical missile strike",
-		"translation": "Тактический"
+        "translation": "Тактический"
 	},
 	{
 		"phrase": "Mechanical",
@@ -1312,12 +1312,12 @@
 	{
 		"phrase": "View Scoreboard",
 		"comment": "[Keybind]",
-		"translation": "Посмотреть Таблицу счета"
+        "translation": "Посмотреть Таблицу счета"
 	},
 	{
 		"phrase": "Unlock Scoreboard",
 		"comment": "[Keybind] Allow cursor interaction with the scoreboard",
-		"translation": "Разблокировать Таблицу счета"
+        "translation": "Разблокировать Таблицу счета"
 	},
 	{
 		"phrase": "View Map",
@@ -1402,7 +1402,7 @@
 	{
 		"phrase": "Loadouts Tab",
 		"comment": "[Keybind] Change to the Loadouts screen",
-		"translation": "Вкладка \"Наборы снаряжения\""
+        "translation": "Вкладка \"Наборы снаряжения\""
 	},
 	{
 		"phrase": "Ship Tab",
@@ -1447,7 +1447,7 @@
 	{
 		"phrase": "Side",
 		"comment": "A type of foregrip that sticks out the side of the gun",
-		"translation": "Боковая"
+        "translation": "Боковая"
 	},
 	{
 		"phrase": "Angled Half-Grip",
@@ -1487,7 +1487,7 @@
 	{
 		"phrase": "Points",
 		"comment": "2 Points",
-		"translation": "Очки"
+        "translation": "Очки"
 	},
 	{
 		"phrase": "Here you can customise how the points you earn in-game will display. Primary points are placed at the top of the point stack, and secondary points are placed at the bottom of the point stack.",
@@ -1496,7 +1496,7 @@
 	},
 	{
 		"phrase": "Equipped",
-		"comment": "This weapon skinis equipped",
+		"comment": "This weapon skin is equipped",
 		"translation": "Экипировано"
 	},
 	{
@@ -1757,7 +1757,7 @@
 	{
 		"phrase": "Eternal",
 		"comment": "The match will last forever",
-		"translation": "Бесконечный"
+        "translation": "Бесконечный"
 	},
 	{
 		"phrase": "Trailer",
@@ -2033,7 +2033,7 @@
 	{
 		"phrase": "Sticky",
 		"comment": "An explosive projectile sticks to the wall before exploding",
-		"translation": "Липкие"
+        "translation": "Липкие"
 	},
 	{
 		"phrase": "Cluster",
@@ -2220,7 +2220,7 @@
 		"phrase": "Light",
 		"context": "Lightweight",
 		"comment": "A weapon stock that weighs less but is slightly unstable",
-		"translation": "Легкий"
+        "translation": "Легкий"
 	},
 	{
 		"phrase": "Base Metal",
@@ -2288,6 +2288,11 @@
 		"translation": "Tab"
 	},
 	{
+		"phrase": "Your party has joined a {0} match on {1}. Click here to join",
+		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'",
+		"translation": "Ваш отряд присоединился к матчу. Режим - {0}, карта - {1}. Нажмите здесь, чтобы присоединиться"
+	},
+	{
 		"phrase": "Ammo",
 		"comment": "Ammo\/bullets\/ammunition is loaded into a gun and fired at enemies",
 		"translation": "Боеприпасы"
@@ -2340,7 +2345,7 @@
 	{
 		"phrase": "Overcharged",
 		"comment": "When a plasma weapon is overcharged, it fires projectiles in bursts of two",
-		"translation": "Перегруженные"
+        "translation": "Перегруженные"
 	},
 	{
 		"phrase": "Dispersion",
@@ -2365,7 +2370,7 @@
 	{
 		"phrase": "Smoke",
 		"comment": "A large cloud of smoke",
-		"translation": "Дымовые"
+        "translation": "Дымовые"
 	},
 	{
 		"phrase": "Dig single blocks",
@@ -2441,6 +2446,11 @@
 		"phrase": "Mute All Enemies",
 		"comment": "[Keybind] Mute all enemies in voice chat",
 		"translation": "Заглушить всех врагов"
+	},
+	{
+		"phrase": "Pick Up Deployable",
+		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
+		"translation": "Подобрать снаряжение"
 	},
 	{
 		"phrase": "Small Canister",
@@ -2519,7 +2529,7 @@
 	},
 	{
 		"phrase": "Loadout list",
-		"comment": "Header text above a list of loadouts",
+		"comment": "A list of loadouts",
 		"translation": "Список наборов снаряжения"
 	},
 	{
@@ -2590,7 +2600,7 @@
 	{
 		"phrase": "Protons and XP are earned each match based on your performance.",
 		"comment": "Boost pack description",
-		"translation": "Protons и XP зарабатываются за каждый матч в зависимости от вашей эффективности."
+        "translation": "Protons и XP зарабатываются за каждый матч в зависимости от вашей эффективности."
 	},
 	{
 		"phrase": "XP contributes towards your player level, which is purely for display.",
@@ -2600,7 +2610,7 @@
 	{
 		"phrase": "Supporter pack",
 		"comment": "Store pack title. A supporter is someone who financially supports Sector's Edge",
-		"translation": "Набор спонсора"
+        "translation": "Набор спонсора"
 	},
 	{
 		"phrase": "Devoid of allegiance, some mercenaries fight for their own cause.",
@@ -2615,7 +2625,7 @@
 	{
 		"phrase": "Licence title",
 		"comment": "Each player has a Soltrium Handling Licence, which is a UI panel they can customise to showcase their achievements. This panel can showcase their title",
-		"translation": "Титул"
+        "translation": "Титул"
 	},
 	{
 		"phrase": "Fabric",
@@ -2706,6 +2716,11 @@
 		"phrase": "Viewing their weapons",
 		"comment": "Rich presence",
 		"translation": "Смотрит свое оружие"
+	},
+	{
+		"phrase": "Viewing their loadouts",
+		"comment": "Rich presence",
+		"translation": "Смотрит свое снаряжение"
 	},
 	{
 		"phrase": "Customising their licence",
@@ -2820,7 +2835,7 @@
 	{
 		"phrase": "Instant",
 		"comment": "When something happens instantly",
-		"translation": "Мгновенн."
+        "translation": "Мгновенн."
 	},
 	{
 		"phrase": "{0} {1}",
@@ -2944,7 +2959,7 @@
 	},
 	{
 		"phrase": "{0} Power",
-		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12 \/ 15'",
+		"comment": "Loadout power refers to the strength of the loadout. Parameter 0: '12'",
 		"translation": "Энергия: {0}"
 	},
 	{
@@ -2956,6 +2971,11 @@
 		"phrase": "Unmute all players",
 		"comment": "Unmute all players in voice chat",
 		"translation": "Не заглушать всех игроков"
+	},
+	{
+		"phrase": "Return to battle [{0}]",
+		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
+		"translation": "Вернуться в бой [{0}]"
 	},
 	{
 		"phrase": "Unlock attachment",
@@ -3034,6 +3054,11 @@
 		"translation": "СКР {0}"
 	},
 	{
+		"phrase": "Modifications - [{0}]",
+		"comment": "Armour modifications. Parameter 0: '3'",
+		"translation": "Модификации - [{0}]"
+	},
+	{
 		"phrase": "Draw",
 		"comment": "The match was a draw\/stalemate",
 		"translation": "Ничья"
@@ -3101,7 +3126,7 @@
 	{
 		"phrase": "Scoping",
 		"comment": "Looking into a weapon scope",
-		"translation": "В режиме прицеливания"
+        "translation": "В режиме прицеливания"
 	},
 	{
 		"phrase": "Reload time",
@@ -3352,7 +3377,7 @@
 	{
 		"phrase": "Friends",
 		"comment": "2 Friends",
-		"translation": "Друзья"
+        "translation": "Друзья"
 	},
 	{
 		"phrase": "Boosts",
@@ -4681,7 +4706,7 @@
 	{
 		"phrase": "Objective Time",
 		"comment": "How long a player spent contesting an objective",
-		"translation": "Время на точке"
+        "translation": "Время на точке"
 	},
 	{
 		"phrase": "Best Weapon",
@@ -4790,6 +4815,7 @@
 		"comment": "This error message appears when you attempt to claim a lobby that someone else has already claimed",
 		"translation": "Это лобби уже занято"
 	},
+	
 	{
 		"phrase": "This map does not support the game mode {0}",
 		"comment": "Parameter 0: 'Capture the Flag'",
@@ -5069,7 +5095,7 @@
 	},
 	{
 		"phrase": "Slot",
-		"comment": "1 Slot, i.e. an equipment slot, or a reserved slot in the server for your party",
+		"comment": "1 Slot, i.e. an equipment slot",
 		"translation": "Слот"
 	},
 	{
@@ -5394,7 +5420,7 @@
 	{
 		"phrase": "Head Hunter",
 		"comment": "A gamemode where you hold Soltrium and gain Soltrium from enemy corpses. The player with the most Soltrium (the head) is revealed to other players",
-		"translation": "Охота за головами"
+        "translation": "Охота за головами"
 	},
 	{
 		"phrase": "Spire",
@@ -5644,12 +5670,12 @@
 	{
 		"phrase": "The enemy flag carrier has died",
 		"comment": "The enemy that was carrying our flag has been killed",
-		"translation": "Противник, переносивший флаг, погиб"
+        "translation": "Противник, переносивший флаг, погиб"
 	},
 	{
 		"phrase": "The enemy bomb carrier has died",
 		"comment": "The enemy that was carrying their bomb has been killed",
-		"translation": "Противник, переносивший бомбу, погиб"
+        "translation": "Противник, переносивший бомбу, погиб"
 	},
 	{
 		"phrase": "The enemy dropped our flag",
@@ -5664,12 +5690,12 @@
 	{
 		"phrase": "Our flag carrier has died",
 		"comment": "The teammate that was carrying the enemies flag has been killed",
-		"translation": "Союзник, переносивший флаг, погиб"
+        "translation": "Союзник, переносивший флаг, погиб"
 	},
 	{
 		"phrase": "Our bomb carrier has died",
 		"comment": "The teammate that was carrying our bomb has been killed",
-		"translation": "Союзник, переносивший бомбу, погиб"
+        "translation": "Союзник, переносивший бомбу, погиб"
 	},
 	{
 		"phrase": "You dropped the enemy flag",
@@ -5909,1523 +5935,1533 @@
 		"translation": "Инструкции"
 	},
 	{
-		"phrase": "Scoreboard",
-		"comment": "A list of players in game sorted descending by the amount of points they have",
-		"translation": "Таблица счета"
-	},
-	{
-		"phrase": "You must wait {0}s before initiating another votekick",
-		"comment": "Warning message when a player attempts to votekick another player during the votekick cooldown",
-		"translation": "Вы должны подождать {0} секунд, прежде чем инициировать новое голосование"
-	},
-	{
-		"phrase": "Trial Complete",
-		"comment": "The player has completed the time trial",
-		"translation": "Испытание Пройдено"
-	},
-	{
-		"phrase": "Not completed",
-		"comment": "This trial has not been completed",
-		"translation": "Не пройдено"
-	},
-	{
-		"phrase": "This time",
-		"comment": "How long it just took for the player to complete the trial, i.e. 'This time' vs 'Best time'",
-		"translation": "Время"
-	},
-	{
-		"phrase": "Best time",
-		"comment": "The fastest time the player completed the trial, i.e. 'This time' vs 'Best time'",
-		"translation": "Лучшее время"
-	},
-	{
-		"phrase": "Saving time",
-		"comment": "Loading text that shows while the server is saving\/storing the player's time",
-		"translation": "Сохранение времени"
-	},
-	{
-		"phrase": "Time saved",
-		"comment": "The player's time has been saved\/stored by the server",
-		"translation": "Время сохранено"
-	},
-	{
-		"phrase": "Leave",
-		"comment": "Exit \/ leave the trials",
-		"translation": "Выйти"
-	},
-	{
-		"phrase": "TBD",
-		"comment": "Acronym for 'to be determined'",
-		"translation": "Подлежит уточнению"
-	},
-	{
-		"phrase": "Player",
-		"comment": "1 Player, i.e. someone who is playing Sector's Edge",
-		"translation": "Игрок"
-	},
-	{
-		"phrase": "Reach the {0} platform to finish",
-		"comment": "Trial instructions, the player needs to stand on the yellow platform to complete the trial. Parameter 0: 'Yellow'",
-		"translation": "Доберитесь до {0} платформы , чтобы завершить испытание"
-	},
-	{
-		"phrase": "Avoid touching the {0} blocks",
-		"comment": "Trial instructions, the player fails if they touch any red blocks. Parameter 0: 'Red",
-		"translation": "Не прикасайтесь к {0} блокам "
-	},
-	{
-		"phrase": "Build off the {0} blocks",
-		"comment": "Trial instructions, players can only build blocks on top of existing purple blocks. Parameter 0: 'Purple'",
-		"translation": "Стройте на {0} блоках"
-	},
-	{
-		"phrase": "Achievements",
-		"comment": "Something the player can achieve",
-		"translation": "Достижения"
-	},
-	{
-		"phrase": "Type here to search {0}...",
-		"comment": "Placeholder text for a search field. Parameter 0: 'Settings'",
-		"translation": "Введите здесь для поиска по разделу {0}..."
-	},
-	{
-		"phrase": "Statistics",
-		"comment": "Data",
-		"translation": "Статистика"
-	},
-	{
-		"phrase": "Networking rate changes how often you receive data from the server. Set this to 30 FPS if you have unstable or slow internet",
-		"comment": "Tooltip for the Networking Rate setting",
-		"translation": "Скорость сети влияет на то, как часто вы получаете данные с сервера. Установите это значение на 30 кадров в секунду, если у вас нестабильный или медленный интернет"
-	},
-	{
-		"phrase": "Failed to connect to {0}",
-		"comment": "Error message to show the client could not communicate with a server. Parameter 0: 'Fremont-1'",
-		"translation": "Не удалось подключиться к {0}"
-	},
-	{
-		"phrase": "Failed to load resource {0}",
-		"comment": "Error message to show the client failed to load a file from disk. Parameter 0: 'help.png'",
-		"translation": "Не удалось загрузить файл {0}"
-	},
-	{
-		"phrase": "{0} error - this social sidebar will no longer update.",
-		"comment": "Steam error message that indicates the friends on the sidebar on the right side of the screen will no longer update. Parameter 0: 'Steam'",
-		"translation": "Ошибка {0} - боковая панель Друзья больше не будет обновляться."
-	},
-	{
-		"phrase": "Titles",
-		"comment": "2 Titles",
-		"translation": "Титулов"
-	},
-	{
-		"phrase": "Ping (Enemy)",
-		"context": "Marker (Enemy)",
-		"comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
-		"translation": "Отметка (Враг)"
-	},
-	{
-		"phrase": "Ping (Help)",
-		"context": "Marker (Help)",
-		"comment": "This ping refers to placing a 3D marker above your head, indicating you need help\/backup\/support\/assistance from your team",
-		"translation": "Отметка (Помощь)"
-	},
-	{
-		"phrase": "Ping",
-		"context": "Marker",
-		"comment": "Column header on the server list",
-		"translation": "Пинг"
-	},
-	{
-		"phrase": "Controls whether the camera should sway left and right while sprinting",
-		"comment": "Description for the 'Camera sway' setting",
-		"translation": "Определяет, будет ли камера покачиваться влево и вправо во время бега."
-	},
-	{
-		"phrase": "Voice input device",
-		"comment": "Setting that controls which voice input device\/microphone the game will use",
-		"translation": "Устройство голосового ввода"
-	},
-	{
-		"phrase": "Pew Pew Mode",
-		"context": "Acapella mode",
-		"comment": "Setting that replaces sounds with community-made acapella versions",
-		"translation": "Пиу-Пиу Режим"
-	},
-	{
-		"phrase": "Replaces sounds with community-made acapella versions",
-		"comment": "Description for the 'Pew Pew Mode' setting",
-		"translation": "Заменяет звуки акапельными версиями, созданными сообществом."
-	},
-	{
-		"phrase": "Crosshair spacing",
-		"context": "Crosshair distance",
-		"comment": "The distance\/spacing between each line in a plus-shaped crosshair",
-		"translation": "Размер пустого пространства"
-	},
-	{
-		"phrase": "Edge width",
-		"comment": "Setting that controls the width of the ammo\/health info around the edge of the crosshair",
-		"translation": "Ширина края"
-	},
-	{
-		"phrase": "Edge length",
-		"comment": "Setting that controls the length of the ammo\/health info around the edge of the crosshair",
-		"translation": "Длина края"
-	},
-	{
-		"phrase": "Edge spacing",
-		"context": "Edge distance",
-		"comment": "Setting that controls the spacing\/distance between the ammo\/health info around the edge of the crosshair, and the crosshair",
-		"translation": "Расстояние между краями"
-	},
-	{
-		"phrase": "Match Time HUD",
-		"comment": "Setting that controls whether the remaining time left in the match is visible on the HUD",
-		"translation": "HUD Времени Матча"
-	},
-	{
-		"phrase": "Team Info HUD",
-		"comment": "Setting that controls whether the team information HUD is visible",
-		"translation": "HUD Информации о Команде"
-	},
-	{
-		"phrase": "Show pings",
-		"context": "Show markers",
-		"comment": "Setting that controls whether pings\/markers should be visible on the minimap",
-		"translation": "Показывать отметки"
-	},
-	{
-		"phrase": "{0} - horizontal edge",
-		"comment": "Setting that controls whether the ammo\/chat\/minimap\/etc HUD should snap to the left or right of the screen. Parameter 0: 'Ammo'",
-		"translation": "{0} - привязка к боковому краю"
-	},
-	{
-		"phrase": "Whether the {0} HUD should snap to the left or right of the screen",
-		"comment": "Description for the 'Ammo - horizontal edge' setting. Parameter 0: 'Ammo'",
-		"translation": "Определяет, будет ли HUD {0} привязываться к левой или правой части экрана"
-	},
-	{
-		"phrase": "{0} - vertical edge",
-		"comment": "Setting that controls whether the ammo\/chat\/minimap\/etc HUD should snap to the top or bottom of the screen",
-		"translation": "{0} - вертикальная привязка"
-	},
-	{
-		"phrase": "Whether the {0} HUD should snap to the top or bottom of the screen",
-		"comment": "Description for the 'Ammo - vertical edge' setting",
-		"translation": "Определяет, будет ли HUD {0} привязываться к верхней или нижней части экрана"
-	},
-	{
-		"phrase": "{0} - horizontal margin",
-		"comment": "[Setting] Setting that controls the distance between the ammo\/chat\/minimap\/etc HUD and the edge of the screen. Parameter 0: 'Ammo'",
-		"translation": "{0} - отступ по горизонтали"
-	},
-	{
-		"phrase": "{0} - vertical margin",
-		"comment": "[Setting] Setting that controls the distance between the ammo\/chat\/minimap\/etc HUD and the edge of the screen. Parameter 0: 'Ammo'",
-		"translation": "{0} - отступ по вертикали"
-	},
-	{
-		"phrase": "The distance between the {0} HUD and the edge of the screen",
-		"comment": "Description for the 'Ammo - horizontal margin' setting. Parameter 0: 'Ammo'",
-		"translation": "Расстояние между {0} HUD и боковым краем экрана"
-	},
-	{
-		"phrase": "{0} - max width",
-		"context": "{0} - maximum width",
-		"comment": "Setting that controls the maximum width of the ammo\/chat\/minimap\/etc HUD",
-		"translation": "{0} - максимальная ширина"
-	},
-	{
-		"phrase": "{0} - max height",
-		"context": "{0} - maximum height",
-		"comment": "Setting that controls the maximum height of the ammo\/chat\/minimap\/etc HUD",
-		"translation": "{0} - максимальная высота"
-	},
-	{
-		"phrase": "{0} - width",
-		"comment": "Setting that controls the width of the ammo\/chat\/minimap\/etc HUD",
-		"translation": "{0} - ширина"
-	},
-	{
-		"phrase": "{0} - height",
-		"comment": "Setting that controls the height of the ammo\/chat\/minimap\/etc HUD",
-		"translation": "{0} - высота"
-	},
-	{
-		"phrase": "{0} timeout",
-		"comment": "Setting that controls how long chat\/killfeed messages display before disappearing",
-		"translation": "{0} - тайм-аут"
-	},
-	{
-		"phrase": "How long {0} messages display before disappearing",
-		"comment": "Description for the 'Chat timeout' setting",
-		"translation": "Как долго отображаются {0} сообщения перед исчезновением"
-	},
-	{
-		"phrase": "Toggle {0}",
-		"comment": "Setting that Controls whether you need to hold a key down to continually perform an action, e.g. scoping\/crouching\/sprinting. Parameter 0: 'Scope'",
-		"translation": "Переключить {0}"
-	},
-	{
-		"phrase": "Whether you need to hold a key down to continually {0}",
-		"comment": "Description for the 'Toggle Scope' setting. Parameter 0: 'Scope'",
-		"translation": "Определяет, нужно ли постоянно удерживать клавишу {0}"
-	},
-	{
-		"phrase": "{0} vs {1} priority",
-		"comment": "Setting that controls what happens when the player presses two keys at the same time. Parameter 0: 'Sprint', Parameter 1: 'Scope'",
-		"translation": "Приоритет {0} над {1}"
-	},
-	{
-		"phrase": "Controls what should happen when pressing both {0} and {1} at the same time",
-		"comment": "Description for the 'Sprint vs Scope priority' setting",
-		"translation": "Определяет тем, что должно происходить при одновременном нажатии клавиш {0} и {1}."
-	},
-	{
-		"phrase": "Controls whether your structure automatically rotates as you look around",
-		"comment": "Description for the 'Rotate structures' keybind",
-		"translation": "Определяет, будут ли ваши постройки автоматически поворачиваться вместе с вами"
-	},
-	{
-		"phrase": "Skip {0} on swap",
-		"comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'MiDi'",
-		"translation": "Пропускать {0} при переключении оружия"
-	},
-	{
-		"phrase": "Relative sensitivity",
-		"comment": "This setting means that the player's ironsights\/2X\/4X sensitivity is relative to their base look sensitivity",
-		"translation": "Относительная чувствительность прицела"
-	},
-	{
-		"phrase": "Texture resolution",
-		"comment": "Controls the size of textures, i.e. full, half or quarter resolution",
-		"translation": "Разрешение текстур"
-	},
-	{
-		"phrase": "Custom resolution",
-		"comment": "Setting that controls whether a custom resolution should be used, rather than the current window resolution",
-		"translation": "Пользовательское разрешение экрана"
-	},
-	{
-		"phrase": "Enabling this to render the game at the specified resolution. The final image will then be stretched to the size of the window",
-		"comment": "\/*Description for the 'Custom resolution' setting",
-		"translation": "Включите этот параметр для игры с указанным разрешением. Конечное изображение будет растянуто до размеров окна"
-	},
-	{
-		"phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing render distance will increase FPS",
-		"comment": "Description for the 'Render distance' setting",
-		"translation": "Карты разделены на чанки размером 32x32x32 блока. Уменьшение дальности прорисовки увеличит FPS"
-	},
-	{
-		"phrase": "Max lights",
-		"context": "Maximum light count",
-		"comment": "Setting that controls the maximum amount of lights that can be rendered",
-		"translation": "Максимальное количество источников света"
-	},
-	{
-		"phrase": "Ambient occlusion quality",
-		"comment": "Setting that controls the quality of ambient occlusion, which is a technical term for a shader that simulates light by darkening the crevices between objects",
-		"translation": "Качество Ambient Occlusion"
-	},
-	{
-		"phrase": "Ambient occlusion darkens the crevices between objects",
-		"comment": "Description for the 'Ambient occlusion quality' setting",
-		"translation": "Ambient Occlusion затемняет пространство между объектами"
-	},
-	{
-		"phrase": "Bloom makes bright surfaces brighter",
-		"comment": "Description for the 'Bloom strength' setting",
-		"translation": "Bloom делает светлые поверхности ярче"
-	},
-	{
-		"phrase": "Controls whether bloom effects apply to weapon sights",
-		"comment": "Description for the 'Bloom on sights' setting",
-		"translation": "Определяет, применяются ли эффект Bloom к прицелам оружия"
-	},
-	{
-		"phrase": "Controls whether falling blocks cast shadows",
-		"comment": "Description for the 'Falling block shadows' setting",
-		"translation": "Определяет, отбрасывают ли тени падающие блоки"
-	},
-	{
-		"phrase": "The bare minimum rendering pipeline skips all postprocessing and effects and runs the game as fast as possible. This setting will produce the highest frames-per-second.",
-		"comment": "Description for the 'Bare minimum' settings",
-		"translation": "Минимальный пайплайн рендеринга пропускает все эффекты и постобработку, что позволяет максимально повысить производительность игры. Включение этого параметра добавит вам наибольшее количество кадров в секунду."
-	},
-	{
-		"phrase": "OpenGL errors are logged to a file that the developer can analyse. Disabling this may increase FPS.",
-		"comment": "Description for the 'Log OpenGL Errors' settings",
-		"translation": "Ошибки OpenGL записываются в файл, который разработчик может проанализировать. Отключение этого параметра может увеличить FPS."
-	},
-	{
-		"phrase": "Show ping owner",
-		"context": "Show marker owner",
-		"comment": "Setting that controls whether a 3D ping should have the name of its owners next to it. Owner refers to the player who created the ping\/marker",
-		"translation": "Показать владельца отметки"
-	},
-	{
-		"phrase": "Controls whether a 3D ping should the name of its owner next to it",
-		"context": "Controls whether a 3D marker should have the name of its owner next to it",
-		"comment": "Description for the 'Show ping owner' setting. Owner refers to the player who created the ping\/marker",
-		"translation": "Определяет, будет ли рядом с 3D-отметкой указываться имя поставившего ее игрока."
-	},
-	{
-		"phrase": "Controls the render distance cutoff for 3D pings",
-		"context": "Controls the render distance cutoff for 3D markers",
-		"comment": "Description for the 'Max ping distance' setting",
-		"translation": "Определяет, на каком расстоянии от игрока перестают показываться отметки."
-	},
-	{
-		"phrase": "Player name size",
-		"comment": "Setting that controls the size of friendly player names",
-		"translation": "Размер имен игроков"
-	},
-	{
-		"phrase": "Complete each trial within the specified time to earn {0} and licence titles",
-		"comment": "Time trials description. Parameter 0: 'Protons'",
-		"translation": "Завершите каждое испытание за указанное время, чтобы заработать {0} и титулы лицензии."
-	},
-	{
-		"phrase": "This setting controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
-		"comment": "Description for the 'UI scale' setting. Parameter 0: '[ Ctrl+R ]'",
-		"translation": "Этот параметр управляет масштабом всего пользовательского интерфейса и внутриигрового HUD. Нажмите {0}, чтобы сбросить его обратно на 100%"
-	},
-	{
-		"phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised",
-		"comment": "Description for the 'Streamer mode' setting",
-		"translation": "Название сервера не будет отображаться на Таблице счета, а имена и уровни других игроков будут случайными."
-	},
-	{
-		"phrase": "{0} Send team message",
-		"comment": "Press enter to send a message to your team. Parameter 0: '[ Enter ]'",
-		"translation": "{0} Отправить командное сообщение"
-	},
-	{
-		"phrase": "{0} Send global message",
-		"comment": "Press enter to send a message to everyone. Parameter 0: '[ Enter ]'",
-		"translation": "{0} Отправить глобальное сообщение"
-	},
-	{
-		"phrase": "{0} Join a cluster spawn",
-		"comment": "Players can press a key to join an existing cluster spawn. Parameter 0: '[ CTRL ]'",
-		"translation": "{0} Присоединиться к Кластерному возврождению"
-	},
-	{
-		"phrase": "Failed to initialise the {0}",
-		"comment": "Error that shows when a file can't be processed. Parameter 0: 'Steam API'",
-		"translation": "Не удалось инициализировать {0}"
-	},
-	{
-		"phrase": "Unable to connect to the {0} servers, please relaunch the game",
-		"comment": "Error that shows when the game can't connect to Steam. Parameter 0: 'Steam'",
-		"translation": "Не удалось подключиться к серверам {0}. Пожалуйста, перезапустите игру."
-	},
-	{
-		"phrase": "The game has not been run through {0} and will now restart. Please wait until the {1} launcher appears",
-		"comment": "Startup error. Parameter 0: 'Steam', Parameter 1: 'EAC'",
-		"translation": "Игра запускалась не через {0} и теперь перезапустится. Пожалуйста, подождите, пока не появится программа запуска {1}"
-	},
-	{
-		"phrase": "An update has released, please close the game and update it through {0} to continue playing",
-		"comment": "This notification text appears when a new version of Sector's Edge is available. Parameter 0: 'Steam'",
-		"translation": "Вышло обновление. Пожалуйста, закройте игру и обновите ее через {0}, чтобы продолжить играть."
-	},
-	{
-		"phrase": "A workshop item already exists with the ID {0}",
-		"comment": "This error occurs when a user attempts to upload a map over the top of an existing one. Parameter 0: '123'",
-		"translation": "Предмет мастерской уже существует с идентификатором {0}."
-	},
-	{
-		"phrase": "{0} Reset Ship",
-		"comment": "The player can press a button to remove all blocks they placed in their ship. Parameter 0: '[ F ]'",
-		"translation": "{0} Очистить корабль"
-	},
-	{
-		"phrase": "The map is still loading, please try again in {0} seconds",
-		"comment": "This error message appears when the player attempts to join a server, but the server is still loading the map. Parameter 0: '10'",
-		"translation": "Карта еще загружается. Пожалуйста, повторите попытку через {0} секунд."
-	},
-	{
-		"phrase": "Unable to change teams during free-for-all gamemodes",
-		"comment": "Error message that displays when a player attempts to change teams during a free for all, gun game or head hunter match (there are no teams in this game mode)",
-		"translation": "Невозможно сменить команду в игровых режимах Все-Против-Всех."
-	},
-	{
-		"phrase": "Unable to change teams due to the lobby whitelist",
-		"comment": "Custom lobbies can have a whitelist, where certain players can only join a certain team",
-		"translation": "Вайтлист лобби запрещает вам менять команду."
-	},
-	{
-		"phrase": "You cannot kick moderators",
-		"comment": "This error message appears when a player attempts to kick a moderator",
-		"translation": "Нельзя выгонять модераторов"
-	},
-	{
-		"phrase": "You cannot change to the larger team",
-		"comment": "This error message appears when a player attempts to swap from the smaller team to the larger team",
-		"translation": "Вы не можете перейти в команду с большим числом игроков"
-	},
-	{
-		"phrase": "Unable to join as both teams are full",
-		"comment": "This error message appears when the player attempts to join a server that's full",
-		"translation": "Невозможно присоединиться. Обе команды заполнены"
-	},
-	{
-		"phrase": "Lobby settings updated",
-		"comment": "This message appears when the lobby owner changes the lobby settings, e.g. enables sandbox or changes the team size",
-		"translation": "Настройки лобби обновлены"
-	},
-	{
-		"phrase": "You do not have permission to modify this lobby",
-		"comment": "This message appears when the someone other than the lobby owner attempts to change the lobby settings, e.g. enables sandbox or changes the team size",
-		"translation": "У вас нет разрешения на изменение настроек этого лобби"
-	},
-	{
-		"phrase": "You cannot modify this lobby as it is not claimed",
-		"comment": "This error message appears when someone attempts to change the lobby settings in an unclaimed lobby",
-		"translation": "Вы не можете изменить это лобби, так как оно не забронировано"
-	},
-	{
-		"phrase": "Unknown command",
-		"comment": "This error message appears when the player runs an unknown command, e.g. \/gorkblorf",
-		"translation": "Неизвестная команда"
-	},
-	{
-		"phrase": "Your party has been disbanded due to an internal error",
-		"comment": "This error message appears when the player's party of 4 players is disbanded and therefore not all placed on the same team",
-		"translation": "Ваш отряд расформирован из-за внутренней ошибки"
-	},
-	{
-		"phrase": "Your party has been disbanded to keep the teams balanced",
-		"comment": "This error message appears when the player's party of 4 players is disbanded to keep the teams balanced",
-		"translation": "Ваш отряд был расформирован, чтобы сохранить баланс команд."
-	},
-	{
-		"phrase": "Expected parameters: {0}",
-		"comment": "This error message appears when running a command with invalid parameters. Parameter 0: 'mapCode gameMode'",
-		"translation": "Ожидаемые параметры: {0}"
-	},
-	{
-		"phrase": "The map {0} does not exist",
-		"comment": "This error message appears when attempting to switch to a map that doesn't exist. Parameter 0: 'Thrashed Crater'",
-		"translation": "Карта {0} не существует"
-	},
-	{
-		"phrase": "The game mode {0} does not exist",
-		"comment": "This error message appears when attempting to switch to a game mode that doesn't exist. Parameter 0: 'Control Alt Delete'",
-		"translation": "Режим игры {0} не существует"
-	},
-	{
-		"phrase": "{0} must be an integer",
-		"comment": "This error message appears when a player runs a command with invalid parameters, e.g. '\/magsize smg blah' instead of '\/magsize smg 50'. Parameter 0: 'magazineSize'",
-		"translation": "Параметр {0} должен быть целым числом"
-	},
-	{
-		"phrase": "Player with {0} {1} not found",
-		"comment": "This error message appears when a player is not found, Parameter 0: 'Steam ID'. Parameter 1: '8712947194514253",
-		"translation": "Игрок с {0} {1} не найден"
-	},
-	{
-		"phrase": "Downloading workshop map {0}... The next game mode will be: {1}",
-		"comment": "This message shows when the lobby owner tells the server to download a workshop map",
-		"translation": "Загрузка карты мастерской {0}... следующий игровой режим будет: {1}"
-	},
-	{
-		"phrase": "Next map: {0}. Next game mode: {1}",
-		"comment": "This message appears when map voting finishes. Parameter 0: 'Railway', Parameter 1: 'Control Shift'",
-		"translation": "Следующая карта: {0}. следующий игровой режим: {1}"
-	},
-	{
-		"phrase": "Setting ban level for {0} to {1}",
-		"comment": "This message appears when successfully banning a player. Parameter 0: 'zepofan', Parameter 1: '4'. Different ban levels represent different severities, e.g. ban level 2 means they can only join their own custom lobbies and ban level 4 means they cannot join any servers",
-		"translation": "Уровень бана для игрока {0} установлен на {1}"
-	},
-	{
-		"phrase": "{0} must be an integer between {1} and {2} (inclusive)",
-		"comment": "This error message appears when a player runs a command with invalid parameters, e.g. '\/magsize smg -7' instead of '\/magsize smg 50'. Parameter 0: 'magazineSize', Parameter 1: 1, Parameter 2: 9999",
-		"translation": "Параметр {0} должен быть целым числом от {1} до {2} (включительно)."
-	},
-	{
-		"phrase": "Source index must be between 1 and 9",
-		"translation": "Индекс исходного пути должен быть от 1 до 9."
-	},
-	{
-		"phrase": "Destination index must be between 1 and 9",
-		"translation": "Индекс целевого пути должен быть от 1 до 9."
-	},
-	{
-		"phrase": "Source path has no waypoints",
-		"translation": "Исходный путь не имеет путевых точек"
-	},
-	{
-		"phrase": "Path successfully copied",
-		"translation": "Путь успешно скопирован"
-	},
-	{
-		"phrase": "Destination index invalid",
-		"translation": "Неверный индекс целевого пути"
-	},
-	{
-		"phrase": "Source index invalid",
-		"translation": "Неверный индекс исходного пути"
-	},
-	{
-		"phrase": "The server is full and you are now spectating",
-		"comment": "This message appears when you attempt to join the battle but the server is full",
-		"translation": "Сервер заполнен, поэтому вы помещены в наблюдатели"
-	},
-	{
-		"phrase": "Invalid number",
-		"comment": "This error message appears when running a command with a non-numerical parameter, e.g. '\/speed hello' instead of '\/speed 5.5'",
-		"translation": "Неверное число"
-	},
-	{
-		"phrase": "You must wait for the match to start before swapping teams",
-		"comment": "This error message appears when attempting to swap teams before the round\/match\/battle has started",
-		"translation": "Матч должен начаться, чтобы вы могли сменить команду."
-	},
-	{
-		"phrase": "Your report has been submitted",
-		"comment": "This message appears when successfully reporting another player for cheating\/scamming\/etc",
-		"translation": "Ваша жалоба отправлена"
-	},
-	{
-		"phrase": "Map preserved successfully",
-		"comment": "This message appears when successfully preserving the current state of the map (i.e. taking a copy of it). This is useful for recording trailers as we often want to revert back to a previous version of the map to re-record a shot",
-		"translation": "Карта успешно сохранена"
-	},
-	{
-		"phrase": "The map is not preserved",
-		"comment": "This error message appears when attempting to revert back to a previous version of the map, before the \/preserve command has been run",
-		"translation": "Карта не сохранена"
-	},
-	{
-		"phrase": "Restoring is already in progress",
-		"comment": "This error message appears when running the \/restore command when a previous version of the map is already being restored",
-		"translation": "Восстановление уже идет"
-	},
-	{
-		"phrase": "Map restoration started",
-		"comment": "This message appears when the map is being restored to a previously preserved state",
-		"translation": "Начато восстановление карты"
-	},
-	{
-		"phrase": "{0} is already spectating",
-		"comment": "This error message appears when attempting to make another player spectate (moderator ability) when they are already spectating. Parameter 0: 'fowenix'",
-		"translation": "{0} уже является наблюдателем"
-	},
-	{
-		"phrase": "Invalid argument {0}. Expected {1}",
-		"comment": "This error message appears when running a command with an invalid argument, e.g. '\/forcemap aegis' instead of '\/forcemap ad' (ad stands for aegis desert). Parameter 0: 'mapCode', Parameter 1: 'ad|cf|is|mc|st'",
-		"translation": "Недопустимый аргумент {0}. Ожидался {1}"
-	},
-	{
-		"phrase": "{0} is already on {1}",
-		"comment": "This error message appears when attempting to move a player to the same team. Parameter 0: 'Blade', Parameter 1: 'Aegis'",
-		"translation": "{0} уже в команде {1}"
-	},
-	{
-		"phrase": "Moved {0} to {1}",
-		"comment": "This message appears when successfully moving a player to another team. Parameter 0: 'Blade', Parameter 1: 'Aegis'",
-		"translation": "{0} перемещен в команду {1}"
-	},
-	{
-		"phrase": "{0} has been votekicked",
-		"comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER'",
-		"translation": "{0} был исключен голосованием"
-	},
-	{
-		"phrase": "{0} has not been votekicked",
-		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
-		"translation": "{0} не был исключен"
-	},
-	{
-		"phrase": "Sandbox mode enabled",
-		"comment": "Sandbox mode is enabled, meaning players take no damage and have infinite ammo",
-		"translation": "Режим Песочницы включен"
-	},
-	{
-		"phrase": "Sandbox mode disabled",
-		"comment": "Sandbox mode is disabled, meaning the opposite of the above",
-		"translation": "Режим Песочницы отключен"
-	},
-	{
-		"phrase": "Trailer mode enabled",
-		"comment": "Trailer mode is enabled, meaning players can respawn instantly",
-		"translation": "Режим Трейлера включен"
-	},
-	{
-		"phrase": "Trailer mode disabled",
-		"comment": "Trailer mode is disabled, meaning the opposite of the above",
-		"translation": "Режим Трейлера отключен"
-	},
-	{
-		"phrase": "Eternal mode enabled",
-		"comment": "Eternal mode is enabled, meaning the match will not finish",
-		"translation": "Бесконечный режим включен"
-	},
-	{
-		"phrase": "Eternal mode disabled",
-		"comment": "Eternal mode is disabled, meaning the opposite of the above",
-		"translation": "Бесконечный режим отключен"
-	},
-	{
-		"phrase": "Advancing to the next stage",
-		"comment": "This message appears when the battle is advancing to the next stage\/phase",
-		"translation": "Переход к следующему этапу"
-	},
-	{
-		"phrase": "Player not found",
-		"comment": "This error is shown if a player attempts to send an item to a friend, but the friend hasn't played Sector's Edge yet",
-		"translation": "Игрок не найден"
-	},
-	{
-		"phrase": "Bots enabled permanently",
-		"comment": "This message appears when the lobby owner permanently enables bots in the lobby, which means the bots won't leave when the match finishes",
-		"translation": "Боты включены навсегда"
-	},
-	{
-		"phrase": "Bots disabled permanently",
-		"comment": "This message appears when the lobby owner permanently disables bots in the lobby, which means the bots leave when the match finishes",
-		"translation": "Боты отключены навсегда"
-	},
-	{
-		"phrase": "All players and spectators have been kicked",
-		"comment": "This message appears when everyone is misbehaving so a moderator kicks everyone out of the server",
-		"translation": "Все игроки и зрители были исключены"
-	},
-	{
-		"phrase": "Kicked",
-		"comment": "You have been kicked out of the lobby",
-		"translation": "Исключен"
-	},
-	{
-		"phrase": "{0} is now muted",
-		"comment": "This message appears when muting another player. Parameter 0: 'PadreToto'",
-		"translation": "{0} теперь заглушен"
-	},
-	{
-		"phrase": "{0} is now unmuted",
-		"comment": "This message appears when unmuting another player. Parameter 0: 'Tilitaliboss'",
-		"translation": "{0} больше не заглушен"
-	},
-	{
-		"phrase": "Successfully removed the timeout for {0}",
-		"comment": "This message appears when removing a player's timeout\/temporary ban. Parameter 0: 'Dolpenguin'",
-		"translation": "Тайм-аут для игрока {0} удален успешно"
-	},
-	{
-		"phrase": "Player {0} is not timed out",
-		"comment": "This error message appears when attempting to remove a player's timeout\/temporary ban, but they are not timed out. Parameter 0: 'Apoc'",
-		"translation": "Игрок {0} не заблокирован"
-	},
-	{
-		"phrase": "Now playing {0} on {1}",
-		"comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
-		"translation": "Сейчас играет {0} на {1}"
-	},
-	{
-		"phrase": "Player {0} has been timed out for {1} {2}",
-		"comment": "This message shows when a player is timed out \/ temporarily banned, meaning they can't join a server for X hours. Parameter 0: 'Decrare', Parameter 1: '3', Parameter 2: 'Hours' (or 'Hour', or the correct language-specific plural)",
-		"translation": "Игрок {0} заблокирован на {1} {2}"
-	},
-	{
-		"phrase": "Support",
-		"comment": "Supporting another player in battle",
-		"translation": "Поддерживать"
-	},
-	{
-		"phrase": "This GPU may not be compatible with the game. Please follow the instructions at {0} for help fixing this problem.",
-		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
-		"translation": "Этот графический процессор может быть несовместим с игрой. Следуйте инструкциям на {0}, чтобы решить эту проблему.."
-	},
-	{
-		"phrase": "This computer does not have the required {0} version installed. Please follow the instructions at {1} for help fixing this problem.",
-		"comment": "Startup error. Parameter 0: '.NET', Parameter 1: 'https:\/\/sectorsedge.com\/support'",
-		"translation": "На этом компьютере не установлена необходимая версия {0}. Следуйте инструкциям на {1}, чтобы решить эту проблему.."
-	},
-	{
-		"phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
-		"comment": "Startup error. Parameter 0: 'https:\/\/sectorsedge.com\/support'",
-		"translation": "Sector's Edge перестал отвечать. Если игра часто вылетает, следуйте инструкциям на {0}, чтобы решить эту проблему.."
-	},
-	{
-		"phrase": "Your party cannot fit on one team and has been split up",
-		"comment": "This error message appears when the player's party of 4 players can't all fit on one team",
-		"translation": "Ваш отряд не может вместиться в одну команду и был разделен"
-	},
-	{
-		"phrase": "This lobby doesn't allow spectators",
-		"comment": "This error message appears when attempting to spectate in a lobby, but the lobby owner disabled spectators",
-		"translation": "В это лобби не допускаются наблюдатели"
-	},
-	{
-		"phrase": "{0} tried to start a votekick against {1}. It had no effect",
-		"comment": "This error message appears when a player attempts to kick a moderator. Parameter 0: 'Guffyfish', Parameter 1: 'Fora'",
-		"translation": "Игрок {0} попытался начать голосование против игрока {1}. Безуспешно"
-	},
-	{
-		"phrase": "Press {0} to restart",
-		"comment": "Trial instructions on how to restart the trial. Parameter 0: '[ R ]'",
-		"translation": "Нажмите {0}, чтобы перезапустить"
-	},
-	{
-		"phrase": "Fire",
-		"comment": "Hot burning fire",
-		"translation": "Огонь"
-	},
-	{
-		"phrase": "{0} damage modifier set to {1}",
-		"comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
-		"translation": "Модификатор урона игрока {0} установлен на {1}."
-	},
-	{
-		"phrase": "{0} is used in {1} {2}. Click confirm to delete it",
-		"comment": "This confirmation text appears when deleting a preset that's still used in a loadout. Parameter 0: 'Heavy SMG', parameter 1: '3', parameter 2: 'Loadouts (or alternate plural version)",
-		"translation": "{0} используется в {1} {2}. Нажмите «Подтвердить», чтобы удалить его."
-	},
-	{
-		"phrase": "Confirm Delete",
-		"comment": "Confirm you want to delete this weapon preset",
-		"translation": "Подтвердить удаление"
-	},
-	{
-		"phrase": "Aiming",
-		"comment": "Aiming with a gun",
-		"translation": "Прицеливание"
-	},
-	{
-		"phrase": "Toggle Player Names",
-		"comment": "[Keybind]",
-		"translation": "Вкл\/Выкл имена игроков"
-	},
-	{
-		"phrase": "Toggle Enemy Names (Trailer Mode)",
-		"comment": "Press this keybind to toggle whether enemy names are displayed (only works in Trailer Mode)",
-		"translation": "Вкл\/Выкл имена врагов (режим Трейлера)"
-	},
-	{
-		"phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
-		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
-		"translation": "Продемонстрируйте свой строительный опыт с Инженером и его контрабандными модификациями {0}."
-	},
-	{
-		"phrase": "Hue Shift",
-		"comment": "An offset applied to the hue component of a colour, e.g. 'hue shifted from red to yellow'",
-		"translation": "Вариация оттенка"
-	},
-	{
-		"phrase": "Bronze {0}",
-		"comment": "A bronze medal",
-		"translation": "Бронза {0}"
-	},
-	{
-		"phrase": "Silver {0}",
-		"comment": "A silver medal",
-		"translation": "Серебро {0}"
-	},
-	{
-		"phrase": "Gold {0}",
-		"comment": "A gold medal",
-		"translation": "Золото {0}"
-	},
-	{
-		"phrase": "Platinum {0}",
-		"comment": "A platinum medal",
-		"translation": "Платина {0}"
-	},
-	{
-		"phrase": "Teamplay",
-		"comment": "Working together as a team",
-		"translation": "Командная игра"
-	},
-	{
-		"phrase": "Distance travelled",
-		"comment": "How far a player travelled",
-		"translation": "Пройденное расстояние"
-	},
-	{
-		"phrase": "Killed by",
-		"comment": "How many times you have been killed by a weapon, e.g. 'Killed by SMG: 34'",
-		"translation": "Смертей от"
-	},
-	{
-		"phrase": "Destroyed",
-		"comment": "The player was destroyed by deWolf",
-		"translation": "Разрушено"
-	},
-	{
-		"phrase": "Fortifying {0} created",
-		"comment": "How many blocks the player has placed to fortify a zone. Parameter 0 is either 'block' or 'blocks'",
-		"translation": "Укрепляющих {0} создано"
-	},
-	{
-		"phrase": "{0} {1} detonated",
-		"comment": "How many Soltrium canisters the player has detonated. Parameter 0 is 'Soltrium'. Parameter 1 is either 'canister' or 'canisters'",
-		"translation": "{0} {1} подорвано"
-	},
-	{
-		"phrase": "Time aiming",
-		"comment": "How long the player spent aiming",
-		"translation": "Время прицеливания"
-	},
-	{
-		"phrase": "Time in air",
-		"comment": "How long the player spent in the air",
-		"translation": "Время в воздухе"
-	},
-	{
-		"phrase": "Time strafing",
-		"comment": "How long the player spent strafing",
-		"translation": "Время стрейфа"
-	},
-	{
-		"phrase": "Time sprinting",
-		"comment": "How long the player spent sprinting",
-		"translation": "Время бега"
-	},
-	{
-		"phrase": "Time sliding",
-		"comment": "How long the player spent sliding",
-		"translation": "Время в подкате"
-	},
-	{
-		"phrase": "Time crouching",
-		"comment": "How long the player spent crouching",
-		"translation": "Время в приседе"
-	},
-	{
-		"phrase": "Time swimming",
-		"comment": "How long the player spent swimming",
-		"translation": "Время плавания"
-	},
-	{
-		"phrase": "Neutral time",
-		"comment": "How long the player spent outside a zone",
-		"translation": "Нейтральное время"
-	},
-	{
-		"phrase": "Defensive time",
-		"comment": "How long the player spent defending a zone",
-		"translation": "Время защиты"
-	},
-	{
-		"phrase": "Offensive time",
-		"comment": "How long the player spent attacking a zone",
-		"translation": "Время атаки"
-	},
-	{
-		"phrase": "Playtime",
-		"comment": "How long the player spent playing the game",
-		"translation": "Время игры"
-	},
-	{
-		"phrase": "Defensive",
-		"comment": "The player was defensive",
-		"translation": "Защищающий"
-	},
-	{
-		"phrase": "Offensive",
-		"comment": "The player was offensive",
-		"translation": "Атакующий"
-	},
-	{
-		"phrase": "Neutral",
-		"comment": "The player was neutral",
-		"translation": "Нейтральный"
-	},
-	{
-		"phrase": "Trial",
-		"comment": "A time trial, e.g. 'The Building 2 Trial'",
-		"translation": "Испытание"
-	},
-	{
-		"phrase": "Particle delay",
-		"comment": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
-		"translation": "Задержка частиц"
-	},
-	{
-		"phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
-		"comment": "Description for the 'Particle Delay' settings",
-		"translation": "Продвинутая настройка рендеринга, которая определяет, на сколько кадров может отставать движок частиц."
-	},
-	{
-		"phrase": "Failed",
-		"comment": "This error message appears when a command failed to run",
-		"translation": "Не удалось"
-	},
-	{
-		"phrase": "Headshots",
-		"comment": "2 headshots",
-		"translation": "Выстрелов в голову"
-	},
-	{
-		"phrase": "Frame",
-		"comment": "1 Frame, i.e. 1 frame per second",
-		"translation": "Кадр"
-	},
-	{
-		"phrase": "Frames",
-		"comment": "2 Frames, i.e. 2 frames per second",
-		"translation": "Кадров"
-	},
-	{
-		"phrase": "Medal",
-		"comment": "1 bronze medal",
-		"translation": "Медаль"
-	},
-	{
-		"phrase": "Medals",
-		"comment": "2 bronze medals",
-		"translation": "Медалей"
-	},
-	{
-		"phrase": "Match won",
-		"comment": "1 match won",
-		"translation": "Матч выигран"
-	},
-	{
-		"phrase": "Matches won",
-		"comment": "2 matches won",
-		"translation": "Матчей выиграно"
-	},
-	{
-		"phrase": "Match lost",
-		"comment": "1 match lost",
-		"translation": "Матч проигран"
-	},
-	{
-		"phrase": "Matches lost",
-		"comment": "2 matches lost",
-		"translation": "Матчей проиграно"
-	},
-	{
-		"phrase": "Updates",
-		"comment": "The game has had 3 updates recently",
-		"translation": "Обновлений"
-	},
-	{
-		"phrase": "Hit",
-		"comment": "1 hit, i.e. you hit an enemy once",
-		"translation": "Попадание"
-	},
-	{
-		"phrase": "Hits",
-		"comment": "2 hits",
-		"translation": "Попаданий"
-	},
-	{
-		"phrase": "Level",
-		"comment": "The player's skill level, which increases the more they play the game. Parameter 0: 50",
-		"translation": "Уровень"
-	},
-	{
-		"phrase": "Hipfire",
-		"comment": "Firing a weapon from the hip",
-		"translation": "От бедра"
-	},
-	{
-		"phrase": "Body",
-		"comment": "The part of a player that isn't their head",
-		"translation": "Тело"
-	},
-	{
-		"phrase": "Splash",
-		"comment": "Splash \/ area-of-effect damage from explosions",
-		"translation": "Сплеш"
-	},
-	{
-		"phrase": "Total",
-		"comment": "The whole amount",
-		"translation": "Общее"
-	},
-	{
-		"phrase": "Spot",
-		"comment": "To locate an object, e.g. \"They spot an enemy in a building\"",
-		"translation": "Обнаружить"
-	},
-	{
-		"phrase": "Distance",
-		"comment": "How far a player travelled",
-		"translation": "Расстояние"
-	},
-	{
-		"phrase": "Lose",
-		"comment": "You lose!",
-		"translation": "Поражение"
-	},
-	{
-		"phrase": "Destroy",
-		"comment": "Destroy the enemy tower",
-		"translation": "Разрушать"
-	},
-	{
-		"phrase": "Accuracy",
-		"comment": "How many of your shots hit a target when firing a gun",
-		"translation": "Точность"
-	},
-	{
-		"phrase": "Career",
-		"comment": "A player's career, a record of their achievements and stats",
-		"translation": "Карьера"
-	},
-	{
-		"phrase": "Create",
-		"comment": "Create a fortified position to attack the enemy",
-		"translation": "Создайте"
-	},
-	{
-		"phrase": "Killstreak",
-		"comment": "When you kill multiple enemies without dying, i.e. 'zepofan is on a 15 killstreak'",
-		"translation": "Серия убийств"
-	},
-	{
-		"phrase": "Longest",
-		"comment": "My longest killstreak is 7",
-		"translation": "Самая длинная"
-	},
-	{
-		"phrase": "Average",
-		"comment": "My average killstreak is 1.3",
-		"translation": "Средняя"
-	},
-	{
-		"phrase": "Alive",
-		"comment": "Not dead. It's alive!",
-		"translation": "В живых"
-	},
-	{
-		"phrase": "Strafe",
-		"comment": "To move left and right while facing forwards",
-		"translation": "Стрейф"
-	},
-	{
-		"phrase": "Still",
-		"comment": "Standing still",
-		"translation": "На месте"
-	},
-	{
-		"phrase": "Swim",
-		"comment": "Going for a swim in the pool",
-		"translation": "Плавать"
-	},
-	{
-		"phrase": "Air",
-		"comment": "The enemy was flying through the air",
-		"translation": "Воздухе"
-	},
-	{
-		"phrase": "Extract",
-		"comment": "To remove a resource from a rock, i.e. extract Soltrium",
-		"translation": "Добывать"
-	},
-	{
-		"phrase": "Defuse",
-		"comment": "To defuse or disarm a bomb or heated conversation",
-		"translation": "Обезвредить"
-	},
-	{
-		"phrase": "Deliver",
-		"comment": "It feels great to have a pizza delivered to your house",
-		"translation": "Доставить"
-	},
-	{
-		"phrase": "Return",
-		"comment": "When you're Christmas shopping but they send you the wrong thing so you need to return it",
-		"translation": "Вернуть"
-	},
-	{
-		"phrase": "Capture",
-		"comment": "To steal something from the enemy and store it securely",
-		"translation": "Захватить"
-	},
-	{
-		"phrase": "Death",
-		"comment": "1 death, i.e. how many times you died",
-		"translation": "Смерть"
-	},
-	{
-		"phrase": "Deaths",
-		"comment": "2 deaths",
-		"translation": "Смертей"
-	},
-	{
-		"phrase": "The default barrel is light with no downsides and no cost",
-		"comment": "Barrel description",
-		"translation": "Ствол по умолчанию. Бесплатный, легкий и без недостатков."
-	},
-	{
-		"phrase": "The extended barrel increases damage over distance",
-		"comment": "Barrel description",
-		"translation": "Удлиненный ствол увеличивает урон на расстоянии"
-	},
-	{
-		"phrase": "The choke reduces pellet spread",
-		"comment": "Barrel description",
-		"translation": "Чок уменьшает разброс дроби"
-	},
-	{
-		"phrase": "The compensator reduces recoil",
-		"comment": "Barrel description",
-		"translation": "Компенсатор снижает отдачу"
-	},
-	{
-		"phrase": "The accelerator increases projectile speed and damage over distance",
-		"comment": "Barrel description",
-		"translation": "Ускоритель увеличивает скорость снаряда и урон на расстоянии."
-	},
-	{
-		"phrase": "The beam splitter separates plasma projectiles into four smaller projectiles",
-		"comment": "Barrel description",
-		"translation": "Разделитель луча разделяет каждый плазменный снаряд на четыре меньшего размера."
-	},
-	{
-		"phrase": "The medium barrel is lighter and cheaper but has reduced projectile speed and damage over distance",
-		"comment": "Barrel description",
-		"translation": "Средний ствол легче и дешевле, но имеет меньшую скорость снаряда и урон на расстоянии."
-	},
-	{
-		"phrase": "The short barrel converts your Rail Gun into a Rail Pistol",
-		"comment": "Barrel description",
-		"translation": "Короткий ствол превращает ваш Rail Gun в Rail Pistol."
-	},
-	{
-		"phrase": "The {0} stops you from appearing on the minimap when firing",
-		"comment": "Barrel description. Parameter 0: 'silencer'",
-		"translation": "{0} позволяет вам не появляться на миникарте во время стрельбы."
-	},
-	{
-		"phrase": "Removing the grip from your gun increases recoil and reduces holster time",
-		"comment": "Foregrip description",
-		"translation": "Снятие рукояти с вашего оружия увеличивает отдачу и сокращает время на смену оружия."
-	},
-	{
-		"phrase": "The {0} grip reduces initial recoil and increases full-auto recoil",
-		"comment": "Foregrip description. Parameter 0: 'Stubby'",
-		"translation": "Рукоятка {0} уменьшает начальную отдачу и увеличивает отдачу в режиме автоматической стрельбы."
-	},
-	{
-		"phrase": "The {0} grip gives consistent recoil on all shots",
-		"comment": "Foregrip description. Parameter 0: 'Angled'",
-		"translation": "Рукоятка {0} обеспечивает постоянную отдачу."
-	},
-	{
-		"phrase": "The base loader has the slowest pump speed",
-		"comment": "Loader description",
-		"translation": "Стандартный лоадер имеет самую медленную скорость перезарядки"
-	},
-	{
-		"phrase": "The angled loader has a slightly faster pump speed",
-		"comment": "Loader description",
-		"translation": "Угловой лоадер имеет немного более высокую скорость перезарядки."
-	},
-	{
-		"phrase": "The vertical loader has the fastest pump speed",
-		"comment": "Loader description",
-		"translation": "Вертикальный лоадер имеет самую высокую скорость перезарядки"
-	},
-	{
-		"phrase": "The default magazine is small and quick to reload",
-		"comment": "Magazine description",
-		"translation": "Магазин по умолчанию. Маленький и быстро перезаряжается."
-	},
-	{
-		"phrase": "The extended magazine contains more bullets and is slower to reload",
-		"comment": "Magazine description",
-		"translation": "Расширенный магазин содержит больше снарядов и перезаряжается медленнее."
-	},
-	{
-		"phrase": "The large magazine stores enough Soltrium to fire two Orberator shots",
-		"comment": "Magazine description",
-		"translation": "В большом магазине достаточно Солтриума, чтобы произвести два выстрела из Orberator."
-	},
-	{
-		"phrase": "Default ammo gives a nice balance between damage and fire rate",
-		"comment": "Ammo description",
-		"translation": "Боеприпасы по умолчанию обеспечивают хороший баланс между уроном и скорострельностью."
-	},
-	{
-		"phrase": "Heavy ammo deals more damage but fires slower",
-		"comment": "Ammo description",
-		"translation": "Тяжелые боеприпасы наносят больше урона, но уменьшают скорострельность оружия."
-	},
-	{
-		"phrase": "Light ammo fires faster but deals less damage",
-		"comment": "Ammo description",
-		"translation": "Легкие боеприпасы увеличивают скорострельность оружия, но наносят меньше урона"
-	},
-	{
-		"phrase": "This ammo pierces through blocks and players in exchange for a slower fire rate",
-		"comment": "Ammo description",
-		"translation": "Этот вид боеприпасов пробивает блоки и игроков насквозь, но уменьшает скорострельность."
-	},
-	{
-		"phrase": "This ammo ricochets off walls up to {0} times",
-		"comment": "Ammo description. Parameter 0: '3'",
-		"translation": "Этот вид боеприпасов рикошетит от стен до {0} раз."
-	},
-	{
-		"phrase": "Huge chunks of metal, effective at killing to the head",
-		"comment": "Ammo description",
-		"translation": "Огромные куски металла. Эффективны для убийства в голову"
-	},
-	{
-		"phrase": "A large spread of tiny metal projectiles",
-		"comment": "Ammo description",
-		"translation": "Большая куча крошечных металлических снарядов"
-	},
-	{
-		"phrase": "Look around after firing to control the trajectory of this projectile",
-		"comment": "Ammo description",
-		"translation": "Траектория движения этого вида боеприпасов следует направлению прицела."
-	},
-	{
-		"phrase": "Three smaller rocket-powered projectiles that fire faster but deal less damage",
-		"comment": "Ammo description",
-		"translation": "Три ракеты меньшего размера. Выстреливаются быстрее, но наносят меньший урон."
-	},
-	{
-		"phrase": "Augmented plasma creates a larger explosion on impact",
-		"comment": "Ammo description",
-		"translation": "Аугментированная плазма создает больший взрыв при ударе"
-	},
-	{
-		"phrase": "These rounds stick to a wall before detonating",
-		"comment": "Ammo description",
-		"translation": "Боеприпасы этого вида прилипают к стене, прежде чем взорваться"
-	},
-	{
-		"phrase": "The rounds split into {0} projectiles on impact",
-		"comment": "Ammo description. Parameter 0: '3'",
-		"translation": "Этот тип боеприпасов распадается на {0} снарядов меньшего размера при попадании."
-	},
-	{
-		"phrase": "Overcharged plasma rounds fire faster but require a cooldown after {0} shots",
-		"comment": "Ammo description. Parameter 0: '2'",
-		"translation": "Перегруженные плазменные снаряды стреляют быстрее, но требуют время на охлаждение после {0} выстрелов."
-	},
-	{
-		"phrase": "Dispersion rounds fire slower and deal area-of-effect damage on impact",
-		"comment": "Ammo description",
-		"translation": "Дисперсионные снаряды стреляют медленнее, но при попадании наносят урон по области."
-	},
-	{
-		"phrase": "Ion rounds allow players and projectiles to temporarily travel through blocks",
-		"comment": "Ammo description",
-		"translation": "Ионные снаряды позволяют игрокам и снарядам временно проходить сквозь блоки"
-	},
-	{
-		"phrase": "Explosive payloads are explosive",
-		"comment": "Payload description",
-		"translation": "Взрывные боеприпасы взрываются"
-	},
-	{
-		"phrase": "Incendiary rounds set blocks on fire",
-		"comment": "Payload description",
-		"translation": "Зажигательные снаряды поджигают блоки"
-	},
-	{
-		"phrase": "Impact rounds really hurt",
-		"comment": "Payload description",
-		"translation": "Ударные патроны причиняют боль"
-	},
-	{
-		"phrase": "Nothing to see here, move along",
-		"comment": "Payload description",
-		"translation": "Здесь не на что смотреть, проходите мимо"
-	},
-	{
-		"phrase": "Ironsights are light and quick to aim with",
-		"comment": "Sight description",
-		"translation": "Мушка легкая и позволяет быстро прицеливаться."
-	},
-	{
-		"phrase": "Red dot sights provide good visibility in close range encounters",
-		"comment": "Sight description",
-		"translation": "Прицелы Красная точка обеспечивают хорошую видимость в бою на ближней дистанции."
-	},
-	{
-		"phrase": "2.0x sights have 2.0x zoom",
-		"comment": "Sight description",
-		"translation": "2-кратные прицелы дают 2-кратное увеличение"
-	},
-	{
-		"phrase": "4.0x sights have 4.0x zoom",
-		"comment": "Sight description",
-		"translation": "4-кратные прицелы дают 4-кратное увеличение"
-	},
-	{
-		"phrase": "The base stock doesn't have as much flavour as chicken stock",
-		"comment": "Stock description",
-		"translation": "Ничего лишнего - просто приклад."
-	},
-	{
-		"phrase": "Removing the stock reduces the holster time but increases recoil",
-		"comment": "Stock description",
-		"translation": "Снятие приклада сокращает время смены оружия, но увеличивает отдачу."
-	},
-	{
-		"phrase": "The {0} stock reduces recoil while aiming but increases the holster time",
-		"comment": "Stock description. Parameter 0: 'Tactical'",
-		"translation": "{0} приклад уменьшает отдачу при прицеливании, но увеличивает время смены оружия."
-	},
-	{
-		"phrase": "The mechanical trigger increases fire rate",
-		"comment": "Trigger description",
-		"translation": "Механический спусковой крючок увеличивает скорострельность"
-	},
-	{
-		"phrase": "The welded choke permanently reduces pellet spread",
-		"comment": "Choke description",
-		"translation": "Сваренный чок перманентно снижает разброс дроби"
-	},
-	{
-		"phrase": "The pneumatic choke reduces pellet spread over {0} seconds while aiming, and resets when firing",
-		"comment": "Choke description",
-		"translation": "Пневматический чок уменьшает разброс дроби через {0} секунд прицеливания. Разброс дроби возвращается в начальное состояние при выстреле."
-	},
-	{
-		"phrase": "The advanced choke reduces pellet spread over {0} seconds while aiming",
-		"comment": "Choke description",
-		"translation": "Усовершенствованный чок уменьшает разброс дроби через {0} секунд прицеливания."
-	},
-	{
-		"phrase": "This core spins to produce a faster fire rate",
-		"comment": "Core description",
-		"translation": "Вращающееся ядро для создано для увеличения скорострельности."
-	},
-	{
-		"phrase": "This core produces a laser that slices through blocks and enemies",
-		"comment": "Core description",
-		"translation": "Это ядро испускает лазер, который прорезает блоки и врагов."
-	},
-	{
-		"phrase": "This core generates 5 smaller orbs that each explode once",
-		"comment": "Core description",
-		"translation": "Это ядро генерирует 5 сфер поменьше, каждая из которых взрывается один раз."
-	},
-	{
-		"phrase": "The burst firing mechanism fires bursts of {0} shots",
-		"comment": "Mechanism description. Parameter 0: '3'",
-		"translation": "Механизм стрельбы очередями выстреливает очередями по {0} выстрелов."
-	},
-	{
-		"phrase": "This mechanism continuously fires bullets",
-		"comment": "Mechanism description",
-		"translation": "Этот механизм непрерывно выстреливает патроны"
-	},
-	{
-		"phrase": "Spinning",
-		"comment": "I'm spinning around, move out of my way. I know you're feeling me 'cause you like it like this",
-		"translation": "Вращающееся"
-	},
-	{
-		"phrase": "Strict teams",
-		"comment": "Stop players from switching teams",
-		"translation": "Строгие команды"
-	},
-	{
-		"phrase": "Stop players from switching teams",
-		"comment": "When Strict Teams is enabled, players can't swap teams",
-		"translation": "Не позволяет игрокам менять команду"
-	},
-	{
-		"phrase": "Strict teams enabled",
-		"comment": "Strict teams is enabled, meaning players can't swap teams",
-		"translation": "Строгие команды включены"
-	},
-	{
-		"phrase": "Strict teams disabled",
-		"comment": "Strict teams is disabled, meaning players can swap teams",
-		"translation": "Строгие команды отключены"
-	},
-	{
-		"phrase": "Packet loss",
-		"comment": "When network packets are lost between the client and server",
-		"translation": "Потеря пакетов"
-	},
-	{
-		"phrase": "No",
-		"context": "None",
-		"comment": "Does not exist, i.e. 'No foregrip equipped'",
-		"translation": "Нет"
-	},
-	{
-		"phrase": "Show spectator controls",
-		"comment": "Keybind that shows\/hides the list of spectator controls",
-		"translation": "Показать элементы управления для наблюдателей"
-	},
-	{
-		"phrase": "Clamp Altitude",
-		"comment": "Keep your flying spectator camera at the same altitude",
-		"translation": "Высота камеры"
-	},
-	{
-		"phrase": "Smooth Camera",
-		"comment": "Smooth camera movement",
-		"translation": "Гладкая камера"
-	},
-	{
-		"phrase": "Anchor",
-		"comment": "Spectator control. Your camera rotates around a central 'anchor' point",
-		"translation": "Якорь"
-	},
-	{
-		"phrase": "Increase anchor distance",
-		"comment": "Increase the distance between the camera and the anchor position",
-		"translation": "Увеличить расстояние до якоря"
-	},
-	{
-		"phrase": "Decrease anchor distance",
-		"comment": "Decrease the distance between the camera and the anchor position",
-		"translation": "Уменьшить расстояние до якоря"
-	},
-	{
-		"phrase": "Increase camera speed",
-		"comment": "Increase the movement speed of the spectator camera",
-		"translation": "Увеличить скорость камеры"
-	},
-	{
-		"phrase": "Decrease camera speed",
-		"comment": "Decrease the movement speed of the spectator camera",
-		"translation": "Уменьшить скорость камеры"
-	},
-	{
-		"phrase": "Next player",
-		"comment": "Spectate the next player in the list",
-		"translation": "Следующий игрок"
-	},
-	{
-		"phrase": "Previous player",
-		"comment": "Spectate the previous player in the list",
-		"translation": "Предыдущий игрок"
-	},
-	{
-		"phrase": "Create path {0}",
-		"comment": "Players can create up to 9 paths for cameras to move along (for recording cinematic shots). Parameter 0: '4'",
-		"translation": "Создать путь {0}"
-	},
-	{
-		"phrase": "Play path {0}",
-		"comment": "This keybind plays the nth path. Parameter 0: '4'",
-		"translation": "Воспроизвести путь {0}"
-	},
-	{
-		"phrase": "Edit path {0}",
-		"comment": "This keybind edits the nth path. Parameter 0: '4'",
-		"translation": "Изменить путь {0}"
-	},
-	{
-		"phrase": "Select player {0} on team {1}",
-		"comment": "This keybind selects the nth player on the nth team. Parameter 0: '11', Parameter 1: '2'",
-		"translation": "Выбрать игрока {0} в команде {1}."
-	},
-	{
-		"phrase": "Networking HUD",
-		"comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
-		"translation": "Сетевой HUD"
-	},
+        "phrase": "Scoreboard",
+        "comment": "A list of players in game sorted descending by the amount of points they have",
+        "translation": "Таблица счета"
+    },
+    {
+        "phrase": "You must wait {0}s before initiating another votekick",
+        "comment": "Warning message when a player attempts to votekick another player during the votekick cooldown",
+        "translation": "Вы должны подождать {0} секунд, прежде чем инициировать новое голосование"
+    },
+    {
+        "phrase": "Trial Complete",
+        "comment": "The player has completed the time trial",
+        "translation": "Испытание Пройдено"
+    },
+    {
+        "phrase": "Not completed",
+        "comment": "This trial has not been completed",
+        "translation": "Не пройдено"
+    },
+    {
+        "phrase": "This time",
+        "comment": "How long it just took for the player to complete the trial, i.e. 'This time' vs 'Best time'",
+        "translation": "Время"
+    },
+    {
+        "phrase": "Best time",
+        "comment": "The fastest time the player completed the trial, i.e. 'This time' vs 'Best time'",
+        "translation": "Лучшее время"
+    },
+    {
+        "phrase": "Saving time",
+        "comment": "Loading text that shows while the server is saving/storing the player's time",
+        "translation": "Сохранение времени"
+    },
+    {
+        "phrase": "Time saved",
+        "comment": "The player's time has been saved/stored by the server",
+        "translation": "Время сохранено"
+    },
+    {
+        "phrase": "Leave",
+        "comment": "Exit / leave the trials",
+        "translation": "Выйти"
+    },
+    {
+        "phrase": "TBD",
+        "comment": "Acronym for 'to be determined'",
+        "translation": "Подлежит уточнению"
+    },
+    {
+        "phrase": "Player",
+        "comment": "1 Player, i.e. someone who is playing Sector's Edge",
+        "translation": "Игрок"
+    },
+    {
+        "phrase": "Reach the {0} platform to finish",
+        "comment": "Trial instructions, the player needs to stand on the yellow platform to complete the trial. Parameter 0: 'Yellow'",
+        "translation": "Доберитесь до {0} платформы , чтобы завершить испытание"
+    },
+    {
+        "phrase": "Avoid touching the {0} blocks",
+        "comment": "Trial instructions, the player fails if they touch any red blocks. Parameter 0: 'Red",
+        "translation": "Не прикасайтесь к {0} блокам "
+    },
+    {
+        "phrase": "Build off the {0} blocks",
+        "comment": "Trial instructions, players can only build blocks on top of existing purple blocks. Parameter 0: 'Purple'",
+        "translation": "Стройте на {0} блоках"
+    },
+    {
+        "phrase": "Achievements",
+        "comment": "Something the player can achieve",
+        "translation": "Достижения"
+    },
+    {
+        "phrase": "Type here to search {0}...",
+        "comment": "Placeholder text for a search field. Parameter 0: 'Settings'",
+        "translation": "Введите здесь для поиска по разделу {0}..."
+    },
+    {
+        "phrase": "Statistics",
+        "comment": "Data",
+        "translation": "Статистика"
+    },
+    {
+        "phrase": "Networking rate changes how often you receive data from the server. Set this to 30 FPS if you have unstable or slow internet",
+        "comment": "Tooltip for the Networking Rate setting",
+        "translation": "Скорость сети влияет на то, как часто вы получаете данные с сервера. Установите это значение на 30 кадров в секунду, если у вас нестабильный или медленный интернет"
+    },
+    {
+        "phrase": "Failed to connect to {0}",
+        "comment": "Error message to show the client could not communicate with a server. Parameter 0: 'Fremont-1'",
+        "translation": "Не удалось подключиться к {0}"
+    },
+    {
+        "phrase": "Failed to load resource {0}",
+        "comment": "Error message to show the client failed to load a file from disk. Parameter 0: 'help.png'",
+        "translation": "Не удалось загрузить файл {0}"
+    },
+    {
+        "phrase": "{0} error - this social sidebar will no longer update.",
+        "comment": "Steam error message that indicates the friends on the sidebar on the right side of the screen will no longer update. Parameter 0: 'Steam'",
+        "translation": "Ошибка {0} - боковая панель Друзья больше не будет обновляться."
+    },
+    {
+        "phrase": "Titles",
+        "comment": "2 Titles",
+        "translation": "Титулов"
+    },
+    {
+        "phrase": "Ping (Enemy)",
+        "context": "Marker (Enemy)",
+        "comment": "Ping refers to placing a 3D marker on an enemy for your teammates to see",
+        "translation": "Отметка (Враг)"
+    },
+    {
+        "phrase": "Ping (Help)",
+        "context": "Marker (Help)",
+        "comment": "This ping refers to placing a 3D marker above your head, indicating you need help/backup/support/assistance from your team",
+        "translation": "Отметка (Помощь)"
+    },
+    {
+        "phrase": "Ping",
+        "context": "Marker",
+        "comment": "Column header on the server list",
+        "translation": "Пинг"
+    },
+    {
+        "phrase": "Controls whether the camera should sway left and right while sprinting",
+        "comment": "Description for the 'Camera sway' setting",
+        "translation": "Определяет, будет ли камера покачиваться влево и вправо во время бега."
+    },
+    {
+        "phrase": "Voice input device",
+        "comment": "Setting that controls which voice input device/microphone the game will use",
+        "translation": "Устройство голосового ввода"
+    },
+    {
+        "phrase": "Pew Pew Mode",
+        "context": "Acapella mode",
+        "comment": "Setting that replaces sounds with community-made acapella versions",
+        "translation": "Пиу-Пиу Режим"
+    },
+    {
+        "phrase": "Replaces sounds with community-made acapella versions",
+        "comment": "Description for the 'Pew Pew Mode' setting",
+        "translation": "Заменяет звуки акапельными версиями, созданными сообществом."
+    },
+    {
+        "phrase": "Crosshair spacing",
+        "context": "Crosshair distance",
+        "comment": "The distance/spacing between each line in a plus-shaped crosshair",
+        "translation": "Размер пустого пространства"
+    },
+    {
+        "phrase": "Edge width",
+        "comment": "Setting that controls the width of the ammo/health info around the edge of the crosshair",
+        "translation": "Ширина края"
+    },
+    {
+        "phrase": "Edge length",
+        "comment": "Setting that controls the length of the ammo/health info around the edge of the crosshair",
+        "translation": "Длина края"
+    },
+    {
+        "phrase": "Edge spacing",
+        "context": "Edge distance",
+        "comment": "Setting that controls the spacing/distance between the ammo/health info around the edge of the crosshair, and the crosshair",
+        "translation": "Расстояние между краями"
+    },
+    {
+        "phrase": "Match Time HUD",
+        "comment": "Setting that controls whether the remaining time left in the match is visible on the HUD",
+        "translation": "HUD Времени Матча"
+    },
+    {
+        "phrase": "Team Info HUD",
+        "comment": "Setting that controls whether the team information HUD is visible",
+        "translation": "HUD Информации о Команде"
+    },
+    {
+        "phrase": "Show pings",
+        "context": "Show markers",
+        "comment": "Setting that controls whether pings/markers should be visible on the minimap",
+        "translation": "Показывать отметки"
+    },
+    {
+        "phrase": "{0} - horizontal edge",
+        "comment": "Setting that controls whether the ammo/chat/minimap/etc HUD should snap to the left or right of the screen. Parameter 0: 'Ammo'",
+        "translation": "{0} - привязка к боковому краю"
+    },
+    {
+        "phrase": "Whether the {0} HUD should snap to the left or right of the screen",
+        "comment": "Description for the 'Ammo - horizontal edge' setting. Parameter 0: 'Ammo'",
+        "translation": "Определяет, будет ли HUD {0} привязываться к левой или правой части экрана"
+    },
+    {
+        "phrase": "{0} - vertical edge",
+        "comment": "Setting that controls whether the ammo/chat/minimap/etc HUD should snap to the top or bottom of the screen",
+        "translation": "{0} - вертикальная привязка"
+    },
+    {
+        "phrase": "Whether the {0} HUD should snap to the top or bottom of the screen",
+        "comment": "Description for the 'Ammo - vertical edge' setting",
+        "translation": "Определяет, будет ли HUD {0} привязываться к верхней или нижней части экрана"
+    },
+    {
+        "phrase": "{0} - horizontal margin",
+        "comment": "[Setting] Setting that controls the distance between the ammo/chat/minimap/etc HUD and the edge of the screen. Parameter 0: 'Ammo'",
+        "translation": "{0} - отступ по горизонтали"
+    },
+    {
+        "phrase": "{0} - vertical margin",
+        "comment": "[Setting] Setting that controls the distance between the ammo/chat/minimap/etc HUD and the edge of the screen. Parameter 0: 'Ammo'",
+        "translation": "{0} - отступ по вертикали"
+    },
+    {
+        "phrase": "The distance between the {0} HUD and the edge of the screen",
+        "comment": "Description for the 'Ammo - horizontal margin' setting. Parameter 0: 'Ammo'",
+        "translation": "Расстояние между {0} HUD и боковым краем экрана"
+    },
+    {
+        "phrase": "{0} - max width",
+        "context": "{0} - maximum width",
+        "comment": "Setting that controls the maximum width of the ammo/chat/minimap/etc HUD",
+        "translation": "{0} - максимальная ширина"
+    },
+    {
+        "phrase": "{0} - max height",
+        "context": "{0} - maximum height",
+        "comment": "Setting that controls the maximum height of the ammo/chat/minimap/etc HUD",
+        "translation": "{0} - максимальная высота"
+    },
+    {
+        "phrase": "{0} - width",
+        "comment": "Setting that controls the width of the ammo/chat/minimap/etc HUD",
+        "translation": "{0} - ширина"
+    },
+    {
+        "phrase": "{0} - height",
+        "comment": "Setting that controls the height of the ammo/chat/minimap/etc HUD",
+        "translation": "{0} - высота"
+    },
+    {
+        "phrase": "{0} timeout",
+        "comment": "Setting that controls how long chat/killfeed messages display before disappearing",
+        "translation": "{0} - тайм-аут"
+    },
+    {
+        "phrase": "How long {0} messages display before disappearing",
+        "comment": "Description for the 'Chat timeout' setting",
+        "translation": "Как долго отображаются {0} сообщения перед исчезновением"
+    },
+    {
+        "phrase": "Toggle {0}",
+        "comment": "Setting that Controls whether you need to hold a key down to continually perform an action, e.g. scoping/crouching/sprinting. Parameter 0: 'Scope'",
+        "translation": "Переключить {0}"
+    },
+    {
+        "phrase": "Whether you need to hold a key down to continually {0}",
+        "comment": "Description for the 'Toggle Scope' setting. Parameter 0: 'Scope'",
+        "translation": "Определяет, нужно ли постоянно удерживать клавишу {0}"
+    },
+    {
+        "phrase": "{0} vs {1} priority",
+        "comment": "Setting that controls what happens when the player presses two keys at the same time. Parameter 0: 'Sprint', Parameter 1: 'Scope'",
+        "translation": "Приоритет {0} над {1}"
+    },
+    {
+        "phrase": "Controls what should happen when pressing both {0} and {1} at the same time",
+        "comment": "Description for the 'Sprint vs Scope priority' setting",
+        "translation": "Определяет тем, что должно происходить при одновременном нажатии клавиш {0} и {1}."
+    },
+    {
+        "phrase": "Controls whether your structure automatically rotates as you look around",
+        "comment": "Description for the 'Rotate structures' keybind",
+        "translation": "Определяет, будут ли ваши постройки автоматически поворачиваться вместе с вами"
+    },
+    {
+        "phrase": "Skip {0} on swap",
+        "comment": "[Setting] Controls whether the player should swap to the midi when scrolling. Parameter 0: 'MiDi'",
+        "translation": "Пропускать {0} при переключении оружия"
+    },
+    {
+        "phrase": "Relative sensitivity",
+        "comment": "This setting means that the player's ironsights/2X/4X sensitivity is relative to their base look sensitivity",
+        "translation": "Относительная чувствительность прицела"
+    },
+    {
+        "phrase": "Texture resolution",
+        "comment": "Controls the size of textures, i.e. full, half or quarter resolution",
+        "translation": "Разрешение текстур"
+    },
+    {
+        "phrase": "Custom resolution",
+        "comment": "Setting that controls whether a custom resolution should be used, rather than the current window resolution",
+        "translation": "Пользовательское разрешение экрана"
+    },
+    {
+        "phrase": "Enabling this to render the game at the specified resolution. The final image will then be stretched to the size of the window",
+        "comment": "/*Description for the 'Custom resolution' setting",
+        "translation": "Включите этот параметр для игры с указанным разрешением. Конечное изображение будет растянуто до размеров окна"
+    },
+    {
+        "phrase": "The map is divided into chunks of 32x32x32 blocks. Reducing render distance will increase FPS",
+        "comment": "Description for the 'Render distance' setting",
+        "translation": "Карты разделены на чанки размером 32x32x32 блока. Уменьшение дальности прорисовки увеличит FPS"
+    },
+    {
+        "phrase": "Max lights",
+        "context": "Maximum light count",
+        "comment": "Setting that controls the maximum amount of lights that can be rendered",
+        "translation": "Максимальное количество источников света"
+    },
+    {
+        "phrase": "Ambient occlusion quality",
+        "comment": "Setting that controls the quality of ambient occlusion, which is a technical term for a shader that simulates light by darkening the crevices between objects",
+        "translation": "Качество Ambient Occlusion"
+    },
+    {
+        "phrase": "Ambient occlusion darkens the crevices between objects",
+        "comment": "Description for the 'Ambient occlusion quality' setting",
+        "translation": "Ambient Occlusion затемняет пространство между объектами"
+    },
+    {
+        "phrase": "Bloom makes bright surfaces brighter",
+        "comment": "Description for the 'Bloom strength' setting",
+        "translation": "Bloom делает светлые поверхности ярче"
+    },
+    {
+        "phrase": "Controls whether bloom effects apply to weapon sights",
+        "comment": "Description for the 'Bloom on sights' setting",
+        "translation": "Определяет, применяются ли эффект Bloom к прицелам оружия"
+    },
+    {
+        "phrase": "Controls whether Disruptors, C4, Scanners and Disruptors cast shadows",
+        "comment": "Description for the 'Entity block shadows' setting",
+        "translation": "Контролирует, отбрасывают ли тени Мины-Ловушки, C4 и Сканеры"
+    },
+    {
+        "phrase": "Controls whether falling blocks cast shadows",
+        "comment": "Description for the 'Falling block shadows' setting",
+        "translation": "Определяет, отбрасывают ли тени падающие блоки"
+    },
+    {
+        "phrase": "The bare minimum rendering pipeline skips all postprocessing and effects and runs the game as fast as possible. This setting will produce the highest frames-per-second.",
+        "comment": "Description for the 'Bare minimum' settings",
+        "translation": "Минимальный пайплайн рендеринга пропускает все эффекты и постобработку, что позволяет максимально повысить производительность игры. Включение этого параметра добавит вам наибольшее количество кадров в секунду."
+    },
+    {
+        "phrase": "OpenGL errors are logged to a file that the developer can analyse. Disabling this may increase FPS.",
+        "comment": "Description for the 'Log OpenGL Errors' settings",
+        "translation": "Ошибки OpenGL записываются в файл, который разработчик может проанализировать. Отключение этого параметра может увеличить FPS."
+    },
+    {
+        "phrase": "Show ping owner",
+        "context": "Show marker owner",
+        "comment": "Setting that controls whether a 3D ping should have the name of its owners next to it. Owner refers to the player who created the ping/marker",
+        "translation": "Показать владельца отметки"
+    },
+    {
+        "phrase": "Controls whether a 3D ping should the name of its owner next to it",
+        "context": "Controls whether a 3D marker should have the name of its owner next to it",
+        "comment": "Description for the 'Show ping owner' setting. Owner refers to the player who created the ping/marker",
+        "translation": "Определяет, будет ли рядом с 3D-отметкой указываться имя поставившего ее игрока."
+    },
+    {
+        "phrase": "Controls the render distance cutoff for 3D pings",
+        "context": "Controls the render distance cutoff for 3D markers",
+        "comment": "Description for the 'Max ping distance' setting",
+        "translation": "Определяет, на каком расстоянии от игрока перестают показываться отметки."
+    },
+    {
+        "phrase": "Player name size",
+        "comment": "Setting that controls the size of friendly player names",
+        "translation": "Размер имен игроков"
+    },
+    {
+        "phrase": "Complete each trial within the specified time to earn {0} and licence titles",
+        "comment": "Time trials description. Parameter 0: 'Protons'",
+        "translation": "Завершите каждое испытание за указанное время, чтобы заработать {0} и титулы лицензии."
+    },
+    {
+        "phrase": "This setting controls the scale of all UI and in-game HUD. Press {0} to reset it back to 100%",
+        "comment": "Description for the 'UI scale' setting. Parameter 0: '[ Ctrl+R ]'",
+        "translation": "Этот параметр управляет масштабом всего пользовательского интерфейса и внутриигрового HUD. Нажмите {0}, чтобы сбросить его обратно на 100%"
+    },
+    {
+        "phrase": "The server name will not be displayed on the scoreboard and other player names and levels will be randomised",
+        "comment": "Description for the 'Streamer mode' setting",
+        "translation": "Название сервера не будет отображаться на Таблице счета, а имена и уровни других игроков будут случайными."
+    },
+    {
+        "phrase": "{0} Send team message",
+        "comment": "Press enter to send a message to your team. Parameter 0: '[ Enter ]'",
+        "translation": "{0} Отправить командное сообщение"
+    },
+    {
+        "phrase": "{0} Send global message",
+        "comment": "Press enter to send a message to everyone. Parameter 0: '[ Enter ]'",
+        "translation": "{0} Отправить глобальное сообщение"
+    },
+    {
+        "phrase": "{0} Join a cluster spawn",
+        "comment": "Players can press a key to join an existing cluster spawn. Parameter 0: '[ CTRL ]'",
+        "translation": "{0} Присоединиться к Кластерному возврождению"
+    },
+    {
+        "phrase": "Failed to initialise the {0}",
+        "comment": "Error that shows when a file can't be processed. Parameter 0: 'Steam API'",
+        "translation": "Не удалось инициализировать {0}"
+    },
+    {
+        "phrase": "Unable to connect to the {0} servers, please relaunch the game",
+        "comment": "Error that shows when the game can't connect to Steam. Parameter 0: 'Steam'",
+        "translation": "Не удалось подключиться к серверам {0}. Пожалуйста, перезапустите игру."
+    },
+    {
+        "phrase": "The game has not been run through {0} and will now restart. Please wait until the {1} launcher appears",
+        "comment": "Startup error. Parameter 0: 'Steam', Parameter 1: 'EAC'",
+        "translation": "Игра запускалась не через {0} и теперь перезапустится. Пожалуйста, подождите, пока не появится программа запуска {1}"
+    },
+    {
+        "phrase": "An update has released, please close the game and update it through {0} to continue playing",
+        "comment": "This notification text appears when a new version of Sector's Edge is available. Parameter 0: 'Steam'",
+        "translation": "Вышло обновление. Пожалуйста, закройте игру и обновите ее через {0}, чтобы продолжить играть."
+    },
+    {
+        "phrase": "A workshop item already exists with the ID {0}",
+        "comment": "This error occurs when a user attempts to upload a map over the top of an existing one. Parameter 0: '123'",
+        "translation": "Предмет мастерской уже существует с идентификатором {0}."
+    },
+    {
+        "phrase": "{0} Reset Ship",
+        "comment": "The player can press a button to remove all blocks they placed in their ship. Parameter 0: '[ F ]'",
+        "translation": "{0} Очистить корабль"
+    },
+    {
+        "phrase": "The map is still loading, please try again in {0} seconds",
+        "comment": "This error message appears when the player attempts to join a server, but the server is still loading the map. Parameter 0: '10'",
+        "translation": "Карта еще загружается. Пожалуйста, повторите попытку через {0} секунд."
+    },
+    {
+        "phrase": "Unable to change teams during free-for-all gamemodes",
+        "comment": "Error message that displays when a player attempts to change teams during a free for all, gun game or head hunter match (there are no teams in this game mode)",
+        "translation": "Невозможно сменить команду в игровых режимах Все-Против-Всех."
+    },
+    {
+        "phrase": "Unable to change teams due to the lobby whitelist",
+        "comment": "Custom lobbies can have a whitelist, where certain players can only join a certain team",
+        "translation": "Вайтлист лобби запрещает вам менять команду."
+    },
+    {
+        "phrase": "You cannot kick moderators",
+        "comment": "This error message appears when a player attempts to kick a moderator",
+        "translation": "Нельзя выгонять модераторов"
+    },
+    {
+        "phrase": "You cannot change to the larger team",
+        "comment": "This error message appears when a player attempts to swap from the smaller team to the larger team",
+        "translation": "Вы не можете перейти в команду с большим числом игроков"
+    },
+    {
+        "phrase": "Unable to join as both teams are full",
+        "comment": "This error message appears when the player attempts to join a server that's full",
+        "translation": "Невозможно присоединиться. Обе команды заполнены"
+    },
+    {
+        "phrase": "Lobby settings updated",
+        "comment": "This message appears when the lobby owner changes the lobby settings, e.g. enables sandbox or changes the team size",
+        "translation": "Настройки лобби обновлены"
+    },
+    {
+        "phrase": "You do not have permission to modify this lobby",
+        "comment": "This message appears when the someone other than the lobby owner attempts to change the lobby settings, e.g. enables sandbox or changes the team size",
+        "translation": "У вас нет разрешения на изменение настроек этого лобби"
+    },
+    {
+        "phrase": "You cannot modify this lobby as it is not claimed",
+        "comment": "This error message appears when someone attempts to change the lobby settings in an unclaimed lobby",
+        "translation": "Вы не можете изменить это лобби, так как оно не забронировано"
+    },
+    {
+        "phrase": "Unknown command",
+        "comment": "This error message appears when the player runs an unknown command, e.g. /gorkblorf",
+        "translation": "Неизвестная команда"
+    },
+    {
+        "phrase": "Your party has been disbanded due to an internal error",
+        "comment": "This error message appears when the player's party of 4 players is disbanded and therefore not all placed on the same team",
+        "translation": "Ваш отряд расформирован из-за внутренней ошибки"
+    },
+    {
+        "phrase": "Your party has been disbanded to keep the teams balanced",
+        "comment": "This error message appears when the player's party of 4 players is disbanded to keep the teams balanced",
+        "translation": "Ваш отряд был расформирован, чтобы сохранить баланс команд."
+    },
+    {
+        "phrase": "Expected parameters: {0}",
+        "comment": "This error message appears when running a command with invalid parameters. Parameter 0: 'mapCode gameMode'",
+        "translation": "Ожидаемые параметры: {0}"
+    },
+    {
+        "phrase": "The map {0} does not exist",
+        "comment": "This error message appears when attempting to switch to a map that doesn't exist. Parameter 0: 'Thrashed Crater'",
+        "translation": "Карта {0} не существует"
+    },
+    {
+        "phrase": "The game mode {0} does not exist",
+        "comment": "This error message appears when attempting to switch to a game mode that doesn't exist. Parameter 0: 'Control Alt Delete'",
+        "translation": "Режим игры {0} не существует"
+    },
+    {
+        "phrase": "{0} must be an integer",
+        "comment": "This error message appears when a player runs a command with invalid parameters, e.g. '/magsize smg blah' instead of '/magsize smg 50'. Parameter 0: 'magazineSize'",
+        "translation": "Параметр {0} должен быть целым числом"
+    },
+    {
+        "phrase": "Player with {0} {1} not found",
+        "comment": "This error message appears when a player is not found, Parameter 0: 'Steam ID'. Parameter 1: '8712947194514253",
+        "translation": "Игрок с {0} {1} не найден"
+    },
+    {
+        "phrase": "Downloading workshop map {0}... The next game mode will be: {1}",
+        "comment": "This message shows when the lobby owner tells the server to download a workshop map",
+        "translation": "Загрузка карты мастерской {0}... следующий игровой режим будет: {1}"
+    },
+    {
+        "phrase": "Next map: {0}. Next game mode: {1}",
+        "comment": "This message appears when map voting finishes. Parameter 0: 'Railway', Parameter 1: 'Control Shift'",
+        "translation": "Следующая карта: {0}. следующий игровой режим: {1}"
+    },
+    {
+        "phrase": "Setting ban level for {0} to {1}",
+        "comment": "This message appears when successfully banning a player. Parameter 0: 'zepofan', Parameter 1: '4'. Different ban levels represent different severities, e.g. ban level 2 means they can only join their own custom lobbies and ban level 4 means they cannot join any servers",
+        "translation": "Уровень бана для игрока {0} установлен на {1}"
+    },
+    {
+        "phrase": "{0} must be an integer between {1} and {2} (inclusive)",
+        "comment": "This error message appears when a player runs a command with invalid parameters, e.g. '/magsize smg -7' instead of '/magsize smg 50'. Parameter 0: 'magazineSize', Parameter 1: 1, Parameter 2: 9999",
+        "translation": "Параметр {0} должен быть целым числом от {1} до {2} (включительно)."
+    },
+    {
+        "phrase": "Source index must be between 1 and 9",
+        "translation": "Индекс исходного пути должен быть от 1 до 9."
+    },
+    {
+        "phrase": "Destination index must be between 1 and 9",
+        "translation": "Индекс целевого пути должен быть от 1 до 9."
+    },
+    {
+        "phrase": "Source path has no waypoints",
+        "translation": "Исходный путь не имеет путевых точек"
+    },
+    {
+        "phrase": "Path successfully copied",
+        "translation": "Путь успешно скопирован"
+    },
+    {
+        "phrase": "Destination index invalid",
+        "translation": "Неверный индекс целевого пути"
+    },
+    {
+        "phrase": "Source index invalid",
+        "translation": "Неверный индекс исходного пути"
+    },
+    {
+        "phrase": "The server is full and you are now spectating",
+        "comment": "This message appears when you attempt to join the battle but the server is full",
+        "translation": "Сервер заполнен, поэтому вы помещены в наблюдатели"
+    },
+    {
+        "phrase": "Invalid number",
+        "comment": "This error message appears when running a command with a non-numerical parameter, e.g. '/speed hello' instead of '/speed 5.5'",
+        "translation": "Неверное число"
+    },
+    {
+        "phrase": "You must wait for the match to start before swapping teams",
+        "comment": "This error message appears when attempting to swap teams before the round/match/battle has started",
+        "translation": "Матч должен начаться, чтобы вы могли сменить команду."
+    },
+    {
+        "phrase": "Your report has been submitted",
+        "comment": "This message appears when successfully reporting another player for cheating/scamming/etc",
+        "translation": "Ваша жалоба отправлена"
+    },
+    {
+        "phrase": "Map preserved successfully",
+        "comment": "This message appears when successfully preserving the current state of the map (i.e. taking a copy of it). This is useful for recording trailers as we often want to revert back to a previous version of the map to re-record a shot",
+        "translation": "Карта успешно сохранена"
+    },
+    {
+        "phrase": "The map is not preserved",
+        "comment": "This error message appears when attempting to revert back to a previous version of the map, before the /preserve command has been run",
+        "translation": "Карта не сохранена"
+    },
+    {
+        "phrase": "Restoring is already in progress",
+        "comment": "This error message appears when running the /restore command when a previous version of the map is already being restored",
+        "translation": "Восстановление уже идет"
+    },
+    {
+        "phrase": "Map restoration started",
+        "comment": "This message appears when the map is being restored to a previously preserved state",
+        "translation": "Начато восстановление карты"
+    },
+    {
+        "phrase": "{0} is already spectating",
+        "comment": "This error message appears when attempting to make another player spectate (moderator ability) when they are already spectating. Parameter 0: 'fowenix'",
+        "translation": "{0} уже является наблюдателем"
+    },
+    {
+        "phrase": "Invalid argument {0}. Expected {1}",
+        "comment": "This error message appears when running a command with an invalid argument, e.g. '/forcemap aegis' instead of '/forcemap ad' (ad stands for aegis desert). Parameter 0: 'mapCode', Parameter 1: 'ad|cf|is|mc|st'",
+        "translation": "Недопустимый аргумент {0}. Ожидался {1}"
+    },
+    {
+        "phrase": "{0} is already on {1}",
+        "comment": "This error message appears when attempting to move a player to the same team. Parameter 0: 'Blade', Parameter 1: 'Aegis'",
+        "translation": "{0} уже в команде {1}"
+    },
+    {
+        "phrase": "Moved {0} to {1}",
+        "comment": "This message appears when successfully moving a player to another team. Parameter 0: 'Blade', Parameter 1: 'Aegis'",
+        "translation": "{0} перемещен в команду {1}"
+    },
+    {
+        "phrase": "{0} has been votekicked",
+        "comment": "This message shows when a player has been successfully votekicked. Parameter 0: 'JaredsBETTER'",
+        "translation": "{0} был исключен голосованием"
+    },
+    {
+        "phrase": "{0} has not been votekicked",
+        "comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
+        "translation": "{0} не был исключен"
+    },
+    {
+        "phrase": "Sandbox mode enabled",
+        "comment": "Sandbox mode is enabled, meaning players take no damage and have infinite ammo",
+        "translation": "Режим Песочницы включен"
+    },
+    {
+        "phrase": "Sandbox mode disabled",
+        "comment": "Sandbox mode is disabled, meaning the opposite of the above",
+        "translation": "Режим Песочницы отключен"
+    },
+    {
+        "phrase": "Trailer mode enabled",
+        "comment": "Trailer mode is enabled, meaning players can respawn instantly",
+        "translation": "Режим Трейлера включен"
+    },
+    {
+        "phrase": "Trailer mode disabled",
+        "comment": "Trailer mode is disabled, meaning the opposite of the above",
+        "translation": "Режим Трейлера отключен"
+    },
+    {
+        "phrase": "Eternal mode enabled",
+        "comment": "Eternal mode is enabled, meaning the match will not finish",
+        "translation": "Бесконечный режим включен"
+    },
+    {
+        "phrase": "Eternal mode disabled",
+        "comment": "Eternal mode is disabled, meaning the opposite of the above",
+        "translation": "Бесконечный режим отключен"
+    },
+    {
+        "phrase": "Advancing to the next stage",
+        "comment": "This message appears when the battle is advancing to the next stage/phase",
+        "translation": "Переход к следующему этапу"
+    },
+    {
+        "phrase": "Player not found",
+        "comment": "This error message appears when attempting to run a command on a player that doesn't exist",
+        "translation": "Игрок не найден"
+    },
+    {
+        "phrase": "Bots enabled permanently",
+        "comment": "This message appears when the lobby owner permanently enables bots in the lobby, which means the bots won't leave when the match finishes",
+        "translation": "Боты включены навсегда"
+    },
+    {
+        "phrase": "Bots disabled permanently",
+        "comment": "This message appears when the lobby owner permanently disables bots in the lobby, which means the bots leave when the match finishes",
+        "translation": "Боты отключены навсегда"
+    },
+    {
+        "phrase": "All players and spectators have been kicked",
+        "comment": "This message appears when everyone is misbehaving so a moderator kicks everyone out of the server",
+        "translation": "Все игроки и зрители были исключены"
+    },
+    {
+        "phrase": "Kicked",
+        "comment": "You have been kicked out of the lobby",
+        "translation": "Исключен"
+    },
+    {
+        "phrase": "{0} is now muted",
+        "comment": "This message appears when muting another player. Parameter 0: 'PadreToto'",
+        "translation": "{0} теперь заглушен"
+    },
+    {
+        "phrase": "{0} is now unmuted",
+        "comment": "This message appears when unmuting another player. Parameter 0: 'Tilitaliboss'",
+        "translation": "{0} больше не заглушен"
+    },
+    {
+        "phrase": "Successfully removed the timeout for {0}",
+        "comment": "This message appears when removing a player's timeout/temporary ban. Parameter 0: 'Dolpenguin'",
+        "translation": "Тайм-аут для игрока {0} удален успешно"
+    },
+    {
+        "phrase": "Player {0} is not timed out",
+        "comment": "This error message appears when attempting to remove a player's timeout/temporary ban, but they are not timed out. Parameter 0: 'Apoc'",
+        "translation": "Игрок {0} не заблокирован"
+    },
+    {
+        "phrase": "Now playing {0} on {1}",
+        "comment": "This message shows when other players voted to not kick a player. Parameter 0: 'Mumblez'",
+        "translation": "Сейчас играет {0} на {1}"
+    },
+    {
+        "phrase": "Player {0} has been timed out for {1} {2}",
+        "comment": "This message shows when a player is timed out / temporarily banned, meaning they can't join a server for X hours. Parameter 0: 'Decrare', Parameter 1: '3', Parameter 2: 'Hours' (or 'Hour', or the correct language-specific plural)",
+        "translation": "Игрок {0} заблокирован на {1} {2}"
+    },
+    {
+        "phrase": "Support",
+        "comment": "Supporting another player in battle",
+        "translation": "Поддерживать"
+    },
+    {
+        "phrase": "This GPU may not be compatible with the game. Please follow the instructions at {0} for help fixing this problem.",
+        "comment": "Startup error. Parameter 0: 'https://sectorsedge.com/support'",
+        "translation": "Этот графический процессор может быть несовместим с игрой. Следуйте инструкциям на {0}, чтобы решить эту проблему.."
+    },
+    {
+        "phrase": "This computer does not have the required {0} version installed. Please follow the instructions at {1} for help fixing this problem.",
+        "comment": "Startup error. Parameter 0: '.NET', Parameter 1: 'https://sectorsedge.com/support'",
+        "translation": "На этом компьютере не установлена необходимая версия {0}. Следуйте инструкциям на {1}, чтобы решить эту проблему.."
+    },
+    {
+        "phrase": "Sector's Edge has stopped responding. If the game crashes often, please follow the instructions at {0} for help fixing this problem.",
+        "comment": "Startup error. Parameter 0: 'https://sectorsedge.com/support'",
+        "translation": "Sector's Edge перестал отвечать. Если игра часто вылетает, следуйте инструкциям на {0}, чтобы решить эту проблему.."
+    },
+    {
+        "phrase": "This server will now shut down for a system update. You do not need to update your client and can continue playing on another server.",
+        "comment": "This message appears to let players know that the server is going to shut down",
+        "translation": "Этот сервер будет отключен для обновления. Вам не нужно обновлять ваш клиент и вы можете продолжать играть на другом сервере."
+    },
+    {
+        "phrase": "Your party cannot fit on one team and has been split up",
+        "comment": "This error message appears when the player's party of 4 players can't all fit on one team",
+        "translation": "Ваш отряд не может вместиться в одну команду и был разделен"
+    },
+    {
+        "phrase": "This lobby doesn't allow spectators",
+        "comment": "This error message appears when attempting to spectate in a lobby, but the lobby owner disabled spectators",
+        "translation": "В это лобби не допускаются наблюдатели"
+    },
+    {
+        "phrase": "{0} tried to start a votekick against {1}. It had no effect",
+        "comment": "This error message appears when a player attempts to kick a moderator. Parameter 0: 'Guffyfish', Parameter 1: 'Fora'",
+        "translation": "Игрок {0} попытался начать голосование против игрока {1}. Безуспешно"
+    },
+    {
+        "phrase": "Press {0} to restart",
+        "comment": "Trial instructions on how to restart the trial. Parameter 0: '[ R ]'",
+        "translation": "Нажмите {0}, чтобы перезапустить"
+    },
+    {
+        "phrase": "Fire",
+        "comment": "Hot burning fire",
+        "translation": "Огонь"
+    },
+    {
+        "phrase": "{0} damage modifier set to {1}",
+        "comment": "When recording a trailer, we can modify the amount of damage a player takes by changing their damage modifier. For example a damage modifier of 0.3 means the player takes -70% damage. Parameter 0: 'deWolf', Parameter 1: 0.5",
+        "translation": "Модификатор урона игрока {0} установлен на {1}."
+    },
+    {
+        "phrase": "{0} is used in {1} {2}. Click confirm to delete it",
+        "comment": "This confirmation text appears when deleting a preset that's still used in a loadout. Parameter 0: 'Heavy SMG', parameter 1: '3', parameter 2: 'Loadouts (or alternate plural version)",
+        "translation": "{0} используется в {1} {2}. Нажмите «Подтвердить», чтобы удалить его."
+    },
+    {
+        "phrase": "Confirm Delete",
+        "comment": "Confirm you want to delete this weapon preset",
+        "translation": "Подтвердить удаление"
+    },
+    {
+        "phrase": "Aiming",
+        "comment": "Aiming with a gun",
+        "translation": "Прицеливание"
+    },
+    {
+        "phrase": "Toggle Player Names",
+        "comment": "[Keybind]",
+        "translation": "Вкл/Выкл имена игроков"
+    },
+    {
+        "phrase": "Toggle Enemy Names (Trailer Mode)",
+        "comment": "Press this keybind to toggle whether enemy names are displayed (only works in Trailer Mode)",
+        "translation": "Вкл/Выкл имена врагов (режим Трейлера)"
+    },
+    {
+        "phrase": "Exhibit your building expertise with the Engineer and their aftermarket {0} modifications.",
+        "comment": "Parameter 0: 'MiDi', which is the name of the player's building/digging tool",
+        "translation": "Продемонстрируйте свой строительный опыт с Инженером и его контрабандными модификациями {0}."
+    },
+    {
+        "phrase": "Hue Shift",
+        "comment": "An offset applied to the hue component of a colour, e.g. 'hue shifted from red to yellow'",
+        "translation": "Вариация оттенка"
+    },
+    {
+        "phrase": "Bronze {0}",
+        "comment": "A bronze medal",
+        "translation": "Бронза {0}"
+    },
+    {
+        "phrase": "Silver {0}",
+        "comment": "A silver medal",
+        "translation": "Серебро {0}"
+    },
+    {
+        "phrase": "Gold {0}",
+        "comment": "A gold medal",
+        "translation": "Золото {0}"
+    },
+    {
+        "phrase": "Platinum {0}",
+        "comment": "A platinum medal",
+        "translation": "Платина {0}"
+    },
+    {
+        "phrase": "Teamplay",
+        "comment": "Working together as a team",
+        "translation": "Командная игра"
+    },
+    {
+        "phrase": "Distance travelled",
+        "comment": "How far a player travelled",
+        "translation": "Пройденное расстояние"
+    },
+    {
+        "phrase": "Killed by",
+        "comment": "How many times you have been killed by a weapon, e.g. 'Killed by SMG: 34'",
+        "translation": "Смертей от"
+    },
+    {
+        "phrase": "Destroyed",
+        "comment": "The player was destroyed by deWolf",
+        "translation": "Разрушено"
+    },
+    {
+        "phrase": "Fortifying {0} created",
+        "comment": "How many blocks the player has placed to fortify a zone. Parameter 0 is either 'block' or 'blocks'",
+        "translation": "Укрепляющих {0} создано"
+    },
+    {
+        "phrase": "{0} {1} detonated",
+        "comment": "How many Soltrium canisters the player has detonated. Parameter 0 is 'Soltrium'. Parameter 1 is either 'canister' or 'canisters'",
+        "translation": "{0} {1} подорвано"
+    },
+    {
+        "phrase": "Time aiming",
+        "comment": "How long the player spent aiming",
+        "translation": "Время прицеливания"
+    },
+    {
+        "phrase": "Time in air",
+        "comment": "How long the player spent in the air",
+        "translation": "Время в воздухе"
+    },
+    {
+        "phrase": "Time strafing",
+        "comment": "How long the player spent strafing",
+        "translation": "Время стрейфа"
+    },
+    {
+        "phrase": "Time sprinting",
+        "comment": "How long the player spent sprinting",
+        "translation": "Время бега"
+    },
+    {
+        "phrase": "Time sliding",
+        "comment": "How long the player spent sliding",
+        "translation": "Время в подкате"
+    },
+    {
+        "phrase": "Time crouching",
+        "comment": "How long the player spent crouching",
+        "translation": "Время в приседе"
+    },
+    {
+        "phrase": "Time swimming",
+        "comment": "How long the player spent swimming",
+        "translation": "Время плавания"
+    },
+    {
+        "phrase": "Neutral time",
+        "comment": "How long the player spent outside a zone",
+        "translation": "Нейтральное время"
+    },
+    {
+        "phrase": "Defensive time",
+        "comment": "How long the player spent defending a zone",
+        "translation": "Время защиты"
+    },
+    {
+        "phrase": "Offensive time",
+        "comment": "How long the player spent attacking a zone",
+        "translation": "Время атаки"
+    },
+    {
+        "phrase": "Playtime",
+        "comment": "How long the player spent playing the game",
+        "translation": "Время игры"
+    },
+    {
+        "phrase": "Defensive",
+        "comment": "The player was defensive",
+        "translation": "Защищающий"
+    },
+    {
+        "phrase": "Offensive",
+        "comment": "The player was offensive",
+        "translation": "Атакующий"
+    },
+    {
+        "phrase": "Neutral",
+        "comment": "The player was neutral",
+        "translation": "Нейтральный"
+    },
+    {
+        "phrase": "Trial",
+        "comment": "A time trial, e.g. 'The Building 2 Trial'",
+        "translation": "Испытание"
+    },
+    {
+        "phrase": "Particle delay",
+        "comment": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+        "translation": "Задержка частиц"
+    },
+    {
+        "phrase": "Advanced rendering setting that controls how many frames the particle engine is allowed to fall behind",
+        "comment": "Description for the 'Particle Delay' settings",
+        "translation": "Продвинутая настройка рендеринга, которая определяет, на сколько кадров может отставать движок частиц."
+    },
+    {
+        "phrase": "Failed",
+        "comment": "This error message appears when a command failed to run",
+        "translation": "Не удалось"
+    },
+    {
+        "phrase": "Headshots",
+        "comment": "2 headshots",
+        "translation": "Выстрелов в голову"
+    },
+    {
+        "phrase": "Frame",
+        "comment": "1 Frame, i.e. 1 frame per second",
+        "translation": "Кадр"
+    },
+    {
+        "phrase": "Frames",
+        "comment": "2 Frames, i.e. 2 frames per second",
+        "translation": "Кадров"
+    },
+    {
+        "phrase": "Medal",
+        "comment": "1 bronze medal",
+        "translation": "Медаль"
+    },
+    {
+        "phrase": "Medals",
+        "comment": "2 bronze medals",
+        "translation": "Медалей"
+    },
+    {
+        "phrase": "Match won",
+        "comment": "1 match won",
+        "translation": "Матч выигран"
+    },
+    {
+        "phrase": "Matches won",
+        "comment": "2 matches won",
+        "translation": "Матчей выиграно"
+    },
+    {
+        "phrase": "Match lost",
+        "comment": "1 match lost",
+        "translation": "Матч проигран"
+    },
+    {
+        "phrase": "Matches lost",
+        "comment": "2 matches lost",
+        "translation": "Матчей проиграно"
+    },
+    {
+        "phrase": "Updates",
+        "comment": "The game has had 3 updates recently",
+        "translation": "Обновлений"
+    },
+    {
+        "phrase": "Hit",
+        "comment": "1 hit, i.e. you hit an enemy once",
+        "translation": "Попадание"
+    },
+    {
+        "phrase": "Hits",
+        "comment": "2 hits",
+        "translation": "Попаданий"
+    },
+    {
+        "phrase": "Level",
+        "comment": "The player's skill level, which increases the more they play the game. Parameter 0: 50",
+        "translation": "Уровень"
+    },
+    {
+        "phrase": "Hipfire",
+        "comment": "Firing a weapon from the hip",
+        "translation": "От бедра"
+    },
+    {
+        "phrase": "Body",
+        "comment": "The part of a player that isn't their head",
+        "translation": "Тело"
+    },
+    {
+        "phrase": "Splash",
+        "comment": "Splash / area-of-effect damage from explosions",
+        "translation": "Сплеш"
+    },
+    {
+        "phrase": "Total",
+        "comment": "The whole amount",
+        "translation": "Общее"
+    },
+    {
+        "phrase": "Spot",
+        "comment": "To locate an object, e.g. \"They spot an enemy in a building\"",
+        "translation": "Обнаружить"
+    },
+    {
+        "phrase": "Distance",
+        "comment": "How far a player travelled",
+        "translation": "Расстояние"
+    },
+    {
+        "phrase": "Lose",
+        "comment": "You lose!",
+        "translation": "Поражение"
+    },
+    {
+        "phrase": "Destroy",
+        "comment": "Destroy the enemy tower",
+        "translation": "Разрушать"
+    },
+    {
+        "phrase": "Accuracy",
+        "comment": "How many of your shots hit a target when firing a gun",
+        "translation": "Точность"
+    },
+    {
+        "phrase": "Career",
+        "comment": "A player's career, a record of their achievements and stats",
+        "translation": "Карьера"
+    },
+    {
+        "phrase": "Create",
+        "comment": "Create a fortified position to attack the enemy",
+        "translation": "Создайте"
+    },
+    {
+        "phrase": "Killstreak",
+        "comment": "When you kill multiple enemies without dying, i.e. 'zepofan is on a 15 killstreak'",
+        "translation": "Серия убийств"
+    },
+    {
+        "phrase": "Longest",
+        "comment": "My longest killstreak is 7",
+        "translation": "Самая длинная"
+    },
+    {
+        "phrase": "Average",
+        "comment": "My average killstreak is 1.3",
+        "translation": "Средняя"
+    },
+    {
+        "phrase": "Alive",
+        "comment": "Not dead. It's alive!",
+        "translation": "В живых"
+    },
+    {
+        "phrase": "Strafe",
+        "comment": "To move left and right while facing forwards",
+        "translation": "Стрейф"
+    },
+    {
+        "phrase": "Still",
+        "comment": "Standing still",
+        "translation": "На месте"
+    },
+    {
+        "phrase": "Swim",
+        "comment": "Going for a swim in the pool",
+        "translation": "Плавать"
+    },
+    {
+        "phrase": "Air",
+        "comment": "The enemy was flying through the air",
+        "translation": "Воздухе"
+    },
+    {
+        "phrase": "Extract",
+        "comment": "To remove a resource from a rock, i.e. extract Soltrium",
+        "translation": "Добывать"
+    },
+    {
+        "phrase": "Defuse",
+        "comment": "To defuse or disarm a bomb or heated conversation",
+        "translation": "Обезвредить"
+    },
+    {
+        "phrase": "Deliver",
+        "comment": "It feels great to have a pizza delivered to your house",
+        "translation": "Доставить"
+    },
+    {
+        "phrase": "Return",
+        "comment": "When you're Christmas shopping but they send you the wrong thing so you need to return it",
+        "translation": "Вернуть"
+    },
+    {
+        "phrase": "Capture",
+        "comment": "To steal something from the enemy and store it securely",
+        "translation": "Захватить"
+    },
+    {
+        "phrase": "Death",
+        "comment": "1 death, i.e. how many times you died",
+        "translation": "Смерть"
+    },
+    {
+        "phrase": "Deaths",
+        "comment": "2 deaths",
+        "translation": "Смертей"
+    },
+    {
+        "phrase": "The default barrel is light with no downsides and no cost",
+        "comment": "Barrel description",
+        "translation": "Ствол по умолчанию. Бесплатный, легкий и без недостатков."
+    },
+    {
+        "phrase": "The extended barrel increases damage over distance",
+        "comment": "Barrel description",
+        "translation": "Удлиненный ствол увеличивает урон на расстоянии"
+    },
+    {
+        "phrase": "The choke reduces pellet spread",
+        "comment": "Barrel description",
+        "translation": "Чок уменьшает разброс дроби"
+    },
+    {
+        "phrase": "The compensator reduces recoil",
+        "comment": "Barrel description",
+        "translation": "Компенсатор снижает отдачу"
+    },
+    {
+        "phrase": "The accelerator increases projectile speed and damage over distance",
+        "comment": "Barrel description",
+        "translation": "Ускоритель увеличивает скорость снаряда и урон на расстоянии."
+    },
+    {
+        "phrase": "The beam splitter separates plasma projectiles into four smaller projectiles",
+        "comment": "Barrel description",
+        "translation": "Разделитель луча разделяет каждый плазменный снаряд на четыре меньшего размера."
+    },
+    {
+        "phrase": "The medium barrel is lighter and cheaper but has reduced projectile speed and damage over distance",
+        "comment": "Barrel description",
+        "translation": "Средний ствол легче и дешевле, но имеет меньшую скорость снаряда и урон на расстоянии."
+    },
+    {
+        "phrase": "The short barrel converts your Rail Gun into a Rail Pistol",
+        "comment": "Barrel description",
+        "translation": "Короткий ствол превращает ваш Rail Gun в Rail Pistol."
+    },
+    {
+        "phrase": "The {0} stops you from appearing on the minimap when firing",
+        "comment": "Barrel description. Parameter 0: 'silencer'",
+        "translation": "{0} позволяет вам не появляться на миникарте во время стрельбы."
+    },
+    {
+        "phrase": "Removing the grip from your gun increases recoil and reduces holster time",
+        "comment": "Foregrip description",
+        "translation": "Снятие рукояти с вашего оружия увеличивает отдачу и сокращает время на смену оружия."
+    },
+    {
+        "phrase": "The {0} grip reduces initial recoil and increases full-auto recoil",
+        "comment": "Foregrip description. Parameter 0: 'Stubby'",
+        "translation": "Рукоятка {0} уменьшает начальную отдачу и увеличивает отдачу в режиме автоматической стрельбы."
+    },
+    {
+        "phrase": "The {0} grip gives consistent recoil on all shots",
+        "comment": "Foregrip description. Parameter 0: 'Angled'",
+        "translation": "Рукоятка {0} обеспечивает постоянную отдачу."
+    },
+    {
+        "phrase": "The base loader has the slowest pump speed",
+        "comment": "Loader description",
+        "translation": "Стандартный лоадер имеет самую медленную скорость перезарядки"
+    },
+    {
+        "phrase": "The angled loader has a slightly faster pump speed",
+        "comment": "Loader description",
+        "translation": "Угловой лоадер имеет немного более высокую скорость перезарядки."
+    },
+    {
+        "phrase": "The vertical loader has the fastest pump speed",
+        "comment": "Loader description",
+        "translation": "Вертикальный лоадер имеет самую высокую скорость перезарядки"
+    },
+    {
+        "phrase": "The default magazine is small and quick to reload",
+        "comment": "Magazine description",
+        "translation": "Магазин по умолчанию. Маленький и быстро перезаряжается."
+    },
+    {
+        "phrase": "The extended magazine contains more bullets and is slower to reload",
+        "comment": "Magazine description",
+        "translation": "Расширенный магазин содержит больше снарядов и перезаряжается медленнее."
+    },
+    {
+        "phrase": "The large magazine stores enough Soltrium to fire two Orberator shots",
+        "comment": "Magazine description",
+        "translation": "В большом магазине достаточно Солтриума, чтобы произвести два выстрела из Orberator."
+    },
+    {
+        "phrase": "Default ammo gives a nice balance between damage and fire rate",
+        "comment": "Ammo description",
+        "translation": "Боеприпасы по умолчанию обеспечивают хороший баланс между уроном и скорострельностью."
+    },
+    {
+        "phrase": "Heavy ammo deals more damage but fires slower",
+        "comment": "Ammo description",
+        "translation": "Тяжелые боеприпасы наносят больше урона, но уменьшают скорострельность оружия."
+    },
+    {
+        "phrase": "Light ammo fires faster but deals less damage",
+        "comment": "Ammo description",
+        "translation": "Легкие боеприпасы увеличивают скорострельность оружия, но наносят меньше урона"
+    },
+    {
+        "phrase": "This ammo pierces through blocks and players in exchange for a slower fire rate",
+        "comment": "Ammo description",
+        "translation": "Этот вид боеприпасов пробивает блоки и игроков насквозь, но уменьшает скорострельность."
+    },
+    {
+        "phrase": "This ammo ricochets off walls up to {0} times",
+        "comment": "Ammo description. Parameter 0: '3'",
+        "translation": "Этот вид боеприпасов рикошетит от стен до {0} раз."
+    },
+    {
+        "phrase": "Huge chunks of metal, effective at killing to the head",
+        "comment": "Ammo description",
+        "translation": "Огромные куски металла. Эффективны для убийства в голову"
+    },
+    {
+        "phrase": "A large spread of tiny metal projectiles",
+        "comment": "Ammo description",
+        "translation": "Большая куча крошечных металлических снарядов"
+    },
+    {
+        "phrase": "Look around after firing to control the trajectory of this projectile",
+        "comment": "Ammo description",
+        "translation": "Траектория движения этого вида боеприпасов следует направлению прицела."
+    },
+    {
+        "phrase": "Three smaller rocket-powered projectiles that fire faster but deal less damage",
+        "comment": "Ammo description",
+        "translation": "Три ракеты меньшего размера. Выстреливаются быстрее, но наносят меньший урон."
+    },
+    {
+        "phrase": "Augmented plasma creates a larger explosion on impact",
+        "comment": "Ammo description",
+        "translation": "Аугментированная плазма создает больший взрыв при ударе"
+    },
+    {
+        "phrase": "These rounds stick to a wall before detonating",
+        "comment": "Ammo description",
+        "translation": "Боеприпасы этого вида прилипают к стене, прежде чем взорваться"
+    },
+    {
+        "phrase": "The rounds split into {0} projectiles on impact",
+        "comment": "Ammo description. Parameter 0: '3'",
+        "translation": "Этот тип боеприпасов распадается на {0} снарядов меньшего размера при попадании."
+    },
+    {
+        "phrase": "Overcharged plasma rounds fire faster but require a cooldown after {0} shots",
+        "comment": "Ammo description. Parameter 0: '2'",
+        "translation": "Перегруженные плазменные снаряды стреляют быстрее, но требуют время на охлаждение после {0} выстрелов."
+    },
+    {
+        "phrase": "Dispersion rounds fire slower and deal area-of-effect damage on impact",
+        "comment": "Ammo description",
+        "translation": "Дисперсионные снаряды стреляют медленнее, но при попадании наносят урон по области."
+    },
+    {
+        "phrase": "Ion rounds allow players and projectiles to temporarily travel through blocks",
+        "comment": "Ammo description",
+        "translation": "Ионные снаряды позволяют игрокам и снарядам временно проходить сквозь блоки"
+    },
+    {
+        "phrase": "Explosive payloads are explosive",
+        "comment": "Payload description",
+        "translation": "Взрывные боеприпасы взрываются"
+    },
+    {
+        "phrase": "Incendiary rounds set blocks on fire",
+        "comment": "Payload description",
+        "translation": "Зажигательные снаряды поджигают блоки"
+    },
+    {
+        "phrase": "Impact rounds really hurt",
+        "comment": "Payload description",
+        "translation": "Ударные патроны причиняют боль"
+    },
+    {
+        "phrase": "Nothing to see here, move along",
+        "comment": "Payload description",
+        "translation": "Здесь не на что смотреть, проходите мимо"
+    },
+    {
+        "phrase": "Ironsights are light and quick to aim with",
+        "comment": "Sight description",
+        "translation": "Мушка легкая и позволяет быстро прицеливаться."
+    },
+    {
+        "phrase": "Red dot sights provide good visibility in close range encounters",
+        "comment": "Sight description",
+        "translation": "Прицелы Красная точка обеспечивают хорошую видимость в бою на ближней дистанции."
+    },
+    {
+        "phrase": "2.0x sights have 2.0x zoom",
+        "comment": "Sight description",
+        "translation": "2-кратные прицелы дают 2-кратное увеличение"
+    },
+    {
+        "phrase": "4.0x sights have 4.0x zoom",
+        "comment": "Sight description",
+        "translation": "4-кратные прицелы дают 4-кратное увеличение"
+    },
+    {
+        "phrase": "The base stock doesn't have as much flavour as chicken stock",
+        "comment": "Stock description",
+        "translation": "Ничего лишнего - просто приклад."
+    },
+    {
+        "phrase": "Removing the stock reduces the holster time but increases recoil",
+        "comment": "Stock description",
+        "translation": "Снятие приклада сокращает время смены оружия, но увеличивает отдачу."
+    },
+    {
+        "phrase": "The {0} stock reduces recoil while aiming but increases the holster time",
+        "comment": "Stock description. Parameter 0: 'Tactical'",
+        "translation": "{0} приклад уменьшает отдачу при прицеливании, но увеличивает время смены оружия."
+    },
+    {
+        "phrase": "The mechanical trigger increases fire rate",
+        "comment": "Trigger description",
+        "translation": "Механический спусковой крючок увеличивает скорострельность"
+    },
+    {
+        "phrase": "The welded choke permanently reduces pellet spread",
+        "comment": "Choke description",
+        "translation": "Сваренный чок перманентно снижает разброс дроби"
+    },
+    {
+        "phrase": "The pneumatic choke reduces pellet spread over {0} seconds while aiming, and resets when firing",
+        "comment": "Choke description",
+        "translation": "Пневматический чок уменьшает разброс дроби через {0} секунд прицеливания. Разброс дроби возвращается в начальное состояние при выстреле."
+    },
+    {
+        "phrase": "The advanced choke reduces pellet spread over {0} seconds while aiming",
+        "comment": "Choke description",
+        "translation": "Усовершенствованный чок уменьшает разброс дроби через {0} секунд прицеливания."
+    },
+    {
+        "phrase": "This core spins to produce a faster fire rate",
+        "comment": "Core description",
+        "translation": "Вращающееся ядро для создано для увеличения скорострельности."
+    },
+    {
+        "phrase": "This core produces a laser that slices through blocks and enemies",
+        "comment": "Core description",
+        "translation": "Это ядро испускает лазер, который прорезает блоки и врагов."
+    },
+    {
+        "phrase": "This core generates 5 smaller orbs that each explode once",
+        "comment": "Core description",
+        "translation": "Это ядро генерирует 5 сфер поменьше, каждая из которых взрывается один раз."
+    },
+    {
+        "phrase": "The burst firing mechanism fires bursts of {0} shots",
+        "comment": "Mechanism description. Parameter 0: '3'",
+        "translation": "Механизм стрельбы очередями выстреливает очередями по {0} выстрелов."
+    },
+    {
+        "phrase": "This mechanism continuously fires bullets",
+        "comment": "Mechanism description",
+        "translation": "Этот механизм непрерывно выстреливает патроны"
+    },
+    {
+        "phrase": "Spinning",
+        "comment": "I'm spinning around, move out of my way. I know you're feeling me 'cause you like it like this",
+        "translation": "Вращающееся"
+    },
+    {
+        "phrase": "Strict teams",
+        "comment": "Stop players from switching teams",
+        "translation": "Строгие команды"
+    },
+    {
+        "phrase": "Stop players from switching teams",
+        "comment": "When Strict Teams is enabled, players can't swap teams",
+        "translation": "Не позволяет игрокам менять команду"
+    },
+    {
+        "phrase": "Strict teams enabled",
+        "comment": "Strict teams is enabled, meaning players can't swap teams",
+        "translation": "Строгие команды включены"
+    },
+    {
+        "phrase": "Strict teams disabled",
+        "comment": "Strict teams is disabled, meaning players can swap teams",
+        "translation": "Строгие команды отключены"
+    },
+    {
+        "phrase": "Packet loss",
+        "comment": "When network packets are lost between the client and server",
+        "translation": "Потеря пакетов"
+    },
+    {
+        "phrase": "No",
+        "context": "None",
+        "comment": "Does not exist, i.e. 'No foregrip equipped'",
+        "translation": "Нет"
+    },
+    {
+        "phrase": "Show spectator controls",
+        "comment": "Keybind that shows/hides the list of spectator controls",
+        "translation": "Показать элементы управления для наблюдателей"
+    },
+    {
+        "phrase": "Clamp Altitude",
+        "comment": "Keep your flying spectator camera at the same altitude",
+        "translation": "Высота камеры"
+    },
+    {
+        "phrase": "Smooth Camera",
+        "comment": "Smooth camera movement",
+        "translation": "Гладкая камера"
+    },
+    {
+        "phrase": "Anchor",
+        "comment": "Spectator control. Your camera rotates around a central 'anchor' point",
+        "translation": "Якорь"
+    },
+    {
+        "phrase": "Increase anchor distance",
+        "comment": "Increase the distance between the camera and the anchor position",
+        "translation": "Увеличить расстояние до якоря"
+    },
+    {
+        "phrase": "Decrease anchor distance",
+        "comment": "Decrease the distance between the camera and the anchor position",
+        "translation": "Уменьшить расстояние до якоря"
+    },
+    {
+        "phrase": "Increase camera speed",
+        "comment": "Increase the movement speed of the spectator camera",
+        "translation": "Увеличить скорость камеры"
+    },
+    {
+        "phrase": "Decrease camera speed",
+        "comment": "Decrease the movement speed of the spectator camera",
+        "translation": "Уменьшить скорость камеры"
+    },
+    {
+        "phrase": "Next player",
+        "comment": "Spectate the next player in the list",
+        "translation": "Следующий игрок"
+    },
+    {
+        "phrase": "Previous player",
+        "comment": "Spectate the previous player in the list",
+        "translation": "Предыдущий игрок"
+    },
+    {
+        "phrase": "Create path {0}",
+        "comment": "Players can create up to 9 paths for cameras to move along (for recording cinematic shots). Parameter 0: '4'",
+        "translation": "Создать путь {0}"
+    },
+    {
+        "phrase": "Play path {0}",
+        "comment": "This keybind plays the nth path. Parameter 0: '4'",
+        "translation": "Воспроизвести путь {0}"
+    },
+    {
+        "phrase": "Edit path {0}",
+        "comment": "This keybind edits the nth path. Parameter 0: '4'",
+        "translation": "Изменить путь {0}"
+    },
+    {
+        "phrase": "Select player {0} on team {1}",
+        "comment": "This keybind selects the nth player on the nth team. Parameter 0: '11', Parameter 1: '2'",
+        "translation": "Выбрать игрока {0} в команде {1}."
+    },
+    {
+        "phrase": "Networking HUD",
+        "comment": "Setting that controls whether the packet loss and desync networking icons show on the HUD",
+        "translation": "Сетевой HUD"
+    },
 	{
 		"phrase": "Debug",
 		"comment": "Debug a computer program",
@@ -7434,7 +7470,7 @@
 	{
 		"phrase": "Toggle Profiler",
 		"comment": "Toggles whether the debug profiler (records how long CPU and GPU tasks take to execute) should run",
-		"translation": "Вкл\/Выкл Профайлер"
+		"translation": "Вкл/Выкл Профайлер"
 	},
 	{
 		"phrase": "Autoplay",
@@ -8122,7 +8158,7 @@
 	{
 		"phrase": "Enemies will be highlighted if they are less than level {0} and have a KDR of {1} or less.\n\nDeal {2} damage to these players and earn {3} extra XP and Protons.\n\nChanges take effect on respawn. Peacekeeper has no effect in free for all game modes.",
 		"comment": "Description of the peacekeeper setting, which gives players a bonus if they choose to deal less damage to new players. Parameter 0: '20', Parameter 1: '1.0, Parameter 2: '50%', Parameter 3: '25%'",
-		"translation": "Враги, имеющие уровень ниже {0} и соотношение убийств\/смертей {1} или меньше, будут выделены особым цветом. Вы будете наносить таким игрокам {2} урона, но зарабатывать при этом {3} дополнительного опыта и протонов. Изменения вступают вв силу после респауна. Миротворец не действует в режиме игры бой-насмерть."
+		"translation": "Враги, имеющие уровень ниже {0} и соотношение убийств/смертей {1} или меньше, будут выделены особым цветом. Вы будете наносить таким игрокам {2} урона, но зарабатывать при этом {3} дополнительного опыта и протонов. Изменения вступают вв силу после респауна. Миротворец не действует в режиме игры бой-насмерть."
 	},
 	{
 		"phrase": "Downloading the map from the {0} Workshop...",
@@ -8257,657 +8293,549 @@
 	{
 		"phrase": "Outlines",
 		"comment": "Coloured outlines that render around players so you can tell which team they're on",
-		"translation": "Контуры",
-		"machine": true
+		"translation": "Очертания"
 	},
 	{
 		"phrase": "Press {0} to provide feedback",
 		"comment": "Instructions for providing feedback. Parameter 0: 'F1'",
-		"translation": "Нажмите {0}, чтобы оставить отзыв",
-		"machine": true
+		"translation": "Нажмите {0}, чтобы оставить отзыв"
 	},
 	{
 		"phrase": "{0}ms cooldown",
 		"comment": "Cooldown tooltip, i.e. '625ms cooldown'. ms = milliseconds. Cooldown refers to how long the player needs to wait before being able to build blocks",
-		"translation": "Перезарядка {0} мс",
-		"machine": true
+		"translation": "Время восстановления {0} мс"
 	},
 	{
 		"phrase": "Press {0} to change the origin",
 		"comment": "Instructions for changing which block in your pre-made structure is the origin\/center. Parameter 0: 'Enter'",
-		"translation": "Нажмите {0}, чтобы изменить исходную точку",
-		"machine": true
+		"translation": "Нажмите {0}, чтобы изменить исходную точку"
 	},
 	{
 		"phrase": "An update is available. Please update your game through Steam to continue playing",
 		"comment": "Update notification",
-		"translation": "Доступно обновление. пожалуйста, обновите игру через steam, чтобы продолжить играть",
-		"machine": true
+		"translation": "Доступно обновление. Пожалуйста, обновите игру через Steam, чтобы продолжить играть"
 	},
 	{
 		"phrase": "Reset keybinds",
 		"comment": "Reset to the default keyboard shortcuts",
-		"translation": "Сбросить сочетания клавиш",
-		"machine": true
+		"translation": "Сбросить привязки клавиш"
 	},
 	{
 		"phrase": "Would you like to play the tutorial?",
 		"comment": "Tutorial prompt when the game first starts up",
-		"translation": "Хотите пройти обучение??",
-		"machine": true
+		"translation": "Хотите пройти обучение?"
 	},
 	{
 		"phrase": "Click to confirm",
 		"comment": "Click again to confirm you want to reset your keybinds to default",
-		"translation": "Нажмите, чтобы подтвердить",
-		"machine": true
+		"translation": "Нажмите, чтобы подтвердить"
 	},
 	{
 		"phrase": "Fullscreen",
 		"comment": "[Keybind]",
-		"translation": "Полноэкранный",
-		"machine": true
+		"translation": "Полноэкранный режим"
 	},
 	{
 		"phrase": "Exclusive Fullscreen",
 		"comment": "[Keybind]",
-		"translation": "Эксклюзивный полноэкранный режим",
-		"machine": true
+		"translation": "Эксклюзивный полноэкранный режим"
 	},
 	{
 		"phrase": "Pick up deployable",
 		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
-		"translation": "Подобрать развертываемый",
-		"machine": true
+		"translation": "Подобрать оборудование"
 	},
 	{
 		"phrase": "Old Version",
 		"comment": "This server is running an old version of the game",
-		"translation": "Старая версия",
-		"machine": true
+		"translation": "Устаревшая версия"
 	},
 	{
 		"phrase": "Block pack",
 		"comment": "Store pack title. Blocks refer to 3D cubes\/voxels. This pack lets you customise them with skins",
-		"translation": "Блок-пакет",
-		"machine": true
+		"translation": "Набор блоков"
 	},
 	{
 		"phrase": "Exhibit your building expertise with these aftermarket {0} modifications.",
 		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
-		"translation": "Продемонстрируйте свой строительный опыт с этими модификациями {0} для вторичного рынка..",
-		"machine": true
+		"translation": "Продемонстрируйте свои строительные навыки с помощью этих нелегальных модификаций {0}."
 	},
 	{
 		"phrase": "Destruction",
 		"comment": "To destroy everything with explosions",
-		"translation": "Разрушение",
-		"machine": true
+		"translation": "Разрушение"
 	},
 	{
 		"phrase": "Los Angeles",
 		"comment": "Server location",
-		"translation": "Лос-Анджелес",
-		"machine": true
+		"translation": "Лос-Анджелес"
 	},
 	{
 		"phrase": "New Jersey",
 		"comment": "Server location",
-		"translation": "Нью-Джерси",
-		"machine": true
+		"translation": "Нью-Джерси"
 	},
 	{
 		"phrase": "Block Pack required",
 		"comment": "The player must own the Block Pack to equip this block skin",
-		"translation": "Требуется блочный пакет",
-		"machine": true
+		"translation": "Требуется Набор блоков"
 	},
 	{
 		"phrase": "Tutorial",
 		"comment": "A tutorial that shows players how to build",
-		"translation": "Руководство",
-		"machine": true
+		"translation": "Обучение"
 	},
 	{
 		"phrase": "Screen shake",
 		"comment": "Setting that controls whether the screen should shake when large structures fall down",
-		"translation": "Дрожание экрана",
-		"machine": true
+		"translation": "Дрожание экрана"
 	},
 	{
 		"phrase": "Controls whether the screen should shake when large structures fall down",
 		"comment": "Description for the 'Screen shake' setting",
-		"translation": "Определяет, должен ли экран трястись при падении больших конструкций.",
-		"machine": true
+		"translation": "Определяет, будет ли экран трястись при обрушении больших конструкций."
 	},
 	{
 		"phrase": "Move",
 		"comment": "To move around, i.e. tutorial instructions: '[WASD] Move'",
-		"translation": "Шаг",
-		"machine": true
+		"translation": "Передвижение"
 	},
 	{
 		"phrase": "Flag",
 		"comment": "Capture the flag",
-		"translation": "Флаг",
-		"machine": true
+		"translation": "Флаг"
 	},
 	{
 		"phrase": "Bomb",
 		"comment": "Plant the explosive bomb. Jake's butt is da bomb",
-		"translation": "Бомбить",
-		"machine": true
+		"translation": "Бомба"
 	},
 	{
 		"phrase": "You can't run back into your spawn area or rocket jump when holding the {0}.",
 		"comment": "Game mode instructions. Parameter 0 is either 'flag' or 'bomb'",
-		"translation": "Вы не можете вернуться в свою зону возрождения или совершить ракетный прыжок, удерживая {0}..",
-		"machine": true
+		"translation": "Вы не можете вернуться в свою зону возрождения или совершать ракетные прыжки при переносе {0}."
 	},
 	{
 		"phrase": "Stand in the zone to push it towards your enemy. Your team wins when the zone reaches the other side of the map.",
 		"comment": "Instructions for the Control Shift game mode",
-		"translation": "Встаньте в зону, чтобы подтолкнуть ее к врагу. ваша команда побеждает, когда зона достигает другой стороны карты.",
-		"machine": true
+		"translation": "Встаньте в зону, чтобы начать двигать ее во вражескую сторону. Ваша команда побеждает, когда зона достигает противоположного края карты."
 	},
 	{
 		"phrase": "Capture each zone in sequence. Your team wins when all zones are captured.",
 		"comment": "Instructions for the Breakthrough game mode",
-		"translation": "Захватывайте каждую зону последовательно. ваша команда побеждает, когда все зоны захвачены.",
-		"machine": true
+		"translation": "Последовательно захватывайте зоны. Ваша команда побеждает, когда захвачены все зоны."
 	},
 	{
 		"phrase": "Steal the enemy flag and return it to your base.",
 		"comment": "Instructions for the Capture the Flag game mode",
-		"translation": "Украсть вражеский флаг и вернуть его на свою базу.",
-		"machine": true
+		"translation": "Украдите вражеский флаг и принесите его на свою базу."
 	},
 	{
 		"phrase": "Pick up your team's bomb and deliver it to the enemy base.",
 		"comment": "Instructions for the Escort game mode",
-		"translation": "Подберите бомбу своей команды и доставьте ее на базу врага..",
-		"machine": true
+		"translation": "Подберите бомбу своей команды и доставьте ее на базу врага."
 	},
 	{
 		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
 		"comment": "Tutorial instructions",
-		"translation": "Также можно размещать готовые конструкции. выберите один с помощью радиала или переключитесь между ними. построить структуру в любом месте, чтобы продолжить.",
-		"machine": true
+		"translation": "Также можно размещать готовые постройки. Выберите одну с помощью радиального меню или используйте клавиши для переключения между ними. Разместите постройку в любом месте, чтобы продолжить."
 	},
 	{
 		"phrase": "Equip the digger and cut down this street light. Concrete blocks are weaker than metal blocks.",
 		"comment": "Tutorial instructions",
-		"translation": "Экипируйте экскаватор и вырубите этот уличный фонарь. бетонные блоки слабее, чем металлические блоки.",
-		"machine": true
+		"translation": "Экипируйте копатель и обрушьте этот фонарь. Бетонные блоки слабее, чем металлические."
 	},
 	{
 		"phrase": "Equip the Assault Rifle and shoot the crash target.",
 		"comment": "Tutorial instructions",
-		"translation": "Экипируйте штурмовую винтовку и стреляйте в цель.",
-		"machine": true
+		"translation": "Экипируйте штурмовую винтовку и стреляйте в цель."
 	},
 	{
 		"phrase": "Your GPU does not support {0}, which is required to run the game. Please update to the latest version of {1} and check for GPU driver updates. If this error still appears it is unlikely you will be able to run the game. More information is available at {2}",
 		"comment": "Startup error. Parameter 0: 'OpenGL 3.3'. Parameter 1: 'Windows'. Parameter 2: 'https:\/\/sectorsedge.com\/support'",
-		"translation": "Ваш графический процессор не поддерживает {0}, который необходим для запуска игры. обновите до последней версии {1} и проверьте наличие обновлений драйверов графического процессора. если эта ошибка все еще появляется, маловероятно, что вы сможете запустить игру. более подробная информация доступна на {2}",
-		"machine": true
+		"translation": "Ваш графический процессор не поддерживает {0}, необходимый для запуска игры. Обновите {1} до последней версии и проверьте наличие обновлений драйверов видеокарты. Если после этих действий ошибка все еще появляется, маловероятно, что вы сможете запустить игру. Более подробная информация доступна на {2}"
 	},
 	{
 		"phrase": "Out of bounds",
 		"comment": "A player is out of bounds when they run too far away from the objective",
-		"translation": "За границами",
-		"machine": true
+		"translation": "Вне зоны боевых действий"
 	},
 	{
 		"phrase": "Loadout statistics",
 		"comment": "Header text above the loadout's statistics, e.g. movement speed, player health, build distance",
-		"translation": "Статистика загрузки",
-		"machine": true
+		"translation": "Параметры набора снаряжения"
 	},
 	{
 		"phrase": "Loadout contents",
 		"comment": "Header text above the UI panel that shows each weapon\/utility\/grenade\/perk equipped in the loadout",
-		"translation": "Содержимое загрузки",
-		"machine": true
+		"translation": "Содержимое набора снаряжения"
 	},
 	{
 		"phrase": "Select a weapon",
 		"comment": "Header text above the list of weapons, prompting the user to select one",
-		"translation": "Выберите оружие",
-		"machine": true
+		"translation": "Выберите оружие"
 	},
 	{
 		"phrase": "Click to equip a weapon",
 		"comment": "Text prompting the user to click a loadout slot to equip a weapon",
-		"translation": "Нажмите, чтобы экипировать оружие",
-		"machine": true
+		"translation": "Нажмите, чтобы экипировать оружие"
 	},
 	{
 		"phrase": "Click to equip a utility",
 		"comment": "Text prompting the user to click a loadout slot to equip a utility, e.g. C4, Disruptor, Scanner",
-		"translation": "Нажмите, чтобы оборудовать утилиту",
-		"machine": true
+		"translation": "Нажмите, чтобы экипировать оборудование"
 	},
 	{
 		"phrase": "You are carrying the {0}",
 		"comment": "This text shows at the top of the screen after the player steals the enemy flag. Parameter 0: 'Flag' or 'Bomb'",
-		"translation": "Вы носите {0}",
-		"machine": true
+		"translation": "Вы несете {0}"
 	},
 	{
 		"phrase": "You are carrying the {0}. Press {1} to drop it",
 		"comment": "Instructions text that tells the player how to drop the enemy flag that they're holding. Parameter 0: 'V'",
-		"translation": "Вы носите {0}. нажмите {1}, чтобы бросить его",
-		"machine": true
+		"translation": "Вы несете {0}. Нажмите {1}, чтобы бросить его"
 	},
 	{
 		"phrase": "{0} boost active\n{1} remaining",
 		"comment": "How long the player's Proton\/XP boost has remaining. Boosts increase the amount of Protons\/XP a player earns, e.g. 'Active a 2.0x Boost'. Parameter 0: '2.0x', Parameter 1: '3h 14m' (i.e. 3 hours, 14 minutes)",
-		"translation": "Повышение {0} активно\n{1} осталось",
-		"machine": true
+		"translation": "Буст {0} активен\n осталось {1}"
 	},
 	{
 		"phrase": "Reserved",
 		"comment": "A slot in this server is reserved for a party member",
-		"translation": "Сдержанный",
-		"machine": true
+		"translation": "Зарезервирован"
 	},
 	{
 		"phrase": "Open log folder",
 		"comment": "Open the folder on your PC where log files are stored",
-		"translation": "Открыть папку журнала",
-		"machine": true
+		"translation": "Открыть папку логов"
 	},
 	{
 		"phrase": "Drop flag\/bomb",
 		"comment": "Keybind that drops the flag\/bomb that the player is carrying",
-		"translation": "Сбросить флаг\/бомбу",
-		"machine": true
+		"translation": "Бросить флаг\/бомбу"
 	},
 	{
 		"phrase": "Hazard",
 		"comment": "A yellow-and-black hazard themed block skin5",
-		"translation": "Опасность",
-		"machine": true
+		"translation": "Опасность"
 	},
 	{
 		"phrase": "Camouflage",
 		"comment": "A camoflague pattern",
-		"translation": "Камуфляж",
-		"machine": true
+		"translation": "Камуфляж"
 	},
 	{
 		"phrase": "Flip structure",
 		"comment": "Pressing this keybind will flip the structure vertically",
-		"translation": "Флип структура",
-		"machine": true
+		"translation": "Перевернуть постройку"
 	},
 	{
 		"phrase": "Your party has joined a {0} match on {1}. Auto joining in {2} {3}. Click here to cancel",
 		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'. Parameter 2 is '9', parameter 3 is 'second' or 'seconds'",
-		"translation": "Ваша группа присоединилась к матчу {0} на {1}. автоматическое объединение в {2} {3}. нажмите здесь, чтобы отменить",
-		"machine": true
+		"translation": "Ваш отряд присоединился к матчу {0} на карте {1}. Автоматическое присоединение через {2} {3}. Нажмите здесь, чтобы отменить"
 	},
 	{
 		"phrase": "This boost will increase the amount of {0} and XP you earn by {1}. Boost time is only used when in game.\n\nTime remaining: {2}\n\nClick to change the current boost",
 		"comment": "Proton pack description. Parameter 0: 'Protons'",
-		"translation": "Это повышение увеличит количество {0} и XP, которые вы зарабатываете, на {1}. время ускорения используется только в игре.\n\nОставшееся время: {2}\n\nНажмите, чтобы изменить текущее усиление",
-		"machine": true
+		"translation": "Буст увеличит количество {0} и XP, которые вы зарабатываете, на {1}. Время ускорения расходуется только во время матча.\n\nОставшееся время: {2}\n\nНажмите, чтобы изменить текущий буст"
 	},
 	{
 		"phrase": "New Version",
 		"comment": "This server is running a new version of the game",
-		"translation": "Новая версия",
-		"machine": true
+		"translation": "Новая версия"
 	},
 	{
 		"phrase": "Purchased",
 		"comment": "This player has purchased a pack",
-		"translation": "Куплено",
-		"machine": true
+		"translation": "Куплено"
 	},
 	{
 		"phrase": "Our servers are offline, please try again later",
 		"comment": "This error is shown if a player attempts to buy a pack from the store but our backend servers are offline",
-		"translation": "Наши серверы отключены, повторите попытку позже",
-		"machine": true
+		"translation": "Наши серверы отключены, повторите попытку позже"
 	},
 	{
 		"phrase": "Start",
 		"comment": "When you start scoping in",
-		"translation": "Начинать",
-		"machine": true
+		"translation": "В начале"
 	},
 	{
 		"phrase": "Gradual",
 		"comment": "Changing your sensitivity gradually as you scope in with a gun",
-		"translation": "Постепенно",
-		"machine": true
+		"translation": "Постепенно"
 	},
 	{
 		"phrase": "End",
 		"comment": "When you finish scoping in",
-		"translation": "Конец",
-		"machine": true
+		"translation": "В конце"
 	},
 	{
 		"phrase": "Double click to exit",
 		"comment": "Double click to close the game",
-		"translation": "Дважды щелкните, чтобы выйти",
-		"machine": true
+		"translation": "Намжмите дважды, чтобы выйти"
 	},
 	{
 		"phrase": "North America",
 		"comment": "Server region category, representing USA and Canada",
-		"translation": "Северная Америка",
-		"machine": true
+		"translation": "Северная Америка"
 	},
 	{
 		"phrase": "You gained:",
 		"comment": "Success message when redeeming a key. This is followed by a list of rewards, e.g. 'You gained: 10000 Protons'",
-		"translation": "Вы получили:",
-		"machine": true
+		"translation": "Вы получили:"
 	},
 	{
 		"phrase": "Not found",
 		"comment": "The file cannot be found",
-		"translation": "Не найден",
-		"machine": true
+		"translation": "Не найден"
 	},
 	{
 		"phrase": "Get back to the objective [{0}]",
 		"comment": "This text shows when the player moves out of bounds in-game. The first parameter is the time remaining till the player dies, i.e. '4.9'",
-		"translation": "Вернитесь к цели [{0}]",
-		"machine": true
+		"translation": "Вернитесь в бой [{0}]"
 	},
 	{
 		"phrase": "Gravity",
 		"comment": "How fast things fall",
-		"translation": "Сила тяжести",
-		"machine": true
+		"translation": "Гравитация"
 	},
 	{
 		"phrase": "Player health",
 		"comment": "How much health\/hit points a player has, e.g. 100 health means they can take 100 damage before dying",
-		"translation": "Здоровье игрока",
-		"machine": true
+		"translation": "Здоровье игроков"
 	},
 	{
 		"phrase": "Max loadout power",
 		"context": "Maximum loadout power",
 		"comment": "Each weapon has a power value, and the total power of all weapons must not exceed the maximum loadout power of 15",
-		"translation": "Максимальная мощность загрузки",
-		"machine": true
+		"translation": "Максимальная мощность наборов снаряжения"
 	},
 	{
 		"phrase": "Damage per mag",
 		"context": "Damage per magazine",
 		"comment": "The total amount of damage a weapon can output with a single magazine\/clip",
-		"translation": "Урон за магазин",
-		"machine": true
+		"translation": "Урон за магазин"
 	},
 	{
 		"phrase": "Click and drag to move around. Click in the green area to spawn",
 		"comment": "Instruction text telling the player to click in the green area to spawn\/respawn.",
-		"translation": "Щелкните и перетащите, чтобы переместиться. нажмите на зеленую область, чтобы появиться",
-		"machine": true
+		"translation": "Нажмите и перетащите, чтобы переместить камеру. Нажмите на зеленую область, чтобы возродиться"
 	},
 	{
 		"phrase": "Loadout uses banned weapons - unequip the {0} to spawn",
 		"comment": "Info text that shows when a player attempts to spawn with a loadout that contains banned weapons. Parameter 0: 'Rail Gun, Combat Shotgun'",
-		"translation": "В снаряжении используется запрещенное оружие — снимите {0}, чтобы появиться",
-		"machine": true
+		"translation": "В снаряжении используется запрещенное оружие — уберите {0}, чтобы возродиться"
 	},
 	{
 		"phrase": "Return to loadout",
 		"comment": "Return to the loadout customisation screen",
-		"translation": "Вернуться к загрузке",
-		"machine": true
+		"translation": "Вернуться к набору снаряжения"
 	},
 	{
 		"phrase": "Mods [{0}]",
 		"comment": "Abbreviation for armour modifications. Parameter 0: '3'",
-		"translation": "Моды [{0}]",
-		"machine": true
+		"translation": "Мод. [{0}]"
 	},
 	{
 		"phrase": "Devices",
 		"comment": "This refers to audio input\/output devices",
-		"translation": "Устройства",
-		"machine": true
+		"translation": "Устройства"
 	},
 	{
 		"phrase": "Proximity chat",
 		"comment": "Proximity voice chat lets you hear players talk when they are near by",
-		"translation": "Близкий чат",
-		"machine": true
+		"translation": "Пространственный чат"
 	},
 	{
 		"phrase": "Performance",
 		"comment": "This refers to how fast\/optimised the game is",
-		"translation": "Производительность",
-		"machine": true
+		"translation": "Производительность"
 	},
 	{
 		"phrase": "Audio sample rate",
 		"comment": "Setting that controls whether the game outputs sound at 48KHz, 96KHz or 192KHz",
-		"translation": "Частота дискретизации аудио",
-		"machine": true
+		"translation": "Частота дискретизации аудио"
 	},
 	{
 		"phrase": "Log all keyboard input",
 		"comment": "Setting that logs all keyboard input to a file",
-		"translation": "Записывать весь ввод с клавиатуры",
-		"machine": true
+		"translation": "Записывать весь ввод с клавиатуры"
 	},
 	{
 		"phrase": "Used for diagnosing input lag issues",
 		"comment": "Description for the 'Log all keyboard input' setting",
-		"translation": "Используется для диагностики проблем с задержкой ввода",
-		"machine": true
+		"translation": "Используется для диагностики проблем задержки ввода"
 	},
 	{
 		"phrase": "Use crosshair when ADS",
 		"comment": "Setting that controls whether your crosshair UI remains visible when scoping (ADS = aiming down the sights)",
-		"translation": "Используйте прицел, когда ADS",
-		"machine": true
+		"translation": "Видимость перекрестия при прицеливании"
 	},
 	{
 		"phrase": "Controls whether your crosshair UI remains visible when scoping",
 		"comment": "Controls whether the player's UI crosshair remains visible when scoping (ADS = aiming down the sights)",
-		"translation": "Контролирует, остается ли ваш пользовательский интерфейс прицела видимым при обзоре",
-		"machine": true
+		"translation": "Определяет, остается ли перекрестие видимым при прицеливании"
 	},
 	{
 		"phrase": "Scope sensitivity start",
 		"comment": "[Setting] Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
-		"translation": "Начало чувствительности прицела",
-		"machine": true
+		"translation": "Изменение чувствительности при прицеливании"
 	},
 	{
 		"phrase": "Controls whether your scoping sensitivity is applied when starting to scope, gradually as you scope in, or only when fully scoped",
 		"comment": "Tooltip for the Scope Sensitivity Start setting",
-		"translation": "Определяет, применяется ли ваша чувствительность к области действия при начале области действия, постепенно по мере ее увеличения или только при полной области действия.",
-		"machine": true
+		"translation": "Определяет, когад изменяется чувствительность при прицеливании: в начале, в конце или плавно во время перехода."
 	},
 	{
 		"phrase": "Screen",
 		"comment": "Screen settings like window resolution, max frames per second, vertical sync (VSync)",
-		"translation": "Экран",
-		"machine": true
+		"translation": "Экран"
 	},
 	{
 		"phrase": "Post Processing",
 		"comment": "Effects applied once the game is rendered, such as lighting, ambient occlusion, bloom, crepuscular rays",
-		"translation": "Постобработка",
-		"machine": true
+		"translation": "Постобработка"
 	},
 	{
 		"phrase": "Shadows",
 		"comment": "Dark areas that light can't reach",
-		"translation": "Тени",
-		"machine": true
+		"translation": "Тени"
 	},
 	{
 		"phrase": "Controls whether entities (e.g. Disruptors and Scanners) cast shadows",
 		"comment": "Description for the 'Entity block shadows' setting",
-		"translation": "Контролирует, отбрасывают ли тени объекты (например, разрушители и сканеры).",
-		"machine": true
+		"translation": "Контролирует, отбрасывают ли тени объекты (например, мины-ловушки и сканеры)."
 	},
 	{
 		"phrase": "Controls whether outlines should be off, focused (only appear when looking at {0}), or always on",
 		"comment": "Description for the 'Enemy outlines' setting. Parameter 0: either 'enemies' or 'friendlies'",
-		"translation": "Контролирует, должны ли контуры быть выключены, сфокусированы (появляются только при взгляде на {0}) или всегда включены",
-		"machine": true
+		"translation": "Контролирует, должны ли очертания быть выключены, включены в фокусе (появляются только при взгляде на {0}) или всегда включены"
 	},
 	{
 		"phrase": "This server will restart for maintenance at the end of the match. You can continue playing on another server",
 		"comment": "Chat message that lets players know the server will shut down at the end of the match",
-		"translation": "Этот сервер будет перезапущен для обслуживания в конце матча. вы можете продолжать играть на другом сервере",
-		"machine": true
+		"translation": "Этот сервер будет перезапущен для обслуживания в конце матча. Вы можете продолжить играть на другом сервере"
 	},
 	{
 		"phrase": "This server will now restart for maintenance. You can continue playing on another server.",
 		"comment": "Chat message that lets players know the server is shutting down",
-		"translation": "Теперь этот сервер будет перезапущен для обслуживания. вы можете продолжать играть на другом сервере.",
-		"machine": true
+		"translation": "Сейчас этот сервер будет перезапущен для обслуживания. Вы можете продолжить играть на другом сервере."
 	},
 	{
 		"phrase": "The map does not exist in the {0} Workshop",
 		"comment": "Error message that indicates the the map does not exist in the Steam Workshop. Parameter 0: \"Steam\"",
-		"translation": "Карта не существует в мастерской {0}",
-		"machine": true
+		"translation": "Карта не существует в мастерской {0}"
 	},
 	{
 		"phrase": "Unable to reserve slots for your party as the server is full",
 		"comment": "Error message that tells the party leader that that slots could not be reserved for their party",
-		"translation": "Невозможно зарезервировать слоты для вашей вечеринки, так как сервер переполнен.",
-		"machine": true
+		"translation": "Невозможно зарезервировать слоты для вашего отряда, так как сервер переполнен."
 	},
 	{
 		"phrase": "This server will update to {0} at the end of the match. You MUST update your client through {1} to rejoin servers",
 		"comment": "The server will update to a new version when the match finishes. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
-		"translation": "Этот сервер обновится до {0} в конце матча. вы ДОЛЖНЫ обновить свой клиент через {1}, чтобы присоединиться к серверам",
-		"machine": true
+		"translation": "Этот сервер обновится до версии {0} в конце матча. Вам НУЖНО обновить свой клиент через {1}, чтобы снова присоединиться к серверам"
 	},
 	{
 		"phrase": "This server will now update to {0}. You MUST update your client through {1} to rejoin servers",
 		"comment": "The server will now update to a new version. Parameter 0: 'Version 2.0.3'. Parameter 2: 'Steam'",
-		"translation": "Теперь этот сервер будет обновлен до {0}. вы ДОЛЖНЫ обновить свой клиент через {1}, чтобы присоединиться к серверам",
-		"machine": true
+		"translation": "Сейчас этот сервер будет обновлен до версии {0}. Вам НУЖНО обновить свой клиент через {1}, чтобы снова присоединиться к серверам"
 	},
 	{
 		"phrase": "{0} {1} reserved for your party. They will expire in {2} {3}",
 		"comment": "Notification that a slot(s) in the server have been reserved for your party. Parameter 0: '3', parameter 1: 'slot' or 'slots', parameter 2: '1', parameter 3: 'minute'",
-		"translation": "{0} {1} зарезервировано для вашей вечеринки. Срок их действия истекает через {2} {3}.",
-		"machine": true
+		"translation": "{0} {1} зарезервировано для вашего отряда. Срок действия резерва истекает через {2} {3}."
 	},
 	{
 		"phrase": "{0} reserved {1} were not claimed by your party and have expired",
 		"comment": "Notification that a slot(s) you reserved for your party have expired. Parameter 0: '3', parameter 1: 'slot' or 'slots'",
-		"translation": "{0} зарезервировано {1} не были востребованы вашей стороной и срок их действия истек",
-		"machine": true
+		"translation": "{0} зарезервированных {1} не были использованы вашим отрядом и срок их действия истек"
 	},
 	{
 		"phrase": "Content Creator",
 		"comment": "This player shares Sector's Edge content on YouTube\/Twitch\/etc.",
-		"translation": "Создатель контента",
-		"machine": true
+		"translation": "Создатель контента"
 	},
 	{
 		"phrase": "{0} Prototype",
 		"comment": "Refers to an early version of a robot that was not yet completed. It is unstable and dangerous. Parameter 0: 'Nova'",
-		"translation": "{0} Прототип",
-		"machine": true
+		"translation": "{0} Прототип"
 	},
 	{
 		"phrase": "Earned {0} {1} trial medals",
 		"comment": "Description of how a player earned the 'Midi Certified' title. Paramter 0: '9'. Paramter 1: 'bronze'",
-		"translation": "Получены пробные медали {0} {1}.",
-		"machine": true
+		"translation": "Получены медали испытаний: {1}- {0}."
 	},
 	{
 		"phrase": "Level {0} accuracy title, earned from headshot and direct points",
 		"comment": "Description of how a player earned the 'Fatal' accuracy title. Paramter 0: '1'",
-		"translation": "Титул точности уровня {0}, получаемый за попадание в голову и прямые очки.",
-		"machine": true
+		"translation": "Титул точности уровня {0}, получаемый за попадание в голову и очки прямых попаданий."
 	},
 	{
 		"phrase": "Level {0} melee title, earned by stabbing enemies",
 		"comment": "Description of how a player earned the 'Butcher' accuracy title. Paramter 0: '1'",
-		"translation": "Звание ближнего боя уровня {0}, получаемое за нанесение ударов ножом врагам.",
-		"machine": true
+		"translation": "Титул ближнего боя уровня {0}, получаемый за нанесение ударов врагам в ближнем бою."
 	},
 	{
 		"phrase": "Level {0} building title, earned by fortifying objectives and dealing damage with the digger",
 		"comment": "Description of how a player earned the 'Reinforcer' building title. Paramter 0: '1'",
-		"translation": "Звание здания уровня {0}, получаемое за укрепление целей и нанесение урона копателем.",
-		"machine": true
+		"translation": "Титул строительства уровня {0}, получаемый за укрепление целей и нанесение урона копателем."
 	},
 	{
 		"phrase": "Level {0} objective title, earned by capturing objectives",
 		"comment": "Description of how a player earned the 'Raider' objective title. Paramter 0: '1'",
-		"translation": "Звание цели уровня {0}, получаемое за захват целей.",
-		"machine": true
+		"translation": "Титул цели уровня {0}, получаемый за захват целей."
 	},
 	{
 		"phrase": "Level {0} teamplay title, earned from spot assists and avenging or saving teammates",
 		"comment": "Description of how a player earned the 'Uplifter' teamplay title. Paramter 0: '1'",
-		"translation": "Титул командной игры уровня {0}, зарабатываемый точечными передачами, местью или спасением товарищей по команде.",
-		"machine": true
+		"translation": "Титул командной игры уровня {0}, получаемый за помощь обнаружением, отмщение или спасение товарищей по команде."
 	},
 	{
 		"phrase": "Helped record a trailer",
 		"comment": "Description for the 'Trailer Crew' title",
-		"translation": "Помогли записать трейлер",
-		"machine": true
+		"translation": "За помощь в записи трейлера"
 	},
 	{
 		"phrase": "Played {0} before it was released on Steam",
 		"comment": "Description for the 'Alpha Tester' title. Parameter 0: 'Sector's Edge'",
-		"translation": "Играл в {0} до выхода в Steam.",
-		"machine": true
+		"translation": "Играл в {0} до выхода в Steam."
 	},
 	{
 		"phrase": "Helped test {0} on the beta branch",
 		"comment": "Description for the 'Beta Tester' title. The beta branch is a private branch (e.g. a code branch on GitHub) on Steam where players can play experimental builds of the game. Parameter 0: 'Sector's Edge'",
-		"translation": "Помог протестировать {0} на бета-ветке",
-		"machine": true
+		"translation": "За помощь в тестировании {0} на бета-ветке"
 	},
 	{
 		"phrase": "Bought the Supporter or Engineer pack",
 		"comment": "Description for the 'Supporter' title",
-		"translation": "Купил пакет поддержки или инженера",
-		"machine": true
+		"translation": "За покупку набора Спонсора или набора Инженера"
 	},
 	{
 		"phrase": "Open Beta Launch Week sale - ",
 		"comment": "Launch week sale, all store packs are 50% off",
-		"translation": "Распродажа на неделе запуска открытого бета-тестирования - ",
-		"machine": true
+		"translation": "Недельная распродажа в честь запуска открытого бета-тестирования - "
 	},
 	{
 		"phrase": "all packs are {0} off!",
 		"comment": "All packs 50% off for the launch week sale",
-		"translation": "все пакеты {0} отключены!",
-		"machine": true
+		"translation": "все наборы дешевле на {0}!"
 	},
 	{
 		"phrase": "Before you destroy everything in sight, let's show you how to play. Run over to the designated area at the top of the beach.",
 		"comment": "Tutorial instructions",
-		"translation": "Прежде чем вы уничтожите все в поле зрения, давайте покажем вам, как играть. бегите к обозначенному участку в верхней части пляжа.",
-		"machine": true
+		"translation": "Прежде чем вы начнете уничтожать все на своем пути, давайте покажем вам, как играть. Бегите к обозначенному участку на пляже."
 	},
 	{
 		"phrase": "Climb over the wall to enter the city. Equip the {0} and click and drag to place a line of blocks.",
 		"comment": "Tutorial instructions. Parameter 0: 'MiDi', which is a tool the player can use to build and place blocks",
-		"translation": "Перелезьте через стену, чтобы войти в город. оборудуйте {0} и щелкните и перетащите, чтобы разместить линию блоков.",
-		"machine": true
+		"translation": "Преодолейте стену, чтобы войти в город. Экипируйте {0}, щелкните и перетащите, чтобы разместить линию блоков."
 	},
 	{
 		"phrase": "You also have an {0} and {1} in your current loadout, which are perfect for destroying large buildings. Press the escape key to complete the tutorial.",
 		"comment": "Tutorial instructions",
-		"translation": "У вас также есть {0} и {1} в вашем текущем снаряжении, которые идеально подходят для разрушения больших зданий. нажмите клавишу выхода, чтобы завершить обучение.",
-		"machine": true
+		"translation": "В вашем наборе снаряжения также есть {0} и {1}, идеально подходящие для разрушения больших зданий. Нажмите ESC, чтобы завершить обучение."
 	}
 ]
+
