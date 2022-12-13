@@ -2290,8 +2290,7 @@
 	{
 		"phrase": "Your party has joined a {0} match on {1}. Click here to join",
 		"comment": "This notification shows when joining a match. Parameter 0 is the game mode, i.e. 'Breakthrough'. Parameter 1 is the map, i.e. 'Railway'",
-		"translation": "Ваша группа присоединилась к матчу. Режим - {0}, карта - {1}. Нажмите здесь, чтобы присоединиться",
-		"machine": true
+		"translation": "Ваш отряд присоединился к матчу. Режим - {0}, карта - {1}. Нажмите здесь, чтобы присоединиться"
 	},
 	{
 		"phrase": "Ammo",
@@ -8301,176 +8300,147 @@
 	{
 		"phrase": "Outlines",
 		"comment": "Coloured outlines that render around players so you can tell which team they're on",
-		"translation": "Контуры",
-		"machine": true
+		"translation": "Очертания"
 	},
 	{
 		"phrase": "Press {0} to provide feedback",
 		"comment": "Instructions for providing feedback. Parameter 0: 'F1'",
-		"translation": "Нажмите {0}, чтобы оставить отзыв",
-		"machine": true
+		"translation": "Нажмите {0}, чтобы оставить отзыв"
 	},
 	{
 		"phrase": "{0}ms cooldown",
 		"comment": "Cooldown tooltip, i.e. '625ms cooldown'. ms = milliseconds. Cooldown refers to how long the player needs to wait before being able to build blocks",
-		"translation": "Перезарядка {0} мс",
-		"machine": true
+		"translation": "Время восстановления {0} мс"
 	},
 	{
 		"phrase": "Press {0} to change the origin",
 		"comment": "Instructions for changing which block in your pre-made structure is the origin\/center. Parameter 0: 'Enter'",
-		"translation": "Нажмите {0}, чтобы изменить исходную точку",
-		"machine": true
+		"translation": "Нажмите {0}, чтобы изменить исходную точку"
 	},
 	{
 		"phrase": "An update is available. Please update your game through Steam to continue playing",
 		"comment": "Update notification",
-		"translation": "Доступно обновление. пожалуйста, обновите игру через steam, чтобы продолжить играть",
-		"machine": true
+		"translation": "Доступно обновление. Пожалуйста, обновите игру через Steam, чтобы продолжить играть"
 	},
 	{
 		"phrase": "Reset keybinds",
 		"comment": "Reset to the default keyboard shortcuts",
-		"translation": "Сбросить сочетания клавиш",
-		"machine": true
+		"translation": "Сбросить привязки клавиш"
 	},
 	{
 		"phrase": "Would you like to play the tutorial?",
 		"comment": "Tutorial prompt when the game first starts up",
-		"translation": "Хотите пройти обучение??",
-		"machine": true
+		"translation": "Хотите пройти обучение?"
 	},
 	{
 		"phrase": "Click to confirm",
 		"comment": "Click again to confirm you want to reset your keybinds to default",
-		"translation": "Нажмите, чтобы подтвердить",
-		"machine": true
+		"translation": "Нажмите, чтобы подтвердить"
 	},
 	{
 		"phrase": "Fullscreen",
 		"comment": "[Keybind]",
-		"translation": "Полноэкранный",
-		"machine": true
+		"translation": "Полноэкранный режим"
 	},
 	{
 		"phrase": "Exclusive Fullscreen",
 		"comment": "[Keybind]",
-		"translation": "Эксклюзивный полноэкранный режим",
-		"machine": true
+		"translation": "Эксклюзивный полноэкранный режим"
 	},
 	{
 		"phrase": "Pick up deployable",
 		"comment": "[Keybind] Pick up a C4 \/ Disruptor \/ Extractor \/ Reinforcer that we placed on the wall",
-		"translation": "Подобрать развертываемый",
-		"machine": true
+		"translation": "Подобрать оборудование"
 	},
 	{
 		"phrase": "Old Version",
 		"comment": "This server is running an old version of the game",
-		"translation": "Старая версия",
-		"machine": true
+		"translation": "Устаревшая версия"
 	},
 	{
 		"phrase": "Block pack",
 		"comment": "Store pack title. Blocks refer to 3D cubes\/voxels. This pack lets you customise them with skins",
-		"translation": "Блок-пакет",
-		"machine": true
+		"translation": "Набор блоков"
 	},
 	{
 		"phrase": "Exhibit your building expertise with these aftermarket {0} modifications.",
 		"comment": "Parameter 0: 'MiDi', which is the name of the player's building\/digging tool",
-		"translation": "Продемонстрируйте свой строительный опыт с этими модификациями {0} для вторичного рынка..",
-		"machine": true
+		"translation": "Продемонстрируйте свои строительные навыки с помощью этих нелегальных модификаций {0}."
 	},
 	{
 		"phrase": "Destruction",
 		"comment": "To destroy everything with explosions",
-		"translation": "Разрушение",
-		"machine": true
+		"translation": "Разрушение"
 	},
 	{
 		"phrase": "Los Angeles",
 		"comment": "Server location",
-		"translation": "Лос-Анджелес",
-		"machine": true
+		"translation": "Лос-Анджелес"
 	},
 	{
 		"phrase": "New Jersey",
 		"comment": "Server location",
-		"translation": "Нью-Джерси",
-		"machine": true
+		"translation": "Нью-Джерси"
 	},
 	{
 		"phrase": "Block Pack required",
 		"comment": "The player must own the Block Pack to equip this block skin",
-		"translation": "Требуется блочный пакет",
-		"machine": true
+		"translation": "Требуется Набор блоков"
 	},
 	{
 		"phrase": "Tutorial",
 		"comment": "A tutorial that shows players how to build",
-		"translation": "Руководство",
-		"machine": true
+		"translation": "Обучение"
 	},
 	{
 		"phrase": "Screen shake",
 		"comment": "Setting that controls whether the screen should shake when large structures fall down",
-		"translation": "Дрожание экрана",
-		"machine": true
+		"translation": "Дрожание экрана"
 	},
 	{
 		"phrase": "Controls whether the screen should shake when large structures fall down",
 		"comment": "Description for the 'Screen shake' setting",
-		"translation": "Определяет, должен ли экран трястись при падении больших конструкций.",
-		"machine": true
+		"translation": "Определяет, будет ли экран трястись при обрушении больших конструкций."
 	},
 	{
 		"phrase": "Move",
 		"comment": "To move around, i.e. tutorial instructions: '[WASD] Move'",
-		"translation": "Шаг",
-		"machine": true
+		"translation": "Передвижение"
 	},
 	{
 		"phrase": "Flag",
 		"comment": "Capture the flag",
-		"translation": "Флаг",
-		"machine": true
+		"translation": "Флаг"
 	},
 	{
 		"phrase": "Bomb",
 		"comment": "Plant the explosive bomb. Jake's butt is da bomb",
-		"translation": "Бомбить",
-		"machine": true
+		"translation": "Бомба"
 	},
 	{
 		"phrase": "You can't run back into your spawn area or rocket jump when holding the {0}.",
 		"comment": "Game mode instructions. Parameter 0 is either 'flag' or 'bomb'",
-		"translation": "Вы не можете вернуться в свою зону возрождения или совершить ракетный прыжок, удерживая {0}..",
-		"machine": true
+		"translation": "Вы не можете вернуться в свою зону возрождения или совершать ракетные прыжки при переносе {0}."
 	},
 	{
 		"phrase": "Stand in the zone to push it towards your enemy. Your team wins when the zone reaches the other side of the map.",
 		"comment": "Instructions for the Control Shift game mode",
-		"translation": "Встаньте в зону, чтобы подтолкнуть ее к врагу. ваша команда побеждает, когда зона достигает другой стороны карты.",
-		"machine": true
+		"translation": "Встаньте в зону, чтобы начать двигать ее во вражескую сторону. Ваша команда побеждает, когда зона достигает противоположного края карты."
 	},
 	{
 		"phrase": "Capture each zone in sequence. Your team wins when all zones are captured.",
 		"comment": "Instructions for the Breakthrough game mode",
-		"translation": "Захватывайте каждую зону последовательно. ваша команда побеждает, когда все зоны захвачены.",
-		"machine": true
+		"translation": "Последовательно захватывайте зоны. Ваша команда побеждает, когда захвачены все зоны."
 	},
 	{
 		"phrase": "Steal the enemy flag and return it to your base.",
 		"comment": "Instructions for the Capture the Flag game mode",
-		"translation": "Украсть вражеский флаг и вернуть его на свою базу.",
-		"machine": true
+		"translation": "Украдите вражеский флаг и принесите его на свою базу."
 	},
 	{
 		"phrase": "Pick up your team's bomb and deliver it to the enemy base.",
 		"comment": "Instructions for the Escort game mode",
-		"translation": "Подберите бомбу своей команды и доставьте ее на базу врага..",
-		"machine": true
+		"translation": "Подберите бомбу своей команды и доставьте ее на базу врага."
 	},
 	{
 		"phrase": "You can also place pre-built structures. Select one using the radial, or toggle between them. Build a structure anywhere to continue.",
@@ -8481,20 +8451,17 @@
 	{
 		"phrase": "Equip the digger and cut down this street light. Concrete blocks are weaker than metal blocks.",
 		"comment": "Tutorial instructions",
-		"translation": "Экипируйте экскаватор и вырубите этот уличный фонарь. бетонные блоки слабее, чем металлические блоки.",
-		"machine": true
+		"translation": "Экипируйте копатель и сломайте этот фонарь. Бетонные блоки слабее, чем металлические."
 	},
 	{
 		"phrase": "Equip the Assault Rifle and shoot the crash target.",
 		"comment": "Tutorial instructions",
-		"translation": "Экипируйте штурмовую винтовку и стреляйте в цель.",
-		"machine": true
+		"translation": "Экипируйте штурмовую винтовку и стреляйте в цель."
 	},
 	{
 		"phrase": "Your GPU does not support {0}, which is required to run the game. Please update to the latest version of {1} and check for GPU driver updates. If this error still appears it is unlikely you will be able to run the game. More information is available at {2}",
 		"comment": "Startup error. Parameter 0: 'OpenGL 3.3'. Parameter 1: 'Windows'. Parameter 2: 'https:\/\/sectorsedge.com\/support'",
-		"translation": "Ваш графический процессор не поддерживает {0}, который необходим для запуска игры. обновите до последней версии {1} и проверьте наличие обновлений драйверов графического процессора. если эта ошибка все еще появляется, маловероятно, что вы сможете запустить игру. более подробная информация доступна на {2}",
-		"machine": true
+		"translation": "Ваш графический процессор не поддерживает {0}, необходимый для запуска игры. Обновите {1} до последней версии и проверьте наличие обновлений драйверов видеокарты. Если после этих действий ошибка все еще появляется, маловероятно, что вы сможете запустить игру. Более подробная информация доступна на {2}"
 	},
 	{
 		"phrase": "Out of bounds",
